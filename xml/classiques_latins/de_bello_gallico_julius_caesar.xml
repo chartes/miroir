@@ -1,0 +1,1107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_bello_gallico_julius_caesar" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">De bello Gallico</hi>, C. Julius Caesar</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2017"/>
+        <idno>http://enc-sorbonne.fr/miroir/heroides_ovidius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>C. Julius Caesar</author>, <title>De bello Gallico</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-17">début de la notice, ajout des imprimés</change>
+      <change who="#HRC" when="2014-03">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine</head>
+        <p>La France a joué un rôle considérable dans la tradition manuscrite du <title>De bello Gallico</title> puisqu’on en conserve encore aujourd’hui trois manuscrits copiés au IX<hi rend="sup">e</hi> siècle dans le royaume de France. C’est de là que proviennent les plus anciens témoins de chacune des branches de la tradition manuscrite : la branche alpha, qui rassemble des manuscrits contenant uniquement le
+          <title>De bello Gallico</title>, et la branche béta, dont chaque témoin renferme l’ensemble du « corpus caesarianum ». Pourtant César ne figure pas parmi les auteurs recommandés par Alcuin. En Europe, c’est surtout en France et en Allemagne qu’il est cité, par des auteurs qui ne semblent connaître du « corpus caesarianum » que le seul
+          <title>De bello Gallico</title>. Il faut attendre le XIV<hi rend="sup">e</hi> siècle pour que croisse l’intérêt pour César, un intérêt stylistique, politique et stratégique. Admirée par Dante et Pétrarque, l’oeuvre de César gagna en popularité durant les derniers siècles du Moyen Age. En Italie, César se situe au coeur du débat humaniste sur la tyrannie.</p>
+        <listBibl>
+          <bibl>V. Brown,  <title>The Textual Transmission of Caesar’s "Civil War"</title>, Leyde, 1972 (Mnemosyne Supplement, 23)</bibl>
+          <bibl>V. Brown, « Latin Manuscripts of Caesar’s "Gallic War" », dans
+            <title>Palaeographia, diplomatica et archivistica. Studi in onore di Giuliu Battelli</title>, t. I, Rome, 1979, p. 105-157</bibl>
+          <bibl>O. Mazal, <title>Die Überlieferung der antiken Literatur im Buchdruck der 15. Jahrhunderts</title>, Stuttgart, 2003, t. III, p. 678-686</bibl>
+        </listBibl>
+      </div>
+      <div type="presentation">
+        <head>Textes français non retenus</head>
+        <div type="textenonretenu">
+          <head>
+            <title>Fet des Romains</title>
+          </head>
+          <p>Une traduction complète du <title>De bello Gallico</title>, avec quelques additions, a été insérée dans l’ouvrage intitulé <title>Faits des Romains compilé ensemble de Saluste et de Suetone et de Lucain</title>, par un clerc originaire d’Ile-de-France, vers 1213-1214 ; bien que le compilateur suive pas à pas son modèle latin, il a constamment adapté le texte à la civilisation de son temps. La traduction de César occupe les chapitres I à XXIII de la seconde partie des
+            <title>Faits</title>.</p>
+          <listBibl>
+            <bibl>L. F. Flutre, <title>Li Fet des Romains dans les littératures française et italienne du XIII<hi rend="sup">e</hi> au XIV<hi rend="sup">e</hi> siècle</title>, Paris, 1932</bibl>
+            <bibl>L. F. Flutre, <title>Les manuscrits des Faits des Romains</title>, Paris, 1933</bibl>
+            <bibl>J. Leeker, <title>Die Darstellung Cäsars in den romanischen Literaturen des Mittelalters</title>, Francfort-sur-le-Main, 1986 (Annalecta romanica, 50)</bibl>
+          </listBibl>
+        </div>
+        <div type="textenonretenu">
+          <head><persName type="ancien">Jean Mansel</persName>, <title>Histoires romaines</title></head>
+          <p>La longue biographie de César est presque toute entière tirée des
+            <title>Faits</title>, légèrement abrégés. Ce qui y échappe est emprunté principalement à <persName type="ancien">Jacques de Guise</persName>.</p>
+          <listBibl>
+            <bibl>L. F. Flutre, <title>Li Fet des Romains dans les littératures française et italienne du XIII<hi rend="sup">e</hi> au XIV<hi rend="sup">e</hi> siècle</title>, Paris, 1932, p. 128-132</bibl>
+          </listBibl>
+        </div>
+        <div type="textenonretenu">
+          <head><persName type="ancien">Jean Mansel</persName>, <title>Fleur des histoires</title> (version longue)</head>
+          <p>Le second livre de cette rédaction, entièrement consacrée à l’histoire romaine est composé, avec de minimes retouches, des <title>Histoires romaines</title> du même compilateur.</p>
+          <listBibl>
+            <bibl>L. F. Flutre, <title>Li Fet des Romains dans les littératures française et italienne du XIII<hi rend="sup">e</hi> au XIV<hi rend="sup">e</hi> siècle</title>, Paris, 1932, p. 133-152</bibl>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="duchesne">
+        <head>Traduction de <persName type="traducteur">Jean Duchesne</persName></head>
+        <dateline>
+          <date notBefore="1473" notAfter="1473">1473</date>
+        </dateline>
+        <p>C'est en 1473 que Jean Duchesne ou du Quesne, de Lille, copiste et écrivain de l’entourage des ducs de Bourgogne, rédigea cette traduction à l'intention de Charles le Téméraire. Elle comprend dix livres : les livres II à IX correspondent aux huit livres de l’original. Pour son travail, l’auteur s’est aidé de la traduction de César confectionnée par le traducteur anonyme des <title>Faits des Romains</title>. Les deux livres complémentaires racontent la période de la vie de César antérieure à la conquête des Gaules et la Guerre civile ; ils sont empruntés principalement aux
+          <title>Faits des Romains</title> et à la <title>Chronique de Baudouin d’Avesnes</title>. Le texte est truffé de réflexions morales et d’allusions à la grandeur de la maison de Bourgogne et de Charles le Téméraire.</p>
+        <listBibl>
+          <bibl>R. Bossuat, « Traductions françaises des commentaires de César à la fin du XVe siècle », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 253-411, part. 253-373</bibl>
+          <bibl>M. Schmidt-Chazan, « Les traduction de la Guerre des Gaules et le sentiment national au Moyen Age », dans <title>Annales de Bretagne et des pays de l’Ouest</title>, t. 87, 1980, p. 387-407</bibl>
+          <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I : <title>Première partie : Edition partielle de la traduction de <title>La Guerre des Gaules</title> par Jean du Quesne (1473-1474)</title> [édition critique des deux premiers livres ; cf. <title>Positions des thèses soutenues par les élèves de la promotion de 2006 pour obtenir le diplôme d’archiviste paléographe</title>, Paris, 2006, p. 161-165]</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, C111</bibl>
+        </listBibl>
+        <div type="edition epilogue">
+          <head>Épilogue</head>
+          <p>d’après le ms</p>
+          <msDesc type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 38</idno>
+            </msIdentifier>
+            <p>La conclusion du translateur de ce present volume des Commentaires Gayus Julius Cesar, soixante dixieme et derrenier chapittre [rubr.]. Affin que par mes paroles soit mon intencion cogneue ay je icy pour conclusion ce present chapitre adjousté, car comme j’ay dit au commenchement de mon premier livre, oncques ne fut mon intention de vouloir corrigier ou reprendre nulz de mes predicesseurs escripvains des fais rommains dont plusieurs grans volumes sont enluminez par divers orateurs souffissans, et meismement de Julle Cesar, duquel j’ay principalement mon oeuvre poursievye, car leurs haultains stilles les ont privez de toute reprehention, ains au petit entendement a moy presté du createur de toutes choses me suis avanchié de ceste presente lecture rediger ou rude et maternel stille dont elle est comblee, esperant de selon ma petite faculté patente aulcunement obtemperer au <pb n="f. 311c" /> noble vouloir et plaisir du tres puissant Charles, par la grace de Dieu duc de Bourgoingne et de Brabant, etc., mon plus que tres redoubté seigneur et prince, ayant entendu icellui son dit plaisir estre tel, laquele seule advertence me constraingny comme a commandement exprés, desirant de tout mon coeur faire chose agreable et prouffitable a sa noble personne, a qui certes tout coeur leal doibt obedience et service, considerant aussi que en l’affaire de sa guerre quant a corpulence ne pouoie augmenter son ost que d’un seul homme en nombre qui eust esté petite translation a hault vouloir et ancoires moindre subside a ses grans entreprinses ; pourquoy, comme cellui qui vouldroie se possible m’estoit sa puissance accroistre de nombre infini, laissant la possibilité corporele assez cogneue, moy arrestant a l’espirituele vigueur, contendi par mon labeur en la translation de si patentes victoires par Cesar et les siens achievees contre le meismes poeuple a nous tant ennemy, considere meismement la juste querele menee par duc tant puissant moriginé par mesure a lui de trop plus prouffitablement satisfaire qu’en ma seule obla<pb n="f. 311d"/>tion corporele comme en icelle puissent tous nobles coeurs de sa compagnie concepvoir fruit vertueux de bellicque saveur. Ainsi doncques pour ma conclusion, moy, indigne et non souffissant de telle oeuvre ozer emprendre et icelle presenter a personne tant noble, suplie le plus humblement que faire puis a la benigne grace accoustumee a vous, mon tres redoubté seigneur, pardon de ma hardie cuidance, requerant icelle estre excusee par bon vouloir entier, qui est la cause principal de ceste mon emprinse, non mie comme j’ay dit en mon prologue, ygnorant vostre agu entendement latiniste plus que souffissant a la substance d’iceulx commentaires comprendre, ains pour les causes dessus dittes et aussi pour la donner entendible, plaisante et prouffitable a tous ceulx qui pas ne sont fondez en eloquence latine, requerant aussi, mon tresredoubté seigneur, vostre utille correction es faultes commises, et se riens y a malsonnant a vostre plaisir, le trachier de toute memoire, attribuant les biens d’icelle aux composeurs, non pas a l’indigne escripvain qui de tel loz se cognoist non coulpable. <lb/>Atant prent fin ce present
+              <pb n="f. 312a"/> volume lequel au commandement de hault et excellent prince et mon redoubté seigneur Loÿs seigneur de la Gruthus conte de Vincestre prince de Steenhuse et cetera, et chevallier d’honneur de ma tresrredoutee dame madame la duchesse d’Austeriche de Bourgogne de Brabant et cetera a esté escript et parachiefvé a Gand en l’an de grace mil CCCCIIIIxx et deux. [rubr.]</p>
+          </msDesc>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 38</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 1a</locus>
+                <title>Table des rubriques</title>
+                <incipit>Cy commence la table des rubrices de ce volume intitulé les commentaires Cesar et contient en soy dix livres partiaulx
+                  <foreign>(rubr.)</foreign>
+                  <lb/>et premierement <foreign>(rubr.)</foreign>
+                  <lb/>Cy commence le prologue du translateur de ce traittié contenant en soy les dix livres partiaulx des commentaires Julius Cesar premier empereur de Romme...</incipit>
+              </msItem>
+              <msItem>
+                <locus>f. 26a</locus>
+                <title>Prologue du traducteur</title>
+                <incipit>Cy commence le prologue du translateur de ce traitié contenant en soy les dix livres particuliers des Commentaires Julius Cesar premier emperere de Romme <foreign>(rubr.)</foreign> A tres hault tres puissant tres excellent tres crestien et victorien prince et mon tres redoubté seigneur Charles par la grace de Dieu duc de Bourgoingne de Lothriilz de Brabant de Lembourg et de Gueldres conte de Flandres d’Artois et de Bourgoingne palatin de Haynnau de Hollande de Zeellande et de Namur marquis du saint Empire seigneur de Frise de Salins et de Malines pour tant que au commencement de toutes choses contendans a bonne fin selon la sentence des anchiens sages doibt estre grace requise a celluy ou celle ou ceulx de qui on desire impetrer…</incipit>
+              </msItem>
+              <msItem>
+                <title>Livre I</title>
+                <msItem>
+                  <locus>f. 28b</locus>
+                  <title>Prologue général</title>
+                  <incipit>S’ensieult ung prologue general et premier chapitre <foreign>(rubr.)</foreign>. Homme, creature de Dieu raisonnable qui degaste le temps en oyseuse vit comme beste brutte du tout encline et obeissant a son ventre et voluptez inraisonnabes qui est grant vitupere a formation tant digne…</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 29b</locus>
+                  <title>Préambule</title>
+                  <incipit>S’ensieult ung preambule du translateur pour donner son intention plus entendible le chapittre deuxieme
+                    <foreign>(rubr.)</foreign> A celle fin doncques de eschievier la murmure toute souspection soubstraite des lisans ausquelz requier correction…</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 30d-91c</locus>
+                  <title>Texte</title>
+                  <incipit>Du commencement de noblesse comment elle poeult estre maintenue et de sa condicion le chapitre IIIe
+                    <foreign>(rubr.)</foreign> Diverses oppinions furent jadis entre les anchiens pour effonser et droitturierement confermer par quelz meurs vertus ou conditions vraye noblesse pouoit estre augmentee et exaulchie...</incipit>
+                  <explicit>...comme endurchis en violence de sang humain eulx jugans tout appartenir.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <locus>f. 91c-93c</locus>
+                <title>Prologue aux livres II-VIII</title>
+                <incipit>Atant prent fin mon premier livre particulier de ce traittié et s’ensieuvra orendroit le second, ouquel sera divisee la Gaule du temps de lors en trois parties et puis diray comment Cesar se maintint au commenchement de sa conqueste comment il desconfy les Helvechois comment les Germains ou Suaves qui transportez s’estoit deça le Rin et ont depuis causé divers poeples s’esmeurent aussi contre luy et de la grant <pb n="f. 91d"/>desconfiture que Cesar en fist ceste annee
+                  <foreign>(rubr.)</foreign>. <lb/>S’ensieut ung petit preambule sur l’oeuvre des huit livres particuliers sequens <foreign>(rubr.)</foreign>
+                  <lb/>prologue <foreign>(rubr.)</foreign>
+                  <lb/>Pour raffreschir l’entendement de ma poursieute contendue es huit livres sequens...</incipit>
+                <explicit>En moy pardonnant ma simplesse ou deffaulte pour le bon vouloir en quoy arrogance n’a lieu. <lb/>Cy fine ung prologue du translateur de ceste matiere remonstrant en substance la conduite d’icelle. <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+              <msItem>
+                <locus>f. 94a</locus>
+                <title>Livre II</title>
+                <incipit>Cy commence le second livre de ce traittié intitulé les Commentaires de Cesar selon la propre sentence Cesaire traittant en soy les adventures de la premiere annee gaulloise qui contient trente chapittres partiaulz ou premier desquelz il traitte de la separation des trois parties de toute la Gaule <foreign>(rubr.)</foreign>
+                  <lb/>Julius Celsus <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <foreign>Galia est omnis divisa in partes tres et cetera</foreign> Gaulle que a present nous appellons France ou temps que Gayus Jullius Cesar y fut par le senat rommain transmis...</incipit>
+                <explicit><locus>f. 117b</locus>... ouquel appert manifestement que l’orgueil d’un prince ou poeuple arrogant est en brief terme renversé quant Fortune le destine ou le bonheur de l’adversaire le dessert.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre III</title>
+                <incipit>Cy aprés s’ensieult le tiers livre particulier de ce traittié et consequamment la seconde annee de la vacquation Cesaire en la conqueste gauloise ouquel sera contenu comment presques tous les Belgiens et meismement les Nerviens ou Tournisiens furent mis en la subgection rommaine a leur mortelle desconfiture <foreign>(rubr.)</foreign>
+                  <lb/>Cy commence le troisieme livre particulier de ce traittié intitulé les Commentaires Cesar lequel contient en soy dix sept chapitres partiaulz ou premier desquelz il est traittié comment Cesar en son yvernement fust adverty de la rebellion des Belgiens <pb n="f. 117d"/> contre les Romains et comment il envoia contre eulz atout deux legions Quintus Peius legat rommain et d’autres faiz. Le chapitre premier.
+                  <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <foreign>Cum esset Cesar et cetera</foreign> Ainsi comme Cesar estoit en la Gaulle Cyterioire par de la les monts usant en la maniere devant ditte...</incipit>
+                <explicit><locus>f. 130b</locus>... et dont ancoires durent les traces quy en vouldroit leurs vertus cultiver <lb/>Atant prent fin le troisieme livre particulier de ce traittié et s’ensieut le quart ouquel sera contenu des aventures de Galba envahi entour les Alpes de la bataille vennoise c’est de Vennes en Bretaigne et de la distribution de l’exercite rommain en quatre ou en cinq parties et cetera.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre IV</title>
+                <incipit>Cy commence le quatriesme livre particulier de ce traittié contenant en soy quatorse chapitre partiaulz dont le premier fait mention de la contenance Galba vers les Alpes et comment aprés plusieurs victoires il se loga pour yverner. <foreign>(rubr.)</foreign>
+                  <lb/>Et premierement comment Servius Galba atout la douzieme legion que Cesar lui bailla garda les confins de Lombardie et Savoie contre les agaitteurs des chemins Le chapitre premier. <foreign>(rubr.)</foreign>
+                  <lb/><foreign>Cum in Ytaliam Cesar et cetera</foreign> Comme Cesar en Ytalie s’en alast selon sa coustume yverner <pb n="f. 130d"/> il bailla a Servius Galba la douzieme legion moult bien garnie...</incipit>
+                <explicit><locus>f. 141d</locus>... mais luy venu en Bretaigne permist ses gens yverner entour les citez qui lui avoient fait la guerre l’esté passé
+                  <lb/>Cy prent a tant fin le quart livre particulier de ce traitié et s’ensieut le quint ouquel est traittié des Ubiens et autres nations germanicques des naissances des rivieres de Meuse et du Rin Du premier passage du Rin par Cesar et de sa premiere allee en Bretaigne.
+                  <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+              <msItem>
+                <title>Livre V</title>
+                <incipit><locus>f. 142a</locus>Cy commence le cinquieme livre particulier de ce traitié ouquel entre autres choses sera traittié comment Cesar passa premierement le Rin a grant ost et de son premier voiage en Bretaigne et contient en soy sez chapitres partiaulz <foreign>(rubr.)</foreign>
+                  <lb/>Et premierement comment les Usipates et Theuteriens germains passent le Rin des meurs aux Suaves et comment iceulx Usipates et Theuteriens sourprindrent les Menapiens Le chapitre premier.
+                  <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <foreign>Eaque secuta est et cetera</foreign> Avant l’yver passé de cest an ouquel Gayus Pompeyus et Marcus Crassus estoient consulz...</incipit>
+                <explicit><locus>f. 157b</locus>... qui lors lui sembloient satisfaire aux graces donnees de Fortune. <lb/>Cy prent fin le cinquieme livre particulier de ce traittié et s’ensieut le sixieme ouquel est contenu le retour second en Bretaigne et d’autres faiz.
+                  <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+              <msItem>
+                <title>Livre VI</title>
+                <incipit>Cy commence le sixieme livre particulier de ce traitié intitulé des Commentaires Cesar contenant en soy vingt et cincq chapitres partiaulz traittans du second retour Cesar en Bretaigne de la trahison faitte a Ambiorix premiers a Titurius et puis a Ciceron contendue et d’autres fais
+                  <foreign>(rubr.)</foreign>
+                  <lb/>Et premierement ou premier traictié est comment Cesar ordonna expressement a ses connestables et capitaines preparer son oirre pour l’esté prochain passer en Bretaigne comment les Epiriens vindrent a merchy et comment Cesar retourna aux hibernaulx Le chapitre premier.
+                  <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <pb n="f. 157d"/>
+                  <foreign>Domicius et Claudius et cetera</foreign> L’an du consulat Domicius et Publius Claudius aprés les hibernaulz produits passa Cesar en Ytalie...</incipit>
+                <explicit><locus>f. 181d</locus>Si fut aprés ceste victoire ung petit de temps Gaule devers Cesar paisible <lb/>Cy fine la table des rubrices du sixieme livre particulier de ce traittié et s’ensieult la table des rubrices du septieme ouqueil est traittié des Menapiens par Cesar et des Treveriens par Labienus vainqus du second passage du Rin des meurs des Gaulois et Germains de la parfaicte destruction des Eburonnois subgetz a Ambiorix et de la fortune des Sigumbroiz transportez aux tentes Cyceron et cetera. <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+              <msItem>
+                <title>Livre VII</title>
+                <incipit><locus>f. 182a</locus>Cy commence le septieme livre particulier de ce traittié qui contient en soy dix sept chapitres partiaulz
+                  <foreign>(rubr.)</foreign>
+                  <lb/>Et premierement comment Jullius Cesar requist ayde a Pompee pour la meutacion nouvelle que il doubtoit entre les Gauloiz qui se rebellerent et comment de rechief il mist les Nerviens a obeissance. Le chapitre premier <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <foreign>Multis de causis et cetera</foreign> Pour plusieurs causes doubteuses asçavoir de plus grant meutacion gaulloise que oncques mais et pour la perte des legions et capitaines...</incipit>
+                <explicit>Il se tyra en <pb n="f. 198a"/> Ytalie pour illec tenir ses assises touchant l’accés de son office. <lb/>Cy fine le septieme livre particulier de ce traittié et s’ensieult le huitieme ouquel sera declairé comment toute Gaule fut pres destruite soubz la conduite d’un duc françois appellé Vercingetorix esleu par le commun.
+                  <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+              <msItem>
+                <title>Livre VIII</title>
+                <incipit><locus>f. 198a</locus>Cy commence le huitieme livre particulier de ce traitié parlant de la destruction de Gaule et contient en soy cinquante et deux chapitres partiaulx <foreign>(rubr.)</foreign>
+                  <lb/>Et premierement comment les Gauloiz aprés le partement de Jule Cesar se rebellerent aux Rommains et la cause pourquoy. Le chapitre premier <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <foreign>Quieta Gallia et cetera</foreign> Gaulle appaisie par la maniere que j’ay dessus dit Cesar qui ne voyoit rebellion nulle apparoir...</incipit>
+                <explicit><locus>f. 236a</locus>... l’orgueil et envieuse malvoeullance longuement couverte apparu toute manifeste comme vous orrez en poursieuvant les livres sequens. <lb/>Atant fine le VIIIe livre de ces presens Commentaires et s’ensieult le IXe selon Jullius Celsus compillé de la totale subjection de Gaule, lequel contient en soy XXVI chapitres partiaulx. <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+              <msItem>
+                <title>Livre IX</title>
+                <msItem>
+                  <title>Prologue de Julius Celsus</title>
+                  <incipit><locus>f. 236b</locus>S’ensieult le prologue de Jullius Celsus sur l’oeuvre sequente a maniere de excusation envers les lisans
+                    <foreign>(rubr.)</foreign>
+                    <lb/>Et premierement <foreign>(rubr.)</foreign>
+                    <lb/>Ceste derreniere annee de la totale subjection gauloise comme vous orrez dedaigna Cesar rescripre au Senat...</incipit>
+                </msItem>
+                <msItem>
+                  <title>Texte</title>
+                  <incipit><locus>f. 237b</locus>Cy commence le noeufieme livre particulier de ceste oeuvre intitulé les Commentaires Cesar continué par Julius Celsus comme il appert par son prologue qui contient en soy XXVI chapitres partiaulz. Ou premier chapittre dudit livre est traitié comment les Gaulloiz par nouveau conseil rencommencierent murmure de guerre et comment Cesar de tout ce adverti les chastoia asprement. Le chapitre premier <foreign>(rubr.)</foreign>
+                    <lb/>
+                    <foreign>Caym Galia devicta et cetera</foreign> Toute Gaule vainque et subjuguee comme Cesar n’eust en l’esté superiore nul temps cessé de guerroier...</incipit>
+                  <explicit>...car deux en renvoia il a Romme ainsi comme je diray ou premier chapittre de mon dit dernier livre sequent. <lb/>Cy prent fin le noeufieme livre particulier de ce traittié intitulé les Commentaires Cesar et s’ensieut le dixieme et derrenier qui contient en soy soixante et dix chapitres ouquel sont plusieurs belles briefves histoires des batailles <pb n="f. 256d"/> civiles rommaines narrees d’entre Cesar et Pompee et la verité des fins morteles aux dessus diz deux nobles champions et plusieurs aultres vaillans hommes sans nombre d’une partie et d’autre. <foreign>(rubr.)</foreign></explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre X</title>
+                <incipit><locus>f. 257a</locus>Cy commence le dixieme et derrenier livre particulier des Commentaires de Cesar quy contient en soy soixante et dix chapittres partiaulx <foreign>(rubr.)</foreign>
+                  <lb/>Et premierement comment pour plusieurs raisons Cesar aprés sa conqueste de Gaule se retray en Ytalie et comment des plus grans de Romme machinoient contre lui. Le chapitre premier <foreign>(rubr.)</foreign>
+                  <lb/>Quant Cesar se senty ainsi estre par toutes les provinces de Gaule bien au dessus de ses besongnes sans quelque souspechon de murmure...</incipit>
+                <explicit><locus>f. 311b</locus>Et meismement se occisrent les aulcuns des propres greffes murdrieres de Cesar la vie duquel a mon advis fust plus exemple aux puis nez que merite de sa propre mort.</explicit>
+              </msItem>
+              <msItem>
+                <title>Epilogue du traducteur</title>
+                <incipit><locus>f. 311b</locus>La conclusion du translateur de ce present volume des Commentaires Gayus Julius Cesar soixante dixieme et derrenier chapittre <foreign>(rubr.)</foreign> Affin que par mes paroles soit mon intencion cogneue ay je icy pour conclusion ce present chapitre adjousté.</incipit>
+                <explicit>...attribuant les biens d’icelle aux composeurs non pas a l’indigne escripvain qui de tel loz se cognoist non coulpable <lb/>Atant prent fin ce present <pb n="f. 312a"/> volume lequel au commandement de hault et excellent prince et mon redoubté seigneur Loÿs seigneur de la Gruthus conte de Vincestre prince de Steenhuse et cetera et chevallier d’honneur de ma tresrredoutee dame madame la duchesse d’Austeriche de Bourgogne de Brabant et cetera a esté escript et parachiefvé a Gand en l’an de grace mil CCCC IIIIxx et deux.
+                  <foreign>(rubr.)</foreign></explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="kb_thott544" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Kobenhavn</settlement>
+                <repository>Kongelige Bibl.</repository>
+                <idno>Thott 544 in fol.</idno>
+                <msName type="sigle" resp="Bossuat">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titres : <title type="ancien">Cy commence le prologue du translateur des Commentaires Gayus Julius Cesar</title> f. 19 ;
+                  <title type="ancien">Et atant prent fin le Xe et darrenier livre des Commentaires de Julle Cesar translatez en la ville de Lille l’an mil quatre cens soixante et quatorse par Jehan du Chesne humble et indigne etc.</title> f. 338b] : f. 1-2v blancs ; table des rubriques f. 3a-17a ; f. 17v-18v blancs ; prologue du traducteur f. 19a-21d ; prologue général f. 21d-23a ; préambule du traducteur f. 23a-24d  ; texte f. 24d-338b ; f. 277v et 338v-339v blancs.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>338 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copié par deux mains différentes : première main f. 3-115, 121-136v, 194-338 ; seconde main f. 115v-120v, 137-193v ; copié par
+                    <persName type="copiste">Jean Duchesne</persName> d’après S. McKendrick qui n’a pas relevé le changement de main (5)</p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : par un artiste proche de <persName type="illustrateur">Loyset Liédet</persName> (5), miniature de frontispice à trois compartiments des 2/3 aux 3/4 de la justification (f. 19) (1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1475" notAfter="1500">Flandre, dernier quart du XV<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale II. 2315, f. 8v [1470], F. Masai et M. Wittek, <title>Manuscrits datés conservés en Belgique</title>, Bruxelles-Gand, 1982, t. IV, pl. 836)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> (1459-1527) (armes f. 19 ; signature sous l’explicit).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>C. Bruun, <title>Die illuminerede Haandskrifer fra Middelalderen i Det Store Kongelige Bibliothek</title>, 1890, Copenhague, p. 240-242</bibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 257</bibl>
+                  <bibl><title>The Seventeenth-Century Orange-Nassau Library, The Catalogue compiled by Anthonie Smets in 1686, the 1749 Auction Catalogue, and Other Contemporary Sources</title>, éd. A. D. Renting et J. T. C. Renting-Kuijpers, Utrecht, 1993, p. 316, n° 1360</bibl>
+                  <bibl>M. Gil, <title>Du Maître du Mansel au Maître de Rambures : le milieu des peintres et des enlumineurs de Picardie</title>, ca. 1440-1480, thèse Paris-IV, 1999, p. 934 [notice]</bibl>
+                  <bibl>T. Kren et S. McKendrick, <title>Illuminating the Renaissance : The triumph of Flemish manuscript painting in Europe</title>, Los Angeles, 2003, p. 519 et n° 22, p. 521</bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 36-40</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bl_egerton1056" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Egerton 1065</idno>
+                <msName type="sigle" resp="Bossuat">E</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titres : <title type="ancien">S’ensuivent les tables des rubrices de ce present traittié intitulé les Commentaires Cesar</title> (rubr.) f. 2c ; <title type="ancien">Cy finent les tables des rubrices des X livres des Commentaires de Cesar</title> (rubr.) f. 8d ; <title type="ancien">Cy finent les Commentaires de Gayus Julius Cesar</title> (rubr.) f. 311b] : prologue général f. 1a-2c (inc. <seg type="incipit">Homme creature de Dieu raisonnable qui gaste le temps en oyseuse vie comme beste brute...</seg> ; expl. ...<seg type="explicit">conseil prendre et donner au besoing</seg>) ; table des rubriques f. 2c-8d ; préambule du traducteur f. 8d-11a ; texte f. 11a-311b sans épilogue du traducteur.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>311 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 10 miniatures des 2/3 de la justification (f. 1, 9, 74, 100v, 116v, 130, 146, 172v, 192, 254v) par le <persName type="illustrateur">maître de 1482</persName> et par d’autres artistes du milieu des années 1480 (2, 3)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms London, British Libr., Royal 15 D I, f. 113 [Bruges, 1470], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, The British Library</title>, Londres, 1979, t. II, pl. 742)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 258</bibl>
+                  <bibl>G. Dogaer, <title>Flemish miniature pating in the 15th and 16th centuries</title>, Amsterdam, 1987, p. 127</bibl>
+                  <bibl>T. Kren et S. McKendrick, <title>Illuminating the Renaissance : The triumph of Flemish manuscript painting in Europe</title>, Los Angeles, 2003, p. 278</bibl>
+                  <bibl>catalogue informatique de la British Library : <ref target="http://www.bl.uk/catalogues/manuscripts.html">www.bl.uk/catalogues/manuscripts</ref></bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 48-53</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bl_royal16gVIII" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 16 G VIII</idno>
+                <msName type="sigle" resp="Bossuat">D</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titres : <title type="ancien">Cy commence la table de ce present volumme des Commentaires de Cesar contenant X livres particuliers</title> f. 2a ; <title type="ancien">Le prologue du translateur des Commentaires de Julle Cesar</title> f. 14 ; <title type="ancien">Cy prent fin le Xe et darrenier livre des Commentaires de Cesar translatez en la ville de Lille l’an mil IIIIC LXXIII par Jehan du Chesne humble et indigne etc.</title>. f. 338b] : f. 1 blanc ; table des rubriques f. 2a-13b ; f. 13v blanc ; prologue du traducteur f.14a-16b ; prologue général f. 16b-17c ; préambule du traducteur f. 17c-19a ; texte f. 19a-338a : f. 115v, 188bis, 188bisv, 276v blancs.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>338 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : <persName type="copiste">Jean Duchesne</persName> d’après (6)</p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : 10 miniatures des 2/3 de la justification sur 2 colonnes en tête de livre ; 13 miniatures sur 1 colonne entre la moitié et 1/3 de la justification (cf. 2, 7, 9) par le <persName type="illustrateur">maître du Wavrin</persName> de Londres (7)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1465" notAfter="1475">Flandre (8), Bruges (8) ; ca 1470 (3), <origDate notBefore="1473" notAfter="1473">1473</origDate> (7), <origDate notBefore="1473" notAfter="1476">1473-1476</origDate> (8) (proche du ms London, British Libr., Royal 18 E V, f. 54v [1473], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, The British Library</title>, Londres, 1979, t. II, pl. 771)</origin>
+                <provenance>possesseur : dans l’encadrement du f. 14, au centre de la marge inférieure, la réserve ménagée par la copie d’un écu est restée vierge ; ms probablement acquis par <persName type="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (1442-1483) (ms conservé au <orgName type="possesseur" key="Richmond Palace">château de Richmond</orgName>, n° 72).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 1-13</bibl>
+                  <bibl>G. F. Warner et J. P. Gilson, <title>British Museum, Catalogue of Western Manuscripts in the Old Royal and King’s Collections</title>, Londres, t. II, 1921, p. 213</bibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 257-258</bibl>
+                  <bibl>G. Keach, <title>Two Flemish Manuscripts of Caesar’s Commentaries</title>, M.A. Thesis, Yale University, 1969</bibl>
+                  <bibl>A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in The Department of Manuscripts, The British Library</title>, t. I, <title>The Text</title>, Londres, 1979, p. 156, t. II, pl. 771 [dit que Jean Duchesne pourrait être simplement le scribe, comme dans d’autres mss, voir Bouveret, t. III]</bibl>
+                  <bibl>B. A. Shailor, <title>Catalogue of Medieval and Renaissance Manuscripts in the Beinecke Rare Book Yale University</title>, t. I, Binghamton-New York, 1984, p. 316-318</bibl>
+                  <bibl>M. Gil, <title>Du Maître du Mansel au Maître de Rambures : le milieu des peintres et des enlumineurs de Picardie, ca. 1440-1480</title>, thèse Paris-IV, 1999, p. 977 [notice]</bibl>
+                  <bibl>T. Kren et S. McKendrick, <title>Illuminating the Renaissance : The triumph of Flemish manuscript painting in Europe</title>, Los Angeles, 2003, p. 277-278</bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 40-48</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="beinecke_226" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>New Haven</settlement>
+                <repository>Yale, University Library, Beinecke Rare Books &#38; Manuscripts Library</repository>
+                <idno>226</idno>
+                <msName type="sigle" resp="Bossuat">G</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titres : <title type="ancien">Cy commence la table de ce present volume des Commentaires de Cesar contenans dix livres particuliers</title> f. 1a ; <title type="ancien">Le prologue du translateur des Commentaires de Julle Cesar</title> f. 11 ; <title type="ancien">Cy prent le Xe darrenier livre des Commentaires de Cesar fin translatez en la ville de Lille, l’an mil CCCC XXIIIe par Jehan du Chesne humble et indigne</title> f. 261v] : table des rubriques f. 1a-10b ; f. 10v blanc ; prologue du traducteur f. 11a-13a ; prologue général f. 13a-d ; préambule du traducteur f. 13d-15a  ; texte f. 15a-261c ; f. 64, 66v, 88v, 113, 126r-v, 146v, 196v blancs.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>261 f. papier (sim. Briquet 1741 [Troyes, 1471 ; sim. 1470-1482]) et parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copié par <persName type="copiste">Hellin de Burchgrave</persName> [Bouveret 6291] : <quote>« Cy prent le Xe darrenier livre des Commentaires de Cesar fin translatez en la ville de Lille, l’an mil CCCC XXIIIe par Jehan du Chesne humble et indigne. Copié a l’original par Hellin de Burchgrave, a la requeste de honnourable homme et saige Jaques Donche, conseillier de mon tres redoubté seigneur, monseigneur le duc de Bourgogne, son Watregrave et moermaistre de Flandres et maistre de la chambre aux deniers de madame la duchesse de Bourgogne et cetera en l’an mil IIIIC soixante seize »</quote> f. 261d</p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : 13 miniatures (10 de largeur de la justification et des 2/3 de la justification ; 3 de la largeur d’une colonne et d’1/3 de la justification), proches du ms London, British Libr., Royal (cf. 3)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1476" notAfter="1476">Flandre ; 1476 (proche du ms Paris, Bibl. nat. de Fr., lat. 5029, f. 17 [1471], <title>Mss datés</title> t. II, pl. 148)</origin>
+                <provenance>commanditaire : <persName type="commanditaire">Jacques Douche</persName>, conseiller de Charles le Téméraire.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 258</bibl>
+                  <bibl>G. Keach, <title>Two Flemish Manuscripts of Caesar’s Commentaries</title>, M.A. Thesis, Yale University, 1969</bibl>
+                  <bibl>B. A. Shailor, <title>Catalogue of Medieval and Renaissance Manuscripts in the Beinecke Rare Book Yale University</title>, t. I, Binghamton-New York, 1984, p. 316-318 et pl. 8</bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 59-67</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bodleian_douce208" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Oxford</settlement>
+                <repository>Bodleian Libr.</repository>
+                <idno>Douce 208</idno>
+                <msName type="sigle" resp="Montigny">F</msName>
+                <altIdentifier>
+                  <repository>Madan</repository>
+                  <idno>21782</idno>
+                </altIdentifier>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titre : <title type="ancien">Et atant fine le Xe et derrenier livre des Commentaires de Julle Cesar translatez en la ville de Lisle l’an mil IIIIC LXXIIII</title> f. 334b] : prologue du traducteur f. 4a-5c ; table des rubriques f. 5c-15b ; f. 15v-17v blancs ; préambule du traducteur f. Ia-IIIb  ; texte f. IIIb-CCCXXXIVb ; f. LXXIIv, CXXXVv, CLIIIv, CCLXXv blancs.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>17+ 337 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : attribuée au <persName type="illustrateur">maître de Bruges</persName> de 1483 (cf. London, Brit. Libr., Royal 15. E. III), 11 miniatures de la moitié aux 2/3 de la justification (au début du prologue général, du préambule du traducteur et de chaque livre)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1480" notAfter="1505">fin XV<hi rend="sup">e</hi> s. (après 1474) (proche du ms Bruxelles, Bibl. royale, II. 2315, f. 8v [1470], F. Masai et M. Wittek, <title>Manuscrits datés conservés en Belgique</title>, Bruxelles-Gand, 1982, t. IV, pl. 836)</origin>
+                <provenance>possesseur : aux armes de <persName type="possesseur" key="Saintré">Saintré</persName> avec devise <quote>« se je puis »</quote> (f. 4).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>F. Madan, <title>A Summary Catalogue of western manuscripts in the Bodleian Library at Oxford</title>, t. IV, Oxford, 1897, p. 555</bibl>
+                  <bibl>O. Pächt et J. J. G. Alexander, <title>Illuminated manuscripts in the Bodleian Library Oxford</title>, Oxford, 1969, t. I, p. 26, n° 351 et pl. 28</bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 53-59</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_38" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 38</idno>
+                <msName type="sigle" resp="Bossuat">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titre : <title type="ancien">Cy commence le table des rubrices de ce volume intitulé les Commentaires Cesar et contient en soy dix livres partiaulx</title> (rubr.) f. 4a]  : table des rubriques f. 4a-23c ; f. 23d-25d blancs réglés ; prologue du traducteur f. 26a-28b ; prologue général f. 28b-29b  ; préambule du traducteur f. 29b-30d ; texte f. 30d-312a.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>312 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : par <orgName type="illustrateur">l’enlumineur ou l’atelier qui a exécuté l’illustration de la traduction de la
+                    <title>Guerre des Juifs</title> de <persName type="ancien">Flavius Josèphe</persName></orgName> (Paris, Bibl. nat. de Fr., fr. 16) pour Louis de Bruges (4) ; 9 miniatures d’1/3 à la moitié de la justification (f. 94a, 117c, 130c, 142a, 157c, 182a, 198b, 237b, 257a) ; 4 miniatures en médaillon occupant les 2/3 de la justification (f. 26)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1482" notAfter="1482">Gand (f. 312a) ; 1482 (f. 312a) (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (f. 312a) ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (f. 1v), armes de France (f. 26, 94, 117v, 130v...).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 255-256</bibl>
+                  <bibl>J. W. Bradley, <title>A Dictionary of miniaturists</title>, t. I, p. 291</bibl>
+                  <bibl>C. Lemaire, « Die bibliotheek van Lodewijk van Gruuthuse », dans
+                    <title>Vlaamse kunst op perkament. Hanschriften en miniaturen te Brugge van de 12e tot de 16e eeuw</title>, Bruges, 1981</bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 25-30 (4)</bibl>
+                  <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="manuscrit">
+          <head>Collection privée</head>
+          <listBibl type="msList">
+            <msDesc xml:id="ms7" type="biblissima">
+              <msIdentifier>
+                <settlement/>
+                <repository/>
+                <idno/>
+                <msName type="sigle" resp="Montigny">H</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titre : <title type="ancien">Cy commence le table des rubrices de ce volume intitulé les Commentaires Cesar et contient en soy dix livres partiaulx</title> (rubr.) f. 4a] : table des rubriques f. 1-11v ; f. 12 blanc ; prologue du traducteur f. I-III ; prologue général f. III-IV ; préambule du traducteur f. IV-V ; texte f. V-CCXLVI ; f. LVIIv, CXXXVIv, CLXXXVv, CCIIv, CCXLVIv blancs ;
+                  <persName type="ancien">Jean Duchesne</persName>, <title type="ancien">Chronique abrégée</title> (1478-1479) : table des rubriques f. 249-252 ; f. 252v blanc ; texte f. 253-317.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>326 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : <persName type="copiste">Jean Duchesne</persName> d’après Richard Gay (1)</p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : proche du style de <persName type="illustrateur">Loyset Liédet</persName> (4) ; 10 miniatures des 2/3 de la justification au début du prologue du traducteur et devant tous les livres à partir du livre II (f. 1, 58, 80, 92v, 103v, 116, 137, 152, 185, 203) ; la <title>Chronique abrégée</title> est illustrée par 1 grande miniature en tête, par 4 lettres historiées et par 4 petites miniatures</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1475" notAfter="1485">Lille et Bruges ; vers 1480 (proche du ms Bruxelles, Bibl. royale, IV 456, f. 52v [1488], M. Wittek et T. Glorieux-De Gand, <title>Manuscrits datés conservés en Belgique</title>, Bruxelles, 1987, t. V, pl. 1003)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="André de Haraucourt">André de Haraucourt</persName>, seigneur de Bayon, Ubéxy, Landécourt, Franconville, Seneville, Louppy-Dreuville et Maréville († 1484), commanditaire probable (armes f. 1, 253).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>T. Kren et S. McKendrick, <title>Illuminating the Renaissance : The triumph of Flemish manuscript painting in Europe</title>, Los Angeles, 2003, p. 519</bibl>
+                  <bibl><title>Printed books and manuscripts from Beriah Botfield’s Library at Longleat : Auction, Thursday 13. June 2002, Christie’s London, St James</title>, Londres, 2002, p. 22-29 [notice avec l’aide de S. McKendrick]</bibl>
+                  <bibl><title>De la Guerre des Gaules à Apollinaire, manuscrits enluminés et livres précieux, 1480-1913 : catalogue à prix marqués, de livres précieux, disponibles à la librairie Sourget, classés par orde chronologique</title>, Chartres, 2003 (Catalogue, 26), n°1, p. 2-7</bibl>
+                  <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 25-30 [notice ; H est le ms de base suivi par S. Montigny pour les deux premiers livres de la traduction. Le second volume de la thèse d’Ecole des chartes de S. Montigny donne l’édition critique de la <title type="ancien">Chronique abrégée</title>]</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="deperdita">
+          <head>Manuscrits perdus</head>
+          <p>S. McKendrick signale un ms perdu, noté entre 1577 et 1731 à la Bibliothèque de Bourgogne à Bruxelles (J. Barrois, <title>Bibliothèque protypographique, ou Librairies des fils du roi Jean, Charles V, Jean de Berri, Philippe de Bourgogne et les siens</title>, Paris, 1830, n° 2235)</p>
+          <listBibl>
+            <bibl>T. Kren et S. McKendrick, <title>Illuminating the Renaissance : The triumph of Flemish manuscript painting in Europe</title>, Los Angeles, 2003, p. 278  </bibl>
+          </listBibl>
+        </div>
+        <div type="soustraduction" n="Ia" xml:id="version_abrégée">
+          <head>Version abrégée et remaniée de la traduction de Jean Duchesne</head>
+          <p>Version d’où l’on a cherché à exclure tous les éloges et toutes les flatteries adressées au duc de Bourgogne.</p>
+          <div type="edition prologue">
+            <head>Prologue</head>
+            <p>d’après le ms</p>
+            <msDesc n="prologue" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 280 <!-- A revoir exposant : 1 --></idno>
+              </msIdentifier>
+              <p><pb n="f. Aa"/> A....relle.....appette et.....savoir s..... le philoso... il reste maintenant savoir et entendre que celle generalité de tout homme s’estent en plusieurs manieres de savoirs : le clerc desire sciences speculatives et theoricques, le rusticque et homme mecanicque appete savoir la praticque du cultivement de la terre et le cours de sa marchandise ou mestier et le noble convoite les armures, les cauteles, les engins et soubtillitez qui journellement s’i treuvent et excercent en guerre. Et ainsi doncques, a veriffier l’auctorité de nostre proheme, tout homme desire et appete naturellement de savoir. Or est ainsi, mon tres honnouré seigneur, que de vostre vocation et selon voz nobles predecesseurs, vous estes venus et descenduz de noblesse, laquelle, selon laditte auctorité, en vous ne deffault, comme il appert, car a moy, vostre humble serviteur, avez enquiz que vous meïsse les sens et proesses du preux Julius Cesar en forme et par escript, pour ce que ou procés d’icellui traittié sont contenus tous les faiz, proesses et appertises d’armes qui se peuent trouver ou traittier par escript voire et aussi les plus veritables qui se <pb n="f. Ab"/>.... c.... au... cel... pre... obeiss... mondi... mis pa... res de ces... ce que les ... cellui qui ... je y ay delai... pittres et c... flateries bo... qui ne sont... me sain dent... y avoit mis et les... selon ce que ledit ce... les escripvy voire... escripvi et les autre... Suetone, Lucan, Frontin... seurs autres ainsi qu... ont escript. Je vous... que ne prenez en desdain... que fait en ay car certes... veritas non querit angu... je ne m’en sauroie ne ne sceuz oncques pas bien mesler de flateries, treshonnouré seigneur, je vous mettray premierement la table des dix livres icy aprés contenues affin que d’un chascun chappittre puissiez avoir congnoissance plus legiere et a vostre plaisir.</p>
+            </msDesc>
+          </div>
+          <div type="incipit">
+            <head>Incipit</head>
+            <p>d’après le ms</p>
+            <p>Seuls sont donnés les incipit différents.</p>
+            <msDesc n="incipit" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 280 <!-- A revoir exposant : 1 --></idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <title>Prologue général</title>
+                  <incipit><locus>f. 1a</locus>Prologue general qui est le premier chapitre
+                    <foreign>(rubr.)</foreign>
+                    <lb/>Homme creature raisonnable qui est gasté par temps en oiseuse vit comme beste brute du tout encline a bouter en son ventre et obeïssant aux voluptez inraisonnables qui est grant vitupere a formacion tant digne...</incipit>
+                </msItem>
+                <msItem>
+                  <title>Livre II</title>
+                  <incipit><locus>f. 50a</locus>Cy commence le second livre qui est le premier de la facture de Cesar traictant en soy les aventures de la premiere année gauloise et premierement de la separacion des trois parties de Gaule <foreign>(rubr.)</foreign>
+                    <lb/>
+                    <foreign>Gallia est omnis divisa in partes tres et cetera</foreign>
+                    <lb/>Gaulle que maintenant appellons France inclusivement ou temps que Jullius Cesar y fut envoié pour la concquerir estoit grande plantureuse et bien peuplee...</incipit>
+                </msItem>
+                <msItem>
+                  <title>Livre IV</title>
+                  <explicit><locus>f. 88b</locus>... se retira en Normandie et Bretaigne la basse puis entour les citez qui guerre lui avoient fait l’esté passé ordonna il ses hibernaulx.</explicit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="manuscrit">
+            <head>Manuscrit</head>
+            <listBibl type="msList">
+              <msDesc xml:id="fr_280" n="vu ms" type="biblissima">
+                <msIdentifier>
+                  <settlement>Paris</settlement>
+                  <repository>Bibl. nat. de Fr.</repository>
+                  <idno>fr. 280</idno>
+                  <msName type="sigle" resp="Bossuat">B</msName>
+                </msIdentifier>
+                <msContents>
+                  <p>version remaniée de la traduction du <title>De bello Gallico</title> de César par Jean Duchesne [titres : <title type="ancien">Icy fine la table du Xe et darrenier livre des Commentaires de Jule Cesar</title> (rubr.) f. [K]c ; <title type="ancien">Et a tant fine le Xme et derrenier livre des Commentaires de Jule Cesar translatez en la ville de Lille, l’an mil IIIIC LXXIIII par Jehan du Chesne humble et indigne etc</title>. f. 222a] : prologue du traducteur f. [A]a-b  ; table f. [A]c-[K]c ; prologue général f. 1a-1d ; préambule du traducteur f. 1d-3b ; texte f. 3b-222a.</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>11 f. non foliotés (f. A-F mutilés) + 222 f. papier (filigranes sim. Briquet 8088 [Mayence, 1475], Briquet 9182-9184 [1467-1483], Briquet 4086 [Sens, 1446], Briquet 1741 [1468-1482] et Briquet 15155 [Bruyères, 1483])</p>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Copié par 3 mains au moins : première main f. [A]a-[K]c, f. 12a-13d ; seconde main f. 1a-11d, f. 14a-49a ; troisième main f. 49b-222a.</p>
+                  </handDesc>
+                  <decoDesc>
+                    <p>illustration : 1 lettre historiée f. [A]a.</p>
+                  </decoDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (f. 5 proche du ms Paris, Bibl. nat. de Fr., lat. 6966, f. 171v [1461], <title>Mss datés</title>, t. II, pl. 130)</origin>
+                </history>
+                <additional>
+                  <listBibl>
+                    <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                      <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 256-257 et 259-263</bibl>
+                    <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I, p. 31-36</bibl>
+                    <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
+                  </listBibl>
+                </additional>
+              </msDesc>
+            </listBibl>
+          </div>
+        </div>
+      </div>
+      <div type="traduction" xml:id="gaguin">
+        <head>Traduction de <persName type="traducteur">Robert Gaguin</persName></head>
+        <dateline>
+          <date notBefore="1485" notAfter="1485">1485</date>
+        </dateline>
+        <p>La traduction rédigée en 1485 par Robert Gaguin pour Charles VIII ne comporte ni additions ni suppressions. Elle cherche à rendre les réalités antiques par des équivalents modernes et se montre soucieuse de la topographie.</p>
+        <listBibl>
+          <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XVe siècle », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 253-411, part. 373-411</bibl>
+          <bibl>M. J. Walkley, « The French Humanist Robert Gaguin’s Translation of Caesar’s De Bello gallico », dans <title>Parergon</title>, t. 2, 1972, p. 12-21</bibl>
+          <bibl>M. Schmidt-Chazan, « Histoire et sentiment national chez Robert Gaguin », dans
+            <title>Le Métier d'historien au Moyen Age. Etudes sur l'historiographie médévale</title>, éd. B. Guenée, Paris, 1977 (Publications de la Sorbonne, série « Etudes », 13), p. 233-300</bibl>
+          <bibl>M. Schmidt-Chazan, « Les traductions de la Guerre des Gaules et le sentiment national au Moyen Age », dans <title>Annales de Bretagne et des pays de l’Ouest</title>, t. 87, 1980, p. 387-407</bibl>
+          <bibl>F. Duval, « <title>Le Livre des Commentaires Cesar sur le fait des batailles de Gaule</title> par Robert Gaguin (1485) ou de l’art de la transposition », dans
+            <title>Cahiers de recherches médiévales</title>, t. 13, 2006, p. 167-182</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois: Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, C112</bibl>
+        </listBibl>
+        <div type="edition">
+          <head>Édition</head>
+          <div type="dedicace">
+            <head>Dédicace</head>
+            <p>d'après le ms</p>
+            <msDesc n="dedicace" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 728</idno>
+              </msIdentifier>
+              <p><pb n="f. 1"/>A tres chrestien et tres excellent prince, Charles, huitiesme de ce nom, roy de France, Robert, ministre general de l’ordre de Sainte Trinité et redemption des prisonniers chrestiens, dit et desire, en toute humilité, honneur, gloire et longue vie <foreign>(rubr.)</foreign></p>
+            </msDesc>
+            <msDesc n="dedicace" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>5222</idno>
+              </msIdentifier>
+              <p><pb n="f. 2"/>A tres crestien et tres excellent prince Charles, huytiesme de ce nom, roy de France, de Cecille et de Jherusalem, ce present livre est adressé</p>
+            </msDesc>
+          </div>
+          <div type="prologue">
+            <head>Prologue</head>
+            <bibl><title>Les Commentaires de Julius Cesar</title>, <publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1495-12-31" notAfter="1505">ca 1500</date></bibl>
+            <p>A trescrestien et tresexcellent prince Charles huitiesme de ce nom roy de France, Robert, ministre general de l’ordre de saincte Trinité et redemption des prisonniers crestiens, dit et desire en toute humilité, honneur, gloire et longue vie.</p>
+            <p>Orace le poete dit que sçavoir faire chose plaisante et aggreable aux princes terriens n’est point petite vertu ne a mettre entre les dernieres et tressingulieres louenges et beneuretés de l’homme ; et croy que la cause de son dit si est pour ce que les princes voyent et oyent chascun jour tant de haultes et merveilleuses choses que celluy est de fort bon engin et inventif qui leur sçait et peult faire dire ou escripre chose gracieuse et a leur goust. Pour ceste raison j’ay beaucoup craint de prendre entree et congnoissance en si haulte et excellente court comme est la vostre, doubtant que ma petitesse ne peust actaindre ne advenir a faire chose en laquelle vostre haultesse et majesté prit plaisir et delectation, jusques a ce que puis nagueres il vous a pleu recevoir debonnairement et prendre en gré le petit livre des faiz du glorieux empereur et roy sainct Charl[e]maine, mis par moy et translaté de latin en françoys, et oultre ce qu’i vous pleut a me commander que je achevasse et acomplisse diligemment la translation des Commentaires Julles Cesar par moy pieça commencee, laquelle vostre debonnaireté et ordonnance m’a donné hardiesse de poursuyvir soubz esperance mon euvre et labour vous seront aulcunement a plaisance et prouffitables, non point pour excellence de sçavoir ne de bonté de langaige qui soit en moy, mais pour la grandeur des choses contenues es livres originaux, desquelz j’ay entreprins la translation ; car comme deux choses soyent premierement requises et fort convenables a ung souverain prince, c’est assavoir prudence de conduire en bon ordre les choses publicques et force de mener vaillamment et de couraige les guerres quant il en est besoing, vous trouverez l’une et l’autre chose en ce livre, lequel Jules Cesar escript de ses mesmes faiz et entreprinses, lesquelles il fist en dix ans qu’il eust la charge du peuple de Romme de gouverner la province de Gaule, pendant lequel temps il eust congnoissance a l’œil de toutes les contrees et de tous les fors lieux de la terre de Gaule en laquelle vostre royaulme est situé et assis, et lequel comprend la plus grande partie d’icelle terre. Et par ce il vous apperra quelles condiciens, quelles meurs et quelle conduite, quelle puissance, quelle force et quelle maniere de vivre chascune gent estant soubz vostre gouvernement et seigneurie avoient des lors et comment encores ilz retreuvent aucunes choses de ce temps la ; et ce vous peult beaucoup prouffiter a conduire et gouverner chascune nacion selon l’inclination naturelle et coustume ancienne, laquelle ne se peult changer par rigueur ou violence sans grant bruit et dommaige. Et quant a ce qui touche les faiz de chevalerie et de guerre, vous congnoistrez en ce livre le conseil et meure deliberacion qu’on doit avoir avant qu’on commence discord ne guerre et comment on ne doit estre legier ne soudain a croire mauvaiz raportz ne a entreprendre grans et perilleux affaires telz comme sont guerres, par lesquelles l’estat des princes et de toutes commu[n]autez et choses publicques est souvent enversé, perdu et deffait. Et pour ce que en lisant vous apperceverez quelle utilité ce livre vous pourra faire, je diray seulement la raison pourquoy il est appellé Commentaire : si fault entendre que ce mot commentaire en tant qu’il sert a nostre propos vault autant a dire comme « briefve exposicion » ; et pour ce que Jules Cesar n’a escript des euvres qu’il fist en la terre de Gaule fors que les principales et plus dignes de memoire, et encores il ne les a pas escriptes fors au long, pensant que le sommaire d’icelle souffiroit pour memoire a ceulx qui les vouldroient aprés escripre et exposer plus au large. A ceste cause ce que Cesar a escript de ses faiz est appellé le Livre des commentaires Cesar sur le fait des batailles de Gaule, comme une briefve et sommiere narracion de ses euvres, desquelles il parle comme se aultre que luy les escripvoit. Et en ce faisant il nous donne congnoissance de moult de choses servant a la gloire du païs de Gaule et de vostre royaulme, en telle façon que en lisant le grant nombre et assemblees de gens de guerre et les dures rencontres, les sieges et merveilleuses batailles des Gauloys faictes contre Cesar, il ne sembla pas qu’il escripve les faiz d’une nacion seulement, mais de tout le monde ; de toutes lesquelles anciennes merveilles nous n’avons congnoissance que autant que Cesar en a escript en ce livre. Et ce se n’estoit ceste presente euvre, je ne voy point comment on peust parler au vray que c’estoit de ceste region de Gaule par avant que les premiers Françoys venissent par deça gaigner et fonder le commencement de si ample et puisssant royaulme comme est le vostre, mais atant je me tairay affin que vous oyez parler le principal acteur Jules Cesar, duquel en lisant vous congnoistrez la vertu et incomparable diligence, plus que en nul aultre empereur ou chief de guerre.</p>
+          </div>
+          <div type="epilogue">
+            <head>Strophe de huit vers servant d’épilogue</head>
+            <bibl><title>Les commentaires de Julius Cesar</title>, <publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1495-12-31" notAfter="1505">ca 1500</date></bibl>
+            <p>Lisez, liseur attrait, et entendez<lb/>Et ne jugez a cerveau estourdy<lb/>Soit bien soit mal que avant regardez<lb/>L’euvre en latin dont ce livre est party.<lb/>Vous trouverez que je l’ay converty<lb/>Selon le sen des mos et de la lettre<lb/>Et mon françoys en latin assorty<lb/>Le plus brief que le tout se peut mettre.<lb/>
+           </p>
+          </div>
+          <div corresp="#imprime2_de-bello-gallico" type="explicit">
+            <head>Strophe de huit vers servant d’épilogue</head>
+            <bibl><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] Antoine Vérard, Paris, <date notBefore="1488" notAfter="1488">1488</date></bibl>
+            <p>Lisez, liseurs attrait et entendez<lb/>et ne jugez a cerveau estourdy,<lb/>soit bien soit mal, que avant regardez<lb/>l’euvre en latin dont ce livre est party :<lb/>vous trouverez que je l’ay converty<lb/>selon le sens des mos et de la lettre<lb/>et mon françoys au latin assorty<lb/>le plus au brief que le tout se peult mettre.<lb/>
+           </p>
+          </div>
+          <div corresp="#imprime1_de-bello-gallico" type="dedicace">
+            <head>Edition de la dédicace </head>
+            <bibl><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date notBefore="1555" notAfter="1555">1555</date></bibl>
+            <p>A monsigneur monsieur Philippe de Pise, eslu pour le roy nostre sire au païs de Masconnois, Antoine du Moulin salut.</p>
+            <p>Ces jours passez, ayant revu, corrigé et conferé avec le latin les Commentaires de Cesar, j’ay pensé que je ne les pourrois mieux adresser que à vous, tant pour l’amitié et familiarité, que de votre grace m’avez demontree par plusieurs fois, comme par ce que estes studieux et amateur des histoires, qui sont le tresor du temps. Davantage que l’auteur jadis tant vertueux et tant heureux, et encor aujourd’hui tant renommé, traite et fait mencion de notre ville de Mascon et païs de Masconnois : dont appert qu’il n’est pas depuis peu de jours en bruit et estime. Mais à fin que l’on ne pense que j’aye prins ce labeur en vain, ou voulu attribuer à moy l’honneur et labeur d’autrui, qui auroit premier fait cest office de traducteur, j’en laisse la dispute et jugement à la bonne discrecion des plus savans qui en conferant ceste derniere edicion, revue et correction, ou traduccion, avec la premiere et precedente et puis toutes deux avec le latin, facilement connoitront combien il y ha de difference et combien de passages mal en ordre et confus j’ay remis en leur ordre, si que je leur laisseray à juger si j’ay de beaucoup moins labouré et travaillé que le premier traducteur : lequel toutefois ne veux blamer et accuser par ce que je ne suis seur que ce soit sa faute mais croirois bien qu’elle viendroit d’ailleurs, comme d’aucuns imprimeurs ou correcteurs mal diligens et indignes de leur art tant honnorable : attendu que par les mains de plusieurs cest euvre ha tant de fois passé qu’elle ne peult que n’en soit souillee et contaminee. Et brief, de quel coté la faute vienne, et a qui en soit la coulpe, je n’en veux icy estre le juge ; tant seulement me suffit que l’on connoisse et juge avec prudence que je n’y ay mis la main aprés autrui sans grande raison, comme la vue en descouvrira le fait à tout bon oeil. De Lyon ce XV d’octobre 1545. En la maison de Tournes. (1re partie, f. A2r-v)</p>
+          </div>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 728</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <title>Prologue du traducteur</title>
+                <incipit><locus>f. 1</locus>Orace le poete dit que savoir faire chose plaisante et agreable aux princes terriens n’est point petite vertu ne a mectre entre les dernieres louenges et bieneuretés de l’homme...</incipit>
+              </msItem>
+              <msItem>
+                <title>Livre I</title>
+                <incipit>Cy s’ensuit le premier livre des Commentaires de Julles Cesar sur le fait de la conqueste de la terre de Gaule, laquelle il fit avant qu’il se nommast empereur de Romme <foreign>(rubr.)</foreign>
+                  <lb/>
+                  <pb n="f. 2v"/> Tout le païs de Gaule est divisé en trois parties desquelles les Belges en habitent l’unne les Aquitaniens l’autre et ceulx qui en leur langue se nomment Celtes et en notre langaige sont dis Gallois habitent la tierce</incipit>
+                <explicit><locus>f. 21</locus>Si s’en ala Cesar en la Gaulle qui est de la les mons que l’en dit a present Lombardie pour illec faire assemblee de gens.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre II</title>
+                <incipit><locus>f. 21</locus>Ainsi comme Cesar estoit en la Gaulle oultre les mons et il passat illec son yver comme nous avons dit devant...</incipit>
+                <explicit><locus>f. 30v</locus>Pour toutes les choses devant dictes quand on les sceut a Romme par la rescription de Cesar on fit ung edit que on feroit processions a Romme quinze jours durant.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre III</title>
+                <incipit><locus>f. 30v</locus>Pendant le temps que Cesar s’en aloit en Italie il envoia Servius Galba atout la douziesme legion aveq partie des hommes d’armes es Nantuatois Sedunois et Veragrois lesquelz habitent...</incipit>
+                <explicit><locus>f. 39v</locus>Et mena son ost en Auge et ou païs de Lisieux et pareillement es autres cités voisines lesquelles principalement avoient mené la guerre contre luy et fit illec son ost passer l’yver.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre IV</title>
+                <incipit><locus>f. 39v</locus>L’yver ensuivant qui fut en l’an que Pompeius et Marcus Crassus estoient consulz de Rome les Usipetes qui sont ou est mainctenant Visbourc et Francone...</incipit>
+                <explicit><locus>f. 50v</locus>Aprés toutes les choses dessusdictes achevees le senat de Rome a la rescription de Cesar ordonna de faire a Rome processions par l’espace de vingt jours.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre V</title>
+                <incipit><locus>f. 50v</locus>Cesar ou temps que Domicius et Apius Claudius estoient consulz a son partement du païs des Belges ouquel les gensdarmes estoient logiés pour passer l’yver...</incipit>
+                <explicit><locus>f. 69</locus>Et tout le temps ensievant Cesar tint la Gaulle ung petit plus apaisee et quoye.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre VI</title>
+                <incipit><locus>f. 69</locus>Et par tant que pour plusieurs causes Cesar actendoit que ou temps advenir ilz se feroient de grans mutacions en Gaulle, il se pensa qu’il feroit plus grant amas de gens...</incipit>
+                <explicit><locus>f. 84</locus>Et si tost que il eut fait provision de blefz pour son armee il se en ala en Italie comme il avoit proposé pour faire ces assamblees.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre VII</title>
+                <incipit><locus>f. 84</locus>Aprés que le païs de Gaule fut en paix sans quelque bruit de guerre Cesar se en ala en Ytalie comme il avoit proposé pour faire ses assamblees.</incipit>
+                <explicit><locus>f. 117v</locus>Il escripvit a Romme tout ce que il avoit fait ceste annee sur le fait de la guerre et quand on le sceut on fit a Romme prieres et processions l’espace de XX jours.</explicit>
+              </msItem>
+              <msItem>
+                <title>Livre VIII</title>
+                <incipit><locus>f. 117v</locus>Aprés que par trescontinuelles parolles et prieres sire Balbus tu m’as requis et constrainct moy doubtant que mon continuel refus ne samblast point...</incipit>
+                <explicit><locus>f. 137v</locus>autant comme il aroit de esperance de pouoir plus poursievir son droit par les drois et les lois que par armes et par mener guerre.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="bml_plutLXIIcod8" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Firenze</settlement>
+                <repository>Bibl. Medicea Laurenziana</repository>
+                <idno>Plut. LXII, cod. 8</idno>
+                <msName type="sigle" resp="Bossuat">D</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Robert Gaguin [titre : <title type="ancien">Cy aprez s’ensuit le premier livre des Commentaires de Julles Cesar sur le fait de la conqueste de la terre de Gaule, laquelle il fit avant qu’il se nommast empereur de Romme</title> f. 2v ; <title type="ancien">Explicit la translation des Commentaires Julius Cesar sur le fait de la conqueste du paÿs de Gaule faicte et mise en françoys et presentee au roy Charles VIIIe de France par frere Robert Gaguin docteur en decret et general ministre de l’ordre des freres de saincte Trinité et redempcion des prisonniers chrestiens l’an mil CCCC IIIIxx chinq</title> f. 168v] : dédicace f. 1 ; prologue f. 1-2v ; texte f. 3-168v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>168 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 7 miniatures en début de livre de la moitié aux 2/3 de la justification (pas de numéros de f. visibles sur le microfilm)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (armoirie dans la bordure sous les miniatures).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>A. Boinet, « Un bibliophile du XV<hi rend="sup">e</hi> siècle. Le Grand Bâtard de Bourgogne », dans <title>Bibliothèque de l’Ecole des chartes</title>, 1906, t. 67, p. 258</bibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 376</bibl>
+                  <bibl>C. Van den Bergen-Pantens, « Héraldique et bibliophilie : le cas d’Antoine, grand bâtard de Bourgogne (1421-1504) », dans A. Raman et E. Manning (éd.), <title>Miscellanea Martin Wittek : Album de codicologie et de paléographie offert à Martin Wittek</title>, Leuven, 1993, p. 349, n° 32</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="arsenal_5222" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>5222</idno>
+                <msName type="sigle" resp="Bossuat">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Robert Gaguin [titres : <title type="ancien">Cy fine le septiesme livre des Commentaires de Cesar par luy mesmes dictez et composez de la guerre du paÿs de Gaule</title> f. 120b ; <title type="ancien">Cy finissent les Commentaires de Cesar</title> f. 142b] : prologue du traducteur f. 2a-3a ; texte f. 3b-142b.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>142 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature à pleine page (f. 1v), 7 miniatures de la moitié de la justification (f. 21, 31, 41, 53v, 73v, 88, 121), armes (f. 2a, 3a, 4b) (cf. 1, 4) par <persName type="illustrateur">Guillaume le Roy</persName></p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1495" notAfter="1515">vers 1500-1510 (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100) ; Lyon</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Louis de Grolée">Louis de Grolée</persName>, abbé de Bonnevaux et de Saint-Pierre de Vienne (armes ajoutées postérieurement à la décoration du ms f. 1v, 3a, etc. ; armes et devise f. 2a) ; sur un feuillet de garde intérieur, gravure d’un cavalier présenté comme <quote>« <persName type="possesseur" key="Salvaing, Aymon de">Aymon de Salvaing</persName>, seigneur de Boissieu, surnommé le chevallier hardy, 1505 »</quote>.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, t. V (1889), p. 164-165</bibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 375-376</bibl>
+                  <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1959, t. I, p. 440</bibl>
+                  <bibl>E. Burin, <title>Manuscript Illumination in Lyons, 1473-1530</title>, Turnhout, 2001 (Ars nova, 3), p. 244-245</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_728" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 728</idno>
+                <msName type="sigle" resp="Bossuat">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Robert Gaguin [titre : <title type="ancien">Cy s’ensuit le premier livre des Commentaires de Julles Cesar sur le fait de la conqueste de la terre de Gaule</title> f. 2] : prologue du traducteur f. 1-2 ; texte f. 2-137v ; f. 138 blanc ; poème de <persName type="ancien">Jean Marot</persName> f. 138v (inc. <seg type="incipit">A tout jamais d’un vouloir immuable <lb/>La serviré comme la plus notable <lb/>Qui soit vivant et du plus doulx maintien...</seg>).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>137 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 grande miniature (1), de la moitié de la justification sur 2 colonnes</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1485" notAfter="1485">1485 (peut-être l’exemplaire de dédicace) (proche du ms Paris, Bibl. nat. de Fr., lat. 1179, f. 4 [1475], <title>Mss datés</title>, t. II, pl. 157)</origin>
+                <provenance>possesseur : <persName type="possesseur">rois de France</persName> (n°59 de l’inventaire du <orgName type="possesseur" key="Blois, bibliothèque de">château de Blois</orgName> en 1518 : <title>Commentaires Cesar translatez par maistre Robert Guaguyn feu general des Mathurins</title>).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Arnauldet, « Inventaire de la librairie du château de Blois en 1518 », dans <title>Le bibliographe moderne</title>, t. VI, 1902, p. 308-309</bibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 374-375</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1392" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1392</idno>
+                <msName type="sigle" resp="Bossuat">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Robert Gaguin [titre : <title type="ancien">Cy finist la translacion des Commentaires Julius Cesar sur le faict de la conqueste du paÿs de Gaule faicte et mise en françoys et presentee au roy Charles huytiesme de France par frere Robert Gaguin docteur en decrect et general ministre des freres de l’ordre de saincte Trinité et redempcion des prisonniers chrestiens l’an mil quatre cens octante cinq</title> f. 297v] : prologue du traducteur f. 1-3 (f. 1 : la fin de quelques mots manque car la marge extérieure est coupée) ; texte f. 3-297 (f. blancs réglés : f. 40-41v, f. 63r-v, f. 84v, f. 153r-v, f. 254r-v).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>297 f. papier (filigrane [licorne] assez lointain de Briquet 10006 [Troyes 1440 ; var. 1443-1444])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1480" notAfter="1510">fin du XV<hi rend="sup">e</hi> s. ou premières années du XVI<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 902, f. 101v [1502], <title>Mss datés</title>, t. II, pl. 173)                </origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
+                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 375</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="manuscrit">
+          <head>Collections privées</head>
+          <listBibl type="msList">
+            <msDesc xml:id="ms13" type="biblissima">
+              <msIdentifier>
+                <settlement/>
+                <repository/>
+                <idno/>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Robert Gaguin du type des manuscrits exécutés pour les ducs de Bourgogne.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>360 x 250mm, 165 f.</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : miniature de présentation à Charles VIII (f. 1).</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
+                <provenance>Vente Nicolay, 2 mai 1895, passé à la librairie D. Morgand</provenance>
+              </history>
+            </msDesc>
+            <msDesc xml:id="ms14" type="biblissima">
+              <msIdentifier>
+                <settlement/>
+                <repository/>
+                <idno/>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De bello Gallico</title> de César par Robert Gaguin.</p>
+              </msContents>
+              <physDesc>
+                <decoDesc>
+                  <p>Illustré par le <persName type="illustrateur">maître de Robert Gaguin</persName> (ouvrage éponyme)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin when="1488">1488</origin>
+                <provenance>Exemplaire de dédicace offert en 1488 à <persName type="possesseur" key="Charles VIII">Charles VIII</persName> ; Paris, Drouot, 17 juin 1960, n° 13 ; Antiquariat Tenschert</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>F. Avril et N. Reynaud, <title>Les manuscrits à peintures en France, 1440-1520</title>, Paris, 1995, p. 262</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="imprime">
+          <head>Imprimés</head>
+          <listBibl type="poList">
+            <bibl xml:id="imprime1_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar</title> [Paris, <publisher>Antoine Caillaut</publisher> ? [d'après les caractères] pour <publisher>Antoine Vérard</publisher>, <date notBefore="1486-12-25" notAfter="1500">après le 24 décembre 1486</date>], 2°, ill., 114 f. Prologue f. A2-A3 ; texte f. A3v-P3v. Expl. <seg type="explicit">Cy finist la translacion des Commentaires Julius Cesar sur le fait de la conqueste du paÿs de Gaule faicte et mise en françoys et presentee au roy Charles huitiesme de France par frere Robert Gaguin docteur en decret et general ministre de l’ordre des freres de saincte Trinité et redemption des prisonniers christiens l’an mil CCCC octante cinq</seg>
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. J. 273
+                <listBibl>
+                  <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VI, n° 5876, col. 31</bibl>
+                  <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, 1897-1909, n° 3149</bibl>
+                  <bibl><title>Catalogue des incunables de la Bibliothèque nationale</title>, Paris, 2006, C-13</bibl>
+                  <bibl> D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8064</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime2_de-bello-gallico"><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] <publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1488" notAfter="1488">1488</date>, 2°, ill., 114 f. Expl. <seg type="explicit">Cy finist la translation des Commentaires Julius Cesar sur le faict de la conqueste du paÿs de Gaule faicte et mise en françois et presentee au roy Charles huitiesme de France par frere Robert Gaguin docteur en decret et general ministre de l’ordre des freres de saincte Trinité et redemption des prisonniers christiens l’an mil CCCC octante VIII</seg>
+              <note place="inline">Exemplaire consulté : Paris, bibl. Mazarine, inc. 498
+                <listBibl>
+                  <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VI, n° 5877, col. 32</bibl>
+                  <bibl>D. Hillard, <title>Catalogues régionaux des incunables des bibliothèques publiques de France. 6, Bibliothèque Mazarine</title>, p. 158, n° 543</bibl>
+                  <bibl><title>Catalogue des incunables de la Bibliothèque nationale</title>, Paris, 2006, C14, p. 450</bibl>
+                  <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8065</bibl>
+                </listBibl>
+                <p>Remarque : il existe de cette édition des exemplaires dont les 2 premiers f. (au moins) appartiennent à l’éd. antérieure GesamtKatalog 5876 (Paris, bibl. Mazarine, D 498). Cf. D. Hillard, <title>Catalogues régionaux des incunables...</title>, Paris, 1989, p. 158, n° 543.</p></note>
+            </bibl>
+            <bibl xml:id="imprime3_de-bello-gallico"><title type="ancien">Les commentaires de Julius Cesar</title>, <publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1499-10-01" notAfter="1503-07-31">octobre 1499-juillet 1503 (1)</date>, 2°, ill., 134 f. Prologue f. A2-A3 ; texte f. A3-R6v. Expl. <seg type="explicit">Cy finist la translation des Commentaires Julius Cesar sur le faict de la conqueste du paÿs de Gaule faicte et mise en françoys et presentee au roy Charles huitiesme de France par frere Robert Gaguin docteur en decret et general ministre de l’ordre des freres de saincte Trinité et redemption des prisonniers crestiens l’an mil CCCC octante VIII.</seg> L’explicit est suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attrait et entendez</hi>...
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. J 274
+                <listBibl>
+                  <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VI, n° 5878, col. 32-33</bibl>
+                  <bibl><title>Catalogue des incunables de la Bibliothèque nationale</title>, Paris, 2006, C-14</bibl>
+                  <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8066</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime17_de-bello-gallico"><title type="ancien">Les euvres et brefves expositions sur le faict des batailles de Gaule</title>, <publisher>Michel Le Noir</publisher>, Paris, <date when="1502">1502</date>, 4° ; ajout d’une strophe après l’épilogue rimé : <hi rend="i">Pourtant, s’il est de briefve exposicion,<lb/>Retenez bien, nobles hommes françoys,<lb/>Comment Cesar en grant succession<lb/>Fut doulx, begnin, humble, saige et courtoys...<lb/></hi> (cf. éd. Bossuat, p. 380, n. 2)
+              <note place="inline">
+                <listBibl>
+                  <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. I, 1501-1510</title>, Paris, 1972, 1502, n° 17, p. 68</bibl>
+                  <bibl><title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 114, n° 128.649</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8067</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime4_de-bello-gallico"><title type="ancien">Les oeuvres et brefves exposicions sur le fait des batailles de Gaule</title>, <publisher>Michel Le Noir</publisher>, Paris, <date when="1517">1517</date>, 4°
+              <note place="inline">
+                <listBibl>
+                  <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. II, 1511-1520</title>, Paris, 1977, n° 1563, p. 418 [le seul exemplaire signalé est celui de la
+                    <title>Vente A. Firmin-Didot (juin 1878)</title>, 684]</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8068</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime5_de-bello-gallico"><title type="ancien">Les oeuvres et briefves expositions de Julius Cesar sur le faict des batailles de Gaule</title>, Paris, <publisher>veuve de Michel Le Noir</publisher>, <date notBefore="1518" notAfter="1524">ca 1521</date>, 4°, ill. Dédicace à Louis XII (<hi rend="i">Au treschrestien et tresexcellent prince Loÿs douziesme de ce nom roy de France</hi>) ; prologue f. A1v-A2v ; texte A2v-DD1v ; table f. DD2. Expl. <seg type="explicit">Cy finist la translation des oeuvrees et Commentaires Julius Cesar sur le faict de la conqueste du paÿs de Gaule faicte et mise en françoys et presentee au roy de France</seg> f. DD1v. Sous l’explicit : <hi rend="i">Lisez liseurs attrait et entendez</hi>...
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. J. 1410
+                <listBibl>
+                  <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. III, 1521-1530</title>, Paris, 1985, n° 47, p. 60</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8069</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime6_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar <lb/>De la guerre civile, feuillet premier <lb/>De la guerre alexandrine, feuillet I <lb/>De la guerre d’Affrique, feuillet LXVI <lb/>De la guerre d’Espaigne, feuillet LXXXVI <lb/>translatez par noble homme Estienne Delaigue dict Beauvoys <lb/>Des batailles &amp; conquestz faictz par Cesar au paÿs de Gaule <lb/>translatez par feu de bonne memoire Robert Gaguin general de l’ordre de la saincte Trinité <lb/>Avec les portraictz &amp; descriptions des lieux, fortz, pontz, machines, &amp; aultres choses dont est faict mention es presens Commentaires. <lb/>Ensemble les noms des lieux, villes, &amp; peuples du paÿs de Gaule</title>, <publisher>Galliot Du Pré</publisher>, <publisher>Poncet Le Preux</publisher>, <publisher>Pierre Vidoue</publisher>, Paris, <date notBefore="1531" notAfter="1531">1531</date>, 2°, ill. 1 vol. en 2 parties aux foliotations indépendantes : 1re partie : tables et annexes non foliotées ; César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-49 ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 49v-65v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 66-86 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 86v-95. 2e partie : <title type="ancien">Les commentaires et briefves descriptions de Jules Cesar, sur le faict des batailles &amp; conquestes de Gaules translatez de latin en vulgaire françoys, par frere Robert Gaguin docteur en decret, &amp; ministre general des freres de la saincte Trinité, &amp; redemption des prisonniers chrestiens</title> f. 1-99v ; f. 99v après l’explicit : <hi rend="i">Lisez liseurs attrait et entendez</hi>...
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac J 999
+                <listBibl>
+                  <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. IV, 1531-1535</title>, Paris, 1992, n° 68, p. 66</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8070 [Pierre Vidoue pour Galliot du Pré vend Poncet Le Preux], n° 8071 [Pierre Vidoue vend Galliot du Pré], n° 8072 [Pierre Vidoue vend Galliot du Pré pour Poncet Le Preux], n° 8073 [vend Pierre Vidoue pour Poncet Le Preux] </bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime7_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar <foreign>[rubr.]</foreign>.
+              <lb/>De la guerre civile feuillet premier
+              <lb/>De la guerre Alexandrine fueillet XL
+              <lb/>De la guerre d’Affrique fueillet LII
+              <lb/>De la guerre d’Espaigne feuillet LXX
+              <lb/>translatez par noble homme Estienne de Laigue dict Beauvoys.
+              <lb/>Des batailles et conquestez faictz par Cesar au paÿs de Gaule,
+              <lb/>translatez par feu de bonne memoire Robert Gaguin, general de l’ordre de la saincte Trinité
+              <lb/>Avec les protraictz [<foreign>sic</foreign>] et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens Commentaires.
+              <lb/>Ensemble les noms des lieux, villes et peuples du paÿs de Gaule</title>, <publisher>Jean André</publisher> (<publisher>Nicolas Couteau</publisher>, <publisher>Jean Petit</publisher>), <publisher>François Regnault</publisher>, Paris, 2°, <date when="1537">1537</date>, ill. 1 vol. en 2 parties aux foliotations indépendantes : 1re partie : 10 f. non foliotés contenant les pièces liminaires indiquées sur la page de titre ainsi que la dédicace d’Etienne de Laigue à Philippe Chabot et une table des chapitres suivis de 81 f. ; César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-40 ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 40v-51v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 52-69v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 70-76. 2e partie : <title type="ancien">Les commentaires et briefves descriptions de Jules Cesar, sur le faict des batailles et conquestes de Gaules translatez de latin en vulgaire françoys, par frere Robert Gaguin docteur en decret, et ministre general des freres de la saincte Trinité et redemption des prisonniers chrestiens. A treschrestien et tresexcellent prince Charles huytiesme de ce nom roy de France <lb/>Cy commence le livre dict des Commentaires de Jules Cesar sur le faict des batailles de Gaule, lequel contient huyt livres</title>... f. 1-99v : prologue de Robert Gaguin f. 1-1v ; f. 81 après l’explicit : <hi rend="i">Lisez liseurs attrait et entendez</hi>... Suit l’édition de 1531, dont certains bois ont été recopiés
+              <note place="inline">Exemplaire consulté : Paris, bibl. de l’Arsenal, 4° H 1057 [marque de Jean Petit, 2e partie, f. 81v]
+                <listBibl>
+                  <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n° 392</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8075 [Nicolas Couteau vend Jean Petit], n° 8076 [François Regnault]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime8_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar translatez par noble homme Estienne de Laigue dict Beauvoys, nouvellement reveuz et corrigez. Avec les portraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires</title>, <publisher>Arnoul Langelier</publisher> et <publisher>Charles Langelier</publisher>, <date notBefore="1538" notAfter="1539">[1538-]1539</date>, 2 parties in 16. 1re partie : 32 f. liminaires + 227 f. ; 2e partie : <title type="ancien">Les commentaires et briefves descriptions de Jules Cesar sur le faict des batailles et conquestes de Gaule, translatez de latin en vulgaire françois par frere Robert Gaguin docteur en decret</title>
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. J 13385 (uniquement 1re partie)
+                <listBibl>
+                  <bibl>J. Renouard, <title>L’officine des Langelier, libraires parisiens, 1536-1562, Bibliographie de leurs éditions</title>, mémoire présenté en 1916 [déposé à la Réserve de la Bibl. nat. de Fr.], p. 303-304 [notice]</bibl>
+                  <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n° 1191</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8077</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime9_de-bello-gallico">[<title type="ancien">Les commentaires de Jules Cesar</title>], Paris, <date when="1539">1539</date>, <publisher>Antoine Bonnemere</publisher> [pour <publisher>Jean Petit</publisher> et <publisher>Galliot Du Pré</publisher>, <publisher>Pierre Sergent</publisher>], 8°, ill., [8]-211 et [22]-222 f. 2 vol. aux foliotations indépendantes : 1er volume : 8 f. non foliotés contenant une page de titre [<title type="ancien">Les commentaires de Jules Cesar. <lb/>De la guerre civile feuillet premier <lb/>De la guerre Alexandrine fueillet XL <lb/>De la guerre d’Affrique fueillet LII <lb/>De la guerre d’Espaigne feuillet LXX <lb/>translatez par noble homme Estienne de Laigue dict Beauvois. <lb/>Des batailles et conquestz faictz par Cesar au paÿs de Gaule. <lb/>Translatez par feu de bonne memoire Robert Gaguin, general de l’ordre de la saincte Trinité <lb/>Avec les protraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens Commentaires. <lb/>Ensemble les noms des lieux, villes et peuples du paÿs de Gaule</title>] donnant la date de 1539 et le nom de Jean Petit, viennent ensuite la dédicace d’Etienne de Laigue à <persName type="dédicataire">Philippe Chabot</persName> et la table des chapitres du volume : la page de titre suit celle de l’édition de 1537 et ne correspond pas à la foliotation ou au contenu du volume, ces 8 feuillets ne sont pas imprimés sur le même papier ni au même format que le reste du volume ; <title type="ancien">Commentaires de Jules Cesar de la guerre civile, translatez par noble homme Estienne de Laigue dict Beaulvois</title> f. 1-112 ; <title type="ancien">Commentaires de Hyrtius Opius de la guerre de Alexandrie, translatez par noble homme Estienne de Laigue</title> f. 112-149v ; <title type="ancien">Commentaires de Aulus Hyrtius de la guerre de Affricque</title> f. 149v-183v ; <title type="ancien">Commentaires de Aulus Hyrtius de la guerre de Espaigne</title> f. 184-211v ; 2e volume : <persName type="ancien">Aulus Hirtius</persName>, <title type="ancien">De la guerre de Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 52-69v ; <persName type="ancien">Aulus Hirtius</persName>, <title type="ancien">De la guerre de Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 70-76. 2e partie : 8 f. non foliotés contenant une page de titre et la table des chapitres du volume : la table des chapitres reproduit celle du premier volume si ce n’est que la mention de Galiot du Pré a remplacé celle de Jean Petit, le papier est différent du reste du volume ; 14 f. non foliotés contenant <title type="ancien">Les protraictz et descriptions des lieux, fortresses, pontz, machines, sieges et autres choses dignes de memoire, dont il est faict mention aux commentaires de Jules Cesar</title> : sur le même papier que le reste du volume ; <title type="ancien">Les Commentaires et briefves descriptions de Jules Cesar, sur le faict des batailles et conquestes de Gaule, translatez de latin en vulgaire françois par frere Robert Gaguin docteur en decret et ministre general des freres de la saincte Trinité et redemption des prisonniers chrestiens, a treschrestien et tresexcellent prince, Charles huytiesme de ce nom roy de France</title> f. 1-222v : prologue de Robert Gaguin f. 1v-2 ; f. 222v après l’explicit : <hi rend="i">Lisez liseurs attrait et entendez</hi>...
+              <note place="inline">Exemplaire consulté : Paris, bibl. Sainte-Geneviève, Rés. invent. 1885, I 214 et Rés. invent. 1884, I 214
+                <listBibl>
+                  <bibl><title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 121, n° 128.708</bibl>
+                  <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n° 1190</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8078 [Antoine Bonnemère vend Jean Petit], n° 8079 [Antoine Bonnemère vend Charles L'Angelier], n° 8080 [vend Arnoul L'Angelier et Charles L'Angelier], n° 8081 [vend Jean Petit], n° 8082 [vend Vincent Sertenas], n° 8083 [Antoine Bonnemère vend Pierre Sergent], n° 8084 [vend Arnoul L'Angelier et Charles L'Angelier], n° 8085 [Antoine Bonnemère vend Jean Bonhomme], n° 8086 [vend Galliot du Pré], n° 8087 [vend Galliot du Pré et Antoine Bonnemère]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime10_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar. De la guerre civile fueil. premier, De la guerre alexandrine feuil. XL, De la guerre d’Affrique feuil. LII, De la guerre d’Espaigne feuil. LXX translatez par noble homme Estienne de Laigue dict Beauvois. Des batailles et conquestz faictz par Cesar au paÿs de Gaule translatez par feu de bonne memoire Robert Gaguin general de l’ordre de la saincte Trinité. Avec les pourtraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires, ensemble les noms des lieux, villes et peuples du paÿs de Gaule</title>, Paris, <date notBefore="1541" notAfter="1541">1541</date>, <publisher>Antoine Bonnemere</publisher>, pour Guillaume Le Bret, 8°, ill., 2 vol. [8]-211 et [?]. Suit l’édition de 1537 ou de 1539. Le premier volume contient : dédicace et table non foliotées ; César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-112  ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre de Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 112-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Affricque</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 149v-183v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 184-211v. Le deuxième volume contient : César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin
+              <note place="inline">Exemplaire consulté : Paris, bibl. de la Sorbonne, R.ra 930, in-12 [manque le 2e volume]
+                <listBibl>
+                  <bibl>Bibliographie : <title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 122, n° 128.713</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8088 [Antoine Bonnemère], n° 8089 [Guillaume Le Bret]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime11_de-bello-gallico"><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduictz par feu Robert Gaguin. Reveuz &amp; verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, Lyon, <date when="1545">1545</date>, <publisher>Jean de Tournes</publisher>, 2 vol. in-16, [48] + 504 p. et [8] + 496 p.
+              <note place="inline">
+                <listBibl>
+                  <bibl>Bibliographie : <title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 123, n° 128.722</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8090</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime12_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar translatez par noble homme Estienne de Laigue dit Beauvoys, nouvellement reveuz et corrigez
+              <lb/>Avec les portraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires</title>, P. Gaultier, Paris, 1545, in-16, ill., pièces liminaires et 391 f. César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-100v ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 101-134v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 135-174 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 174v-190 ; César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin (sans que le nom du traducteur apparaisse où que ce soit) f. 190v-398v : <title>Prologue sur les commentaires de Jules Cesar, de la guerre Gallicquaine</title> f. 190v-192 ; <title type="ancien">Cy aprés s’ensuit le premier livre des commentaires de Jules Cesar, sur le faict de la conqueste de la terre de Gaule, laquelle il fist autant qu’il se nommast empereur de Romme</title> f. 192v ; texte suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attrait et entendez</hi> f. 398v
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. p. J. 10
+                <listBibl>
+                  <bibl>Bibliographie : <title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 123, n° 128.723</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8090</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime13_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar translatez par noble homme Estienne de Laigue, dit Beauvoys, nouvellement reveuz et corrigez.
+              <lb/>Avec les portraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires</title>, <publisher>Pierre Gaultier</publisher>, Paris, <date when="1546">1546</date>, in-16, ill., pièces liminaires et 423 f. César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-111v ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 112-147 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 147v-190 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 190-207 ; César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin (sans que le nom du traducteur apparaisse où que ce soit) f. 207v-423v : <title>Prologue sur les commentaires de Julius Cesar, de la guerre Gallicquaine</title> f. 207v-209 ; <title type="ancien">Cy aprés s’ensuyt le premier livre des commentaires de Jules Cesar sur le faict de la conqueste de la terre de Gaule, laquelle il fist autant qu’il se nommast empereur de Romme</title> f. 209 ; texte suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attraict et entendez</hi> f. 423v
+              <note place="inline">Exemplaire à consulter : Paris, bibl. de la Sorbonne R 156, in-12
+                <listBibl>
+                  <bibl><title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 123, n° 128.726</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8091 [Pierre Gaultier pour Jean Barbé, 1545], n° 8092 [Arnoul L'Angelier et Charles L'Angelier], n° 8093 [Pierre Gaultier], n° 8094 [Pierre Gaultier chez Oudin Petit], n° 8095 [Pierre Gaultier vend Jean de Roigny]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime14_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar translatez par noble homme Estienne de Laigue dit Beauvoys, nouvellement reveuz et corrigez. Avec les protraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires</title>, <publisher>Guillaume Thiboust</publisher> [édition partagée avec <publisher>Jean Ruelle</publisher> et <publisher>Arnoul Langelier</publisher>], Paris, <date notBefore="1555" notAfter="1555">1555</date>, in-16, ill., pièces liminaires et 430 f. : César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-112v ; <persName>Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 113-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 150-194 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 194v-212 ; César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin (sans que le nom du traducteur apparaisse où que ce soit) f. 212v-430 : <title>Prologue sur les commentaires de Julius Cesar, de la guerre Gallicquaine</title> f. 212v-214 ; <title type="ancien">Cy aprés s’ensuyt le premier livre des commentaires de Jules Cesar, sur le faict de la conqueste de la terre de Gaule, laquelle il fist autant qu’il se nommast empereur de Romme</title> f. 214v ; texte suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attrait et entendez</hi> f. 430
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac 8° J. 7004 [au nom de Guillaume Thiboust]
+                <listBibl>
+                  <bibl>J. Renouard, <title>L’officine des Langelier, libraires parisiens, 1536-1562, Bibliographie de leurs éditions</title>, mémoire présenté en 1916 [déposé à la Réserve de la Bibl. nat. de Fr.], p. 304-305 [notice]</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8098 [chez Guillaume Thibout], n° 8099 [Guillaume Thibout chez Jean Ruelle], n° 8100 [Guillaume Thibout pour Arnoul L'Angelier]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime15_de-bello-gallico"><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date notBefore="1555" notAfter="1555">1555</date>, in-16, ill. 2 parties en 1 vol. : 1re partie : tables et autres pièces liminaires non paginées ; César, <title>De la guerre de Gaule</title> traduction de Robert Gaguin revue par Antoine de Moulins p. 1-502 ; 2e partie intitulée <title>Commentaires de Jules Cesar, De la guerre Civile, Alexandrine, d’Afrique, d’Espaigne [...] traduits par noble homme Estienne de Laigue dit Beauvois. Revuz et verifiez sus les vrays exemplaires latins, par Antoine du Moulin Masconnois</title> : César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> revue par <persName type="traducteur">Antoine de Moulins</persName> p. 1-265 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> revue par <persName type="traducteur">Antoine de Moulins</persName> p. 266-352 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> revue par <persName type="traducteur">Antoine de Moulins</persName> p. 353-455 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Espagne</title>, traduction d’<persName type="ancien">Etienne de Laigue</persName> revue par               <persName type="traducteur">Antoine de Moulins</persName> p. 456-496
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac J. 13381
+                <listBibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8097</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime16_de-bello-gallico"><title>Commentaires de Jules Cesar, de la guerre civile des Romains, et autres expeditions militaires par luy faites és Gaules, et Afrique. Avec portraits, descriptions des lieux, forts, ponts, machines, et autres choses contenues esdits commentaires, continuez par Aulus Hirtius Pansa, son contemporein</title>, Paris, <date notBefore="1545" notAfter="1555">[ca 1550]</date> pour Galiot Du Pré, in-16, ill., pièces liminaires [disain de Sagon (inc. <seg type="incipit">Lecteurs benings, discrets, faconds, et sages</seg>...)  ; dédicace d’Etienne de Laigue à Philippe Chabot ; table des chapitres ; portraits et descriptions annoncées dans le titre] et 432 f. César, <title>De la guerre civile</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 1-112v ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 113-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 150-194 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Espaigne</title>, traduction d’<persName type="traducteur">Etienne de Laigue</persName> f. 194v-212 ; César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin (sans que le nom du traducteur apparaisse sinon dans la table au début du volume f. 212v-432 : <title>Le prologue de frere Robert Gaguin docteur en decret &amp; ministre general des freres de la saincte Trinité sur le faict des batailles &amp; conquestes de Gaule) : Prologue sur les commentaires de Jules Cesar, de la guerre Gallicquaine</title> f. 212v-214 ; <title>Cy aprés s’ensuyt le premier livre des commentaires de Jules Cesar, sur le fait de la conqueste de la terre de Gaule, laquelle il feist avant qu’il se nommast empereur de Romme</title> f. 214v ; texte suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attrait et entendez</hi>... f. 432
+              <note place="inline">Exemplaires consultés : London, British Libr., 9040aaa14 ; Paris, Bibl. nat. de Fr., Résac J. 13395
+                <listBibl>
+                  <bibl>
+                    <title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 124, n° 128.733</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8096</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

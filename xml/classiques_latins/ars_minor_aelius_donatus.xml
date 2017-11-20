@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ars_minor_aelius_donatus" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">Ars minor</hi>, Aelius Donatus</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2017"/>
+        <idno>http://enc-sorbonne.fr/miroir/heroides_ovidius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>Aelius Donatus</author>, <title>Ars minor</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-27">révision de la notice</change>
+      <change who="#HRC" when="2014-03">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine</head>
+        <p>Le premier livre de l’<title type="ancien">Ars</title> d’Aelius Donatus, grammairien qui vécut à Rome au milieu du IV<hi rend="sup">e</hi> siècle, connu sous le nom d’<title type="ancien">Ars minor</title>, est un cours élémentaire sous forme de questions et de réponses traitant des huit parties du discours. Devenu dès l’Antiquité tardive et au Moyen Age le manuel de latin par excellence, l’<title type="ancien">Ars</title> de Donat dut son succès, d’après L. Holtz, à sa brièveté et sa sobriété, tant dans l’expression que dans les questions abordées.</p>
+        <listBibl>
+          <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans<title> Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 27-44.</bibl>
+          <bibl>L. Holtz, <title>Donat et la tradition de l’enseignement grammatical. Etude sur l’« Ars Donati » et sa diffusion (IV<hi rend="sup">e</hi>-IX<hi rend="sup">e</hi> siècle) et édition critique</title>, Paris, 1981</bibl>
+          <bibl>O. Mazal, <title>Die Überlieferung der antiken Literatur im Buchdruck der 15. Jahrhunderts</title>, Stuttgart, 2003, p. 604-618</bibl>
+        </listBibl>
+      </div>
+      <div type="traduction" xml:id="bern">
+        <head>Version du manuscrit Bern, Burgerbibl., 439</head>
+        <dateline>
+          <date notBefore="1250" notAfter="1299">2<hi rend="sup">e</hi> moitié du XIII<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>« Il s'agit de la plus ancienne rédaction française conservée de l'<title>Ars minor</title>. Très abrégée, elle semble bien correspondre à des notes de cours, à l'usage d'un maître connaissant par coeur, ou presque, le texte intégral [...]. Par rapport au texte « standard », B présente également de nombreux ajouts et définitions complémentaires communs à d'autres versions françaises » (M. Colombo Timelli,
+          <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 138). Cette adaptation est suivie de développements sur la déclinaison du nom et du pronom que l'on retrouve dans les autres versions françaises.</p>
+        <listBibl>
+          <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 86-91</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 138-144 [édition]</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Bern</settlement>
+              <repository>Burgerbibl.</repository>
+              <idno>439</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 76a-77d</locus>
+                <incipit>Quantes parties d’orison sont ? VIII etcetera. Li nons et li participes gouvernent et sont gouverné. Li pronons est gouvernés et si ne gouverne mie.</incipit>
+                <explicit>Item : Ihesus per omnes casus terminatur in u preterquam in nominativo et accusativo. Unde versus : « Dat Ihesus um quarto, reliquis u semper habeto  ».</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="bern_439" type="biblissima">
+              <msIdentifier>
+                <settlement>Bern</settlement>
+                <repository>Burgerbibl.</repository>
+                <idno>439</idno>
+                <msName type="sigle" resp="Colombo_Timelli">B</msName>
+                <msName type="sigle" resp="Städtler">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>recueil à forte dominante grammaticale ; entre autres <persName type="ancien">Evrard de Béthune</persName>,
+                  <title>Graecismus</title> commenté f. 1-74 ; <title>Ars minor</title> de Donat abrégé et corrompu f. 75r-v ; traduction de l’<title>Ars minor</title> de Donat f. 76a-77d ; <title>Ecloga Theoduli</title> glosée et commentée f. 138-151v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>165 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1250" notAfter="1300">Nord-Est de la France d'après la graphie, 2e moitié du XIIIe s.</origin>
+                <provenance>Possesseur : <orgName type="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. de garde).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 86-91</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 27-30</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 138-144 [édition]</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="paris">
+        <head>Version du ms Paris, Bibl. nat. de Fr., lat. 14095</head>
+        <dateline>
+          <date notBefore="1300" notAfter="1314">début du XIV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Version française complète de l'<title>Ars minor</title>, sans alternance entre latin et français, sauf dans les exemples et les <foreign>versus</foreign>. Les additions sont pour la plupart communes aux autres versions. « La traduction est suivie, sans solution de continuité, d'un complément, entièrement rédigé en français, sur les cinq déclinaisons du nom et les quatre déclinaisons du pronom » (M. Colombo Timelli,
+          <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 138).</p>
+        <listBibl>
+          <bibl>M. Colombo Timelli, « Un rifacimento antico-francese dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. lat. 14095 », dans <title>Istituto Lombardo Accademia di Scienze et Lettere</title>, Milan, 1988, p. 35-42</bibl>
+          <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 92-97</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’<title>Ars minor</title> de Donat au Moyen Age (XIII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 145-151</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>lat. 14095</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 1-4v</locus>
+                <incipit>Quantes parties d’oreson sont ? VIII. Quelles ? Le non, le pronon, le verbe, l’adverbe, le participe, la conjuction, la preposition et l’interjection. De ces VIII parties en y a IIII qui se declinent et IIII non</incipit>
+                <explicit>Ihesus meit toutes ses cases en u fors le nominatif qui se fet en us, l’accusatif en um. Versus : « Dat Ihesus um quarto, reliquis u semper habeto ».</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="lat_14095" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>lat. 14095</idno>
+                <msName type="sigle" resp="Städtler">G</msName>
+                <msName type="sigle" resp="Colombo_Timelli">P1</msName>
+              </msIdentifier>
+              <msContents>
+                <p>recueil : entre autres, <title>Ars minor</title> de Donat f. 1, 3, 5, 4r-v (manque le début) ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> f. 10v, 12-15 ;
+                  <title>Ecloga Theoduli</title> f. 20-25 ; <persName type="ancien">Ovide</persName>, <title>Remedia Amoris</title> f. 25-35v ; traduction de l’<title>Ars minor</title> de Donat f. 8v-11v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>64 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1400">Nord-Est de la France d'après la graphie, XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève, 565, f. 17 [1329], <title>Mss datés</title>, t. I, pl. 40)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>M. Colombo Timelli, « Un rifacimento antico-francese dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. lat. 14095 », dans <title>Istituto Lombardo Accademia di Scienze et Lettere</title>, Milan, 1988, p. 35-42</bibl>
+                  <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 92-97</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 35-36</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’<title>Ars minor</title> de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 145-151</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="paris2">
+        <head>Version du ms Paris, bibl. Mazarine, 3794, f. 22a-29a</head>
+        <dateline>
+          <date notBefore="1300" notAfter="1349">première moitié du XIV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>
+          <quote>« Cette version présente des points communs avec la version du manuscrit de Bern. Elle reste proche du texte latin, qu'elle complète par des additions que l'on retrouve dans les autres versions françaises. L'adaptation de l'<title>Ars minor</title> est suivie des développements habituels sur la déclinaison du nom et du pronom. »</quote>
+       </p>
+        <listBibl>
+          <bibl>S. Heiniman, « L’Ars minor de Donat traduit en ancien français », dans
+            <title>Cahiers Ferdinand de Saussure</title>, t. 23, 1966, p. 46-59</bibl>
+          <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 98-108</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 152-163</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>bibl. Mazarine</repository>
+              <idno>3794</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 22a-29a</locus>
+                <incipit>Quantes parties d’oroison sont ? VIII. Queles ? Li nons, li pronons, le verbe, li adverbe, li participe, la conjunction, la preposition, l’interjection. Lesqueles se declinent et lesqueles ne se declinent mie ?</incipit>
+                <explicit>Item : Ihesus per omnes casus terminatur in u preterquam in nominativo et accusativo. Unde versus : « Dat Ihesus um quarto, reliquis u semper habeto  ».</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="mazarine3794" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. Mazarine</repository>
+                <idno>3794</idno>
+                <msName type="sigle" resp="Städtler">M1</msName>
+                <msName type="sigle" resp="Colombo_Timelli">M1</msName>
+              </msIdentifier>
+              <msContents>
+                <p>recueil de textes grammaticaux : entre autres, <title>Ars minor</title> de Donat (version étoffée) f. 1-10v ; traduction de l’<title>Ars minor</title> de Donat f. 22a-29a ; traduction de l’<title>Ars minor</title> de Donat f. 41b-52b ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 85-129 ; <title>Ecloga Theoduli</title> commentée et glosée f. 130-162.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>162 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>A. Molinier, <title>Catalogue des manuscrits de la bibliothèque Mazarine</title>, Paris, 1890, p. 185</bibl>
+                  <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 98-108</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’Art mineur de Donat en ancien et moyen français », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 30-32</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 152-163</bibl>
+                  <bibl>Liber Floridus [7 images] <ref target="http://liberfloridus.cines.fr">http://liberfloridus.cines.fr</ref></bibl>
+                  <bibl>notice IRHT</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="paris3">
+        <head>Version du ms Paris, bibl. Mazarine, 3794, f. 41b-52b</head>
+        <dateline>
+          <date notBefore="1300" notAfter="1349">première moitié du XIVe siècle</date>
+        </dateline>
+        <p>Version bien plus longue que toutes les autres, qui contient des développements qui lui sont propres. L'alternance entre français et latin, comme l'abstraction de certaines additions, la rattachent à un enseignement supérieur.</p>
+        <listBibl>
+          <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 109-125</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 164-179</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>bibl. Mazarine</repository>
+              <idno>3794</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 41b-52b</locus>
+                <incipit>Quantes parties d’oroison sont ? VIII. Queles ? Le non, le pronon, le verbe, li adverbe, le participle, la conjunction, la preposition et l’incterjection. D’ices VIII quatre en i a qui se declinent et III qui ne se declinent mie.</incipit>
+                <explicit>Unde versus : « Proth rectum petit, heu quartum, tertium petit ve ».</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. Mazarine</repository>
+                <idno>3794</idno>
+                <msName type="sigle" resp="Städtler">M2</msName>
+                <msName type="sigle" resp="Colombo_Timelli">M2</msName>
+              </msIdentifier>
+              <msContents>
+                <p>recueil de textes grammaticaux : entre autres, <title>Ars minor</title> de Donat (version étoffée) f. 1-10v ; traduction de l’<title>Ars minor</title> de Donat f. 22a-29a ; traduction de l’<title>Ars minor</title> de Donat f. 41b-52b ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 85-129 ; <title>Ecloga Theoduli</title> commentée et glosée f. 130-162.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>162 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>A. Molinier, <title>Catalogue des manuscrits de la bibliothèque Mazarine</title>, Paris, 1890, p. 185</bibl>
+                  <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 109-125</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’Art mineur de Donat en ancien et moyen français », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 30-32</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 164-179</bibl>
+                  <bibl>Liber Floridus [7 images] <ref target="http://liberfloridus.cines.fr">http://liberfloridus.cines.fr</ref></bibl>
+                  <bibl>notice IRHT</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="vatican">
+        <head>Version du ms Vaticano, Bibl. apostolica vaticana, Vat. lat. 1479</head>
+        <dateline>
+          <date notBefore="1300" notAfter="1399">XIV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Version « standard » (Colombo Timelli, <title>Traductions françaises...</title> ) de l'<title>Ars minor</title> en français, comprenant les additions habituelles au traité.</p>
+        <listBibl>
+          <bibl>B. Merrilees et Ann Dalzell, « L’<title>Art mineur</title> de Vatican, Bibliotheca Apostolica Vaticana, Vat. lat. MS 1479 », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 45-52</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 180-190</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Vaticano</settlement>
+              <repository>Bibl. apostolica Vaticana</repository>
+              <idno>Vat. lat. 1479</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 4a-6b</locus>
+                <incipit>Quantes parties d’oreison sont ? VIII. Queles ? Le non, le pronon, le verbe, l’averbe, le participle, la conjunction, la preposicion et l’interjection. Quantes en i a qui se declinent et quantes qui ne se declinent mie ?</incipit>
+                <explicit>Ihesus est en nominatif, Ihesum en l’accusatif. Ihesu par totes les autres cases : « Dat Ihesus um quarto, reliquis u semper habeto ».</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="bav_lat1479" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Vaticano</settlement>
+                <repository>Bibl. apostolica Vaticana</repository>
+                <idno>Vat. lat. 1479</idno>
+                <msName type="sigle" resp="Colombo_Timelli">V</msName>
+              </msIdentifier>
+              <msContents>
+                <p>recueil à dominante grammaticale : entre autres <title>Ars minor</title> de Donat f. 1a-2d ; traduction de l’<title>Ars minor</title> de Donat f. 4a-6b ; [<title>Grammatica</title>] f. 6b-7c ; <persName type="ancien">Alcuin</persName>, <title>Liber regiminum</title> f. 7c-9d  ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 9d-15d ; <title>EclogaTheoduli</title> commentée f. 15d-25b ;
+                  <persName type="ancien">Ovide</persName>, <title>Remedia amoris</title> commentés f. 25b-32b ; <persName type="ancien">Mathieu de Vendôme</persName>, <title>Tobias</title> commenté f. 32b-51a ; <persName type="ancien">Ovide</persName>,
+                  <title>Metamorphoses</title> commentées f. 53-182v ; <persName type="ancien">Gauthier de Châtillon</persName>,
+                  <title>Alexandreis</title> commentée f. 183-245</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>215 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. ; France méridionale ? (proche du ms Paris, Bibl. nat. de Fr., lat. 3893, f. 73 [1314], <title>Mss datés</title>, t. II, pl. 42)</origin>
+                <provenance>possesseurs : <persName type="possesseur" key="Salutati, Coluccio">Coluccio Salutati</persName> ? († 1406) (f. 245v) ; <persName type="possesseur" key="Nicolas V">Nicolas V</persName> († 1455) ; Bibliothèque vaticane.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>B. Merrilees et A. Dalzell, « L’<title>Art mineur</title> de Vatican, Bibliotheca Apostolica Vaticana, Vat. lat. MS 1479 », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 45-52</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 33-35</bibl>
+                  <bibl>E. Pellegrin et alii, <title>Les manuscrits classiques latins de la Bibliothèque vaticane</title>, t. III/1, Paris, 1991, p. 60-64</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 180-190</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="salins">
+        <head>Version du ms Salins, bibl. mun. 44</head>
+        <dateline>
+          <date notBefore="1300" notAfter="1435">avant 1436</date>
+        </dateline>
+        <p>« Version incomplète, elle ne comprend que le paragraphe d'introduction et la première partie du chapitre du nom ; le texte s'arrête après l'exposé sur les cas, juste au commencement d'un ajout sur la signification de ceux-ci ». (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 191). Cette adaptation, qui enrichit considérablement l'original latin, laisse poindre une analyse du français.</p>
+        <listBibl>
+          <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 126-127</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 192-194</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Salins</settlement>
+              <repository>bibl. mun.</repository>
+              <idno>44</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 162v-164</locus>
+                <incipit>Quant parties d’oroison sont ? Huit. Lesquelz huit ? Ly nom, ly pronom, ly verbe, ly adverbe, ly participe, ly conjunction, ly preposition et ly interjection. De ces huit en y a IIII qui se declinant et quatre qui ne se declinant pas.</incipit>
+                <explicit>O magister, o tu maistre ? Du vocatif. Ab hoc magistro, du maistre, de par le maistre, ensemble le maistre, avec le maistre ? De l’ablatif. &lt;Q&gt;u’est li sens du nominatif ?</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="salins_44" type="biblissima">
+              <msIdentifier>
+                <settlement>Salins</settlement>
+                <repository>bibl. mun.</repository>
+                <idno>44</idno>
+                <msName type="sigle" resp="Colombo_Timelli">S</msName>
+              </msIdentifier>
+              <msContents>
+                <p>2 manuscrits réunis</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>198 f. papier</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : de la main de <persName type="copiste">Nicolas Colard</persName></p>
+                </handDesc>
+              </physDesc>
+              <history>
+                <provenance>Possesseurs : <persName type="possesseur" key="Nicolas Colard">Nicolas Colard</persName>, <quote>« ordinis sancti Benedicti, capellanus [<foreign>sic</foreign>] honoris regine Sicilie, et emit anno Domini Jhesu 1436 »</quote> (f. 187v), <quote>« Iste liber est Nicolao Colardi de Metis... monasterii Sanctorum Andree et Sabine de Urbe »</quote> (f. 197v) ; acheté à un dénommé <persName type="possesseur" key="Porcher, habitant de Salins">Porcher, habitant de Salins</persName> par <persName type="possesseur" key="Jean Perrot">Jean Perrot</persName> en 1476 (f. 198v).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 9 (1888), p. 14</bibl>
+                  <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, t. V, Paris, 1965, p. 604</bibl>
+                  <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 126-127</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 38-39</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 192-194</bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <msIdentifier>
+                  <idno>I</idno>
+                </msIdentifier>
+                <msContents>
+                  <p>glossaire latin-français <title>Aalma</title> f. 1-162 ; traduction de l’<title>Ars minor</title> de Donat f. 162v-164 : texte incomplet de la fin ; f. 164v-166 blancs</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>166 f.</p>
+                  </objectDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> siècle (proche du ms Paris, bibl. de l’Arsenal, 767, f. 2 [1424], <title>Mss datés</title>, t. I, pl. 85)</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <msIdentifier>
+                  <idno>II, f. 167-197</idno>
+                </msIdentifier>
+                <msContents>
+                  <p>Extraits d’<persName type="ancien">Aristote</persName> f. 167-181 ; f. 181v-182v blancs ; traités de grammaire latine f. 183a-197c (f. 187v blanc ; f. 196bis-196bisv blanc).</p>
+                </msContents>
+                <history>
+                  <origin notBefore="1350" notAfter="1436">avant 1436</origin>
+                </history>
+              </msPart>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="paris4">
+        <head>Version du ms Paris, Bibl. nat. de Fr., nouv. acq. fr. 1120</head>
+        <dateline>
+          <date notBefore="1400" notAfter="1440">première moitié du XVe siècle</date>
+        </dateline>
+        <p>Version « standard » de l'<title>Ars minor</title> en français, avec les ajouts habituels et les deux compléments sur la déclinaison du nom et du pronom.</p>
+        <listBibl>
+          <bibl>M. Colombo Timelli, « Il rafacimento dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. n.a.f. 1120. Introduzione ed edizione », dans <title>Annali dell’Istituto Universitario Orientale-napoli, Sezione Romanza</title>, t. 32/1, 1990, p. 19-27</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 196-204</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>nouv. acq. fr. 1120</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 474d-477d</locus>
+                <incipit>Quantes parties d’orison sont ? VIII, qui sont le nom, le pronom, le verbe, le adverbe, le participe, le conjunction, le preposicion et le interjection. De ches VIII parties IIII en y a qui se declinent et les aultres nient.</incipit>
+                <explicit>Tous les nons du monde sont de tierche personne fors IIII. Qui sont ilz ? Ego, tu, nos et vos. Expliciunt principia gramaticalia.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="nafr_1120" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>nouv. acq. fr. 1120</idno>
+                <msName type="sigle" resp="Colombo_Timelli">P2</msName>
+              </msIdentifier>
+              <msContents>
+                <p><persName type="ancien">Firmin Le Ver</persName>, <title>Dictionnaire latin-français</title> f. 1a-467a ; f. 467b-d blanc ; Donat,
+                  <title>Ars minor</title> f. 468a-471a ; annexe au traité de Donat contenant les conjugaisons <foreign>amo</foreign>,
+                  <foreign>doceo</foreign>, <foreign>lego</foreign>,
+                  <foreign>audio</foreign>, <foreign>sum</foreign>, et
+                  <foreign>volo</foreign> (Inc. <seg type="incipit">Amo Je aimme Amas tu aimmes Amat chil aimme</seg>... ; expl. ...<seg type="explicit">unum participum habet quod est Volens</seg>), f. 471a-474d ; traduction de l’<title>Ars minor</title> de Donat f. 474d-477d ; notes grammaticales f. 477d-478d (inc. <seg type="incipit">Omnia verba deponentia habent tria participia in ens</seg>... ; expl. ...<seg type="explicit">Item nominativus ponitur absolute causa relationis Ut cum dicitur Dominus in celo sedes ejus</seg>).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>478 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1420" notAfter="1440">Nord-Est de la France d'après des traits picards-wallons (?), 1420-1440 (proche du ms Paris, Bibl. nat. de Fr., lat. 1299, f. 294v-295 [1436], <title>Mss datés</title>, t. II, pl. 95)</origin>
+                <provenance>Possesseur : <orgName type="possesseur" key="Thuison-les-Abbeville, chartreuse Saint-Honoré">Chartreuse de Saint-Honoré</orgName> à Thuisson près d’Abbeville (ex libris f. 467a).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, nouvelles acquisitions françaises</title>, t. I, Paris, 1899, p. 149-150</bibl>
+                  <bibl>M. Colombo Timelli, « Il rafacimento dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. n.a.f. 1120. Introduzione ed edizione », dans <title>Annali dell’Istituto Universitario Orientale-napoli, Sezione Romanza</title>, t. 32/1, 1990, p. 19-27</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 36-37</bibl>
+                  <bibl>B. Merrillees et W. Edwards, <title>Firmini Verris Dictionarius, Dictionnaire latin-français de Firmin Le Ver</title>, Turnhout, 1994 (Lexica latina medii aevi, 1), p. VIII-IX</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 196-204</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="paris5">
+        <head>Version du ms Paris, Bibl. nat. de Fr., nouv. acq. fr. 4690</head>
+        <dateline>
+          <date notBefore="1400" notAfter="1488">XV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>« Tout en respectant dans l'ensemble le plan de l'<title>Ars minor</title>, cette traduction supprime systématiquement (suppression étonnante et d'ailleurs unique parmi les versions françaises) toutes les définitions des parties du discours dont les accidents sont introduits directement en ouverture de paragraphe. » (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 205). Cette version intègre de nombreux ajouts. Les développements sur les déclinaisons du nom et du pronom sont intégrés dans le corps de la traduction, qui se signale pour l'emploi alterné du français et du latin.</p>
+        <listBibl>
+          <bibl>M. Colombo, « La traduction-remaniement de l’<title>Ars minor</title> de Donat du ms. Paris B.N. n.a.f. 4690. Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 1-26</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 205-216</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>nouv. acq. fr. 4690</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 1-10v</locus>
+                <incipit>Quantes parties de oreysons sunt ? VIII. Queles VIII ? Ly nons, ly pronons, ly verbe, ly adverbie, ly participie, ly conjunctions, ly preposicions et ly interjections. De sete VIII il en ha IIII qui se declinent et IIII qui ne se declinent pas.</incipit>
+                <explicit>... mervelle ut pape ; pour ensei comme atat, ast, et si qua sont similia. <lb/>Michaelli Clareti Romis est. <lb/>Expliciunt accidencia Deo gratias <lb/>per me Michaellem Clareti anno domini <lb/>millesimo quatrocentesimo octuagesimo <lb/>octavo et die XIIIa mensis martii.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="nafr_4690" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>nouv. acq. fr. 4690</idno>
+                <msName type="sigle" resp="Colombo_Timelli">P3</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Ars minor</title> de Donat f. 1-10v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>10 f. papier (sans filigrane)</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1488">XV<hi rend="sup">e</hi> s. (avant 1488, cf. f. 10v)</origin>
+                <provenance>Possesseur : <persName type="possesseur" key="Michel Clareti">Michel Clareti</persName> (XV<hi rend="sup">e</hi> s., cf. 10v).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, nouvelles acquisitions françaises</title>, Paris, 1900, t. II, p. 235</bibl>
+                  <bibl>M. Colombo, « La traduction-remaniement de l’<title>Ars minor</title> de Donat du ms. Paris B.N. n.a.f. 4690. Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 2-3</bibl>
+                  <bibl>B. Merrilees et A. Dalzell, « Les manuscrits de l’<title>Art mineur</title> de Donat en ancien et moyen français », dans
+                    <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 4, 1990, p. 39-40</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 205-216</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="utrecht">
+        <head>Version de Utrecht, Bibl. der Rijkuniversiteit, incunable B.qu.66.</head>
+        <dateline>
+          <date notBefore="1460" notAfter="1470">vers 1460-1470</date>
+        </dateline>
+        <p>« Version fragmentaire suite à la perte d'un double feuillet qui devait contenir la présentation presque complète des accidents du pronom et la première partie de l'exposé sur le verbe » (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 217). On y retrouve les ajouts habituels, parfois enrichis. Cette version « est rédigée uniquement en français (sauf naturellement pour la plupart des exemples et les
+          <foreign>versus</foreign>), ce qui la différencie des versions manuscrites et la rapproche plutôt de l'autre version imprimée » (<foreign>ibidem</foreign>).</p>
+        <listBibl>
+          <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans
+            <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 218-224</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement/>
+              <repository/>
+              <idno/>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <incipit>Quantes parties d’oraison sont ? VIII. Quelles ? Le nom, le pronom, le verbe, l’adverbe, le participe, la conjunction, la preposicion, la interjection. De ces VIII parties d’oraison quatre en y a qui se declinent et quatre qui ne se declinent mye.</incipit>
+                <explicit>...admiration comme pape, pours &lt;comme&gt; &gt;at, ac, ast. Et si plus en y a, elles sont semplables. Et sic est finis.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="imprime">
+          <head>Imprimé</head>
+          <listBibl type="poList">
+              <bibl xml:id="imprime1_ars-minor">[traduction de l’<title>Ars minor</title> de Donat], sans indication de lieu, d’imprimeur ni de date, [Utrecht ?, vers 1460-1470], 4°, 4 f. (f. 1-2, 7-8) : manquent les f. 3-6. Sigle : <hi rend="i">U</hi> Colombo Timelli. <note>Exemplaire : Utrecht, Bibl. der Rijkuniversiteit, incunable B.qu.66</note>
+                <note place="inline">
+                  <listBibl>
+                    <bibl>M.-F.-A.-G. Campbell, <title>Annales de la typographie néerlandaise au XV<hi rend="sup">e</hi> s.</title>, 3<hi rend="sup">e</hi> supplément, La Haye, 1889, p. 10-11, n° 615a</bibl>
+                    <bibl><title>Incunabula in Dutch Libraries</title>, t. I, 1983, n° 1628, p. 245</bibl>
+                    <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
+                    <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 218-224</bibl>
+                    <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="aix">
+        <head>Version de Aix-en-Provence, bibl. mun., incunable 47</head>
+        <dateline>
+          <date notBefore="1490" notAfter="11500">vers 1495</date>
+        </dateline>
+        <p>« Il s'agit sans doute de la version française antérieure au XVI<hi rend="sup">e</hi> siècle la plus fidèle à l'original latin. Les seuls ajouts ne consistent qu'en de brèves remarques concernant la distinction entre parties déclinables et indéclinables du discours, le régime du superlatif suivi de nom collectif, le nombre des pronoms et les quatre adverbes de lieu. A la fin du traité trouvent place les paragraphes sur les déclinaisons du nom et du pronom et sur les noms propres
+          <foreign>Moyses</foreign> et <foreign>Ihesus</foreign> (M. Colombo Timelli,
+          <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 225).</p>
+        <listBibl>
+          <bibl>M. Colombo Timelli, « Un <title>Ars minor</title> français publié à la fin du XV<hi rend="sup">e</hi> siècle (Paris, Felix Baligault, s.d.). Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 12, 1995, p. 95-111</bibl>
+          <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 225-230</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition M. Colombo Timelli</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement/>
+              <repository/>
+              <idno/>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. b5-b8v</locus>
+                <incipit>Quantes parties d’orayson sont ? Huit. Quelles ? Le nom, le pronom, le verbe, le adverbe, le participe, la conjunction, la preposition et l’interjection. De ces huit quatre en y a qui se declinent et quatre non.</incipit>
+                <explicit>Ihesus met tous ses cases en u, fors le nominatif qui fait en us et l’accusatif en um. Unde versus : « Dat Ihesus um quarto, reliquis u semper habeto » <lb/>Octo partium orationis cum accidentibus eiusdem feliciter expliciunt.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="imprime">
+          <head>Imprimé</head>
+          <listBibl type="msList">
+              <bibl xml:id="imprime2_ars-minor">[<title>Ars minor</title> de Donat et traduction française de l’<title>Ars minor</title> de Donat], Paris, <publisher>Felix Baligault</publisher>, [<date notBefore="1490" notAfter="1500">vers 1495</date>], 4°, 16 f. Traduction de l’<title>Ars minor</title> de Donat f. b5-b8v. Sigle : <hi rend="i">A</hi> Colombo Timelli. <note>Aix-en-Provence, bibl. mun., incunable 47</note>
+                <note place="inline">
+                  <listBibl>
+                    <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VII, n°8906</bibl>
+                    <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, 1897-1909, n°4420</bibl>
+                    <bibl>M. Colombo Timelli, « Un <title>Ars minor</title> français publié à la fin du XV<hi rend="sup">e</hi> siècle (Paris, Felix Baligault, s.d.). Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 12, 1995, p. 95-111</bibl>
+                    <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 225-230</bibl>
+                    <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

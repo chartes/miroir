@@ -1,0 +1,2425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="epitoma_rei_militaris_vegetius" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">Epitoma rei militaris</hi>, Flavius Renatus Vegetius</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2017"/>
+        <idno>http://enc-sorbonne.fr/miroir/heroides_ovidius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>Flavius Renatus Vegetius</author>, <title>Epitoma rei militaris</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-17">révision de la notice</change>
+      <change who="#HRC" when="2014-03">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine</head>
+        <p>Transmis par plus de 200 manuscrits latins antérieurs à 1500, Végèce a connu une fortune tardive. Entre 450 et le VII<hi rend="sup">e</hi> siècle, il n’y a pas de trace de manuscrits de l’<title>Epitoma</title>, mais <persName type="ancien">Isidore de Séville</persName> et <persName type="ancien">Bède le Vénérable</persName> le connaissaient. Avec la renaissance carolingienne, Végèce est davantage lu : 4 manuscrits datés du IX<hi rend="sup">e</hi> siècle nous sont parvenus. Le succès se confirme au X<hi rend="sup">e</hi> siècle avant un reflux des copies au XI<hi rend="sup">e</hi> siècle (seulement 6). On observe cependant un regain d'intérêt pour Végèce au XII<hi rend="sup">e</hi> siècle avec 14 manuscrits. Commence alors la tradition politique de Végèce, largement compilé par <persName type="ancien">Jean de Salisbury</persName> dans le
+          <title>Policraticus</title>. Aux XII<hi rend="sup">e</hi>-XIII<hi rend="sup">e</hi> siècles, même si l’Italie continue à copier Végèce, sa diffusion est surtout le fait de centres français et anglais. Les XIV<hi rend="sup">e</hi> et XV<hi rend="sup">e</hi> siècles voient une inflation spectaculaire des manuscrits.</p>
+        <listBibl>
+          <bibl>C. S. Schrader, « A Handlist of extant manuscripts containing the <title>De Re militari</title> of Flavius Vegetius Renatus », dans
+            <title>Scriptorium</title>, t. 33, 1979, p. 280-305</bibl>
+          <bibl>J. A. Wisman, « L’<title>Epitoma rei militaris</title> de Végèce et sa fortune au Moyen Age », dans <title>Le Moyen Age</title>, t. 85, 1979, p. 13-31</bibl>
+          <bibl>J. A. Wisman, « Flavius Renatus Vegetius », dans P. O. Kristeller, V. Brown, F. E. Cranz (éd.), <title>Catalogus translationum et commentariorum : Medieval and Renaissance Latin Translations and Commentaries. Annotated Lists and Guides</title>, Washington, t. VI, 1986, p. 175-184</bibl>
+          <bibl>D. Trolli, « Aspetti della fortuna di Vegezio nei secc. XIII e XIV », dans
+            <title>Tradizione dell’antico nelle letterature e nelle arti d’Occidente. Studi in onore di Maria Bellincioni Scarpat</title>, Rome, 1990, p. 186-192</bibl>
+          <bibl>P. Richardot, <title>Végèce et la culture militaire au Moyen Age : Ve-XVe siècles</title>, Paris, 1998</bibl>
+          <bibl>O. Mazal, <title>Die Überlieferung der antiken Literatur im Buchdruck der 15. Jahrhunderts</title>, Stuttgart, 2003, t. III, p. 795-800</bibl>
+        </listBibl>
+      </div>
+      <div type="presentation">
+        <head>Textes non retenus</head>
+        <div type="textenonretenu">
+          <head><persName>Christine de Pizan</persName>, <title>Livre des faits d’armes et de chevalerie</title></head>
+          <p>Un tiers environ du <title>Livre des faits d’armes et de chevalerie</title> (1410) est redevable, directement ou indirectement – par l’intermédiaire de la traduction de <persName type="traducteur">Jean de Vignay</persName> – à Végèce. Ce texte a été imprimé sans le nom de <persName type="ancien">Christine</persName> et sous une forme légèrement remaniée sous le titre <title>L’art de chevalerie selon Végèce</title>, Paris, Antoine Vérard, 1488, 2°. Une seconde édition parut bien plus tard : <title>L’arbre des batailles et fleur de chevalerie selon Végèce, avecques plusieurs hystoires et utilles remonstrances du fait de guerre par luy extraictes de Frontin, Valere et de plusieurs aultres aucteurs comme pourrez veoir cy aprés</title>, Paris, Philippe Le Noir, 1527.</p>
+          <listBibl>
+            <bibl>T. E. Wareham, « Christine de Pisan’s Livre des faits d’armes et de chevalerie and its Fate in the Sixteenth Century », dans F. Simone, J. Beck, G. Mombello (éd.), <title>Seconda miscellanea di studi e ricerche sul Quattrocento francese</title>, Chambéry, 1981, p. 135-142</bibl>
+            <bibl>C. C. Willard, « Pilfering Vegetius ? Christine de Pizan's Faits d'Armes et de Chevalerie », dans L. Smith et J. H. M. Taylor (éd.), <title>Women, the Book and the Worldly : Selected Proceedings of the St Hilda's Conference, 1993, II</title>, Cambridge, 1995, p. 31-37</bibl>
+            <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V025</bibl>
+          </listBibl>
+        </div>
+        <div type="textenonretenu">
+          <head><persName type="ancien">Robert de Balsac</persName>, <title>Traité sur la guerre</title> (entre 1492 et 1502)</head>
+          <p>Traité en cinq parties, qui adapte largement l’<title>Epitoma</title> de Végèce.</p>
+          <listBibl>
+            <bibl>P. Contamine, « The war literature of the late Middle Ages : the treatises of Robert de Balsac and Béraud Stuart, lord of Aubigny », dans C. T. Allmand (éd.), <title>War literature and politics in the late Middle Ages</title>, Liverpool, 1976, p. 102-121</bibl>
+          </listBibl>
+        </div>
+        <div type="textenonretenu">
+          <head><persName type="ancien">Béraud Stuart</persName>, <title>Traité pour un chef de guerre</title></head>
+          <p>Traité militaire qui s’inspire du texte de <persName type="ancien">Robert de Balsac</persName>.</p>
+          <listBibl>
+            <bibl>Berault Stuart, seigneur d’Aubigny, <title>Traité sur l’Art de la Guerre</title>, éd. Elie de Comminges, La Haye, 1976 (Archives internationales d’histoire des idées, 85)</bibl>
+            <bibl>P. Contamine, « The war literature of the late Middle Ages : the treatises of Robert de Balsac and Béraud Stuart, lord of Aubigny », dans C. T. Allmand (éd.), <title>War literature and politics in the late Middle Ages</title>, Liverpool, 1976, p. 102-121</bibl>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="anglo-normande">
+        <head>Traduction anglo-normande : <title>La chivelerie de Rome</title></head>
+        <dateline>
+          <date notBefore="1251" notAfter="1300">seconde moitié du XIIIe siècle</date>
+        </dateline>
+        <p>Traduction anonyme en prose d’une grande sobriété, composée en Angleterre dans la seconde moitié du XIII<hi rend="sup">e</hi> siècle. Les vers inscrits sur le dernier feuillet de garde ne permettent pas d’attribuer la copie ou la confection de la traduction à un certain maître Richard, comme l’a proposé L. Thorpe. En revanche, une référence dans la traduction à la bataille de Kenilworth nous assure que la traduction est postérieure à cette victoire du prince Edouard sur Simon de Montfort. La miniature représentant Lord Edouard et ses chevaliers recevant l’enseignement de Végèce conduit à dater le manuscrit soit entre 1265 et 1272, soit entre 1284 et 1307. En effet, il ne peut s’agir que d’Edouard Ier ou d’Edouard II avant leur accession au trône, puisque Lord Edouard est représenté sans les insignes royaux.</p>
+        <p>Le traducteur rend son texte à peu près mot à mot, sans additions ni amplifications. Il préfère couper plutôt que d’introduire en français des néologismes. Le texte latin utilisé était une recension en quatre livres. Le premier livre de la traduction compte 27 chapitres suite à la fusion des chapitres 26 et 27. Le prologue latin du livre II devient dans la traduction le chapitre 1 ; les chapitres 7 et 8 ainsi que les chapitres 13 et 14 sont fondus et deviennent respectivement les chapitres 8 et 13 de la traduction. L’ordonnance du livre IV est entièrement bouleversée : la matière des 46 chapitres latins est regroupée en 21.</p>
+        <listBibl>
+          <bibl>L. Thorpe, « Master Richard, a thirteenth century translator of the “De re militari” of Vegetius », dans <title>Scriptorium</title>, t. 6, 1952, p. 39-50 [présentation du ms, édition d’extraits]</bibl>
+          <bibl>L. Thorpe, « Maistre Richard at the skirmich of Kenilworth », dans
+            <title>Scriptorium</title>, t. 7, 1953, p. 120-121 [revient sur un ajout du traducteur]</bibl>
+          <bibl>D. Legge, « The Lord Edward's Vegetius », dans <title>Scriptorium</title>, t. 7, 1953, p. 262-265</bibl>
+          <bibl>L. K. Carley, <title>The anglo-norman Vegetius. A Thirteenth Century Translation of the "De re militari" of Flavius Vegetius Renatus</title>, University of Nottingham, 1962 [édition dactylographiée]</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V021</bibl>
+        </listBibl>
+        <div type="edition prologue">
+          <head>Prologue</head>
+          <p>Le prologue de Végèce sert de prologue à la traduction. Il a été édité par L. Thorpe (« Master Richard, a thirteenth century translator of the “De re militari” of Vegetius », dans <title>Scriptorium</title>, t. 6, 1952, p. 46) suivant le ms Cambridge, Fitzwilliam Museum, Add. Ms. I Marlay Coll., f. 3r-v.</p>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d’après le ms</p>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Cambridge</settlement>
+              <repository>Fitzwilliam Museum</repository>
+              <idno>Add. Ms. I Marlay Coll.</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 1</locus>
+                <title>Table des chapitres</title>
+                <incipit>Ici comence le auctor e escrit de la chivalerie de Rome I <lb/>De queus nacions om deit eslire lous chivalers II</incipit>
+              </msItem>
+              <msItem>
+                <title>Livre I</title>
+                <msItem>
+                  <locus>f. 3</locus>
+                  <title>Prologue de l’auteur au livre I</title>
+                  <incipit>Issi comence le proeme de Vegece le philesophe de Rome al emperere Trajan du livre ke il fist de choses ke apartenent a chivalerie e de tute maneres de batailles auncienes lequel livre chescun prince de tere devereit aver
+                    <foreign>(rubr.)</foreign>
+                    <lb/>Al ancian tens fu la custume de philosophes de mettre en escrit les bones ars e quant il aveient fet lur livres si les presentayent as princes Kar ren n’est a droyt comencé si premerement aprés Deu ki la science done si l’emperere ou li prince de la tere nel otreye...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 3v-19</locus>
+                  <title>Texte</title>
+                  <incipit>Ici comence li auctor de la chivalerie de Rome <foreign>(rubr.)</foreign>
+                    <lb/>Isci comence Vegece sun livre e dit ki les Romeyns conquirent tot le munde e totes les terres solement par usage de armes e par mestrie de ost e par us de chevalerie.</incipit>
+                  <explicit>...kar plus profitable chose de aprendre les soens des armes ke allower autres trop cher.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <locus>f. 19-36v</locus>
+                <title>Livre II</title>
+                <incipit>Si commence le second livre de Flavian e Vexare e Renate de epitome de comentaries et des institucions de chose ke apent a chivalerie e ensement de Trajan e de Adrian e de Frontin augmentatus
+                  <lb/>Les establissemenz <foreign>(rubr.)</foreign>
+                  <lb/>En cest premer chapitre del second livre dist li auctor ke l’em deit retenir les establissemenz...</incipit>
+                <explicit>...en quel leu ke il viengnet la ou hebergerie est fait k’il facent cité armee.</explicit>
+              </msItem>
+              <msItem>
+                <locus>f. 36v-73</locus>
+                <title>Livre III</title>
+                <incipit>Si comencent les chapitres del tiers livre Comment e en quele manere le ost deit estre governé seinement par com grant cure les vitailles sunt a porveier...</incipit>
+                <explicit>...quant je ai ordiné par ordre les divers auctors ke quant il sunt fait il profiterunt a tuz.</explicit>
+              </msItem>
+              <msItem>
+                <locus>f. 73-90</locus>
+                <title>Livre IV</title>
+                <incipit>Les chapitres del quart livre
+                  <foreign>(rubr.)</foreign>
+                  <lb/>Ci finist le tiers livre e comence le premer chapitre del quart livre Touz citez e touz chastels ou il sunt garniz par nature ou par mein ovre ou par l’un e l’autre...</incipit>
+                <explicit>...les sages chivalers ki combatent en nef usent de cel arme chescun jour.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="cambridge_ms1_marlay" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Cambridge</settlement>
+                <repository>Fitzwilliam Museum</repository>
+                <idno>Add. Ms. I Marlay Coll.</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce [titres : <title type="ancien">la chivalerie de Rome</title> f. 1 ;
+                  <title type="ancien">Vegetii philosofi de re militari de latino in gallicum de novo translatus liber primus</title> f. 3] f. 1-90 : table des livres I et II, f. 1r-v ; f. 2 blanc ; texte f. 3-90 ; f. 90v blanc ; Végèce, <title>Epitoma rei militaris</title> en latin f. 91-151v ; court poème en français, en écriture cursive, f. 152v (inc.
+                  <seg type="incipit">Maistre Richard, vostre clerc, que vostre livere escrit</seg>...).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>151 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : miniature pleine page (f. 2v) ; miniature sur une demi-page (f. 86) (cf. 1, p. 39-40 et pl. 13, 14)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1275" notAfter="1300">dernier 1/4 du XIII<hi rend="sup">e</hi> s.(proche de Paris, bibl. Mazarine, 347, f. 241 [avant 1292], <title>Mss datés</title>, t. I, pl. 23, et de Paris, Bibl. nat. de Fr., lat. 5592, f. 108 [1273], <title>Mss datés</title>, t. II, pl. 32)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Edouard Ier d’Angleterre">Edouard Ier</persName> ou <persName type="possesseur" key="Edouard II d’Angleterre">Edouard II</persName></provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>L. Thorpe, « Master Richard, a thirteenth century translator of the “De re militari” of Vegetius », dans
+                    <title>Scriptorium</title>, t. 6, 1952, p. 39-50 [présentation du ms, édition d’extraits] et t. 7, 1953, p. 120-121 [revient sur un ajout du traducteur]</bibl>
+                  <bibl>L. Thorpe, « Master Richard, a thirteenth century translator of the “De re militari” of Vegetius », dans
+                    <title>Scriptorium</title>, t. 6, 1952, p. 39-50 [présentation du ms, édition d’extraits] et t. 7, 1953, p. 120-121 [revient sur un ajout du traducteur]</bibl>
+                  <bibl>D. Legge, « The Lord Edward's Vegetius », dans
+                    <title>Scriptorium</title>, t. 7, 1953, p. 262-265</bibl>
+                  <bibl>J. Folda, <title>Crusader manuscript illumination at Saint-Jean d’Acre, 1275-1291</title>, Princeton, 1976 [notice], p. 199</bibl>
+                  <bibl>F. Wormald et P. M. Giles, <title>A Descriptive Catalogue of the Additional Illuminated Manuscripts in the Fitzwilliam Museum, aquired between 1895 and 1979 (Excluding the McClean Collection)</title>, Cambridge, 1982, t. I, [notice] p. 82-84 et pl. 6</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="Jean_de_Meun">
+        <head>Traduction de <persName type="traducteur">Jean de Meun</persName> : <title>Li abregemenz noble honme Vegesce Flave René des establissemenz appartenanz a chevalerie</title></head>
+        <dateline>
+          <date notBefore="1284" notAfter="1284">1284</date>
+        </dateline>
+        <p>Traduction exécutée en 1284 à la demande de Jean Ier, comte d’Eu. <title>Li abregemenz...</title> est la première traduction de Jean de Meun, qui rend très précisément le vocabulaire latin de sa source, cherchant le plus souvent des équivalents dans la langue militaire du Moyen Age, sans toutefois hésiter à recourir à des néologismes. Quelques brefs développements empruntés à l’histoire ancienne ou récente viennent enrichir le texte. Jean de Meun a utilisé un texte latin de la famille π. J. Monfrin, dans son mémoire inédit (p. 439-441), distinguait un remaniement de la traduction de Jean de Meun, conservé dans trois manuscrits du milieu du XV<hi rend="sup">e</hi> siècle (Paris, bibl. de l’Arsenal, 2916 ; Paris, Bibl. nat. de Fr., fr. 12360 ; Torino, Archivio di Stato, J.b.VI.11). Selon J. Monfrin, ces trois manuscrits se caractérisent :</p>
+        <cit>
+          <quote>
+            <p>« 1. Par l’amplification de l’ancien prologue. A dire vrai, il s’agit d’un simple délayage du prologue original.</p>
+            <p>2. Par la répartition de la matière en 5 livres : les chapitres 31 à 46 du livre IV de Végèce, qui traitent de la guerre navale, constituent un livre V comprenant un prologue (ancien chapitre 31) et 15 chapitres (anciens chapitres 32 à 46). Cette division se retrouve dans quelques manuscrits latins du XV<hi rend="sup">e</hi> siècle.</p>
+            <p>3. Par l’addition, dans le dernier chapitre, de la description d’un procédé de combat naval qui ne figure pas dans le texte latin : « Encore est ce bon que ceulx qui guerroyent par mer et par eaue ayent savon et potz plains de sain et telles choses pour jecter es nefz de leurs ennemis si que quant ilz marcheront par dessus qu’ilz ne se puissent soubstenir pour la glisseur des ointures ; et est especialment bon que on traye saiectes et carreaux qui ayent larges fers et trenchans es voiles des ennemis si que par les perceures le vent n’y puisse demourer mais s’en ysse par les pertuis et ainsi la nef deviengne paresceuse. Or cuit... » (ms Paris, bibl. de l’Arsenal, fr. 2916, f. 88v).</p>
+            <p>4. Par la suppression, dans le chapitre <title>des vents</title>, qui, comme on le sait, a été presque entierement rédigé par Jean de Meun, et signé par lui, du nom de celui-ci.</p>
+            <p>5. Par la rédaction spéciale de la rubrique initiale qui introduit le nom de Théodose : « Cy commence le premier chapitre du premier livre de Vegece qui fut envoyé a l’empereur Theodose. » On sait que trois manuscrits latins anciens P, V et D comportent une rubrique semblable, mais que les éditeurs la tiennent pour une interpolation (<title>Epitoma rei militaris Flavi Vegetii Renati</title> recensuit Carolus Lang, Leipzig, 1885 (Bibliotheca Teubneriana, 34), p. vii).</p>
+            <p>6. Par la suppression des chapitres 3 à 10 du livre IV de Végèce. Dans la nouvelle recension, le livre IV a donc 22 chapitres. Dans le manuscrit français 12360, le titre du IVe livre n’annonce que les 20 chapitres. Cette différence vient du fait que les anciens chapitres 27 et 28 de Végèce (ou 19 et 20 du remaniement) sont fondus avec le précédent.</p>
+            <p>7. Par un rajeunissement de la langue. Des mots et des tournures vieillis sont remplacés par d’autres plus modernes. Ce rajeunissement de la langue est d’ailleurs plus ou moins poussé suivant les manuscrits. Pour certains détails en particulier, le ms fr. 12360 est plus proche du texte publié par Ulysse Robert (U. Robert, <title>L’Art de Chevalerie, traduction du « De re militari » de Végèce par Jean de Meun</title>, Paris, 1897) que le ms 2916 de l’Arsenal. Il est probable qu’avant l’intervention du remanieur qui a donné une forme nouvelle à l’œuvre de Jean de Meun, les copistes divers avaient déjà ici ou là rajeuni le texte. On notera aussi que les chapitres 3 à 10 du livre IV, qui manquent toujours dans la traduction remaniée, sont également absents du manuscrit 2915 de l’Arsenal. Seul un examen détaillé de tous les manuscrits permettrait de faire avec précision l’histoire de ces modifications [...].</p>
+            <p>Il est bien probable que le remanieur a eu recours à un manuscrit latin qui lui suggère la division en 5 livres et fournit le renseignement qui lui a permis d’affirmer, dans une rubrique initiale, que l’œuvre originale était dédiée à Théodose. Si l’on connaissait mieux l’histoire du texte de Végèce, il pourrait être utile de rechercher s'il a poussé plus loin son travail et revu entièrement sur le texte latin l’œuvre de Jean de Meun. »</p>
+          </quote>
+        </cit>
+        <p>En l’attente d’un réexamen complet de la tradition manuscrite, il a paru préférable d’intégrer les trois manuscrits signalés par Jacques Monfrin à la liste principale. Leena Löfstedt, en effet, ne parvient pas aux mêmes conclusions dans le stemma qu’elle présente : le manuscrit de Turin relève d’un autre sous-archétype que les manuscrits Paris, Bibl. nat. de Fr., fr. 12360 et Paris, bibl. de l’Arsenal, 2916, eux-mêmes associés sous l’archétype ε3 au ms Bern, Burgerbibl. A 280.</p>
+        <listBibl>
+          <bibl>J. Monfrin, <title>Inventaire critique...</title>, p. 414-442</bibl>
+          <bibl>L. Löfstedt, « Le Végèce de Jean de Meun. Essai de classement des manuscrits », dans <title>Studia neophilologica</title>, t. 43, 1971, p. 500-520 [liste de mss avec dates et sigles puis tentative de classement et proposition d’un stemma repris et complété dans l’édition]</bibl>
+          <bibl>L. Löfstedt, <title>Li abregemenz noble honme Vegesce Flave René des establissemenz apartenanz a chevalerie, traduction par Jean de Meun de Flavii Vegeti Renati viri illustris epitoma institutorum rei militaris</title>, Helsingsfors, 1977 (Annales Academiae Scientiarum Fennicae, B 200), p. 1-250</bibl>
+          <bibl>R. Rouse, « Jean de Meun's translation of Vegetius : the manuscripts », dans <title>French in English Manuscripts in England, 11th York Manuscripts Conference, 17-20 juillet 2007</title> [à paraître]</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V022</bibl>
+        </listBibl>
+        <div type="edition">
+          <head>Prologue de Végèce très remanié</head>
+          <p>d'après le ms</p>
+          <msDesc corresp="#arsenal_2916" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>bibl. de l’Arsenal</repository>
+              <idno>2916</idno>
+              <msName type="sigle" resp="Löfstedt">N</msName>
+            </msIdentifier>
+            <p>Es temps anciens l’usaige et coustume des saiges clers et grans philosophes et autres gens labourieux fut de eulx applicquer et donner a investiguer, cerchier <pb n="f. 1v"/> et de tout leur pouoir estudier a trouver ars et sciences qui fussent bonnes, valables et prouffitables a l’usaige et utillité du bien commun et de la chose publicque ; et quant ilz avoyent quelque art ou autre chose trouvee, ilz le mectoient en escript et en fasoient livres ou traictez, lesquelz ilz presentoient ou faisoient presenter aux empereurs, roys, princes et autres grans seigneurs, car nulle chose n’est bien ne deuement et ordonneement faicte ce, aprés ce qu’on a rendu et exibé a Dieu louenges et devoirs en quoy nature humaine est tenue et obligee, se on ne baille honneurs et reverances a l’empereur, roys et autres princes, et leur doit on favouriser du tout en tout ; et aussi a eulx mieulx appartient et doit appartenir que a nulx autres sçavoir sciences et autres subtillités honnestes. Et pareillement n’est rien plus sinistre, pire ne mauvais que d’empereur, roy ou prince plain de mal art et remply d’iniquité ou mauvaistié, car l’exemple ou les exemples et doctrines d’eulx peult prouffiter aux sages quant elle est bien conduite et riglee et aussi nuyre quant elle est mauvaise, car le peuple se conduit a l’exemple d’eulx. Et pour ung singulier exemple et mirouer de doctrine te baille le grant et famé empereur Octovien qui fut si actrempé et si bien se conduit qu’il fut seul empereur et souverain de tout le monde et acquist ce nom auguste, qui est a dire conquerant ou acroissant, car tout le monde lui fist hommaige et paya treu, et aussi pluseurs autres empereurs et princes tresvertueus qui durant leurs regnes et imperiaultez les <pb n="f. 2"/> subjects et peuples se conduisoi[en]t treshonnorablement. Et doncques pour ces choses ja alleguees et dictes, je suis constraint et aussi quant je considere ta clemence et debonnaireté me suis enhardy de mectre par escript au mains mal que faire je pourray selon les ditz des anciens, et aussi pource que je suis plus bas ou mendres qu’ilz ne furent, me suis entremis de parler du fait des armes par livres et par chappitres au plus briefvement que je pourray selon les faiz anciens et les aucteurs de chevalerie. Si ne convient il pas en ceste oeuvre seulement user de beauté de parolles, mais y convient travail ententif, pource que les choses celees es hystoires de divers acteurs qui enseignent la science des armes puissent estre mises en estat pour le commun prouffit des gens. Pour ce nous efforcerons nous a mectre par tiltres et par chappitres et monstrer la coustume que les anciens avoient a eslire et a eslever nouveaulx chevaliers, non pas pour ce, empereur, que tu fusses oncques deceu et que tu ne saches bien ces choses, car ainsi comme tu les ordonnes de ta bonté pour le saulvement du commun, ainsi les tindrent et garderent jadis ceulx qui firent l’empire de Romme, mais pource que tu puisses trouver en ce petit livret ce que tu croiz, quant doiz querre des choses tresgrans et qui tousjours ont mestier.</p>
+          </msDesc>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition L. Löfstedt</bibl>
+          <msDesc n="Incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Carpentras</settlement>
+              <repository>bibl. mun.</repository>
+              <idno>332</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>p. 67</locus>
+                <incipit>Ci commence par bon eur el non del souverain Dieu li abregemenz noble honme Vegesce Flave René des establissemenz apartenanz a chevalerie Et est devisiez en quatre livres.</incipit>
+              </msItem>
+              <msItem>
+                <title>Livre I</title>
+                <msItem>
+                  <locus>p. 69</locus>
+                  <title>Prologue de l'auteur</title>
+                  <incipit>Ci commence li prologues du premier livre
+                    <lb/>Li ancien ont esté coustumier de metre en escrit les choses qu’il pensoient que fussent bones a savoir et en faisoient livres puis se les offroient aus princes.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 70-92</locus>
+                  <title>Texte</title>
+                  <incipit>I Comment li Romain vainquirent toutes genz
+                    <lb/>Nous ne veons pas que li pueples des Romains ait vaincu et mis au desouz toutes les terres du monde par nule autre chose fors que par la hantance des armes et par la science de bien ordener leur herberges et par l’usage de chevalerie.</incipit>
+                  <explicit>Donc doit l'en eslire et auser les juennes homes es armes et miex vient il ensaignier les siens en armes que les estranges atraire par soudees et par loiers.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre II</title>
+                <msItem>
+                  <title>Prologue de l'auteur</title>
+                  <incipit><locus>p. 93</locus>Ci commence li prologues du secont livre
+                    <lb/>Empereres vainquierres il apert bien par l’acoustumance de tes victoires que tu as plainement et sagement retenu les establissemenz des granz homes anciens...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 94-115</locus>
+                  <title>Texte</title>
+                  <incipit>I En quantes manieres la chose de chevalerie est devisee <lb/>La chose de chevalerie si comme li nobles aucteurs des Latins le tesmoingne est en armes et en forces et est devisee en III parties</incipit>
+                  <explicit>...ou li anemi ont secours par la negligence de ce qu’il ne sont pas appareillié ainsi comme cil de ça en arriere estoient.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre III</title>
+                <msItem>
+                  <locus>p. 117</locus>
+                  <title>Prologue de l'auteur</title>
+                  <incipit>Si comme l'en treuve escrit es anciens livres cil d’Athenes et li Lachedemonien devant les Macedoniens ont esté tenu pour mout sages homes...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 118-163</locus>
+                  <title>Texte</title>
+                  <incipit>I De quel maniere li olz doit estre et de quel forme <lb/>Li premiers livres a moustré comment l'en doit eslire et auser les chevaliers Li secons ensaingna l’establissement de la legion et descepline de chevalerie...</incipit>
+                  <explicit>...mais li ars meismes et la science de victoire querre en quoi tu as moustré par vertu et par l’ordenance ensemble de la chose commune office d’empereeur et de chevalier.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre IV</title>
+                <msItem>
+                  <locus>p. 164</locus>
+                  <title>Prologue de l'auteur</title>
+                  <incipit>La vie champestre et desaornee des homes el commencement du siecle fu premierement dessevree de la communité des bestes mues par la composition des citez...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 167-195</locus>
+                  <title>Texte</title>
+                  <incipit>I Comment les citez doivent estre garnies par nature ou par oeuvre <lb/>Citez et chastiax sont garni par nature ou par art ou par ces II manieres ensemble (mais ceste derniere maniere de garnison est la plus fort)...</incipit>
+                  <explicit>...car li usages et li hanteis de chascun jour treuve plus de l’art en ces choses que l’ancienne doctrine ne nous en a moustré.</explicit>
+                </msItem>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="bern_a280" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Bern</settlement>
+                <repository>Burgerbibl.</repository>
+                <idno>A 280</idno>
+                <msName type="sigle" resp="Löfstedt">Be</msName>
+              </msIdentifier>
+              <msContents>
+                <p>vol. formé de deux mss juxtaposés</p>
+              </msContents>
+              <additional>
+                <listBibl>
+                  <bibl>H. Hagen, <title>Catalogus codicum Bernensium (Bibliotheca Bongarsiana), pars prior</title>, Berne, 1874, p. 305-307</bibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl> Jean de Mandeville, <title>Le livre des merveilles du monde</title>, éd. C. Deluz, Paris, 2000 (Sources d’histoire médiévale publiées par l’IRHT, 31), p. 53</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <altIdentifier>
+                  <idno>I</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Cy fine le livre de Vegece de l’art de chevalerie</title> f. 53] f. 1-53, incomplète des premiers mots (inc. ...<seg type="incipit">la science des armes puissent estre mises en appert pour le commun prouffit des gens</seg> (prologue)) ; f. 53v-54v blancs ; traduction anonyme du <title>De statu Sarracenorum et de Mahometo pseudopropheta et eorum lege et fide</title> de <persName type="ancien">Guillaume de Tripoli</persName> f. 55-74v  ; <title>Traictié qui fut pieça fait oultre la mer [...] pour savoir quans homes a armes le soudan peult avoir... </title>f. 75-75v ; <title>La devise des chemins qui vont en Bibilone et au Querre</title> f. 75v-77v (cf. Röricht, <title>Bibl. geogr. Pal.</title>, n° 145) ; <title type="ancien">Villes et herberges sur ce chemin</title> f. 77v-78</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>79 f. papier</p>
+                  </objectDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l'Arsenal 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>II</idno>
+                </altIdentifier>
+                <msContents>
+                  <p><persName type="ancien">Jean de Mandeville</persName>,
+                    <title>Voyages</title> incomplets du début et de la fin f. 81-135v ; f. 136-139 blancs ; <title>Histoire romaine</title> non identifiée f. 139-194 ; <persName type="ancien">Honoré Bovet</persName>, <title>L’arbre des batailles</title> incomplet f. 198-245 ; traité sur les hérauts non identifié f. 245-261 (inc.
+                    <seg type="incipit">Comment se doit faire roi de nouvel royalme
+                      <lb/>Le prince qui veult estre novel roy doit avoir III duchiés...</seg>).</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>180 f. parchemin</p>
+                  </objectDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1380" notAfter="1420">fin XIV<hi rend="sup">e</hi> s.-début XV<hi rend="sup">e</hi> s.</origin>
+                </history>
+              </msPart>
+            </msDesc>
+            <msDesc xml:id="bern_a607" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Bern</settlement>
+                <repository>Burgerbibl.</repository>
+                <idno>A 607</idno>
+                <msName type="sigle" resp="Löfstedt">Bfr</msName>
+              </msIdentifier>
+              <msContents>
+                <p>vol. formé de trois mss juxtaposés</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>200 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <msPart>
+                <altIdentifier>
+                  <idno>I</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction de l’<title>Historia regum Francorum</title> ou
+                    <title>Gesta Francorum usque ad annum 1214</title> par le ménestrel d’<persName type="traducteur">Alphonse de Poitiers</persName> f. 1a-172d</p>
+                </msContents>
+                <history>
+                  <origin notBefore="1201" notAfter="1300">XIIIe s.</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>II</idno>
+                </altIdentifier>
+                <msContents>
+                  <p><title>Livre de blason ou des armoiries</title> f. 174a-195d (inc.
+                    <seg type="incipit">[l]e tres noble et trespuissant roy Alexandre pour excercer le nom et vaillance de ses chiefz et gouverneurs de guerre et d’armes...</seg>)</p>
+                </msContents>
+                <history>
+                  <origin notBefore="1401" notAfter="1500">XVe s.</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>III</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>fragment de la traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 196a-197d (inc. <seg type="incipit">...stez pour que l’en les adjoustoit aus offices ou l’en avoit ja les autres esleuz et si portoient toutesvoies li chevalier</seg>... II.20 ; expl. <seg type="explicit">...forz talent de combatre si saigement entr’eus</seg> III.4).</p>
+                </msContents>
+                <history>
+                  <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 5059, f. 2v [1317], <title>Mss datés</title>, t. I, pl. 32)</origin>
+                </history>
+              </msPart>
+            </msDesc>
+            <msDesc xml:id="kbr_ii4847" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>II 4847</idno>
+                <msName type="sigle" resp="Löfstedt">Z</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Ci commencent li chapitre du tiers livre de l’art des batailles</title> (rubr.) f. 39a] f. 1a-104d : au livre I manquent le prologue, la table (f. 1 et 2 découpés), la fin du chap. 10 et le début du chap. 11 (manque 1 f. entre f. 10 et f. 11) ; au livre II manquent la fin de la table (manque 1 f. entre f. 22 et f. 23), la fin du chap. 14 et début du chap. 15 (manque 1 f. entre f. 31-32) et la fin du chap. 21, chap. 22 et début du chap. 23 (manque 1 f. entre f. 35-36) ; au livre III manquent la fin de la table et le début du chap. 1 (manque 1 f. entre f. 39 et f. 40), fin du chap. 22 et début du chap. 23 (manque 1 f. entre f. 75 et f. 76)  ; au livre IV manquent fin du prologue, chap. 1, 2 et début du chap. 3 (manquent f. entre f. 83 et 84), fin du chap. 10, chap. 11-13, début du chap. 14 (manquent f. entre f. 86-87) et fin du chap. 33, chap. 34, 35, début du chap. 36 (manquent 2 f. 95-96).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>104 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : ms mutilé, les 2 premiers f. enluminés ont été déchirés et toutes les miniatures ont disparu ; trace de miniature f. 2d 1/3 de la justification</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1280" notAfter="1320">fin du XIII<hi rend="sup">e</hi> ou début du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>notice IRHT (1953)</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="carpentras_332" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Carpentras</settlement>
+                <repository>bibl. mun.</repository>
+                <idno>332</idno>
+                <msName type="sigle" resp="Löfstedt">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 1a-91a.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>91 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature d’1/4 de p. (f. 1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche des mss Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés </title>, t. I, pl. 35 et Paris, bibl. Mazarine, 398, f. 1 [1342], <title>Mss datés</title>, t. I, pl. 45)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, <title>Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai</title>, Romania, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 34 (1901), p. 163</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="chantilly_344" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Chantilly</settlement>
+                <repository>Musée Condé</repository>
+                <idno>344</idno>
+                <msName type="sigle" resp="Löfstedt">Ch</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Cy commence le livre de Vegece, qui baille aux nobles hommes l’enseignement et l’industrie de l’art des armes et d’ensuivre chevalerie lequel noble prince Jehan conte d’Eu fist translater de latin en françoiz par maistre Jehan de Meun l’an de l’incarnacion nostre Seigneur mil CC IIIIxx et quatre</title> (rubr.) f. 1a] : table f. 1a-d ; texte f. 1d-49c.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>49 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s.(proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
+                <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes ajoutés f. 1a), probablement acheté avant 1494 par Catherine pour l’éducation de son fils Antoine mort en 1494 (2).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Bibliothèques de l’Institut</title> (1928), p. 77</bibl>
+                  <bibl>R. Harrouët, <title>Une famille de bibliophiles au XV<hi rend="sup">e</hi> siècle : les Coëtivy</title>, thèse pour l'obtention du diplôme d'archiviste paléographe, 1999, t. II/1, p. 334-336</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                  <bibl>notice IRHT (1974)</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="dresden_oc57" type="biblissima">
+              <msIdentifier>
+                <settlement>Dresden</settlement>
+                <repository>Sächsische Landesbibl.</repository>
+                <idno>Oc 57</idno>
+                <msName type="sigle" resp="Löfstedt">D</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>41 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature de frontispice (80 x 70 mm)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s.</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Esch, famille d’">famille d’Esch en Lorraine</persName> (armes au premier et au dernier f.).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>F. Schnorr von Carolsfeld et L. Schmidt, <title>Katalog der Handschriften der Sächsischen Landesbibliothek zu Dresden</title>, t. III, Dresde, 1982 [réimpr. corrigée de l’éd. Leipzig, 1900], p. 120</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="s.Gravenhage_73j22" type="biblissima">
+              <msIdentifier>
+                <settlement>s’Gravenhage</settlement>
+                <repository>Koninklijke Bibl.</repository>
+                <idno>73. J. 22</idno>
+                <msName type="sigle" resp="Löfstedt">Gr</msName>
+              </msIdentifier>
+              <msContents>
+                <p>le volume actuel est composé de deux manuscrits juxtaposés à date ancienne</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>134 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <provenance>Possesseur : <persName type="possesseur" key="Waleran de Wavrin">Waleran de Wavrin</persName> (f. 93, armes de Wavrin)</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 481-482</bibl>
+                  <bibl><title>Schatten van de Koninklijke Bibliotheek, Acht eeuwen verluchte handschriften</title>, La Haye, 1980, p. 118 (f. 93) et 119</bibl>
+                  <bibl>
+                    <title>Treasures of the Royal Library The Hague</title>, La Haye, 1980, p. 65 [texte seul, pl. dans la version néerlandaise], n° 48</bibl>
+                  <bibl> M. Smeyers, <title>L’art de la miniature flamande du VIII<hi rend="sup">e</hi> au XVI<hi rend="sup">e</hi> siècle</title>, trad. M. Verboomen, Tournai, 1998, p. 364-365</bibl>
+                  <bibl>notice IRHT</bibl>
+                  <bibl>
+                    <title>Medieval Illuminated Manuscript</title>
+                    <ref target="http://kb.nl/kb/manuscripts/introduction/index.html">www.kb.nl/kb/manuscripts/introduction/index.html</ref>
+                  </bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <altIdentifier>
+                  <idno>I</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Li abregemenz noble homme Vegece Flave et Regné des establissemens apartenanz a chevalerie</title> f. 1a] f. 1a-89b : f. 89 contemporain de la 2e partie du ms.</p>
+                </msContents>
+                <physDesc>
+                  <decoDesc>
+                    <p>Illustration : 1 miniature d’1/3 de la justification (f. 1a)</p>
+                  </decoDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1280" notAfter="1320">fin du XIII<hi rend="sup">e</hi> s. ou début du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 844, f. 267v [1282], <title>Mss datés</title>, t. I, pl. 18)</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>II</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction des <title>Stratagemata</title> de Frontin [titre :
+                    <title type="ancien">livre de Frontin</title> f. 90a, 92d, 93a, 134c] f. 90a-134c.</p>
+                </msContents>
+                <physDesc>
+                  <decoDesc>
+                    <p>Illustration : 1 miniature en grisaille, 2/3 aux 3/4 de la justification (f. 93) peut-être due à l’entourage de
+                      <persName>Jean Hennecart</persName> (1)</p>
+                  </decoDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1450" notAfter="1475">Flandre, 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
+                </history>
+              </msPart>
+            </msDesc>
+            <msDesc xml:id="bl_royal20bxi" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 20 B XI</idno>
+                <msName type="sigle" resp="Löfstedt">Y</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Ci commence par bon eur el non du souverain Dieu Virgesses les establissemenz de chevalerie qui sont deviset en quatre livres</title> (rubr.) f. 1a] f. 1a-95d : traduction incomplète des 3 derniers chapitres du dernier livre (expl. <seg type="explicit">...non mie par souffleis de venz mais par...</seg> livre IV, chap. 43).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>95 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : miniature de dédicace d’1/3 à la moitié de la justification (f. 3) (cf. 1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">première moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 364</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bl_royal20bxv" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 20 B XV</idno>
+                <msName type="sigle" resp="Löfstedt">R</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Cy commence le livre de Flave Vegece de l’art de chevalerie devisé en quatre parties come il s’ensuit</title> (rubr.) f. 2 ; <title type="ancien">Cy fine le livre de Vegece de l’art de chevalerie, lequel noble prince Jehan conte d’Eu fist translater de latin en françoys par maistre Jehan de Meheun l’an de l’incarnacion nostre Seigneur mil et IIIIxx et quatre</title> f. 108] f. 1-108 : chaque livre est précédé d’une table de ses chapitres ; fragment de l’épitaphe du roi Arthur en latin f. 109.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>110 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : miniature de dédicace de la moitié de la justification (f. 2).</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1380" notAfter="1420">fin du XIV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> siècle (proche du ms Paris, bibl. Mazarine, 646, f. 164 [1399], <title>Mss datés</title>, t. I, pl. 71)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="John Shirley">John Shirley</persName> († 1456), copiste de textes anglais [Bouveret 11445-11446], a inscrit son ex-libris sur le f. de garde ainsi que 8 vers moraux en anglais (f. 1v) ; on trouve de la main de Shirley une pièce de parchemin collée sur le f. de garde (f. 1) portant le titre « <title>Vegece of Chyvalrye in frenche</title>  » ; au verso du f. de garde de fin, devise « <quote>« Puis qu’il vous plaist »</quote> » d’une main du XV<hi rend="sup">e</hi> siècle.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 367</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bl_sloane2430" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Sloane 2430</idno>
+                <msName type="sigle" resp="Löfstedt">S</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Ci comence par boneur el non du souverain Dieu li abregemens noble home Vegece Flave et resverés establissemens apertenans a chevalerie et est ordenee la devision en IIII livres par titres ni [<foreign>sic</foreign>] par chapitres</title> (rubr.) f. 1a ; <title type="ancien">Ci fenist le livre Vegece de l’art de chevalerie que noble princes Jehans conte d’Eu fist translater de latin en françoiz par mestre Jehan de Meun en l’an <pb n="f.                                             108a" /> de l’incarnation nostre Seigneur mil IIC IIIIxx et quatre</title>] f. 1a-107d : chaque livre est précédé d’une table de ses chapitres.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>107 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature de la moitié de la justification (f. 2v) en tête du prologue du premier livre</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1400">XIVe s. (proche du ms Paris, bibl. de l’Arsenal 5059, f. 2v [1317], <title>Mss datés</title>, t. I, pl. 32)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bodleian_douce149" type="biblissima">
+              <msIdentifier>
+                <settlement>Oxford</settlement>
+                <repository>Bodleian Libr.</repository>
+                <idno>Douce 149</idno>
+                <msName type="sigle" resp="Löfstedt">O</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Ci commence [...] li abregemenz noble home Vegece franc &amp; resue des establissemenz apartenanz a chevalerie</title>, d’après (2)] : manque 1 f. après f. 1 (manque une partie du 1er chap. du livre I ; f. 2 inc. ...<seg type="incipit">terres du monde par mile autre chose</seg>...).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>114 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s.</origin>
+                <provenance>Possesseur : <quote>« Iste liber est <persName type="possesseur" key="Guillermus Brydus [ou Brydi]">Guillermi Brydi</persName> »</quote> (main du XV<hi rend="sup">e</hi> s.).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>F. Madan, H. H. E. Craster et N. Denholm-Young, <title>A summary catalogue of western manuscripts in the Bodleian Library at Oxford, which have not hitherto been described in the Quarto Series, with references to the Oriental and other manuscripts</title>, Oxford, 1895-1953, t. IV, n° 21723, p. 538</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="arsenal_2551" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>2551</idno>
+                <msName type="sigle" resp="Löfstedt">L</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Ci fenist le livre Vegece de l’art chevalerie [<foreign>sic</foreign>] que nobles princes Jehans contes de Eu fist translater de latin en françois par maistre Jehan de Meun, en l’an de l’incarnacion nostre signeur M et IIC et IIIIxx et quatre</title> f. 103a] : table f. 2a-3c ; texte f. 3c-103a.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>103 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature d’1/3 de la justification (f. 4b)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1280" notAfter="1320">fin XIII<hi rend="sup">e</hi> s.-début XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 5059, f. 2v [1317], <title>Mss datés</title>, t. I, pl. 32)</origin>
+                <provenance>possesseur : <quote>« A <persName type="possesseur" key="Montagu, de">monseigneur de Montagu</persName> »</quote> f. 2.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1886, t. III, p. 38</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="arsenal_2915" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>2915</idno>
+                <msName type="sigle" resp="Löfstedt">M</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title type="ancien">Les droiz anciens que souloient avoir les grans maistres des arbalestriers en France</title>, f. Av (inc. <seg type="incipit">Le maistre des arbalestriers de son droit a toute la cure, garde et administracion avec la congnoissance des gens de pié...</seg>) ; <title type="ancien">Ordene de chevalerie</title> [titre : <title type="ancien">Cy fine le livre nommé l’ordre de chevalerie</title> f. 32v] f. 1-32v (inc. prologue f. 1 <seg type="incipit">A la louence et a la gloire de la pourveance divine, Dieu qui est sires et roy souverain par dessus toutes choses celestielles et terrestres</seg>... ; inc. chap. 1, f. 1v <seg type="incipit">En une terre avint que un saige chevalier qui longuement avoit maintenu l’ordre de chevalerie...</seg>) ; f. 33-34v blancs ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">C’est le livre de Vegesse de l’art de chevalerie lequel est devisé en quatre livres ainsi qu’il s’ensuit</title> (rubr.) f. 35 ; <title type="ancien">Cy fine le livre de Vegece de l’art de chevalerie lequel noble prince Jehan conte d’Eu fist translater de latin en françois par maistre Jehan de Meun l’an de l’incarnation de nostre seigneur mil deux <foreign>[cent]</foreign> quatre vins et quatre</title> f. 117v] f. 35-117v ; résumé des accusations portées contre Enguerrand de Marigny f. 118-119v (inc. d’une main différente des 2 textes précédents <seg type="incipit">L’an de grace mil IIIC quatorze le samedi devant pasques fleuries au boys de Vincennes proposa maistre Jehan de Marigny les raisons qui ensuivent</seg>...).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>119 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 2 miniatures sur 2 colonnes d’une moitié de justification (f. 1, 35)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (ms proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName> (armes ajoutées f. 1, 35).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1885, t. III, p. 160-161</bibl>
+                  <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1959, t. I, p. 439</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="arsenal_2916" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>2916</idno>
+                <msName type="sigle" resp="Löfstedt">N</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Cy commence le premier chapitre du premier livre de Vegece qui fut envoyé a l’empereur Theodose</title> (rubr.) f. 2] f. 1-88v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>88 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature de dédicace sur 2 colonnes des 3/4 de la justification (f. 1) ; 4 réserves de même dimension (f. 18, 34, 70, 80)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
+                <provenance>possesseur : trois écus ajoutés au bas du f. 1 : au milieu, d’azur, à la bande d’or, accompagnée de six besants du même, trois en chef et trois en pointe posés en orle (<persName type="possesseur" key="Chandée, famille de">famille de Chandée</persName>, Bresse et Bugey) ; de chaque côté : écu parti de Chandée et écartelé d’or et de gueules (<persName type="possesseur" key="Saix, famille de">famille Du Saix, Bresse</persName>) ; la réunion de ces armes sur ce même volume s’explique par le mariage en 1451 de <persName type="possesseur" key="Hugonin de Chandée">Hugonin de Chandée</persName> et de <persName type="possesseur" key="Jeanne de Saix">Jeanne de Saix</persName> (cf. S. Guichenon, <title>Histoire de Bresse et de Bugey</title>, Lyon, 1650, 3e partie, p. 108). Le ms a donc appartenu soit à Hugonin lui-même, soit à l’un de ses deux fils, <persName type="possesseur" key="Jean de Chandée">Jean</persName> († 1509) ou <persName type="possesseur" key="Philibert de Chandée, gouverneur de Mâcon">Philibert</persName>, gouverneur de Mâcon, puis de Parme, mort avant son frère.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title> Paris, 1885, t. III, p. 161</bibl>
+                  <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1959, t. I, p. 439</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1230" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1230</idno>
+                <msName type="sigle" resp="Löfstedt">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Ci commence par bon eur ou non du souvrain Dieu li abregemens de tres noble homme Vegece des establissemens apartenans a chevalerie et est ordennee la division en IIII livres par tytres et par chapitres</title> (rubr.) f. 1a ;
+                  <title type="ancien">Ci fine le livre Vegece del art de chevalerie que nobles princes Jehan conte d’Eu fist translater en françois par maistre Jehan de Meun en l’an de l’incarnacion nostre Segneur mil CC quattre vins et quatre</title> f. 45b] f. 1a-45b.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>45 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : miniature de dédicace d’1/3 de la justification (f. 1a)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1400">milieu du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5434, f. 13 [1358], <title>Mss datés</title>, t. II, pl. 54)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1231" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1231</idno>
+                <msName type="sigle" resp="Löfstedt">E</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Ci commence par bon eur ou nom du souvrain dieu l’abregemens de noble homme Vegece Flave [...] des establissemens appartenans a chevalerie et est ordenee la division en quatre livres</title> (rubr.) f. 1a ; <title type="ancien">Explicit le romans de l’art de chevalerie</title> f. 63c-d] f. 1a-63d.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>63 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 réserve d’1/3 de la justification sur 2 colonnes (f. 2v)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1425" notAfter="1475">2<hi rend="sup">e</hi> ou 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche des mss Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93 et Paris, bibl. Sainte-Geneviève 544, f. 1 [1454], <title>Mss datés</title>, t. I, pl. 108), en tout cas postérieur à 1425, car un document daté de 1426 sert de f. de garde de début</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1232" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1232</idno>
+                <msName type="sigle" resp="Löfstedt">F</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 3a-41c : manquent le prologue, les tables et les quatre premiers chapitres (inc. <seg type="incipit">De quele estature l’en doit les jouvenciaus prouver. <foreign>(rubr.)</foreign>
+                  <lb/>Certaine chose est que cil qui ont esleuz...</seg> livre I, chap. 5).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>41 f. (moins 2 qui ont été coupés au début) parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1330" notAfter="1370">milieu du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2247, f. 87v [1368], <title>Mss datés</title>, t. I, pl. 52)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_2063" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 2063</idno>
+                <msName type="sigle" resp="Löfstedt">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p>vol. formé de 2 manuscrits anciennement juxtaposés</p>
+              </msContents>
+              <history>
+                <provenance>Possesseurs de I et II : <persName type="possesseur" key="Jacques Bauchant">Jacques Bauchant</persName> (<quote>« Chils livres est Jacques Bauchant, sergant du roy nostre sire en la prevosté de Saint Quentin en Vermendois et li cousta a Noyon III flourins d’or que on dist frans qui valoient sur tout XLVIII sous parisis le gros tournois d’argent pour XV frans parisis ; che fu ou mois de march l’an mil CCCLXVIII. Qui le troeuve ou cui il le prestera se li rende si fera ce que il devera, et contient dusques chi XIII quohiers et [...] foellais et sur tout XV quohiers »</quote>, I, f. 107d ; <quote>« C’est Ja. Bauchant demourant a Saint Quentin en Vermandois »</quote>, II, f. 163v), <persName type="possesseur" key="Louis d’Orléans">Louis d’Orléans</persName>, <persName type="possesseur" key="Charles d’Orléans, comte d’Angoulême">Charles d’Orléans</persName> (<quote>« <title type="ancien">Le Livre de Vegece de chevalerie</title>, couvert de veloux noir, et <title>le Testament de Maistre Jehan de Meun</title> »</quote>, n°19 de l'inventaire de 1417; <quote>« <title type="ancien">Le Livre de Vegece de chevalerye</title> avecques <title type="ancien">le Testament de Maistre Jehan de Meun</title>, escript en françois, lettres de forme, historié, couvert de velours noir a deux petis fermouers de cuivre »</quote>, n° 14 de l'inventaire après le retour de captivité), <persName type="possesseur" key="Jean d’Angoulême">Jean d’Angoulême</persName> (<quote>« <title type="ancien">Vegeste des Batailles</title> en parchemin et lettre de forme, en françois, commançant ou second fueillé <quote>« le treziesme »</quote> et finissant ou penultime <quote>« gloire et redempcion »</quote> »</quote>, cf. 3 et 4, n°47 de l’inventaire de 1467).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>U. Robert, <title>L’Art de Chevalerie, traduction du « De re militari » de Végèce par Jean de Meun</title>, Paris, 1897 (SATF) [U. Robert a utilisé ce manuscrit comme base de son édition]</bibl>
+                  <bibl>G. Dupont Ferrier, « Jean d’Orléans, comte d’Angoulême, d’après sa bibliothèque », dans <title>Bibliothèque de la Faculté des lettres de l’Université de Paris</title>, t. 3, 1897, p. 66</bibl>
+                  <bibl>G. Ouy, <title>La librairie des frères captifs : les manuscrits de Charles d’Orléans et Jean d’Angoulême</title>, Turnhout, 2007, p. 36, A 19, p. 42, B 14, p. 59, C 47 et p. 79</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <altIdentifier>
+                  <idno>I</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Virgesses les establissemens de chevalerie</title> f. 1a ; <title type="ancien">Ci fenist li livres de Vegece de l’art de chevalerie</title> f. 107c] f. 1a-107d ;
+                    <title>Lapidaire</title> f. 108a-115b (cf. V. L. Pannier,
+                    <title>Les lapidaires français</title>, p. 78).</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>116 f. parchemin</p>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Copiste : <persName type="copiste">G. de Dynant</persName> [absent de Bouveret] (<quote>« Et a fait faire cest livre maistre G. de Dynant demorant a Royn [ou Noyn] en l’an de grace mil IIIC et XL Deo gratias »</quote> f. 107c-d)</p>
+                  </handDesc>
+                  <decoDesc>
+                    <p>illustration : 3 miniatures de la moitié de la justification (f. 3v, 22, 82v) ; 1 miniature d’1/3 de la justification (f. 40)</p>
+                  </decoDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1340" notAfter="1340">1340 (f. 107c-d) (proche du ms Paris, bibl. Mazarine, 398, f. 1 [1342], <title>Mss datés</title>, t. I, pl. 45)</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>II</idno>
+                </altIdentifier>
+                <msContents>
+                  <p><persName type="ancien">Jean de Meun</persName>,
+                    <title>Testament</title> f. 119-163v</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>44 f. parchemin</p>
+                  </objectDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1301" notAfter="1400">XIVe s.</origin>
+                </history>
+              </msPart>
+            </msDesc>
+            <msDesc xml:id="fr_12360" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 12360</idno>
+                <msName type="sigle" resp="Löfstedt">G</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Cy commance ou nom du souverain Dieu l’abregement de noble homme Vegece, et sont establissemens appartenans a chevallerie</title> p. 1 ; <title type="ancien">le livre de Vegece de l’art de chevallerie</title> p. 265] p. 1-265 : manque le prologue du livre I ; <title type="ancien">Information briefve sur les choses qui semblent des maintenant estre a pourveoir quant au passaige a faire par la grace de Dieu</title> p. 265-282  ; traduction anonyme du <title type="ancien">De statu Sarracenorum et de mahometo pseudopropheta et eorum lege et fide</title> de <persName type="ancien">Guillaume de Tripoli</persName> p. 282-358 (inc. <seg type="incipit">A honnourable pere et signeur Theaut, archediacre de l’eglise du Liege...</seg>) ; <title type="ancien">Cy commence ung traictié qui fut fait et ordonné oultre la mer par le maistre et le couvent de l’Ospital et par autres proudommes qui ont demouré oultre mer et bien scevent le pouoir des Sarrasins et du soubdan et quantes personnes et le temps en quoy ilz peuent assemblez</title> p. 358-360 (inc. <seg type="incipit">Par cest escript peut estre sceu et congneu le pouoir des mescreans Sarrasins qui regnent aujourd’uy ou royaume de Babillonne...</seg>) ; <title type="ancien">Cy aprés commence ung autre traictié qui fut appieça accordé oultre mer par le maistre de l’Ospital et par d’autres proudommes qui longuement ont demouré oultre mer et enseigne comment la terre pourroit estre recouvree par les chrestiens</title> p. 360-367 (inc. <seg type="incipit">Question est sur la maniere de recouvrer la terre saincte ou Jhesucrist daigna naistre</seg>...) ; <title type="ancien">Cy commence une autre informacion des choses qui appartiennent au passaige et parle premierement de la seigneurie de Jherusalem et des passaiges qui ont esté faiz jusques a maintenant par qui et par quelles partie</title> p. 367-376 (inc. <seg type="incipit">La seigneurie du royaume de Jherusalem est ainsi allee depuis le temps nostre Seigneur</seg>...).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>376 p. papier (filigrane : tête de cerf sans équivalent dans Briquet)</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève, 545, f. 303 [1454], <title>Mss datés</title>, t. I, pl. 110)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401-402</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_19104" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 19104</idno>
+                <msName type="sigle" resp="Löfstedt">H</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Cy commance en françois le livre du noble Vegece touchant le fait de la chose militaire, ordonné en quatre parties par tiltres et par chapitres</title> f. 1] f. 1-122.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>122 f. papier (filigrane [f. de garde] sim. Briquet 1379 [Voorne, 1396 ; sim. 1396-1429])</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : réserves d’1/4 de la justification en tête de chaque livre (f. 2v, 25, 47, 96v)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1425">1<hi rend="sup">er</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="torino_arch_jbvi11" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Torino</settlement>
+                <repository>Archivio di Stato</repository>
+                <idno>J.b.VI.11</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 1a-85c : table des chapitres des 4 livres s’interrompant au livre V, chap. 2, f. 1a-4b ; texte f. 5a-85c : l’incipit du prologue est semblable à celui du ms Paris, bibl. de l’Arsenal, 2916 : <seg type="incipit">Es anciens temps l’usage et coustume des sages clercs et grans philosophes et aultres gens labourieux fut de eulx apliquer et donner et investiguer, sercher et de tout leur pouoir estudier...</seg> f. 5 ; le livre IV est scindé en deux : IV.1 = IV.1 (éd. Löfstedt) ; 2 = 2 ; 3 = 11 ; 4= 12 ; 5 = 13 et 14 ; 6  = 15 ; pas de chapitre numéroté 7 ; 8 = 16 ; 9 = 17 ; 10 = 18 ; 11 = 19 ; 12 = 20 ; 13 = 21 ; 14 = 22 ; 15 = 23 ; 16 = 24 ; 17 = 25 ; 18 = 26 ; 19 = 27 ; 20 = 28 ; 21 = 29 ; 22 = 30 ; livre V (<title type="ancien">Cy commence le Ve livre et sont les commandemens des batailles qui sont faictes par mer et par eaue</title>) prologue = IV 31 (éd. Löfstedt) ; 1 = 32 ; 2 = 33 ; 3 = 34 ; 4 = 35 ; 5 = 36 ; 6 = 37 ; 7 = 38 ; 8 = 39 ; 9 = 40 ; 10 = 41 ; 11 = 42 ; 12 = 43 ; 13 = 44 ; 14 = 45 ; 15 = 46)  ;
+                  <title>Ordonnance de Philippe le Bel de 1306</title> [titre :
+                  <title type="ancien">Cy sont declairez les serimonies et ordonnances qui se appartiennent a gaige de bataille fait par querelle selon les constitutions faictes par le bon roy Philippe de France</title>] f. 87c-117b :  inc. <seg type="incipit">Philippe par la grace de Dieu roy de France, a tous ceulx qui ces lettres verront salut...</seg></p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>119 f. papier</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : réserve pour miniature au f. 5</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., fr. 254, f. 22 [1467])</origin>
+                <provenance>possesseurs : <persName type="possesseur" key="Pingon, famille">famille Pingon, barons de Cousey en Savoie</persName> (armes f. 1) ; monogramme B Y (f. 1) ; colophon <quote>« un pot d’or »</quote> (f. 85c).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Richardot, <title>Végèce et la culture militaire au Moyen Age, V<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles</title>, Paris, 1998, p. 62-63 [présente ce ms comme un remaniement de la traduction de Jean de Meun]</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="torino_museostorico9" type="biblissima">
+              <msIdentifier>
+                <settlement>Torino</settlement>
+                <repository>Archivio di Stato</repository>
+                <idno>Museo storico, n°9</idno>
+                <msName type="sigle" resp="Löfstedt">T</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 1-88v ; <title>Le livre nommé l’ordre de chevalerie</title> f. 90-fin.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>119 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : scène de dédicace</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (2) ou XV<hi rend="sup">e</hi> s. (Löfstedt)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bav_reglat_1628" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Vaticano</settlement>
+                <repository>Bibl. apostolica Vaticana</repository>
+                <idno>Reg. lat. 1628</idno>
+                <msName type="sigle" resp="Löfstedt">V</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Ci commence par bon eur el non du souverain Dieu li abregemens noble homme Vegece Flave Regné qui devise les establissemens apartenans a chevalerie et est devisez en IIII livres</title> (rubr.) f. 1a] f. 1a-99a.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>99 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature f. 3 (largeur de 2 colonnes, hauteur de 8 lignes) au début du premier livre, proche du « groupe
+                    <quote>« Méliacin »</quote> » ; initiale historiée (scène de dédicace)
+                    <foreign>ibid</foreign>.</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 870, f. 191 [1295], <title>Mss datés</title>, t. I, pl. 24)</origin>
+                <provenance>possesseur : <persName type="possesseur" key="Nicolas Jorne">Nicolas Jorne</persName> (<quote>« Ci fenist li livres Vegece del art de chevalerie apartenant a sire Nicolas Jorne lequel fut translaté de latin en françois par mestre Jehan de Meun. Qui le trouvera luy raporte bon vin ara »</quote> f. 99a, main du début du XIV<hi rend="sup">e</hi> siècle).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
+                  <bibl>notice brève IRHT (1947)</bibl>
+                  <bibl>M. Buonocore (éd.), <title>Vedere i Classici, L’illustrazione libraria dei testi antichi dall’età romana al tardo medioevo</title>, Rome, 1996, p. 253-254, n° 44 [notice de F. Manzari]</bibl>
+                  <bibl> notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="deperdita">
+          <head>Manuscrits perdus ou non identifiés</head>
+          <list type="deperdita">
+            <item xml:id="ms_c5">
+              <p>Librairie de Charles V</p>
+              <p><persName type="possesseur" key="Charles V">Charles V</persName> possédait un manuscrit de la traduction de Végèce par Jean de Meun, ainsi décrit dans le Catalogue de sa librairie :<quote>« Vegece, de chevalerie couvert de drap d’or tres bien escript et bien enluminé, de la translation maistre Jehan de Meun, comme il est escript en la fin dudit livre, de grosse lettre de forme, a deux coulombres. Comm. <quote>« Comment l’en doit »</quote>. Fin, en rouge lettre Primo Jehan <quote>« contes d’Eu »</quote>. A cinq bouillons et deuz petiz fermoirs de cuivre. 2 1. A. 137, B. 138, D. 161, E. 157, F. 138. »</quote> </p>
+              <listBibl>
+                <bibl>L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 139, n° 856</bibl>
+              </listBibl>
+            </item>
+            <item xml:id="ms_ducs-bourgogne">
+              <p>Bibliothèque des ducs de Bourgogne</p>
+              <p>Les <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> ont également possédé cette traduction, attestée dans l'inventaire de la <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> de 1467 (J. Barrois, <title>Bibliothèque protypographique, ou Librairies des fils du roi Jean, Charles V, Jean de Berri, Philippe de Bourgogne et les siens</title>, Paris, 1830, n° 961) :<quote>« Ung autre livre en parchemin couvert d’ais noirs, intitulé par dedens : <title>C’est le livre des establissemens et ensengnemens de chevalerie</title> ; comançant au second feuillet aprés la table, <quote>« Empire de Rome »</quote>, et au dernier,
+                <quote>« qui de mal »</quote> »</quote>.</p>
+            </item>
+            <item xml:id="ms_isenghien">
+              <p>Vente des livres du prince d’Isenghien</p>
+              <p>Vente des livres du prince d’Isenghien, Paris, juin 1756 [Bibl. nat. de Fr., delta 2091], sous le n° 1989 : « L’art de chevalerie de Vegece, traduit pour Jean Comte d’Eu par Jean de Meun en 1284. Manuscrit sur velin avec miniatures In-4° ».</p>
+            </item>
+          </list>
+        </div>
+        <div type="soustraduction" n="IIa" xml:id="jean_priorat">
+          <head>Mise en vers par Jean Priorat : <title>Li abrejance de l’ordre de chevalerie</title>.</head>
+          <p>Entre 1284 et 1290, Jean Priorat de Besançon a mis en vers la traduction de Jean de Meun. Ce remaniement est dédié à Jean de Chalon-Arlay, oncle du comte de Bourgogne, partisan de l’empereur d’Allemagne, qui, en 1290, s’empara pour le compte de ce dernier de la ville de Besançon. <quote>« Fondée sur un manuscrit très ancien de la traduction de Jean de Meun, cette versification a quelquefois conservé le texte de Jean de Meun plus fidèlement que les manuscrits existants de la traduction »</quote> (<bibl>L. Löfstedt, <title>Li abregemenz noble honme Vegesce Flave René des establissemenz apartenanz a chevalerie, traduction par Jean de Meun de Flavii Vegeti Renati viri illustris epitoma institutorum rei militaris</title>, Helsingsfors, 1977 (Annales Academiae Scientiarum Fennicae, B 200), p. 11</bibl>).</p>
+          <listBibl>
+            <bibl>U. Robert, <title>« Li abrejance de l’ordre de chevalerie », mise en vers de la traduction de Végèce de Jean de Meun par Jean Priorat de Besançon</title>, Paris, 1897 (SATF)</bibl>
+            <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+          </listBibl>
+          <div type="incipit">
+            <head>Incipit</head>
+            <bibl>l'édition U. Robert</bibl>
+            <msDesc type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1604</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <locus>p. 1</locus>
+                  <title>prologue du traducteur</title>
+                  <incipit>Per bon aür ici comance,<lb/>U non de Deu, li abrejance<lb/>De l'ordre de chevalerie<lb/>Comant doit estrre estaublie.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 5</locus>
+                  <title>prologue de Végèce au livre I</title>
+                  <incipit>Li prologues et la sustance<lb/>Du premier livre ci comance<lb/>Li anciain prodome saige<lb/>Soloient avoir tel usaige...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 8</locus>
+                  <title>livre I, chap. 1</title>
+                  <incipit>Comant tot le monde voinquirent<lb/>Li Romain que grant poinne i mirent<lb/>Nos ne vaons pas que li puples<lb/>Das Romains ne il ne lor mubles...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 358</locus>
+                  <title>Explicit de la traduction</title>
+                  <explicit>Vus tuit qui cest livre liroiz<lb/>Por Jehan Priorat prieroiz que<lb/>Dex le traie a bone fin<lb/>Ici mon livre vus defin.</explicit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="manuscrit">
+            <head>Manuscrit</head>
+            <listBibl type="msList">
+              <msDesc xml:id="fr_1604" n="vu mf" type="biblissima">
+                <msIdentifier>
+                  <settlement>Paris</settlement>
+                  <repository>Bibl. nat. de Fr.</repository>
+                  <idno>fr. 1604</idno>
+                </msIdentifier>
+                <msContents>
+                  <p><title>Li abrejance de l’ordre de chevalerie</title> [titres :
+                    <title type="ancien">Per bon aür ici comance, <lb/>U non de Deu, li abrejance. <lb/>De l’ordre de chevalerie <lb/>Comant doit estre estaublie. <lb/>Faite fut per noble home et saive
+                      <lb/>C’on apeloit Vegece Flaive</title> f. 1a ; <title type="ancien">Expliciz li romanz de chevalerie</title> f. 76a] f. 1a-76a.</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>76 f. parchemin</p>
+                  </objectDesc>
+                  <decoDesc>
+                    <p>Illustration : encadrement et scènes dans la marge inférieure (f. 2, 25, 27v) ; 1 miniature d’1/3 de la justification (f. 57v) ; 1 miniature dans la marge inférieure d’1/4 de la justification (f. 67d)</p>
+                  </decoDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1290" notAfter="1310">vers 1300 (proche du ms Paris, bibl. de l’Arsenal, 534, f. 97 [1296], <title>Mss datés</title>, t. I, pl. 25)</origin>
+                </history>
+                <additional>
+                  <listBibl>
+                    <bibl>notice J. Monfrin</bibl>
+                  </listBibl>
+                </additional>
+              </msDesc>
+            </listBibl>
+          </div>
+        </div>
+      </div>
+      <div type="traduction" xml:id="anonyme">
+        <head>Traduction <persName type="traducteur">anonyme</persName> en prose</head>
+        <dateline>
+          <date notBefore="1270" notAfter="1290">fin du XIII<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Traduction inédite et encore non étudiée</p>
+        <listBibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Wolfenbüttel</settlement>
+              <repository>Herzog August Bibl.</repository>
+              <idno>Blankenburg 111</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <title>Livre I</title>
+                <msItem>
+                  <locus>f. 1a</locus>
+                  <title>Table du livre I</title>
+                  <incipit>Ci dit coment le peuple romain conquistrent par l’usuance dou travail (?) ce que il conquistrent</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 2c-9c</locus>
+                  <title>Texte</title>
+                  <incipit>Par nulle chose nos ne veons que li peuples de Rome ait soumis a soy tout li monde senon par le huerement des armes et par la descipline des homes et par l’usance de la chevalerie...</incipit>
+                  <explicit>...car sertaine chose est que por mains peut l’en mener les siens as armes que les estranges par loyer. <lb/>Ci commensent li chapistles dou segont livre de l’art de chevalerie et de batailles <foreign>(rubr.)</foreign></explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre II</title>
+                <msItem>
+                  <locus>f. 9c</locus>
+                  <title>Table du livre II</title>
+                  <incipit>De autres manieres se desparte la doctrine des armes...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 10a-18d</locus>
+                  <title>Texte</title>
+                  <incipit>Sire empereres coneue chose est par vos trionfes et par vos victoires la vostre benignité retenir atempreement les establissemens des plus anciens de la partie armee...</incipit>
+                  <explicit>En la legion portoit o soy tout autres choses qui fussent mestiez a quelque maniere se fust ou batailles par coy la ou elle fichoit s’ententes si faisoit ausi come une cités <lb/>Ici fenist li livres qui nous enseigne la costume et l’usance de l’anciene chevalerie Et coment l’ost des peons doit estre enseignee et ordenee <foreign>(rubr.)</foreign>.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre III</title>
+                <msItem>
+                  <locus>f. 18d</locus>
+                  <title>Table du livre III</title>
+                  <incipit>En quel maniere doit estre d’ost...</incipit>
+                </msItem>
+                <msItem>
+                  <title>Prologue du livre III</title>
+                  <locus>f. 19c</locus>
+                  <incipit>Ci comence le prologue dou tiers livre qui nos enseigne l’estre et la faire de l’ost et des batailles.
+                    <foreign>(rubr.)</foreign>
+                    <lb/>Les anciens livres qui se noment annali demostrent que ceaus de Athenes et de Macedoine estoient sages de toutes choses sur ceaus de Gresse...</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 20a-38c</locus>
+                  <title>Texte</title>
+                  <incipit>En quel maniere doit estre d’ost.
+                    <foreign>(rubr.)</foreign>
+                    <lb/>Le premier livre nos promist le eslisement et l’euvrement des tirons et li segons livre qui nos enseigne l’ordenement de la legion et la descipline des homes d’armes...</incipit>
+                  <explicit>Come ce soit chose que elles soient creus d’estre proufitable a tous <lb/>Ci comensent les chapistres dou quart livre et parollent premierement coment les cités doivent estre garnies. <foreign>(rubr.)</foreign></explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre IV</title>
+                <msItem>
+                  <locus>f. 38c</locus>
+                  <title>Table du livre IV</title>
+                  <incipit>Les cités doivent estre garnies par nature ou par euvre I.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 38c-47a</locus>
+                  <title>Texte</title>
+                  <incipit>Les cités doivent estre garnies par nature ou par euvre. <foreign>(rubr.)</foreign>
+                    <lb/>Bien sachiés que les cités et les chastiaus sont garnis par nature ou par la main de l’ome...</incipit>
+                  <explicit>...car en celle assiduel usance y trova plus d’art que l’anciene doctrine ne demostra.</explicit>
+                </msItem>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc n="vu mf" xml:id="nlr_frfvix1" type="biblissima">
+              <msIdentifier>
+                <settlement>Sankt-Peterburg</settlement>
+                <repository>Bibl. nat. de Russie</repository>
+                <idno>Fr. f. v. IX, 1</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction anonyme en prose de l’<title>Epitoma rei militaris</title> de Végèce [titre : <title type="ancien">Ci comence le livre de l’art de chevalerie et la dotrine et l’enseignement des gens d’armes et a pié et a cheval et toz ce qui apartient a gens d’armes soit en mer soit en terre et en quelque leu ou il soient que mestier lor soit a faire d’armes contre lor henemis</title> (rubr.) f. 1a] f. 1a-58d  : incomplet de la fin (expl. au cours du chapitre <seg type="explicit">Ci dit quel chose doit l’en faire quant la bataille des nés se mellent en la aperte aute mer</seg> (rubr.) f. 58d ; la dernière colonne du ms est effacée, surtout dans sa partie inférieure).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>58 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature sur 2 colonnes d’1/3 de la justification (f. 1) ; 2 miniatures sur une colonne d’1/3 de la justification (f. 13b, 24d)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1275" notAfter="1285">vers 1280 (proche du ms Chantilly, Musée Condé, 476, f. 2 [1270], <title>Mss datés</title>, t. I, pl. 15) ; Saint-Jean-d’Acre (?)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Les manuscrits enluminés français du XIII<hi rend="sup">e</hi> siècle dans les collections soviétiques</title>, t. II <title>1270-1300</title>, Moscou, 1984, p. 94-97 [notice en russe p. 94 et reproductions, p. 95-97]</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="hab_blankenburg111" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Wolfenbüttel</settlement>
+                <repository>Herzog August Bibl.</repository>
+                <idno>Blankenburg 111</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction anonyme en prose de l’<title>Epitoma rei militaris</title> de Végèce [titre : <title type="ancien">Ci commensent li chapistles dou segont livre de l’art de chevalerie et de batailles</title> (rubr.) f. 9c] : table du livre I f. 1a-2c ; livre I f. 2c-9c ; table du livre II f. 9c-10a ; livre II f. 10a-18d ; table du livre III f. 18d-19b ; livre III prologue f. 19c-20a, texte f. 20a-38c ; table du livre IV f. 38c-39a ; livre IV f. 38c-47a.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>47 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 2 miniatures d’1/3 de la justification (f. 10a et 19b) (cf. 1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1280" notAfter="1320">fin du XIII<hi rend="sup">e</hi> s. ou début XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 870, f. 98v et 191 [1295], <title>Mss datés</title>, t. I, pl. 24)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Butzmann, <title>Die Blankenburger Handschriften</title>, Frankfurt am Main, 1966 (Kataloge der Herzog-August-Bibliothek Wolfenbüttel), p. 118</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="Jean_de_Vignay">
+        <head>Traduction attribuée à <persName type="traducteur">Jean de Vignay</persName> :
+          <title>Li livres Flave Vegece de la chose de chevalerie</title></head>
+        <dateline>
+          <date notBefore="1315" notAfter="1320">vers 1315-1320</date>
+        </dateline>
+        <p>Traduction exécutée vers 1315-1320 à partir d’un manuscrit proche du groupe ε de la tradition latine. Le traducteur s’écarte parfois de son modèle, raccourcit et ajoute, même s’il vise à une traduction littérale. A la différence de Jean de Meun, dont il connaissait le travail, Jean de Vignay a cherché à rester beaucoup plus près du texte latin <quote>« en ensivant la pure verité de la lettre »</quote>. Les latinismes abondent. Cette version a connu un certain succès, même si elle a été exécutée par <quote>« un jeune homme qui ne s’était pas encore habitué à écrire le français et qui, chose plus grave, ne comprenait même pas toujours bien le latin »</quote> (<bibl>L. Löfstedt, <title>Li livres Flave Vegece de la chose de chevalerie par Jean de Vignay</title>, Helsinki, 1982, p. 5</bibl>).</p>
+        <listBibl>
+          <bibl>L. Löfstedt, <title>Li livres Flave Vegece de la chose de chevalerie par Jean de Vignay</title>, Helsinki, 1982 (Annales Academiae Scientiarum Fennicae, B 214)</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V023</bibl>
+        </listBibl>
+        <div type="edition">
+          <head>Édition</head>
+          <div type="prologue">
+            <head>Prologue du traducteur</head>
+            <p>d’après le ms</p>
+            <msDesc type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 20 B I</idno>
+                <msName type="sigle" resp="Löfstedt">L</msName>
+              </msIdentifier>
+              <p><locus>f. 3b-d</locus>Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier mostre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes. Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont.</p>
+            </msDesc>
+          </div>
+          <div type="prologue">
+            <head>Prologue de Végèce</head>
+            <p>d’après le ms</p>
+            <msDesc type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 20 B I</idno>
+                <msName type="sigle" resp="Löfstedt">L</msName>
+              </msIdentifier>
+              <p><locus>f. 4a-b</locus>Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace, c’est Dieu, et apele ce livre le livre de l’excercitation, c’est a dire le livre de l’usage, d’armes.</p>
+            </msDesc>
+          </div>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition L. Löfstedt</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Cambridge</settlement>
+              <repository>Gonville and Caius College Libr.</repository>
+              <idno>424/448</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>p. 37</locus>
+                <title>Prologue du traducteur</title>
+                <incipit>Einsin con dit Segons li philosophes letre est garde d’istoire et por ce costume fu aux anciens qui mistrent lor cure et lor entente en conoistre les vertuz et les natures des choses de commettre en letres le science et le sens qu’il avoient aquis par grant travail et par lons exercites por ce que il peust profitier a lor succeseurs.</incipit>
+              </msItem>
+              <msItem>
+                <title>Livre I</title>
+                <msItem>
+                  <locus>p. 39</locus>
+                  <title>Prologue de Végèce</title>
+                  <incipit>Es anciens tens fu costume les estudes des bones ars metre en letres et ce qui estoit i ramené ou livre offrir au prince Car nule riens n’est a droit commanciee se enprés Dieu ne l’otroie li empereres.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 39-54</locus>
+                  <title>Texte</title>
+                  <incipit>De l’exercite des Romains I Nos ne veons par nule autre chose le pueple romain avoir sousmis a lui les terres de cest monde se non par usage d’armes et par enseignement de ost et de chevalerie.</incipit>
+                  <explicit>...tous jors donques doivent s’i exerciter li jovencel es armes car certaine chose est plus profitable chose estre les siens enseignier d’armes que les etranges loer par soudees.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre II</title>
+                <msItem>
+                  <locus>p. 55</locus>
+                  <title>Prologue de Végèce</title>
+                  <incipit>Par continuels victoires et triumphes apert empereres vostre debonereté avoir tres plenement et tres sagement retenu les establissemenz des sages ancians quant a l’art de chevalerie... </incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 55-70</locus>
+                  <title>Texte</title>
+                  <incipit>La devise de chevalerie de&lt;ux&gt; <lb/>La chose de chevalerie ci com li nobles auteurs des Latins tesmoigne ou commancement de son livre est devisee en trois parties...</incipit>
+                  <explicit>...por ce que en quelque liu que ele mete ses herberges ce soit ausi com une cité garnie et bien armee.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre III</title>
+                <msItem>
+                  <locus>p. 71</locus>
+                  <title>Prologue de Végèce</title>
+                  <incipit>C’est li prohemes du tierz livre Si com li ancien parolent envers les Atheniens flori jadis non mie seulement la doctrine d’armes mes decipline de diverses arz.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 72-101</locus>
+                  <title>Texte</title>
+                  <incipit>Ci commance li tierz livres qui enseigne l’aperte bataille par terre et ce que mestier i a I <lb/>Li seconz l’institucion de la legion et de la decipline de chevalerie Icist tierz sone le tans et por ce sont iceles choses devant mises que icestes esqueles est li sens du combatre et la some de victoire...</incipit>
+                  <explicit>...si que la vertu et l’ordenance de la merveillable chose commune soit par toi governee et ensint aenpliras office d’empereor et de chevalier.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <title>Livre IV</title>
+                <msItem>
+                  <locus>p. 102</locus>
+                  <title>Prologue de Végèce</title>
+                  <incipit>Ci commance li quarz livres qui enseigne a saillir ou chastiaus ou citez <lb/>L’agreste et la mal enseignie vie des hommes ou commancement du siecle la premiere constitucions des citez dessevra de la communion des bestes mues et sauvages.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>p. 103-122</locus>
+                  <title>Texte</title>
+                  <incipit>Que les citez sont forz par oevre ou nature I <lb/>Citez et chastiaus ou il sont forz par nature ou par oeuvre ou par l’un et par l’autre et cist est li plus forz...</incipit>
+                  <explicit>...je cuit des ore mes qu’il est a tere de la dicipline d’armes car en ces choses li souveniers frequens us trueve souvent plus d’art que l’ancienne doctrine n’en a moustré.</explicit>
+                </msItem>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="kbr_11048" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>11048</idno>
+                <msName type="sigle" resp="Löfstedt">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Cy commence le livre intitulé Vegece de chevalerie</title> f. 1 ; <title type="ancien">Cy fine le livre de Vegece de chevalerie lequel est d’enseignemens d’armes car en toutes batailles seulent plus donner victoire sens et usage d’armes que force ne multitude de gens mal enseigniés</title> f. 83v] : prologue f. 1-2 ; table f. 2-7v ; f. 8r-v blanc ; texte f. 9-83v  ; f. 66v blanc.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>83 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale, 10222-23, f. 3v [1435], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1401-1440</title>, Bruxelles-Gand, 1972, t. II, pl. 364)</origin>
+                <provenance>Possesseurs : <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 419-420</bibl>
+                  <bibl><title>La librairie de Philippe le Bon, catalogue de l’exposition organisée à l’occasion du 500e anniversaire de la mort du duc</title>, Bruxelles, 1967, n° 231, p. 148</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="kbr_11195" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>11195</idno>
+                <msName type="sigle" resp="Löfstedt">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ce est li livres Flave Vegesce de la chose de chevalerie</title> f. 4  ; <title type="ancien">Ci fault li livres et les rebriches ou livre Flavet Vegesce et de la chose de chevalerie translatee en françois mot a mot selonc le latin</title> f. 3d] : table f. 1a-3d ; prologue du traducteur f. 4a-5c ; texte f. 5c-74d (la table qui est à présent en tête du ms devait à l’origine se trouver à la suite du f. 74v : <quote>« Ci fine li livrez et commencent les rebrichez des chapytrez »</quote> f. 74d).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>74 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 4 miniatures flamandes influencées par l’art parisien sur 2 colonnes de la moitié de la justification (f. 4, 18v, 31, 58v)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1330" notAfter="1370">Flandre ; milieu du XIV<hi rend="sup">e</hi> s. (proche du ms Gand, bibl. universitaire, 942, f. 41v [1367], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 819-1400</title>, Bruxelles-Gand, 1968, t. I, pl. 169) (sur le contreplat du plat supérieur : <quote>« Anno Domini millesimo CCCCmo primo »</quote>)</origin>
+                <provenance>possesseurs : exécuté pour le <persName type="possesseur" key="Flandre, comte de">comte de Flandre</persName> ou pour l’un de ses vassaux (écu aux armes de Flandre f. 4) ; <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>C. Gaspar, F. Lyna <foreign>et alii</foreign>, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Paris, 1937, p. 331 et pl. LXXb ; 2e partie, Paris, 1984, p. 70</bibl>
+                  <bibl><title>La librairie de Philippe le Bon, catalogue de l’exposition organisée à l’occasion du 500e anniversaire de la mort du duc</title>, Bruxelles, 1967, n° 230, p. 147-148</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="cambridge_gonville424-448" type="biblissima">
+              <msIdentifier>
+                <settlement>Cambridge</settlement>
+                <repository>Gonville and Caius College Libr.</repository>
+                <idno>424/448</idno>
+                <msName type="sigle" resp="Löfstedt">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p>vol. composé de deux mss juxtaposés</p>
+              </msContents>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les manuscrits français de Cambridge ; IV Gonville et Caius College », dans <title>Romania</title>, t. 36, 1907, p. 522-531</bibl>
+                  <bibl>M. R. James, <title>A descriptive catalogue of the manuscripts in the Library of Gonville and Caius College</title>, t. II, Cambridge, 1908, p. 495-496</bibl>
+                  <bibl>K. Busby, « Three anglo-norman redactions of <foreign>L’ordene de chevalerie</foreign> », dans <title>Mediaeval Studies</title>, t. 46, 1984, p. 33-34</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <altIdentifier>
+                  <idno>I</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titre : <title type="ancien">Ce est li livres Flave Vegece de la chose de chevalerie</title> p. 1] p. 1-75 : texte suivi de la table des chapitres incomplète de la fin (expl. livre IV, chap. 5).</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>38 f. parchemin</p>
+                  </objectDesc>
+                  <handDesc>
+                    <p>Deux mains : 1re main p. 1-72, 2e main p. 73-78</p>
+                  </handDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1280" notAfter="1305">fin du XIII<hi rend="sup">e</hi> s. (4) ou début du XIV<hi rend="sup">e</hi> s. (3), France</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>II</idno>
+                </altIdentifier>
+                <msContents>
+                  <p><title>L’ordre de chevalerie</title> p. 79- ; Ordonnance d’Edouard III confirmant une ordonnance d’Edouard Ier concernant les tournois p. 88- ; Twiti, <title>Traité de Vénerie</title> p. 91-95.</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>9 f. parchemin</p>
+                  </objectDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1330" notAfter="1370">milieu du XIV<hi rend="sup">e</hi> s.</origin>
+                </history>
+              </msPart>
+            </msDesc>
+            <msDesc xml:id="cambridge_magdalen_pepys1938" type="biblissima">
+              <msIdentifier>
+                <settlement>Cambridge</settlement>
+                <repository>Magdalen College Libr.</repository>
+                <idno>Pepys 1938</idno>
+                <msName type="sigle" resp="Löfstedt">M</msName>
+              </msIdentifier>
+              <msContents>
+                <p>vol. composé d’un imprimé et d’un ms</p>
+              </msContents>
+              <physDesc>
+                <decoDesc>
+                  <p>Illustration : 6 miniatures dont 3 illustrant Végèce : 1 miniature de la moitié de la justification (f. 1), 2 miniatures d’1/3 de la justification (f. 17v et 32v)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <provenance>Possesseur : armes (f. 1) : a senestre écartelé de France (1 et 4) et d’Angleterre (2 et 3) ; a dextre, ancre d’or sur champ d’azur.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 416-419</bibl>
+                  <bibl>M. R. James, <title>A descriptive catalogue of the library of Samuel Pepys</title>, Londres, 1923, p. 51-56</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <altIdentifier>
+                  <idno>I</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>
+                    <bibl><title>Faythes of armes of chyvalrye</title>, traduction imprimée par <publisher>Caxton</publisher> du <title>Livre des faits d’armes de chevalerie</title> de <persName type="ancien">Christine de Pizan</persName></bibl>
+                  </p>
+                </msContents>
+              </msPart>
+              <msPart>
+                <altIdentifier>
+                  <idno>II</idno>
+                </altIdentifier>
+                <msContents>
+                  <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commence le livre et l’istoire de Flave Vegece des fais et proesses de chevalerie translaté de latin en françois qui parle en brief dez fais de R[ommains?]</title> f. 1  ; <title type="ancien">Ci finent lez rubriches ou chapistres du secont livre de Flave Vegece ou de la chose dez faiz de chevalerie</title> f. 17v ; <title type="ancien">Ci finist le livre Flave Vegece de la chose qui est en chevalerie translaté de latin en françois mot a mot selon le latin etc.</title> f. 77v] f. 1-77v ; <title>Le dit des trois mors et des trois vifs</title> f. 78-79v ; poème sur la parabole du mauvais riche [titre : <title type="ancien">Ci commence l’istoire du mauvais riche homme</title> f. 80 ; inc. <seg type="incipit">Devant l’uys au riche homme le ladre trespassa</seg>...] f. 80-81v ; quatrains moraux f. 81v-82v [titre : <title type="ancien">Ci aprés s’ensuit de la fauseté du monde</title>, f. 81v ; inc. <seg type="incipit">Le monde sez amis par raison honneure...</seg>] ; <title>Le despit du cors</title> f. 82v-85v ; <title>Débat du corps et de l’ame (visio Philiberti)</title> f. 85v-90v (inc. <seg type="incipit">Une grant vision en ce livre est escripte <lb/>Jadis fu revellee a dam Philbert l’ermite</seg>... f. 85v) ; enseignement moral en sizains d’octosyllabes [titres : <title type="ancien">Ci aprés commence un tresbon enseignement pour un chascun de quelque estat qu’i soit soit home au femme</title>, f. 91 ;
+                    <title type="ancien">Ci fenist le livre je vois morir</title>, f. 95] f. 91-95 : inc. <seg type="incipit">Je vois morir ; venés avant <lb/>Tuit cil qui ores este vivant</seg>... ; f. 95v blanc ; <title type="ancien">Le Doctrinal aux simples gens</title> incomplet de la fin f. 96-103v</p>
+                </msContents>
+                <physDesc>
+                  <objectDesc>
+                    <p>103 f. [non folioté] parchemin</p>
+                  </objectDesc>
+                </physDesc>
+                <history>
+                  <origin notBefore="1351" notAfter="1400-01-01">seconde moitié du XIV<hi rend="sup">e</hi> s . (proche du ms Paris, bibl. de l’Arsenal 2247, f. 87v [1368], <title>Mss datés</title>, t. I, pl. 2)</origin>
+                </history>
+              </msPart>
+            </msDesc>
+            <msDesc xml:id="cambridge_university_ee2-17" type="biblissima">
+              <msIdentifier>
+                <settlement>Cambridge</settlement>
+                <repository>University Libr.</repository>
+                <idno>Ee 2, 17</idno>
+                <msName type="sigle" resp="Löfstedt">U</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des chap. 21 et 22 du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par Henri de Gauchi f. 1-2 ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">C’est le livre de Vegece, de Chevalerie, translaté de latin en franchois</title> f. 3  ; <title type="ancien">Cy fault le livre Flave Vegesce de la chose qui est en chevalerie translaté mot a mot selon le latin, etc.</title>] f. 3-fin.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>36 f. papier et parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 vignette au début (cf. 1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
+                <provenance>possesseurs : Humfrey of Gloucester [† 1447] : <quote>« Cest livre est a moy <persName type="possesseur" key="Humfrey of Gloucester">Homfrey duc de Gloucestre</persName> du don Moss. <persName type="possesseur" key="Robert Roos">Robert Roos</persName> chevalier mon cousin »</quote> (fin du ms); <quote>« Strangways »</quote> ? (f. 2, main du XVIe s.).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>A catalogue of the manuscripts preserved in the Library of the university of Cambridge</title>, t. II, Cambridge, 1857, n° 935, p. 33-34</bibl>
+                  <bibl>P. Meyer, « Les manuscrits français de Cambridge, II Bibliothèque de l’Université », dans <title>Romania</title>, t. 15, 1886, p. 236-357, part. 264-265</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bl_royal17ev" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 17 E V</idno>
+                <msName type="sigle" resp="Löfstedt">R</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>Cyropédie</title> de <persName type="ancien">Xénophon</persName> traduite par Vasque de Lucène [titres : <title type="ancien">Cy commencent les rubrices du premier livre de l’istoire Cirus roy de Perse composee par Xenophon le philozophe</title> f. 1a ; <title type="ancien">Cy commenence [<foreign>sic</foreign>] le premier livre de l’istoire Cirus roy de Perse composee par Xenophon le philozophe et intitulee de la tresbonne monarchie translatee de grec en latin par Pogge de Florence et de latin en françoys par Vasque de Lucene</title> (rubr.) f. 10d ; <title type="ancien">Explicit le premier livre de Xenophon</title> (rubr.) f. 42a ; <title type="ancien">Cy fine le VIe et derrenier livre de l’istoire Cirus roy de Perse composee par Xenophon le philozophe et intitulee de la tresbonne monarchie translatee de grec en latin par Pogge de Florence et de latin en françois par Vasque de Lucene, l’an mil CCCC soixante et dix</title> (rubr.) f. 204d] f. 1a-204d : table des rubriques f. 1a-6b ; f. 6v blanc ; prologue du traducteur f. 7a-10d ; texte f. 11a-204d ; 2 f. blancs entre f. 204 et f. 205 ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Cy commence le livre intitulé Vegece de chevalerie</title> (rubr.) f. 205a ; <title type="ancien">Cy fine le livre de Vegece de chevalerie lequel est d’enseignemens d’armes car en toutes batailles seulent plus donner victoire sens et usage d’armes que force ne multitude de gens mal endoctrinés</title> (rubr.) f. 274a] : prologue du traducteur f. 205a-206a ; table des chapitres f. 206a-211d ; texte f. 212a-274a (les chapitres sont numérotés de façon continue, de 1 à 127 en chiffres romains, du début à la fin du texte).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>274 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature des 3/4 de la justification (f. 7, en tête du prologue de la <title>Cyropédie</title>) et 7 miniatures d’1/3 à la moitié de la justification (f. 11a, 42a, 76c, 112a, 139a, 169a 205a) ; la traduction de Végèce n’est illustrée que par la dernière miniature (scène de dédicace)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1477" notAfter="1550">Bruges, après 1477 (proche du ms London, British Libr., Royal 18 E III, f. 60 [Bruges ?, 1479], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 816)</origin>
+                <provenance>possesseurs : le baron écossais <persName type="possesseur" key="Sydney Colvin">Sydney Colvin</persName> (armes et devise dans la brodure du f. 7) ; <persName type="possesseur" key="Angleterre, rois d’">rois d’Angleterre</persName> (n° 68 du catalogue des mss conservés à <orgName type="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 1-13</bibl>
+                  <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 259-260 [f. et sujets des miniatures]</bibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 421</bibl>
+                  <bibl>D. Gallet-Guerne, <title>Vasque de Lucène et la Cyropédie à la Cour de Bourgogne (1470), le traité de Xénophon mis en français d’après la version latine du Pogge, étude, édition des livres I à V...</title>, Genève, 1974, p. 161-162</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bl_royal20bi" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Royal 20 B I</idno>
+                <msName type="sigle" resp="Löfstedt">L</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commencent les tytres qui sont diz les rebriches des chapistres du livre qui est nommé Flave Vegeste de la choze de chevalerie</title> (rubr.) f. 1a ;
+                  <title type="ancien">Ci finent les VIxx et VIIII rebriches de chapistres desuz dis du livre Flave Vegesce et de la chose de chevalerie</title> (rubr.) f. 3a ; <title type="ancien">Explicit Vegesce de chevalerie</title> f. 31c] : table des chapitres f. 1a-3a ; prologue du traducteur f. 3b-d (<seg type="incipit">Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier monstre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont</seg>
+                  <foreign>(rubr.)</foreign>) ; prologue de Végèce f. 4a-b (<seg type="incipit">Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace c’est Dieu et apele ce livre le livre de l’excercitation c’est a dire le livre de l’usage d’armes</seg>... (rubr.) f. 3d) ; texte f. 4b-31c.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>31 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : par <persName type="illustrateur">Jeanne de Montbaston</persName> (1325-1353) ; 1 miniature d’1/3 à la moitié de la justification (f. 1) : scène de dédicace redoublée (Végèce offrant son livre à Valentinien ; le traducteur offrant son livre au roi) ; 3 miniatures d’1/4 à 1/3 de la justification en tête des livres II à IV (f. 10a, f. 15b, f. 25c)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 5218, f. 91v [1351], <title>Mss datés</title>, t. I, pl. 47)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai, <title>Romania</title>, t. 25, 1896, p. 420</bibl>
+                  <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 359 [f. et sujets de miniatures]</bibl>
+                  <bibl>R. H. Rouse et M. A. Rouse, <title>Manuscripts and their makers, Commercial Book Producers in Medieval Paris 1200-1500</title>, Londres, 2000, t. I, p. 389, n. 65</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1229" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1229</idno>
+                <msName type="sigle" resp="Löfstedt">P</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commencent les titres qui sont dites rebriches des chapistres du livre qui est nonmés Flave Vegesce de la chose de chevalerie</title> f. 1a ; <title type="ancien">Ci commence le livre de Vegesce de chevalerie ou il y a IIII livres, lesquiex devisent l’art et la science comment on se doit combatre par mer ou par terre</title> (rubr.) f. 5] : table f. 1a-3d ; traduction f. 5a-55b.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>55 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature sur 2 colonnes de la moitié de la justification (f. 5), 3 miniatures d’1/3 de la justification (f. 16b, 25d, 44c)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 2071, f. 105 [1382], <title>Mss datés</title>, t. I, pl. 58)</origin>
+                <provenance>possesseurs : <persName type="possesseur" key="Jean de Berry">Jean duc de Berry</persName> (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque impériale</title>, Paris, 1868-1881, t. III, p. 186 ; Id., <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 253 et 305 (avant 1402)) ; <persName type="possesseur" key="Marie de Berry, duchesse de Bourbonnais">Marie, duchesse de Bourbonnais</persName>, fille du duc de Berry, femme de Jean Ier duc de Bourbon ; <persName type="possesseur" key="Jean II, duc de Bourbon">Jean II duc de Bourbon</persName> († 1484) (<quote>« Ce livre est au duc de Bourbon <foreign>[sign. <foreign>infra</foreign>]</foreign> Jehan »</quote> f. 4a) qui le conservait au château de Moulins, où il fut confisqué, après la condamnation de Bourbon, en 1523, par François Ier.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 409-414</bibl>
+                  <bibl>M. Meiss, <title>French painting in the time of Jean de Berry</title>, New-York, 1964, p. 314</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="rouen_997" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Rouen</settlement>
+                <repository>bibl. mun.</repository>
+                <idno>997</idno>
+                <msName type="sigle" resp="Löfstedt">N</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay f. 1-39v : très gravement mutilé du début et de la fin (inc. ...<seg type="incipit">vient que</seg>... livre III, chap. 5 ; expl. ...<seg type="incipit">avant por</seg>... livre IV, chap. 15).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>39 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v, <title>Mss datés</title>, t. II, pl. 83)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 1 (1886), p. 251</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                  <bibl>notice IRHT (1941 revue 1960)</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="bav_rossianus457" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Vaticano</settlement>
+                <repository>Bibl. apostolica Vaticana</repository>
+                <idno>Rossianus 457</idno>
+                <msName type="sigle" resp="Löfstedt">V</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par Henri de Gauchi f. 1a-134d [titre : <title type="ancien">Ci commance le livre du gouvernement des roys et des princes comment il se doivent gouverner chascun en son royaume</title> (rubr.) f. 1] ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titre : <title type="ancien">Ici commance li livres Flave Vegesce de la chose de chevalerie</title>, f. 135a ; <title type="ancien">Explicit le livre des enseignemens de la
+                  <foreign>[ba]</foreign>taille par mer et par terre</title> f. 168d] f. 135a-168d : table des matières au début des livres II à IV.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>166 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : par <persName type="illustrateur">Jeanne de Montbaston</persName> (active 1325-1353) ; 1 miniature à 4 compartiments occupant la largeur de la justification et haute des 2/3 de la justification (f. 1), 14 miniatures de la largeur d’une colonne, d’1/3 de la justification ; pour la traduction de Végèce, 5 miniatures d’1/3 de la justification (f. 135a, 135d, 142a, 149a, 162c)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1325" notAfter="1350-01-01">2<hi rend="sup">e</hi> quart du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 169, f. 209v [1330], <title>Mss datés</title>, t. I, pl. 39)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Tietze, <title>Die illuminierten Handschriften der Rossiana in Wien-Lainz</title>, Leipzig, 1911, p. 36-37, n°60</bibl>
+                  <bibl>S. Vitte, « Les manuscrits français du fonds Rossi à la Bibliothèque Vaticane », dans <title>Mélanges d’archéologie et d’histoire</title>, t. 47, 1930, p. 107-110</bibl>
+                  <bibl>M. Buonocore (éd.), <title>Vedere i Classici, L’illustrazione libraria dei testi antichi dall’età romana al tardo medioevo</title>, Rome, 1996, p. 274-276, n° 53 [notice de F. Manzari]</bibl>
+                  <bibl>R. H. Rouse et M. A. Rouse, <title>Manuscripts and their makers, Commercial Book Producers in Medieval Paris 1200-1500</title>, Londres, 2000, t. II, p. 206, pl. 161 ; t. I, p. 244</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="deperdita">
+          <head>Manuscrits perdus ou non identifiés</head>
+          <p><persName type="possesseur" key="Charles V">Charles V</persName> a possédé au moins trois exemplaires de cette traduction. En voici la description d’après les anciens catalogues de la librairie du Louvre (éd. L. Delisle,
+            <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140, n° 860, 861 et 863) :</p>
+          <p>860. <title>Vegece, de chevalerie, couvert de cuir blanc, escript de lettre formée, en françois. Comm. : <quote>« gens est apris d’armes »</quote>. Fin :
+            <quote>« voiles soient »</quote>. A deux fermoirs de cuivre. – 12 s.</title></p>
+          <p>861. <title>Vegece, de chevalerie, en un cayer couvert de parchemin, escript en françois, a deux coulombes. Comm. : <quote>« La pure verité »</quote>. Fin : <quote>« mez mez engins. »</quote> – 16 s.</title></p>
+          <p>863. <title>Vegece, de chevalerie, en françois, tres bien historié et enluminé, escript de lettre de forme, a deux coulombes. Comm. : <quote>« Vostre en françois selon ce »</quote>. Fin : <quote>« en aguetz entour »</quote> ; et est signé Charles, couvert de cuir rouge empraint, et a boullons et fermoirs de laton. - 2 l.</title></p>
+        </div>
+      </div>
+      <div type="traduction" xml:id="en_vers">
+        <head>Traduction en vers des <title>Regulae belli generales</title> (Végèce,
+          <title>Epitoma rei militaris</title>, livre III, chap. 26)</head>
+        <dateline>
+          <date notBefore="1301" notAfter="1333">avant 1333</date>
+        </dateline>
+        <p>On ignore l’origine de la traduction en vers des <title>Regulae belli generales</title>, que l’on retrouve avec quelques variantes, dans le
+          <title>Chapel des trois fleurs de lis</title> de <persName type="ancien">Philippe de Vitry</persName> et à la fin de la traduction anonyme de 1380. La paternité de Philippe de Vitry sur ces vers, défendue par A. Piaget, ne doit pas être retenue.</p>
+        <div type="soustraduction" n="Va" xml:id="chapel_3_fleurs">
+          <head>Insertion dans le <title>Chapel des trois fleurs de lis</title></head>
+          <dateline>
+            <date notBefore="1301" notAfter="1333">avant 1333</date>
+          </dateline>
+          <p>Composé par Philippe de Vitry (vers 1290-1361) à l’occasion du projet de croisade de Philippe de Valois, le <title>Chapel des trois fleurs de lis</title> comprend une traduction en vers du chapitre le plus connu de Végèce (livre III, chap. 26), portant sur les règles générales de la guerre. Cette interpolation (v. 661-752) est composée de vers rimant en <hi rend="i">aabbcc</hi>, alors que le reste du <title>Chapel</title> est écrit en sizains rimant <hi rend="i">aabbccb</hi>. Les règles de la guerre sont présentées par un sizain :</p>
+          <p>De l’art de la chevalerie<lb/>Dire a present ne veul je mie<lb/>Ne parler en moult longuement ;<lb/>Car cil doit qui en veult savoir<lb/>Le livre de Vegece avoir,<lb/>Qui en parle moult sagement. (v. 655-660)<lb/>
+          </p>
+          <listBibl>
+            <bibl>A. Piaget, « Le <title>Chapel des fleurs de lis</title>, par Philippe de Vitri », dans <title>Romania</title>, t. 27, 1898, p. 55-92</bibl>
+          </listBibl>
+          <div type="incipit">
+            <head>Incipit</head>
+            <bibl>l'édition A. Piaget</bibl>
+            <msDesc n="incipit" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 926</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <locus>v. 661-666 - v. 749-752</locus>
+                  <incipit>Mais aucunes rieules moult belles<lb/>Briefment en diray qui sont telles<lb/>Tu qui de guerre veulz savoir<lb/>Dois pour general rieule avoir<lb/>Que ce qui proufit te puet faire<lb/>Soit nuisance a ton adversaire.</incipit>
+                  <explicit>...Car cellui double sa puissance<lb/>Qui d’eschapper n’a esperance<lb/>Bon est par paix sanz villanie<lb/>Recouvrer son droit ou partie.</explicit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="manuscrit">
+            <head>Manuscrits</head>
+            <p>Le <title>Chapel des fleurs de lis</title> est conservé dans les manuscrits suivants :</p>
+            <listBibl type="msList">
+              <msDesc xml:id="bern_217" type="biblissima">
+                <msIdentifier>
+                  <settlement>Bern</settlement>
+                  <repository>Burgerbibl.</repository>
+                  <idno>217</idno>
+                  <msName type="sigle" resp="Piaget">E</msName>
+                </msIdentifier>
+              </msDesc>
+              <msDesc xml:id="bl_harley4878" type="biblissima">
+                <msIdentifier>
+                  <settlement>London</settlement>
+                  <repository>British Libr.</repository>
+                  <idno>Harley 4878</idno>
+                  <msName type="sigle" resp="Piaget">C</msName>
+                </msIdentifier>
+              </msDesc>
+              <msDesc xml:id="bl_royal19cxi" type="biblissima">
+                <msIdentifier>
+                  <settlement>London</settlement>
+                  <repository>British Libr.</repository>
+                  <idno>Royal 19 C XI</idno>
+                  <msName type="sigle" resp="Piaget">D</msName>
+                </msIdentifier>
+              </msDesc>
+              <msDesc xml:id="fr_926" type="biblissima">
+                <msIdentifier>
+                  <settlement>Paris</settlement>
+                  <repository>Bibl. nat. de Fr.</repository>
+                  <idno>fr. 926</idno>
+                  <msName type="sigle" resp="Piaget">A</msName>
+                </msIdentifier>
+              </msDesc>
+              <msDesc xml:id="fr_12787" type="biblissima">
+                <msIdentifier>
+                  <settlement>Paris</settlement>
+                  <repository>Bibl. nat. de Fr.</repository>
+                  <idno>fr. 12787</idno>
+                  <msName type="sigle" resp="Piaget">B</msName>
+                </msIdentifier>
+                <msContents>
+                  <p>le ms Paris, Bibl. nat. de Fr., fr. 327 est une copie de ce ms, réalisée au XVIII<hi rend="sup">e</hi> s.</p>
+                </msContents>
+              </msDesc>
+            </listBibl>
+          </div>
+        </div>
+        <div type="soustraduction" n="Vb" xml:id="ajout_traductionanonyme">
+          <head>Ajout à la fin de la traduction anonyme de 1380</head>
+          <dateline>
+            <date notBefore="1380" notAfter="1380">1380</date>
+          </dateline>
+          <listBibl>
+            <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
+          </listBibl>
+          <div type="incipit">
+            <head>Incipit</head>
+            <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
+            <msDesc n="incipit" type="biblissima">
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>11046</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <locus>p. 157, f. 73 - p. 160, f. 75</locus>
+                  <incipit>Tu qui de guerres vueulz savoir<lb/>Dois pour general rieule avoir<lb/>Que ce qui prouffit te peut faire<lb/>Soit nuisance a ton adversaire...</incipit>
+                  <explicit>Ce qui est dit lui peut souffire<lb/>Car qui peut bien entendre et lire<lb/>Et vueult du faire songneux estre<lb/>En labourant devendra maistre.</explicit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="manuscrit">
+            <head>Manuscrits</head>
+            <p>Voir les manuscrits de la traduction anonyme : <title>Le livre de l’art de chevalerie de Vegesce</title>.</p>
+          </div>
+        </div>
+      </div>
+      <div type="traduction" xml:id="anonyme1380">
+        <head>Traduction anonyme : <title>Le livre de l’art de chevalerie de Vegesce</title></head>
+        <dateline>
+          <date notBefore="1380" notAfter="1380">1380</date>
+        </dateline>
+        <p>La traduction anonyme dont les deux manuscrits portent au commencement du texte la date de 1380 a deux marques distinctives : d’une part, l’absence d’une traduction littérale du chapitre 26 du livre III (<title>Regulae belli generales</title>) et,
+          <quote>« de l’autre, l’addition, à la fin du livre, d’une traduction versifiée de ce chapitre (<title>Riules</title>...). Observons également l’absence des prologues des livres II, III et IV, ainsi que l’absence d’une traduction du chapitre 17 du livre II.  »</quote> (<title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989, p. 5). Cette traduction est beaucoup plus libre que celles de Jean de Meun et de Jean de Vignay, bien qu’elle comprenne beaucoup de latinismes. On ne sait précisément d’où elle vient et elle n’a eu qu’une faible diffusion.</p>
+        <listBibl>
+          <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V024</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Bruxelles</settlement>
+              <repository>Bibl. royale de Belgique</repository>
+              <idno>11046</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 1</locus>
+                <title>Table des rubriques</title>
+                <incipit>Comment les Rommains sousmistrent a eulz le monde par l’art et exercitement des armes I</incipit>
+              </msItem>
+              <msItem>
+                <title>Livre I</title>
+                <msItem>
+                  <locus>f. 5, p. 40</locus>
+                  <title>Prologue de Végèce</title>
+                  <incipit>Anciennement les estudes des bonnes sciences souloient estre mises en escript et les livres que li saige en faisoient estoient premierement presentés aux princes car il n’est riens qui soit commencié a droit se aprés Dieu la faveur du prince n’y est.</incipit>
+                </msItem>
+                <msItem>
+                  <locus>f. 5v-6, p. 41 - f. 17, p. 58</locus>
+                  <title>Texte</title>
+                  <incipit>Comment les Romains soubzmistrent a eulz le monde par l’art et exercitement des armes I <lb/>L’en ne voit que pour nulle autre cause le peuple de Romme soubzmeist a sa seigneurie le monde fors tant seullement qu’ilz s’exercitoient en armes et avoient science de guerroier...</incipit>
+                  <explicit>...Et pour ce tous jours se doivent li jenne homme excerciter a bataille et quar il est trop plus grant prouffit des siens ensaigner plus tost en armes que de louer les estranges au besoing de guerroyer.</explicit>
+                </msItem>
+              </msItem>
+              <msItem>
+                <locus>f. 17, p. 60 - f. 29v, p. 82</locus>
+                <title>Livre II</title>
+                <incipit>Ci commence le second livre de chevalerie En quantes manieres chevalerie ou guerre est divisee I <lb/>Si comme le noble acteur des Latins tesmoingne ou commencement de son ditié l’art de chevalerie est en armes et en force...</incipit>
+                <explicit>... si que quant l’ost fiche et arreste ses chasteaulz c’est a dire les tentes il semble que ce soit une grant cité forte et bien armee.</explicit>
+              </msItem>
+              <msItem>
+                <locus>f. 29v, p. 83 - f. 56v, p. 125</locus>
+                <title>Livre III</title>
+                <incipit>Si commence le tiers livre. <lb/>De la maniere de l’ost I <lb/>Le premier livre de ce traittié a parlé de l’election et exercitement de chevalerie et batailleurs <lb/>Le second a ensaignié de l’institucion et ordonnance de la legion et de la science et dottrine de chevalerie.</incipit>
+                <explicit>...Car quant on a eu aucune bonne fortune les cuers humains de ceulz qui[lz] l’ont eu sont plus orguilleux et mains saiges si qu’adont peut il bien cheoir apoint d’eulx grever.</explicit>
+              </msItem>
+              <msItem>
+                <locus>f. 56v, p. 126 - f. 73, p. 156</locus>
+                <title>Livre IV</title>
+                <incipit>Ci commence le quart et derrenier livre de l’art de chevalerie fait de Flave Vegesce jadis conte Estre fort ou de nature par la raison du lieu ou ilz sont ou par euvre <lb/>Comment les citez et les chasteaux doivent estre fors I <lb/>Les citez et les forteresses ou ilz sont fors par nature ou par main ou par l’un et l’autre qui vault mieulz...</incipit>
+                <explicit>... car l’usaige et le hantement de l’art de chevalerie treuve tousjours plus du fait et de la maniere de saigement guerroier que l’ancienne doctrine n’en pourroit moustrer.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="kbr_11046" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>11046</idno>
+                <msName type="sigle" resp="Löfstedt">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction anonyme (1380) de l’<title>Epitoma rei militaris</title> de Végèce [titre : <title type="ancien">Ci commence le livre de l’art de chevalerie fait de hault homme et noble jadis Flave Vegesce du renc conte. Ce traitié contient quatre livres et fut translaté de latin en françois l’an de grace mil CCC IIIIxx</title> f. 1] f. 1-73 : table des rubriques f. 1-4v  ; texte f. 5-73 : nombreuses corrections marginales ou intralinéaires ; traduction des <title>Regulae bellorum generales</title> [titre : <title type="ancien">Des rieules generaulz de l’art de chevalerie</title> f. 73] f. 73-75.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>76 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : armes peintes de Philippe Ier de Croÿ dans une réserve, sur 2 colonnes et la moitié de la justification (f. 5) (cf. 1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1415" notAfter="1425">vers 1420 (proche du ms Bruxelles, Bibl. royale II 2609, f. 2 [1430], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1401-1440</title>, Bruxelles-Gand, 1972, t. II, pl. 326)</origin>
+                <provenance>possesseurs : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armes peintes f. 1), <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (<quote>« Cest livre nommé l’art de chevalerie ou il n’y a que une histoire et est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote> f. 75), <persName type="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName>.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, n°165, p. 283-285</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="torino_saluzzo188" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Torino</settlement>
+                <repository>Bibl. Reale</repository>
+                <idno>Saluzzo 188</idno>
+                <msName type="sigle" resp="Löfstedt">T</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction anonyme (1380) de l’<title>Epitoma rei militaris</title> de Végèce [titres : <title type="ancien">Ci commence le livre de l’art de chevalerie fait de hault homme et noble jadis Flave Vegesce du Renc conte et contient ce present traictié quatre livres lequel fut translaté de latin en françois l’an de grace mil trois cenz quatre vins</title> f. 1 ; <title type="ancien">Cy aprés commence le premier livre de Vegesce de chevalerie</title> f. 4 ; <title type="ancien">Cy fine le livre de Vegesce de chevalerie en prose mais il met ci aprés aucunes notables ruiles de l’art de chevalerie Et comment souventefois il avient que en fait de guerre fortune est plus dame que force de corps et ce preuve il par aucuns anciens roumains</title> f. 66] f. 1-68 : table des rubriques f. 1-4 ; f. 4v blanc ; texte f. 5-68 ; 7 ballades morales d’<persName type="ancien">Eustache Deschamps</persName> f. 68v-72v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>72 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : <persName type="copiste">Raoul Tainguy</persName></p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : 1 miniature des 2/3 de la justification par le
+                    <persName type="illustrateur">maître de Virgile</persName> (f. 5) (cf. 1)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1405" notAfter="1415">ca 1410-1415</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236), p. 8-11 [notice d'O. Merisalo]</bibl>
+                  <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, p. 282-368, notice p. 361-364</bibl>
+                  <bibl>R. H. Rouse et M. A. Rouse, <title>Manuscripts and their makers, Commercial Book Producers in Medieval Paris 1200-1500</title>, Londres, 2000, t. II, p. 122</bibl>
+                  <bibl>notice J. Monfrin</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="regulae-belli-generales">
+        <head>Traduction des <title>Regulae belli generales</title> (Végèce, <title>Epitoma rei militaris</title>, livre III, chap. 26) : <title>Lez regles dou governement dez baitelles astraictez dou libre de Vegecez de l’art de chevallerie</title></head>
+        <dateline>
+          <date notBefore="1301" notAfter="1420">XIV<hi rend="sup">e</hi>-début du XV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Texte latin et français correspondant aux <title>Regulae belli</title> generales (livre III, chap. 26). Les règles générales sont présentées l’une après l’autre, chaque règle latine étant suivie d’une traduction française. Le manuscrit latin utilisé est proche du manuscrit Π de l’édition Lang (<title>Epitoma rei militaris Flavi Vegetii Renati</title> recensuit Carolus Lang, Leipzig, 1885 (Bibliotheca Teubneriana, 34)).</p>
+        <listBibl>
+          <bibl>L. Löfstedt, « <title>Lez regles dou governement dez baitelles</title> », dans
+            <title>Neuphilologische Mitteilungen</title>, t. 78, 1977, p. 292-299 [introduction, édition et commentaire]</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition L. Löfstedt</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 1563</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>p. 292-297</locus>
+                <incipit><foreign>Prima regula <lb/>In omnibus expeditionis preliis condicio talis est ut quod tibi prodest adversarium tuum noceat ; quod illum adjuvat tibi sempert officiat</foreign>
+                  <lb/>Premiere regle <lb/>En toutes bataillez de despechement et de outrance la condicion est telle que ceu que te profficte soit nuissant ad ton adversaire et que ceu que [la] l’aide te soit grevant.</incipit>
+                <explicit>XIIIIe maniere <lb/>Per quelle maniere que tu dois combaitre tes anemis ne leu sachent point adfin que par aucun remede il ne se provoient de resister.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="fr_1563" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1563</idno>
+              </msIdentifier>
+              <msContents>
+                <p>recueil de pièces didactiques ou morales. Volume consacré principalement à l’oeuvre de <persName type="ancien">Jean de Meun</persName> : <title>Roman de la Rose</title> f. 2a-144c  ; traduction des <title>Regulae belli generales</title> [titres  :
+                  <title type="ancien">Icy s’enxeut lez regles dou governement dez baitelles astraictez dou libre de Vegecez de l’art de chevallerie et sont premierement en latin et en romant translatees</title> f. 144d ; <title type="ancien">Expliciunt regule artis belicose in latino et in galico</title> f. 147v [<foreign>sic</foreign>]] f. 144d-147v ; <title>Testament</title> f. 148-174 ;
+                  <title>Codicille</title> f. 174v-175 ; f. 175-177v blancs ; etc.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>223 f. papier (filigranes sim. Briquet 2703 [Ghistelles, 1405  ; sim. 1406-1408])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1395" notAfter="1420">Lorraine (d’après la graphie) ; ms du début du XV<hi rend="sup">e</hi> s. mais les <title>Règles de bataille</title> ont été ajoutées à la fin du XV<hi rend="sup">e</hi> s. dans un espace laissé en blanc dans le ms (f. 146 proche du ms Paris, bibl. de l’Arsenal [1472], <title>Mss datés</title>, t. I, pl. 129)</origin>
+                <provenance>Possesseur : frère <persName type="possesseur" key="Jean de Merville, O.P.">Jean de Merville</persName> (?) de l’ordre des frères prêcheurs (mention XV<hi rend="sup">e</hi> s. f. 1)</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>E. Langlois, <title>Les manuscrits du Roman de la Rose</title>, p. 20-22</bibl>
+                  <bibl>Christine de Pisan, Jean Gerson, Jean de Montreuil, Gontier et Pierre Col, <title>Le débat sur le Roman de la rose</title>, éd. critique, intr., trad., notes par E. Hicks, Paris, 1977 (<title>Bibliothèque du XV<hi rend="sup">e</hi> siècle</title>, 43), p. LXXXI-LXXXIII [notice du ms]</bibl>
+                  <bibl>L. Löfstedt, « <title>Lez regles dou governement dez baitelles</title> », dans <title>Neuphilologische Mitteilungen</title>, t. 78, 1977, p. 292-299</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="fragmentaire">
+        <head>Adaptation fragmentaire : <title>Aucuns notables extraitz du livre de Vegece</title></head>
+        <dateline>
+          <date notBefore="1401" notAfter="1449">première moitié du XVe siècle</date>
+        </dateline>
+        <p>Certains manuscrits de la traduction des <title>Stratagèmes</title> de Frontin par Jean de Rouvroy complètent le texte de Frontin par une suite d’extraits empruntés au livre de Végèce. Cet abrégé, bien équilibré, livre l’essentiel des trois premiers livres de Végèce. Le livre IV n’est quasiment pas représenté. Les <title>notables extraitz</title> se composent de deux éléments : en premier lieu des extraits plus ou moins longs de certains chapitres importants, présentés dans l’ordre végétien ; ensuite la traduction du chapitre 26 du livre III (<title>Regulae belli generales</title>), enrichie de sentences morales tirées d’autres chapitres et détachées de leur contexte. On ne peut exclure à cause de certaines similitudes lexicales que Jean de Rovroy ait lui-même rédigé ces extraits. Le traducteur-abréviateur a utilisé un manuscrit latin du sous-groupe δ (du groupe Π).</p>
+        <listBibl>
+          <bibl>L. Löfstedt, « Aucuns notables extraitz du livre de Vegece », dans
+            <title>Neuphilologische Mitteilungen</title>, t. 83, 1982, p. 297-312 [introduction et édition]</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>éd. Löfstedt</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>London</settlement>
+              <repository>British Libr.</repository>
+              <idno>Add. 12028</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>p. 299-310</locus>
+                <incipit>Il n’est nul a qui il appartiengne mieulx de sçavoir le bien que au prince de qui la doctrine peut pourfiter a tous ses subgets <lb/>Nous n’avons point veu que par aultre maniere les Romains aient mis tout le monde en leur subgecion que par excercite d’armes et par le bon gouvernement que les chefs ont mis en l’ost en pugnissant les mesprenans.</incipit>
+                <explicit>Nul jamays ne se enorguillisse pour bonne adventure qui luy soit advenue mays pense tousjours en soy que l’adventure de la bataille vient souvent contre ceulx qui deussent avoir eu la victoire.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="bl_add12028" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Add. 12028</idno>
+                <msName type="sigle" resp="Löfstedt">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">S’ensuivent les tiltes des chapitres du premier livre des strategemes</title> f. 4v ; <title type="ancien">Cy fine le premier livre de Jule Frontin et commance le prologue du tiers</title> [<foreign>sic</foreign>] (rubr.) f. 49v ; <title type="ancien">Cy fine le IIe livre de Jule Frontin et commance le prologue du tiers</title> (rubr.) f. 108v] : prologue du traducteur f. 2-4v incomplet du début (inc. ...<seg type="incipit">racontees toutes les plus notables exemples de toutes les cautelles et soubtilletez qui aient esté faites en armes...</seg>) ; table des chapitres des 4 livres f. 4v-6v ; texte f. 7-170v (livre I f. 7-49v, II f. 50-108v, III f. 108v-138, IV f. 138v-170v) : à l’exception du livre I, une table des chapitres vient s’intercaler entre le prologue de chaque livre et le premier chapitre ; en marge, numérotation en chiffres romains et à l’encre rouge des « <hi rend="i">exemples</hi> » à l’intérieur de chaque chapitre ; dans la marge supérieure, titre courant rubriqué indiquant le numéro du livre et celui du chapitre à chaque page ; glossaire f. 170v-172v (<seg type="incipit">S’ensuit la declaracion d’aucuns noms qui sont en ce livre, lesquelx ne se pouoient bonnement translater de mot a mot sans aucune obscureté</seg>... f. 170v) ; traduction partielle de l’<title>Epitoma rei militaris</title> de Végèce [titre :
+                  <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 173] f. 173-185v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>185 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notAfter="1425-01-01" notBefore="1450-12-31">2<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 8158, f. 204 [1426], <title>Mss datés</title>, t. III, pl. 144)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue of additions to the manuscripts in the British Museum in the years MDCCCXLI-MDCCCXLV</title>, Londres, 1850, p. 26</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="arsenal_2693" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>2693</idno>
+                <msName type="sigle" resp="Löfstedt">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Cy finist le tiers livre de Juille Frontin et se commence le prologue du quart</title> f. 19] f. 1-121v ; glossaire f. 121v-123v ; extraits traduits de l’<title>Epitoma rei militaris</title> de Végèce [titre : <title type="ancien">S’ensuivent aucuns enseignemens estraiz du livre de Vegece</title> f. 124v] f. 124v-133v ; liste d’exemples destinés à compléter les chapitres III.8 et IV.4 f. 133v-137v ; brèves mentions en latin sur les compagnons et successeurs d’Alexandre f. 137v-140.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>140 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notAfter="1450-01-01" notBefore="1501-12-31">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, t. III (1887), p. 79</bibl>
+                  <bibl> R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 280-281</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1234" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1234</idno>
+                <msName type="sigle" resp="Löfstedt">N</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Cy fine le premier livre de Jules Frontin et commence le prologue du tiers</title> [<foreign>sic</foreign>] f. 41v] f. 1-138 : incomplète du début du livre I (inc. ...<seg type="incipit">quant il vit du tartre qu’il avoit suspeçonné une grant force d’oiseaux</seg>... f. 1 [I.2 = fr. 1233, f. 7a]) ; glossaire f. 138v-140 ; extraits traduits de l’<title>Epitoma rei militaris</title> de <persName type="ancien">Végèce</persName> [titre : <title type="ancien">S’ensuivent aucuns notables extraiz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentils hommes en la science des armes et de chevalerie</title> f. 140v] f. 140v-141v : incomplets de la fin (expl. <seg type="explicit">Il appartient aux plus grans et dit estaz leur</seg>... I.7 fin, éd. L. Löfstedt, p. 300).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>141 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>3 miniatures f. 1 (2/3 de p.), 3v (1/2 p.), 8v (pleine p.)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notAfter="1430-01-01" notBefore="1470-12-31">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 731, f. 1 [1477-1484], <title>Mss datés</title>, t. I, pl. 135) ; copie du ms Paris, Bibl. nat. de Fr, fr. 24357</origin>
+                <provenance>possesseur : signature grattée f. 138.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 278-279</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_1235" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1235</idno>
+                <msName type="sigle" resp="Löfstedt">P</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Explicit Frontinus</title> f. 145] f. 1-145  ; glossaire f. 145-147 ; extraits traduits de l’<title>Epitoma rei militaris</title> de <persName type="ancien">Végèce</persName> [titre  : <title type="ancien">S’ensuient aucuns notables extraictz du livre de Vegecce qu’il fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevallerie</title> f. 147] f. 147-158.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>158 f. papier (sim. Briquet 392 [Grammont (Belgique), 1463])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1451-12-31" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2048, f. 1 [1464], <title>Mss datés</title>, t. I, pl. 122)</origin>
+                <provenance>Possesseur : <persName type="possesseur" key="Louis de Bourbon, amiral de France">Louis de Bourbon, amiral de France</persName> (ex libris f. 1, ex libris et signature f. 158) ; <persName type="possesseur" key="Charles III de Bourbon, connétable de France">Charles III de Bourbon, connétable de France</persName> ; ms mentionné dans des inventaires de 1474 et 1527 : <title>Les stratagemes Julles Frontin</title> (1474) [n° 216 de l’inventaire de 1527 : en papier, couvert de cuir blanc].</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>A. de Boislisle, « Inventaire des bijoux, vêtements, manuscrits et objets précieux appartenant à la comtesse de Montpensier (1474) », dans <title>Annuaire-bulletin de la Société de l’histoire de France</title>, t. 17, 1880, p. 300</bibl>
+                  <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 279</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_24257" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 24257</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titres : <title type="ancien">S’ensuivent les tiltres des chappitres du premier livre des Stratagemes qui peuent enseigner le prince des choses qui sont a faire avant la bataille</title> f. 5 ;
+                  <title type="ancien">Cy fine le premier livre de Jules Frontin</title> (rubr.) f. 26] : prologue du traducteur f. 3-4 ; prologue de l’auteur f. 4-5 ; table des chapitres f. 5-6 ; texte f. 6v-76 (manquent les exemples I.v, 18-24 ; IV.i, 11-43 ; IV.v, 9-21 ; IV.vii, 7-31) ; glossaire f. 76r-v (<title type="ancien">S’ensuit la declaracion d’aucuns noms qui sont en ce livre les quelx ne se pouoient pas bonnement translater de mot a mot sans aucune obscureté</title> f. 76) ; extraits traduits de l’<title>Epitoma rei militaris</title> [titre : <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’i fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 76v] f. 76v-77v : incomplets de la fin (expl.  ... <seg type="explicit">car l’honnesteté des meurs fait le bon chevallier et la crainte de faire deshonneur a son lignaige en tant qu’elle luy deffent le fouyr elle le fait hardi et victorien <lb/>Il appartient aux plus grans et doibt leur...</seg> [= expl. du ms Paris, Bibl. nat. de Fr., fr. 1235]).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>77 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 1 miniature d’un 1/3 de la justification en tête du livre I (f. 6), 4 miniatures des 2/3 de la justification (f. 3, 27, 55, 68v) en frontispice et au début des livres II à IV)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notAfter="1480-01-01" notBefore="1505-12-31">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
+                <provenance><persName type="possesseur" key="Charles VII">Charles VII</persName> (armes de France, f. 3) ; dans l’encadrement des f. 6, 55, 68v, réserve pour un écu</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 279-280</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="deperdita">
+        <head>Manuscrits perdus, détruits ou non identifiés</head>
+        <list type="deperdita">
+          <msDesc xml:id="metz_1437" type="biblissima">
+            <msIdentifier>
+              <settlement>Metz</settlement>
+              <repository>bibl. mun.</repository>
+              <idno>1437</idno>
+            </msIdentifier>
+            <msContents>
+              <p><title>Arbre des batailles</title> (Paris, Vérard, 1493) ;
+                <title>L’art de chevalerie selon Vegece</title> f. 151 ; traité d’héraldique f. 255v ; <title>Instruction de chevalerie et exercice de guerre</title> f. 286-293v.</p>
+            </msContents>
+            <physDesc>
+              <objectDesc>
+                <p>[détruit]</p>
+              </objectDesc>
+              <handDesc>
+                <p>Copiste : <persName type="copiste">Jean d'Aucy</persName> [(Bouveret 8745 : <quote>« Iohannes d’Auchy »</quote> (Paris, bibl. Mazarine, 592, cf. <title>Mss datés</title>, t. I, p. 416)]</p>
+              </handDesc>
+            </physDesc>
+            <history>
+              <provenance>possesseur : <persName type="possesseur" key="Jacques d’Esch">Jacques d’Esch</persName> (f. 2v)</provenance>
+            </history>
+            <additional>
+              <listBibl>
+                <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 48 (1933), p. 446-447</bibl>
+              </listBibl>
+            </additional>
+          </msDesc>
+          <msDesc xml:id="sorbonne_1223" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>bibl. de la Sorbonne</repository>
+              <idno>1223</idno>
+            </msIdentifier>
+            <msContents>
+              <p>le <title>Catalogue général des manuscrits</title> signale le fragment d’une traduction de Végèce sur un f. de garde XV<hi rend="sup">e</hi> s. Lors de la restauration de la reliure (dans les années 1990), les gardes ont disparu.</p>
+            </msContents>
+            <additional>
+              <listBibl>
+                <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France : Université de Paris et universités des départements</title>, 1918, p. 280-281</bibl>
+              </listBibl>
+            </additional>
+          </msDesc>
+          <item xml:id="ms_charles5">
+            <p>Librairie de <persName type="possesseur" key="Charles V">Charles V</persName> (manuscrits dont la version n’est pas identifiée)</p>
+            <p>857. <title>Vegece, de chevallerie, en prose, en aiz. - baillé a mons. d’Anjou, 22 de Nov. 1380</title> (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140)</p>
+            <p>858. <title>Vegece, de chevalerie, couvert de drap d’or, a deux petiz fermoirs d’argent doré, escript de lettre formee, en françois, a deux coulombes. Com. du texte : <quote>« tres grant chaleur »</quote> ; fin : <quote>« l’en se tiengne corbe »</quote>. 32 s</title>. (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140)</p>
+            <p>859. <title>Vegece, de chevalerie en prose, tres bien escript, couvert de veluy au celestin, a deux fermoirs d’argent des armes d’Auceurre, en françois, de lettre formee, a deux coulombes. Com. : <quote>« rigné en »</quote> ; fin : <quote>« avons traittié »</quote>. Couvert de cuir rouge, a deux fermoirs de laton. 16 s</title>. (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140)</p>
+            <p>862. <title>Vegece, de chevalerie, bien escript de lettre de forme, en françois, a deux coulombes. Com. du texte : <quote>« autre mes non »</quote> ; fin : <quote>« avons traittié »</quote>. Couvert de cuir rouge, a deux fermoirs de laton. 16 s</title>. (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140)</p>
+            <p>864. <title>Vegesse, de chevalerie, en prose. Au comte de Salebruche</title> (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. *140)</p>
+            <p>865. <title>Un livret couvert de cuir rouge empraint, nommé Vegece, de chevalerie, a deux fermoirs de laton, escript de lettre de forme, en françois. Com. : <quote>« droit nombre »</quote> ; fin : <quote>« blance de mille »</quote>. L 1</title> (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140)</p>
+          </item>
+          <item xml:id="ms_jeanorleans">
+            <p>
+              <persName type="possesseur" key="Jean d'Orléans, comte d'Angoulême">Bibliothèque des ducs d’Orléans</persName>
+            </p>
+            <p>
+              <title>Vegece, des batailles, en parchemin et lettre de forme, en françois commençant ou second fueille : <quote>« le treziesme »</quote> et finissant ou penultime : <quote>« gloire et redempcion »</quote></title>
+            </p>
+            <listBibl>
+              <bibl>M. Dupont-Ferrier, <title level="a">Jean d’Orléans, comte d’Angoulême d’après sa bibliothèque (1467)</title>, dans <title>Bibliothèque de la Faculté des lettres de l’Université de Paris</title>, t. 3, 1897, p. 66, n° 47</bibl>
+            </listBibl>
+          </item>
+          <item xml:id="ms_gabriellelatour">
+            <p>Bibliothèque de <persName type="possesseur" key="Gabrielle de la Tour d’Auvergne, comtesse de Montpensier">Gabrielle de la Tour</persName> († 1474), puis de <persName type="possesseur" key="Charles III de Bourbon, connétable de France">Charles de Bourbon</persName> (inventaire de 1527) au château d’Aygueperse</p>
+            <p><title>Le livre de Vegesse</title> [n° 183 de de l’inventaire établi à Aygueperse en 1527 : <title>L’Abregement de noble homme Vegece, a la main, en papier, couvert de cuir rouge</title>]</p>
+            <listBibl>
+              <bibl>A. de Boislisle, <title level="a">Inventaire des bijoux, vêtements, manuscrits et objets précieux appartenant à la comtesse de Montpensier, 1474</title>, dans <title>Annuaire-Bulletin de la Société de l’histoire de France</title>, t. 17, 1880, p. 301</bibl>
+            </listBibl>
+          </item>
+          <item xml:id="ms_nicolasbaye">
+            <p><persName type="possesseur" key="Nicolas de Baye">Bibliothèque de Nicolas de Baye</persName>, greffier du parlement de Paris (1419)</p>
+            <p>174. <title>Item le livre de Vegece, en françoys, commençant au second fueillet l’ordenance, prisié XII s</title>.</p>
+            <listBibl>
+              <bibl>A. Tuetey, <title>Le journal de Nicolas de Baye, greffier du Parlement de Paris, 1400-1417</title>, Paris, 1888 (Société de l'Histoire de France), p. XCIV</bibl>
+            </listBibl>
+          </item>
+          <item xml:id="ms_tours">
+            <p>Catalogue des livres vendus par une <orgName type="possesseur" key="Tours, bibliothèque de">librairie de Tours</orgName> (XV<hi rend="sup">e</hi> s.)</p>
+            <p>
+              <title>Vegece, de chevalerie</title>
+            </p>
+            <listBibl>
+              <bibl>A. Chereau, <title>S’ensuit le catalogue d’un marchand libraire du XV<hi rend="sup">e</hi> s. tenant boutique a Tours</title>, Paris, 1868, p. 24</bibl>
+            </listBibl>
+          </item>
+          <item xml:id="ms_antoinelorraine">
+            <p><persName type="possesseur" key="Antoine de Lorraine">Bibliothèque du duc Antoine de Lorraine</persName> (Nancy 1543)</p>
+            <p>7. <title>Ung livre en parchemin, escript a la main intitulé : libvre des droiz d’armes. Frontin et Vegesse</title></p>
+            <listBibl>
+              <bibl>A. Collignon, <title>La bibliothèque du duc Antoine, recherches bibliographiques suivies de l’inventaire annoté</title>, Nancy, 1907, p. 90</bibl>
+            </listBibl>
+          </item>
+        </list>
+      </div>
+    </body>
+  </text>
+</TEI>

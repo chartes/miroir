@@ -1,0 +1,878 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ars_amatoria_ovidius" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">Ars amatoria</hi>, P. Ovidius Naso</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2017"/>
+        <idno>http://enc-sorbonne.fr/miroir/heroides_ovidius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>P. Ovidius Naso</author>, <title>Ars amatoria</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-31">révision de la notice</change>
+      <change who="#FG" when="2007-02-26">révision de la notice, harmonisation des noms de personnes</change><!-- Frédéric Glorieux -->
+      <change who="#GP" when="2007-02-27">révision de la notice</change><!-- Gautier Poupeau -->
+      <change who="#VJ" when="2007-03-03">normalisation des attributs des noms de personnes</change>
+      <change who="#HRC" when="2014-05">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine d'Ovide au Moyen Age</head>
+        <p>Malgré la popularité d’Ovide au Moyen Age, peu de manuscrits conservés sont antérieurs au XIII<hi rend="sup">e</hi> siècle. Parmi ceux qui ont été copiés entre le IX<hi rend="sup">e</hi> et le XII<hi rend="sup">e</hi> siècles nous restent 54 manuscrits des <title>Métamorphoses</title>, 10 des <title>Remedia amoris</title>, 10 des <title>Heroides</title> et 9 de l’<title>Ars amatoria</title>. C’est dire qu’Ovide arrive loin derrière les autres poètes classiques et que seules les <title>Métamorphoses</title> ont connu une certaine diffusion. On comparera, pour la même période, avec le succès de <persName type="ancien">Virgile</persName> (114 manuscrits des <title>Bucoliques</title>, 127 des <title>Géorgiques</title>, 180 de l’<title>Enéïde</title>), d’<persName type="ancien">Horace</persName> (143 manuscrits de l’<title>Art poétique</title>, 143 des <title>Satires</title>, 138 des <title>Odes</title>, 136 des
+          <title>Epîtres</title> et 118 des <title>Epodes</title>), de <persName type="ancien">Lucain</persName> (167 manuscrits de la <title>Pharsale</title>), de
+          <persName type="ancien">Juvénal</persName> (110 manuscrits des
+          <title>Satires</title>), de <persName type="ancien">Térence</persName> (106 manuscrits des <title>Comédies</title>), de <persName type="ancien">Stace</persName> (93 manuscrits de la <title>Thébaïde</title>) ou de <persName type="ancien">Perse</persName> (74 manuscrits des <title>Satires</title>)... Dans la seconde moitié du XII<hi rend="sup">e</hi> siècle, on a commencé à rassembler des textes ovidiens épars afin d’en faire des <foreign>corpora</foreign> d’une utilisation commode. Si la diffusion des poèmes intégraux d’Ovide est bien modeste, les extraits recueillis sous forme de florilèges ont connu une grande fortune. Ovide occupe ainsi une place prépondérante dans les grands florilèges « à sections d’auteurs » du XII<hi rend="sup">e</hi> siècle. A la même époque, Ovide devient plus fréquent dans les bibliothèques scolaires, mais les maîtres formulent des réserves morales, surtout à l’égard de l’<title>Ars amatoria</title> et des
+          <title>Héroïdes</title>. Les seuls poèmes qui ont circulé pendant les siècles suivants (à partir du XIII<hi rend="sup">e</hi> s.) sous le nom d’Ovide sont le
+          <title>Carmen de Philomela</title> et le <title>De lupo</title>, mais au XII<hi rend="sup">e</hi> s., ils constituent des <foreign>pseudo-ovidiana</foreign> virtuels, car ils ne sont pas encore attribués à Ovide.</p>
+        <p>Il est incontestable qu’Ovide influença sensiblement les poètes dès le XII<hi rend="sup">e</hi> siècle. Les amateurs de poésie le citent et trouvent en lui une source d’inspiration. Pourtant, la diffusion de ses oeuvres resta relativement modeste. La réticence des maîtres retarda l’intégration de l’auteur des
+          <title>Métamorphoses</title> dans le canon scolaire.</p>
+        <listBibl>
+          <bibl>B. Munk Olsen, « Ovide au Moyen Age (du IXe au XIIe siècle) », dans G. Cavallo (éd.), <title>Le strade del testo</title>, 1987 [s.l], p. 67-96</bibl>
+          <bibl>J. Richmond, « Manuscript Traditions and the Transmission of Ovid's Works », dans B. Weiden Boyd (éd.), <title>Brill's Companion to Ovid</title>, Leiden-Boston-Cologne, 2002, p. 443-483</bibl>
+          <bibl>J. Dimmick, « Ovid in the Middle Ages : authority and poetry », dans P. Hardie (éd.), <title>The Cambridge Companion to Ovid</title>, Cambridge, 2002, p. 264-287</bibl>
+          <bibl>O. Mazal, <title>Die Überlieferung der antiken Literatur im Buchdruck der 15. Jahrhunderts</title>, Stuttgart, 2003, t. III, p. 363-378</bibl>
+        </listBibl>
+      </div>
+      <div type="presentation">
+        <head>Diffusion latine de l'<title>Ars amatoria</title> d'Ovide</head>
+        <p>L’œuvre d’Ovide a suscité des adaptations plus que de véritables traductions. Celles de l’<title>Ars amatoria</title> en vers, toutes du XIII<hi rend="sup">e</hi> siècle, avaient été publiées isolément : ces éditions ont été commodément rassemblées et réimprimées en 1969 dans un seul volume dû à Anna Maria Finoli. Restait inédite une version en trois livres, publiée par Bruno Roy en 1974.</p>
+        <listBibl>
+          <bibl>C. Segre, « Ars amandi classica e medievale », dans H. J. Jauss (dir.),
+            <title>Grundriss der romanischen Literaturen des Mittelalters : Littérature didactique, allégorique et satirique</title>, Heidelberg, 1968-1970, t. VI/1, p. 109-116 et t. VI/2, p. 163-167</bibl>
+        </listBibl>
+      </div>
+      <div type="traduction" xml:id="elie">
+        <head>Traduction de maître <persName type="traducteur">Élie</persName></head>
+        <dateline>
+          <date notBefore="1175" notAfter="1214">fin du XII<hi rend="sup">e</hi> siècle-début du XIII<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Cet auteur dont nous ne connaissons que le nom et qui semble avoir vécu à Paris à la fin du XII<hi rend="sup">e</hi> ou au début du XIII<hi rend="sup">e</hi> siècle a adapté en 1305 octosyllabes à rimes plates le livre I et les 380 premiers vers du livre II de l’<title>Ars amatoria</title> ; il modifie les descriptions d’<persName type="ancien">Ovide</persName> pour les accommoder aux habitudes de la vie parisienne de son temps.</p>
+        <listBibl>
+          <bibl>H. Kühne et E. Stengel, <title>Maître Elie’s Überarbeitung der ältesten französichen Übertragung von Ovid’s Ars amatoria</title>, Marburg, 1886 (Ausgaben und Abhandlungen aus dem Gebiete der romanische Philologie, 47)</bibl>
+          <bibl>A. M. Finoli, <title>Artes amandi. Da Maître Elie ad Andrea Cappellano. Introduzione e testi</title>, Milan, 1969 (Cattedra di Filologia romanza dell’Università degli studi di Milano), [introduction] p. VII-XV et [édition] p. 1-121</bibl>
+          <bibl>H. J. Jauss (dir.), <title>Grundriss der romanischen Literaturen des Mittelalters : Littérature didactique, allégorique et satirique</title>, Heidelberg, 1970, t. VI/2, n° 3188</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, O044</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 19152</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>v. 1-4 - v. 1303-1306</locus>
+                <incipit>Entendez tuit grant et petit<lb/>Ce que maistre Elie nos dit<lb/>En l’escouter avroiz delit<lb/>Et en l’aprandre grant profit...</incipit>
+                <explicit>...Si ert il bien le vos puis dire<lb/>Ce m’ont tuit bien contez li mire<lb/>Que de cest mal par saint Johan<lb/>N’avrez vos ja fors que l’ahan.<lb/>
+                </explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="fr_19152" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr 19152</idno>
+              </msIdentifier>
+              <msContents>
+                <p><title>Fables</title> de <persName type="ancien">Marie de France</persName> [titre : <title type="ancien">Ci commence de Ysopes</title>] f. 15ra-24vb ; recueil de 61 pièces diverses  : fabliaux, contes, fables, proverbes, romans ; traduction de l’<title>Ars amatoria</title> d’Ovide par maître Elie [titre  :
+                  <title type="ancien">Ci commence de Ovide de arte</title> f. 93a] f. 93ra-98ra ; <title>Pyrame et Thisbé</title>, extrait de l’<title>Ovide moralisé</title> [titre : <title type="ancien">Ci commence de Piramo et de Tysbé</title>] f. 98ra-101ra ; <title type="ancien">Lai de Narcisse</title>, adaptation anonyme des
+                  <title>Métamorphoses</title> d’<persName type="ancien">Ovide</persName> [titre : <title type="ancien">Ci commence de Narciso le romanz</title> f. 117rc] f. 117rc-120vc (éd. A. Hilka, dans <title>Zeitschrift für romanische Philologie</title>, t. 49, 1929, p. 633-675).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>205 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 7677, f. 24 [1317], <title>Mss datés</title>, t. II, pl. 43)</origin>
+                <provenance>Possesseur : <quote>« <persName type="possesseur" key="Philippe Alamande">Philippe Alamande</persName>, dame de Chassenaige »</quote> [= Sassenage près de Grenoble] (signature f. 8 et 127) († 1478)</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Kühne et E. Stengel, <title>Maître Elie’s Überarbeitung der ältesten französichen Übertragung von Ovid’s Ars amatoria</title>, Marburg, 1886, p. 1</bibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien Saint-Germain français</title>, Paris, 1900, p. 247-251</bibl>
+                  <bibl>E. Faral, <title>Le manuscrit français 19152 du fonds français de la Bibliothèque nationale</title>, Paris, 1934</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="prose">
+        <head>L’art d’amour, traduction en prose</head>
+        <dateline>
+          <date notBefore="1200" notAfter="1249">première moitié du XIIIe siècle</date>
+        </dateline>
+        <p>Indépendamment des adaptations en vers, l’<title>Ars amatoria</title> a fait l’objet d’une traduction en prose. Le traducteur du livre III n’est pas le même que celui des deux premiers livres, mais tous deux ont largement commenté le texte, tout en le traduisant entièrement et assez exactement, et en distinguant soigneusement le texte de la glose. Les deux traducteurs ont en effet enrichi leur traduction d’un nombre considérable de gloses : certaines sont une paraphrase de la traduction, d’autres développent des récits mythologiques de l’original ; d’autres encore sont des commentaires moraux ; une dernière catégorie comprend des additions qui ne semblent se rattacher que de très loin au texte latin (<title type="ancien">Athis et Prophilias</title>, <title type="ancien">Blancandin ou L’orgueilleuse d’amour</title>, le <title type="ancien">Roman de Troie</title>, <persName type="ancien">Chrétien de Troyes</persName>, <persName type="ancien">Jean de Meun</persName>, refrains et fragments lyriques divers).</p>
+        <p>Bruno Roy a donné une utile table des passages traduits. Cornelis De Boer avait déjà proposé, en identifiant la plupart des auteurs utilisés dans le commentaire, tous du XIII<hi rend="sup">e</hi> siècle, de reculer jusqu’au début du XIII<hi rend="sup">e</hi> siècle cette œuvre que l’on datait généralement de la fin du siècle. Nico Van den Boogaard a conclu de l’examen des insertions lyriques, nombreuses dans la traduction, qu'on pouvait dater celle-ci des environs de 1240. Il faut préciser que B. Roy et N. Van den Boogaard ont chacun ignoré le travail de l’autre, publié la même année.</p>
+        <listBibl>
+          <bibl>C. De Boer, « Open een Middeleeuws-Franse prosabewerking von Ovidius Ars amatoria », dans <title>Mededeelingen der Koninklijke Nederlandse Akademie, Afdeling Letterkunde</title>, t. 19/4, 1956</bibl>
+          <bibl xml:id="roy">B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974</bibl>
+          <bibl>N. Van den Boogaard, « L’Art d’aimer en prose », dans <title>Etudes de civilisation médiévale (IX<hi rend="sup">e</hi>-XII<hi rend="sup">e</hi> siècles). Mélanges offerts à Edmond-René Labande à l'occasion de son départ à la retraite et du XXe anniversaire du C. E. S. C. M. par ses amis, ses collègues, ses élèves</title>, Poitiers, 1974, p. 687-698</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, O047 (et O053)</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition B. Roy (p. 63-70)</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Modena</settlement>
+              <repository>Bibl. Estense Universitaria</repository>
+              <idno>γ.G.3.20</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f.1</locus>
+                <title>Prologue</title>
+                <incipit>Trois choses furent pour lesquelles Ovide fut esmeüs a faire ce livre La premiere cause fu pour monstrer sa science la seconde pour faire asçavoir la legiereté de son jouvent la tierce pour enseignier ses amis et ses compengnons en l’art d’amours et a avoir les amours aus dames et aus damoiselles.</incipit>
+              </msItem>
+              <msItem>
+                <locus>p. 70, f. 3v - p. 160, f. 44</locus>
+                <title>Livre I</title>
+                <incipit>Teuste Se aucuns n’a mie en cestui pueple congneü l’art d’amours c’est a dire l’art d’amer lise moy car j’en suis maistre.</incipit>
+                <explicit>Yci tiengne nostre ancre fermement en nos nefs c’est a dire jusques cy tien bien ce que je t’ay dit Je te parleray ycy aprés d’ensengnement d’autre menniere Et cy commence le second livre de cest Art.</explicit>
+              </msItem>
+              <msItem>
+                <locus>p. 161, f. 44 - p. 227, f. 71v</locus>
+                <title>Livre II</title>
+                <incipit>Glose O vous jouvenceaux amoureux En ceste maniere fenist Ovide le premier ordenement de son livre.</incipit>
+                <explicit>Texte Et aussi puissez vous vaincre par ce que je vous ay dit comme Achilles fist par les armes que Vulcanus lui donna Et ainsi cy finera.</explicit>
+              </msItem>
+              <msItem>
+                <locus>p. 228, f. 72 - p. 281, f. 104</locus>
+                <title>Livre III</title>
+                <incipit>En ceste oeuvre presente remaint a desclairer la sentence du tiers livre de Ovide De l’Art d’amour ouquel il enseingne aux dames la maniere comment elles doivent tenir leurs amis et decevoir.</incipit>
+                <explicit>...pourquoy o vous jouvenceaux et jouvencelles que j’ay introduit a mon povoir en lieu de loange devez escripre en feuilles de parchemin ou d’autre matiere que je maistre et bon doucteur en l’art d’amour.</explicit>
+              </msItem>
+              <msItem>
+                <locus>p. 281, f. 104 - p. 281, f. 104</locus>
+                <title>Epilogue du traducteur</title>
+                <incipit>Je qui ce IIIe livre ay transporté de latin en romant selon mon petit engin...</incipit>
+                <explicit>...Et puis qu’il peut donner proffit a chacun on ne m’en doit savoir mauvais gré se je l’ay transposé de latin en françois.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="kbr_10988" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>10988</idno>
+                <msName type="sigle" resp="Roy">D</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction en prose de l’<title>Ars amatoria</title> d’Ovide [titre :
+                  <title type="ancien">C’est Ovide de l’Art d’amours</title> (rubr.) f. 1 ; <title type="ancien">Explicit Ovidius de arte amandi</title> (rubr.) f. 94v] f. 1-94v : manque le livre III et l’épilogue.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>94 f. papier (filigrane sim. Briquet 9771 [ca 1448-1451])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale, 2748-2749, f. 56 [1449], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique</title>, Bruxelles-Gand, 1978, t. III, pl. 537)</origin>
+                <provenance>Possesseur : <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> (inventaire de la librairie de Bourgogne vers 1467 [Barrois n° 1367] et inventaire de Bruxelles [Barrois, n° 2169]).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>A. Bayot, <title>Catalogue des manuscrits français de la Bibliothèque royale de Belgique</title>, Bruxelles, s.d., dactylographié</bibl>
+                  <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 23-24</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="estense_γ.G.3.20" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Modena</settlement>
+                <repository>Bibl. Estense Universitaria</repository>
+                <idno>γ.G.3.20</idno>
+                <msName type="sigle" resp="Roy">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction en prose de l’<title>Ars amatoria</title> d’Ovide f. 1-104.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>104 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
+                <provenance>Possesseur : <persName type="possesseur" key="France, rois de">bibliothèque royale de Blois</persName> (écu de France, f. 1 ; inventaire de Blois en 1518 (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque nationale</title>, Paris, 1881, t. III, p. 345).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 19</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="arsenal_2741" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de l’Arsenal</repository>
+                <idno>2741</idno>
+                <msName type="sigle" resp="Roy">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction en prose de l’<title>Ars amatoria</title> d’Ovide [titre :
+                  <title type="ancien">Yci commence Ovide de l’art d’amours</title> f. 2 ; <title type="ancien">Explicit Ovide de arte amatoria</title> f. 61a] f. 2a-61a : manque le livre III ; notes sur des événements du XVe s. et sur la famille d’Hostun (de 1428 à 1435),f. 1 et 61v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>61 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
+                <provenance>Possesseur : <persName type="possesseur" key="Hostun, famille d’">famille d’Hostun</persName> (Dauphiné) de 1428 (au moins) à la fin du XV<hi rend="sup">e</hi> s.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, t. III, Paris, 1887, p. 90</bibl>
+                  <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 19-21</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_881" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 881</idno>
+                <msName type="sigle" resp="Roy">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p>Traduction de <persName type="traducteur">Richard de Fournival</persName>, <title>De vetula</title> par <persName type="ancien">Jean Le Fèvre</persName> [titre : <title type="ancien">Ci commence Ovide « De la Vielle », translaté de latin en françois par maistre Jehan Le Fevre, procureur en Parlement, et fut trouvé ce livre en un petit cofret d’ivoire en la sepulture dudit Ovide IIIIc ans aprés sa mort tout frais et entier ouquel livre sont contenuz moult nobles diz et enseignemens et au commencement il traicte de la maniere de son vivre</title> (rubr) f. 1a] f. 1a-48c ; traduction en prose de l’<title>Ars amatoria</title> d’Ovide f. 49a-96c : manque le livre III ; ballades et rondeaux non notés de <persName type="ancien">Guillaume de Machaut</persName> f. 97a-112d.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>112 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : <persName type="copiste">Raoul Tainguy</persName> (signature f. 48v et 96v)</p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : miniature d’un tiers de la justification (f. 1a) représentant Ovide écrivant à une vieille femme</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1380" notAfter="1420">fin XIV<hi rend="sup">e</hi> s.-début XV<hi rend="sup">e</hi> s.</origin>
+                <provenance>possesseurs : <persName type="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName type="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName type="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName type="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName type="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName>.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 21-23</bibl>
+                  <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, notice p. 342-345</bibl>
+                  <bibl>notice IRHT</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="jacques">
+        <head><title>L’art d’Amours</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName></head>
+        <dateline>
+          <date notBefore="1200" notAfter="1299">XIII<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p><title>L’art d’Amours</title> compte 2384 octosyllabes à rimes plates ; l’auteur dont on ignore tout vivait sans doute à la fin du XIII<hi rend="sup">e</hi> siècle ou au début du XIV<hi rend="sup">e</hi> siècle. Il paraphrase plutôt qu’il ne traduit ; il est probable qu’il connaissait l’œuvre de maître Elie, mais la traduction est plus ample, plus structurée que la précédente. Son auteur semble s’être inspiré du <title>Tractatus de arte honeste amandi</title> d’<persName type="ancien">André le Chapelain</persName>. La question de l’attribution reste ouverte : le nom de Jacques d’Amiens ne se trouve que dans un seul manuscrit, celui de Leiden. Si l’on admet qu’il s’agit du traducteur, faut-il penser qu’il s’agit aussi du trouvère, auteur notamment d’un jeu-parti avec <persName type="ancien">Colin Musset</persName> et actif entre 1250 et 1280 ? Alors qu’A.-M. Finoli pense qu’il s’agit du même personnage, certains ne voient en eux que deux homonymes (cf.
+          <title>Dictionnaire des lettres françaises : le Moyen Age</title>, Paris, 1992, p. 725).</p>
+        <listBibl>
+          <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925</bibl>
+          <bibl>A. M. Finoli, <title>Artes amandi. Da Maître Elie ad Andrea Cappellano. Introduzione e testi</title>, Milan, 1969 (Cattedra di Filologia romanza dell’Università degli studi di Milano), [introduction] p. XV-XIX et [édition] p. 33-121</bibl>
+          <bibl>H. J. Jauss (dir.), <title>Grundriss der romanischen Literaturen des Mittelalters : Littérature didactique, allégorique et satirique</title>, Heidelberg, 1970, t. VI/2, n° 3208</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, O045</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition D. Talsma</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Dresden</settlement>
+              <repository>Sächsische Landesbibl.</repository>
+              <idno>Oc 64</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>v. 1-6 – v. 2375-2380</locus>
+                <incipit>Cil qui ne set les ars d’amours<lb/>Et d’amours sueffre les dolours<lb/>Moi lise si pora savoir<lb/>Conment on en puet joie avoir<lb/>Conment on s’i doit maintenir<lb/>Conment on s’i doit contenir...</incipit>
+                <explicit>N’elle d’autrui ne rait ja joie<lb/>Mais en infier tiegne sa voie<lb/>Se par tans n’a de moi merci<lb/>Quant je si bielement li pri<lb/>Toutes voies salus li manc<lb/>Et del tout a Diu le commanc.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="chambery_27" n="vu mf" type="biblissima">
+              <msIdentifier>
+                <settlement>Chambéry</settlement>
+                <repository>bibl. mun.</repository>
+                <idno>27</idno>
+                <msName type="sigle" resp="Talsma">E</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>Isagoge</title> de <persName type="ancien">Porphyre</persName> f. 1-6v, <title>Categoriae</title> d’<persName type="ancien">Aristote</persName> f. 7-19v, <title>Liber sex principiorum</title> f. 30-v-38, <title>De divisione</title> de
+                  <persName type="ancien">Boèce</persName> f. 38-48v, <title>De differentiis topicis</title> de <persName type="ancien">Boèce</persName> f. 49-80v, etc. ; <title>Art d’Amours</title> de
+                  <persName type="ancien">Jakes d’Amiens</persName> f. 20ra-21ra [v. 1-514] et f. 81ra-81vc [v. 515-1059] : la traduction a été copiée après les autres textes, vers 1339 (cf. f. 316v) (3).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>318 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1265" notAfter="1300">dernier tiers du XIII<hi rend="sup">e</hi> s. (cf. 3) (traduction de l’<title>Ars amatoria</title> proche du ms Paris, bibl. de l’Arsenal 854, f. 214 [1289], <title>Mss datés</title>, t. I, pl. 22) ; Angleterre</origin>
+                <provenance>Possesseur : ms utilisé par <persName type="possesseur" key="Conrad de Lubech de Wolfhagen">Conrad de Lubech de Wolfhagen</persName> pour son baccalauréat à Paris (entre 1395 et 1402) ; <quote>« iste liber est magistro <persName type="possesseur" key="Bancard Rembout">Bancard Rembout</persName> »</quote> (f. 116v).</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 21 (1893), p. 208-209</bibl>
+                  <bibl>F. Perpéchon, « L’art d’amours, poème roman du XIII<hi rend="sup">e</hi> s. de Jakes d’Amiens, publié d’après un manuscrit de la bibliothèque de Chambéry », dans <title>Mémoires et documents publiés par la Société savoisienne d’histoire et d’archéologie</title>, t. 25, 1896, p. 273-277</bibl>
+                  <bibl>C. Heid-Guillaume, A. Ritz, <title>Manuscrits médiévaux de Chambéry, textes et enluminures</title>, Paris, 1998 (Corpus des manuscrits enluminés des collections publiques des départements), p. 104-107</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="dresden_oc64" type="biblissima">
+              <msIdentifier>
+                <settlement>Dresden</settlement>
+                <repository>Sächsische Landesbibl.</repository>
+                <idno>Oc 64</idno>
+                <msName type="sigle" resp="Talsma">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>Art d’Amours</title> de <persName type="ancien">Jakes d’Amiens</persName> f. 1a-18a ; <title>Li remedes d’Amours</title> f. 18-22. Ce ms est aujourd’hui très endommagé.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>22 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1280" notAfter="1320">fin du XIII<hi rend="sup">e</hi> s. ou début du XIV<hi rend="sup">e</hi> s. (début du XIV<hi rend="sup">e</hi> s. selon L. Schmidt) (proche du ms Chambéry, bibl. mun., 29, f. 65 [1297-1298], <title>Mss datés</title>, t. V, pl. 30)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. iii</bibl>
+                  <bibl>L. Olschki, <title>Manuscrits à peintures des bibliothèques d’Allemagne</title>, Genève, 1932, p. 19, pl. XVIII</bibl>
+                  <bibl><title>Katalog der Handschriften der Sächsischen Landesbibliothek zu Dresden</title>, t. III, Dresde, 1982 [réimpr. corrigée de l’éd. Leipzig, 1900], p. 129-130</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="leiden_bpl1925" type="biblissima">
+              <msIdentifier>
+                <settlement>Leiden</settlement>
+                <repository>Bibl. der Rijksuniversiteit</repository>
+                <idno>BPL 1925</idno>
+                <msName type="sigle" resp="Talsma">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>Ilias</title> de <persName type="ancien">Pindare</persName> v. 58-646 f. 1-10 ; <title>Epistolae</title> d’<persName type="ancien">Yves de Chartres</persName> f. 11-94 ; <title>Excerpta de sacerdotis monachorum ex Decretis paparum</title> f. 94-96 ;
+                  <title>Satyrae</title> de <persName type="ancien">Perse</persName> f. 97-104 ; <title>Art d’Amours</title> de <persName type="ancien">Jakes d’Amiens</persName> f. 105-109 : uniquement vers 2047 à la fin ; instructions de navigation en latin et en français f. 109v  : copié postérieurement (XIV<hi rend="sup">e</hi> s.) par une main anglaise ; poème <title>O cors plesaunt e de graunt pris</title> f. 110 : copié postérieurement (XIV<hi rend="sup">e</hi> s.) par une main anglaise ; fragment des <title>Noctes Atticae</title> d’<persName type="ancien">Aulu-Gelle</persName> f. 111-117 ; notes astrologiques et chronologiques en latin f. 117-120 ; <title>Isagoge et Categoriae</title> de <persName type="ancien">Porphyre</persName> f. 121-153 ; <title>De differentiis topicis</title> de <persName type="ancien">Boèce</persName> f. 153-175 ; début du <title>De divisione</title> de <persName type="ancien">Boèce</persName> f. 175-175v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>175 f. parchemin constitués de 6 unités codicologiques reliées ensemble à une date inconnue</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1101" notAfter="1200">XIIe s. pour les 6 unités à l’exception de la 4e (f. 105-110) datable de la <origDate notBefore="1280" notAfter="1320">fin du XIIIe ou du début du XIVe s</origDate>. (2)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. v</bibl>
+                  <bibl>J. P. Gumbert, « Medieval Manuscripts in French in the Leiden University Library : A Handlist », dans P. R. Marks et D. O. R. Owen (éd.), <title>Medieval Codicology, Iconography, Literature, and Illustration : Studies for Keith Val Sinclair</title>, Leiden, 1994, p. 31</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_12478" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 12478</idno>
+                <msName type="sigle" resp="Talsma">D</msName>
+              </msIdentifier>
+              <msContents>
+                <p>traduction des <title>Remedia amoris</title> d’<persName type="ancien">Ovide</persName> [titre : <title type="ancien">Chi s’enssieut Ovide du remede d’amours</title> (rubr.) f. 1] f. 1-40v ; f. 41 blanc ; <title>Art d’Amours</title> de <persName type="ancien">Jakes d’Amiens</persName> f. 42-75v  : le texte s’interrompt au vers 2192 (expl. ...<seg type="explicit">et il aura son delit <lb/>et sa volonté tant de fois <lb/>que bien aprevisié serois <lb/>or pense de bien retenir <lb/>par ce que je te voeil gehir</seg>...) ; f. 76 blanc ; <title>Li puissanche d’amours, dialogue entre le maître et le disciple</title> f. 77-90 ; <persName type="ancien">Theodolet</persName>, traduction de l’<title>Ecloga Theoduli</title> par <persName type="traducteur">Jean Le Fèvre</persName> f. 90v-248 avec glose et traduction en vers français (inc. <seg type="incipit">Ch'est grand pourfit quant on recorde <lb/>aucuns biens et on s’i acorde</seg>...) ; 248v blanc ; traduction en vers français par <persName type="traducteur">Thomas Maillet</persName> des <title>Parabolae</title> d’<persName type="ancien">Alain de Lille</persName> f. 249-268 ; f. 268v blanc ; traduction en vers anonyme du premier <title>Facetus</title> par <persName type="traducteur">Thomas Maillet</persName> f. 269-277v (inc. <seg type="incipit">Mieulx vault assambler un tresor</seg>  ; éd. Morawski, p. 60-81) ; traduction en vers du second
+                  <title>Facetus</title> par <persName type="traducteur">Thomas Maillet</persName> f. 278-291v (inc. <seg type="incipit">Chieulx qui volet faitis devenir</seg>... ; éd. Morawski, p. 81-112) ; f. 292-294 blancs.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>291 f. papier (filigrane sim. Briquet 374 [Troyes 1429])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v [1414], <title>Mss datés</title>, t. II, pl. 83)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien supplément français</title>, t. II, Paris, 1896, p. 540</bibl>
+                  <bibl><title>Le Facet en françois</title>, éd. J. Morawski, Poznan, 1923</bibl>
+                  <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vi</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc n="vu ms" xml:id="fr_25545" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 25545</idno>
+                <msName type="sigle" resp="Talsma">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p>plusieurs recueils de dits, fabliaux, nouvelles reliés ensemble contenant au total une trentaine de pièces</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>167 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <additional>
+                <listBibl>
+                  <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. iii-v</bibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, anciens petits fonds français</title>, Paris, 1902, t. II, p. 629-633</bibl>
+                  <bibl>notice IRHT</bibl>
+                </listBibl>
+              </additional>
+              <msPart>
+                <msIdentifier>
+                  <idno>I, f. 1-13</idno>
+                </msIdentifier>
+                <msContents>
+                  <p><title>Marcoul et Salomon</title> f. 1a-d ; <title>Epître aux femmes</title> f. 2a (inc. <seg type="incipit">Fox est li hon qui gronce de riens que feme face</seg>...) ; <persName type="ancien">Jean Durpain</persName>, <title>Evangile aux femmes</title> f. 2b-d ; satire contre les femmes f. 3a (fragment, 10 quatrains monorimes : inc. ...<seg type="incipit">Certes se je voloie lor proprietez dire</seg>... ; expl. ...<seg type="explicit">qui tant ainme sa famme, qu’il soit desor li sire</seg>) ; <title>Des femmes, des dés, de la taverne</title> f. 4a-b (inc. <seg type="incipit">Je mainne bone vie semper <foreign>quantum possum</foreign></seg>...) ; <title>Tort contre le tort</title> f. 4c-d (inc. <seg type="incipit">Il avint ja en Flandres qu’ot I chevalier tort</seg>) ; <title>Pucelle qui voulait voler</title> f. 4d-5d (éd. W. Noomen et N. van den Boogaard, <title>Nouveau recueil complet des fabliaux</title>, Assen-Maastricht, 1991, t. VI, p. 157-170) ; <title>Proverbes Sénèque</title> f. 6a-8d [titre : <title type="ancien">Des proverbes Seneke le philosophe</title> (rubr.) f. 6a] ; proverbes ruraux et populaires f. 9a-12d (inc. <seg type="incipit">Qui le bien voit et le mal prant <lb/>Il se folie a esciant.</seg>)</p>
+                </msContents>
+                <history>
+                  <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6320, f. 31v [1321], <title>Mss datés</title>, t. II, pl. 44)</origin>
+                </history>
+              </msPart>
+              <msPart>
+                <msIdentifier>
+                  <idno>II, f. 14-83</idno>
+                </msIdentifier>
+              </msPart>
+              <msPart>
+                <msIdentifier>
+                  <idno>III, f. 84-109</idno>
+                </msIdentifier>
+              </msPart>
+              <msPart>
+                <msIdentifier>
+                  <idno>IV, f. 110-149</idno>
+                </msIdentifier>
+              </msPart>
+              <msPart>
+                <msIdentifier>
+                  <idno>V, f. 150-167</idno>
+                </msIdentifier>
+                <msContents>
+                  <p><title>Dit de Jehan Rigolé</title> f. 150b-151a (éd. G. Raynaud, dans <title>Romania</title>, t. 7, 1878, p. 586) ; <title>Lai de l’oiselet</title> f. 151a-154a ; <title>conte d’une dame (anonyme)</title> f. 154c-155a : fragment ; <title>Art d’Amours</title> de <persName type="ancien">Jakes d’Amiens</persName> f. 156a-167c : manquent les vers 1-410 (inc. ...<seg type="incipit">Se la baissele as enversee <lb/>la chose sera miex celee <lb/>et tuit li dit et tuit li fait</seg>...) ; f. 167 mutilé (dernier vers lisible après nombreux autres perdus : <seg type="explicit">et dout tout a li me commans</seg> f. 167c).</p>
+                </msContents>
+                <history>
+                  <origin notBefore="1290" notAfter="1320">début du XIV<hi rend="sup">e</hi> siècle (vers 1300, cf. 1) (proche du ms Paris, bibl. Sainte-Geneviève, 2899, f. 174 [1297 ?], <title>Mss datés</title>, t. I, pl. 26)</origin>
+                </history>
+              </msPart>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="soustraduction" n="II.1" xml:id="remaniement">
+          <head>Remaniement</head>
+          <div type="incipit">
+            <head>Incipit</head>
+            <bibl><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>]</bibl>
+            <msDesc type="biblissima">
+              <msIdentifier>
+                <settlement/>
+                <repository/>
+                <idno/>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <locus>f. A2-G4v</locus>
+                  <incipit>S’aucun ne congnoist l’art d’amours<lb/>Et des maulx seuffre les doulours<lb/>Icy lise si pourra sçavoir<lb/>Comment l’on peut joye avoer<lb/>Et s’amie a gré servir<lb/>Avec elle se maintenir...<lb/></incipit>
+                  <explicit>...Mais la serviray chescun jour<lb/>Et l’aymeray de vraye amour<lb/>Et pour ce ung doulx salut luy donne<lb/>Et du tout mon corps habandonne.<lb/></explicit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="imprime">
+            <head>Imprimés</head>
+            <listBibl type="poList">
+              <bibl xml:id="imprime1_ars-amatoria"><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 42 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Si commence Ovide de l’art d’aymer</title> f. A2 ; <title type="ancien">Cy fine Ovide de l’art d’aymer</title> f. G4v  ; <title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaulx nouvellement imprimé a Genefve</title> f. K6b] f. A2-f. G4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres : <title type="ancien">Cy commence le chef d’Amours</title> f. G4v ; <title type="ancien">Cy finist le chef d’Amours</title> f. K5b] f. G4v-f. K5b ; <title>Les sept arts d’Amour</title> f. K5b-f. K6b (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">E</hi> Talsma [qui ne distingue pas les deux éditions genevoises]
+                <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. m. Yc 533 (1)
+                  <listBibl>
+                    <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vii</bibl>
+                    <bibl>L. Delisle, <title>Chantilly, le Cabinet des livres imprimés antérieurs au milieu du XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1905, n° 1384, p. 296</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime2_ars-amatoria"><title type="ancien">Ovide de arte amandi translaté de latin en françois</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 54 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Cy commence Ovide de l’art d’aymer</title> f. a2 ; <title type="ancien">Cy fine Ovide de l'art d'aymer</title> f. g4v ;<title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaux nouvellement imprimé a Genefve</title> f. n6v] f. a2-f. g4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres  : <title type="ancien">Cy commence le chief d’Amours</title> f. g4v ; <title type="ancien">Cy finie la chef d’amours</title> f. n5] f.  g4v-f. n5 ; <title>Les sept arts d’Amour</title> f. n5-f. n6v (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">E</hi> Talsma [qui ne distingue pas les deux éditions genevoises]
+                <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Y2 929
+                  <listBibl>
+                    <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vii</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime3_ars-amatoria"><title type="ancien">De l’art daymer... La clef d’amour. Les sept arts Liberaulx</title> [et <title type="ancien">Pius II, Le Remede d’Amour</title> et <title type="ancien">La complainte sur la description des deux amans Eurial et Lucresse</title>], s.n., Paris, <date notBefore="1536" notAfter="1536">1536</date>, 4°
+                <note place="inline">
+                  <listBibl>
+                    <bibl>J. G. T. Graesse, <title>Trésor de livres rares et précieux ou Nouveau dictionnaire bibliographique</title>, Dresde, t. V, 87</bibl>
+                    <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n°261</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime4_ars-amatoria"><title type="ancien">Ovide, De l’art d’aymer, translaté de latin en françois. Avec plusieurs autres petitz oeuvres</title>, Paris, <publisher>Etienne Groulleau</publisher>, <date notBefore="1548" notAfter="1548">1548</date>
+                <note place="inline">Exemplaire signalé à Peterborough Cathedral [d’après Hand Press Book].
+                  <listBibl>
+                    <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40204</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime5_ars-amatoria"><title type="ancien">De l’art d’aymer</title>, Antwerpen, <publisher>Gérard Speelmans</publisher>, <date notBefore="1556" notAfter="1556">1556</date>, in-16
+                <note place="inline">Signalé d'après Brunet IV 292
+                  <listBibl>
+                    <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40217</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime6_ars-amatoria"><title type="ancien">Ovide, de l’art d’aymer, translaté de latin en françoys, avec plusieurs autres petitz oeuvres, dont le contenu est en la page suyvante. Le tout mieux que par cy devant reveu &amp; corrigé</title>, Paris, <publisher>Etienne Groulleau</publisher>,
+                <date when="1556">1556</date>, in-16, ill. Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> [titre : <title type="ancien">Ovide de l’art d’aymer</title>] f. A2-f. F1v ; <title>La clef d’Amours</title> [titres : <title type="ancien">Ensuyt la Clef d’amour</title> f. F2 ; <title type="ancien">Fin de la Clef d’Amours</title>] f. K6v-f. F2-K6v ; <title type="ancien">Sept arts liberaux</title> f. K7-f. L1v ; <title type="ancien">Le remede d’amour, composé par Aeneas Sylvius, autrement dit pape Pie second, translaté de latin en françoys par maistre Albin des Avenelles, chanoyne de l’Eglise de Soyssons</title> f. L2-N2 ; <title type="ancien">La complainte dudit Enee, sur la description des deux amans, Eurialus &amp; Lucresse</title> f. N2v-N3v ; <title type="ancien">Description de Cupido, dieu d’amours</title> f. N4-N5v ;
+                <title type="ancien">Declamation morale de l’amant renonçant à la fole amour</title> f. N6-O8v
+                <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. p. Yc. 59 (2)
+                  <listBibl>
+                    <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40218</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime7_ars-amatoria"><title type="ancien">De l’art d’aymer</title>, Paris, <publisher>Guillaume Le Noir</publisher>, <date notBefore="1558" notAfter="1558">1558</date>, in-16
+                <note place="inline">Signalé sans nom de traducteur d'après un exemplaire de la Bayerische Staatsbibliothek (München)
+                  <listBibl>
+                    <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40226</bibl>
+                  </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime8_ars-amatoria"><title type="ancien">De l’art d’aymer</title>, Paris, <publisher>Jean Ruelle</publisher>, <date notBefore="1574" notAfter="1574">1574</date>, in-16
+                <note place="inline">Signalé sans nom de traducteur d'après un exemplaire de Clare College Library (Cambridge)<listBibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40236</bibl>
+                </listBibl>
+                </note>
+              </bibl>
+              <bibl xml:id="imprime9_ars-amatoria"><title type="ancien">De l’art d’aymer avec la clef d’amours, et les sept arts libéraux ; Le remède d’Amours, etc.</title>, Paris, <publisher>Nicolas Bonfons</publisher>, <date notBefore="1579" notAfter="1579">1579</date>, in-16, ill., f. non chiffrés. 1re partie : Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> ; <title type="ancien">La Clef d’Amours</title> f. E8v-K 3v ; <title type="ancien">Sept arts liberaux</title> ; <title type="ancien">Le remede d’amours composé par Aeneas Silvius, autrement dit pape Pie second, translaté de latin en françois par Maistre Albin des Avenelles, chanoine de l’Eglise de Soissons</title> ; <title type="ancien">La complaincte dudit Enée sur la description des deux amans, Eurialus &amp; Lucresse</title> ; 2e partie : <title type="ancien">Les traicts et attraicts de l’Amour</title>. Reprend l’édition E. Groulleau de 1556
+                <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. pYc 1844 (1-2)<listBibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40241</bibl>
+                </listBibl></note></bibl>
+            </listBibl>
+          </div>
+        </div>
+      </div>
+      <div type="traduction" xml:id="clef">
+        <head>
+          <title>La clef d’Amour</title>
+        </head>
+        <dateline>
+          <date notBefore="1250" notAfter="1299">fin du XIII<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Le traducteur a indiqué son nom, celui de sa dame et la date de son œuvre dans une énigme qui n’a pas été résolue avec certitude. D’après K. Heisig, le poète se nommerait <persName type="traducteur">Viviens de Nogent</persName> et sa dame Lucienne de Freinet ; il vivait vraisemblablement à la fin du XIII<hi rend="sup">e</hi> siècle et était originaire de Normandie. <title>La clef d’Amour</title> est une réécriture courtoise de l’<title>Ars amatoria</title>, un remaniement largement personnel, qui adopte la structure-cadre du songe et compte plus de 3400 vers.</p>
+        <listBibl>
+          <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890 (Bibliotheca Normannica, 5)</bibl>
+          <bibl>K. Heisig, « Über den Verfasser der Clef d’amors und den Namen seiner Dame », dans <title>Zeitschrift für romanische Philologie</title>, t. 66, 1956, p. 109-114</bibl>
+          <bibl>A. M. Finoli, <title>Artes amandi. Da Maître Elie ad Andrea Cappellano. Introduzione e testi</title>, Milan, 1969 (Cattedra di Filologia romanza dell’Università degli studi di Milano), p. xix-xxiii, p. 123-228</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, O048</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <bibl>l'édition A. Doutrepont</bibl>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>nouv. acq. fr. 4531</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>v. 1-6, f. 63c – v. 3423-3426, f. 88a</locus>
+                <incipit>Amors qui les fins cuers esveille<lb/>Et fet penser a grant merveille<lb/>la nuit quant repos doivent prendre<lb/>m’a fet aviser et enprendre<lb/>a tretier de ceste matiere<lb/>si vous dirai en quel maniere.</incipit>
+                <explicit>Cest gieu et cest tornoiement<lb/>Vous enseignera clerement<lb/>Sanz faillir le temps et l’anee<lb/>Que la cleif d’amors fu trouvee.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="bml_ashburnham44" type="biblissima">
+              <msIdentifier>
+                <settlement>Firenze</settlement>
+                <repository>Bibl. Medicea Laurenziana</repository>
+                <idno>Ashburnham 44</idno>
+                <msName type="sigle" resp="Doutrepont">B</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>La clef d’Amour</title> [titre : <title type="ancien">Icest livre que j’e sonmé <lb/>La claif d’amours sera nommé<lb/>Quar par luy pourra l’on ouvrir<lb/>Les arz d’amours et descouvrir</title> v. 169-172] : incomplet de la fin (expl. v. 3346 ; manque 1 f. à la fin).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>16 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1395" notAfter="1420">début du XV<hi rend="sup">e</hi> s.</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>I Codici Ashburnhamiani della R. biblioteca mediceo-laurenziana di Firenze</title>, Rome, 1887, p. 66-67</bibl>
+                  <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxxi</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc n="vu ms" xml:id="bl_add27308" type="biblissima">
+              <msIdentifier>
+                <settlement>London</settlement>
+                <repository>British Libr.</repository>
+                <idno>Add. 27308</idno>
+                <msName type="sigle" resp="Doutrepont">C</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>La clef d’Amour</title> [titre : <title type="ancien">Cest livre est appellé cleff d’amours</title> 1er f. de garde parchemin, d’une main anglaise de la fin du Moyen Age ; <foreign>infra</foreign> sur le même f. et de la même main <title type="ancien">Cleff d’amours appellé</title>] f. 3-66v : texte incomplet de la fin (expl. v. 3369) suite à la mutilation du dernier feuillet (f. 65).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>66 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copistes : changement de main à partir du f. 21v</p>
+                </handDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (1re main proche du ms Paris, Bibl. nat. de Fr., lat. 3893, f. 73 [1314], <title>Mss datés</title>, t. II, pl. 42)</origin>
+                <provenance>possesseur : possesseur anglais à la fin du Moyen Age, comme l’attestent l’écriture des notes en latin et en anglais sur le verso du deuxième f. de garde parchemin.</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>La Clef d’amour, poème publié d’après un manuscrit du XIV<hi rend="sup">e</hi> siècle</title>, éd. E. Tross et H. Michelant, Lyon, 1866 [le manuscrit
+                    <title>Additional</title>, acquis par le British Museum en 1866, appartenait antérieurement au libraire Tross et a servi de base à la première édition du poème en 1866]</bibl>
+                  <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxxii</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="nafr_4531" n="vu ms" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>nouv. acq. fr. 4531</idno>
+                <msName type="sigle" resp="Doutrepont">A</msName>
+              </msIdentifier>
+              <msContents>
+                <p><title>Le rommans du conte d’Anjou qui volt deflourer sa fille</title> f. 4a-63b ; <title>La clef d’Amour</title> [titre  : <title type="ancien">Ici fenist la cleif d’amors</title> f. 88a] f. 63c-88a ; <title>La chastelaine de Vergy</title> f. 88b-94d ;
+                  <title>Ch’est la proiere d’un chevalier <foreign>[lire clerc]</foreign> et la response d’une dame</title> f. 95a-97v (inc. <seg type="incipit">Miracles sont d’amours trop me font merveillier <lb/>Quar de penser a eulz ne me puis traveillier</seg>... ; expl. <seg type="explicit">Quant j’apreuche de vous douce dame de pris <lb/>Je sui aussi honteuz comme larron repris <lb/>A vous je ne sai fuire si sui foulz entrepris</seg>).</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>97 f. parchemin</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 5 miniatures d’1 quart à 1/5e de la justification illustrent la <title>Clef d’Amours</title> (f. 63c, 64a, 64c, 64d, 78b)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5406, f. 24 [1329-1331], <title>Mss datés</title>, t. II, pl. 46)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxx-xxxi [manuscrit de base de l’édition]</bibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, nouvelles acquisitions françaises</title>, t. II, Paris, 1900, p. 207-208</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+        <div type="imprime">
+          <head>Imprimés</head>
+          <listBibl type="poList">
+            <bibl xml:id="imprime10_ars-amatoria"><title type="ancien">La clef d’aymer selon Ovide vous trouverez dedans ce livre</title>, s.l.n.d. [<date notBefore="1495" notAfter="1505">ca 1500</date>], 4°, 34 f. non chiffrés. [titre : <title type="ancien">Si commence le livre d’aymer Ovide, le duc d’amours se fait nommer</title>]
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rothschild 2276
+                <listBibl>
+                  <bibl>E. Picot, <title>Catalogue des livres composant la bibliothèque de feu M. le baron James de Rothschild</title>, t . IV, Paris, 1912, n° 2776, p. 54-55</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime11_ars-amatoria"><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 42 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Si commence Ovide de l’art d’aymer</title> f. A2 ; <title type="ancien">Cy fine Ovide de l’art d’aymer</title> f. G4v  ; <title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaulx nouvellement imprimé a Genefve</title> f. K6b] f. A2-f. G4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres : <title type="ancien">Cy commence le chef d’Amours</title> f. G4v ; <title type="ancien">Cy finist le chef d’Amours</title> f. K5b] f. G4v-f. K5b ; <title>Les sept arts d’Amour</title> f. K5b-f. K6b (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">D</hi> Doutrepont [qui ne distingue pas les deux éditions genevoises]
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. m. Yc 533 (1)
+                <listBibl>
+                  <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxxii-xxxiii</bibl>
+                  <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vii</bibl>
+                  <bibl>L. Delisle, <title>Chantilly, le Cabinet des livres imprimés antérieurs au milieu du XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1905, n° 1384, p. 296</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime12_ars-amatoria"><title type="ancien">Ovide de arte amandi translaté de latin en françois</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 54 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Cy commence Ovide de l’art d’aymer</title> f. a2 ; <title type="ancien">Cy fine Ovide de l'art d'aymer</title> f. g4v ;<title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaux nouvellement imprimé a Genefve</title> f. n6v] f. a2-f. g4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres  : <title type="ancien">Cy commence le chief d’Amours</title> f. g4v ; <title type="ancien">Cy finie la chef d’amours</title> f. n5] f.  g4v-f. n5 ; <title>Les sept arts d’Amour</title> f. n5-f. n6v (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">D</hi> Doutrepont [qui ne distingue pas les deux éditions genevoises]
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Y2 929
+                <listBibl>
+                  <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxxii-xxxiii</bibl>
+                  <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vii</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime18_ars-amatoria"><title type="ancien">De arte amandi</title>, s.n., [Genève], <date notBefore="1510" notAfter="1510">1510</date>
+              <note place="inline">
+                <listBibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40136 [signalé d'après un exemplaire de la Chicago University Library et un autre de la Houghton Library (Harvard University, Cambridge, MA)]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime13_ars-amatoria"><title type="ancien">De arte amandi</title>, s.n., Genève, <date notBefore="1525" notAfter="1525">[1525]</date>, 4°
+              <note place="inline">
+                <listBibl>
+                  <bibl>J. G. T. Graesse, <title>Trésor de livres rares et précieux ou Nouveau dictionnaire bibliographique</title>, Dresde, t. V, 87</bibl>
+                  <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n°261</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40145 [signalé d'après un exemplaire des archives départementales de la Haute-Vienne]</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime14_ars-amatoria"><title type="ancien">De l’art daymer... La clef d’amour. Les sept arts Liberaulx</title> [et <title type="ancien">Pius II, Le Remede d’Amour</title> et <title type="ancien">La complainte sur la description des deux amans Eurial et Lucresse</title>], s.n., Paris, <date notBefore="1536" notAfter="1536">1536</date>, 4°
+              <note place="inline">
+                <listBibl>
+                  <bibl>J. G. T. Graesse, <title>Trésor de livres rares et précieux ou Nouveau dictionnaire bibliographique</title>, Dresde, t. V, 87</bibl>
+                  <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n°261</bibl>
+                  <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40164</bibl>
+                </listBibl>
+              </note>
+            </bibl>
+            <bibl xml:id="imprime15_ars-amatoria"><title type="ancien">Ovide, De l’art d’aymer, translaté de latin en françois. Avec plusieurs autres petitz oeuvres</title>, Paris, <publisher>Etienne Groulleau</publisher>, <date notBefore="1548" notAfter="1548">1548</date>.
+              <note place="inline">Exemplaire signalé à Peterborough Cathedral [d’après Hand Press Book].</note>
+            </bibl>
+            <bibl xml:id="imprime16_ars-amatoria"><title type="ancien">Ovide, de l’art d’aymer, translaté de latin en françoys, avec plusieurs autres petitz oeuvres, dont le contenu est en la page suyvante. Le tout mieux que par cy devant reveu &amp; corrigé</title>, Paris, <publisher>Etienne Groulleau</publisher>, <date notBefore="1556" notAfter="1556">1556</date>, in-16, ill. Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> [titre : <title type="ancien">Ovide de l’art d’aymer</title>] f. A2-f. F1v ; <title>La clef d’Amours</title> [titres : <title type="ancien">Ensuyt la Clef d’amour</title> f. F2 ; <title type="ancien">Fin de la Clef d’Amours</title>] f. K6v-f. F2-K6v ; <title type="ancien">Sept arts liberaux</title> f. K7-f. L1v ; <title type="ancien">Le remede d’amour, composé par Aeneas Sylvius, autrement dit pape Pie second, translaté de latin en françoys par maistre Albin des Avenelles, chanoyne de l’Eglise de Soyssons</title> f. L2-N2 ; <title type="ancien">La complainte dudit Enee, sur la description des deux amans, Eurialus &amp; Lucresse</title> f. N2v-N3v ; <title type="ancien">Description de Cupido, dieu d’amours</title> f. N4-N5v ; <title type="ancien">Declamation morale de l’amant renonçant à la fole amour</title> f. N6-O8v
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. p. Yc. 59 (2)</note>
+            </bibl>
+            <bibl xml:id="imprime17_ars-amatoria"><title type="ancien">De l’art d’aymer avec la clef d’amours, et les sept arts libéraux ; Le remède d’Amours, etc.</title>, Paris, <publisher>Nicolas Bonfons</publisher>, <date notBefore="1579" notAfter="1579">1579</date>, in-16, ill., f. non chiffrés. 1re partie : Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> ; <title type="ancien">La Clef d’Amours</title> f. E8v-K 3v ; <title type="ancien">Sept arts liberaux</title> ; <title type="ancien">Le remede d’amours composé par Aeneas Silvius, autrement dit pape Pie second, translaté de latin en françois par Maistre Albin des Avenelles, chanoine de l’Eglise de Soissons</title> ; <title type="ancien">La complaincte dudit Enée sur la description des deux amans, Eurialus &amp; Lucresse</title> ; 2e partie : <title type="ancien">Les traicts et attraicts de l’Amour</title>. Reprend l’édition E. Groulleau de 1556.
+              <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. pYc 1844 (1-2)</note></bibl>
+          </listBibl>
+        </div>
+      </div>
+      <div type="traduction" xml:id="guiart">
+        <head><title>L’art d’amours</title> de <persName type="traducteur">Guiart</persName></head>
+        <dateline>
+          <date notBefore="1275" notAfter="1314">fin du XIII<hi rend="sup">e</hi> siècle-début du XIV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <p>Petit poème en 64 quatrains d’alexandrins monorimes qui a dû être composé dans les dernières années du XIII<hi rend="sup">e</hi> siècle ou dans les premières du XIV<hi rend="sup">e</hi> siècle par un écrivain originaire d’Ile-de-France du nom de <persName type="traducteur">Guiart</persName>. Il s’est inspiré de l’<title>Ars amatoria</title> dont il traduit quelques vers. Certains de ces quatrains sont repris dans un poème pieux intitulé <title>Des cinq vigiles</title> et conservé dans le manuscrit Paris, Bibl. nat. de Fr., fr. 12483.</p>
+        <listBibl>
+          <bibl>A. Langfors, « Notice du manuscrit français 12483 de la Bibliothèque nationale », dans <title>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques</title>, t. 39/2, 1916, p. 545-553 [contient l’édition du poème]</bibl>
+          <bibl>L. Karl, « L’art d’amours de Guiart », dans <title>Zeitschrift für romanische Philologie</title>, t. 44, 1924, [introduction] p. 66-80 et [édition] p. 181-188</bibl>
+          <bibl>A. M. Finoli, <title>Artes amandi. Da Maître Elie ad Andrea Cappellano. Introduzione e testi</title>, Milan, 1969 (Cattedra di Filologia romanza dell’Università degli studi di Milano), [introduction] p. xxiii-xxvi et [édition] p. 229-236</bibl>
+          <bibl>H. J. Jauss (dir.), <title>Grundriss der romanischen Literaturen des Mittelalters : Littérature didactique, allégorique et satirique</title>, Heidelberg, 1970, t. VI/2, n° 3200</bibl>
+          <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, O046</bibl>
+        </listBibl>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc n="incipit" type="biblissima">
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 1593</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 178a-b ; éd. Karl, p. 181 – f. 181b ; éd. Karl, p. 187</locus>
+                <incipit>Qui voudroit l’art d’amors et savoir et aprendre<lb/>Si qu’on ne l’en peüst ne blasmer ne reprendre<lb/>Premier doit a ces vers si bonement entendre<lb/>Que il sache raison se on li demande rendre.</incipit>
+                <explicit>Vos estes li douz liz et la vermeille rose<lb/>Li precïeux vessiaus ou li fils Deu repose<lb/>Secourez m’ame ainçois que sathenas l’enclose<lb/>Ne que du paradis li soit la porte close.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="fr_1593" type="biblissima">
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1593</idno>
+              </msIdentifier>
+              <msContents>
+                <p>ce ms est un recueil factice d’exécution ancienne rassemblant des éléments de même format et de même présentation, mais d’origines différentes (11 scribes dénombrés). Réfections importantes à la fin du XIV<hi rend="sup">e</hi> s. : compléments de texte effacé, copie de titres en attente, ajout d’une table des matières et des textes des f. 100-103, foliotation continue en chiffres romains en haut à droite des feuillets. <title>L’art d’amours</title> de Guiart f. 178a-181b [titre : <title type="ancien">l’art d’amours</title> f. 178a] est précédé du <title>Fabliaus de la merde</title> et suivi de celui <title>Dou vilein a la coille noire</title></p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>217 f. parchemin</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (f. 178 proche du ms Chantilly, Musée Condé, 734, f. 102 [1312], <title>Mss datés</title>, t. I, pl. 30)</origin>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl>Bibliothèque nationale, <title>Catalogue des manuscrits français, fonds ancien</title>, Paris, 1868, t. I, p. 266-268</bibl>
+                  <bibl>Notice IRHT</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
