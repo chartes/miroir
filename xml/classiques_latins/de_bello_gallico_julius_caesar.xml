@@ -691,13 +691,13 @@
             <p>Lisez, liseur attrait, et entendez<lb/>Et ne jugez a cerveau estourdy<lb/>Soit bien soit mal que avant regardez<lb/>L’euvre en latin dont ce livre est party.<lb/>Vous trouverez que je l’ay converty<lb/>Selon le sen des mos et de la lettre<lb/>Et mon françoys en latin assorty<lb/>Le plus brief que le tout se peut mettre.<lb/>
            </p>
           </div>
-          <div corresp="#imprime2_de-bello-gallico" type="explicit">
+          <div type="explicit">
             <head>Strophe de huit vers servant d’épilogue</head>
             <bibl><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] Antoine Vérard, Paris, <date notBefore="1488" notAfter="1488">1488</date></bibl>
             <p>Lisez, liseurs attrait et entendez<lb/>et ne jugez a cerveau estourdy,<lb/>soit bien soit mal, que avant regardez<lb/>l’euvre en latin dont ce livre est party :<lb/>vous trouverez que je l’ay converty<lb/>selon le sens des mos et de la lettre<lb/>et mon françoys au latin assorty<lb/>le plus au brief que le tout se peult mettre.<lb/>
            </p>
           </div>
-          <div corresp="#imprime1_de-bello-gallico" type="dedicace">
+          <div type="dedicace">
             <head>Edition de la dédicace </head>
             <bibl><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date notBefore="1555" notAfter="1555">1555</date></bibl>
             <p>A monsigneur monsieur Philippe de Pise, eslu pour le roy nostre sire au païs de Masconnois, Antoine du Moulin salut.</p>

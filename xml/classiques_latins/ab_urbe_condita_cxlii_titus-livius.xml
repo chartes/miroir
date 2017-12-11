@@ -121,7 +121,7 @@
             <head>Prologue</head>
             <p>édité dans M.-H. Tesnière, « Une traduction des <title>Décades</title> de Tite-Live pour Jean le Bon », dans <title>Revue de la Bibliothèque nationale de France</title>, n° 23, 2006, p. 82</p>
           </div>
-          <div corresp="#imprime1_de-urbe-condita-cxlii" type="privilege">
+          <div type="privilege">
             <head>Édition du privilège de l’édition de 1515</head>
             <bibl><title type="ancien">Le premier [second, tiers] volume des grans decades de Titus Livius translatees de latin en françois nouvellement corrigees et amendees et ensuyvant les faictz dudit Titus Livius aucunes addicions de plusieurs grans historiographes sicomme Orose, Saluste Suetone et Lucain</title>, Paris, <publisher>Guillaume Eustache</publisher> et <publisher>François Regnault</publisher>, <date when="1515">1515</date></bibl>
             <p>Loÿs, par la grace de Dieu, roy de France au prevost de Paris ou a son lieutenant et autres justiciers ou a leurs lieutenans salut. Receue avons l’humble supplication de nostre cher et bien aymé Guillaume Eustace, nostre libraire, contenant que vingt ans a ou environ, feu Anthoine Verard, libraire, fist rediger et mettre en forme et imprimer trois volumes en françois appellez les decades de Titus Livius, lesquelles pour les bonnes doctrines et exemplaires qui y sont contenus, plusieurs gens, tant de nostre royaulme que estrangiers, ont appeté a les veoir et recouvrer, tellement que pour le present ne s’en treuve aucuns a vendre. A ceste cause, ledit suppliant, pour et affin que les vertueux faictz et gestes qui sont en icelles contenuz ne demeurent occultez et que jeunes gens et autres y puissent apprendre et prouffiter et prendre exemple, il a commencé de icelles faire de nouveau imprimer. Mais pour ce qu’il doubte perdre les grans fraiz et mises qu’il convient a les faire parachever se quelque autre les faisoit semblablement imprimer, s’il n’avoit sur ce noz lettres et provisions a ce necessaires, humblement requerant icelles ; pour quoy nous, ces choses considerees, inclinans liberallement a la supplicacion et requeste dudit Guillaume Eustace, nostre libraire suppliant, [...] a celluy pour ces causes avons permis et ottroyé et par la teneur de ces presentes de nostre grace especial plaine puissance et auctorité royal permettons et ottroyons qu’il puisse faire imprimer lesditz trois volumes des decades dudit Titus... Donné à Paris, le XXVIe jour d’aoust, l’an de grace mil cinq cens et quatorze et de nostre regne le dix septiesme.</p>
@@ -948,7 +948,7 @@
               </msDesc>
             </listBibl>
           </div>
-          <div type="I_III_decades">
+          <div>
             <head>I<hi rend="sup">re</hi> et III<hi rend="sup">e</hi> décades</head>
             <listBibl type="msList">
               <msDesc xml:id="harvard_richardson32" n="vu mf" type="biblissima">
@@ -1066,7 +1066,7 @@
               </msDesc>
             </listBibl>
           </div>
-          <div type="I_IV_decades">
+          <div>
             <head>Ire et IVe décades</head>
             <listBibl type="msList">
               <msDesc xml:id="kbr_14621-14622" n="vu ms" type="biblissima">
@@ -1134,7 +1134,7 @@
               </msDesc>
             </listBibl>
           </div>
-          <div type="III_IV_decades">
+          <div>
             <head>IIIe et IVe décades</head>
             <listBibl type="msList">
               <msDesc xml:id="bodleian_canon.misc438" n="vu mf" type="biblissima">
@@ -1286,7 +1286,7 @@
               </msDesc>
             </listBibl>
           </div>
-          <div type="I_decade">
+          <div>
             <head>Ire décade</head>
             <listBibl type="msList">
               <msDesc xml:id="bl_add16622" n="vu ms" type="biblissima">
@@ -1604,7 +1604,7 @@
               </msDesc>
             </listBibl>
           </div>
-          <div type="III_decade">
+          <div>
             <head>IIIe décade</head>
             <listBibl type="msList">
               <msDesc xml:id="chantilly_757" n="vu ms" type="biblissima">
@@ -1724,7 +1724,7 @@
               </msDesc>
             </listBibl>
           </div>
-          <div type="IV_decade">
+          <div>
             <head>IVe décade</head>
             <listBibl type="msList">
               <msDesc xml:id="s.Gravenhage_71a19" type="biblissima">
@@ -2046,7 +2046,7 @@
           </div>
         </div>
         <div type="manuscrit">
-          <head>Collections particulières</head>
+          <head>Collections privées</head>
           <div>
             <head>Exemplaires complets</head>
             <listBibl type="msList">
@@ -2784,7 +2784,7 @@
                   </listBibl>
                 </div>
                 <div type="manuscrit">
-                  <head>Collection particulière</head>
+                  <head>Collection privée</head>
                   <p>Ashburnham Library « Barrois 107 », vendu à Londres par Sotheby le 13 juin 1901. Ne serait pas entré dans la collection Phillipps (vendue chez Sotheby en 1908). D’après L. Delisle , son frontispice porterait les armes de Montmorency. Il pourrait donc s'agir du premier volume d’un ensemble complet dont la bibl. de Copenhague possède la dernière partie.</p>
                   <listBibl>
                     <bibl>L. Delisle, « La Fleur des histoires » de Jean Mansel », dans <title>Journal des savants</title>, 1900 p. 23</bibl>
