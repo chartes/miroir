@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../xrem/rng2html.xsl"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0" 
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0" 
+  xmlns:h="http://www.w3.org/1999/xhtml" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" 
+  ns="http://www.tei-c.org/ns/1.0" 
+  xml:lang="fr">
+  <a:documentation>Miroir des classiques</a:documentation>
+  
+  <!-- On ajoute des définitions -->
+  <!--
+    NB: reprise assez lourde des fichiers: pour les catalogues, on place les ms dans listBibl conformément aux guidelines (et non dans //list[@type="listMs"]/item/msDesc)
+    listBibl[@type="msList"] REMPLACE list[@type="listMs"]
+  -->
+  
+  <!--
+    JBC: questions générales:
+      
+      quels sont les champs OBLIGATOIRES ? mapping avec les notices EAD
+      
+      comment identifie-t-on un manuscrit (@ref ecodice, gallica, biblissima, etc.) ?
+      comment identifie-t-on une notice ? -> plusieurs notices pour un même manuscrit
+      
+      Établir le mapping des notices avec les principaux opérateurs
+        BnF: notices EAD (A. Tur)
+        BnF: http://archivesetmanuscrits.bnf.fr/
+        IRHT: http://bibale.irht.cnrs.fr/index.html
+      
+      Problème du linking entre notices redondantes: par ex. <idno>fr. 881</idno>
+        Réfléchir au modèle avec des notices décentralisées => notamment la place des msItem (incipit, explicit)
+        Quelles sont les parties de la notice qui ont vocation à être commentées ?
+      
+      Revoir le contenu de msContents => des choses différentes: summary|incipit|explicit|div + l’annotation (note ?)
+      
+      CCRR
+      http://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?failure=%2Fjsp%2Fpublic%2Ffailure.jsp&success=%2Fjsp%2Fpublic%2Findex.jsp&profile=public
+      ECODICES
+      http://www.e-codices.unifr.ch/xml/tei_published/bbb-0027.xml
+  -->
+  
+  <define name="msDesc">
+    <!--
+      les descriptions des mansucrits sont éparpillées dans les fichiers.
+      les lisBibl recensent les manuscrits avec leur description codicologiques (physDesc).
+      les éditions (incipit, etc.) listent les contenus (msContents).
+      Il faut pouvoir rétablir les notices dans leur intégralité ; y agréger d’autres contenus (BnF, etc.)
+      @type="main" : la notice maître
+      @type="content": les contenus dispersés à agréger
+      revoir cette logique
+    -->
+    <element name="msDesc">
+      <a:documentation>Description d’un manuscrit</a:documentation>
+      <choice>
+        <a:documentation>Il s’agit soit du msDesc maître, soit de la notice complémentaire.</a:documentation>
+        <ref name="msDesc.main.atts"/>
+        <ref name="msDesc.contents.atts"/>
+      </choice>
+      <ref name="msIdentifier"/>
+      <optional>
+        <ref name="msContents"/>
+      </optional>
+      <!-- Problème de l’ordre de ces éléments: on normalise ? -->
+      <optional>
+        <ref name="physDesc"/>
+      </optional>
+      <optional>
+        <ref name="history"/>
+      </optional>
+      <optional>
+        <ref name="additional"/>
+      </optional>
+      <optional>
+        <oneOrMore>
+          <ref name="msPart"/>
+        </oneOrMore>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="msDesc.main.atts">
+    <attribute name="type">
+      <a:documentation>Noter qu’il s’agit du msDesc maître</a:documentation>
+      <!-- sans doute l’équivalent dans l’intention de l’@ biblissima ("manifestation_singleton", puis "biblissima", déporté en commentaire en l’état. -->
+      <value>main</value>
+    </attribute>
+    <!-- Identifiant du manuscrit -->
+    <ref name="id-att"/>
+    <optional>
+      <attribute name="source">
+        <a:documentation>Si possible, lien vers une notice d’autorité (BnF, eCodices, ?)</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
+    </optional>
+    <optional>
+      <ref name="msDesc.n.att"/>
+    </optional>
+  </define>
+  <define name="msDesc.contents.atts">
+    <attribute name="type">
+      <a:documentation>Noter qu’il s’agit d’un msDesc complémentaire: description du contenu du manuscrit en général.</a:documentation>
+      <value>contents</value>
+    </attribute>
+    <attribute name="corresp">
+      <a:documentation>Un msDesc complémentaire doit nécessairement être lié à un msDesc maître.</a:documentation>
+      <data type="anyURI"/>
+    </attribute>
+    <optional>
+      <attribute name="source">
+        <a:documentation>Si possible, lien vers une notice d’autorité (BnF, eCodices, ?)</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
+    </optional>
+    <optional>
+      <ref name="msDesc.n.att"/>
+    </optional>
+  </define>
+  <define name="msDesc.n.att">
+    <a:documentation>Temporaire. Tag abuse – stocker l’information initiale</a:documentation>
+    <attribute name="n">
+      <choice>
+        <value>incipit</value>
+        <a:documentation>???????????????????????????????</a:documentation>
+        <value>prologue</value>
+        <a:documentation>???????????????????????????????</a:documentation>
+        <!-- on trouve @n='vu mf' et @n='vu ms' or @n est de type teidata.text (= string) => pas de valeur multiple... on normalise en vu_mf et vu_ms ? -->
+        <!-- "vu mf" = vu microfilm  //  "vu ms" = vu manuscrit -->
+        <value>vu mf</value>
+        <a:documentation>???????????????????????????????</a:documentation>
+        <value>vu ms</value>
+        <a:documentation>???????????????????????????????</a:documentation>
+      </choice>
+    </attribute>
+  </define>
+  
+  <define name="msIdentifier">
+    <element name="msIdentifier">
+      <a:documentation>Identification du manuscrit en cours de description</a:documentation>
+      <element name="settlement">
+        <!-- poser un @ d’identification (@key/@ref) pour extraire tous les ms d’une ville, construire une carte -->
+        <a:documentation>Ville de conservation du manuscrit</a:documentation>
+        <text/>
+      </element>
+      <element name="repository">
+        <!-- idem, poser un @ d’identification (@key/@ref) -->
+        <a:documentation>Institution de conservation du manuscrit</a:documentation>
+        <text/>
+      </element>
+      <element name="idno">
+        <a:documentation>Cote du manuscrit</a:documentation>
+        <optional>
+          <attribute name="source">
+            <a:documentation>URI de référence pour un manuscrit (par exemple l’ARK Gallica)</a:documentation>
+            <data type="anyURI"/>
+          </attribute>
+        </optional>
+        <text/>
+      </element>
+      <!-- prévoir d’ajouter une URI optionnelle -->
+      <!--
+        <optional>
+          <element name="idno">
+            <a:documentation>URI manuscrit dans le catalogue en ligne</a:documentation>
+            <attribute name="type">
+              <value>URI</value>
+            </attribute>
+            <text/>
+          </element>
+        </optional>
+      -->
+      <!-- NB: <msName> n’est même pas utilisé dans les XSLT! -->
+      <zeroOrMore>
+        <ref name="msName"/>
+      </zeroOrMore>
+    </element>
+  </define>
+  
+  <define name="msName">
+    <element name="msName">
+      <a:documentation>Nom utilisé pour désigner le manuscrit</a:documentation>
+      <!-- Inutilement compliqué... À quoi servent ces attributs ? -->
+      <!-- NB, dans TOUS LES FICHIERS, <msName type="sigle" subtype="Barbieri">C</msName> REMPLACÉ par <msName type="sigle" resp="Barbieri">C</msName> -->
+      <!-- TODO: valider cette logique avec FD et JBC --> 
+      <attribute name="type">
+        <value>sigle</value>
+      </attribute>
+      <!-- Liste des valeurs pour les classiques latins // des erreurs ? valider la liste avec FD
+        96 Cropp
+        82 Löfstedt
+        76 Noest
+        60 Atherton-Atkinson
+        38 Barbieri
+        34 Dedeck-Héry
+        34 Bossuat
+        20 édition_Cropp
+        20 article_Cropp
+        18 De_Poerck
+        18 Borel
+        16 Colombo_Timelli
+        14 Atkinson
+        10 Talsma
+        10 Piaget
+        8 Städtler
+        8 Roy
+        6 Doutrepont
+        4 Montigny
+        4 Kraft
+      -->
+      <attribute name="resp">
+        <choice>
+          <value>Atherton-Atkinson</value>
+          <value>Atkinson</value>
+          <value>Barbieri</value>
+          <value>Borel</value>
+          <value>Bossuat</value>
+          <value>Colombo_Timelli</value>
+          <value>Cropp</value>
+          <value>De_Poerck</value>
+          <value>Dedeck-Héry</value>
+          <value>Doutrepont</value>
+          <value>Kraft</value>
+          <value>Löfstedt</value>
+          <value>Montigny</value>
+          <value>Noest</value>
+          <value>Piaget</value>
+          <value>Roy</value>
+          <value>Städtler</value>
+          <value>Talsma</value>
+          <value>article_Cropp</value>
+          <value>édition_Cropp</value>
+        </choice>
+      </attribute>
+      <text/>
+    </element>
+  </define>
+  
+  <define name="msContents">
+    <element name="msContents">
+      <a:documentation>Contenu intellectuel du manuscrit</a:documentation>
+      <optional>
+        <element name="summary">
+          <a:documentation>Résumé du contenu</a:documentation>
+          <ref name="flow"/>
+        </element>
+      </optional>
+      <choice>
+        <oneOrMore>
+          <ref name="msItem"/>
+        </oneOrMore>
+        <!-- description simple: un unique paragraphe -->
+        <ref name="p"/>
+      </choice>
+    </element>
+  </define>
+  
+  <define name="msItem">
+    <element name="msItem">
+      <a:documentation>Un item du contenu intellectuel du manuscrit</a:documentation>
+      <!-- locus doit apparaître en tête de div, cf guidelines -->
+      <ref name="locus"/>
+      <!-- obligatoire ? Les crochets typo devrait être inférés par une valeur d’@: title[@subtype='forge'] -->
+      <a:documentation>Titre forgé de l’item</a:documentation>
+      <ref name="title"/>
+      <!-- LOCUS on a sorti les <locus> des <incipit> et <explicit> pour rétablir la séquence et les liens-->
+      <!-- incipit OBLIGATOIRE -->
+      <element name="incipit">
+        <ref name="cipit.cont"/>
+      </element>
+      <optional>
+        <element name="explicit">
+          <ref name="cipit.cont"/>
+        </element>
+      </optional>
+    </element>
+  </define>
+   
+  
+  <define name="cipit.cont">
+    <a:documentation>Contenu d’un incipit ou d’un explicit. NB: les guidelines n’autorisent pas les éléments p et lg</a:documentation>
+    <!-- On limite pour l’instant le contenu (par rapport à la macro flow pour les p -->
+    <oneOrMore>
+      <choice>
+        <text/>
+        <ref name="typo"/>
+        <ref name="point"/>
+        <ref name="foreign"/>
+      </choice>
+    </oneOrMore>
+  </define>
+  
+  <define name="locus">
+    <element name="locus">
+      <a:documentation>Foliotation de l’item du manuscrit (séquence continue ou discontinue avec liens optionnels aux images).</a:documentation>
+      <!-- Pour une séquence, voir si on peut inscrire un manifest IIIF en lien -->
+      <optional>
+        <attribute name="facs"/>
+      </optional>
+      <text/>
+    </element>
+  </define>
+  
+  <define name="additional">
+    <element name="additional">
+      <a:documentation>Bibliographie consacrée au manuscrit</a:documentation>
+      <ref name="listBibl"/>
+    </element>
+  </define>
+  
+  <define name="physDesc">
+    <element name="physDesc">
+      <a:documentation>Description physique du manuscrit</a:documentation>
+      <!-- les physDesc sans objectDesc sont TRÈS minoritaires => des oublis ? on considère que objectDesc est bien optionnel ? -->
+      <ref name="objectDesc"/>
+      <!-- 101 cas dans les classiques latins -->
+      <optional>
+        <ref name="handDesc"/>
+      </optional>
+      <!-- revoir à quel point decoDesc est optionnel -->
+      <optional>
+        <ref name="decoDesc"/>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="objectDesc">
+    <element name="objectDesc">
+      <a:documentation>Description libre des composants matériels</a:documentation>
+      <!-- pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
+      <!-- TODO: voir les champs obligatoires dans l’EAD => les métadonnées de dimensions sont sans doute obligatoires et bien normalisées => pas le cas sur Gallica, revoir avec A. Tur-->
+      <element name="p">
+        <text/>
+      </element>
+    </element>
+  </define>
+  
+  <define name="decoDesc">
+    <element name="decoDesc">
+      <a:documentation>Description libre de la décoration du manuscrit</a:documentation>
+      <!-- pour l’instant un unique <p> avec de la typo -->
+      <!-- si on peut définir des catégories de notes (par ex. "illustration", utiliser decoNote, dans la mesure où toutes les notes semblent concerner la décoration– voir avec JBC -->
+      <ref name="p"/>
+    </element>
+  </define>
+  
+  <define name="handDesc">
+    <element name="handDesc">
+      <a:documentation>Description des types d'écriture utilisés dans le manuscrit</a:documentation>
+      <!-- pour l’instant un unique <p> avec de la typo -->
+      <ref name="p"/>
+    </element>
+  </define>
+  
+  <define name="history">
+    <element name="history">
+      <a:documentation>Historique du manuscrit</a:documentation>
+      <!-- rendre obligatoire ? -->
+      <optional>
+        <element name="origin">
+          <a:documentation>Informations sur l’origine du manuscrit</a:documentation>
+          <ref name="att.datable"/>
+          <oneOrMore>
+            <choice>
+              <ref name="textual"/>
+              <!-- JBC: assez curieux, bcp de origin/title... on garde ? -->
+              <ref name="title"/>
+            </choice>
+          </oneOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="provenance">
+          <a:documentation>UN épisode précis de l'histoire du manuscrit</a:documentation>
+          <!-- pour l’instant un unique <p> avec de la typo ; on devrait avoir 1 <p> par épisode... -->
+          <!-- utilisé ici pour lister les possesseurs. Revoir la saisie pour ces éléments. -->
+          <!--<ref name="p"/>-->
+          <oneOrMore>
+            <choice>
+              <ref name="textual"/>
+              <ref name="persName"/>
+              <ref name="orgName"/>
+            </choice>
+          </oneOrMore>
+        </element>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="msPart">
+    <element name="msPart">
+      <!-- beaucoup moins détaillé que msDesc/msIdentifier -->
+      <element name="msIdentifier">
+        <!-- NB reprise dans les fichiers du contenu de idno. La simple numérotation ("I", "II") est incorrecte sémantiquement. On identifie la partie du manuscrit grâce à la foliotation-->
+        <!-- À voir avec JBC: on garde objectDesc ? Voir de_consolatione_philosophiae_boethius.xml -->
+        <element name="idno">
+          <text/>
+        </element>
+      </element>
+      <!-- moins structuré que msContents/mItem => revoir cette logique. Idéalement appeler ici le pattern msItem -->
+      <!-- voir surtout ars_amatoria_ovidius.xml -->
+      <!-- des msPart parfois sans description de contenu... on garde ? on passe msContents en optionnel ? -->
+      <element name="msContents">
+        <ref name="p"/>
+      </element>
+      <optional>
+        <ref name="history"/>
+      </optional>
+    </element>
+  </define>
+  
+  <!-- dans l’include on surcharge les définitions -->
+  <include
+    href="../teibook/teibook.rng"
+    h:href="../teibook/teibook.rng"
+    h:title="Teibook, édition en TEI">
+    
+    <define name="block">
+      <choice>
+        <ref name="ab"/>
+        <ref name="bibl"/>
+        <ref name="castList"/>
+        <ref name="cit"/>
+        <ref name="desc"/>
+        <ref name="eg"/>
+        <ref name="entryFree"/>
+        <ref name="figure"/>
+        <ref name="l"/>
+        <ref name="label"/>
+        <ref name="list"/>
+        <ref name="listBibl"/>
+        <ref name="lg"/>
+        <ref name="p"/>
+        <ref name="quote-p"/>
+        <ref name="stage"/>
+        <ref name="sp"/>
+        <ref name="table"/>
+        <!-- ON AJOUTE -->
+        <ref name="msDesc"/>
+      </choice>
+    </define>
+    
+    <!-- autoriser <msDesc> in <listBibl> et ajouter @type -->
+    <define name="listBibl">
+      <element name="listBibl">
+        <a:documentation>Liste de références bibliographiques</a:documentation>
+        <!-- on distingue les listes des manuscrits et des imprimés des simples listes bibliographiques -->
+        <optional>
+          <attribute name="type">
+            <choice>
+              <value>msList</value>
+              <a:documentation>liste de manuscrits</a:documentation>
+              <value>poList</value>
+              <a:documentation>liste d’imprimés (printout list)</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <optional>
+          <ref name="rend.list"/>
+        </optional>
+        <optional>
+          <ref name="head"/>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <ref name="pb"/>
+            <ref name="cb"/>
+            <ref name="bibl"/>
+            <ref name="listBibl"/>
+            <!-- ON AJOUTE -->
+            <ref name="msDesc"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    
+    <!-- revoir le typage des attributs -->
+    <!-- TODO: restructurer teibook de manière à ne redéfinir que seg.att -->
+    <define name="seg">
+      <element name="seg">
+        <a:documentation>Segment de texte à distinguer, à utiliser en derniers recours lorsqu’aucun autre élément n’est approprié, permet notamment de porter une classe ou un identifiant, &lt;html5:span></a:documentation>
+        <optional>
+          <!-- <ref name="type-att"/> -->
+          <attribute name="type">
+            <choice>
+              <value>exquote</value>
+              <a:documentation>Baliser dans une citation les incises et commentaires qui viennent l’interrompre.</a:documentation><!-- http://listserv.brown.edu/archives/cgi-bin/wa?A2=TEI-L;bc182630.1306 -->
+              <value>tab</value>
+              <!-- AJOUT POUR MIROIR -->
+              <value>incipit</value>
+              <a:documentation>?????????????????????????? – peu de cas, on garde ?</a:documentation>
+              <value>explicit</value>
+              <a:documentation>?????????????????????????? – UN SEUL CAS, on garde ?</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <ref name="rendering.char"/>
+        <ref name="xml-atts"/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="typo"/>
+            <ref name="point"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    
+    <!-- on autorise title/title ? -->
+    <define name="title.cont">
+      <zeroOrMore>
+        <choice>
+          <text/>
+          <ref name="point"/>
+          <ref name="hi"/>
+          <ref name="num"/>
+          <ref name="title"/>
+        </choice>
+      </zeroOrMore>
+    </define>
+    
+    <!-- redéfinition des valeurs autorisées pour //div/@type  -->
+    <!-- TODO: créer un div.atts.n.values dans teibook dédié à la seule création de listes autorisées. -->
+    <define name="div.atts">
+      <optional>
+        <attribute name="type">
+          <choice>
+            <value>edition</value>
+            <a:documentation>Transcription ou renvoi à l’édition</a:documentation>
+            <value>incipit</value>
+            <a:documentation>Pour les "classiques latins", marque la partie consacrée à l’édition des incipit du manuscrit de référence</a:documentation>
+            <value>dedicace</value>
+            <a:documentation>in div[@type="edition"] : transcription et/ou renvoi à l’édition de la dédicace</a:documentation>
+            <value>dizain</value>
+            <a:documentation>in div[@type="edition"] : transcription et/ou renvoi à l’édition du dizain</a:documentation>
+            <value>epilogue</value>
+            <a:documentation>in div[@type="edition"] : transcription et/ou renvoi à l’édition de l’épilogue</a:documentation>
+            <value>colophon</value><!-- un unique cas pour les classiques latins -->
+            <a:documentation>in div[@type="edition"] : transcription et/ou renvoi à l’édition du colophon</a:documentation>
+            <value>avertissement</value>
+            <a:documentation>in div[@type="edition"] : transcription et/ou renvoi à l’édition de l’avertissement</a:documentation>
+            <value>premier_chapitre</value>
+            <a:documentation>in div[@type="edition"] : transcription et/ou renvoi à l’édition du premier chapitre</a:documentation>
+            <value>deperdita</value>
+            <a:documentation>Partie de la notice réservée aux témoins perdues</a:documentation>
+            <value>presentation</value>
+            <a:documentation>Présentation du texte source (simili front, peut contenir plusieurs div)</a:documentation>
+            <value>soustraduction</value>
+            <a:documentation>Partie réservée aux textes dérivés d’une traduction donnée</a:documentation>
+            <value>collection_privée</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>debut</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>fragments</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>imprime</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>manuscrit</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>nonidentifie</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>privilege</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>prologue</value>
+            <a:documentation>Prologue du traducteur (afficher les seuls prologues)</a:documentation>
+            <value>sommaire</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>textenonretenu</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <value>traduction</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <!-- à jeter sans doute: série d’identifiants -->
+            <value>III_IV_decades</value>
+            <a:documentation>??????????????????????????</a:documentation>
+            <data type="Name"/>
+            <a:documentation>Mot clé libre lorsqu’aucune des valeurs définies semble adaptée</a:documentation>
+          </choice>
+        </attribute>
+      </optional>
+      <optional>
+        <ref name="n-att"/>
+      </optional>
+      <ref name="xml-atts"/>
+    </define>
+    
+    <define name="persName.type">
+      <optional>
+        <attribute name="type">
+          <choice>
+            <value>ancien</value>
+            <a:documentation>(413/1139 occs) TRÈS MAL DÉFINI, À REVOIR</a:documentation>
+            <value>possesseur</value>
+            <a:documentation>(405/1139 occs) Le possesseur (d’un manuscrit, d’un imprimé, d’une collection ?)</a:documentation>
+            <value>illustrateur</value>
+            <a:documentation>(102/1139 occs) Un illustrateur ???</a:documentation>
+            <value>traducteur</value>
+            <a:documentation>(101/1139 occs) Un traducteur (de quoi ?)</a:documentation>
+            <value>copiste</value>
+            <a:documentation>(66/1139 occs) Un copiste de manuscrit</a:documentation>
+            <value>remanieur</value>
+            <a:documentation>(5/1139 occs) ?????????</a:documentation>
+            <value>dedicataire</value>
+            <a:documentation>(4/1139 occs) ?????????</a:documentation>
+            <value>commanditaire</value>
+            <a:documentation>(2/1139 occs) ?????????</a:documentation>
+            <!-- 
+            <value>relieur</value>
+            <a:documentation>(1/1139 occs) ?????????</a:documentation>
+             -->
+          </choice>
+        </attribute>
+      </optional>
+    </define>
+    
+    <!-- redéfinition pour @type -->
+    <define name="orgName">
+      <element name="orgName">
+        <a:documentation>Nom d’organisation</a:documentation>
+        <ref name="index-atts"/>
+        <ref name="xml-atts"/>
+        <ref name="rendering.char"/>
+        <!-- on ajoute la liste des valeurs @type autorisées -->
+        <!-- OBLIGATOIRE OU OPTIONNEL ? -->
+        <optional>
+          <attribute name="type">
+            <choice><!-- recenser les valeurs autorisées ; les valeurs doivent correspondre à celle de persName.type ??? -->
+              <value>possesseur</value>
+              <a:documentation>Le possesseur (d’un manuscrit, d’un imprimé, d’une collection ?)</a:documentation>
+              <value>illustrateur</value>
+              <a:documentation>Un illustrateur ???</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="point"/>
+            <ref name="hi"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    
+    <!-- redéfinition des valeurs autorisées pour title/@type -->
+    <define name="title.type.v">
+      <choice>
+        <value>ancien</value>
+        <a:documentation>titre donné par un témoin ancien (différent du titre normalisé moderne)</a:documentation>
+      </choice>      
+    </define>
+    
+    <!-- on doit redéfinir dateline car les attributs @notBefore et @notAfter ne sont pas autorisés pour docDate -->
+    <define name="dateline">
+      <element name="dateline">
+        <a:documentation>Mention de date, de temps ou de lieu, ex : donné le … à … ("datum", dans une lettre, une charte…)</a:documentation>
+        <ref name="rendering.block"/>
+        <interleave>
+          <text/>
+          <zeroOrMore>
+            <choice>
+              <ref name="del"/>
+              <!-- <ref name="docDate"/> -->
+              <ref name="date"/>
+              <ref name="indexable"/>
+              <ref name="hi"/>
+              <ref name="point"/>
+            </choice>
+          </zeroOrMore>
+        </interleave>
+      </element>
+    </define>
+    
+  </include>
+  
+  
+  <!--
+    NOTES SUR L'ENCODAGE INITIAL
+    
+    *****STRUCTURE ET DIV
+    ** LA STRUCTURE DU TEXTE est fautive: table des matières pas logique (cf Traduction d’Octovien de Saint-Gelais)
+    ** div/@type : voir la liste des valeurs autorisées et leur documentation
+    ** div/@xml:id : revoir la logique d’identification => à quoi servent ces identifiants ?
+    ** div/@n : pourquoi ? des tris
+    ** div/@corresp : pourquoi ?
+    ** toutes les div ne sont pas typées... toutes les div n’ont pas d’@xml:id... Qu’est-ce qui est obligatoire ????
+    ** div[@type="expression"] ; ne sert à rien sinon dans l’XSLT à l’affichage de certains <title> : on supprime !
+    ** div[@subtype="traduction"] DEVIENT div[@type="traduction"] => vraiment utile ? REVOIR XSLT
+    
+    *****MSDESC
+    ** gros problème de structure des notices. On a potentiellement plusieurs msDesc pour un même manuscrit
+    ** généralement pour le témoin principal des incipit => un msDesc dans la div dédiée aux incipit, et un msDesc pour le cataloguage
+    ** par exemple pour <idno>Royal 20 D I</idno>, 
+    ** 3 fois <idno>fr. 1641</idno>: 1 fois pour éd. du prologue, 1 fois pour incipit, 1 fois pour notice
+    ** Comment extraire la notice intégrale (regroupement des éléments dispersés) ? comment conserver cette éditorialisation (une partie consacrée à l’édition des incipit, une autre aux transcriptions, et une dernière au cataloguage) ???????
+    ** REGROUPER TOUT DANS UNE NOTICE ET FAIRE DES RENVOIS DANS LES PARTIES EDITO (incipit, édition) ????????
+    ** un tel regroupement complique aussi le processing...
+    
+    *****LES <TITLE>
+    ** <title> problème des <title> dans les <title>. Quel objectif ? voir avec F. Duval.
+    ** title[@type="ancien"]
+    ** title[@level="a"], cf epitoma_rei_militaris_vegetius.xml => 2 <title> sur 494!!!
+    
+    *****PERSNAME
+    ** très appareillé mais aucun template associé
+    ** 1139 persName balisés
+    ** @type : 1100 attributes posés
+        413 ancien
+        1 auteur
+        2 commanditaire
+        66 copiste
+        2 dedicataire
+        2 dédicataire
+        102 illustrateur
+        1 posseseur
+        403 possesseur
+        1 possesseurs
+        1 relieur
+        1 remainieur
+        4 remanieur
+        100 traducteur
+        1 traduction
+      => reprise des valeurs (cf fautes de frappes) ; on supprime les valeurs rares (ie auteur, commanditaire, dédicataire, relieur, remanieur) ???
+    ** @role : 4 @role (traducteur...) => on bascule en @type [NB: @role n’est pas même convoqué dans les XSLT !)
+    ** @key :  403 @key (sur 1139...) => on fait quoi ? Analyser les clés ; campagne d’annotation
+    ** @n :    372 @n => pour les tris ?
+    ** @corresp : 14 @corresp, et seulement dans heroides_ovidius.xml ; @ non utilisé dans les XSLT => on supprime ?
+    ** @subtype : 1 seul @corresp => le gars est copiste ET possesseur ; ce qui compte ici c’est de savoir à quel titre il est mentionné !!!
+    
+    
+    ** <emph> mauvais usage sémantique (cf les exposants) => hi[@rend="sup"]
+    ** <locus> problème de la définition d’UN ITEM (on extrait les <locus> des <incipit> et <explicit>
+    
+    ** <persName> à quoi sert @n (pas au tri manifestement! ; pas exploité dans XSLT) ? on ne trouve pas de référentiel... une référence ? => @corresp
+    ** <note> REVOIR LE MODÈLE POUR LES IMPRIMÉS... QUEL EST LE STATUT DE CES NOTES ? (bas de page ? NB ?)
+    ** list[@type="listMs"] pas très conforme aux recommandations => listBibl[@type="msList"]
+    ** <msName type="sigle" subtype="Barbieri"> => très complexe ET inutilisé (NB: des ERREURS dans la syntaxe du fichier d’origine). DEVIENT <msName type="sigle" resp="Barbieri">
+    ** title[@type="ancien"] => utilisation CSS (mise en italique et c’est tout). On supprime ?
+    ** biblScope => une seule occurence et pas d’exploitation => on supprime
+    ** les listBibl n’ont pas de titre ; semble dangereux de l’inférer à l’XSLT (c’est l’XSLT qui infère le titre "Bibliographie" ou "Editions"...) => j’ajouterais en tête de <lisBibl>: <head>Bibliographie</head> quand c’est utile
+    ** bibl/@notBefore et bibl/@notAfter: les @ ne sont pas exploités dans l’XSLT;
+    ** bazar dans les dates: à quoi sert <origDate notBefore="1474-01-01" notAfter="1474-12-31">1474</origDate> ??? pourquoi pas <origDate when="1474">?"
+    ** pourquoi des foreign dans le bibl ?
+    ** dateline: voir bb_urbe_condita.... l. 110
+    
+    ** DATES: besoin de faire un point précis (dateline/docDate, origDate, date)
+    ** utilisation très flou dans les <p> de origDate => je remplace par date ; on organisera une campagne d’annotation si besoin
+    ** choix: placer les history/origin/p/origDate/@* in history/origin/@*
+    ** mauvais usage des @notBefore et @notAfter => normalisation souvent en @when, exemple:
+        <date notAfter="1556-01-01" notBefore="1556-12-31">1556</date> => <date when="1556">1556</date>
+        on a même :
+        <date notBefore="1505-03-06" notAfter="1505-03-06">6 mars 1505</date>
+    ** trouver une manière de normaliser les dates des bibl pour les imprimés (@precision ?, @notBefore ?, @notAfter ?) -> on fait quoi ce ces attributs
+    
+    **TODO: revoir la structure dédiée pour la liste des imprimés
+    <ref target="./miroir.rng#VJ_memo"/>
+    un item par imprimé, un bibl pour la référence, un p pour commenter (le manuscrit consulté), un listBibl pour la biblio relative à l’imprimé
+    => COMMENT inscrit-on les référence de l’exemplaire consulté (id http://gallica.bnf.fr/ark:/12148/bpt6k71507f) ????
+  
+  
+  ab_urbe_condita_cxlii_titus-livius.xml
+  A-t-on vraiment besoin de msPart ? 42 occs pour l’ensemble des fichiers du projet En principe pour les manuscrits composites (à voir avec FD)...
+  S’agit-il bien à chaque fois de parties d’un ms composite ? où s’agit-il de décrire des items => dans ce cas voir msItem
+  
+  de_vetula_pseudo_ovidius.xml
+  C’est le bordel total pour les msItem...
+  
+  origDate: on a des //p/origDate => c’est autorisé, valable sémantiquement mais on en fait quoi ? cf ab_urbe_condita...
+  
+  
+  -->
+  
+</grammar>
