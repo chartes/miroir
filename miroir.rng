@@ -43,12 +43,11 @@
   <define name="msDesc">
     <!--
       les descriptions des mansucrits sont éparpillées dans les fichiers.
-      les lisBibl recensent les manuscrits avec leur description codicologiques (physDesc).
+      les lisBibl recensent les manuscrits avec leur description codicologique (physDesc).
       les éditions (incipit, etc.) listent les contenus (msContents).
       Il faut pouvoir rétablir les notices dans leur intégralité ; y agréger d’autres contenus (BnF, etc.)
       @type="main" : la notice maître
-      @type="content": les contenus dispersés à agréger
-      revoir cette logique
+      @type="contents": les contenus dispersés à agréger
     -->
     <element name="msDesc">
       <a:documentation>Description d’un manuscrit</a:documentation>
@@ -89,7 +88,7 @@
     <ref name="id-att"/>
     <optional>
       <attribute name="source">
-        <a:documentation>Si possible, lien vers une notice d’autorité (BnF, eCodices, ?)</a:documentation>
+        <a:documentation>Si possible, lien vers une notice d’autorité (BnF, eCodices, IRHT, ?)</a:documentation>
         <data type="anyURI"/>
       </attribute>
     </optional>

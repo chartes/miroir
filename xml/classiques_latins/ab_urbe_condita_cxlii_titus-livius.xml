@@ -3342,7 +3342,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d’après le ms</p>
-              <msDesc type="contents" n="incipit"><!-- type="biblissima" -->
+              <msDesc type="contents" corresp="#arsenal_3695" n="incipit"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
