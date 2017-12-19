@@ -336,3 +336,10 @@ On autorise ? Pourquoi ?
 | fr. 197 | 1 |  |
 | fr. 1932 | 1 |  |
 | Rés. F. 35 | 1
+
+# Les manuscrits juridiques
+Objectif: déterminer le nombre de traduction pour chaque texte jurdique.  
+Déterminer les relations entre traductions et décrire les manuscrits de chaque traduction.  
+Critique textuelle : définir les relations textuelles entre manuscrits (tradition) -> des transcriptions assez longues. Certains "titres" sont transcrits intégralement, leur variante également.
+
+Un fichier par texte.
