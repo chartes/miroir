@@ -1,3 +1,6 @@
+# Les manuscrits juridiques
+* //emph : voir les valeurs des @rend pour normalisation
+
 # articulation Notice / content. ex. du ms BnF fr. 263
 `//msDesc[contains(msIdentifier/idno, '263')]`
 -> des msDesc pour le même manuscrit => physDesc, etc. / msContents (comment réordonner les msContents ?)

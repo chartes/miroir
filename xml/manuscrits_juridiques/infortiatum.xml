@@ -68,7 +68,7 @@
     <body>
       <div type="presentation">
         <head>Infortiatum</head>
-        <p>Dès le 12<emph rend="upper">e</emph> siècle, le <title>Digeste</title> est transmis en trois volumes comprenant respectivement le <title xml:lang="lat">Digestum Vetus</title> (D. 1-24.2), l’<title xml:lang="lat">Infortiatum</title> (D. 24.3-38) et le <title xml:lang="lat">Digestum novum</title> (D. 39-50). L’<title xml:lang="lat">Infortiatum</title> (ou <title>Infortiat</title> en français) est lui-même divisé en deux parties dénommées <title xml:lang="lat">Infortiatum</title> (D. 24.3-35.2.81) et <title xml:lang="lat">Tres partes</title> (D. 35.2.82-38.3).</p>
+        <p>Dès le 12<hi rend="sup">e</hi> siècle, le <title>Digeste</title> est transmis en trois volumes comprenant respectivement le <title xml:lang="lat">Digestum Vetus</title> (D. 1-24.2), l’<title xml:lang="lat">Infortiatum</title> (D. 24.3-38) et le <title xml:lang="lat">Digestum novum</title> (D. 39-50). L’<title xml:lang="lat">Infortiatum</title> (ou <title>Infortiat</title> en français) est lui-même divisé en deux parties dénommées <title xml:lang="lat">Infortiatum</title> (D. 24.3-35.2.81) et <title xml:lang="lat">Tres partes</title> (D. 35.2.82-38.3).</p>
         <listBibl>
           <bibl>H. van de Wouw, <title level="a">Zur Textgeschichte des Infortiatum und zu seiner Glossierung durch die frühen Bologneser Glossatoren</title>, dans
             <title>Ius Commune</title>, 1984, t. 11, p. 231-280</bibl>
@@ -117,9 +117,9 @@
         <div type="tradition_texte">
           <head>Tradition du texte</head>
           <p>NB : Pour une présentation détaillée, on se reportera à <bibl>Pastore-Duval</bibl> [à paraître].</p>
-          <p>De nombreux accords sémantiques entre le texte-source et <emph rend="italic">R</emph> contre <emph rend="italic">B</emph> permettent de conclure avec certitude que <emph rend="italic">R</emph> n’a pas été copié sur <emph rend="italic">B</emph>, en particulier en cas d’omission dans <emph rend="italic">B</emph>. Les collations établissent également que <emph rend="italic">R</emph> et <emph rend="italic">B</emph> sont indépendants et remontent à un ancêtre commun. Enfin, deux erreurs conjonctives communes à <emph rend="italic">BR</emph> et au <title>Livre de jostice et de plet</title> prouvent qu’aucun des trois témoins ne remonte à l’original, mais qu’ils descendent tous trois d’un archétype commun.</p>
-          <p>Confirmant la critique externe, en particulier la datation des témoins, la critique interne établit nettement que le LJP ne dérive ni de <emph rend="italic">B</emph> ni de <emph rend="italic">R</emph>, puisqu’il s’accorde tantôt avec
-            <emph rend="italic">R</emph> là où <emph rend="italic">B</emph> est fautif, tantôt avec <emph rend="italic">B</emph> là où <emph rend="italic">R</emph> est erroné. Le manuscrit fr. 2844 permet également de mettre en évidence des erreurs conjonctives de <emph rend="italic">BR</emph> et donc de leur supposer un ancêtre commun, <emph rend="italic">α</emph>, différent de celui dont s’est servi le compilateur du <title>Livre de jostice et de plet</title>. On aboutirait donc, pour les passages transmis par les trois témoins, à un stemma du type :</p>
+          <p>De nombreux accords sémantiques entre le texte-source et <hi rend="i">R</hi> contre <hi rend="i">B</hi> permettent de conclure avec certitude que <hi rend="i">R</hi> n’a pas été copié sur <hi rend="i">B</hi>, en particulier en cas d’omission dans <hi rend="i">B</hi>. Les collations établissent également que <hi rend="i">R</hi> et <hi rend="i">B</hi> sont indépendants et remontent à un ancêtre commun. Enfin, deux erreurs conjonctives communes à <hi rend="i">BR</hi> et au <title>Livre de jostice et de plet</title> prouvent qu’aucun des trois témoins ne remonte à l’original, mais qu’ils descendent tous trois d’un archétype commun.</p>
+          <p>Confirmant la critique externe, en particulier la datation des témoins, la critique interne établit nettement que le LJP ne dérive ni de <hi rend="i">B</hi> ni de <hi rend="i">R</hi>, puisqu’il s’accorde tantôt avec
+            <hi rend="i">R</hi> là où <hi rend="i">B</hi> est fautif, tantôt avec <hi rend="i">B</hi> là où <hi rend="i">R</hi> est erroné. Le manuscrit fr. 2844 permet également de mettre en évidence des erreurs conjonctives de <hi rend="i">BR</hi> et donc de leur supposer un ancêtre commun, <hi rend="i">α</hi>, différent de celui dont s’est servi le compilateur du <title>Livre de jostice et de plet</title>. On aboutirait donc, pour les passages transmis par les trois témoins, à un stemma du type :</p>
           <eTree type="hypothetical">
             <label xml:lang="lat">ω</label>
             <eTree type="extant">
@@ -145,10 +145,10 @@
             </eTree>
           </eTree>
           <p>L’une des hésitations du stemma tient au statut du ms fr. 2844, qui peut être soit considéré comme un original rédigé sans grand soin par un compilateur qui s’est fié à des sources parfois défectueuses, soit comme une copie réalisée rapidement par un scribe qui a amplifié les défauts déjà présents dans l’original. En supposant que le compilateur est toujours meilleur que le scribe, G. Pastore penche en faveur de la seconde hypothèse.</p>
-          <p>Quel serait le manuscrit à consulter en priorité et à utiliser comme base pour une édition ? Si l’on excepte la partie copiée par l’éphémère et apparemment bien négligent second copiste de <emph rend="italic">B</emph>, aucun des témoins directs ne se distingue de l’autre par l’authenticité de ses leçons. Toutefois
-            <emph rend="italic">B</emph>, dont le copiste principal a travaillé vite, comme le prouve son écriture, se démarque par la fréquence des sauts du même au même. Une édition gagnerait sans doute à éviter de choisir <emph rend="italic">B</emph> comme témoin de base, de peur d’avoir constamment à combler des omissions par des segments de <emph rend="italic">R</emph> qui nuiraient trop fortement à la cohérence graphique du texte critique. En outre, rappelons que <emph rend="italic">B</emph> est incomplet du premier feuillet.</p>
-          <p>La collation de <emph rend="italic">B</emph> et de <emph rend="italic">R</emph> avec le latin montre qu’il ne saurait être envisageable de se passer d’une méthode reconstructionniste, qui plus est dans une configuration où le latin permet d’identifier aisément les erreurs, tant elles sont partagées entre les deux témoins. <emph rend="italic">R</emph> doit donc être corrigé en cas d’accord sémantique de <emph rend="italic">B</emph> avec l’original latin. Ainsi, l’établissement du texte permettra d’atteindre un état textuel plus proche de
-            <emph rend="italic">α</emph>.</p>
+          <p>Quel serait le manuscrit à consulter en priorité et à utiliser comme base pour une édition ? Si l’on excepte la partie copiée par l’éphémère et apparemment bien négligent second copiste de <hi rend="i">B</hi>, aucun des témoins directs ne se distingue de l’autre par l’authenticité de ses leçons. Toutefois
+            <hi rend="i">B</hi>, dont le copiste principal a travaillé vite, comme le prouve son écriture, se démarque par la fréquence des sauts du même au même. Une édition gagnerait sans doute à éviter de choisir <hi rend="i">B</hi> comme témoin de base, de peur d’avoir constamment à combler des omissions par des segments de <hi rend="i">R</hi> qui nuiraient trop fortement à la cohérence graphique du texte critique. En outre, rappelons que <hi rend="i">B</hi> est incomplet du premier feuillet.</p>
+          <p>La collation de <hi rend="i">B</hi> et de <hi rend="i">R</hi> avec le latin montre qu’il ne saurait être envisageable de se passer d’une méthode reconstructionniste, qui plus est dans une configuration où le latin permet d’identifier aisément les erreurs, tant elles sont partagées entre les deux témoins. <hi rend="i">R</hi> doit donc être corrigé en cas d’accord sémantique de <hi rend="i">B</hi> avec l’original latin. Ainsi, l’établissement du texte permettra d’atteindre un état textuel plus proche de
+            <hi rend="i">α</hi>.</p>
           <listBibl>
             <head>Etude</head>
             <bibl>G. Pastore et F. Duval, <title level="a">La tradition française de l’Infortiat et le Livre de jostice et de plet</title>, [à paraître] dans
@@ -1043,7 +1043,7 @@
                           <width quantity="170">170</width>
                         </dimensions>. (justification : 198 x 140 mm.). Réglure à la mine de plomb (1-1-11/0/1-1/J) uniforme pour l’ensemble des cahiers : d’après le f. 99, (20 + 198 + 37 mm. [de haut en bas]) x (10 + 65 + 10 + 65 + 20 mm. [de la reliure vers la gouttière]). Trace de piqûres ayant servi à tracer la linéation dans la marge de gouttière ; piqûres pour le tracé des rectrices verticales en marges de tête et de queue. Copié sur 2 col., le ms compte de 50 (f. 44b) à 52 (f. 201a) lignes par col., soit une UR comprise entre 3,8 et 3,95 mm. pour le corps du texte. – foliotation moderne à l’encre en chiffres arabes, parfois doublée (avec une unité de décalage) d’une autre foliotation moderne en chiffres arabes à la mine de plomb ; titre courant : sur le f. verso, « L » rubriqué ; numéro du livre en capitales romaines bleues et rouges sur le recto. La numérotation des livres est continue de I à XIV avec quelques flottements entre les rubriques et les titres courants : le numéro XI comprend à la fois le livre 11 de l’<title>Infortiat</title> et le premier livre des
                           <title xml:lang="lat">Tres partes</title> ; le numéro XIII comprend les livres 2 et 4 des <title xml:lang="lat">Tres partes</title>. Une main plus récente a indiqué au-dessus de la numérotation primitive, le numéro du livre du <title>Digeste</title>.</note></extent>
-                        <collation>1<emph rend="upper">7 [3+4]</emph> (f. 1-7v [réclame à l’encre noire]), 2<emph rend="upper">8</emph> (f. 8-15v [réclame à l’encre noire encadrée à l’encre noire]), 3<emph rend="upper">8</emph> (f. 16-23v [réclame à l’encre noire]), 4<emph rend="upper">4</emph> (f. 24-27v), 5<emph rend="upper">8</emph> (f. 28-35v), 6<emph rend="upper">6</emph> (f. 36-41v), 7<emph rend="upper">8</emph> (f. 42-49v [réclame à l’encre noire]), 8<emph rend="upper">8</emph> (f. 50-57v [réclame à l’encre noire]), 9<emph rend="upper">8</emph> (f. 58-65v [réclame à l’encre noire]), 10<emph rend="upper">8</emph> (f. 66-73v [réclame à l’encre noire]), 11<emph rend="upper">8</emph> (f. 74-81v [réclame à l’encre noire]), 12<emph rend="upper">8</emph> (f. 82-89v [réclame à l’encre noire]), 13<emph rend="upper">8</emph> (f. 90-97v [traces de réclame à l’encre noire]), 14<emph rend="upper">8</emph> (f. 98-105v [réclame à l’encre noire]), 15<emph rend="upper">8</emph> (f. 106-113v [réclame à l’encre noire]), 16<emph rend="upper">6</emph> (f. 114-119v [réclame à l’encre noire]), 17<emph rend="upper">4</emph> (f. 120-123v [réclame à l’encre noire]), 18<emph rend="upper">8</emph> (f. 124-131v [réclame à l’encre noire]), 19<emph rend="upper">8</emph> (f. 132-139v [traces de réclame à l’encre noire]), 20<emph rend="upper">8</emph> (f. 140-147v), 21<emph rend="upper">8</emph> (f. 148-155v [réclame à l’encre noire]), 22<emph rend="upper">8</emph> (f. 156-163v [réclame à l’encre noire]), 23<emph rend="upper">8</emph> (f. 164-171v [réclame à l’encre noire]), 24<emph rend="upper">8</emph> (f. 172-179v [réclame à l’encre noire]), 25<emph rend="upper">8</emph> (f. 180-187v [réclame à l’encre noire]), 26<emph rend="upper">8</emph> (f. 188-195v [réclame à l’encre noire]), 27<emph rend="upper">6</emph> (f. 196-201v [réclame à l’encre noire]), 28<emph rend="upper">4</emph> (f. 202-205). Traces de signatures à la mine de plomb.</collation>
+                        <collation>1<hi rend="sup">7 [3+4]</hi> (f. 1-7v [réclame à l’encre noire]), 2<hi rend="sup">8</hi> (f. 8-15v [réclame à l’encre noire encadrée à l’encre noire]), 3<hi rend="sup">8</hi> (f. 16-23v [réclame à l’encre noire]), 4<hi rend="sup">4</hi> (f. 24-27v), 5<hi rend="sup">8</hi> (f. 28-35v), 6<hi rend="sup">6</hi> (f. 36-41v), 7<hi rend="sup">8</hi> (f. 42-49v [réclame à l’encre noire]), 8<hi rend="sup">8</hi> (f. 50-57v [réclame à l’encre noire]), 9<hi rend="sup">8</hi> (f. 58-65v [réclame à l’encre noire]), 10<hi rend="sup">8</hi> (f. 66-73v [réclame à l’encre noire]), 11<hi rend="sup">8</hi> (f. 74-81v [réclame à l’encre noire]), 12<hi rend="sup">8</hi> (f. 82-89v [réclame à l’encre noire]), 13<hi rend="sup">8</hi> (f. 90-97v [traces de réclame à l’encre noire]), 14<hi rend="sup">8</hi> (f. 98-105v [réclame à l’encre noire]), 15<hi rend="sup">8</hi> (f. 106-113v [réclame à l’encre noire]), 16<hi rend="sup">6</hi> (f. 114-119v [réclame à l’encre noire]), 17<hi rend="sup">4</hi> (f. 120-123v [réclame à l’encre noire]), 18<hi rend="sup">8</hi> (f. 124-131v [réclame à l’encre noire]), 19<hi rend="sup">8</hi> (f. 132-139v [traces de réclame à l’encre noire]), 20<hi rend="sup">8</hi> (f. 140-147v), 21<hi rend="sup">8</hi> (f. 148-155v [réclame à l’encre noire]), 22<hi rend="sup">8</hi> (f. 156-163v [réclame à l’encre noire]), 23<hi rend="sup">8</hi> (f. 164-171v [réclame à l’encre noire]), 24<hi rend="sup">8</hi> (f. 172-179v [réclame à l’encre noire]), 25<hi rend="sup">8</hi> (f. 180-187v [réclame à l’encre noire]), 26<hi rend="sup">8</hi> (f. 188-195v [réclame à l’encre noire]), 27<hi rend="sup">6</hi> (f. 196-201v [réclame à l’encre noire]), 28<hi rend="sup">4</hi> (f. 202-205). Traces de signatures à la mine de plomb.</collation>
                       </supportDesc>
                     </objectDesc>
                     <handDesc hands="2">
@@ -1052,23 +1052,23 @@
                         <quote>et</quote>.</p>
                       <p><label>Scripta</label>les aires septentrionales et orientales sont d’emblée exclues (ex. <quote>fet</quote>,
                         <quote>fere</quote>, cf. <bibl>Dees 1980, c. 248</bibl> ;
-                        <quote>meson</quote>, cf. <bibl><emph rend="italic">ibid.</emph>, c. 171</bibl> ou encore <quote>leu</quote>, cf. <bibl><emph rend="italic">ibid.</emph>, c. 168</bibl>), de même que le poitevin-saintongeais (ex. <quote>mois</quote>, cf.
-                        <bibl>Dees 1987, c. 177</bibl>) et l’anglo-normand dans l’aire occidentale. Les extraits édités ne livrent aucun des traits suivants, caractéristiques du normand : absence de palatalisation de /ka-/, /ga-/, palatalisation en chuintante de /ki-/ ou /ke-/, absence de l’effet de Bartsch, désinence de la P4 en -<emph rend="italic">on</emph> ou -<emph rend="italic">um</emph>). L’utilisation exclusive des graphies
+                        <quote>meson</quote>, cf. <bibl><hi rend="i">ibid.</hi>, c. 171</bibl> ou encore <quote>leu</quote>, cf. <bibl><hi rend="i">ibid.</hi>, c. 168</bibl>), de même que le poitevin-saintongeais (ex. <quote>mois</quote>, cf.
+                        <bibl>Dees 1987, c. 177</bibl>) et l’anglo-normand dans l’aire occidentale. Les extraits édités ne livrent aucun des traits suivants, caractéristiques du normand : absence de palatalisation de /ka-/, /ga-/, palatalisation en chuintante de /ki-/ ou /ke-/, absence de l’effet de Bartsch, désinence de la P4 en -<hi rend="i">on</hi> ou -<hi rend="i">um</hi>). L’utilisation exclusive des graphies
                         <quote>hoir</quote>, <quote>oir</quote> tend à écarter les autres <foreign xml:lang="lat">scriptae</foreign> occidentales (cf. <bibl>Dees 1980, c. 158</bibl>). On peut hésiter entre une localisation en région parisienne, en Orléanais ou même en Champagne occidentale, mais l’on rencontre peu d’influences occidentales qui font l’originalité de la <foreign xml:lang="lat">scripta</foreign> orléanaise par rapport à la
                         <foreign xml:lang="lat">scripta</foreign> parisienne (cf.
                         <bibl>Simoni-Aurembou, <title>LRL</title>, t. II/2, 1995, p. 352-354</bibl> ; <bibl>Gossen, <title>Skriptastudien</title>, 1967, p. 187-211</bibl>). Les graphies
-                        <quote>procuratour</quote> et <quote>procurator</quote> (25.4.1.10) font exception (cf. <bibl>Goebl, <title>LRL</title>, t. II/2, p. 330-331</bibl>), de même que la fréquence supérieure des articles contractés <quote>el</quote> par rapport à <quote>ou</quote> (cf. <bibl>Dees 1980, c. 53</bibl> : formes de l’article contracté « en + le » : <emph rend="italic">el</emph> / <emph rend="italic">ou</emph> : 77% Normandie, 32% région parisienne, Orléanais 3%) et <quote>as</quote> par rapport à <quote>aus</quote> (cf. <bibl>Dees 1980, c. 50</bibl> : formes de l’article contracté « a + les » : <emph rend="italic">as</emph> /<emph rend="italic">aus</emph> : 22% Normandie, 64% région parisienne, Orléanais 63%).</p>
+                        <quote>procuratour</quote> et <quote>procurator</quote> (25.4.1.10) font exception (cf. <bibl>Goebl, <title>LRL</title>, t. II/2, p. 330-331</bibl>), de même que la fréquence supérieure des articles contractés <quote>el</quote> par rapport à <quote>ou</quote> (cf. <bibl>Dees 1980, c. 53</bibl> : formes de l’article contracté « en + le » : <hi rend="i">el</hi> / <hi rend="i">ou</hi> : 77% Normandie, 32% région parisienne, Orléanais 3%) et <quote>as</quote> par rapport à <quote>aus</quote> (cf. <bibl>Dees 1980, c. 50</bibl> : formes de l’article contracté « a + les » : <hi rend="i">as</hi> /<hi rend="i">aus</hi> : 22% Normandie, 64% région parisienne, Orléanais 63%).</p>
                       <p>Les deux mains pratiquent une <foreign xml:lang="lat">scripta</foreign> semblable, même si la main 1, largement majoritaire, se distingue par l’utilisation de la forme -<quote>aige</quote> vs -<quote>age</quote> (main 2) (cf.
                         <bibl>Dees 1980, c. 204</bibl>
-                        <emph rend="italic">heritaige, usaiges</emph> / <emph rend="italic">heritage, usage</emph> : 2% Ile-de-France, 3% Normandie, 4% Sarthe et Mayenne, mais 39% Orléanais, 63% Yonne et forte représentation dans les <foreign xml:lang="lat">scriptae</foreign> de l’Est).</p>
+                        <hi rend="i">heritaige, usaiges</hi> / <hi rend="i">heritage, usage</hi> : 2% Ile-de-France, 3% Normandie, 4% Sarthe et Mayenne, mais 39% Orléanais, 63% Yonne et forte représentation dans les <foreign xml:lang="lat">scriptae</foreign> de l’Est).</p>
                       <p><label>Traces de lecture</label>Notes marginales en <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term>, dues à plusieurs mains postérieures. Dans la marge supérieure, en latin, d’une main du 3e quart du 14e s., incipit de chaque paragraphe, colonne par colonne. Dans le coin supérieur droit de chaque recto, d’une plume plus fine et d’une encre un peu plus foncée, la même main a noté le nom du titre latin à la manière d’un titre courant. Une autre main a indiqué, au-dessus du titre courant, en chiffres arabes le numéro du livre du Digeste correspondant à celui de l’<title>Infortiat</title>. Une main cursive de la 2e moitié du 16e s. a entrepris de revoir et commenter quelques passages du texte (f. 30v, 42-43, 187v-189v). Cette révision s’appuie sur le texte latin.</p>
                     </handDesc>
                     <decoDesc>
                       <decoNote>
-                        <p>Le passage de l’<title>Infortiat</title> aux <title>Tres partes</title> est peu marqué : le saut de colonne (f. 147d) n’a aucun relief puisqu’il intervient en bas de colonne. L’initiale des <title>Tres partes</title> est une lettre bleue et rouge de 5 UR à filigranes rouges se prolongeant dans la marge par des festons (= bande de <emph rend="italic">I</emph>) alternativement bleus et rouges se prolongeant jusqu’au second paragraphe du premier titre. Elle ne se distingue pas des initiales ouvrant un nouveau livre au sein des deux ensembles. En outre, le titre courant du 11<emph rend="upper">e</emph> livre de l’<title>Infortiat</title> est conservé tout au long du premier livre des <title>Tres partes</title>.</p>
-                        <p>Le passage d’un <emph rend="bold">livre</emph> à l’autre est signalé : 1. par une initiale rouge et bleue filigranée de 4 UR se prolongeant en marge par une bande de <emph rend="italic">I</emph> alternativement bleus et rouges ; 2. par le changement de titre courant (sauf erreurs) ; 3. par une rubrique de début du type <quote>Ci commence li tierz livres d’Enforcade</quote>, f. 29d ou <quote>Ci comence li premiers livres de trois parz</quote>, f. 148a.</p>
-                        <p>Les <emph rend="bold">titres</emph> se distinguent par une rubrique disposée en escalier. L’initiale du titre, haute de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu ne se distingue pas de celle du paragraphe.</p>
-                        <p>Chaque <emph rend="bold">paragraphe</emph> est signalé par un retour à la ligne. Le nom de l’auteur de la loi commence par une initiale filigranée de 2 UR. Le début de la loi proprement dite, après le verbe d’énonciation (le plus souvent <quote>dit</quote>), s’ouvre par une lettre nue alternativement rouge ou bleue, d’une UR. L’irrégularité de l’écriture, plus ou moins serrée, permet au copiste de ménager un espace blanc afin de rendre visible le saut de ligne entre chaque paragraphe. Les paragraphes sont structurés par des pieds-de-mouche rouges, souvent suivis d’une lettre rehaussée de rouge. A un niveau inférieur, quelques lettres sont rehaussées de rouge.</p>
+                        <p>Le passage de l’<title>Infortiat</title> aux <title>Tres partes</title> est peu marqué : le saut de colonne (f. 147d) n’a aucun relief puisqu’il intervient en bas de colonne. L’initiale des <title>Tres partes</title> est une lettre bleue et rouge de 5 UR à filigranes rouges se prolongeant dans la marge par des festons (= bande de <hi rend="i">I</hi>) alternativement bleus et rouges se prolongeant jusqu’au second paragraphe du premier titre. Elle ne se distingue pas des initiales ouvrant un nouveau livre au sein des deux ensembles. En outre, le titre courant du 11<hi rend="sup">e</hi> livre de l’<title>Infortiat</title> est conservé tout au long du premier livre des <title>Tres partes</title>.</p>
+                        <p>Le passage d’un <hi rend="b">livre</hi> à l’autre est signalé : 1. par une initiale rouge et bleue filigranée de 4 UR se prolongeant en marge par une bande de <hi rend="i">I</hi> alternativement bleus et rouges ; 2. par le changement de titre courant (sauf erreurs) ; 3. par une rubrique de début du type <quote>Ci commence li tierz livres d’Enforcade</quote>, f. 29d ou <quote>Ci comence li premiers livres de trois parz</quote>, f. 148a.</p>
+                        <p>Les <hi rend="b">titres</hi> se distinguent par une rubrique disposée en escalier. L’initiale du titre, haute de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu ne se distingue pas de celle du paragraphe.</p>
+                        <p>Chaque <hi rend="b">paragraphe</hi> est signalé par un retour à la ligne. Le nom de l’auteur de la loi commence par une initiale filigranée de 2 UR. Le début de la loi proprement dite, après le verbe d’énonciation (le plus souvent <quote>dit</quote>), s’ouvre par une lettre nue alternativement rouge ou bleue, d’une UR. L’irrégularité de l’écriture, plus ou moins serrée, permet au copiste de ménager un espace blanc afin de rendre visible le saut de ligne entre chaque paragraphe. Les paragraphes sont structurés par des pieds-de-mouche rouges, souvent suivis d’une lettre rehaussée de rouge. A un niveau inférieur, quelques lettres sont rehaussées de rouge.</p>
                         <p>Des f. 8 à 27, le décor de couleur n’a pas été réalisé, à l’exception des rubriques copiées par le copiste de ces cahiers. Même le titre courant, réduit au numéro du livre sur les f. rectos, est indiqué à l’encre brune. En revanche, le copiste a dessiné les initiales à l’encre brune des f. 9v-11 avant de s’interrompre. Lettres d’attente à l’encre noire dans les marges de gouttière et de reliure des f. copiés par la première main.</p>
                       </decoNote>
                     </decoDesc>
@@ -1082,7 +1082,7 @@
                       <origPlace>France</origPlace>
                     </origin>
                     <provenance>
-                      <p><label>Provenance</label>mentions de possesseurs du 16<emph rend="upper">e</emph> s. : <q>Pichonus</q> (f. 205) ;
+                      <p><label>Provenance</label>mentions de possesseurs du 16<hi rend="sup">e</hi> s. : <q>Pichonus</q> (f. 205) ;
                         <q>Aemilius S. Ferretus</q> (f. 205). A appartenu aux
                         <orgName role="possesseur" key="Bordeaux, Carmes">Carmes de Bordeaux</orgName>.</p>
                     </provenance>
@@ -1092,8 +1092,8 @@
                       <head>Bibliographie</head>
                       <bibl>J. Delpit, <title>Bibliothèque municipale de Bordeaux. Catalogue des manuscrits</title>, t. I, Bordeaux, 1880, p. 136</bibl>
                       <bibl>C. Couderc, <title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. XXIII, 1894, p. 189-190</bibl>
-                      <bibl>G. Pastore et F. Duval, <title level="a">La tradition française de l’<emph rend="italic">Infortiat</emph> et le
-                        <emph rend="italic">Livre de jostice et de plet</emph></title>, [à paraître] dans <title>Bibliothèque de l’Ecole des chartes</title></bibl>
+                      <bibl>G. Pastore et F. Duval, <title level="a">La tradition française de l’<hi rend="i">Infortiat</hi> et le
+                        <hi rend="i">Livre de jostice et de plet</hi></title>, [à paraître] dans <title>Bibliothèque de l’Ecole des chartes</title></bibl>
                       <bibl><title>Manuscrits médiévaux d’Aquitaine</title> : <ref target="http://manuscrits-drac.bnsa.aquitaine.fr/notices-manuscrit/ms0354-infortiat-traduit-en-franais.aspx">http://manuscrits-drac.bnsa.aquitaine.fr/notices-manuscrit/ms0354-infortiat-traduit-en-franais.aspx</ref></bibl>
                     </listBibl>
                   </additional>
@@ -1171,11 +1171,11 @@
                       <expan><ex>et</ex></expan> l’enfant
                       <expan>q<ex>ua</ex>nt</expan> il nest <expan><ex>et</ex></expan> puis qu’il est nez. </p>
                     <p><label>[25.4.2]</label> Julians. dit. <label>[pr.]</label>
-                      <emph rend="bold">L</emph>i banissemenz de garder l’enfant abat celui qui est fez a la maniere du conseill au senat qui est apelez carboniaus. <label>[1]</label> mes li prevolz doit aucune fois quiter cestui : quant il avient par la simplece a la feme. et sanz malice que li ventres n’est pas veuz. ne li enfes gardez.</p>
+                      <hi rend="b">L</hi>i banissemenz de garder l’enfant abat celui qui est fez a la maniere du conseill au senat qui est apelez carboniaus. <label>[1]</label> mes li prevolz doit aucune fois quiter cestui : quant il avient par la simplece a la feme. et sanz malice que li ventres n’est pas veuz. ne li enfes gardez.</p>
                     <p><label>[25.4.3]</label>
-                      <emph rend="bold">P</emph>aulus dit <emph rend="bold">S</emph>e cil qui est establis a estre hoirs aprés l’enfant qui est encore a nestre. ou cil qui est fais hoirs simplement veult garder le ventre. il doit estre oïz.</p>
+                      <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e cil qui est establis a estre hoirs aprés l’enfant qui est encore a nestre. ou cil qui est fais hoirs simplement veult garder le ventre. il doit estre oïz.</p>
                     <p><label>[25.4.4]</label>
-                      <emph rend="bold">S</emph>cevola dit. cil a qui il fu commandé que s’il moreust sanz <expan>e<ex>n</ex>fanz</expan>. il lessast a sa sereur tout ce qui estoit venu a lui des
+                      <hi rend="b">S</hi>cevola dit. cil a qui il fu commandé que s’il moreust sanz <expan>e<ex>n</ex>fanz</expan>. il lessast a sa sereur tout ce qui estoit venu a lui des
                       <expan>b<ex>ie</ex>ns</expan> au mort. morut et fist son hoir de sa fille qui estoit encore a nestre. et establi que autre fussent hoir <expan>ap<ex>ré</ex>s</expan> lui. et pour ce que la feme au mort disoit qu’ele estoit morte l’en demande se l’em doit
                       <expan>ot<ex>ro</ex>ier</expan> a la sereur ou a son procurateur a garder le ventre selonc la forme du banissement. Et la response est. que en cest cas il samble que il
                       <expan><ex>con</ex>vient</expan> regarder a la forme a celui a qui il fu <expan><ex>com</ex>mandé</expan> que li
@@ -1187,7 +1187,7 @@
                     <label>D. 38.11-15</label>
                     <p><label>[D. 38.11]</label>
                       <emph n="rubrique"><expan>Com<ex>en</ex>t</expan> li mariz et sa feme <expan>so<ex>n</ex>t</expan> hoir li .i. a l’autre .x.</emph>
-                      <emph rend="bold">U</emph>lpians dit. <emph rend="bold">A</emph> ce
+                      <hi rend="b">U</hi>lpians dit. <hi rend="b">A</hi> ce
                       <expan>q<ex>ue</ex></expan> li mariz
                       <expan><ex>et</ex></expan> la feme aient li uns la
                       <expan>possessio<ex>n</ex></expan> des
@@ -1209,7 +1209,7 @@
                       <expan>q<ex>ue</ex></expan> li departemenz ne vaille riens. se il n’est fez en <expan>c<ex>er</ex>taine</expan> maniere. </p>
                     <p><label>[D. 38.12]</label>
                       <emph n="rubrique">De l’eritaige as anciens chevaliers .xi.</emph>
-                      <emph rend="bold">M</emph>arceaus dit. <emph rend="bold">P</emph>aulus <expan><ex>et</ex></expan> meandres es escristrent que l’en doit otroier au <expan>ch<ex>evalie</ex>r</expan> qui a desservi a estre puniz par paine capital.
+                      <hi rend="b">M</hi>arceaus dit. <hi rend="b">P</hi>aulus <expan><ex>et</ex></expan> meandres es escristrent que l’en doit otroier au <expan>ch<ex>evalie</ex>r</expan> qui a desservi a estre puniz par paine capital.
                       <expan>q<ex>ue</ex></expan> il face
                       <expan>testam<ex>en</ex>t</expan>
                       <expan><ex>et</ex></expan> se il est puniz li
@@ -1217,7 +1217,7 @@
                       <expan><ex>et</ex></expan> ne mie por
                       <expan>co<ex>m</ex>mun</expan>.</p>
                     <p>
-                      <emph rend="bold">P</emph>apinians dit. <emph rend="bold">L</emph>i
+                      <hi rend="b">P</hi>apinians dit. <hi rend="b">L</hi>i
                       <expan>b<ex>ie</ex>n</expan>
                       <expan>q<ex>ue</ex></expan> li <expan>ch<ex>evalie</ex>rs</expan> qui est morz avoit conquis par chevalerie ne sont mie a la borse l’<expan>emp<ex>er</ex>eor</expan> se il a aucun qui soit ses hoirs selonc les lois trusqu’a la fin del
                       <expan>qui<ex>n</ex>t</expan> degré. Et se aucuns de ses parenz de cel meismes degré reçoit la possession de ses
@@ -1226,7 +1226,7 @@
                     <p><label>[D. 38.13]</label>
                       <emph n="rubrique">A qui la possession des
                         <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tient</expan> mie .xii.</emph>
-                      <emph rend="bold">J</emph>ulians dit. <emph rend="bold">Q</emph>uant mes sers fu fez hoirs. ge fis par trecherie
+                      <hi rend="b">J</hi>ulians dit. <hi rend="b">Q</hi>uant mes sers fu fez hoirs. ge fis par trecherie
                       <expan>q<ex>ue</ex></expan> li
                       <expan>testam<ex>en</ex>z</expan> ne fust mie muez.
                       <expan><ex>et</ex></expan> puis le franchi. l’en demande se actions li doivent estre vaees. Et la responsse est
@@ -1238,7 +1238,7 @@
                     <p><label>[D. 38.14]</label>
                       <emph n="rubrique"><expan>Q<ex>ua</ex>nt</expan> possession de
                         <expan>b<ex>ie</ex>ns</expan> est donee par les lois ou par le <expan><ex>con</ex>seill</expan> au senat .xiii.</emph>
-                      <emph rend="bold">U</emph>lpians dit. <emph rend="bold">L</emph>i
+                      <hi rend="b">U</hi>lpians dit. <hi rend="b">L</hi>i
                       <expan>p<ex>re</ex>volz</expan> dit.
                       <expan>sico<ex>m</ex>me</expan> il covendra
                       <expan>q<ex>ue</ex></expan> ge <expan>doi<ex>n</ex>gne</expan> possession de <expan>b<ex>ie</ex>ns</expan> par loi ou par le
@@ -1252,7 +1252,7 @@
                       <expan>especialm<ex>en</ex>t</expan>.</p>
                     <p><label>[D. 38.15]</label>
                       <emph n="rubrique">Quele ordre doit estre gardee en la possession des <expan>b<ex>ie</ex>ns</expan> .xiiii.</emph>
-                      <emph rend="bold">M</emph>odestins dit. <expan><emph rend="bold">Q</emph>ua<ex>n</ex>t</expan>
+                      <hi rend="b">M</hi>odestins dit. <expan><hi rend="b">Q</hi>ua<ex>n</ex>t</expan>
                       <expan>au<ex>cun</ex>s</expan> muert sanz fere
                       <expan>testam<ex>en</ex>t</expan> si enfant
                       <expan>q<ex>ue</ex></expan> il a de leal mariaige sont
@@ -2103,35 +2103,35 @@
                           <height quantity="360">360</height>
                           <width quantity="250">250</width>
                         </dimensions>. (justification : 245 x 145 mm.). Réglure à la mine de plomb (1-1-11/0/1-1/J f. 2-93v ; 1-1-11/0/3-3-3/J f. 94-225v). Malgré la modification du schéma de réglure, la justification reste la même : d’après le f. 49, (26 + 245 + 89 mm. [de haut en bas]) x (36 + 66 + 13 + 66 + 69 mm. [de la reliure vers la gouttière]). Trace de piqûres pour le tracé des lignes verticales ainsi que pour la linéation (f. 195). Copié sur 2 col., le ms compte 50 lignes par col., soit une UR de 4,9 mm. pour le corps du texte. La linéation couvre l’entrecolonne. – Foliotation moderne ; titre courant : sur le f. verso, « L » rubriqué ; numéro du livre en capitales romaines bleues et rouges sur le recto. La numérotation des livres reprend à I avec les <title>Tres partes</title>.</note></extent>
-                        <collation>1<emph rend="upper">8</emph> (f. 2-9v [réclame à l’encre noire]), 2<emph rend="upper">8</emph> (f. 10-16v [réclame à l’encre noire ; f. non folioté après f. 12]), 3<emph rend="upper">6</emph> (f. 17-23v [réclame à l’encre noire]), 4<emph rend="upper">8</emph> (f. 24-32v [réclame à l’encre noire]), 5<emph rend="upper">8</emph> (f. 33-40v [réclame à l’encre noire]), 6<emph rend="upper">8</emph> (f. 41-48v [réclame à l’encre noire]), 7<emph rend="upper">8</emph> (f. 49-53v [réclame à l’encre noire ; f. non foliotés après f. 49, 50 et 51]) ; 8<emph rend="upper">8</emph> (f. 54-61v [réclame à l’encre noire]), 9<emph rend="upper">8</emph> (f. 62-69v [réclame à l’encre noire]), 10<emph rend="upper">8</emph> (f. 70-77v [réclame à l’encre noire]), 11<emph rend="upper">8</emph> (f. 78-85v [réclame à l’encre noire]), 12<emph rend="upper">8</emph> (f. 86-93v [réclame à l’encre noire]), 13<emph rend="upper">8</emph> (f. 94-101v [pas de réclame à l’encre noire]), 14<emph rend="upper">8</emph> (f. 102-108v [réclame à l’encre noire ; f. non folioté après le f. 106]), 15<emph rend="upper">10</emph> (f. 107-116v [réclame à l’encre noire]), 16<emph rend="upper">8</emph> (f. 117-123’v [pas de réclame à l’encre noire ; non folioté avec f. 123]), 17<emph rend="upper">8</emph> (f. 124-131v [pas de réclame à l’encre noire]), 18<emph rend="upper">8</emph> (f. 132-139v [réclame à l’encre noire]), 19<emph rend="upper">8</emph> (f. 140-147v [pas de réclame à l’encre noire]), 20<emph rend="upper">10</emph> (f. 148-157v [pas de réclame à l’encre noire]), 21<emph rend="upper">8</emph> (f. 158-165v [réclame à l’encre noire]), 22<emph rend="upper">8</emph> (f. 166-173v [réclame à l’encre noire]), 23<emph rend="upper">8</emph> (f. 174-181v [pas de réclame à l’encre noire]), 24<emph rend="upper">8</emph> (f. 182-189v [pas de réclame à l’encre noire]), 25<emph rend="upper">8</emph> (f. 190-197v [réclame à l’encre noire]), 26<emph rend="upper">6</emph> (f. 198-203v [pas de réclame à l’encre noire]), 27<emph rend="upper">8</emph> (f. 204-211v [pas de réclame à l’encre noire]), 28<emph rend="upper">8</emph> (f. 212-219v [réclame à l’encre noire]), 29<emph rend="upper">6</emph> (f. 220-225v [pas de réclame à l’encre noire]) ; réclame à l’encre noire centrée sous la 2<emph rend="upper">e</emph> col. du verso ; traces de signatures à la mine de plomb.</collation>
+                        <collation>1<hi rend="sup">8</hi> (f. 2-9v [réclame à l’encre noire]), 2<hi rend="sup">8</hi> (f. 10-16v [réclame à l’encre noire ; f. non folioté après f. 12]), 3<hi rend="sup">6</hi> (f. 17-23v [réclame à l’encre noire]), 4<hi rend="sup">8</hi> (f. 24-32v [réclame à l’encre noire]), 5<hi rend="sup">8</hi> (f. 33-40v [réclame à l’encre noire]), 6<hi rend="sup">8</hi> (f. 41-48v [réclame à l’encre noire]), 7<hi rend="sup">8</hi> (f. 49-53v [réclame à l’encre noire ; f. non foliotés après f. 49, 50 et 51]) ; 8<hi rend="sup">8</hi> (f. 54-61v [réclame à l’encre noire]), 9<hi rend="sup">8</hi> (f. 62-69v [réclame à l’encre noire]), 10<hi rend="sup">8</hi> (f. 70-77v [réclame à l’encre noire]), 11<hi rend="sup">8</hi> (f. 78-85v [réclame à l’encre noire]), 12<hi rend="sup">8</hi> (f. 86-93v [réclame à l’encre noire]), 13<hi rend="sup">8</hi> (f. 94-101v [pas de réclame à l’encre noire]), 14<hi rend="sup">8</hi> (f. 102-108v [réclame à l’encre noire ; f. non folioté après le f. 106]), 15<hi rend="sup">10</hi> (f. 107-116v [réclame à l’encre noire]), 16<hi rend="sup">8</hi> (f. 117-123’v [pas de réclame à l’encre noire ; non folioté avec f. 123]), 17<hi rend="sup">8</hi> (f. 124-131v [pas de réclame à l’encre noire]), 18<hi rend="sup">8</hi> (f. 132-139v [réclame à l’encre noire]), 19<hi rend="sup">8</hi> (f. 140-147v [pas de réclame à l’encre noire]), 20<hi rend="sup">10</hi> (f. 148-157v [pas de réclame à l’encre noire]), 21<hi rend="sup">8</hi> (f. 158-165v [réclame à l’encre noire]), 22<hi rend="sup">8</hi> (f. 166-173v [réclame à l’encre noire]), 23<hi rend="sup">8</hi> (f. 174-181v [pas de réclame à l’encre noire]), 24<hi rend="sup">8</hi> (f. 182-189v [pas de réclame à l’encre noire]), 25<hi rend="sup">8</hi> (f. 190-197v [réclame à l’encre noire]), 26<hi rend="sup">6</hi> (f. 198-203v [pas de réclame à l’encre noire]), 27<hi rend="sup">8</hi> (f. 204-211v [pas de réclame à l’encre noire]), 28<hi rend="sup">8</hi> (f. 212-219v [réclame à l’encre noire]), 29<hi rend="sup">6</hi> (f. 220-225v [pas de réclame à l’encre noire]) ; réclame à l’encre noire centrée sous la 2<hi rend="sup">e</hi> col. du verso ; traces de signatures à la mine de plomb.</collation>
                       </supportDesc>
                     </objectDesc>
                     <handDesc hands="2">
                       <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">semitextualis libraria</term> ; changement de main à partir du f. 94a (confirmé par l’analyse scriptologique, correspond à un changement de cahier et à un changement de schéma de réglure). Coefficient d’abréviation : main 1 : 9,3% (7,5% en excluant les <quote>et</quote>) ; main 2 : 12,7% (11% en excluant les <quote>et</quote>).</p>
                       <p><label>Scripta</label>les aires septentrionales et orientales sont d’emblée exclues (ex. <quote>fet</quote>,
                         <quote>fere</quote>, cf. <bibl>Dees 1980, c. 248</bibl> ;
-                        <quote>meson</quote>, cf. <bibl>ibid., c. 171</bibl>), de même que le poitevin-saintongeais et l’anglo-normand dans l’aire occidentale. Les extraits édités ne livrent aucun des traits suivants, caractéristiques du normand : absence de palatalisation de /ka-/, /ga-/, palatalisation en chuintante de /ki-/ ou /ke-/, absence de l’effet de Bartsch, désinence de la P4 en –<emph rend="italic">on</emph> ou –<emph rend="italic">um</emph>). On peut hésiter entre une localisation en région parisienne ou en Orléanais, mais on ne rencontre pas les influences occidentales qui font l’originalité de la scripta orléanaise par rapport à la scripta parisienne (cf.
+                        <quote>meson</quote>, cf. <bibl>ibid., c. 171</bibl>), de même que le poitevin-saintongeais et l’anglo-normand dans l’aire occidentale. Les extraits édités ne livrent aucun des traits suivants, caractéristiques du normand : absence de palatalisation de /ka-/, /ga-/, palatalisation en chuintante de /ki-/ ou /ke-/, absence de l’effet de Bartsch, désinence de la P4 en –<hi rend="i">on</hi> ou –<hi rend="i">um</hi>). On peut hésiter entre une localisation en région parisienne ou en Orléanais, mais on ne rencontre pas les influences occidentales qui font l’originalité de la scripta orléanaise par rapport à la scripta parisienne (cf.
                         <bibl>Simoni-Aurembou, <title>LRL</title>, t. II/2, 1995, p. 352-354</bibl> ; <bibl>Gossen, <title>Skriptastudien</title>, 1967, p. 187-211</bibl>). Les cartes de Dees 1980 sont également plus favorables à la région parisienne : <list rend="bulleted">
-                          <item><bibl>Dees 1980, c. 53</bibl> : formes de l’article contracté « en + le » : <emph rend="italic">el</emph> /
-                            <emph rend="italic">ou</emph> (forme du ms) (77% Normandie, 32% région parisienne, Orléanais 3%)</item>
-                          <item><bibl>Dees 1980, c. 50</bibl> : formes de l’article contracté « a + les » : <emph rend="italic">as</emph> /
-                            <emph rend="italic">aus</emph> (forme du ms) (22% Normandie, 64% région parisienne, Orléanais 63%)</item>
-                          <item><bibl>Dees 1980, c. 168</bibl> : alternance –<emph rend="italic">ieu</emph>- / -<emph rend="italic">eu</emph>- (forme du ms) dans <emph rend="italic">lieu</emph> (63% Normandie, 42 % région parisienne, 6% Orléanais)</item>
-                          <item><bibl>Dees 1980, c. 158</bibl> : alternance <emph rend="italic">heir</emph>, <emph rend="italic">air</emph>, <emph rend="italic">hers</emph>, <emph rend="italic">etc</emph>. / <emph rend="italic">hoir</emph> (forme du ms), <emph rend="italic">oyrs</emph>, <emph rend="italic">hoer</emph>, <emph rend="italic">etc</emph>. (59% Normandie, 38% région parisienne, 50% Orléanais ; 97% Mayenne, Sarthe ; 99 % Maine-et-Loire)</item>
+                          <item><bibl>Dees 1980, c. 53</bibl> : formes de l’article contracté « en + le » : <hi rend="i">el</hi> /
+                            <hi rend="i">ou</hi> (forme du ms) (77% Normandie, 32% région parisienne, Orléanais 3%)</item>
+                          <item><bibl>Dees 1980, c. 50</bibl> : formes de l’article contracté « a + les » : <hi rend="i">as</hi> /
+                            <hi rend="i">aus</hi> (forme du ms) (22% Normandie, 64% région parisienne, Orléanais 63%)</item>
+                          <item><bibl>Dees 1980, c. 168</bibl> : alternance –<hi rend="i">ieu</hi>- / -<hi rend="i">eu</hi>- (forme du ms) dans <hi rend="i">lieu</hi> (63% Normandie, 42 % région parisienne, 6% Orléanais)</item>
+                          <item><bibl>Dees 1980, c. 158</bibl> : alternance <hi rend="i">heir</hi>, <hi rend="i">air</hi>, <hi rend="i">hers</hi>, <hi rend="i">etc</hi>. / <hi rend="i">hoir</hi> (forme du ms), <hi rend="i">oyrs</hi>, <hi rend="i">hoer</hi>, <hi rend="i">etc</hi>. (59% Normandie, 38% région parisienne, 50% Orléanais ; 97% Mayenne, Sarthe ; 99 % Maine-et-Loire)</item>
                         </list> D’après les extraits transcrits, on observe quelques différences entre la main 1 et la main 2 :
                         <quote>solement</quote> (main 1) / <quote>seulement</quote> (main 2) ; <quote>tens</quote> (main 1) / <quote>tans</quote> (main 2) ; <quote>coseil</quote> (main 1) /
-                        <quote>conseill</quote> (main 2) ; <quote>possession</quote> (main 1) / <quote>posession</quote> (main 2) ; uniquement formes en –<emph rend="italic">age</emph> (main 1) / utilisation de formes en –<emph rend="italic">aige</emph> (main 2) :
-                        <quote>mariaige</quote>, <quote>heritaige</quote> ; bases du verbe <emph rend="italic">co(n)venir</emph> en <emph rend="italic">coven</emph>-, <emph rend="italic">covien</emph>- (main 1) / 1 occ. du verbe en <emph rend="italic">conv</emph>- (main 2). Pour le reste, les deux mains sont scriptologiquement proches et concordantes pour la localisation du manuscrit. L’alternance -<emph rend="italic">age</emph> / -<emph rend="italic">aige</emph>, attestée uniquement sous la main 2, témoigne peut-être d’une influence orléanaise, mais le fait est ténu. Il semble raisonnable de situer la copie du manuscrit en région parisienne. </p>
+                        <quote>conseill</quote> (main 2) ; <quote>possession</quote> (main 1) / <quote>posession</quote> (main 2) ; uniquement formes en –<hi rend="i">age</hi> (main 1) / utilisation de formes en –<hi rend="i">aige</hi> (main 2) :
+                        <quote>mariaige</quote>, <quote>heritaige</quote> ; bases du verbe <hi rend="i">co(n)venir</hi> en <hi rend="i">coven</hi>-, <hi rend="i">covien</hi>- (main 1) / 1 occ. du verbe en <hi rend="i">conv</hi>- (main 2). Pour le reste, les deux mains sont scriptologiquement proches et concordantes pour la localisation du manuscrit. L’alternance -<hi rend="i">age</hi> / -<hi rend="i">aige</hi>, attestée uniquement sous la main 2, témoigne peut-être d’une influence orléanaise, mais le fait est ténu. Il semble raisonnable de situer la copie du manuscrit en région parisienne. </p>
                       <p><label>Traces de lecture</label>quelques intitulés de titres en latin dans le coin supérieur droit en <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term>, d’une main médiévale différente de celles des copistes (f. 8, 49, 61, 88...) ; de cette même main, sujets de paragraphes notés en marge. Aujourd’hui, ces traces ont été rognées et ont disparu en grande partie. <quote>hic est § li, cuius principium hic omittit</quote> f. 156a.</p>
                     </handDesc>
                     <decoDesc>
                       <decoNote>
                         <label>Structure</label>
-                        <p>Le <emph rend="bold">manuscrit</emph> s’ouvre par une miniature, introduisant au contenu du ms. Chacun des <emph rend="bold">textes</emph> (<title>Infortiat</title> et
+                        <p>Le <hi rend="b">manuscrit</hi> s’ouvre par une miniature, introduisant au contenu du ms. Chacun des <hi rend="b">textes</hi> (<title>Infortiat</title> et
                           <title>Tres partes</title>) est distingué par une rubrique et par la numérotation des titres courants, qui recommence à I au début des <title>Tres partes</title>. De même, un saut de page (f. 157v blanc) sépare les deux textes.</p>
-                        <p>Le passage d’un <emph rend="bold">livre</emph> à l’autre est signalé : 1. par des lettres filigranées alternativement rouges à filigrane bleu et bleues à filigrane rouge allongées sur 12 UR formant ULPIANS (f. 12’b, 29b, 42d, 59d, 74b, 83d, 93a, 106a, 123’b, 140d, 158a, 161b, 176a, 183a) ; 2. par le changement de titre courant (<title>Infortiat</title> numéroté de I à XI, <title>Tres partes</title> de I à IV) ; 3. pour la plupart par une rubrique de début et de fin du type <quote>Ci comence li premiers livres d’Enforcade</quote>, f. 2a ; <quote>Ci fenist li segonz livres d’Enforcade</quote>, f. 29a, avec confusion dans la numérotation des livres 8 à 11 de l’<title>Infortiat</title> et dans les numéros de livre du <title>Digeste</title> en début de chacun des livres des <title>Tres partes</title>.</p>
-                        <p>Les <emph rend="bold">titres</emph> se distinguent par une rubrique disposée en escalier. L’initiale du nom de l’auteur de la loi est une initiale filigranée de 2 UR, soit bleue à filigrane rouge, soit rouge à filigrane bleu.</p>
-                        <p>Chaque <emph rend="bold">paragraphe</emph> est signalé par un retour à la ligne. Le nom de l’auteur de la loi commence par une initiale filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Le début de la loi proprement dite, après le verbe d’énonciation (le plus souvent <quote>dit</quote>), s’ouvre par une lettre nue alternativement rouge ou bleue, d’une UR. Par souci de mise en page, lorsqu’un paragraphe se termine en bout de ligne, le copiste ménage un saut de ligne à la moitié de la première ligne du paragraphe suivant, afin que le découpage des paragraphes structure la page.</p>
+                        <p>Le passage d’un <hi rend="b">livre</hi> à l’autre est signalé : 1. par des lettres filigranées alternativement rouges à filigrane bleu et bleues à filigrane rouge allongées sur 12 UR formant ULPIANS (f. 12’b, 29b, 42d, 59d, 74b, 83d, 93a, 106a, 123’b, 140d, 158a, 161b, 176a, 183a) ; 2. par le changement de titre courant (<title>Infortiat</title> numéroté de I à XI, <title>Tres partes</title> de I à IV) ; 3. pour la plupart par une rubrique de début et de fin du type <quote>Ci comence li premiers livres d’Enforcade</quote>, f. 2a ; <quote>Ci fenist li segonz livres d’Enforcade</quote>, f. 29a, avec confusion dans la numérotation des livres 8 à 11 de l’<title>Infortiat</title> et dans les numéros de livre du <title>Digeste</title> en début de chacun des livres des <title>Tres partes</title>.</p>
+                        <p>Les <hi rend="b">titres</hi> se distinguent par une rubrique disposée en escalier. L’initiale du nom de l’auteur de la loi est une initiale filigranée de 2 UR, soit bleue à filigrane rouge, soit rouge à filigrane bleu.</p>
+                        <p>Chaque <hi rend="b">paragraphe</hi> est signalé par un retour à la ligne. Le nom de l’auteur de la loi commence par une initiale filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Le début de la loi proprement dite, après le verbe d’énonciation (le plus souvent <quote>dit</quote>), s’ouvre par une lettre nue alternativement rouge ou bleue, d’une UR. Par souci de mise en page, lorsqu’un paragraphe se termine en bout de ligne, le copiste ménage un saut de ligne à la moitié de la première ligne du paragraphe suivant, afin que le découpage des paragraphes structure la page.</p>
                         <p>Les paragraphes sont structurés par des pieds-de-mouche alternativement bleus et rouges. Quelques f. des <title>Tres partes</title> présentent des rehauts de rouge : f. 158, 174, 181r-v, 184-185, 187v, 188, 190...).</p>
                       </decoNote>
                       <decoNote>
@@ -2171,8 +2171,8 @@
                       <emph n="rubrique">De regarder le ventre a la feme qui dit
                         <expan>q<ex>ue</ex></expan> ele est grosse</emph>
                       <label>[25.4.1]</label>
-                      <emph rend="bold">U</emph>lpians dit. <label>[pr.]</label>
-                      <emph rend="bold">I</emph>l avint el tens as sainz freres
+                      <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
+                      <hi rend="b">I</hi>l avint el tens as sainz freres
                       <expan>q<ex>ue</ex></expan> uns hons disoit
                       <expan>q<ex>ue</ex></expan> sa feme estoit grosse.
                       <expan><ex>et</ex></expan> ele le nioit. Et
@@ -2268,14 +2268,14 @@
                       <expan>q<ex>ua</ex>nt</expan> il nest <expan><ex>et</ex></expan>
                       <expan>p<ex>uis</ex></expan> qu’il est nez.</p>
                     <p><label>[25.4.2]</label>
-                      <emph rend="bold">J</emph>ulians dit. <emph rend="bold">L</emph>i banissemenz de garder l’enfant abat celui qui est fez a la
+                      <hi rend="b">J</hi>ulians dit. <hi rend="b">L</hi>i banissemenz de garder l’enfant abat celui qui est fez a la
                       <expan>man<ex>ie</ex>re</expan> del conseil au senat qui est apelez carbonians. Mes li prevoz doit aucune foiz quiter cestui
                       <expan>q<ex>ua</ex>nt</expan> il avient par la simplece a la feme. <expan><ex>et</ex></expan> sanz malice
                       <expan>q<ex>ue</ex></expan> li ventres n’est pas veuz. ne li enfes gardez.</p>
                     <p><label>[25.4.3]</label>
-                      <emph rend="bold">P</emph>aulus dit. <emph rend="bold">S</emph>e cil qui est establiz a estre hoirs aprés l’enfant qui est encore a nestre. ou cil qui est fez hoirs simplement velt garder le ventre il doit estre oïz.</p>
+                      <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e cil qui est establiz a estre hoirs aprés l’enfant qui est encore a nestre. ou cil qui est fez hoirs simplement velt garder le ventre il doit estre oïz.</p>
                     <p><label>[25.4.4]</label>
-                      <emph rend="bold">S</emph>cevola dit. <emph rend="bold">Ci</emph>l a qui il fu comandé <expan>q<ex>ue</ex></expan> se il moreust sanz enfanz il lessast a sa sereur tout ce qui estoit venu a lui des biens au mort morut. <expan><ex>et</ex></expan> fist son hoir de sa fille qui estoit encore a nestre. <expan><ex>et</ex></expan> establi <expan>q<ex>ue</ex></expan> autre fussent hoir aprés lui. Et por ce <expan>q<ex>ue</ex></expan> la feme au mort disoit
+                      <hi rend="b">S</hi>cevola dit. <hi rend="b">Ci</hi>l a qui il fu comandé <expan>q<ex>ue</ex></expan> se il moreust sanz enfanz il lessast a sa sereur tout ce qui estoit venu a lui des biens au mort morut. <expan><ex>et</ex></expan> fist son hoir de sa fille qui estoit encore a nestre. <expan><ex>et</ex></expan> establi <expan>q<ex>ue</ex></expan> autre fussent hoir aprés lui. Et por ce <expan>q<ex>ue</ex></expan> la feme au mort disoit
                       <expan>q<ex>ue</ex></expan> ele estoit morte. l’en demande se l’en doit otroier a la sereur ou a son procurateur a garder le ventre selonc la forme del banissement. Et la response est
                       <expan>q<ex>ue</ex></expan> en cest cas il semble
                       <expan>q<ex>ue</ex></expan> il covient regarder a la cure a celui a qui il fu comandé <expan>q<ex>ue</ex></expan> li heritages fust renduz. <expan><ex>et</ex></expan> selonc ce doit l’en establir <expan>q<ex>ua</ex>nt</expan> la cause est coneue.</p>
@@ -2283,20 +2283,20 @@
                   <note type="edition" n="2">
                     <label>D. 28.1</label>
                     <p><label>[1]</label>
-                      <emph rend="bold">U</emph>lpians dit <emph rend="bold">T</emph>estamenz est droite sentence de nostre
+                      <hi rend="b">U</hi>lpians dit <hi rend="b">T</hi>estamenz est droite sentence de nostre
                       <expan>vole<ex>n</ex>té</expan>. de ce
                       <expan>q<ex>ue</ex></expan> aucuns vuelt
                       <expan>q<ex>ue</ex></expan> soit fet aprés sa mort.</p>
                     <p><label>[2]</label>
-                      <emph rend="bold">L</emph>abeo dit. <emph rend="bold">I</emph>l covient regarder en celui qui fet testament non pas a la santé del cors. mes a l’enterineté de la pensee.</p>
+                      <hi rend="b">L</hi>abeo dit. <hi rend="b">I</hi>l covient regarder en celui qui fet testament non pas a la santé del cors. mes a l’enterineté de la pensee.</p>
                     <p><label>[3]</label>
-                      <emph rend="bold">U</emph>lpians dit. <emph rend="bold">F</emph>ere testament n’est pas del <expan>p<ex>ri</ex>vé</expan> droit. mes del comun.</p>
+                      <hi rend="b">U</hi>lpians dit. <hi rend="b">F</hi>ere testament n’est pas del <expan>p<ex>ri</ex>vé</expan> droit. mes del comun.</p>
                     <p><label>[4]</label>
-                      <emph rend="bold">G</emph>aius dit. <emph rend="bold">S</emph>e nos demandons se <expan>testam<ex>en</ex>t</expan> vaut : nos devons
+                      <hi rend="b">G</hi>aius dit. <hi rend="b">S</hi>e nos demandons se <expan>testam<ex>en</ex>t</expan> vaut : nos devons
                       <expan>p<ex>re</ex>mierement</expan>
                       <expan>enq<ex>ui</ex>erre</expan> se cil qui le fist avoit pooir de fere <expan>testame<ex>n</ex>t</expan>. Et aprés se il le fist selonc les rieules del droit citoien.</p>
                     <p><label>[5]</label>
-                      <emph rend="bold">G</emph>aius dit. <emph rend="bold">V</emph>oions en <expan>q<ex>ue</ex>l</expan> aage li home ou les femes pueent avoir testament. Et il est voirs <expan>q<ex>ue</ex></expan> l’en doit entendre es homes tant <expan>q<ex>ue</ex></expan> il aient .xiiii. anz. <expan><ex>et</ex></expan> es femes tant
+                      <hi rend="b">G</hi>aius dit. <hi rend="b">V</hi>oions en <expan>q<ex>ue</ex>l</expan> aage li home ou les femes pueent avoir testament. Et il est voirs <expan>q<ex>ue</ex></expan> l’en doit entendre es homes tant <expan>q<ex>ue</ex></expan> il aient .xiiii. anz. <expan><ex>et</ex></expan> es femes tant
                       <expan>q<ex>ue</ex></expan> eles aient .xv<ref type="note" target="#rouen_794_note_1">1</ref><note type="bas_page" xml:id="rouen_794_note_1"><app>
                         <rdg wit="#B">xii</rdg>
                         <rdg xml:lang="lat">duodecim</rdg>
@@ -2312,24 +2312,24 @@
                       </app></note> les ait acompliz. si come se il fu nez es kalendes de genvier. <expan><ex>et</ex></expan> il fist testament a cel jor meismes au chief de .xiiii. anz. Et ge di
                       <expan>q<ex>ue</ex></expan> li testamenz vaut. Et encor di ge plus <expan>q<ex>ue</ex></expan> se il le fist le jor devant les kalendes aprés la siste heure de la nuit li testamenz vaut. Car il semble ja <expan>q<ex>ue</ex></expan> il ait acompli le .xiiii.sieme an. sicome il plest a marceau.</p>
                     <p><label>[6]</label>
-                      <emph rend="bold">G</emph>aius dit. <label>[6.pr.]</label>
-                      <emph rend="bold">C</emph>il qui est en la poesté son pere n’a pas pooir de fere testament. Neis se li <expan>p<ex>er</ex>es</expan> li otroie. <label>[6.1]</label> li sorz <expan><ex>et</ex></expan> li muz ne pueent fere testament. Mes se aucuns amuist ou asourdist par maladie ou par aucune maladie<ref type="note" target="#rouen_794_note_4">4</ref><note type="bas_page" xml:id="rouen_794_note_4"><app>
+                      <hi rend="b">G</hi>aius dit. <label>[6.pr.]</label>
+                      <hi rend="b">C</hi>il qui est en la poesté son pere n’a pas pooir de fere testament. Neis se li <expan>p<ex>er</ex>es</expan> li otroie. <label>[6.1]</label> li sorz <expan><ex>et</ex></expan> li muz ne pueent fere testament. Mes se aucuns amuist ou asourdist par maladie ou par aucune maladie<ref type="note" target="#rouen_794_note_4">4</ref><note type="bas_page" xml:id="rouen_794_note_4"><app>
                         <rdg wit="#B">m. ou par aucune aventure p.</rdg>
                         <rdg xml:lang="lat">aut quolibet alio casu</rdg>
                       </app></note> puis <expan>q<ex>ue</ex></expan> il a fet son testament. por ce n’est pas li testament quassez.</p>
                     <p><label>[7]</label>
-                      <emph rend="bold">M</emph>arcus dit. <emph rend="bold">S</emph>e li muz ou li sorz empetre aucune chose envers l’empereor
+                      <hi rend="b">M</hi>arcus dit. <hi rend="b">S</hi>e li muz ou li sorz empetre aucune chose envers l’empereor
                       <expan>q<ex>ue</ex></expan> il li loise a fere testament li testamenz vaut.</p>
                     <p><label>[8]</label>
-                      <emph rend="bold">G</emph>aius dit <label>[8.pr.]</label>
-                      <emph rend="bold">L</emph>i testamenz <expan>q<ex>ue</ex></expan> aucuns fet tant come il est en la poesté a ses anemis ne vaut riens. Ja soit ce <expan>q<ex>ue</ex></expan> il reviegne.
+                      <hi rend="b">G</hi>aius dit <label>[8.pr.]</label>
+                      <hi rend="b">L</hi>i testamenz <expan>q<ex>ue</ex></expan> aucuns fet tant come il est en la poesté a ses anemis ne vaut riens. Ja soit ce <expan>q<ex>ue</ex></expan> il reviegne.
                       <label>[8.1]</label> Se la comune de feu ou d’eve est deffendue a aucun. li testamenz qu’il fist avant. ne cil
                       <expan>q<ex>ue</ex></expan> il mist<ref type="note" target="#rouen_794_note_5">5</ref><note type="bas_page" xml:id="rouen_794_note_5"><app>
-                        <rdg wit="#B">il mit <emph rend="italic">corr. à date plus récente dans l’interligne en</emph> fist</rdg>
+                        <rdg wit="#B">il mit <hi rend="i">corr. à date plus récente dans l’interligne en</hi> fist</rdg>
                         <rdg xml:lang="lat">nec id quod postea fecerit</rdg>
                       </app></note>
                       <expan>ava<ex>n</ex>t</expan><ref type="note" target="#rouen_794_note_6">6</ref><note type="bas_page" xml:id="rouen_794_note_6"><app>
-                        <rdg wit="#B"><emph rend="italic">corr. dans l’interligne à date récente en</emph> despuis</rdg>
+                        <rdg wit="#B"><hi rend="i">corr. dans l’interligne à date récente en</hi> despuis</rdg>
                         <rdg xml:lang="lat">nec id quod postea fecerit</rdg>
                       </app></note> ne vaut riens. Car li bien
                       <expan>q<ex>ue</ex></expan> il avoit
@@ -2339,20 +2339,20 @@
                       <expan>q<ex>ue</ex></expan> il soit
                       <expan>da<ex>m</ex>pnez</expan> ses testamenz valdra.</p>
                     <p><label>[10]</label>
-                      <emph rend="bold">P</emph>aulus dit <emph rend="bold">C</emph>il qui a perdu les mains puet fere testament. ja soit ce
+                      <hi rend="b">P</hi>aulus dit <hi rend="b">C</hi>il qui a perdu les mains puet fere testament. ja soit ce
                       <expan>q<ex>ue</ex></expan> il ne le puet escrire.</p>
                     <p><label>[11]</label>
-                      <emph rend="bold">U</emph>lpians dit. <emph rend="bold">E</emph>staage ne puet fere <expan>testam<ex>en</ex>t</expan> se il ne li<ref type="note" target="#rouen_794_note_7">7</ref><note type="bas_page" xml:id="rouen_794_note_7"><app>
+                      <hi rend="b">U</hi>lpians dit. <hi rend="b">E</hi>staage ne puet fere <expan>testam<ex>en</ex>t</expan> se il ne li<ref type="note" target="#rouen_794_note_7">7</ref><note type="bas_page" xml:id="rouen_794_note_7"><app>
                         <rdg wit="#B">ne lor est</rdg>
                         <rdg xml:lang="lat">nisi eis permittitur</rdg>
                       </app></note> est otroié.</p>
                     <p><label>[12]</label>
-                      <emph rend="bold">U</emph>lpians<ref type="note" target="#rouen_794_note_8">8</ref><note type="bas_page" xml:id="rouen_794_note_8"><app>
+                      <hi rend="b">U</hi>lpians<ref type="note" target="#rouen_794_note_8">8</ref><note type="bas_page" xml:id="rouen_794_note_8"><app>
                         <rdg wit="#B">Julians d.</rdg>
                         <rdg xml:lang="lat">Julianus</rdg>
-                      </app></note> dit. <emph rend="bold">L</emph>i testament a cels qui sont mort en la poesté a lor anemis sont confermé par la loi que cornelius fist. autresi come se cil qui les firent ne fussent
+                      </app></note> dit. <hi rend="b">L</hi>i testament a cels qui sont mort en la poesté a lor anemis sont confermé par la loi que cornelius fist. autresi come se cil qui les firent ne fussent
                       <expan>onq<ex>ue</ex>s</expan> venu en la poesté a lor anemis sont confermé par la loi <expan>q<ex>ue</ex></expan> cornelius fist. autresi come se cil qui les <expan>fire<ex>n</ex>t</expan> ne fussent <expan>onq<ex>ue</ex>s</expan> venuz en la poesté a lor anemis. sont confermez par la loi <expan>q<ex>ue</ex></expan> cornelius <pb n="f. 43b"/> fist. autresi come se cil qui les firent ne fussent <expan>onq<ex>ue</ex>s</expan> venu en la poesté a lor anemis<ref type="note" target="#rouen_794_note_9">9</ref><note type="bas_page" xml:id="rouen_794_note_9"><app>
-                        <rdg wit="#B">sont confermé... a lor anemis <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">sont confermé... a lor anemis <hi rend="i">om.</hi></rdg>
                       </app></note>. Et lor heritages apartient a cels de qui il
                       <expan>fire<ex>n</ex>t</expan> lor hoirs. li sers de qui cil qui morut a<ref type="note" target="#rouen_794_note_10">10</ref><note type="bas_page" xml:id="rouen_794_note_10"><app>
                         <rdg wit="#B">m. en la</rdg>
@@ -2362,33 +2362,33 @@
                       </app></note> anemis fist son hoir sera franchiz
                       <expan><ex>et</ex></expan> hoirs vueille ou ne vueille. Ja soit ce <expan>q<ex>ue</ex></expan> l’en ne dit pas proprement
                       <expan>q<ex>ue</ex></expan> il soit hoirs necessaires. Car li filz a celui qui morut en la poesté a ses anemis<ref type="note" target="#rouen_794_note_12">12</ref><note type="bas_page" xml:id="rouen_794_note_12"><app>
-                        <rdg wit="#B">fist son hoir... anemis <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">fist son hoir... anemis <hi rend="i">om.</hi></rdg>
                       </app></note> est obligiez a l’eritage malgré suen. Ja soit ce
                       <expan>q<ex>ue</ex></expan> l’en ne puisse pas dire
                       <expan>q<ex>ue</ex></expan> il soit propres hoirs dés
                       <expan>q<ex>ue</ex></expan> il n’estoit en sa poesté
                       <expan>q<ex>ua</ex>nt</expan> il morut.</p>
                     <p><label>[13]</label>
-                      <emph rend="bold">M</emph>arceaus dit <label>[13.pr.]</label>
-                      <emph rend="bold">C</emph>il qui sont pris de larrons pueent fere testament por ce <expan>q<ex>ue</ex></expan> il sont franc.
+                      <hi rend="b">M</hi>arceaus dit <label>[13.pr.]</label>
+                      <hi rend="b">C</hi>il qui sont pris de larrons pueent fere testament por ce <expan>q<ex>ue</ex></expan> il sont franc.
                       <label>[13.1]</label> Et cil qui muerent loiaument
                       <expan>ent<ex>re</ex></expan> estranges genz pueent fere testament. ¶ <label>[13.2]</label> Se aucuns fu dampnez de crime capital. <expan><ex>et</ex></expan> il apela.
                       <expan><ex>et</ex></expan> il morut ainz
                       <expan>q<ex>ue</ex></expan> li apiaus fust examinez. ses testamenz vaut.</p>
                     <p><label>[14]</label>
-                      <emph rend="bold">P</emph>aulus dit. <emph rend="bold">S</emph>e cil qui fu franchi el <expan>testam<ex>en</ex>t</expan> son seignor ne set pas <expan>q<ex>ue</ex></expan> ses sires soit morz. Et
+                      <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e cil qui fu franchi el <expan>testam<ex>en</ex>t</expan> son seignor ne set pas <expan>q<ex>ue</ex></expan> ses sires soit morz. Et
                       <expan>q<ex>ue</ex></expan> ses heritages ait esté receuz : il ne puet fere testament. Ja soit ce <expan>q<ex>ue</ex></expan> il soit franchiz hors d’autrui poesté. Car cil qui n’est pas
                       <expan>certai<ex>n</ex>s</expan> de son estat ne puet fere<ref type="note" target="#rouen_794_note_13">13</ref><note type="bas_page" xml:id="rouen_794_note_13"><app>
                         <rdg wit="#B">p. pas f.</rdg>
                       </app></note> certaine loi en son testament.</p>
                     <p><label>[15]</label>
-                      <emph rend="bold">U</emph>lpians dit. cil qui doutent de lor estat ou qui en sont en erreur ne pueent pas fere testament. si come<ref type="note" target="#rouen_794_note_14">14</ref><note type="bas_page" xml:id="rouen_794_note_14"><app>
+                      <hi rend="b">U</hi>lpians dit. cil qui doutent de lor estat ou qui en sont en erreur ne pueent pas fere testament. si come<ref type="note" target="#rouen_794_note_14">14</ref><note type="bas_page" xml:id="rouen_794_note_14"><app>
                         <rdg wit="#B">c. se li</rdg>
                         <rdg xml:lang="lat">ut divus Pius rescripsit</rdg>
                       </app></note> li empereres pius escrist.</p>
                     <p><label>[16]</label>
-                      <emph rend="bold">P</emph>omponius dit. <label>[16.pr.]</label>
-                      <emph rend="bold">L</emph>i filz qui est en bail
+                      <hi rend="b">P</hi>omponius dit. <label>[16.pr.]</label>
+                      <hi rend="b">L</hi>i filz qui est en bail
                       <expan><ex>et</ex></expan> autrui serf.
                       <expan><ex>et</ex></expan> cil qui est el ventre sa mere.
                       <expan><ex>et</ex></expan> li sorz pueent partir en testament. <expan>q<ex>ue</ex></expan> ja soit ce
@@ -2396,11 +2396,11 @@
                       <expan>Neporq<ex>ua</ex>nt</expan> il pueent avoir par testament ou a els ou a autres <label>[16.1]</label> si come marceaus dit. ¶ li forsenez puet partir en testament. Ja soit ce
                       <expan>q<ex>ue</ex></expan> il ne puet fere testament. Car personielx actions sont aquises a cels qui sont de saine pensee. Ja soit ce <expan>q<ex>ue</ex></expan> il n’en sevent riens.</p>
                     <p><label>[17]</label>
-                      <expan><emph rend="bold">C</emph>alistrat<ex>us</ex></expan> dit.
-                      <emph rend="bold">C</emph>il qui chiet en frenesie par maladie ne puet pas fere <expan>testam<ex>en</ex>t</expan> en cel tens.</p>
+                      <expan><hi rend="b">C</hi>alistrat<ex>us</ex></expan> dit.
+                      <hi rend="b">C</hi>il qui chiet en frenesie par maladie ne puet pas fere <expan>testam<ex>en</ex>t</expan> en cel tens.</p>
                     <p><label>[18]</label>
-                      <emph rend="bold">U</emph>lpians dit. <label>[18.pr.]</label>
-                      <emph rend="bold">C</emph>il qui ses choses sont deffendues par la loi ne puet pas fere <expan>testam<ex>en</ex>t</expan> : Et se il le fet il ne vaut riens. mes cil <expan>q<ex>ue</ex></expan> il fist devant cil vaudra. il ne porra pas estre apelez a estre tesmoinz de testament dés <expan>q<ex>ue</ex></expan> il ne puet fere testament. ¶ <label>[18.1]</label> Se aucuns est dampnez
+                      <hi rend="b">U</hi>lpians dit. <label>[18.pr.]</label>
+                      <hi rend="b">C</hi>il qui ses choses sont deffendues par la loi ne puet pas fere <expan>testam<ex>en</ex>t</expan> : Et se il le fet il ne vaut riens. mes cil <expan>q<ex>ue</ex></expan> il fist devant cil vaudra. il ne porra pas estre apelez a estre tesmoinz de testament dés <expan>q<ex>ue</ex></expan> il ne puet fere testament. ¶ <label>[18.1]</label> Se aucuns est dampnez
                       <expan>q<ex>ue</ex></expan> il ait fet libelle por diffamer<ref type="note" target="#rouen_794_note_15">15</ref><note type="bas_page" xml:id="rouen_794_note_15"><app>
                         <rdg wit="#B">d. autrui il</rdg>
                         <rdg xml:lang="lat">ob carmen famosum</rdg>
@@ -2408,12 +2408,12 @@
                       <pb n="f. 43c"/> il est contenu el conseil au senat
                       <expan>q<ex>ue</ex></expan> il ne puisse fere testament. Il ne puet <expan>do<ex>n</ex>c</expan> fere testament. n’estre tesmoinz de testament</p>
                     <p><label>[19]</label>
-                      <emph rend="bold">M</emph>odestins dit. <emph rend="bold">S</emph>e li filz qui est en bail ou uns orfelins ou uns sers fet les tables de son testament <expan><ex>et</ex></expan> il les seele : la possession de ses biens ne puet pas estre donee selonc cez tables ja soit ce <expan>q<ex>ue</ex></expan> cil qui estoit en bail en soit hors <expan>q<ex>ua</ex>nt</expan> il muert.
+                      <hi rend="b">M</hi>odestins dit. <hi rend="b">S</hi>e li filz qui est en bail ou uns orfelins ou uns sers fet les tables de son testament <expan><ex>et</ex></expan> il les seele : la possession de ses biens ne puet pas estre donee selonc cez tables ja soit ce <expan>q<ex>ue</ex></expan> cil qui estoit en bail en soit hors <expan>q<ex>ua</ex>nt</expan> il muert.
                       <expan><ex>et</ex></expan> li orfelins ait passé .x. iiii. anz. <expan><ex>et</ex></expan> li sers soit
                       <expan>fra<ex>n</ex>chiz</expan> car les tables del testament ne sont nules <expan>q<ex>ue</ex></expan> cil a fetes qui n’avoit pas pooir de fere testament.</p>
                     <p><label>[20]</label>
-                      <emph rend="bold">U</emph>lpians dit <label>[20.pr.]</label>
-                      <emph rend="bold">C</emph>il qui est fez hoirs en testament ne puet<ref type="note" target="#rouen_794_note_16">16</ref><note type="bas_page" xml:id="rouen_794_note_16"><app>
+                      <hi rend="b">U</hi>lpians dit <label>[20.pr.]</label>
+                      <hi rend="b">C</hi>il qui est fez hoirs en testament ne puet<ref type="note" target="#rouen_794_note_16">16</ref><note type="bas_page" xml:id="rouen_794_note_16"><app>
                         <rdg wit="#B">p. pas e.</rdg>
                       </app></note> estre tesmoinz en cest testament. Mes il est
                       <expan>autrem<ex>en</ex>t</expan> en celui a qui .i. lés est lessiez. <expan><ex>et</ex></expan> en celui qui est fez deffenderres. car cist pueent bien estre tesmoignz se
@@ -2428,7 +2428,7 @@
                       <expan>q<ex>ue</ex></expan> cil qui est dampnez a rendre arriere ce <expan>q<ex>ue</ex></expan> il a pris en sa baillie ne peut estre tesmoinz en testament. Car il est veé
                       <expan>q<ex>ue</ex></expan> il ne soit tesmoinz en vile cause ¶
                       <label>[20.6]</label> Feme ne puet porter tesmoign en tes<pb n="f. 43d"/>tament<ref type="note" target="#rouen_794_note_17">17</ref><note type="bas_page" xml:id="rouen_794_note_17"><app>
-                        <rdg wit="#B">car il est veé... en testament <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">car il est veé... en testament <hi rend="i">om.</hi></rdg>
                       </app></note> mes en autres cas puet feme porter
                       <expan>tesmoi<ex>n</ex>g</expan>. sicome nos poons
                       <expan>co<ex>m</ex>prendre</expan> par la loi
@@ -2442,8 +2442,8 @@
                       <expan>Neporq<ex>ua</ex>nt</expan> il ne covient pas
                       <expan>q<ex>ue</ex></expan> il entendent les paroles. Einsi l’escrist li empereres marc a julian qui ne savoit pas parler en latin. car ce est assez se il reçoit le sens de la chose por quoi il i fu apelez. <label>[20.10]</label> Et se li tesmoign i sont amené ou detenu par force lor tesmoign ne vaut rien.</p>
                     <p><label>[21]</label>
-                      <emph rend="bold">C</emph>il meismes dit. <label>[21.pr.]</label>
-                      <emph rend="bold">L</emph>i hoir doivent estre
+                      <hi rend="b">C</hi>il meismes dit. <label>[21.pr.]</label>
+                      <hi rend="b">L</hi>i hoir doivent estre
                       <expan>no<ex>m</ex>mé</expan> en apert si
                       <expan>q<ex>ue</ex></expan> l’en le puisse oïr. Il loist donc a celui qui fet son testament <expan>q<ex>ue</ex></expan> il les nomme ou que il les escrive. Mes se il les
                       <expan>no<ex>m</ex>me</expan> il les doit
@@ -2456,9 +2456,9 @@
                       <expan>q<ex>ue</ex></expan> il a fet son testament il li covient fere tout de rechief. ¶ Se aucuns
                       <expan>no<ex>m</ex>me</expan> ou escrit aucune chose en son testament l’en <expan>dema<ex>n</ex>de</expan> se il la puet esclerier aprés ce <expan>q<ex>ue</ex></expan> la sollempnité del testament est acomplie. Si come se il avoit plusors sers
                       <expan><ex>et</ex></expan> il en lessa .i. ne il n’esclera pas en son testament<ref type="note" target="#rouen_794_note_19">19</ref><note type="bas_page" xml:id="rouen_794_note_19"><app>
-                        <rdg wit="#B">en son testament <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">en son testament <hi rend="i">om.</hi></rdg>
                       </app></note> le <expan>q<ex>ue</ex>l</expan> il lessa. Ou s’il lessa une chose a tyce. <expan><ex>et</ex></expan> il avoit plusors amis qui avoient non tyce<ref type="note" target="#rouen_794_note_20">20</ref><note type="bas_page" xml:id="rouen_794_note_20"><app>
-                        <rdg wit="#B">et il avoit... tyce <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">et il avoit... tyce <hi rend="i">om.</hi></rdg>
                       </app></note>. Ou se il fu deceuz ou non ou el seurnon.
                       <expan><ex>et</ex></expan> il ne fu pas deceuz el cors. Et ge croi <expan>q<ex>ue</ex></expan> il le puet bien esclerier. car il ne done riens. ainz esclere a qui il a doné. ¶ Et se il i met aprés aucune conoissance <expan><ex>et</ex></expan> il mostre ou par paroles ou par letres la <expan>so<ex>m</ex>me</expan> des lés. ou le non de celui a qui il le lesse. ou la
                       <expan>q<ex>ua</ex>lité</expan> de la chose
@@ -2478,13 +2478,13 @@
                         <rdg xml:lang="lat">sed si aliquid pertinens ad testamentum faciat</rdg>
                       </app></note> aucune chose qui apartiegne au testament li testamenz n’est pas failliz.</p>
                     <p><label>[22]</label>
-                      <emph rend="bold">C</emph>il meismes dit. <label>[22.pr.]</label>
-                      <emph rend="bold">G</emph>e <expan><ex>et</ex></expan> mes peres
+                      <hi rend="b">C</hi>il meismes dit. <label>[22.pr.]</label>
+                      <hi rend="b">G</hi>e <expan><ex>et</ex></expan> mes peres
                       <expan><ex>et</ex></expan> plusors autres qui sont en une meisme poesté poons estre conté el nombre des tesmoinz qui sont apelé a testament. ¶ <label>[22.1]</label> Nos devons regarder la condicion des tesmoinz <expan>q<ex>ua</ex>nt</expan> il seelent
                       <expan><ex>et</ex></expan> ne mie
                       <expan>q<ex>ua</ex>nt</expan> cil muert
                       <expan>q<ex>ui</ex></expan> fet le testament. Se il estoient donc receu a tesmoign chose qui puis lor soit avenue ne lor nuist pas. ¶ <label>[22.2]</label> Se ge ai pris de celui qui fist le testament son anel <expan><ex>et</ex></expan> ge ai fet le testament seeler autretant vaut com<ref type="note" target="#rouen_794_note_23">23</ref><note type="bas_page" xml:id="rouen_794_note_23"><app>
-                        <rdg wit="#B">com <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">com <hi rend="i">om.</hi></rdg>
                         <rdg xml:lang="lat">quasi</rdg>
                       </app></note> se ge le seelasse. ¶ <label>[22.4]</label> Se aucuns des tesmoinz n’escrist pas son non el testament
                       <expan><ex>et</ex></expan> il le seele autretant vaut come se il n’eust pas esté apelez a <expan>tesmoi<ex>n</ex>g</expan>. Et se il met son non si come plusor font il ne le seele pas. encor disons nos ce meismes. ¶ <label>[22.5]</label> L’en demande se l’en doit<ref type="note" target="#rouen_794_note_24">24</ref><note type="bas_page" xml:id="rouen_794_note_24"><app>
@@ -2495,30 +2495,30 @@
                       <expan>q<ex>ue</ex></expan> les tables sont seelees se li dras est seelez de quoi eles sont covertes. ¶ <label>[23]</label> Se li testamenz <expan>q<ex>ue</ex></expan> cil qui le fist resnia est seelez de rechief des seaus a .ii. tesmoinz il est parfez.
                       <expan><ex>et</ex></expan> vaut par le droit citoien.
                       <expan><ex>et</ex></expan> par cel au prevost.</p>
-                    <p><emph rend="bold">F</emph>lorentins dit. <label>[24]</label>
-                      <emph rend="bold">A</emph>ucun pueent seeler .i. testament de plusor essamples. Et aucune foiz est ce necessaire chose. Si come
+                    <p><hi rend="b">F</hi>lorentins dit. <label>[24]</label>
+                      <hi rend="b">A</hi>ucun pueent seeler .i. testament de plusor essamples. Et aucune foiz est ce necessaire chose. Si come
                       <expan>q<ex>ua</ex>nt</expan> aucuns velt aler hors del païs
                       <expan><ex>et</ex></expan> il velt porter o lui son testament. <expan><ex>et</ex></expan> lessier le en sa meson.</p>
                     <p><pb n="f. 44b"/>
                       <label>[25]</label>
-                      <emph rend="bold">J</emph>abolenus dit. <emph rend="bold">S</emph>e cil qui fesoit son testament <expan>no<ex>m</ex>ma</expan> ses premiers hoirs. <expan><ex>et</ex></expan> il amui ainz que il
+                      <hi rend="b">J</hi>abolenus dit. <hi rend="b">S</hi>e cil qui fesoit son testament <expan>no<ex>m</ex>ma</expan> ses premiers hoirs. <expan><ex>et</ex></expan> il amui ainz que il
                       <expan>no<ex>m</ex>mast</expan> le segont. l’en ne doit pas dire <expan>q<ex>ue</ex></expan> il ait fet son testament. mes
                       <expan>q<ex>ue</ex></expan> il l’a comencié.
                       <expan><ex>et</ex></expan><ref type="note" target="#rouen_794_note_25">25</ref><note type="bas_page" xml:id="rouen_794_note_25"><app>
-                        <rdg wit="#B">et <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">et <hi rend="i">om.</hi></rdg>
                       </app></note> Cil qui furent <expan>no<ex>m</ex>mé</expan> ne seront pas donc hoir par cel testament. Et labeo dist
                       <expan>q<ex>ue</ex></expan> ce est voir se il est certaine chose <expan>q<ex>ue</ex></expan> cil qui fist le
                       <expan>testame<ex>n</ex>t</expan> volsist fere plus d’oirs
                       <expan><ex>et</ex></expan> ge croi que ce soit li droiz entendemenz.</p>
                     <p><label>[26]</label>
-                      <emph rend="bold">G</emph>aius dit. <expan><emph rend="bold">Q</emph><ex>ua</ex>nt</expan> il est comandé en la loi
+                      <hi rend="b">G</hi>aius dit. <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> il est comandé en la loi
                       <expan>q<ex>ue</ex></expan> aucuns n’ait pas pooir de fere
                       <expan>testam<ex>en</ex>t</expan> ce est a dire
                       <expan>q<ex>ue</ex></expan> ses testamenz ne soit pas receuz.
                       <expan><ex>et</ex></expan> si come aucun cuident
                       <expan>q<ex>ue</ex></expan> n’en ne port tesmoign.</p>
                     <p><label>[27]</label>
-                      <emph rend="bold">C</emph>elsus dit. <emph rend="bold">L</emph>abeo saluz a <expan>cels<ex>us</ex></expan><ref type="note" target="#rouen_794_note_26">26</ref><note type="bas_page" xml:id="rouen_794_note_26"><app>
+                      <hi rend="b">C</hi>elsus dit. <hi rend="b">L</hi>abeo saluz a <expan>cels<ex>us</ex></expan><ref type="note" target="#rouen_794_note_26">26</ref><note type="bas_page" xml:id="rouen_794_note_26"><app>
                         <rdg wit="#B">L. demande saluz a cels</rdg>
                         <rdg xml:lang="lat">Domitius Labeo Celso suo salutem</rdg>
                       </app></note> Je te demant se cil doit estre contez el
@@ -2526,14 +2526,14 @@
                       <expan>q<ex>ua</ex>nt</expan> il l’ot
                       <expan>esc<ex>ri</ex>t</expan>. Celsus mande a labeo. Ou ge n’entent pas <expan>q<ex>ui</ex></expan> cil est de qui tu demandes ou ta demande est fole. de douter se aucuns doit mielz estre tesmoinz. <expan>q<ex>ue</ex></expan> cil qui escrist les tables del testament.</p>
                     <p><label>[28]</label>
-                      <emph rend="bold">M</emph>odestins dist. <emph rend="bold">I</emph>l n’est pas deveé <expan>q<ex>ue</ex></expan> autrui serf ne puisse escrire <expan>testame<ex>n</ex>t</expan> par le comandement a celui qui le fet.</p>
+                      <hi rend="b">M</hi>odestins dist. <hi rend="b">I</hi>l n’est pas deveé <expan>q<ex>ue</ex></expan> autrui serf ne puisse escrire <expan>testame<ex>n</ex>t</expan> par le comandement a celui qui le fet.</p>
                     <p><label>[29]</label>
-                      <emph rend="bold">P</emph>aulus dit. <label>[29.pr.]</label>
-                      <emph rend="bold">P</emph>or l’escriture qui estoit apareilliee a fere testament ne puet<ref type="note" target="#rouen_794_note_27">27</ref><note type="bas_page" xml:id="rouen_794_note_27"><app>
+                      <hi rend="b">P</hi>aulus dit. <label>[29.pr.]</label>
+                      <hi rend="b">P</hi>or l’escriture qui estoit apareilliee a fere testament ne puet<ref type="note" target="#rouen_794_note_27">27</ref><note type="bas_page" xml:id="rouen_794_note_27"><app>
                         <rdg wit="#B">p. pas l.</rdg>
                       </app></note> lés estre demandé se li testamenz ne fu parfez.</p>
                     <p><label>[30]</label>
-                      <emph rend="bold">C</emph>il meismes dit. <emph rend="bold">I</emph>l covient <expan>q<ex>ue</ex></expan>
+                      <hi rend="b">C</hi>il meismes dit. <hi rend="b">I</hi>l covient <expan>q<ex>ue</ex></expan>
                       <expan>chascu<ex>n</ex>s</expan> des
                       <expan>tesmoi<ex>n</ex>z</expan> qui sont apelé a
                       <expan>testame<ex>n</ex>t</expan> fere<ref type="note" target="#rouen_794_note_28">28</ref><note type="bas_page" xml:id="rouen_794_note_28"><app>
@@ -2547,8 +2547,8 @@
                         <rdg wit="#B">u. a l’a.</rdg>
                       </app></note> l’autre</emph>
                       <label>[1]</label>
-                      <emph rend="bold">U</emph>lpians dit <label>[1.pr.]</label>
-                      <emph rend="bold">A</emph> ce <expan>q<ex>ue</ex></expan> li mariz
+                      <hi rend="b">U</hi>lpians dit <label>[1.pr.]</label>
+                      <hi rend="b">A</hi> ce <expan>q<ex>ue</ex></expan> li mariz
                       <expan><ex>et</ex></expan> la feme aient li uns la posessions des <expan>b<ex>ie</ex>ns</expan> a l’autre il couvient
                       <expan>q<ex>ue</ex></expan> il ait entr’els loial mariage
                       <expan><ex>et</ex></expan> se li mariages ne fu loiaus : la posession des <expan>b<ex>ie</ex>ns</expan> ne puet mie estre demandee. autresi <expan><ex>com</ex>me</expan> li heritaiges ne porroit estre receuz <expan>p<ex>ar</ex></expan> testament. ne la posessions demandee selon les tables <expan>q<ex>ua</ex>r</expan> nule chose ne peut estre prise <expan>p<ex>ar</ex></expan> mariage. qui n’est mie loiaus. <label>[1.1]</label> Et a ce
@@ -2567,7 +2567,7 @@
                     <p><label>[D. 38.12]</label>
                       <emph n="rubrique">De l’heritage as anciens chevaliers</emph>
                       <label>[1]</label>
-                      <emph rend="bold">M</emph>arceaus dit <emph rend="bold">P</emph>aulus <expan><ex>et</ex></expan> meandres escrivent<ref type="note" target="#rouen_794_note_30">30</ref><note type="bas_page" xml:id="rouen_794_note_30"><app>
+                      <hi rend="b">M</hi>arceaus dit <hi rend="b">P</hi>aulus <expan><ex>et</ex></expan> meandres escrivent<ref type="note" target="#rouen_794_note_30">30</ref><note type="bas_page" xml:id="rouen_794_note_30"><app>
                         <rdg wit="#B">m. escristrent</rdg>
                         <rdg xml:lang="lat">scribunt</rdg>
                       </app></note>
@@ -2580,7 +2580,7 @@
                       <expan><ex>et</ex></expan> ne mie por commun.</p>
                     <p>
                       <label>[2]</label>
-                      <emph rend="bold">P</emph>apinians dit. <emph rend="bold">L</emph>i
+                      <hi rend="b">P</hi>apinians dit. <hi rend="b">L</hi>i
                       <expan>b<ex>ie</ex>ns</expan> que li
                       <expan>ch<ex>evalier</ex>s</expan> qui est morz avoit
                       <expan>aq<ex>ui</ex>s</expan>
@@ -2592,7 +2592,7 @@
                       <emph n="rubrique">A qui la posessions des
                         <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</emph>
                       <label>[1]</label>
-                      <emph rend="bold">J</emph>ulians dit <expan><emph rend="bold">Q</emph><ex>ua</ex>nt</expan> mes sers fu fez hoirs ge fis par <expan>trich<ex>er</ex>ie</expan>
+                      <hi rend="b">J</hi>ulians dit <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> mes sers fu fez hoirs ge fis par <expan>trich<ex>er</ex>ie</expan>
                       <expan>q<ex>ue</ex></expan> li testamenz ne fust mie muez.
                       <expan><ex>et</ex></expan> puis le franchi. L’en demande se actions li doivent estre vees. Et la responsse est
                       <expan>q<ex>ue</ex></expan> cil cas n’est mie contenuz es paroles del banissement. Mes il est droiz
@@ -2612,8 +2612,8 @@
                         <expan>p<ex>ar</ex></expan> le
                         <expan><ex>con</ex>seill</expan> au senat</emph>
                       <label>[1]</label>
-                      <emph rend="bold">U</emph>lpians dit. <label>[1.pr.]</label>
-                      <emph rend="bold">L</emph>i prevoz dit Si comme il convendra
+                      <hi rend="b">U</hi>lpians dit. <label>[1.pr.]</label>
+                      <hi rend="b">L</hi>i prevoz dit Si comme il convendra
                       <expan>q<ex>ue</ex></expan> ge doigne posession de
                       <expan>b<ex>ie</ex>ns</expan> par loi ou par le conseill au senat. Einssi la donrai ge. <label>[1.1]</label> La posessions des
                       <expan>b<ex>ie</ex>ns</expan> qui est donee
@@ -2627,8 +2627,8 @@
                     <p><label>[D. 38.15]</label>
                       <emph n="rubrique">Quelle ordre doit estre gardee en la possessions des <expan>b<ex>ie</ex>ns</expan></emph>
                       <label>[1]</label>
-                      <emph rend="bold">M</emph>odestins dit <label>[1.pr.]</label>
-                      <expan><emph rend="bold">Q</emph><ex>ua</ex>nt</expan> aucuns muert sanz fere testament : si enfant <expan>q<ex>ue</ex></expan> il a de loial mariaige sont premierement apelez a son heritage
+                      <hi rend="b">M</hi>odestins dit <label>[1.pr.]</label>
+                      <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> aucuns muert sanz fere testament : si enfant <expan>q<ex>ue</ex></expan> il a de loial mariaige sont premierement apelez a son heritage
                       <expan><ex>et</ex></expan> puis cil qui pueent estre hoir par les lois. <expan><ex>et</ex></expan> puis li plus prochain parent.
                       <expan><ex>et</ex></expan> aprés li mariz ou la feme.
                       <label>[1.1]</label> Se aucuns ne fet point de testament ou il le fet. mes ses heritaiges n’est receuz. ne selonc les tables ne contre les tables la posessions des <expan>b<ex>ie</ex>ns</expan> est donnee en ceste maniere. <label>[1.2]</label> la posessions des
@@ -2636,8 +2636,8 @@
                       <expan>q<ex>ua</ex>nt</expan> il morut mes a
                       <expan>ce<ex>us</ex></expan> qui en estoient hors.</p>
                     <p><label>[2]</label>
-                      <emph rend="bold">U</emph>lpians dit. <label>[2.pr.]</label>
-                      <emph rend="bold">L</emph>’en conte proffita<pb n="f. 220d"/>ble tans a demander la posession des <expan>b<ex>ie</ex>ns</expan>. Se cil a qui ele <expan>ap<ex>ar</ex>tient</expan> le
+                      <hi rend="b">U</hi>lpians dit. <label>[2.pr.]</label>
+                      <hi rend="b">L</hi>’en conte proffita<pb n="f. 220d"/>ble tans a demander la posession des <expan>b<ex>ie</ex>ns</expan>. Se cil a qui ele <expan>ap<ex>ar</ex>tient</expan> le
                       <expan>sore<ex>n</ex>t</expan> toz les jorz.
                       <expan><ex>et</ex></expan> il la porent demander
                       <expan><ex>et</ex></expan> le jor en quoi il ne le sorent mie ou il ne la porent<ref type="note" target="#rouen_794_note_33">33</ref><note type="bas_page" xml:id="rouen_794_note_33"><app>
@@ -2656,7 +2656,7 @@
                       <expan>convi<ex>n</ex>t</expan> aler a plet puis
                       <expan>q<ex>ue</ex></expan> il sot
                       <expan>q<ex>ue</ex></expan> cil fu <expan>m<ex>or</ex>z</expan> sans fere<ref type="note" target="#rouen_794_note_35">35</ref><note type="bas_page" xml:id="rouen_794_note_35"><app>
-                        <rdg wit="#B">fere <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">fere <hi rend="i">om.</hi></rdg>
                       </app></note> testament : <label>[2.2]</label> li jors en quoi il en pleda ne li doivent mie estre conté. Autresi ne li doit mie estre contez li tans en quoi li prevoz ne pot mie entendre a tenir le plet en quoi<ref type="note" target="#rouen_794_note_36">36</ref><note type="bas_page" xml:id="rouen_794_note_36"><app>
                         <rdg wit="#B">plet por ce que il</rdg>
                       </app></note> il estoit enbesoigniez des<ref type="note" target="#rouen_794_note_37">37</ref><note type="bas_page" xml:id="rouen_794_note_37"><app>
@@ -2686,13 +2686,13 @@
                       <expan><ex>con</ex>seill</expan> a plus sages
                       <expan>q<ex>ue</ex></expan> il n’est.</p>
                     <p><label>[3]</label>
-                      <emph rend="bold">P</emph>aulus dit. <emph rend="bold">S</emph>e li peres set <expan>q<ex>ue</ex></expan> la posessions des
+                      <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e li peres set <expan>q<ex>ue</ex></expan> la posessions des
                       <expan>b<ex>ie</ex>ns</expan> soit eschaete au fill.
                       <expan><ex>et</ex></expan> li filz ne le set mie li seuz au
                       <expan>p<ex>er</ex>e</expan> ne nuist mie au fill.</p>
                     <p><label>[4]</label>
                       <supplied resp="#FD">J</supplied>ulians dit. <label>[4.pr.]</label>
-                      <emph rend="bold">S</emph>e tu estoies sozmis a celui qui fu fez hoirs o toi. <expan><ex>et</ex></expan> tu receus la posession des
+                      <hi rend="b">S</hi>e tu estoies sozmis a celui qui fu fez hoirs o toi. <expan><ex>et</ex></expan> tu receus la posession des
                       <expan>b<ex>ie</ex>ns</expan>. <expan><ex>et</ex></expan> tes compainz <pb n="f. 221a"/> ne la volt demander l’en entent
                       <expan>q<ex>u’e</ex>le</expan> t’est toute donnee.
                       <expan><ex>et</ex></expan> il n’avra mie puis pooir de demander la ¶ <label>[4.1]</label> Li filz a .i. an de terme a demander la posession des <expan>b<ex>ie</ex>ns</expan> non mie tant seulement <expan>q<ex>ua</ex>nt</expan> il la demande
@@ -2701,7 +2701,7 @@
                       <expan><ex>com</ex>me</expan>
                       <expan>pare<ex>n</ex>s</expan>. Et autresi
                       <expan><ex>com</ex>me</expan><ref type="note" target="#rouen_794_note_42">42</ref><note type="bas_page" xml:id="rouen_794_note_42"><app>
-                        <rdg wit="#B">comme <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">comme <hi rend="i">om.</hi></rdg>
                         <rdg xml:lang="lat">sicuti</rdg>
                       </app></note>
                       <expan>q<ex>ua</ex>nt</expan> li peres a
@@ -2710,8 +2710,8 @@
                       <expan><ex>com</ex>me</expan> patrons. ne
                       <expan>porq<ex>ua</ex>nt</expan> il a .i. an de terme a demander la.</p>
                     <p><label>[5]</label>
-                      <emph rend="bold">M</emph>arceaus dit <label>[5.pr.]</label>
-                      <emph rend="bold">Q</emph>uant <expan>posessio<ex>n</ex></expan> de
+                      <hi rend="b">M</hi>arceaus dit <label>[5.pr.]</label>
+                      <hi rend="b">Q</hi>uant <expan>posessio<ex>n</ex></expan> de
                       <expan>b<ex>ie</ex>ns</expan> eschiet au fill qui est en baill Le jor en quoi il ne le puet mie fere savoir a son pere. si qu’il li <expan><ex>com</ex>mant</expan>
                       <expan>q<ex>ue</ex></expan> il la reçoive ne li doit mie<ref type="note" target="#rouen_794_note_43">43</ref><note xml:id="rouen_794_note_43" type="bas_page"><app>
                         <rdg wit="#B">li doivent pas e.</rdg>
@@ -2730,7 +2730,7 @@
                       <expan><ex>et</ex></expan> li fiz ne la demanda mie. l’en puet demander se il a <expan>p<ex>er</ex>du</expan>
                       <expan>p<ex>ar</ex></expan> ce qu’il ne la puisse puis demander mes ge ne voi mie por quoi ce qu’il ne la demanda mie li doie nuire.
                       <expan>q<ex>ua</ex>r</expan> se il ne<ref type="note" target="#rouen_794_note_45">45</ref><note type="bas_page" xml:id="rouen_794_note_45"><app>
-                        <rdg wit="#B">ne <emph rend="italic">om.</emph></rdg>
+                        <rdg wit="#B">ne <hi rend="i">om.</hi></rdg>
                         <rdg xml:lang="lat">si petita esset</rdg>
                       </app></note> l’eust demandee. si ne li fust ele mie confermee
                       <expan>deva<ex>n</ex>t</expan>
