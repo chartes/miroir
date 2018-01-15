@@ -335,7 +335,7 @@ On autorise ? Pourquoi ?
 | fr. 22969 | 1 |  |
 | fr. 197 | 1 |  |
 | fr. 1932 | 1 |  |
-| Rés. F. 35 | 1
+| Rés. F. 35 | 1 |  |
 
 # Les manuscrits juridiques
 Objectif: déterminer le nombre de traduction pour chaque texte jurdique.  

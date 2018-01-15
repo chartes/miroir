@@ -1,68 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../schema/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="institutiones">
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="institutiones" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Miroir des classiques. - <bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z"><title xml:lang="lat">Institutiones</title>, <author>Justinianus I</author></bibl>.</title>
-        <principal>
-          <persName ref="http://catalogue.bnf.fr/ark:/12148/cb136157348/PUBLIC" xml:id="FD">
-            <forename>Frédéric</forename>
-            <surname>Duval</surname>
-          </persName>
-        </principal>
-        <respStmt>
-          <persName>
-            <forename>Hélène</forename>
-            <surname>Gautier</surname>
-          </persName>
-          <resp>Encodage des notices</resp>
-        </respStmt>
-        <respStmt>
-          <persName>
-            <forename>Lucie</forename>
-            <surname>Viénot</surname>
-          </persName>
-          <resp>Encodage des notices</resp>
-        </respStmt>
-        <sponsor>
-          <orgName>Equipement d'excellence Biblissima</orgName>
-        </sponsor>
+        <title><hi rend="i">Institutiones</hi>, Justinianus I</title>
+        <title type="sub">Notice descriptive concernant l'ensemble des traductions médiévales en français et en occitan des <hi rend="i">Institutiones</hi>, Justinianus I</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
       </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="HG">Hélène Gautier</name>
+          <resp>Encodage des notices</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="LV">Lucie Viénot</name>
+          <resp>Encodage des notices</resp>
+        </respStmt>
+      </editionStmt>
       <publicationStmt>
-        <publisher>
-          <orgName>Ecole nationale des chartes</orgName>
-          <address>
-            <street>19 rue de la Sorbonne</street>
-            <settlement>75005 Paris</settlement>
-            <country>France</country>
-          </address>
-        </publisher>
-        <date/>
-        <availability>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique structurée, protégée par le code de la propriété intellectuelle sur les bases de données (L341-1), selon les termes de la licence *Creative Commons* : « Paternité - Pas d'Utilisation Commerciale - Pas de Modification ; 2.0 France ». Cette licence est disponible en ligne http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal à Creative Commons, 171 Second Street, Suite 300, San Francisco, California 94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale* : L'École nationale des chartes souhaite encourager l'utilisation et l'amélioration de ses ressources électroniques, pour les intérêts de l'enseignement et de la recherche. Toute autorisation au-delà du champ de cette licence doit être obtenue auprès de l'École nationale des chartes.</p>
-          <p>*Pas de Modification* : Afin de mieux servir la communauté scientifique, l'École nationale des chartes s'engage à conserver et à toujours offrir publiquement la version la plus à jour de ses ressources électroniques par une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer les contributions qui lui sont soumises (après validation par un comité scientifique), et à référencer l'origine de ces contributions. Toute modification de la ressource qui ne serait pas reversée à la version de référence sous l'autorité éditoriale de l'École nationale des chartes doit faire l'objet de l'accord de celle-ci, afin de ne pas disperser les contributions et de permettre les meilleures conditions possibles de collaboration scientifique.</p>
-          <p>*Paternité* : l'École nationale des chartes demande à ce que toute publication dérivée de ses ressources électroniques comporte : 1) le nom de l'École nationale des chartes et, pour les publications électroniques, son logo 2) l'URI permettant d'accéder à la page citée sur notre site, ou à la page d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera soumis à la juridiction des tribunaux de Paris.</p>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2018"/>
+        <idno>http://enc-sorbonne.fr/miroir/heroides_ovidius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2018 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
         </availability>
       </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
       <sourceDesc>
-        <p>Notice descriptive concernant l'ensemble des traductions médiévales en français et en occitan des <bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z"><title xml:lang="lat">Institutiones</title>, <author>Justinianus I</author></bibl>. Nativement numérique.</p>
+        <bibl><author>Justinianus I</author>, <title ref="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title>.</bibl>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc>
-      <listChange>
-        <change>
-          <persName>
-            <forename/>
-            <surname/>
-          </persName>
-          <date/>
-          <note/>
-        </change>
-      </listChange>
-    </revisionDesc>
+    <profileDesc>
+      <creation>
+        <date when="???"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+    </profileDesc>
   </teiHeader>
   <text>
     <body>
