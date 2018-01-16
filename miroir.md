@@ -9,6 +9,8 @@
   * `@xml:lang`: langue cible (*target*)
   * `@sync`: langue source (*source*)
 * NB: output HTML: pour `msIdentifier`ne pas sortir `country`
+* authenticu.xml: revoir avec FD la structuration des éditions (des subdivisions en fonction des parties éditées ?)
+* bazar total pour les notes
 
 # articulation Notice / content. ex. du ms BnF fr. 263
 `//msDesc[contains(msIdentifier/idno, '263')]`
