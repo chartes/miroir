@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
-<?xml-stylesheet type="text/xsl" href="../xsl/oeuvre_2.xsl"?>
+<!--<?xml-stylesheet type="text/xsl" href="../xsl/oeuvre_2.xsl"?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="authenticum" xml:lang="fr">
   <teiHeader>
     <fileDesc>
@@ -162,15 +162,11 @@
           <!-- Modèle = de_consolatione_philosophiae_boethius -->
           <head>Traduction 1 (?)</head>
           <p>Les Auth. 34-36, voire 41, telles qu’elles apparaissent dans le ms <hi rend="i">O</hi> (London, British Libr., Royal 20.D.IX), pourraient être tirées d’une traduction indépendante, ou du moins rédigée par une équipe de traducteurs ou un traducteur particuliers.</p>
-          <p>La traduction y est plus « cibliste » que « sourcière ». Elle se préoccupe surtout des éléments de droit susceptibles de s’appliquer à la société médiévale. Ainsi, les <foreign xml:lang="lat">realia romana</foreign> sans équivalent à l’époque de la traduction sont souvent résumées, synthétisées voire supprimées (cf. la liste des processions et spectacles que doivent présider les consuls, Auth. 34.1). Des institutions romaines sont assimilées à des équivalents médiévaux (<q xml:lang="lat">Nullus igitur eam egredi praesumat, nec si vehementer idoneus sit, nec si nostrorum sit iudicum, nec si maximae curiae aut nullae administrationi praesit</q> traduit en <quote>Nus n’empraigne donc a passer la qui que il soit ou juges ou curiax ou baillis</quote>). La terminologie juridique romaine et certains de ses concepts essentiels ne font pas l’objet d’une attention très soutenue, notamment quand ils sont trop étrangers aux systèmes juridique et politique en vigueur : <q xml:lang="lat">sacra lex</q> traduit par
-            <quote>loy</quote> (34.1), <q xml:lang="lat">dispositio</q> rendu par
-            <quote>ordenement</quote> (34.2.4), <q xml:lang="lat">imperator lex animata</q> (34.2.4) non traduit.</p>
+          <p>La traduction y est plus « cibliste » que « sourcière ». Elle se préoccupe surtout des éléments de droit susceptibles de s’appliquer à la société médiévale. Ainsi, les <foreign xml:lang="lat">realia romana</foreign> sans équivalent à l’époque de la traduction sont souvent résumées, synthétisées voire supprimées (cf. la liste des processions et spectacles que doivent présider les consuls, Auth. 34.1). Des institutions romaines sont assimilées à des équivalents médiévaux (<q xml:lang="lat">Nullus igitur eam egredi praesumat, nec si vehementer idoneus sit, nec si nostrorum sit iudicum, nec si maximae curiae aut nullae administrationi praesit</q> traduit en <quote>Nus n’empraigne donc a passer la qui que il soit ou juges ou curiax ou baillis</quote>). La terminologie juridique romaine et certains de ses concepts essentiels ne font pas l’objet d’une attention très soutenue, notamment quand ils sont trop étrangers aux systèmes juridique et politique en vigueur : <q xml:lang="lat">sacra lex</q> traduit par <quote>loy</quote> (34.1), <q xml:lang="lat">dispositio</q> rendu par <quote>ordenement</quote> (34.2.4), <q xml:lang="lat">imperator lex animata</q> (34.2.4) non traduit.</p>
           <p>De manière générale, les précisions qui paraissent superflues au traducteur ont tendance à disparaître. La langue de la traduction est également « cibliste », au sens où elle ne démarque ni la syntaxe ni le lexique latins. Dans la traduction de Auth. 34, le seul latinisme est <quote>descripcion</quote>, traduction de <q xml:lang="lat">descriptio</q> (34.2.4) au sens de « copie ». Faute de comprendre le terme latin et donc d’en proposer un équivalent français, le traducteur a peut-être choisi de calquer formellement le mot-source. Il ne faudrait toutefois pas penser que ces « infidélités » au texte latin soient l’effet d’un traducteur négligent. C’est l’application scrupuleuse d’un projet de traduction qui conduit à cette déperdition d’informations jugées inutiles : après l’omission de la liste des manifestations publiques présidées par les consuls, la traduction omet soigneusement les références à ces manifestations dans la suite de l’Auth. 34, preuve d’un travail soigné.</p>
-          <div type="manuscrit">
-            <list type="listMs">
-              <item><ref target="#bl_royal20"><hi rend="b">O</hi> London, British Libr., Royal 20.D.IX</ref></item>
-            </list>
-          </div>
+          <list type="listMs">
+            <item><ref target="#bl_royal20"><hi rend="b">O</hi> London, British Libr., Royal 20.D.IX</ref></item>
+          </list>
         </div>
         <div type="soustraduction" xml:id="traduction_2" n="I.2">
           <head>Traduction 2</head>
@@ -179,180 +175,174 @@
           <div type="etat_traductif" xml:id="trad_2_etat_1">
             <head>Etat traductif 1</head>
             <p>L’état traductif 1 est conservé seulement dans <hi rend="i">O</hi> pour l’Auth. 86 et peut-être les Auth. 11 et 66 (f. 131c-133b).</p>
-            <div type="manuscrit">
-              <list type="listMs">
-                <item><ref target="#bl_royal20"><hi rend="b">O</hi> London, British Libr., Royal 20.D.IX</ref></item>
-              </list>
-            </div>
+            <list type="listMs">
+              <item><ref target="#bl_royal20"><hi rend="b">O</hi> London, British Libr., Royal 20.D.IX</ref></item>
+            </list>
           </div>
           <div type="etat_traductif" xml:id="trad_2_etat_2">
             <head>Etat traductif 2</head>
             <p>L’état traductif 2, qui révise l’état traductif 1, nous est transmis par <hi rend="i">O</hi> à partir de l’Auth. 83.12 et au moins jusqu’à l’Auth. 132 comprise. On ne peut exclure que les Auth. 11 et 66, qui précèdent l’Auth. 86, appartiennent à l’état traductif 2. On notera aussi que l’état traductif 2 présente une traduction de l’Auth. 105, omise dans l’état traductif 3.</p>
             <p>L’état traductif 2 est plus fidèle à sa source que l’état traductif 1. Il précède clairement l’état traductif 3 qui en est un remaniement visant à plus de rigueur dans la transposition linguistique et à une modernisation linguistique.</p>
-            <div type="manuscrit">
-              <list type="listMs">
-                <item><ref target="#bl_royal20"><hi rend="b">O</hi> London, British Libr., Royal 20.D.IX</ref></item>
-              </list>
-            </div>
+            <list type="listMs">
+              <item><ref target="#bl_royal20"><hi rend="b">O</hi> London, British Libr., Royal 20.D.IX</ref></item>
+            </list>
           </div>
           <div type="etat_traductif" xml:id="trad_2_etat_3">
             <head>Etat traductif 3</head>
-            <p>L’état traductif 3, seule version conservée pour l’ensemble du texte, omet dans
-              <hi rend="i">AF</hi> les Auth. 5, 11, 13, 24-33, 37-40, 42-44, 49, 60, 63-67, 87, 101, 105, 118, 121-125, 131 et s’achève par l’appendice Auth.119 [N.131] ; 133 [N.128] ; 120 [N.127] ; 134 [N.123] ; 126 [N.159] ; 127 [N.134] ; 128 [N.86] ; 129 [N.106] ; 130 [N.132] ; 132 [N.143]. A cet égard, il est proche du ms Paris, Bibl. nat. de Fr., lat. 4428.</p>
+            <p>L’état traductif 3, seule version conservée pour l’ensemble du texte, omet dans <hi rend="i">AF</hi> les Auth. 5, 11, 13, 24-33, 37-40, 42-44, 49, 60, 63-67, 87, 101, 105, 118, 121-125, 131 et s’achève par l’appendice Auth.119 [N.131] ; 133 [N.128] ; 120 [N.127] ; 134 [N.123] ; 126 [N.159] ; 127 [N.134] ; 128 [N.86] ; 129 [N.106] ; 130 [N.132] ; 132 [N.143]. A cet égard, il est proche du ms Paris, Bibl. nat. de Fr., lat. 4428.</p>
             <p>Le contexte de rédaction de cette version anonyme est malaisé à reconstituer. Le manuscrit <hi rend="i">O</hi> présente l’état traductif 3 pour les Auth.1-17 et 47-83.11. Contrairement à <hi rend="i">AF</hi>, <hi rend="i">O</hi> n’omet donc pas l’Auth. 5. Ce témoin, qui date du troisième quart du 13<hi rend="sup">e</hi> s., fournit un <foreign xml:lang="lat">terminus ad quem</foreign> qui ne demande qu’à être précisé. Il est probable que <hi rend="i">O</hi> a été copié alors que la ou les révision(s) des états traductifs précédents n’étai(en)t pas encore achevée(s). En tout cas, l’état traductif 3 procède d’une révision de l’état 2 avec recours au texte-source latin.</p>
             <p>L’état traductif 3 est plus « sourcier » que l’état traductif 2. Il fait preuve d’un souci d’exactitude bien plus prononcé à l’égard des réalités juridiques et institutionnelles antiques, mais il est difficile de savoir si ce phénomène est dû à une meilleure connaissance de ces réalités ou bien à un projet de traduction qui refuse l’assimilation généralisée de l’Antiquité au monde médiéval, considérant qu’il s’agit de deux sociétés bien distinctes. Quoi qu’il en soit, la fidélité plus marquée à l’original tend à confirmer que cette version est la plus récente.</p>
-            <p>L’état traductif 3 conserve les <foreign xml:lang="lat">realia romana</foreign>, qu’il s'efforce de rendre en français médiéval sans abuser de calques ou d’emprunts. Ainsi, en Auth. 34.1, le passage traitant des processions et spectacles présidés par les consuls est conservé, de même que les précisions sur les mesures d’or (Auth. 34.2.1). Cette version recourt bien davantage aux latinismes que la traduction 1 (<q xml:lang="lat">superfluus</q> rendu par <quote>superflue</quote> [34.2.2] ; <q xml:lang="lat">aequalitas</q> par <quote>egalté</quote> [34.2.3] ; <q xml:lang="lat">dispositio</q> par
-              <quote>disposicion</quote> [34.2.4]). La syntaxe est également plus proche du latin. De manière générale, cet état traductif rend chaque mot latin, afin d’éviter une perte d’information à l’occasion du transfert linguistique.</p>
+            <p>L’état traductif 3 conserve les <foreign xml:lang="lat">realia romana</foreign>, qu’il s'efforce de rendre en français médiéval sans abuser de calques ou d’emprunts. Ainsi, en Auth. 34.1, le passage traitant des processions et spectacles présidés par les consuls est conservé, de même que les précisions sur les mesures d’or (Auth. 34.2.1). Cette version recourt bien davantage aux latinismes que la traduction 1 (<q xml:lang="lat">superfluus</q> rendu par <quote>superflue</quote> [34.2.2] ; <q xml:lang="lat">aequalitas</q> par <quote>egalté</quote> [34.2.3] ; <q xml:lang="lat">dispositio</q> par <quote>disposicion</quote> [34.2.4]). La syntaxe est également plus proche du latin. De manière générale, cet état traductif rend chaque mot latin, afin d’éviter une perte d’information à l’occasion du transfert linguistique.</p>
             <div type="tradition_texte">
               <head>Tradition textuelle</head>
               <div type="temoins">
                 <head>Groupement des témoins</head>
-                <list type="temoins">
-                  <item>
-                    <label><hi rend="b">O</hi>
-                      <foreign xml:lang="lat">vs</foreign>
-                      <hi rend="b">AFL</hi></label>
-                    <p>Fautes communes <hi rend="i">AFL</hi> : Auth. 81.pr <app>
-                      <rdg wit="#A #F #L">desordeneement</rdg>
-                      <rdg wit="#O">desanorrement</rdg>
-                      <rdg xml:lang="lat">inornatum</rdg>
-                    </app> ; Auth. 81.5.1 <app>
-                      <rdg wit="#A #F #L">en ceste beneuree cité</rdg>
-                      <rdg wit="#O">c. buene c.</rdg>
-                      <rdg xml:lang="lat">in hac bona civitate</rdg>
-                    </app> ; Auth. 81.6 <app>
-                      <rdg wit="#A #F #L">a ceste sainte cité</rdg>
-                      <rdg wit="#O">sainte <emph rend="normal">om.</emph></rdg>
-                      <rdg xml:lang="lat">in hac habitantium civitate</rdg>
-                    </app> ; Auth. 81.9 <app>
-                      <rdg wit="#A #F #L">et nous donnons a celui qui avra ceste bailliee fiance</rdg>
-                      <rdg wit="#O">qui a</rdg>
-                      <rdg xml:lang="lat">Damus autem administrationem habenti fiduciam</rdg>
-                    </app> ; Auth. 81.9 <app>
-                      <rdg wit="#A #F #L">il puissent ce faire</rdg>
-                      <rdg wit="#O">il puisse</rdg>
-                      <rdg xml:lang="lat">et hoc agat</rdg>
-                    </app> ; Auth. 81.10 <app>
-                      <rdg wit="#A #F #L">commandons nous que il soit gariz sanz damage</rdg>
-                      <rdg wit="#O">s. gardé s.</rdg>
-                      <rdg xml:lang="lat">ita indemnes eos servari iubemus</rdg>
-                    </app> ; Auth. 82.2 <app>
-                      <rdg wit="#A #F #L">qui en sont deü</rdg>
-                      <rdg wit="#O">qui ensuit dieu</rdg>
-                      <rdg xml:lang="lat">sequente deum</rdg>
-                    </app> ; Auth. 83.pr <app>
-                      <rdg wit="#A #F #L">il ne nous est pas avis que li un aient nom de juges</rdg>
-                      <rdg wit="#O">avis que il conviengne que...</rdg>
-                      <rdg xml:lang="lat">Non enim existimavimus oportere habere quosdam nomina</rdg>
-                    </app> ; Auth. 83.1 <app>
-                      <rdg wit="#A #F #L">qui a piece a esleü l’office</rdg>
-                      <rdg wit="#O">p. acompli l’.</rdg>
-                      <rdg xml:lang="lat">jam advocatione dudum completa</rdg>
-                    </app> ; Auth. 83.1 <app>
-                      <rdg wit="#A #F #L">et Flavian qui est orendroit avocaz de la borse l’empereur <emph rend="normal">om.</emph></rdg>
-                      <rdg wit="#O"/>
-                      <rdg xml:lang="lat">ac Flavianus, qui nunc advocatus fisci consistit</rdg>
-                    </app> ; Auth. 83.1 <app>
-                      <rdg wit="#A #F #L">que nous savons bien qui <hi rend="i">om.</hi></rdg>
-                      <rdg wit="#O"/>
-                      <rdg xml:lang="lat">quem cognovimus</rdg>
-                    </app>. <hi rend="i">AFL</hi> descendent donc d’un ancêtre commun.</p>
-                    <p><hi rend="i">AFL</hi> ne peuvent descendre de <hi rend="i">O</hi> : <hi rend="i">O</hi> est le seul témoin à présenter certaines omissions (Auth. 81.2 <app>
-                      <rdg wit="#A #F #L">qui maintiengnent le plet par droit</rdg>
-                      <rdg wit="#O"><emph rend="normal">om.</emph></rdg>
-                    </app> ; Auth. 81.3 <app>
-                      <rdg wit="#A #F #L">citez et en lor</rdg>
-                      <rdg wit="#O"><emph rend="normal">om. (saut du même au même)</emph></rdg>
-                    </app> ; Auth. 81.6 <app>
-                      <rdg wit="#A #F #L">quant il lor avra enquis la verité</rdg>
-                      <rdg wit="#O">lor <emph rend="normal">om.</emph></rdg>
-                    </app>. En outre, <hi rend="i">O</hi> est le seul des quatre témoins à omettre les incipit latins des paragraphes. <hi rend="i">O</hi> transmet par ailleurs de nombreuses leçons individuelles, qui ne sont pas manifestement fautives, et que la tradition manuscrite en aval n’aurait eu aucune raison d’éliminer : Auth. 81.1 <app>
-                      <rdg wit="#A #F #L">qui ont ceste dignité</rdg>
-                      <rdg wit="#O">ont esté digne</rdg>
-                    </app> ; Auth. 81.10 <app>
-                      <rdg wit="#A #F #L">avons cure</rdg>
-                      <rdg wit="#O">avons grant cure</rdg>
-                    </app>. <hi rend="i">AFL</hi> descendent donc d’un ancêtre commun distinct de <hi rend="i">O</hi>, que nous appellerons <hi rend="i">α</hi>.</p>
-                  </item>
-                  <item>
-                    <label>Relations au sein de la famille α</label>
-                    <p><hi rend="i">A</hi> ne peut descendre de <hi rend="i">F</hi> : de nombreuses leçons isolées de <hi rend="i">F</hi>, fautives ou non, opposant ce témoin à
-                      <hi rend="i">AL</hi>, interdisent de faire de <hi rend="i">F</hi> l’ancêtre de <hi rend="i">AL</hi> : Auth. 82.1 <app>
-                        <rdg wit="#F">qui est en grant dignitez</rdg>
-                        <rdg wit="#O #A #L">en si g.</rdg>
-                        <rdg xml:lang="lat">omnis talis dignitas</rdg>
-                      </app> ; Auth. 82.1.1 <app>
-                        <rdg wit="#F">soient hors d’aucun travail de autrui baill</rdg>
-                        <rdg wit="#O #A #L">d’aucun travail</rdg>
-                      </app> ; Auth. 82.1.1 <app>
-                        <rdg wit="#F">il use hors de son baill</rdg>
-                        <rdg wit="#A #L">il isse h.</rdg>
-                      </app></p>
-                    <p><hi rend="i">F</hi> et <hi rend="i">L</hi> ne peuvent descendre de <hi rend="i">A</hi> : de nombreuses leçons isolées de <hi rend="i">A</hi>, fautives ou non, opposant ce témoin à <hi rend="i">FL</hi>, interdisent de faire de <hi rend="i">A</hi> l’ancêtre de <hi rend="i">FL</hi> : Auth. 81.3 <app>
-                      <rdg wit="#F #L #O">pour pledier li un contre les autres</rdg>
-                      <rdg wit="#A">p. l’un contre l’autre et</rdg>
-                      <rdg xml:lang="lat">quidam forsan alii, aut etiam litigaturi adversus alios</rdg>
-                    </app> ; Auth. 81.5.1 <app>
-                      <rdg wit="#F #L #O">Et se aucuns vuelent servir</rdg>
-                      <rdg wit="#A">et se aucun veult s.</rdg>
-                      <rdg xml:lang="lat">Si vero aliqui noluerint</rdg>
-                    </app> ; Auth. 81.8 <app>
-                      <rdg wit="#F #L #O">cil qui ont ceste baillie</rdg>
-                      <rdg wit="#A">qui ont esté baillié</rdg>
-                      <rdg xml:lang="lat">qui hanc administrationem habet</rdg>
-                    </app> ; Auth. 81.9 <app>
-                      <rdg wit="#F #O">Et se il veult metre outre mer aucun</rdg>
-                      <rdg wit="#A">metre el treu a.</rdg>
-                      <rdg wit="#L">mettre ou envoiez a.</rdg>
-                      <rdg xml:lang="lat">in transmarinis partibus collocare</rdg>
-                    </app>.</p>
-                    <p>Par sa date tardive, <hi rend="i">L</hi> ne peut être l’ancêtre d’aucun des témoins conservés de la tradition.</p>
-                    <p><hi rend="i">L</hi> ne peut descendre de <hi rend="i">F</hi>, au vu de certaines erreurs de <hi rend="i">F</hi> contre <hi rend="i">AL</hi> : Auth. 34.2.1 <app>
-                      <rdg wit="#A #L">marcie dit</rdg>
-                      <rdg wit="#F">marc le dit</rdg>
-                      <rdg xml:lang="lat">sicut Marciani divae memoriae constitutio dicit</rdg>
-                    </app> ; Auth. 34.2.2 <app>
-                      <rdg wit="#F">bonne memoire</rdg>
-                      <rdg wit="#A #L">bonne mesure</rdg>
-                      <rdg xml:lang="lat">et spectacula ad bene se habentem deduximus mensuram</rdg>
-                    </app> ; Auth. 81.1 <app>
-                      <rdg wit="#A #L">annones</rdg>
-                      <rdg wit="#F">aumosnes</rdg>
-                    </app> ; A. 81.8 <app>
-                      <rdg wit="#A #L">a paié</rdg>
-                      <rdg wit="#F">a paine</rdg>
-                    </app>.</p>
-                    <p>Il convient donc de supposer un ancêtre commun à <hi rend="i">AFL</hi>.</p>
-                  </item>
-                  <item>
-                    <label>Place de <hi rend="b">L</hi></label>
-                    <p>Au vu de nos sondages limités, la place de <hi rend="i">L</hi> n’est pas assurée.</p>
-                    <p><hi rend="i">β</hi> ancêtre de <hi rend="i">FL</hi> ?: deux fautes communes <hi rend="i">FL</hi> pourraient conduire à conclure à un ancêtre commun à <hi rend="i">FL</hi> : Auth 81.1 <app>
-                      <rdg wit="#A #O">vistement</rdg>
-                      <rdg wit="#F #L">justement</rdg>
-                      <rdg xml:lang="lat">festinanter</rdg>
-                    </app> ; <foreign xml:lang="lat">id.</foreign> Auth 81.3 [<foreign xml:lang="lat">cum festinatione</foreign>]. Toutefois, ces fautes ne sont pas des plus probantes parce que la paléographie peut expliquer que deux copistes aboutissent indépendamment à
-                      <quote>justement</quote> à partir de <quote>vistement</quote>. Plusieurs leçons séparatives vont également en ce sens, mais elles peuvent être seulement le miroir d’une innovation dans <hi rend="i">A</hi> : Auth. 34.1 <app>
-                        <rdg wit="#F #L">metons</rdg>
-                        <rdg wit="#A">metent</rdg>
-                        <rdg xml:lang="lat">in legis enim hoc ponimus schemate</rdg>
-                      </app> ; <app>
-                        <rdg wit="#F #L">lor rentes</rdg>
-                        <rdg wit="#A">les rentes</rdg>
-                        <rdg xml:lang="lat">Reditus autem eorum imminutos omnes esse volumus</rdg>
-                      </app> ; Auth. 34.2.1 <app>
-                        <rdg wit="#F #L">la chose soit vendue</rdg>
-                        <rdg wit="#A">sa chose soit rendue</rdg>
-                        <rdg xml:lang="lat">sive rursus venire ad hoc voluerit</rdg>
-                      </app> ; Auth. 34.2.2 <app>
-                        <rdg wit="#F #L">trespasse</rdg>
-                        <rdg wit="#A">trespassera</rdg>
-                        <rdg xml:lang="lat">qui quod dispositum est transcendit</rdg>
-                      </app>.</p>
-                    <p><hi rend="i">L</hi> contaminé : alors que <hi rend="i">A</hi> et <hi rend="i">F</hi> omettent la traduction de l’Auth. 5, celle-ci est présente dans <hi rend="i">L</hi> dans la version transmise par <hi rend="i">O</hi>. Rappelons que dans <hi rend="i">O</hi>, l’Auth. 5 appartenait à une séquence textuelle relevant de l’état traductif 3.</p>
-                  </item>
-                </list>
+                <div>
+                  <head><hi rend="b">O</hi> <hi rend="i">vs</hi> <hi rend="b">AFL</hi></head>
+                  <p>Fautes communes <hi rend="i">AFL</hi> : Auth. 81.pr <app>
+                    <rdg wit="#A #F #L">desordeneement</rdg>
+                    <rdg wit="#O">desanorrement</rdg>
+                    <rdg xml:lang="lat">inornatum</rdg>
+                  </app> ; Auth. 81.5.1 <app>
+                    <rdg wit="#A #F #L">en ceste beneuree cité</rdg>
+                    <rdg wit="#O">c. buene c.</rdg>
+                    <rdg xml:lang="lat">in hac bona civitate</rdg>
+                  </app> ; Auth. 81.6 <app>
+                    <rdg wit="#A #F #L">a ceste sainte cité</rdg>
+                    <rdg wit="#O">sainte <emph rend="normal">om.</emph></rdg>
+                    <rdg xml:lang="lat">in hac habitantium civitate</rdg>
+                  </app> ; Auth. 81.9 <app>
+                    <rdg wit="#A #F #L">et nous donnons a celui qui avra ceste bailliee fiance</rdg>
+                    <rdg wit="#O">qui a</rdg>
+                    <rdg xml:lang="lat">Damus autem administrationem habenti fiduciam</rdg>
+                  </app> ; Auth. 81.9 <app>
+                    <rdg wit="#A #F #L">il puissent ce faire</rdg>
+                    <rdg wit="#O">il puisse</rdg>
+                    <rdg xml:lang="lat">et hoc agat</rdg>
+                  </app> ; Auth. 81.10 <app>
+                    <rdg wit="#A #F #L">commandons nous que il soit gariz sanz damage</rdg>
+                    <rdg wit="#O">s. gardé s.</rdg>
+                    <rdg xml:lang="lat">ita indemnes eos servari iubemus</rdg>
+                  </app> ; Auth. 82.2 <app>
+                    <rdg wit="#A #F #L">qui en sont deü</rdg>
+                    <rdg wit="#O">qui ensuit dieu</rdg>
+                    <rdg xml:lang="lat">sequente deum</rdg>
+                  </app> ; Auth. 83.pr <app>
+                    <rdg wit="#A #F #L">il ne nous est pas avis que li un aient nom de juges</rdg>
+                    <rdg wit="#O">avis que il conviengne que...</rdg>
+                    <rdg xml:lang="lat">Non enim existimavimus oportere habere quosdam nomina</rdg>
+                  </app> ; Auth. 83.1 <app>
+                    <rdg wit="#A #F #L">qui a piece a esleü l’office</rdg>
+                    <rdg wit="#O">p. acompli l’.</rdg>
+                    <rdg xml:lang="lat">jam advocatione dudum completa</rdg>
+                  </app> ; Auth. 83.1 <app>
+                    <rdg wit="#A #F #L">et Flavian qui est orendroit avocaz de la borse l’empereur <emph rend="normal">om.</emph></rdg>
+                    <rdg wit="#O"/>
+                    <rdg xml:lang="lat">ac Flavianus, qui nunc advocatus fisci consistit</rdg>
+                  </app> ; Auth. 83.1 <app>
+                    <rdg wit="#A #F #L">que nous savons bien qui <hi rend="i">om.</hi></rdg>
+                    <rdg wit="#O"/>
+                    <rdg xml:lang="lat">quem cognovimus</rdg>
+                  </app>. <hi rend="i">AFL</hi> descendent donc d’un ancêtre commun.</p>
+                  <p><hi rend="i">AFL</hi> ne peuvent descendre de <hi rend="i">O</hi> : <hi rend="i">O</hi> est le seul témoin à présenter certaines omissions (Auth. 81.2 <app>
+                    <rdg wit="#A #F #L">qui maintiengnent le plet par droit</rdg>
+                    <rdg wit="#O"><emph rend="normal">om.</emph></rdg>
+                  </app> ; Auth. 81.3 <app>
+                    <rdg wit="#A #F #L">citez et en lor</rdg>
+                    <rdg wit="#O"><emph rend="normal">om. (saut du même au même)</emph></rdg>
+                  </app> ; Auth. 81.6 <app>
+                    <rdg wit="#A #F #L">quant il lor avra enquis la verité</rdg>
+                    <rdg wit="#O">lor <emph rend="normal">om.</emph></rdg>
+                  </app>. En outre, <hi rend="i">O</hi> est le seul des quatre témoins à omettre les incipit latins des paragraphes. <hi rend="i">O</hi> transmet par ailleurs de nombreuses leçons individuelles, qui ne sont pas manifestement fautives, et que la tradition manuscrite en aval n’aurait eu aucune raison d’éliminer : Auth. 81.1 <app>
+                    <rdg wit="#A #F #L">qui ont ceste dignité</rdg>
+                    <rdg wit="#O">ont esté digne</rdg>
+                  </app> ; Auth. 81.10 <app>
+                    <rdg wit="#A #F #L">avons cure</rdg>
+                    <rdg wit="#O">avons grant cure</rdg>
+                  </app>. <hi rend="i">AFL</hi> descendent donc d’un ancêtre commun distinct de <hi rend="i">O</hi>, que nous appellerons <hi rend="i">α</hi>.</p>
+                </div>
+                <div>
+                  <head>Relations au sein de la famille α</head>
+                  <p><hi rend="i">A</hi> ne peut descendre de <hi rend="i">F</hi> : de nombreuses leçons isolées de <hi rend="i">F</hi>, fautives ou non, opposant ce témoin à <hi rend="i">AL</hi>, interdisent de faire de <hi rend="i">F</hi> l’ancêtre de <hi rend="i">AL</hi> : Auth. 82.1 <app>
+                    <rdg wit="#F">qui est en grant dignitez</rdg>
+                    <rdg wit="#O #A #L">en si g.</rdg>
+                    <rdg xml:lang="lat">omnis talis dignitas</rdg>
+                  </app> ; Auth. 82.1.1 <app>
+                    <rdg wit="#F">soient hors d’aucun travail de autrui baill</rdg>
+                    <rdg wit="#O #A #L">d’aucun travail</rdg>
+                  </app> ; Auth. 82.1.1 <app>
+                    <rdg wit="#F">il use hors de son baill</rdg>
+                    <rdg wit="#A #L">il isse h.</rdg>
+                  </app></p>
+                  <p><hi rend="i">F</hi> et <hi rend="i">L</hi> ne peuvent descendre de <hi rend="i">A</hi> : de nombreuses leçons isolées de <hi rend="i">A</hi>, fautives ou non, opposant ce témoin à <hi rend="i">FL</hi>, interdisent de faire de <hi rend="i">A</hi> l’ancêtre de <hi rend="i">FL</hi> : Auth. 81.3 <app>
+                    <rdg wit="#F #L #O">pour pledier li un contre les autres</rdg>
+                    <rdg wit="#A">p. l’un contre l’autre et</rdg>
+                    <rdg xml:lang="lat">quidam forsan alii, aut etiam litigaturi adversus alios</rdg>
+                  </app> ; Auth. 81.5.1 <app>
+                    <rdg wit="#F #L #O">Et se aucuns vuelent servir</rdg>
+                    <rdg wit="#A">et se aucun veult s.</rdg>
+                    <rdg xml:lang="lat">Si vero aliqui noluerint</rdg>
+                  </app> ; Auth. 81.8 <app>
+                    <rdg wit="#F #L #O">cil qui ont ceste baillie</rdg>
+                    <rdg wit="#A">qui ont esté baillié</rdg>
+                    <rdg xml:lang="lat">qui hanc administrationem habet</rdg>
+                  </app> ; Auth. 81.9 <app>
+                    <rdg wit="#F #O">Et se il veult metre outre mer aucun</rdg>
+                    <rdg wit="#A">metre el treu a.</rdg>
+                    <rdg wit="#L">mettre ou envoiez a.</rdg>
+                    <rdg xml:lang="lat">in transmarinis partibus collocare</rdg>
+                  </app>.</p>
+                  <p>Par sa date tardive, <hi rend="i">L</hi> ne peut être l’ancêtre d’aucun des témoins conservés de la tradition.</p>
+                  <p><hi rend="i">L</hi> ne peut descendre de <hi rend="i">F</hi>, au vu de certaines erreurs de <hi rend="i">F</hi> contre <hi rend="i">AL</hi> : Auth. 34.2.1 <app>
+                    <rdg wit="#A #L">marcie dit</rdg>
+                    <rdg wit="#F">marc le dit</rdg>
+                    <rdg xml:lang="lat">sicut Marciani divae memoriae constitutio dicit</rdg>
+                  </app> ; Auth. 34.2.2 <app>
+                    <rdg wit="#F">bonne memoire</rdg>
+                    <rdg wit="#A #L">bonne mesure</rdg>
+                    <rdg xml:lang="lat">et spectacula ad bene se habentem deduximus mensuram</rdg>
+                  </app> ; Auth. 81.1 <app>
+                    <rdg wit="#A #L">annones</rdg>
+                    <rdg wit="#F">aumosnes</rdg>
+                  </app> ; A. 81.8 <app>
+                    <rdg wit="#A #L">a paié</rdg>
+                    <rdg wit="#F">a paine</rdg>
+                  </app>.</p>
+                  <p>Il convient donc de supposer un ancêtre commun à <hi rend="i">AFL</hi>.</p>
+                </div>
+                <div>
+                  <head>Place de <hi rend="b">L</hi></head>
+                  <p>Au vu de nos sondages limités, la place de <hi rend="i">L</hi> n’est pas assurée.</p>
+                  <p><hi rend="i">β</hi> ancêtre de <hi rend="i">FL</hi> ?: deux fautes communes <hi rend="i">FL</hi> pourraient conduire à conclure à un ancêtre commun à <hi rend="i">FL</hi> : Auth 81.1 <app>
+                    <rdg wit="#A #O">vistement</rdg>
+                    <rdg wit="#F #L">justement</rdg>
+                    <rdg xml:lang="lat">festinanter</rdg>
+                  </app> ; <foreign xml:lang="lat">id.</foreign> Auth 81.3 [<foreign xml:lang="lat">cum festinatione</foreign>]. Toutefois, ces fautes ne sont pas des plus probantes parce que la paléographie peut expliquer que deux copistes aboutissent indépendamment à <quote>justement</quote> à partir de <quote>vistement</quote>. Plusieurs leçons séparatives vont également en ce sens, mais elles peuvent être seulement le miroir d’une innovation dans <hi rend="i">A</hi> : Auth. 34.1 <app>
+                    <rdg wit="#F #L">metons</rdg>
+                    <rdg wit="#A">metent</rdg>
+                    <rdg xml:lang="lat">in legis enim hoc ponimus schemate</rdg>
+                  </app> ; <app>
+                    <rdg wit="#F #L">lor rentes</rdg>
+                    <rdg wit="#A">les rentes</rdg>
+                    <rdg xml:lang="lat">Reditus autem eorum imminutos omnes esse volumus</rdg>
+                  </app> ; Auth. 34.2.1 <app>
+                    <rdg wit="#F #L">la chose soit vendue</rdg>
+                    <rdg wit="#A">sa chose soit rendue</rdg>
+                    <rdg xml:lang="lat">sive rursus venire ad hoc voluerit</rdg>
+                  </app> ; Auth. 34.2.2 <app>
+                    <rdg wit="#F #L">trespasse</rdg>
+                    <rdg wit="#A">trespassera</rdg>
+                    <rdg xml:lang="lat">qui quod dispositum est transcendit</rdg>
+                  </app>.</p>
+                  <p><hi rend="i">L</hi> contaminé : alors que <hi rend="i">A</hi> et <hi rend="i">F</hi> omettent la traduction de l’Auth. 5, celle-ci est présente dans <hi rend="i">L</hi> dans la version transmise par <hi rend="i">O</hi>. Rappelons que dans <hi rend="i">O</hi>, l’Auth. 5 appartenait à une séquence textuelle relevant de l’état traductif 3.</p>
+                </div>
+              </div>
+              <div>
+                <head>Bilan</head>
                 <p>La limite de ces observations dans une tradition à quatre témoins est qu’elles n’établissent pas nettement que <hi rend="i">A</hi> descend d’un manuscrit différent de celui dont descendent <hi rend="i">F</hi> et <hi rend="i">L</hi>. Autrement dit, elle ne suffit pas à établir si la famille <hi rend="i">α</hi> est trifide ou bifide. Au vu des données textuelles récoltées, la probabilité d’une famille bifide semble l’emporter légèrement : la fréquence des leçons <hi rend="i">A</hi> vs <hi rend="i">FL</hi> et le soin apporté à la copie de <hi rend="i">A</hi> plaident en faveur de l’hypothèse suivante, toute provisoire :</p>
+                <figure>
+                  <graphic url="authenticum_stemma.png"/>
+                </figure>
                 <eTree type="hypothetical">
                   <label>ω</label>
                   <eTree type="hypothetical">
@@ -380,22 +370,22 @@
               </div>
             </div>
             <div type="manuscrit">
-              <list type="listMs">
+              <head>Manuscrits</head>
                 <!-- FD: placer la notice complète même si elle comprend plusieurs oeuvres -->
-                <item xml:id="kbr_10467" corresp="ARK_manuscrit">
-                  <msDesc type="manifestation_singleton">
+                <div>
+                  <head>Bruxelles, Bibl. royale de Belgique, 10467</head>
+                  <msDesc xml:id="kbr_10467" type="biblissima">
                     <msIdentifier>
                       <country>Belgique</country>
                       <settlement>Bruxelles</settlement>
                       <repository>Bibl. royale de Belgique</repository>
                       <idno>10467</idno>
                       <altIdentifier>
-                        <idno>L</idno>
-                        <note n="institutiones">éd. Olivier-Martin</note>
+                        <idno resp="Olivier-Martin">L</idno>
                       </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                      <summary>traductions <lang xml:lang="fro" n="lang_arrivée">françaises</lang> anonymes des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 1-141) et de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 141v-309).</summary>
+                      <summary>Traductions <lang xml:lang="fro" n="lang_arrivée">françaises</lang> anonymes des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 1-141) et de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 141v-309).</summary>
                       <msItem n="institutiones" xml:id="kbr_10467_institutiones">
                         <locus from="1" to="141"/>
                         <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -1512,9 +1502,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition" n="institutiones">
-                    <note type="edition" n="1">
-                      <label>Inst. 2.17</label>
+                  <div type="edition" n="institutiones">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Inst. 2.17</head>
                       <p><emph n="rubrique"><foreign xml:lang="lat" rend="underlined">Quibus modis testamentum
                         <expan>fir<ex>ma</ex>tur</expan></foreign></emph><supplied resp="#FD">T</supplied>estament qui est fait par droit vault tant <expan>q<ex>ue</ex></expan> il soit vains ou ront
                         <label>[1]</label>
@@ -1540,9 +1531,9 @@
                           <expan>aute<ex>m</ex></expan>.</foreign> Testament ne peut pas estre cassez pource sans plus que cellui qui le fit ne voult pas que telle euvre feust aprinse que ycellui testament vaulsist quar se aucun a fait son testament par droit et il commence aprés a faire un autre et la mort le devancist ou il se repent si que il ne le <expan>p<ex>ar</ex>fait</expan> pas / l’empereur <expan>p<ex>er</ex>tinent</expan> establist que le premier testament ne soit pas pource vains quar
                         <expan>testam<ex>en</ex>t</expan> qui n’est pas fait n’est nul <label>[8]</label> par celle meisme raison dit il qu’il ne recevra pas l’eritage a cellui son hoir pour cause de plait et que il prouverra que les tables ne furent pas faittes loyaument / en quoy il estoit establi hoir pour celle cause et que il ne recevra pas nom d’oir pour une voix et que il ne conquerra nulle chose par escripture a qui l’auctorité de droit faille / et selon ce escriprent souvent les sains empereurs / senons
                         <expan><ex>et</ex></expan> antonius ja soit ce sont ilz que nous soions au dessus des loys ne pourquant nous ne voulons rien faire qui soit contraire aux lois</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 4.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 4.17</head>
                       <p><emph n="rubrique"><foreign xml:lang="lat" rend="underlined">De officio judicis</foreign></emph><supplied resp="#FD">I</supplied>l convient que nous traictons de l’office au juge et le juge doit regarder premier que il ne juge fors sicomme il establist par les lois ou par les establissemens ou par les coustumes <label>[1]</label> et pour ce se l’en plaide
                         <expan>cont<ex>re</ex></expan> le
                         <expan>seign<ex>eu</ex>r</expan>
@@ -1572,10 +1563,10 @@
                         <label>[7]</label>
                         <foreign xml:lang="lat" rend="underlined">Quod autem</foreign> Ce qui est adjugié a aucun par ces
                         <expan>jugem<ex>en</ex>s</expan> est maintenant a cellui a qui il est adjugié</p>
-                    </note>
-                  </note>
-                  <note type="edition" n="authenticum">
-                    <label>Auth. 34 (Nov. 105)</label>
+                    </div>
+                  </div>
+                  <div type="edition" n="authenticum">
+                    <head>Auth. 34 (Nov. 105)</head>
                     <p><foreign xml:lang="lat" rend="underlined">De consulibus</foreign></p>
                     <p><pb n="f. 238"/>
                       <label>[pr.]</label>
@@ -1616,10 +1607,11 @@
                       <expan>sup<ex>er</ex>flue</expan> pour establir a la chose commune dignité de conseillier qui soit sans morir
                       <label>[2.4]</label> Nostre disposicion soit donc soubzmise a ceste loy sicomme nous deismes avant / et si establissons que les conseilliers qui seront selon le temps aient de sa cort l’exemplaire de ceste loy si que selon ces establissemens soient toutes choses donnees et nous voulons que l’exemplaire en soit donné de ton siege si que il ne leur plaise pas de faire encontre ne cellui que l’en appelle abreviateur n’en puissent riens corrompre des choses <expan>q<ex>ue</ex></expan> nous avons ordenees mais au peril de ceulx qui gardent ceste disposicion l’exemplaire en soit bailliez en ta court avecques la disposicion de cellui qui aura ceste dignité que tu as maintenant / affin que il ne puisse avoir nulle corrupcion es choses que nous avons ordenees / ce ne sera grief chose a nulz de ceulx qui viennent a honneur de conseillier se il a moiennes despenses si auront de ci en <expan>ava<ex>n</ex>t</expan> nom <expan><ex>et</ex></expan> honneur de la court de ta haultece et de noz
                       <expan>glorie<ex>us</ex></expan> prevosts et les choses que ilz avoient d’autre part pour croistre largece leur donnons nous encore si que nous <pb n="f. 241"/> apetiçons les despenses que ilz doivent faire et n’apetiçons pas le don que nous leur devons donner / En toutes les choses que nous avons dictes soit exceptee la fortune l’empereur a qui dieu soubzmist les lois meismes et l’a donné aux hommes comme loy vive si que l’empereur a dignité pardurable sans fin d’establir aux citez <expan><ex>et</ex></expan> aux peuples toutes les choses qui lui plaisent et pource doit il suivre en toutes choses les droitures de l’empire tant comme il vit / Ta haultece reçoive donc ceste nostre loy et procure que elle soit <expan>pardurablem<ex>en</ex>t</expan> en sa force selon toute la verité des choses qui y sont contenues.</p>
-                  </note>
-                </item>
-                <item xml:id="bl_royal20" corresp="ARK_manuscrit">
-                  <msDesc type="manifestation_singleton">
+                  </div>
+                </div>
+                <div corresp="ARK_manuscrit">
+                  <head>London, British Libr., Royal 20.D.IX</head>
+                  <msDesc  xml:id="bl_royal20" type="biblissima">
                     <msIdentifier>
                       <country>Angleterre</country>
                       <settlement>London</settlement>
@@ -4786,9 +4778,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition" n="authenticum">
-                    <note type="edition" n="1">
-                      <label>Auth. 34 (Nov. 105)</label>
+                  <div type="edition" n="authenticum">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Auth. 34 (Nov. 105)</head>
                       <p><emph n="rubrique">Cist tytres est des
                         <expan><ex>con</ex>selliers</expan></emph>
                         <label>[praef.]</label>
@@ -4930,9 +4923,9 @@
                         <expan><ex>con</ex>tenue</expan>. la forme de ceste loi a esté escrite a jehan <expan>p<ex>re</ex>vost</expan> d’oriant.
                         <expan><ex>et</ex></expan> a longin
                         <expan>p<ex>re</ex>vost</expan> de ceste beneuree cité.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Auth. 58 (Nov. 49)</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Auth. 58 (Nov. 49)</head>
                       <p><emph n="rubrique">Cist tytres est de ceus qui porsuient leur apel <expan><ex>et</ex></expan>
                         <expan>q<ex>ue</ex></expan>
                         <expan><ex>com</ex>paroiso<ex>n</ex></expan> ne doit estre fete fors des <expan><ex>com</ex>muns</expan>
@@ -5092,9 +5085,9 @@
                         <expan><ex>con</ex>trainte</expan> de fere sovant serement. quant cil general seremenz avra issi esté fez.
                         <label>[epil.]</label> Ta hautece face donc savoir a toz. par solemnes banissemenz les choses qui nos plesent.
                         <expan><ex>et</ex></expan> qui sont escleriees par ceste sainte loi. que tuit sachent ce qu’il nos plest.</p>
-                    </note>
-                    <note type="edition" n="3">
-                      <label>Auth. 81 (Nov. 80)</label>
+                    </div>
+                    <div type="edition" n="3">
+                      <head>Auth. 81 (Nov. 80)</head>
                       <p><emph n="rubrique">Cist tytres est del qesteur</emph> Li
                         <expan>emp<ex>er</ex>eres</expan> justinians dit a jehan le prevost. <label>[praef.]</label> Nos nos porvoions del tout o l’aide de damediex. <expan>q<ex>ue</ex></expan> li sozmis
                         <expan>q<ex>ue</ex></expan> damediex nos a bailliez soient gardé d’estre grevé. Nos fesons donc lois por
@@ -5320,11 +5313,13 @@
                         <expan>avo<ex>n</ex>s</expan> donnees li soient purement gardees en toz cas. car il est droiz <expan>q<ex>ue</ex></expan> la dignité qui governe toutes choses. <expan>avena<ex>n</ex>t<pb n="f. 76d"/>ment</expan> soit par desus toutes les autres.
                         <label>[epil.]</label> Ta hautece s’entremete donc de mener a effeut. toutes les choses qui <expan>plese<ex>n</ex>t</expan> a nostre hautece. <expan><ex>et</ex></expan> l’ot nostre
                         <expan>porvea<ex>n</ex>ce</expan>. par qoi nos establissons une novele dignité. <expan><ex>et</ex></expan> avons en toutes choses cure de noz sormis.</p>
-                    </note>
-                  </note>
-                  <note type="edition" n="tres_libri">
-                    <note type="edition" n="1">
-                      <label>C. 10.65-78</label>
+                    </div>
+                  </div>
+                  <div type="edition" n="tres_libri">
+                    <!-- TODO. REVOIR CETTE STRUCTURE -->
+                    <head><hi rend="i">Tres libri</hi>, édition</head>
+                    <div type="edition" n="1">
+                      <head>C. 10.65-78</head>
                       <p><label>[C. 10.65]</label>
                         <emph n="rubrique"><expan>C<ex>ist</ex></expan>
                           <expan>t<ex>ytres</ex></expan>
@@ -5868,9 +5863,9 @@
                         <hi rend="b">L</hi>i empereres archades dit <hi rend="b">N</hi>os <expan>comando<ex>n</ex>s</expan> que chacuns oit pooir de paier or por la some de l’argent
                         <expan>q<ex>ue</ex></expan> il devoit paier. si
                         <expan>q<ex>ue</ex></expan> il doint por chascune livre d’argent .v. s. d’or</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>C. 12.1</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>C. 12.1</head>
                       <p><emph n="rubrique"><expan>C<ex>ist</ex></expan>
                         <expan>t<ex>ytres</ex></expan>
                         <expan>e<ex>st</ex></expan> des dignitez</emph>
@@ -5999,10 +5994,10 @@
                         <pb n="f. 170a"/> il lise a toz ceus. qui sont es gregneurs dignitez ; ou es meneurs. <expan><ex>et</ex></expan> as nobles anorez qui de ceste cité sont alé es contrees.
                         <expan>p<ex>ar</ex></expan> nostre
                         <expan><ex>com</ex>mandem<ex>en</ex>t</expan> ou qui ont leur habitacion <expan>q<ex>ue</ex></expan> se il ont besoing de venir a ceste real cité. il li viegnent sanz estre rapelé.</p>
-                    </note>
-                  </note>
-                  <note type="edition" n="institutiones">
-                    <label>Rubriques des <title>Institutes</title></label>
+                    </div>
+                  </div>
+                  <div type="edition" n="institutiones">
+                    <head>Rubriques des <title>Institutes</title></head>
                     <p>En non de <expan>n<ex>ost</ex>re</expan> seignor
                       <expan>Jh<ex>es</ex>ucrist</expan> ci
                       <expan><ex>com</ex>m<ex>en</ex>ce</expan> les institutes a l’<expan>emp<ex>er</ex>eor</expan>
@@ -6195,10 +6190,11 @@
                           <expan>juigem<ex>en</ex>z</expan>.</item>
                       </list>
                     </p>
-                  </note>
-                </item>
-                <item xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s">
-                  <msDesc type="manifestation_singleton">
+                  </div>
+                </div>
+                <div>
+                  <head>Paris, Bibl. nat. de Fr., fr. 498</head>
+                  <msDesc xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s" type="biblissima">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -8643,9 +8639,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition" n="institutiones">
-                    <note type="edition" n="1" resp="Alix Duvillier">
-                      <label>Inst. 2.17<ref type="note" target="#fr_498_note_1">1</ref><note type="bas_page" xml:id="fr_498_note_1">transcription Alix Duvillier AP1 2014 ; ponctuation à revoir.</note></label>
+                  <div type="edition" n="institutiones">
+                    <head>Édition</head>
+                    <div type="edition" n="1" resp="Alix Duvillier">
+                      <head>Inst. 2.17<ref type="note" target="#fr_498_note_1">1</ref><note type="bas_page" xml:id="fr_498_note_1">transcription Alix Duvillier AP1 2014 ; ponctuation à revoir.</note></head>
                       <p><emph n="rubrique">Cist titrez est en quel maniere testamens sont <expan>q<ex>ua</ex>ssés</expan></emph>
                         <expan>Testam<ex>en</ex>t</expan>
                         <expan>q<ex>ui</ex></expan> est fet <expan>p<ex>ar</ex></expan> droit vault tant <expan>q<ex>u’i</ex>l</expan> soit rous.
@@ -8778,9 +8775,9 @@
                         <expan>no<ex>us</ex></expan> ne voulon riens faire
                         <expan>q<ex>ui</ex></expan> soit
                         <expan><ex>con</ex>traire</expan> as lois.</p>
-                    </note>
-                    <note type="edition" n="2" resp="Lenaïg Roumegou">
-                      <label>Inst. 4.17<ref type="note" target="#fr_498_note_2">2</ref><note type="bas_page" xml:id="fr_498_note_2">transcription de Lenaïg Roumegou.</note></label>
+                    </div>
+                    <div type="edition" n="2" resp="Lenaïg Roumegou">
+                      <head>Inst. 4.17<ref type="note" target="#fr_498_note_2">2</ref><note type="bas_page" xml:id="fr_498_note_2">transcription de Lenaïg Roumegou.</note></head>
                       <p><emph n="rubrique">Cist titres est dez entredis dez offices au juge</emph> Il <expan><ex>con</ex>vient</expan>
                         <expan>q<ex>ue</ex></expan>
                         <expan>no<ex>us</ex></expan> traitons de l’office au juge. le juge doit garder <expan>p<ex>re</ex>miereme<ex>n</ex>t</expan>
@@ -8945,11 +8942,11 @@
                         <expan>jugem<ex>en</ex>t</expan> est
                         <expan>maintena<ex>n</ex>t</expan> a celui
                         <expan>q<ex>u</ex>i</expan> est ajugié.</p>
-                    </note>
-                  </note>
-                  <note type="edition" n="authenticum" resp="Catherine Koehl Anne-Sophie Lienhard">
-                    <label>Auth 34 (Nov. 105)<ref type="note" target="#fr__498_note_3">3</ref><note type="bas_page" xml:id="fr__498_note_3">transcription de Catherine Koehl et Anne-Sophie Lienhard.</note>
-                      <supplied resp="#FD"><title xml:lang="lat">De consulibus</title></supplied></label>
+                    </div>
+                  </div>
+                  <div type="edition" n="authenticum" resp="Catherine Koehl Anne-Sophie Lienhard">
+                    <head>Auth 34 (Nov. 105)<ref type="note" target="#fr__498_note_3">3</ref><note type="bas_page" xml:id="fr__498_note_3">transcription de Catherine Koehl et Anne-Sophie Lienhard.</note>
+                      <supplied resp="#FD"><title xml:lang="lat">De consulibus</title></supplied></head>
                     <p><supplied resp="#FD">C</supplied>il meismez dit a trage le conte dez <expan>sai<ex>n</ex>z</expan> dons <pb n="f. 87b"/>
                       <hi rend="b">L</hi>e non. et la cause de
                       <expan><ex>con</ex>tee</expan> fu trovés par lez anciens romains
@@ -9065,9 +9062,9 @@
                       <expan><ex>com</ex>me</expan> il vit. Ta hautece reçoive
                       <expan>do<ex>n</ex>c</expan> ceste nostre loi et
                       <expan>p<ex>ro</ex>cure</expan> que ele soit pardurablement en sa force selon toute <pb n="f. 89a"/> la verité des choses qui y sont <expan><ex>con</ex>tenues</expan>.</p>
-                  </note>
-                  <note type="edition" n="tres_libri">
-                    <label>C. 12.1</label>
+                  </div>
+                  <div type="edition" n="tres_libri">
+                    <head>C. 12.1</head>
                     <p><emph n="rubrique">Cist tytres est des dignetés</emph>
                       <label>[1]</label>
                       <hi rend="b">L</hi>i emperiere alixandre dit a severiaine :
@@ -9130,10 +9127,11 @@
                       <hi rend="b">L</hi>i emperiere anastaise dit <expan><hi rend="b">N</hi>o<ex>us</ex></expan> coumandon que il loise a tous ceuls qui sont en dignetés
                       <expan>gregn<ex>our</ex>s</expan> ou es menours
                       <expan><ex>et</ex></expan> as nobles honnorés qui de ceste cité sont alé es contrees par nostre coumandement ou qui vont lor habitacion que se il ont besoing de venir a ceste real cité il y viegnent sans estre rapelé.</p>
-                  </note>
-                </item>
-                <item xml:id="fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r">
-                  <msDesc type="manifestation_singleton">
+                  </div>
+                </div>
+                <div>
+                  <head>Paris, Bibl. nat. de Fr., fr. 22970</head>
+                  <msDesc xml:id="fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r" type="biblissima">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -11810,9 +11808,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition" n="institutiones">
-                    <note type="edition" n="1" resp="Maria Navàs">
-                      <label>Inst. 2.17<ref type="note" target="#fr_22970_note_1">1</ref><note type="bas_page" xml:id="fr_22970_note_1">Transcription par Marina Navàs, 2014.</note></label>
+                  <div type="edition" n="institutiones">
+                    <head>Édition</head>
+                    <div type="edition" n="1" resp="Maria Navàs">
+                      <head>Inst. 2.17<ref type="note" target="#fr_22970_note_1">1</ref><note type="bas_page" xml:id="fr_22970_note_1">Transcription par Marina Navàs, 2014.</note></head>
                       <p><emph n="rubrique">Cest tytre <expan>p<ex>ar</ex>ole</expan> de
                         <expan>div<ex>er</ex>s</expan> testamens.</emph>
                         <hi rend="b">T</hi>Estament qui est fet
@@ -11946,9 +11945,9 @@
                         <expan>asso<ex>us</ex></expan>
                         <pb n="f. 27b"/> des loys. <expan>nepourqu<ex>an</ex>t</expan>
                         <expan>no<ex>us</ex></expan> ne <expan>voulo<ex>n</ex>s</expan> rienz faire qui soit contrere a loys.</p>
-                    </note>
-                    <note type="edition" n="2" resp="Julia Szekely">
-                      <label>Inst. 4.17<ref type="note" target="#fr_22970_note_2">2</ref><note type="bas_page" xml:id="fr_22970_note_2">Transcription Julia Szekely, AP1 2014.</note></label>
+                    </div>
+                    <div type="edition" n="2" resp="Julia Szekely">
+                      <head>Inst. 4.17<ref type="note" target="#fr_22970_note_2">2</ref><note type="bas_page" xml:id="fr_22970_note_2">Transcription Julia Szekely, AP1 2014.</note></head>
                       <p><emph n="rubrique">Cest tytre parole del office au juge.</emph> Il convient que nous traitons de l’office au juge. li juges doit
                         <expan>gard<ex>er</ex></expan>
                         <expan>p<ex>re</ex>m<ex>er</ex>em<ex>en</ex>t</expan>
@@ -12061,11 +12060,12 @@
                         <expan>co<ex>m</ex>me</expan> se aucuns ne sueffre pas que li champ soit mesuré <expan>q<ex>u</ex>ant</expan> li juges la
                         <expan>co<ex>m</ex>mande</expan>. <label>[7]</label> Ce qui est ajugié a aucun <expan>p<ex>ar</ex></expan> ces
                         <expan>jugem<ex>en</ex>z</expan> est maintenant a celui a qui il est ajugié.</p>
-                    </note>
-                  </note>
-                  <note type="edition" n="authenticum">
-                    <note type="edition" n="1">
-                      <label>Auth. 34 (Nov. 105)</label>
+                    </div>
+                  </div>
+                  <div type="edition" n="authenticum">
+                    <head>TODO. REVOIR STRUCTURE</head>
+                    <div type="edition" n="1">
+                      <head>Auth. 34 (Nov. 105)</head>
                       <p><emph n="rubrique">Des contes</emph>
                         <label>[Pr.]</label>
                         <hi rend="b">C</hi>il meismes dit a trage le conte des sainz dons. ¶ li nons et la cause de contee fu trouvez
@@ -12280,9 +12280,9 @@
                         <expan>p<ex>ro</ex>cure</expan>
                         <expan>q<ex>ue</ex></expan> ele soit
                         <expan>p<ex>ar</ex>durablem<ex>en</ex>t</expan> en sa force. selonc toute la <expan>v<ex>er</ex>ité</expan> des choses qui i sont contenues.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Auth. 81-85 (Nov. 80-84)</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Auth. 81-85 (Nov. 80-84)</head>
                       <p><label>[Auth. 81, Nov. 80]</label>
                         <emph n="rubrique">Cest tytres est du questeur</emph><label>[Pr.]</label>
                         <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> justiniens dit a Jehan le prevost. <hi rend="b">N</hi>ous nous porveons del tout a l’aide de damedieu<ref type="note" target="#fr_22970_note_3">3</ref><note type="bas_page" xml:id="fr_22970_note_3"><app>
@@ -13253,10 +13253,10 @@
                         <label>[ep.]</label> Ta hautece s’entremete donc d’esclerier
                         <expan>p<ex>ar</ex></expan> tes letres et de! garder
                         <expan>p<ex>ar</ex>durablement</expan> les choses qui nous ont pleu. et sont faites <expan>ap<ex>er</ex>tes</expan> par ceste sainte loy.</p>
-                    </note>
-                  </note>
-                  <note type="edition" n="tres_libri" resp="Alexandre Michaud">
-                    <label>C. 12.1<ref type="note" target="#fr_22970_note_122">122</ref><note type="bas_page" xml:id="fr_22970_note_122">transcription d’Alexandre Michaud.</note></label>
+                    </div>
+                  </div>
+                  <div type="edition" n="tres_libri" resp="Alexandre Michaud">
+                    <head>C. 12.1<ref type="note" target="#fr_22970_note_122">122</ref><note type="bas_page" xml:id="fr_22970_note_122">transcription d’Alexandre Michaud.</note></head>
                     <p><emph n="rubrique">Ci <expan>co<ex>m</ex>mence</expan> le dousieme livre du code. Cest tytre est des dignetez.</emph><label>[1]</label>
                       <supplied>L</supplied>i <expan>Emp<ex>er</ex>eres</expan> alixandres dit a severiane. <hi rend="b">S</hi>e vostre aiel fu <expan>co<ex>n</ex>te</expan>. et vostre
                       <expan>p<ex>er</ex>e</expan> prevost si
@@ -13348,9 +13348,8 @@
                       <expan>q<ex>ue</ex></expan> et as nobles
                       <expan>he<ex>n</ex>norez</expan> qui de ceste cité sont alez es contrees par nostre <expan>co<ex>m</ex>mandem<ex>en</ex>t</expan>. ou qui i ont lor habitacion que se il ont besoing de venir a ceste real cité il i <expan>viegne<ex>n</ex>t</expan>
                       <expan>sa<ex>n</ex>z</expan> estre rapelez.</p>
-                  </note>
-                </item>
-              </list>
+                  </div>
+                </div>
             </div>
           </div>
         </div>
