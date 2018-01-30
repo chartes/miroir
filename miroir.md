@@ -14,6 +14,7 @@
 * revoir l’identification des paragraphes dans les transcriptions (`label`)
 * `codex_justinianus.xml`: revoir les `label` des éditions.
 * revoir les espacements entre les `supplied`
+* dans les éditions : `label` = référence du paragraphe transcrit
 
 # articulation Notice / content. ex. du ms BnF fr. 263
 `//msDesc[contains(msIdentifier/idno, '263')]`
