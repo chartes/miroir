@@ -122,7 +122,7 @@
                   <msIdentifier>
                     <country>Etats-Unis</country>
                     <settlement>New Haven</settlement>
-                    <repository>Yale, University Library, Beinecke Rare Books &#38; Manuscripts Library</repository>
+                    <repository>Yale, University Library, Beinecke Rare Books &amp; Manuscripts Library</repository>
                     <idno>Marston 228</idno>
                     <altIdentifier>
                       <idno>C</idno>
@@ -2214,7 +2214,7 @@
                 <msIdentifier>
                   <country>Etats-Unis</country>
                   <settlement>New Haven</settlement>
-                  <repository>Yale, University Library, Beinecke Rare Books &#38; Manuscripts Library</repository>
+                  <repository>Yale, University Library, Beinecke Rare Books &amp; Manuscripts Library</repository>
                   <idno>Marston 228</idno>
                   <altIdentifier>
                     <idno>C</idno>
@@ -4032,7 +4032,7 @@
                   </origin>
                   <provenance>
                     <p><label>Provenance</label>a appartenu à <persName role="possesseur" key="Martin Gilbert">Martin Gilbert</persName>, professeur de droit à Paris, puis conseiller au parlement de Toulouse, qui a
-                      <q>fait des notes et explications des decretales [insérées] dans l’édition du Droit canonique de 1561, Paris, Merlin. des Bois &#38; Nivelle</q> (<bibl>Denis Simon, <title>Nouvelle bibliothèque historique et chronologique des principaux auteurs et interpretes du droit civil, canonique et particulier de plusieurs états et provinces</title>, Paris, t. 2, 1695, p. 122</bibl>), ex-libris d’un main du 16e s. sur l’ancien contreplat inférieur (aujourd’hui f. de garde parch. fin) : <q>Mart. Gilbert. iuris professor Parisiens. 1560</q>.</p>
+                      <q>fait des notes et explications des decretales [insérées] dans l’édition du Droit canonique de 1561, Paris, Merlin. des Bois &amp; Nivelle</q> (<bibl>Denis Simon, <title>Nouvelle bibliothèque historique et chronologique des principaux auteurs et interpretes du droit civil, canonique et particulier de plusieurs états et provinces</title>, Paris, t. 2, 1695, p. 122</bibl>), ex-libris d’un main du 16e s. sur l’ancien contreplat inférieur (aujourd’hui f. de garde parch. fin) : <q>Mart. Gilbert. iuris professor Parisiens. 1560</q>.</p>
                     <p><label>Anciennes cotes (f. 1)</label>[Baluze] <idno type="old">390</idno>, [Regius] <idno type="old">7347<hi rend="sup">2</hi></idno>.</p>
                   </provenance>
                 </history>

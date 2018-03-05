@@ -1155,10 +1155,10 @@
                           <list rend="bulleted">
                             <head>Traits communs aux scriptae picardes et wallonnes</head>
                             <item><hi rend="i">ch</hi>, aboutissement graphique de [k] en position forte (initiale ou appuyée) + [e], [i] ou [k], [t] + [y] :
-                              <quote>differenche</quote> &#x3c; <hi rend="sc">DIFFERENTIA</hi> (2.17.2),
-                              <quote>forche</quote> &#x3c; <hi rend="sc">FORTIA</hi> (2.17.2), <quote>che</quote> &#x3c; *<hi rend="sc">ECCE HOC</hi> (2.17.2, 2.17.4), <quote>cheux</quote> &#x3c; *<hi rend="sc">ECCE ILLOS</hi> (2.17.3),
-                              <quote>commenchement</quote>, dérivé du verbe issu de *<hi rend="sc">COMINITIARE</hi> (2.17.5-6), <quote>devanchast</quote>, d’après <hi rend="i">avanchier</hi> &#x3c; <hi rend="sc">ABANTIARE</hi> (2.17.7). Palatalisation de [k] + [e], [i] en position intervocalique : <quote>rechevoir</quote> (2.17.6),
-                              <quote>rechevra</quote> (2.17.8) &#x3c; <hi rend="sc">RECIPERE</hi>. Ce phénomène se rencontre dans la zone normanno-picarde, où <hi rend="i">ch</hi> note [š]. La graphie picarde a essaimé en Wallonie où elle notait [s] (cf.
+                              <quote>differenche</quote> &lt; <hi rend="sc">DIFFERENTIA</hi> (2.17.2),
+                              <quote>forche</quote> &lt; <hi rend="sc">FORTIA</hi> (2.17.2), <quote>che</quote> &lt; *<hi rend="sc">ECCE HOC</hi> (2.17.2, 2.17.4), <quote>cheux</quote> &lt; *<hi rend="sc">ECCE ILLOS</hi> (2.17.3),
+                              <quote>commenchement</quote>, dérivé du verbe issu de *<hi rend="sc">COMINITIARE</hi> (2.17.5-6), <quote>devanchast</quote>, d’après <hi rend="i">avanchier</hi> &lt; <hi rend="sc">ABANTIARE</hi> (2.17.7). Palatalisation de [k] + [e], [i] en position intervocalique : <quote>rechevoir</quote> (2.17.6),
+                              <quote>rechevra</quote> (2.17.8) &lt; <hi rend="sc">RECIPERE</hi>. Ce phénomène se rencontre dans la zone normanno-picarde, où <hi rend="i">ch</hi> note [š]. La graphie picarde a essaimé en Wallonie où elle notait [s] (cf.
                               <bibl>M.-G. Boutier, <title>LRL</title>, t. II/2, p. 294</bibl>).</item>
                             <item>respect de la déclinaison bicasuelle : cette copie tardive témoigne d’un grand conservatisme en matière flexionnelle, notamment en fonction de sujet masculin singulier, ce qui exclut une origine occidentale ou même centrale et oriente vers l’est du domaine d’oïl. Gossen (<bibl><title level="a">Remarques sur la déclinaison en ancien picard</title>, dans
                               <title>Travaux de linguistique et de littérature</title>, t. 9, 1971, p. 197-207</bibl>) a montré la résistance du système à deux cas en picard et en Champagne. Cf. aussi
@@ -1188,7 +1188,7 @@
                               <quote>parfet</quote> (2.17.3), <quote>reson</quote> (2.17.8), <quote>contrere</quote> (2.17.8). Cf.
                               <bibl>Dees 1980 c. 178 <hi rend="i">reison, resons, resson</hi> / <hi rend="i">raison, raysum, rasons</hi></bibl>, où le premier groupe est caractéristique du Centre et de l’Ouest et exclut nettement l’Est). Voir aussi
                               <bibl>Gossen 1970, p. 52-53</bibl>, qui évoque le recours à <hi rend="i">e</hi> dans un usage « interprovencial » du français.</item>
-                            <item>la graphie <quote>leu</quote> (f. 64b) &#x3c; <hi rend="sc">LOCU</hi>. <bibl>Gossen 1970, p. 77-80</bibl> ne note même pas cette graphie. Cf.
+                            <item>la graphie <quote>leu</quote> (f. 64b) &lt; <hi rend="sc">LOCU</hi>. <bibl>Gossen 1970, p. 77-80</bibl> ne note même pas cette graphie. Cf.
                               <bibl>Dees 1980 c. 168 <hi rend="i">lieu, liex, liu</hi> / <hi rend="i">leu, lev, leuz</hi></bibl> : groupe 1 95 à 99 % en zone picarde ; 96 % Hainaut ; 97 % Wallonie, 80 % Ardennes.</item>
                           </list> En revanche, on ne relève pas de traits caractéristiques de l’Ouest s’opposant à la scripta en voie de standardisation irradiée depuis Paris. Une localisation de la copie dans le Nord-Est du domaine picard semble probable.
                         </p>
@@ -3069,7 +3069,7 @@
                         </list></p>
                         <p><label>Corrections</label> assez rares ; inserende marginal f. 25b ; exponctuations f. 26c, 62c...</p>
                         <p><label>Traces de lecture</label>2 lignes en <lang xml:lang="lat">latin</lang> dans une écriture cursive du 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. f. 40v ; note du président Bouhier, 3<hi rend="sup">e</hi> f. de garde verso (sur une trad. des Instit. par un nommé maître Michel, faite en 1292 où le
-                          <quote xml:lang="lat">De patria potestate</quote> traduit par <quote xml:lang="fro">Des enfans qui sont en bail &#x26; de ceux, qui en peuvent estre hors</quote>, alors que la présente traduction a <quote xml:lang="fro">De la poosté au pere</quote> ; sur ce point, cf. <bibl>éd. F. Olivier-Martin, p. VII-IX</bibl>) ; titre 3<hi rend="sup">e</hi> f. de garde papier moderne : <q>Les Institutes de l’empereur Justinien en IV livres traduits en françois par le commandement du roi saint Louis</q>.</p>
+                          <quote xml:lang="lat">De patria potestate</quote> traduit par <quote xml:lang="fro">Des enfans qui sont en bail &amp; de ceux, qui en peuvent estre hors</quote>, alors que la présente traduction a <quote xml:lang="fro">De la poosté au pere</quote> ; sur ce point, cf. <bibl>éd. F. Olivier-Martin, p. VII-IX</bibl>) ; titre 3<hi rend="sup">e</hi> f. de garde papier moderne : <q>Les Institutes de l’empereur Justinien en IV livres traduits en françois par le commandement du roi saint Louis</q>.</p>
                       </handDesc>
                       <decoDesc>
                         <decoNote>
@@ -4187,7 +4187,7 @@
                         <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term>. Texte et rubrique semblent copiés par une seule main, assez régulière. Quelques changements d’encre. Coefficient d’abréviation : 20,7% (17,9% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la scripta est nettement picarde : palatalisations normanno-picardes (<quote>souspecheneus</quote>, <quote>chi</quote>,
                           <quote>couvenenches</quote>, <quote>franchois</quote>,
-                          <quote>recheu</quote>), yod + ATA &#x3e; -<hi rend="i">ie</hi> (participes passés
+                          <quote>recheu</quote>), yod + ATA &gt; -<hi rend="i">ie</hi> (participes passés
                           <quote>baillie</quote>, <quote>convenenchie</quote>,
                           <quote>jugie</quote>) ; article défini féminin singulier
                           <quote>le</quote> ; déterminant possessif féminin singulier <quote>se</quote>. L’article possessif masculin singulier <quote>sen</quote> (<bibl>Gossen, <title>Grammaire de l’ancien picard</title>, § 66</bibl>) et la forme
@@ -4206,7 +4206,7 @@
                         <decoNote>
                           <label>Iconographie</label>
                           <p>Artiste français imitant un modèle bolonais (cf. les antennes s'enroulant pour former des médaillons en bas de page). Sans doute le même artiste que celui du ms. Orléans, bibl. mun. 445 (d’après <bibl>Claudia Rabel dans la notice de la base <title>Initiale</title>
-                            <ref target="http://initiale.irht.cnrs.fr">&#x3c;http://initiale.irht.cnrs.fr&#x3e;</ref></bibl>).</p>
+                            <ref target="http://initiale.irht.cnrs.fr">&lt;http://initiale.irht.cnrs.fr&gt;</ref></bibl>).</p>
                           <p><locus from="1a">Livre I (f. 1a)</locus> [8 UR], Justinien, siégeant de face au centre de la miniature, remet de sa main droite une épée à un soldat, accompagné d’un autre possédant déjà une épée ; de sa main gauche, l’empereur remet le droit à deux hommes de loi. Antennes formant deux médaillons dans la marge inférieure (homme tirant à l’arc ; animal).</p>
                           <p><locus from="15b">Livre II (f. 15b)</locus> [8 UR], chasse au cerf : un homme debout, précédant un personnage sonnant du cor, tire à l’arc sur un cerf rattrapé par un chien. Le paysage se limite à un sol boueux et à deux arbres. Fond rose à décor quadrillé. Antennes formant deux médaillons dans la marge inférieure (tête de femme ; tête d’homme).</p>
                           <p><locus from="44b">Livre III (f. 44b)</locus> [8 UR], homme sur son lit de mort, dictant son testament à un clerc assis au pied du lit, tandis qu’un prêtre lui administre les derniers sacrements. Aux côtés du clerc, derrière le lit se trouve aussi deux hommes debout. Fond bleu quadrillé à décor géométrique. Antenne formant un médaillon dans la marge inférieure (homme en prière).</p>
@@ -4235,7 +4235,7 @@
                         <bibl>J.-L. Alexandre, G. Lanoë avec la collab. de A. Bosc-Lauby et de G. Grand, <title>Reliures médiévales de la médiathèque d’Orléans</title>, Turnhout, 2004 (<title>Reliures médiévales des bibliothèques de France</title>, 3), p. 278</bibl>
                         <bibl>Elisabeth Pellegrin et Jean-Paul Bouhot (dir.),
                           <title>Catalogue des manuscrits médiévaux de la bibliothèque municipale d’Orléans</title>, Paris, 2010, p. 515-516</bibl>
-                        <bibl>Base Initiale <ref target="http://initiale.irht.cnrs.fr">&#x3c;http://initiale.irht.cnrs.fr&#x3e;</ref> ; BVMM</bibl>
+                        <bibl>Base Initiale <ref target="http://initiale.irht.cnrs.fr">&lt;http://initiale.irht.cnrs.fr&gt;</ref> ; BVMM</bibl>
                       </listBibl>
                     </additional>
                   </msDesc>
@@ -5978,7 +5978,7 @@
                       <handDesc hands="1">
                         <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> très régulière avec hastes montantes fourchues. Coefficient d’abréviation : 14,4% (14,3% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> appartient à l’aire centrale du domaine d’oïl, Champagne comprise. Les diatopismes relevés dans les extraits transcrits ne permettent pas de préciser sa localisation. En effet, la forme <quote>sunt</quote> (ind. prés. P6 de <hi rend="i">estre</hi>) est attestée dans le Nord et le Nord-Est (picard, champenois), mais aussi en Normandie et en Angleterre (cf. <bibl>J. Chaurand,
-                          <title>Introduction à la dialectologie</title>, p. 79</bibl>). <hi rend="i">Aubre</hi> &#60; <hi rend="sc">ARBORE</hi>, d’après le
+                          <title>Introduction à la dialectologie</title>, p. 79</bibl>). <hi rend="i">Aubre</hi> &lt; <hi rend="sc">ARBORE</hi>, d’après le
                           <bibl><title>Nouveau Corpus d’Amsterdam</title></bibl>, est surtout attesté en Champagne occidentale.</p>
                         <p><label>Corrections</label>quelques corrections interlinéaires contemporaines de la copie, peut-être de la main du copiste : pour réparer une omission (f. 4d, f. 31b, 60c), pour substituer un mot à un autre barré en rouge (f. 12a) ; substitution de lettres avec lettres supprimées exponctuées (f. 68a) ; substitution après grattage (f. 24b, 72c, 76a...), une croix en marge indiquant le lieu à corriger ; suppression par rature en rouge d’un segment textuel (f. 31b), par exponctuation f. 1b, par grattage f. 23c. Le texte a donc fait l’objet d’une relecture attentive à la suite de la copie, peut-être au moment de sa rubrication ou de l’ajout des rehauts.</p>
                         <p><label>Traces de lecture</label>d’une main cursive médiévale dans une encre brune, brèves annotations marginales f. 40, 43, 59.</p>
@@ -7625,7 +7625,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" n="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &#x26; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
+                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" n="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &amp; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
                           <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis formata</term>. Coefficient d’abréviation : 9,05% (7,5 % sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la graphie du manuscrit correspond à la
                           <foreign xml:lang="lat">scripta</foreign> de l’Ile-de-France. Les <foreign xml:lang="lat">scriptae</foreign> de l’Est et du Nord-Est sont totalement exclues et les traits partagés avec l’Ouest uniquement sont trop rares pour conclure à une <foreign xml:lang="lat">scripta</foreign> orléanaise.</p>
@@ -7643,7 +7643,7 @@
                         </decoNote>
                         <decoNote>
                           <label>Iconographie</label>
-                          <p>Enluminé par le <persName role="illustrateur" n="maître de Thomas de Maubeuge">maître de Thomas de Maubeuge</persName> (1303-1342) (cf. <bibl>Rouse &#x26; Rouse, 2000, t. II, p. 178</bibl>).</p>
+                          <p>Enluminé par le <persName role="illustrateur" n="maître de Thomas de Maubeuge">maître de Thomas de Maubeuge</persName> (1303-1342) (cf. <bibl>Rouse &amp; Rouse, 2000, t. II, p. 178</bibl>).</p>
                           <p><locus from="1">Début du manuscrit (f. 1)</locus> [miniature abimée de la largeur de la justification et haute de la moitié de la justification], sur la droite, assis de trois quarts sur un siège placé en hauteur, un juge, les jambes croisées, discute avec six hommes qui lui font face. A ses côtés, au second plan, deux hommes debout dont l’un au moins est tonsuré. Parmi les six hommes qui font face au juge, trois sont assis sur un banc au premier plan, trois autres se tiennent debout derrière eux. Fond d’or. Encadrement simple : bords verticaux bleus à filets blancs et bords horizontaux bordeaux à filets blancs.</p>
                         </decoNote>
                       </decoDesc>
@@ -7669,7 +7669,7 @@
                         <bibl>Bibliothèque impériale, <title>Catalogue des manuscrits français</title>, t. I : <title>Ancien fonds</title>, Paris, 1868, p. 336-337</bibl>
                         <bibl>L. Delisle, <title>Inventaire général et méthodique des manuscrits français de la Bibliothèque nationale</title>, t. II <title>Jurisprudence – Sciences et arts</title>, Paris, 1878, p. 2 </bibl>
                         <bibl>F. Olivier-Martin, <title>Les Institutes de Justinien en français: traduction anonyme du XIII<hi rend="sup">e</hi> siècle</title>, Paris, 1935, p. XXV-XXVI</bibl>
-                        <bibl>R. H. Rouse &#x26; M. A. Rouse, <title>Manuscripts and their Makers : Commercial Book Producers in Medieval Paris 1200-1500</title>, Turnhout, 2000, t. II, p. 178</bibl>
+                        <bibl>R. H. Rouse &amp; M. A. Rouse, <title>Manuscripts and their Makers : Commercial Book Producers in Medieval Paris 1200-1500</title>, Turnhout, 2000, t. II, p. 178</bibl>
                         <bibl>reproduction Gallica : <ref target="http://gallica.bnf.fr/ark:/12148/btv1b90596899">http://gallica.bnf.fr/ark:/12148/btv1b90596899</ref></bibl>
                       </listBibl>
                     </additional>
@@ -7819,13 +7819,13 @@
                         <p><label>Provenance</label><supplied resp="#FD">pour plus de détails, cf. la <bibl>notice de Don C. Skemer</bibl></supplied> provient de la vente de la
                           <orgName role="possesseur" key="Rosny, bibliothèque de">bibliothèque de Rosny</orgName> en 1837 (cf.
                           <bibl><title>Catalogue de la riche bibliothèque de Rosny</title>, Paris, [1837], p. 212, n° 2390</bibl>). Le catalogue de vente précise que le ms. est taché et incomplet de la fin, ce qui laisse penser que les f. de remplacement sont postérieurs à 1837. Ms. acquis par
-                          <persName role="possesseur" key="Jean-Baptiste Joseph Barrois">Jean Baptiste Joseph Barrois</persName> (1780-1855), qui vendit l’ensemble de sa collection en 1849 au <persName role="possesseur" key="Ashburnham, comte d'">comte d’Ashburnham</persName>. Lors de la vente Ashburnham de 1901, le ms. est acquis par le libraire londonien <persName>Ellis</persName>, qui le vendit à <persName>George Dunn</persName> (1865-1912). En 1913, acquis par la librairie londonienne <orgName>J. &#38; J. Leighton</orgName>, avant de passer entre les mains du libraire <persName>Wilfrid M. Voynich</persName> (1865-1930), qui le vendit en 1917 à <persName role="possesseur" key="Grenville Kane">Grenville Kane</persName> (1854-1943). Acquis par la <orgName>Princeton University Library</orgName> en 1946 auprès des héritiers de Kane.</p>
+                          <persName role="possesseur" key="Jean-Baptiste Joseph Barrois">Jean Baptiste Joseph Barrois</persName> (1780-1855), qui vendit l’ensemble de sa collection en 1849 au <persName role="possesseur" key="Ashburnham, comte d'">comte d’Ashburnham</persName>. Lors de la vente Ashburnham de 1901, le ms. est acquis par le libraire londonien <persName>Ellis</persName>, qui le vendit à <persName>George Dunn</persName> (1865-1912). En 1913, acquis par la librairie londonienne <orgName>J. &amp; J. Leighton</orgName>, avant de passer entre les mains du libraire <persName>Wilfrid M. Voynich</persName> (1865-1930), qui le vendit en 1917 à <persName role="possesseur" key="Grenville Kane">Grenville Kane</persName> (1854-1943). Acquis par la <orgName>Princeton University Library</orgName> en 1946 auprès des héritiers de Kane.</p>
                       </provenance>
                     </history>
                     <additional>
                       <listBibl>
                         <head>Bibliographie</head>
-                        <bibl>Don C. Skemer, <title>Medieval &#38; Renaissance Manuscripts in the Princeton University Library</title>, Princeton, 2013, t. II, p. 111-113 ; pl. 8 [reproduction en couleur de la miniature et des initiales historiées]</bibl>
+                        <bibl>Don C. Skemer, <title>Medieval &amp; Renaissance Manuscripts in the Princeton University Library</title>, Princeton, 2013, t. II, p. 111-113 ; pl. 8 [reproduction en couleur de la miniature et des initiales historiées]</bibl>
                         <bibl>Princeton University Library, <title>Checklist of Western Medieval, Byzantine, and Renaissance Manuscripts in the Princeton University Library and the Scheide Library</title> [version du 27/09/2013]: <ref target="http://blogs.princeton.edu/manuscripts/files/2013/10/Checklist-Mss-PUL.pdf">http://blogs.princeton.edu/manuscripts/files/2013/10/Checklist-Mss-PUL.pdf</ref> [liens à plusieurs reproductions en ligne]</bibl>
                         <bibl>Akiko Komada, <title level="a">La première génération de la "Bible française du XIII<hi rend="sup">e</hi> siècle"</title>, [à paraître] dans les Actes du Colloque
                           <title>La Bible médiévale, du Roman au Gothique (XII<hi rend="sup">e</hi>-XIII<hi rend="sup">e</hi> siècle) : textes et images, production et usage.</title></bibl>
@@ -9551,7 +9551,7 @@
                             <bibl><title>LRL</title>, t. II/2, p. 380 et 382</bibl>), se rencontre également en Champagne (sud de la Haute-Marne) et en Wallonie (cf. NCA)</item>
                           <item><quote>poine</quote> : d’après NCA, nombreuses attestations en Champagne, mais également en région parisienne, Franche-Comté, Orléanais, Normandie et région parisienne. G. Taverdet note (<bibl><title>LRL</title>, t. II/2, p. 376</bibl>) qu’il s’agit de la <q>forme de base de toute la Bourgogne et de toutes les régions d’oïl situées davantage à l’Est</q>.</item>
                           <item><quote>seignor</quote> : <bibl>Dees 1980, c. 187</bibl> oriente vers la Champagne, et plus encore, vers la Bourgogne et la Franche-Comté.
-                            <quote>savor</quote> et <quote>ore</quote> (&#60; lat. <hi rend="sc">hora</hi>) présentent le même aboutissement graphique de /o/ long tonique (<bibl><title>LRL</title>, t. II/2, p. 376</bibl>)</item>
+                            <quote>savor</quote> et <quote>ore</quote> (&lt; lat. <hi rend="sc">hora</hi>) présentent le même aboutissement graphique de /o/ long tonique (<bibl><title>LRL</title>, t. II/2, p. 376</bibl>)</item>
                           <item><quote>hons</quote> : en Bourgogne, /o/ bref tonique suivi d’une nasale est souvent non diphtongué (<bibl><title>LRL</title>, t. II/2, p. 376</bibl>)</item>
                           <item><quote>derrien</quote> : forme attestée en Champagne, Bourgogne/Franche-Comté, d’après NCA</item>
                           <item><quote>soiens</quote>, subjonctif présent P4 de
@@ -9983,7 +9983,7 @@
           <div type="tradition_texte">
             <head>Tradition textuelle</head>
             <p>Dans sa thèse et dans les articles qu’elle a consacrés à la traduction en vers des <title>Institutes</title>, Claire-Hélène Lavigne a privilégié le manuscrit (<hi rend="i">L</hi>) à l’imprimé (<hi rend="i">P</hi>). Le manuscrit a, en effet, l’avantage d’être le témoin le plus ancien et de présenter un texte à première vue plus complet, puisque l’imprimé ampute le prologue du traducteur et ne présente pas d’épilogue.</p>
-            <p>Ces deux omissions sont cohérentes et volontaires puisqu’elles gomment le contexte dans lequel a pris place la traduction : les noms du destinataire et du traducteur, la date, fort ancienne au moment de l’impression, sans compter quelques topoï qui avaient certainement vieilli à la fin du 15<hi rend="sup">e</hi> s. L’exemple fameux de Vérard montre assez comment le remaniement de prologues ou l’écriture de nouveaux prologues est un dispositif commercial répandu et efficace. Les passages omis du prologue et de l’épilogue étaient d’ailleurs incompatibles avec le titre vendeur choisi par l’imprimeur, qui faisait cas d’une révision de la traduction : <title>C’est le livre des institutions des drois appellé Institute translaté de latim en françois &#x26; corrigé en diligence par plusieurs docteurs et souverains legistes</title> (f. A2a). Une omission de ces éléments paratextuels pourrait remonter à la tradition manuscrite, mais on attendrait alors une omission complète du prologue, plutôt que la suppression limitée aux éléments susceptibles de nuire à la commercialisation du livre.</p>
+            <p>Ces deux omissions sont cohérentes et volontaires puisqu’elles gomment le contexte dans lequel a pris place la traduction : les noms du destinataire et du traducteur, la date, fort ancienne au moment de l’impression, sans compter quelques topoï qui avaient certainement vieilli à la fin du 15<hi rend="sup">e</hi> s. L’exemple fameux de Vérard montre assez comment le remaniement de prologues ou l’écriture de nouveaux prologues est un dispositif commercial répandu et efficace. Les passages omis du prologue et de l’épilogue étaient d’ailleurs incompatibles avec le titre vendeur choisi par l’imprimeur, qui faisait cas d’une révision de la traduction : <title>C’est le livre des institutions des drois appellé Institute translaté de latim en françois &amp; corrigé en diligence par plusieurs docteurs et souverains legistes</title> (f. A2a). Une omission de ces éléments paratextuels pourrait remonter à la tradition manuscrite, mais on attendrait alors une omission complète du prologue, plutôt que la suppression limitée aux éléments susceptibles de nuire à la commercialisation du livre.</p>
             <list type="temoins">
               <item><label>Collation des intitulés des titres</label>
                 <list>
@@ -12551,12 +12551,12 @@
                         <head>Autres exemplaires d’après le <title>Catalogue des incunables imprimés en français</title> de D. Coq [inédit]:</head>
                         <bibl>Bern Universitätsbibliothek</bibl>
                         <bibl>Chantilly Musée Condé, IV, G. 26 (cat. Delisle 1028) [provenance: Cigongne]</bibl>
-                        <bibl>Chantilly Musée Condé, XI, I. 10 (cat. Delisle 1029) [provenance: Solar &#60; Potier &#60; Coste &#60; Heber &#60; Hanrott &#60; Meerman (inc.)]</bibl>
+                        <bibl>Chantilly Musée Condé, XI, I. 10 (cat. Delisle 1029) [provenance: Solar &lt; Potier &lt; Coste &lt; Heber &lt; Hanrott &lt; Meerman (inc.)]</bibl>
                         <bibl>Dresden LB</bibl>
                         <bibl>Edinburgh, National libr. of Scotland Advocates Library, Inc. 254.5 (inc. du dernier f.)</bibl>
                         <bibl>London British Libr., IB. 39390</bibl>
                         <bibl>Moscou Bibl. Len., 206</bibl>
-                        <bibl>Paris BHVP, 918 750 [provenance : E. Laboulaye &#60; P. Paris &#60; Leblanc (1839)]</bibl>
+                        <bibl>Paris BHVP, 918 750 [provenance : E. Laboulaye &lt; P. Paris &lt; Leblanc (1839)]</bibl>
                       </listBibl> 
                     </listBibl>
                   </additional>
@@ -12698,7 +12698,7 @@
                       <l>Pour ce que il n’y a point d’oir</l>
                       <l><label>[2]</label>
                         <hi rend="b">S</hi>e aucun fist son testament</l>
-                      <l>Tout parfait bien &#x26; <expan>droiteme<ex>n</ex>t</expan></l>
+                      <l>Tout parfait bien &amp; <expan>droiteme<ex>n</ex>t</expan></l>
                       <l>Et puis advient que ung aultre fait</l>
                       <l>Qui soit tout ainsi bien parfait</l>
                       <l>Ja soit ce qu’il avoit fait hoir</l>
