@@ -1,7 +1,7 @@
 # Les manuscrits juridiques
 * `//emph` : voir les valeurs des `@rend` et `@n` pour normalisation
-* pourquoi des `div`pour les `list[@type='listMs']` ?
-* inversement, inscrire des `div`pour `list[@type="temoins"]`
+* pourquoi des `div` pour les `list[@type='listMs']` ?
+* inversement, inscrire des `div` pour `list[@type="temoins"]`
 * appel des images assez baroque dans l’XSLT… (`oeuvre_2.xsl`) -> on appelle les images directement dans les XML ?
 * NB: le `eTree` n’est pas sorti.
 * liste des ms: reprendre pour les ark `@ref` pour `@corresp`

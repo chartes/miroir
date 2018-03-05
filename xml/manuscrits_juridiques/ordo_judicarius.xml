@@ -1079,7 +1079,7 @@
               </msDesc>
               <note type="edition">
                 <label>[II.1]</label>
-                <p><label>[pr.]</label><hi rend="b">NO</hi>us avons traittié en le partye<note xml:id="note_ordo_kbr21227_1" resp="#FD" type="bas_page">ii a été transcrit y.</note> devant ceste loy des
+                <p><label>[pr.]</label><hi rend="b">NO</hi>us avons traittié en le partye<note xml:id="note_ordo_kbr21227_1" resp="#FD" place="bottom">ii a été transcrit y.</note> devant ceste loy des
                   <expan>perso<ex>n</ex>nes</expan> qui <expan>doive<ex>n</ex>t</expan> estre en jugement. Or volons nous en ceste Seconde partye
                   <expan>ense<ex>n</ex>gnier</expan> le juge le demandeur et le respondeur <expan><ex>com</ex>ment</expan> il se doivent avoir en
                   <expan>jugeme<ex>n</ex>t</expan> Et des chozes
@@ -1496,8 +1496,8 @@
                       <msItem>
                         <locus from="37b"/>
                         <title type="sub">[II.15]</title>
-                        <incipit><emph n="rubrique"><expan><ex>Com</ex>ma<ex>n</ex>t</expan> li deffenderres la<note type="bas_page" xml:id="metz_1196_note_1"><quote>la</quote> ajouté en noir dans l’interligne supérieur.</note> doit
-                          <expan>do<ex>n</ex>ner</expan><note type="bas_page" xml:id="metz_1196_note_2"><quote>r</quote> final ajouté en noir.</note></emph></incipit>
+                        <incipit><emph n="rubrique"><expan><ex>Com</ex>ma<ex>n</ex>t</expan> li deffenderres la<note place="bottom" xml:id="metz_1196_note_1"><quote>la</quote> ajouté en noir dans l’interligne supérieur.</note> doit
+                          <expan>do<ex>n</ex>ner</expan><note place="bottom" xml:id="metz_1196_note_2"><quote>r</quote> final ajouté en noir.</note></emph></incipit>
                       </msItem>
                       <msItem>
                         <locus from="37d"/>
@@ -1704,7 +1704,7 @@
                       <msItem>
                         <locus from="78c"/>
                         <title type="sub">[IV.3]</title>
-                        <incipit><emph n="rubrique"><expan><ex>Com</ex>mant</expan> sentence <expan>q<ex>ui</ex></expan> vaut est souzlegie<note type="bas_page" xml:id="metz_1196_note_3"><quote>uzlegie</quote> à l’encre noire.</note></emph></incipit>
+                        <incipit><emph n="rubrique"><expan><ex>Com</ex>mant</expan> sentence <expan>q<ex>ui</ex></expan> vaut est souzlegie<note place="bottom" xml:id="metz_1196_note_3"><quote>uzlegie</quote> à l’encre noire.</note></emph></incipit>
                       </msItem>
                       <msItem>
                         <locus from="79d"/>
@@ -2222,7 +2222,7 @@
                 </msIdentifier>
                 <msContents>
                   <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> anonyme de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb10772918v">Ordo judiciarius</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb129804640" n="Tancrède de Bologne">Tancrède de Bologne</persName> (titres anciens : <title type="ancien">li Ordinaires Tancrez chanoine de Bouloigne</title> p. 1a, <title type="ancien">l’Ordenaire</title> p. 48b) (sigle C)
-                    <note type="bas_page" xml:id="marston228_note_1">La présente description s’appuie sur la notice de Barbara A. Shailor et la consultation d’une reproduction microfilmée en noir et blanc du manuscrit.</note>
+                    <note place="bottom" xml:id="marston228_note_1">La présente description s’appuie sur la notice de Barbara A. Shailor et la consultation d’une reproduction microfilmée en noir et blanc du manuscrit.</note>
                   </summary>
                   <msItem n="1" xml:id="marston_228_ordo_tabletitres">
                     <locus>second f. de garde verso</locus>
@@ -3522,7 +3522,7 @@
                   <expan>bie<ex>n</ex></expan> sanz douter que il ne s’en puet pas escuser par droit. Car il fu avant semons par devant toi que il issist de ta justice. <label>[3.15]</label> Li clers qui est a escole doit pledier par devant lequel que il voudra. ou par devant l’evesque ou par devant le gouverneeur de la cité ou par devant son mestre. si coume nous avons en l’establissement Federic. qui est mise sus code sus le titre que la fame ne soit trete en cause pour son mari. <expan><ex>et</ex></expan>
                   <expan>coume<ex>n</ex>ce</expan> « <foreign xml:lang="lat" rend="underlined">hac. sane</foreign> ». Nepourquant se il eslit a pledier par devant .i. de ces juges il ne porra puis revenir a l’autre. Ce avons nous en decrez en la tierce cause en la tierce question en .i. paragreffe qui coumence « <foreign rend="underlined" xml:lang="lat">offeratur</foreign> ». qui dit ainsi. Li deffendierres puet bien refuser le juge se ce n’est cil qu’il a esleu en leu d’un autre que il refusa. <label>[3.16]</label> Et ja soit ce que il est voirs que la sentence n’est pas tenable que cil doune qui n’est pas a celui a qui il la douna. Si coume nos avons tout mot a mot en la decretale el titre « des jugemenz ». <expan>Neporq<ex>ua</ex>nt</expan> la sentence que .i. autre doune en touz ces cas est resnable. car il se
                   <expan>so<ex>n</ex>t</expan> mis en sa justice par leur fet.
-                  <label>[3.17]</label> Et je ai mis touz ces cas porce que souvent avient que ce est plus li<note xml:id="fr_1073_note_1" type="bas_page" resp="#FD"><quote>li</quote> ajouté par le copiste dans l’interligne supérieur.</note> preuz au demandeeur que il traie son adversaire en cause par devant le juge en qui jurisdicion il est alez
+                  <label>[3.17]</label> Et je ai mis touz ces cas porce que souvent avient que ce est plus li<note xml:id="fr_1073_note_1" place="bottom" resp="#FD"><quote>li</quote> ajouté par le copiste dans l’interligne supérieur.</note> preuz au demandeeur que il traie son adversaire en cause par devant le juge en qui jurisdicion il est alez
                   <expan>q<ex>ue</ex></expan> par devant celui en qui poosté il a son manoir.</p>
               </note>
             </item>
