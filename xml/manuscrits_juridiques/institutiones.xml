@@ -526,10 +526,7 @@
                       <settlement>Glasgow</settlement>
                       <repository>University Library</repository>
                       <idno>MS Hunter 63</idno>
-                      <altIdentifier>
-                        <idno>K</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">K</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <persName ref="???" role="traducteur">anonyme</persName> des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="fr">Institutes</title> de <persName ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" role="auteur" n="Justinien">Justinien</persName> (f. 1a-66d) (sigle K, éd. Olivier-Martin) ; notes historiques anonymes (f. 67a-70d)</summary>
@@ -1325,10 +1322,7 @@
                       <settlement>Montpellier</settlement>
                       <repository>bibl. interuniversitaire, section Médecine</repository>
                       <idno>H 316</idno>
-                      <altIdentifier>
-                        <idno>H</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">H</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -2311,10 +2305,7 @@
                       <settlement>Montpellier</settlement>
                       <repository>bibl. interuniversitaire, section Médecine</repository>
                       <idno>H 373</idno>
-                      <altIdentifier>
-                        <idno>I</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">I</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -3239,10 +3230,7 @@
                       <settlement>Orléans</settlement>
                       <repository>bibl. mun.</repository>
                       <idno>393</idno>
-                      <altIdentifier>
-                        <idno>N</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">N</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -4486,10 +4474,7 @@
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
                       <idno>fr. 1063</idno>
-                      <altIdentifier>
-                        <idno>B</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">B</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -5264,10 +5249,7 @@
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
                       <idno>fr. 1064</idno>
-                      <altIdentifier>
-                        <idno>C</idno>
-                        <note>ms. de base de l’éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">C</msName><!-- ms. de base de l’éd. Olivier-Martin -->
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -6206,10 +6188,7 @@
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
                       <idno>fr. 1065</idno>
-                      <altIdentifier>
-                        <idno>D</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">D</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -6909,10 +6888,7 @@
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
                       <idno>fr. 1928</idno>
-                      <altIdentifier>
-                        <idno>E</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">E</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -7740,10 +7716,7 @@
                       <repository>University Library</repository>
                       <collection>Manuscripts Division</collection>
                       <idno>Kane MS. 49</idno>
-                      <altIdentifier>
-                        <idno>R</idno>
-                        <note>éd. Olivier-Martin = ms. perdu 10 ; nous lui attribuons le sigle R</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="duval">R</msName><!-- éd. Olivier-Martin = ms. perdu 10 ; nous lui attribuons le sigle R -->
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -7898,10 +7871,7 @@
                       <settlement>Saint-Omer</settlement>
                       <repository>bibl. mun.</repository>
                       <idno>439</idno>
-                      <altIdentifier>
-                        <idno>G</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">G</msName>
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -8861,10 +8831,7 @@
                       <settlement>Vaticano</settlement>
                       <repository>Bibl. apostolica Vaticana</repository>
                       <idno>Reg. lat. 1927</idno>
-                      <altIdentifier>
-                        <idno>M</idno>
-                        <note>éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="martin">M</msName>
                     </msIdentifier>
                     <msContents>
                       <summary><title type="oeuvre">Etablissements de saint Louis</title> (f. 1a-36b) ; traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -9687,10 +9654,7 @@
                       <repository>Library of Congress</repository>
                       <collection>Law Library</collection>
                       <idno>I.71</idno>
-                      <altIdentifier>
-                        <idno>S</idno>
-                        <note>témoin non référencé dans l'éd. Olivier-Martin</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="duval">S</msName><!-- témoin non référencé dans l'éd. Olivier-Martin -->
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
@@ -9772,10 +9736,7 @@
                       <settlement>Leiden</settlement>
                       <repository>Universiteitsbibliotheek</repository>
                       <idno>BPL 3201</idno>
-                      <altIdentifier>
-                        <idno>T</idno>
-                        <note>ms inconnu d'Olivier-Martin; nous lui attribuons le sigle T</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="duval">T</msName><!-- ms inconnu d'Olivier-Martin; nous lui attribuons le sigle T -->
                     </msIdentifier>
                     <msContents>
                       <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>

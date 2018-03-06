@@ -208,26 +208,73 @@
       -->
       <attribute name="resp">
         <choice>
+          <!-- classiques latins -->
           <value>Atherton-Atkinson</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Atkinson</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Barbieri</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Borel</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Bossuat</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Colombo_Timelli</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Cropp</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>De_Poerck</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Dedeck-Héry</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Doutrepont</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Kraft</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Löfstedt</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Montigny</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Noest</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Piaget</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Roy</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Städtler</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>Talsma</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>article_Cropp</value>
+          <a:documentation>Ref biblio ?</a:documentation>
           <value>édition_Cropp</value>
+          <a:documentation>Ref biblio ?</a:documentation>
+          <!-- manuscrits juridiques -->
+          <!--
+            pour les manuscrits juridiques, les choses sont à nouveau mal normalisées
+            d'après Fitting
+            d'après Fitting et Derrer
+            d’après l’éd. Olivier-Martin, p. xxx-xxxi
+            ed. Derrer, Kabatek 2005
+            ms inconnu d'Olivier-Martin; nous lui attribuons le sigle T
+            ms. de base de l’éd. Olivier-Martin
+            témoin non référencé dans l'éd. Olivier-Martin
+            éd. Marnier
+            éd. Olivier-Martin
+            éd. Olivier-Martin = ms. perdu 10 ; nous lui attribuons le sigle R
+          -->
+          <value>derrer-fitting</value>
+          <a:documentation>Ref biblio ?</a:documentation>
+          <value>derrer-kabatek</value>
+          <a:documentation>Ref biblio ? ed. Derrer, Kabatek 2005</a:documentation>
+          <value>fitting</value>
+          <a:documentation>Ref biblio ?</a:documentation>
+          <value>martin</value>
+          <a:documentation>Ref biblio ? éd. Olivier-Martin</a:documentation>
+          <value>marnier</value>
+          <a:documentation>Ref biblio ?</a:documentation>
+          <value>duval</value>
+          <a:documentation>Sigle forgé par Frédéric Duval</a:documentation>
         </choice>
       </attribute>
       <text/>

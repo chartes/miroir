@@ -13763,10 +13763,7 @@
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
                       <idno>fr. 5245</idno>
-                      <altIdentifier n="conseil_ami">
-                        <idno>R</idno>
-                        <note>éd. Marnier</note>
-                      </altIdentifier>
+                      <msName type="sigle" resp="marnier">R</msName>
                     </msIdentifier>
                     <msContents>
                       <summary><title>Livre la Roine</title> (= Livre I, <persName role="auteur" n="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title type="oeuvre" xml:lang="fr" corresp="ARK_oeuvre">Conseil à un ami</title>; Livre II, compilation juridique d'après la traduction <persName role="traducteur" ref="???">anonyme</persName> en prose des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> en <lang xml:lang="fro" n="lang_arrivée">français</lang> et des extraits du
