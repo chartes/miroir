@@ -372,11 +372,25 @@
   <define name="objectDesc">
     <element name="objectDesc">
       <a:documentation>Description libre des composants matériels</a:documentation>
-      <!-- pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
+      <!-- classiques latins: pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
       <!-- TODO: voir les champs obligatoires dans l’EAD => les métadonnées de dimensions sont sans doute obligatoires et bien normalisées => pas le cas sur Gallica, revoir avec A. Tur-->
+      <!-- manuscrits juridiques: notices structurées et détaillées à outrance, extent ne va pas du tout, il faut restructurer : champs DB / champs libres -->
+      <choice>
+        <ref name="p"/>
+        <ref name="supportDesc"/>
+      </choice>
       <element name="p">
         <text/>
       </element>
+    </element>
+  </define>
+  
+  <define name="supportDesc">
+    <a:documentation>Description du support physique – structuration de objectDesc pour les manuscrits juridiques</a:documentation>
+    <!-- à revoir complètement: distinguer supportDesc et layoutDesc ???? À penser en relation avec les notices EAD de la BnF -->
+    <element name="supportDesc">
+      <!-- TODO -->
+      <text/>
     </element>
   </define>
   
