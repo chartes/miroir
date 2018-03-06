@@ -1098,9 +1098,10 @@
                     </listBibl>
                   </additional>
                 </msDesc>
-                <note type="edition">
-                  <note type="edition" n="1">
-                    <label>D. 25.4</label>
+                <div type="edition">
+                  <head>Édition</head>
+                  <div type="edition" n="1">
+                    <head>D. 25.4</head>
                     <p><label>[25.4.0]</label>
                       <emph n="rubrique">De garder le ventre a la feme qui dit que ele est grosse .v.</emph>
                       <label>[25.4.1]</label> Ulpians dit. <label>[pr.]</label> il avint ou tans aus S. freres que uns homs disoit que sa feme estoit grosse. et ele le nioit. <expan><ex>et</ex></expan>
@@ -1182,9 +1183,9 @@
                       <expan>h<ex>er</ex>itages</expan> fust renduz.
                       <expan><ex>et</ex></expan> selonc ce doit l’em establir
                       <expan>qu<ex>an</ex>t</expan> la cause est conneue.</p>
-                  </note>
-                  <note type="edition" n="2">
-                    <label>D. 38.11-15</label>
+                  </div>
+                  <div type="edition" n="2">
+                    <head>D. 38.11-15</head>
                     <p><label>[D. 38.11]</label>
                       <emph n="rubrique"><expan>Com<ex>en</ex>t</expan> li mariz et sa feme <expan>so<ex>n</ex>t</expan> hoir li .i. a l’autre .x.</emph>
                       <hi rend="b">U</hi>lpians dit. <hi rend="b">A</hi> ce
@@ -1265,8 +1266,8 @@
                       <expan><ex>et</ex></expan>
                       <expan>no<ex>n</ex></expan> pas a <expan>ce<ex>us</ex></expan> tant
                       <expan>seulem<ex>en</ex>t</expan> qui estoient en sa poesté quant il morut mes a <expan>ce<ex>us</ex></expan> qui en estoient hors. </p>
-                  </note>
-                </note>
+                  </div>
+                </div>
               </item>
               <item xml:id="rouen_794" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32">
                 <msDesc type="manifestation_singleton">
@@ -2164,9 +2165,10 @@
                     </listBibl>
                   </additional>
                 </msDesc>
-                <note type="edition">
-                  <note type="edition" n="1">
-                    <label>D. 25.4</label>
+                <div type="edition">
+                  <head>Édition</head>
+                  <div type="edition" n="1">
+                    <head>D. 25.4</head>
                     <p><label>[25.4.0]</label>
                       <emph n="rubrique">De regarder le ventre a la feme qui dit
                         <expan>q<ex>ue</ex></expan> ele est grosse</emph>
@@ -2279,9 +2281,9 @@
                       <expan>q<ex>ue</ex></expan> ele estoit morte. l’en demande se l’en doit otroier a la sereur ou a son procurateur a garder le ventre selonc la forme del banissement. Et la response est
                       <expan>q<ex>ue</ex></expan> en cest cas il semble
                       <expan>q<ex>ue</ex></expan> il covient regarder a la cure a celui a qui il fu comandé <expan>q<ex>ue</ex></expan> li heritages fust renduz. <expan><ex>et</ex></expan> selonc ce doit l’en establir <expan>q<ex>ua</ex>nt</expan> la cause est coneue.</p>
-                  </note>
-                  <note type="edition" n="2">
-                    <label>D. 28.1</label>
+                  </div>
+                  <div type="edition" n="2">
+                    <head>D. 28.1</head>
                     <p><label>[1]</label>
                       <hi rend="b">U</hi>lpians dit <hi rend="b">T</hi>estamenz est droite sentence de nostre
                       <expan>vole<ex>n</ex>té</expan>. de ce
@@ -2539,9 +2541,9 @@
                       <expan>testame<ex>n</ex>t</expan> fere<note place="bottom" xml:id="rouen_794_note_28"><app>
                         <rdg wit="#B">a fere testament</rdg>
                       </app></note> escrive en son propre cyrogrefe qui li testamenz est <expan>q<ex>ue</ex></expan> il a seelé.</p>
-                  </note>
-                  <note type="edition" n="3">
-                    <label>D. 38.11-15</label>
+                  </div>
+                  <div type="edition" n="3">
+                    <head>D. 38.11-15</head>
                     <p><label>[D. 38.11]</label>
                       <emph n="rubrique">Coment li mariz <expan><ex>et</ex></expan> sa feme sont li hoir l’uns de<note place="bottom" xml:id="rouen_794_note_29"><app>
                         <rdg wit="#B">u. a l’a.</rdg>
@@ -2743,8 +2745,8 @@
                       <expan><ex>et</ex></expan> il nos plest
                       <expan>q<ex>ue</ex></expan> il i soit
                       <expan><ex>con</ex>té</expan>.</p>
-                  </note>
-                </note>
+                  </div>
+                </div>
               </item>
             </list>
           </div>

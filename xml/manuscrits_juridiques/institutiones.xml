@@ -1230,9 +1230,11 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
-                      <label>Inst. 2.17</label><p><supplied resp="#FD">Les points de suspension entre crochets droits signalent de courtes séquences non lues du fait de la mauvaise qualité de la reproduction photographique consultée.</supplied></p>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Inst. 2.17</head>
+                      <p><supplied resp="#FD">Les points de suspension entre crochets droits signalent de courtes séquences non lues du fait de la mauvaise qualité de la reproduction photographique consultée.</supplied></p>
                       <p><emph n="rubrique">Cist titre <expan>p<ex>ar</ex>ole</expan> de quasser testamens.</emph> Testamens qui est fez par droit vaust tant que il soit ronz ou que il soit vains ¶
                         <label>[1]</label> Testamens <pb n="f. 27b"/> est ronz quant la droiture en est abatue tant que cilh qui fist le testament est en cel meismez estat ou il estoit
                         <expan>q<ex>ua</ex>nt</expan> il le fist. ¶ Car se aucuns fet son fill par adoption par l’empereeur de celui qui estoit a soi ou par le prevost de celui qui estoit en la poesté som pere. et il fet ce puis que il a fet son testament. li testamens est rouz autesi <expan><ex>com</ex>me</expan> se uns autres oirz fust puis nez. ¶ <label>[2]</label> Li premiers testamens que aucuns fist est rouz par le <expan>derrai<ex>n</ex></expan> qui est
@@ -1262,9 +1264,9 @@
                         <expan>po<ex>ur</ex></expan> ce vains. car testament qui n’est pas fez n’est nuz. <label>[8]</label> par celle meimes reson dist il que il ne rechevra pas l’eritage a celui qui fet de lui sen oir. par cause de plet. et que il p[…] veoir que lez causez ne furent pas fetes loiaument en quoi il estoit establiz oirz <expan>po<ex>ur</ex></expan> celle cause. et que il ne rechevra pas non d’oir <expan>po<ex>ur</ex></expan> une v[…] et que il ne <expan><ex>con</ex>querra</expan> nule cose par escripture a cui la victoire de droit faille. et selonc ce escristrent souvent li s. empereeur. Sevoir et An[…] Ja soit che font ilh que <expan>no<ex>us</ex></expan> soions […] des loys. ne <expan>po<ex>ur</ex>quant</expan>
                         <expan>no<ex>us</ex></expan> ne volons riens
                         <expan>contre<ex>re</ex></expan> aus loys. </p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 4.17.1-18.4-fin</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 4.17.1-18.4-fin</head>
                       <p><emph n="rubrique">Cist tytre parole de l’office au juge</emph> Il convient que <expan>no<ex>us</ex></expan> traitons de l’office au juge. et li juges doit garder premierement que il ne juge forz si <expan><ex>com</ex>me</expan> il est establi
                         <expan>p<ex>ar</ex></expan> lez lois ou par lez
                         <expan>establisseme<ex>n</ex>z</expan> ou
@@ -1312,8 +1314,8 @@
                         <expan><ex>com</ex>muns</expan> jugemenz que noz i puissons atouchier autresi <expan><ex>com</ex>me</expan> au bout dou doi ¶ Ce est que <expan>vo<ex>us</ex></expan> en puissiez avoir <expan>aucu<ex>n</ex></expan> poi de la
                         <expan>co<ex>n</ex>noissance</expan>. mez plus deligens enseignemens <expan>no<ex>us</ex></expan> en sera
                         <expan>do<ex>n</ex>nez</expan> el livre de digeste se dieu plest. </p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="bl_royal20"><ref target="authenticum.xml#bl_royal20">Londres, British Libr., Royal 20.D.IX (sigle O)</ref></item>
                 <item xml:id="montpellier_h316" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541">
@@ -2034,8 +2036,9 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
                       <label>Inst. Prologue</label>
                       <p>Il covient que la majesté l’enpereeur soit atornee non mie tant seulement d’armes mes de lois. Si que li uns
                         <expan><ex>et</ex></expan> li autres
@@ -2114,9 +2117,9 @@
                         <expan>q<ex>ue</ex></expan> nos soiez si entreduit
                         <expan>q<ex>ue</ex></expan> nos aiez esperance que vos puissiez estre parfez en toute l’escience des lois
                         <expan><ex>et</ex></expan> que nostre enpire en puisse estre governez es parties qui nos seront bailliees a garderr <pb n="f. 1d"/> Ce fu fet xii jorz devant les kalendes de setenpbre par nostre seigneur l’enpereeur justinian</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst 4.9-11</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst 4.9-11</head>
                       <p><label><supplied resp="#FD">Inst. 4.9 <title xml:lang="lat">Si quadrupes pauperiem fecisse dicetur</title></supplied></label>
                         <hi rend="b">A</hi>uction d’abandoner a sofrir paine les bestes <expan>q<ex>ui</ex></expan>
                         <expan>s<ex>on</ex>t</expan> sanz resons se eles font domage
@@ -2298,8 +2301,8 @@
                         <expan>q<ex>ue</ex></expan> totes les
                         <expan><ex>con</ex>trees</expan> ensivent le chief de totes noz citez. <pb n="f. 63d"/> c’est ceste real cité de sa doctrine
                       </p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="montpellier_h373" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q">
                   <msDesc type="manifestation_singleton">
@@ -3108,8 +3111,9 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
                       <label>Inst. 2.17</label>
                       <p><emph n="rubrique">Cest tytres en quel maniere testament est quasserz</emph><pb n="f. 29a"/> Testament qui est fait a droit <expan>va<ex>u</ex>t</expan> tant que il soit rous ou que il soit vains. ¶ <label>[1]</label> Testament est rous quant la droiture en est abatue tant <expan><ex>com</ex>me</expan> cil qui fist testament et en cel meismes estat ou il estoit quant il le fist <expan>q<ex>ue</ex>r</expan> se aucun fet son fuiz
                         <expan>p<ex>ar</ex></expan> adoption
@@ -3161,9 +3165,9 @@
                         <expan>leaum<ex>en</ex>t</expan> en coi il furent establiz oirs por cele cause et que il ne retendra pas non d’oir por une vois et que il ne <expan><ex>con</ex>querra</expan> nule chose
                         <expan>p<ex>ar</ex></expan>
                         <expan>esc<ex>ri</ex>pture</expan> a <expan>q<ex>ui</ex></expan> l’auctorité de droit faille et selonc <pb n="f. 29d"/> ce escristrent souvent li saint <expan>emp<ex>er</ex>eors</expan>. servois et antonis. Ja soit ce font il que nos asous des lois ne porquant nos ne volons rien fere qui sont contraire as lois</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 4.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 4.17</head>
                       <p><emph n="rubrique">Cest <expan>ty<ex>tres</ex></expan>
                         <expan>p<ex>ar</ex>ole</expan> de l’ofice au juge</emph>Il covient que nos tretons de l’office au juge. et li juge doit garder <expan>p<ex>re</ex>mierement</expan> que il ne juge fors si <expan><ex>com</ex>me</expan> il est establi
                         <expan>p<ex>ar</ex></expan> les lois ou
@@ -3225,8 +3229,8 @@
                         <expan>soie<ex>n</ex>t</expan> mesuré
                         <expan>q<ex>ua</ex>nt</expan> li juges la comande <pb n="f. 77b"/>
                         <label>[7]</label> ce qui <expan>e<ex>st</ex></expan> ajugié a aucuns <expan>p<ex>ar</ex></expan> jugement est maintenant a celui a qui il est ajugié.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="orleans_393" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v">
                   <msDesc type="manifestation_singleton">
@@ -4239,9 +4243,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
-                      <label>Inst. 2.17</label>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Inst. 2.17</head>
                       <p><emph n="rubrique">Cis <expan>t<ex>itles</ex></expan> est en
                         <expan>q<ex>ue</ex>l</expan> maniere
                         <expan>testam<ex>en</ex>t</expan>
@@ -4386,9 +4391,9 @@
                         <expan><ex>et</ex></expan> qu’il ne
                         <expan>conq<ex>ue</ex>rra</expan> nule cose
                         <expan>p<ex>ar</ex></expan> escripture. a qui li auctorités de droit faille. <expan><ex>et</ex></expan> selonc ce escrisent <expan>sove<ex>n</ex>t</expan> li saint empereur severiens <expan><ex>et</ex></expan> antoines. ja soit ce font il <expan>q<ex>ue</ex></expan> nos soions assaus des Neporquant nos ne <expan>volo<ex>n</ex>s</expan> riens faire qui soit contraire es lois.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 4.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 4.17</head>
                       <p><emph n="rubrique">Cis <expan>t<ex>itles</ex></expan>
                         <expan><ex>est</ex></expan> de l’ofice au juge des entredis.
                         <expan>R<ex>ubri</ex>ca</expan></emph><hi rend="b">I</hi>l covient <expan>q<ex>ue</ex></expan> nos
@@ -4470,8 +4475,8 @@
                         <label>[7]</label> qui <expan><ex>est</ex></expan> ajugié a aucun <expan>p<ex>ar</ex></expan> ces
                         <expan>jugem<ex>en</ex>s</expan>
                         <expan><ex>est</ex></expan> maintenant a celui a cui il est ajugié.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s"><ref target="authenticum.xml#fr_498">Paris, Bibl. nat. de Fr., fr. 498 (sigle A)</ref></item>
                 <item xml:id="fr_1063" corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v">
@@ -5161,10 +5166,11 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1" resp="Marion Soutet">
-                      <label>Inst. 2.17
-                        <note place="bottom" xml:id="fr.1063_note_1">transcription Marion Soutet AP1 2014.</note></label>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1" resp="Marion Soutet">
+                      <head>Inst. 2.17
+                        <note place="bottom" xml:id="fr.1063_note_1">transcription Marion Soutet AP1 2014.</note></head>
                       <p><emph n="rubrique">Cist <expan>tit<ex>re</ex>s</expan> est
                         <expan>a<ex>n</ex></expan> quele
                         <expan>ma<ex>n</ex>niere</expan> testament sont qassé</emph>Testament qui est fez par droit vaut tant
@@ -5199,10 +5205,10 @@
                         <expan><ex>con</ex>querra</expan> nule chose
                         <expan>p<ex>ar</ex></expan> escriture. a qui l’auctorité de droit faille. ¶ E selon ce escritrent souvent li Saint empereeur sevoirs <expan><ex>et</ex></expan>
                         <expan>anthoni<ex>n</ex>s</expan>. ja soit ce font il que nous soions asous des lois. <expan>Neporqua<ex>nt</ex></expan> nous ne voulons riens fere qui soit contraire aus lois.</p>
-                    </note>
-                    <note type="edition" n="2" resp="Xavier de Saint-Chamas">
-                      <label>Inst. 4.17
-                        <note place="bottom" xml:id="fr.1063_note_2">transcription Xavier de Saint-Chamas AP1 2014.</note></label>
+                    </div>
+                    <div type="edition" n="2" resp="Xavier de Saint-Chamas">
+                      <head>Inst. 4.17
+                        <note place="bottom" xml:id="fr.1063_note_2">transcription Xavier de Saint-Chamas AP1 2014.</note></head>
                       <p><emph n="rubrique">Cist <expan>tit<ex>re</ex>s</expan> est des antrediz de l’office du juge.</emph>Il convient que nous
                         <expan>treto<ex>n</ex>s</expan> de l’office du juge. li juges doit garder premierement <expan>q<ex>ue</ex></expan> il ne juge fors <expan>si<ex>com</ex>me</expan> il est. establi par les lois ou par les establissemenz. ou par les <pb n="f. 100a"/> costumes. <label>[1]</label>
                         <expan><ex>et</ex></expan> por ce se l’am plaide
@@ -5248,8 +5254,8 @@
                         <expan><ex>com</ex>me</expan> se aucuns ne sueffre par que li chans sois mesurez. quant li juges l’a commandé.
                         <label>[7]</label> ce qui est ajugié a aucun par cest
                         <expan>jugem<ex>en</ex>t</expan> est maintenant a celui a qui il est ajugié.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="fr_1064" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q">
                   <msDesc type="manifestation_singleton">
@@ -6023,10 +6029,11 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1" resp="Sarah Belda Romanosque">
-                      <label>Inst. 2.17
-                        <note place="bottom" xml:id="fr.1064_note_1">transcription Sarah Belda Romanosque, MEM 2014.</note></label>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1" resp="Sarah Belda Romanosque">
+                      <head>Inst. 2.17
+                        <note place="bottom" xml:id="fr.1064_note_1">transcription Sarah Belda Romanosque, MEM 2014.</note></head>
                       <p><emph n="rubrique">Cist titres est en
                         <expan>q<ex>ue</ex>l</expan> maniere
                         <expan>testam<ex>en</ex>t</expan>
@@ -6110,9 +6117,9 @@
                         <expan>q<ex>ue</ex></expan> il ne recevera pas non d’oir por une vois. et <expan>q<ex>ue</ex></expan> il ne
                         <expan><ex>con</ex>q<ex>ue</ex>rra</expan> nule chose par escriture a qui l’autoritez de droit faille. Et selonc ce escristrent sovent li <expan>s<ex>aint</ex></expan>
                         <expan>emp<ex>er</ex>eor</expan> sevoirs et antonins. Ja soit ce font il <expan>q<ex>ue</ex></expan> noz soionz asoz des loiz. ne por <expan>q<ex>ua</ex>nt</expan> noz ne volonz rienz faire qui soit <expan><ex>con</ex>traire</expan> as loiz:</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst.4.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst.4.17</head>
                       <p><emph n="rubrique">Cist titres est de l’ofice au juge</emph><hi rend="b">I</hi>l covient que noz traitonz de l’ofisce au juge. Et li juges doit
                         <expan>g<ex>ar</ex>der</expan>
                         <expan>p<ex>re</ex>mierem<ex>en</ex>t</expan>
@@ -6189,8 +6196,8 @@
                         <expan>p<ex>ar</ex></expan> ces jugemanz est
                         <expan>mai<ex>n</ex>tenant</expan> a celui a
                         <expan>q<ex>ui</ex></expan> il est ajugié.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="fr_1065" corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188">
                   <msDesc type="manifestation_singleton">
@@ -6828,8 +6835,9 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
                       <label>Inst. Prologue</label>
                       <p>Il convient que la majeté l’empereor soit atornee non mie
                         <expan>ta<ex>n</ex>t</expan> seulement d’armes de lois. Si que li uns <expan><ex>et</ex></expan> li autres tens. ce est cil de pés <expan><ex>et</ex></expan> cil de guerre que il puisse estre gouverné par droit. <expan><ex>et</ex></expan> li
@@ -6868,9 +6876,9 @@
                         <expan><ex>et</ex></expan> de plusors autres establissemenz. <label>[7]</label> Recevez donc touz nos lois. o grant entente <expan><ex>et</ex></expan> o grant estude. et moustrez. que vos soiez si entroduit. que vos aiez
                         <expan>esp<ex>er</ex>ance</expan>. que vos puissiez estre
                         <expan>p<ex>ar</ex><pb n="f. 1d"/>fet</expan> en toutes les autres lois. <expan><ex>et</ex></expan> que nostre empire en puisse estre governé es parties <expan>q<ex>ui</ex></expan> vos seront bailliees a garder. Ce fu fet .xii. jorz devant les kalendes de decembre par nostre seigneur l’<expan>emp<ex>er</ex>eur</expan> justinian.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>II.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>II.17</head>
                       <p>Testament qui est fet par droit quant tant que il soit ronz. ou que il soit vains. <label>[1]</label> Testamenz est rouz quant la droiture en est abatuee tant conme cil qi fist le testament est en tel meisme estat ou il estoit quant il le fist quar se aucuns fet son fill par adopcion par l’empereeur. de celui qui estoit a soi. ou par le prevost de celui qui estoit en la poesté son pere <expan><ex>et</ex></expan> il fet ce puis que il a fet son <expan>testame<ex>n</ex>t</expan> li testamenz est rouz autresi conme se uns autres oirs fust puis nez. ¶
                         <label>[2]</label> li premiers establissemenz que aucuns fist est rouz par le darrenier. qui est fez
                         <expan>p<ex>ar</ex></expan> droit ne il n’a point de
@@ -6891,8 +6899,8 @@
                         <label>[8]</label> par ce cele meismes raison dit il. que il ne recevra pas l’eritage. a celui qui fet de lui son oir por cause de plet. <expan><ex>et</ex></expan> que il porverra que les tables ne furant pas faites loiaumant. an quoi il estoit establiz oirs porce cele cause. <expan><ex>et</ex></expan> que il ne recevra pas non d’oir por une voiz
                         <expan><ex>et</ex></expan> que il ne conquerra nule be
                         <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> chose par escriture. a qui l’autorité de droit faille. E selonc ce escristrent souvant li seint empereeur sevoirs. <expan><ex>et</ex></expan> antonnins. Ja soit ce sont il que nous soions asous des <pb n="f. 39a"/> lois. Ne porquant nous ne voulons riens fere qui soit contaire aus lois.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="fr_1928" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899">
                   <msDesc type="manifestation_singleton">
@@ -7674,8 +7682,8 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <label>Inst. 2.17</label>
+                  <div type="edition">
+                    <head>Édition. Inst. 2.17</head>
                     <p><emph n="rubrique">Cist tystres est en quel maniere testament sont quassé.</emph><hi rend="b">T</hi>estament qui est fet a droit vaut tant que il soit rous ou que il soit fet vains.
                       <label>[1]</label> Testament est rous
                       <expan>q<ex>ua</ex>nt</expan> la droiture en est abatue tant
@@ -7721,7 +7729,7 @@
                       <expan><ex>et</ex></expan> non pour
                       <expan>q<ex>ua</ex>nt</expan> nous ne voulons riens faire
                       <expan>q<ex>ui</ex></expan> soit contraire as loys</p>
-                  </note>
+                  </div>
                 </item>
                 <item xml:id="fr_22970"><ref target="authenticum.xml#fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref></item>
                 <item xml:id="princeton_kane_ms49" corresp="ARK_manuscrit">
@@ -7832,11 +7840,12 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
+                  <div type="edition">
+                    <head>Édition</head>
                     <p><supplied resp="#FD">Les extraits ci-dessous ont été transcrits d’après les images disponibles à partir de la
                       <bibl><title>Checklist of Western Medieval, Byzantine, and Renaissance Manuscripts in the Princeton University Library and the Scheide Library</title></bibl> [version du 27/09/2013]. La faible définition des images peut expliquer quelques incertitudes de lecture.</supplied></p>
-                    <note type="edition" n="1">
-                      <label>Inst. Prol.</label>
+                    <div type="edition" n="1">
+                      <head>Inst. Prol.</head>
                       <p>Il covient que la majesté l’emperere soit aornee. ne mie tant seulement d’armes. mes de lois. Si qe li uns
                         <expan><ex>et</ex></expan> li autres tens. ce est cil de pés
                         <expan><ex>et</ex></expan> celui de guerre. puissent estre governez par droit. <expan><ex>et</ex></expan> li emperes de rome soit veinqierres. Ne mie tant seulement des batailles que il a contre ses anemis. <expan>ei<ex>n</ex>z</expan> bout arrieres par la force des lois. les desloiautez a ceuls qui acusent faussement. <expan><ex>et</ex></expan> il soit autresint veinquierres par la religion de droit. come il est contre ses anemis. <label>[1]</label>
@@ -7854,9 +7863,9 @@
                         <expan><ex>et</ex></expan> la cure
                         <expan><ex>et</ex></expan> la loiauté. que il ont envers noz comandemenz. Si leur comandames especiaument que il ordenassent noz institutes. par nostre auctorité <expan><ex>et</ex></expan> par noz amonestemenz. si que cil nos lise a aprende la noveleté des loys. non pas par les anciennes fables. mes par imperial clarté. <expan><ex>et</ex></expan> voz oreilles ne vostre entendement n'i truissent rien qui ne soit profitable. ne qui i sot mauvesement mis. mes ce qi vau par les argumenz des choses.
                         <expan><ex>et</ex></expan> vos faciez en un pou de tens. ce qe li ancien pooient a peine fere en qatre anz. ce est que il peussent lire toz es establissemenz l'empereeur quer vos estes trouvez de si grant ennoir Et de si grant beneurté. que li comencemenz <expan><ex>et</ex></expan> la fin des ensei<pb n="f. 1c"/></p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 2.1.pr.-5</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 2.1.pr.-5</head>
                       <p><emph n="rubrique">Ici commence li segonz livres des Institutes au <expan>s<ex>eint</ex></expan> empereeur Justinian. Ce est de la <expan>divisio<ex>n</ex></expan> des choses.</emph>Nos avons tretié el livre devant cest de la droiture as perssones Or
                         <pb n="f. 14b"/> voions des choses qui sont en nostre patremoine ou dehors ¶ Les unes des choses sont comunes a toz par le droit naturel. les autres sont comunes a une universsité
                         <expan><ex>et</ex></expan> les autres ne sont a nul.
@@ -7868,9 +7877,9 @@
                         <expan>e<ex>n</ex></expan> flueve. <label>[3]</label> li rivages de la mer est tant come li floz porprent en yver quant il est li greindres de l’an. <label>[4]</label> li usages des rives del flueve est comun par le droit as genz. autresint come cil del fleuve meismes. chascuns a <expan>do<ex>n</ex>c</expan> franche poosté d’ariver. <expan><ex>et</ex></expan> de lier ses chaables as arbres qui croissent <expan>e<ex>n</ex></expan> la rive.
                         <expan><ex>et</ex></expan> de deschargier sa nef autresint come de nagier par le flueve. mes la propertté des rives est a ceuls qui sont seigneur des terres joignanz.
                         <expan><ex>et</ex></expan> porce sont leur li arbre qui i nessent. ¶ <label>[5]</label> Li usages des rivages de la mer est comuns par le droit as genz. autresi come cil de la mer meismes. <expan><ex>et</ex></expan> porce chascuns i puet <pb n="f. 14c"/></p>
-                    </note>
-                    <note type="edition" n="3">
-                      <label>Inst. 4.1.pr.-4</label>
+                    </div>
+                    <div type="edition" n="3">
+                      <head>Inst. 4.1.pr.-4</head>
                       <p><emph n="rubrique">Ici commence li quars livres des Institutes au seint empereur Justinian. Cist tytres est des obligemenz qui nessent de mesfet.</emph>Porce que nos avons tretié el livre qui est <expan>deva<ex>n</ex>t</expan> cestui des obligemenz qui sont fez de marchié ou come de marchié. il convient que nos voions des <expan>obligeme<ex>n</ex>z</expan> qui nessent de meffet. ou come de meffet. mes cil de quoi nos avons avant tretié sont devisé en qatre manieres
                         <expan><ex>et</ex></expan> cist sont tuit d’une maniere. qar tuit cist obligement nessent d’une chose. ce est de mesfet si come de larrecin. ou de rapine. ou de domage ou de tort fet. ¶ <label>[1]</label> larrecins est atouchement d’autrui chose par barat. ou de la chose meisme ou de l’usage. ou de la possession qui est desfenduz par la loi naturel que il ne soit pas fez. ¶ <label>[2]</label> Larrecins est diz d’oscurté. por ce que il est fez torjorz en oscurté <expan><ex>et</ex></expan> en repost. <expan><ex>et</ex></expan> par nuit plus que
                         <expan>p<ex>ar</ex></expan> jor. ou il est dit de barat ou de tolir. ¶ <label>[3]</label> Deus manieres de larrecin sont li aperz. <expan><ex>et</ex></expan> cil qui n’est pas aperz. quar ce qui est trouvé seur le larron ou seur celui a qui li lierres l’a baillié sont .ii. manieres d’accion qui sont jointes. a larrecin. <expan><ex>et</ex></expan> ne mie manieres de larrecin si come il sera veu aprés. ¶ Lierres
@@ -7879,8 +7888,8 @@
                         <expan><ex>et</ex></expan> ele est trouvee seur toi. se il la te baille par tel corage. que ele fust trouvee seur toi.
                         <expan><ex>et</ex></expan> ne mie seur lui quar tu seur qui la chose est trovee as propre accion contre celui qui la te bailia. ¶ <expan><ex>et</ex></expan> accion de larrecin deuvé apartient contre celui qui destorbe celui qui ne te velt querre par devant tesmoinz. ¶ Et peine est establie par le banissement au prevost contre celui qui n’aporte pas avant la chose qui a esté emblee qui est quise <expan><ex>et</ex></expan> trouvee seur lui. mes toutes ces manieres d’<expan>accio<ex>n</ex>s</expan>
                         <pb n="f. 63a"/></p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="stomer_439" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q">
                   <msDesc type="manifestation_singleton">
@@ -8677,9 +8686,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
-                      <label>Inst. 2.17</label>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Inst. 2.17</head>
                       <p><supplied resp="#FD"><title xml:lang="lat">Quibus modis testamenta infirmantur</title></supplied>
                         <expan>Testam<ex>en</ex>t</expan> qui est fet
                         <expan>p<ex>ar</ex></expan> droit vaut. tant que il soit receuz. ou que il soit faiz <expan>vai<ex>n</ex>s</expan> ¶
@@ -8758,9 +8768,9 @@
                         <expan><ex>et</ex></expan>
                         <expan>anthoni<ex>us</ex></expan>. Ja soit ce font il. que nous soiens assous des lois. Ne <expan>porq<ex>ua</ex>nt</expan> nous ne volons riens fere <expan>q<ex>ui</ex></expan> soit
                         <expan>cont<ex>ra</ex>re</expan> es lois.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 4.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 4.17</head>
                       <p><emph n="rubrique">Ci titres parole de l’ofice au juge en
                         <expan>q<ex>ue</ex>l</expan> maniere il doit
                         <expan><ex>con</ex>dempner</expan></emph> Il
@@ -8841,8 +8851,8 @@
                         <expan>q<ex>ui</ex></expan> est ajugé a aucun
                         <expan>p<ex>ar</ex></expan> cez
                         <expan>jugem<ex>en</ex>z</expan> est maintenant a celui a qui il est ajugié.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="bav_1927" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g">
                   <msDesc type="manifestation_singleton">
@@ -9593,9 +9603,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
-                      <label>Inst. 2.17</label>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Inst. 2.17</head>
                       <p><emph n="rubrique">Ciz titres <expan>p<ex>ar</ex>ole</expan> de quasser <expan>testam<ex>en</ex>t</expan></emph><hi rend="b">T</hi>estamenz qui est fez par droit vaut tant que il soit ronz ou <expan>q<ex>ue</ex></expan> il soit fez vains. <label>[1]</label> Testamenz est ronz
                         <expan>q<ex>ua</ex>nt</expan> la droiture en est abatue tant come cil qui fist le testament est en cel meismes estat ou il estoit quant il le fist. Car se aucuns fet son fil
                         <expan>p<ex>ar</ex></expan> adopcion
@@ -9632,9 +9643,9 @@
                         <expan><ex>et</ex></expan> antonins. Ja soit ce font il
                         <pb n="f. 65a"/> que soiens asolt des lois Ne
                         <expan>pourq<ex>ua</ex>nt</expan> nous ne voulons riens faire qui soit contraire as lois.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Inst. 4.17</label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Inst. 4.17</head>
                       <p><emph n="rubrique">Cist titres parole de l’ofice au juge</emph><hi rend="b">I</hi>l convnent <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> que noz traitons <pb n="f. 106b"/> de l’ofice au juge.
                         <expan><ex>et</ex></expan> li juges doit
                         <expan>gard<ex>er</ex></expan> premierement que il ne juge fors si comme il est establiz <expan>p<ex>ar</ex></expan> les lois ou par les establissemanz ou par les coustumes
@@ -9665,8 +9676,8 @@
                         <expan><ex>et</ex></expan> en cel cas convient il que cil soit <expan><ex>con</ex>dampnez</expan> a l’autre en certainne quantité de deniers. <expan><ex>et</ex></expan> aucuns doit estre <expan><ex>con</ex>dampnez</expan>
                         <expan>p<ex>ar</ex></expan> cest jugement se il a fet aucune chose mauvesement envers les bonnes. si comme se il a emblees les pierres qui estoient es bonnes ou il a arrachiez les arbres.
                         <expan><ex>et</ex></expan> pour coustumance doit chascuns estre <expan><ex>con</ex>dampnez</expan> en cest fet sicome se aucuns ne suefre pas que li champ ne soient pas mesuré quant li juges l’a <expan><ex>com</ex>mandé</expan>. <label>[7]</label> Ce qui est jugié a aucun par cest jugement est maintenant a celui a cui il est jugié</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </item>
                 <item xml:id="washington_i71" corresp="ARK_manuscrit">
                   <msDesc type="manifestation_singleton">
@@ -9828,8 +9839,8 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <title>Transcription du fragment</title>
+                  <div type="edition">
+                    <head>Transcription du fragment</head>
                     <p><pb n="f. 1a"/>
                       <expan>q<ex>ue</ex></expan> il est male chose. ¶ Que li cas d’aventure lour tort a domage. <expan>q<ex>ua</ex>r</expan> se cele
                       <expan>q<ex>ui</ex></expan> est naturelment franche n’a eu trois enfanz. ou cele <expan>q<ex>ui</ex></expan> a esté franchie. n’en a eu <expan>q<ex>ua</ex>tre</expan> por ce n’est il pas droit
@@ -9885,7 +9896,7 @@
                       <supplied resp="#FD">...</supplied> mort de <supplied resp="#FD">...</supplied>
                       <pb n="f. 2b"/>
                     </p>
-                  </note>
+                  </div>
                 </item>
               </list>
             </div>
@@ -10782,11 +10793,12 @@
                     </listBibl>
                   </additional>
                 </msDesc>
-                <note type="edition">
+                <div type="edition">
+                  <head>Édition</head>
                   <p><supplied resp="#FD"><hi rend="i">P</hi>- indique que la leçon de <hi rend="i">P</hi> est inférieure à celle de
                     <hi rend="i">L</hi> ; <hi rend="i">P</hi>+ qu’elle lui est supérieure.</supplied></p>
-                  <note type="edition" n="1">
-                    <label>Prologue du traducteur-Inst. 1.2</label>
+                  <div type="edition" n="1">
+                    <head>Prologue du traducteur-Inst. 1.2</head>
                     <lg>
                       <l><hi rend="b">Q</hi>ui de rien ne se veult grever /</l>
                       <l>Il ne <expan>po<ex>ur</ex>ra</expan> pas achever</l>
@@ -11175,9 +11187,9 @@
                         <expan>me<ex>m</ex>bre</expan></l>
                       <l>Doit estre appellé le tiers menbre.</l>
                     </lg>
-                  </note>
-                  <note type="edition" n="2">
-                    <label>Inst. 2.17</label>
+                  </div>
+                  <div type="edition" n="2">
+                    <head>Inst. 2.17</head>
                     <lg>
                       <lg rend="underlined">
                         <l>Cest tiltre est <expan>q<ex>ua</ex>nt</expan> testament</l>
@@ -11509,9 +11521,9 @@
                         <expan>no<ex>us</ex></expan> en <expan>so<ex>m</ex>mes</expan> delivre</l>
                       <l><expan>No<ex>us</ex></expan> voulon selon les lois vivre.</l>
                     </lg>
-                  </note>
-                  <note type="edition" n="3">
-                    <label>Inst. 4.17</label>
+                  </div>
+                  <div type="edition" n="3">
+                    <head>Inst. 4.17</head>
                     <lg>
                       <lg>
                         <l>De l’office au juge convient</l>
@@ -11851,9 +11863,9 @@
                       <l>Elle est soue sans contredit</l>
                       <l>Sy <expan>co<ex>m</ex>me</expan> ly juge l’a dit</l>
                     </lg>
-                  </note>
-                  <note type="edition" n="4">
-                    <label>Épilogue</label>
+                  </div>
+                  <div type="edition" n="4">
+                    <head>Épilogue</head>
                     <lg>
                       <l>Mil ans .CC. IIII. fois vingt</l>
                       <l>Aprés que <expan>Jh<ex>es</ex>uc<ex>ri</ex>st</expan> vint</l>
@@ -11899,8 +11911,8 @@
                       <l>Qui tout en latin <expan>le<ex>ur</ex></expan> lyront</l>
                       <l rend="indent">Deo <expan>gra<ex>cia</ex>s</expan>.</l>
                     </lg>
-                  </note>
-                </note>
+                  </div>
+                </div>
               </item>
             </list>
           </div>
@@ -12561,9 +12573,10 @@
                     </listBibl>
                   </additional>
                 </msDesc>
-                <note type="edition">
-                  <note type="edition" n="1">
-                    <label>Prologue</label>
+                <div type="edition">
+                  <head>Édition</head>
+                  <div type="edition" n="1">
+                    <head>Prologue</head>
                     <lg>
                       <l><hi rend="b">Q</hi>ui de rien ne se veult grever</l>
                       <l>Il ne pourra pas achever</l>
@@ -12637,9 +12650,9 @@
                       <l>Justinian en son vivant</l>
                       <l>Et mist ce prologue ensuivant</l>
                     </lg>
-                  </note>
-                  <note type="edition" n="2">
-                    <label>Inst. 2.17</label>
+                  </div>
+                  <div type="edition" n="2">
+                    <head>Inst. 2.17</head>
                     <p><pb n="f. E7b"/> Ce tiltre est quant testament Peult estre cassé et
                       <expan>co<ex>m</ex>ment</expan><lb/>R. xvii</p>
                     <lg>
@@ -12838,9 +12851,9 @@
                       <l>Et que nous en <expan>so<ex>m</ex>mes</expan> delivre</l>
                       <l>Nous voulon selon les lois vivre</l>
                     </lg>
-                  </note>
-                  <note type="edition" n="3">
-                    <label>Inst. 4.17</label>
+                  </div>
+                  <div type="edition" n="3">
+                    <head>Inst. 4.17</head>
                     <p><pb n="f. P5b"/> De officio judicis<lb/>R. xviii<lb/>De l’office au juge convient Parler au tiltre qui ci vient.</p>
                     <lg>
                       <l><hi rend="b">I</hi>cy nous convient pour voir</l>
@@ -13047,8 +13060,8 @@
                       <l>Elle est sienne sans contredit</l>
                       <l>Sicomme le juge l’a dit</l>
                     </lg>
-                  </note>
-                </note>
+                  </div>
+                </div>
               </item>
             </list>
           </div>

@@ -3300,8 +3300,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition" n="digestum_vetus" resp="Graziella Pastore">
-                <label>D. 9.1 [LJP, V 1]</label>
+              <div type="edition" n="digestum_vetus" resp="Graziella Pastore">
+                <head>Édition. D. 9.1 [LJP, V 1]</head>
                 <p><pb n="f. 54a"/>
                   <label>[9.1.0]</label>
                   <emph n="rubrique">Se beste a .iiii. piez fet domage. Et d’omecide. et de geter eue sor genz</emph>
@@ -3477,10 +3477,11 @@
                   <expan><hi rend="b">A</hi>lphen<ex>us</ex></expan>. <foreign xml:lang="lat"><hi rend="b">A</hi>gaso</foreign>. Un asner <expan>e<ex>n</ex>tra</expan> en une taverne ou son chevau. il ouia une muile la mule repuça. et fruissa la cuisse a l’asner. l’en <expan>dem<ex>an</ex>de</expan>
                   <expan><ex>con</ex>soil</expan> se l’<expan>e<ex>n</ex></expan> porroit pledier o le seignor de mule <expan>q<ex>u</ex>i</expan> avoit fet le<note place="bottom" xml:id="fr_2844_note_10"><quote>le</quote> suivi par un mot supprimé</note> domage<note place="bottom" xml:id="fr_2844_note_11"><quote>domage delivre et de ceste loi</quote> dans le ms., <quote>delivre et de ceste loi</quote> supprimé</note>. et je di
                   <expan>q<ex>ue</ex></expan> oïl.</p>
-              </note>
-              <note type="edition" n="infortiatum" resp="Graziella Pastore">
-                <note type="edition" n="1">
-                  <label>D. 25.4 [LJP, XI 3]</label>
+              </div>
+              <div type="edition" n="infortiatum" resp="Graziella Pastore">
+                <head>Édition</head>
+                <div type="edition" n="1">
+                  <head>D. 25.4 [LJP, XI 3]</head>
                   <p><pb n="f. 107b"/>
                     <label>[25.4.0]</label>
                     <emph n="rubrique">Ci titres est de garder la vente a la feme</emph>
@@ -4016,9 +4017,9 @@
                     <expan>selo<ex>n</ex>c</expan> ce doit l’<expan>e<ex>n</ex></expan> establir
                     <expan>q<ex>u</ex>ant</expan> la cause est
                     <expan>q<ex>ue</ex>neue</expan>.</p>
-                </note>
-                <note type="edition" n="2">
-                  <label>D. 28.1.22 [LJP, XII 1]</label>
+                </div>
+                <head type="edition" n="2">
+                  <div>D. 28.1.22 [LJP, XII 1]</div>
                   <p><pb n="f. 109d"/>
                     <label>[28.1.22]</label>
                     <hi rend="b">C</hi>il meismes dit. <label>[pr.]</label> je et mis <expan>p<ex>er</ex>es</expan>. et plusors
@@ -4100,10 +4101,10 @@
                     <expan>p<ex>ar</ex></expan> le <expan>d<ex>r</ex>oit</expan> citeen. <expan><ex>et</ex></expan>
                     <expan>p<ex>ar</ex></expan> celi au
                     <expan>p<ex>re</ex>vost</expan>.</p>
-                </note>
-              </note>
-              <note type="edition" n="digestum_novum" resp="Graziella Pastore">
-                <label>D. 42.1 [LJP, XVI 1]</label>
+                </head>
+              </div>
+              <div type="edition" n="digestum_novum" resp="Graziella Pastore">
+                <head>D. 42.1 [LJP, XVI 1]</head>
                 <p><pb n="f. 136a"/>
                   <emph n="rubrique">Ci commence li livres de Digeste nove</emph>
                 </p>
@@ -4569,7 +4570,7 @@
                   <expan>sa<ex>n</ex>z</expan>
                   <expan>juigem<ex>en</ex>t</expan> il <expan>pue<ex>n</ex>t</expan>
                   <expan>est<ex>r</ex>e</expan> recouvré.</p>
-              </note>
+              </div>
             </div>
           </div>
         </div>
@@ -6119,9 +6120,10 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <note type="edition" n="1">
-                  <label>D. 9.2.40-49</label>
+              <div type="edition">
+                <head>Édition</head>
+                <div type="edition" n="1">
+                  <head>D. 9.2.40-49</head>
                   <p><label>[9.2.40]</label> Paulus dit <foreign xml:lang="lat" rend="underlined">Si deletum</foreign> Se je di
                     <expan>q<ex>ue</ex></expan> .i. cyrogrefes m’a esté effaciez par coi denier m’estoient deu soz
                     <expan><ex>con</ex>dicion</expan>
@@ -6201,9 +6203,9 @@
                     <expan>q<ex>ue</ex>r</expan> il doit que illeq cesse l’action de la loi aquiliane il avoit donc par droit poor que li feus ne venist jusqu’a lui si abati la meson <expan>so<ex>n</ex></expan> voisin <expan><ex>e</ex></expan>
                     <expan><ex>com</ex>m<ex>en</ex>t</expan> que il soit ousé li feus vint jusqu’a lui ou se il fu en tens estainz
                     <expan><ex>e</ex></expan> l’action de la loi aquiliane cesse.</p>
-                </note>
-                <note type="edition" n="2">
-                  <label>D. 9.3.5</label>
+                </div>
+                <div type="edition" n="2">
+                  <head>D. 9.3.5</head>
                   <p>Ulpians dit. <label>[pr.]</label>
                     <foreign xml:lang="lat" rend="underlined">Si vero.</foreign> Se pluseur i habitent <expan><ex>e</ex></expan> il ont parti la meson entre els action est donnee <expan><ex>con</ex>tre</expan> celui seul qui habite en la partie de coi la chose est espandue. ¶ <label>[1]</label>
                     <foreign xml:lang="lat" rend="underlined">Si quis gratuitas</foreign> ¶ Se <expan>aucu<ex>n</ex>s</expan> a presté habitations a cels <expan>q<ex>ue</ex></expan> il ou sa fame ont franchiz ou a leur serjanz, Trebatius dit
@@ -6261,8 +6263,8 @@
                     <expan><ex>e</ex></expan> cele del droit au prevoz i faut. Ceste action est <expan><ex>com</ex>mune</expan>
                     <expan><ex>e</ex></expan> apartient a l’oir
                     <expan><ex>e</ex></expan> as semblables mes ele n’apartient pas <expan><ex>con</ex>tre</expan> l’oir quer ele donne paine.</p>
-                </note>
-              </note>
+                </div>
+              </div>
             </div>
           </div>
           <div type="soustraduction" xml:id="traduction_3">
@@ -7817,9 +7819,10 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <note type="edition">
-                      <note type="edition" n="1">
-                        <label>D. 2.9</label>
+                    <div type="edition">
+                      <head>Édition</head>
+                      <div type="edition" n="1">
+                        <head>D. 2.9</head>
                         <p><emph n="rubrique">De celui <expan>q<ex>ui</ex></expan> a afaire et est accusé de crime. En quel maniere il puisse eschiver la cause cirminal dont il est suivi</emph><label>[2.9.1]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label> Que se aucun seignor ait plegié son sergent d’une action criminal d’estre a droit
@@ -7885,9 +7888,9 @@
                           <expan>q<ex>ue</ex></expan> l’en puet.</p>
                         <p><label>[2.9.6]</label>
                           <expan><hi rend="b">P</hi>aul<ex>us</ex></expan> dit. <expan>q<ex>ue</ex></expan> se celui qui est franc s’est promis metre soi en <expan>jugeme<ex>n</ex>t</expan> por autrui. et il se mete maintenant pour icelle cause. Ja soit ce <expan>q<ex>ue</ex></expan> il soit franc. si fait il franchise a celui et bonté pour cui il se met.</p>
-                      </note>
-                      <note type="edition" n="2">
-                        <label>D. 9.2.40-51</label>
+                      </div>
+                      <div type="edition" n="2">
+                        <head>D. 9.2.40-51</head>
                         <p><label>[9.2.40]</label>
                           <hi rend="b">P</hi>aulus dit. Se ge di que aucuns m’a effacié le cyrogreffe par quoi denier m’estoient deu souz condicion. et ge le puis prover
                           <expan>p<ex>ar</ex></expan> tesmoinz.
@@ -8038,9 +8041,9 @@
                           <expan>e<ex>m</ex>paiera</expan> autant
                           <expan><ex>com</ex>me</expan> il valut en l’an devant a conter .ccc. <expan><ex>et</ex></expan> .lxv. jors. <expan><ex>con</ex>tinuels</expan> devant le jor
                           <expan>q<ex>ue</ex></expan> il fu navrez. cil qui le navra <expan>derreniereme<ex>n</ex>t</expan> sera tenuz en tant <expan>co<ex>m</ex>me</expan> li sers peust plus estre venduz. en l’an <expan>q<ex>ue</ex></expan> il le navra.</p>
-                      </note>
-                      <note type="edition" n="3">
-                        <label>D. 9.3.5-7</label>
+                      </div>
+                      <div type="edition" n="3">
+                        <head>D. 9.3.5-7</head>
                         <p><label>[9.3.5]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label> Se pluseurs
@@ -8124,9 +8127,9 @@
                           <expan>q<ex>ue</ex></expan> il en a perdue et
                           <expan>q<ex>ue</ex></expan> il em perdra. mes li
                           <expan>enledisseme<ex>n</ex>z</expan> de son cors. ne sera pas proisiez. car cors frans ne puet estre proisiez.</p>
-                      </note>
-                      <note type="edition" n="4">
-                        <label>D. 9.4.1-8</label>
+                      </div>
+                      <div type="edition" n="4">
+                        <head>D. 9.4.1-8</head>
                         <p><label>[9.4.1]</label>
                           <hi rend="b">G</hi>ayus dist. <hi rend="b">A</hi>ctions de mesfet sont apelees. celes qui ne sont pas meues contre nous por marchiez. mes por les mesfez a nos sers. <expan><ex>et</ex></expan> la droiture de ces actions est <expan>q<ex>ue</ex></expan> cil qui en est <expan><ex>con</ex>dampnez</expan> se puet delivrer de tout le <expan><ex>com</ex>mandeme<ex>n</ex>t</expan> por habandoner le serf qui a fet le mesfet.</p>
                         <p><label>[9.4.2]</label>
@@ -8265,8 +8268,8 @@
                           <expan>q<ex>ue</ex></expan> il y eust part. et des
                           <expan>q<ex>ue</ex></expan> il ne le puet fere. yl i avra domaige <expan>ap<ex>er</ex>teme<ex>n</ex>t</expan>. mes il est mielz <expan>q<ex>ue</ex></expan> l’en die par l’action de <expan>p<ex>ar</ex>tir</expan> choses
                           <expan><ex>com</ex>munes</expan> li apartient.</p>
-                      </note>
-                    </note>
+                      </div>
+                    </div>
                   </div>
                   <div>
                     <head>Leiden, Universiteitsbibliotheek, Meijers fr. 3</head>
@@ -8344,10 +8347,10 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <note type="edition">
-                      <title>Transcription intégrale du fragment</title>
-                      <note type="edition" n="1">
-                        <label>D. 9.2.40-51</label>
+                    <div type="edition">
+                      <head>Transcription intégrale du fragment</head>
+                      <div type="edition" n="1">
+                        <head>D. 9.2.40-51</head>
                         <p><label>[9.2.40]</label>
                           <pb n="f. 1a"/> ... avoir el tens que la condicion avendra. <hi rend="b">G</hi>e doi amener les tesmoinz par devant le juge. <hi rend="b">E</hi>t cil qui efface le cyrogrefe ne sera
                           <expan><ex>con</ex>dampnez</expan> a rendre moi nule chose devant que la condicion seur quoi li denier me sont deu sera acomplie. <hi rend="b">E</hi>t se ele faut il ne sera tenuz a rendre riens. <label>[9.2.41]</label>
@@ -8419,9 +8422,9 @@
                           <expan><ex>et</ex></expan> envers l’autre. <hi rend="b">C</hi>ar cil qui le navra
                           <expan>p<ex>re</ex>mierement</expan> en paiera autant come il valut en l’an devant. a conter .ccc.
                           <expan><ex>et</ex></expan> .lxv. jorz continuels devant le jor qu’il fu navrez. <hi rend="b">C</hi>il qui le navra derrenierement [...]</p>
-                      </note>
-                      <note type="edition" n="2">
-                        <label>D. 9.3.5-9.4.8</label>
+                      </div>
+                      <div type="edition" n="2">
+                        <head>D. 9.3.5-9.4.8</head>
                         <p><label>[9.3.5]</label>
                           <pb n="f. 2a"/> ... mes ele n’apartient pas contre l’oir. car ele est por peine.</p>
                         <p><label>[9.3.6]</label>
@@ -8483,8 +8486,8 @@
                         <p><label>[9.4.8]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">S</hi>e li serf qui est comun a plusors fet .i. larrecin chascuns de ses seignors est tenuz par ceste action. si que nus d’els ne se puet deffendre qu’il n’ament tout le meffet. se il abandone tout le serf. <hi rend="b">N</hi>e il ne doit pas estre oïz se il en velt abandoner sa part tant seulement. mes se il est
                           <expan>conda<ex>m</ex>pnez</expan> a abandonner tout le meffet.</p>
-                      </note>
-                    </note>
+                      </div>
+                    </div>
                   </div>
                   <div>
                     <head>Paris, Bibl. nat. de Fr., fr. 495</head>
@@ -9853,9 +9856,10 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <note type="edition">
-                      <note type="edition" n="1">
-                        <label>D. I.2</label>
+                    <div type="edition">
+                      <head>Édition</head>
+                      <div type="edition" n="1">
+                        <head>D. I.2</head>
                         <p><emph n="rubrique">De la nessance de droit
                           <expan><ex>et</ex></expan> de toutes les baillies</emph><label>[I.2.1]</label>
                           <hi rend="b">P</hi>avius dit el
@@ -10403,9 +10407,9 @@
                           <expan><ex>con</ex>seillier</expan>. aprés Jabolenus. fu Aburnius. <expan><ex>et</ex></expan> Culcianus.
                           <expan><ex>et</ex></expan>
                           <expan>P<ex>us</ex>salius</expan>. Julianus.</p>
-                      </note>
-                      <note type="edition" n="2">
-                        <label>D.9.2.40-51</label>
+                      </div>
+                      <div type="edition" n="2">
+                        <head>D.9.2.40-51</head>
                         <p><label>[9.2.40]</label>
                           <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e ge di <expan>q<ex>ue</ex></expan> ¶ L’oste<note xml:id="fr_495_note_2" place="bottom"><app>
                             <rdg wit="#E"/>
@@ -10689,9 +10693,9 @@
                             <rdg wit="#A #B #E">estainz</rdg>
                             <rdg wit="#F">estrainz</rdg>
                           </app></note> il dist <expan>q<ex>ue</ex></expan> l’action de ceste loy cesse</p>
-                      </note>
-                      <note type="edition" n="3">
-                        <label>D. 9.3.5-9.4</label>
+                      </div>
+                      <div type="edition" n="3">
+                        <head>D. 9.3.5-9.4</head>
                         <p><label>[9.3.5]</label>
                           <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">S</hi>e plusors
@@ -11602,8 +11606,8 @@
                           <hi rend="b">P</hi>omponius dit. <hi rend="b">L</hi>i sers de qui li mesfet ensuit le chief doivent estre desfendu la ou l’en dit
                           <expan>q<ex>ue</ex></expan> il mesfont. li sires doit donc amener ses sers avant el leu ou l’en dit
                           <expan>q<ex>ue</ex></expan> il ont fet force. Et se il <pb n="f. 123a"/> ne les desfent il em pert la seingnorie.</p>
-                      </note>
-                    </note>
+                      </div>
+                    </div>
                   </div>
                   <div>
                     <head>Paris, Bibl. nat. de Fr., fr. 20118</head>
@@ -12820,9 +12824,10 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <note type="edition">
-                      <note type="edition" n="1">
-                        <label>D. I.2</label>
+                    <div type="edition">
+                      <head>Édition</head>
+                      <div type="edition" n="1">
+                        <head>D. I.2</head>
                         <p><emph n="rubrique">De la naissance de droit et de totes les baillies</emph><label>[I.2.1]</label> Gaius dit el premier livre de la loi des .XII. tables. Porce
                           <expan>q<ex>ue</ex></expan> ge noloie espondre les vielles lois il me sembla <expan>q<ex>ue</ex></expan> il estoit necessaire chose <expan>q<ex>ue</ex></expan> ge recordasse le
                           <expan><ex>com</ex>me<ex>n</ex>cem<ex>en</ex>t</expan> de la cité de rome. Non pas porce
@@ -13256,9 +13261,9 @@
                           <expan><ex>et</ex></expan>
                           <expan>tuscian<ex>us</ex></expan>. et puis
                           <expan>salvi<ex>us</ex></expan> nilianus.</p>
-                      </note>
-                      <note type="edition" n="2">
-                        <label>D. 9.2.40-51</label>
+                      </div>
+                      <div type="edition" n="2">
+                        <head>D. 9.2.40-51</head>
                         <p><label>[9.2.40]</label>
                           <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e ge di <expan>q<ex>ue</ex></expan> aucuns m’a esfacié le cyrogrefe par quoi denier m’estoient deu souz
                           <expan>condicio<ex>n</ex></expan>
@@ -13347,9 +13352,9 @@
                           <expan>q<ex>ue</ex></expan>
                           <expan>q<ex>ue</ex></expan> li feus feist ou se il ala
                           <expan>jusq<ex>u’a</ex></expan> sa meson ou se il fu estrainz il dit <expan>q<ex>ue</ex></expan> l’action de ceste loi cesse.</p>
-                      </note>
-                      <note type="edition" n="3">
-                        <label>D. 9.3</label>
+                      </div>
+                      <div type="edition" n="3">
+                        <head>D. 9.3</head>
                         <p><label>[9.3.5]</label>
                           <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">S</hi>e plusor habitent en une
@@ -13532,9 +13537,9 @@
                           <expan>enledissem<ex>en</ex>z</expan> de
                           <expan>so<ex>n</ex></expan> cors ne sera pas proisiez. <expan>q<ex>ua</ex>r</expan> cors
                           <expan>fra<ex>n</ex>s</expan> ne puet estre proisiez.</p>
-                      </note>
-                      <note type="edition" n="4">
-                        <label>D. 9.4.1-8</label>
+                      </div>
+                      <div type="edition" n="4">
+                        <head>D. 9.4.1-8</head>
                         <p><emph n="rubrique">Des actions qui sont meues
                           <expan>p<ex>or</ex></expan> les meffez as sers:</emph></p>
                         <p><label>[9.4.1]</label>
@@ -13738,8 +13743,8 @@
                           <expan>p<ex>ar</ex>tir</expan> choses
                           <expan><ex>com</ex>munes</expan> li
                           <expan>ap<ex>ar</ex>tient</expan>.</p>
-                      </note>
-                    </note>
+                      </div>
+                    </div>
                   </div>
                 </div>
               </div>
@@ -14553,9 +14558,10 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                  <note type="edition">
-                    <note type="edition" n="1">
-                      <label>Pierre des Fontaines, <title>Conseil à un ami</title></label>
+                  <div type="edition">
+                    <head>Édition</head>
+                    <div type="edition" n="1">
+                      <head>Pierre des Fontaines, <title>Conseil à un ami</title></head>
                       <p><emph n="rubrique">Ci <expan><ex>com</ex>mence</expan> des semonsses qu'en fet as frans <expan><ex>et</ex></expan> as vileins.</emph>
                         <pb n="f. 1v"/><hi rend="b">T</hi>u puez semondre ton vilain qui est tes couchanz. et tes levanz del matin au vespre. et del vespre au matin. s'il n'est garniz en contre toi d'autre loi privee. Li ajornemenz de tes frans homes doit estre de .xv. jorz soit qu'il soient
                         <expan>coucha<ex>n</ex>t</expan> et levant souz toi ou souz autrui. Tu me demandes une chose
@@ -14598,10 +14604,9 @@
                         <expan>p<ex>ar</ex></expan> devant euls. avoir li doiz. se ensi n'est qu'il tiengne del seingnor. selonc le leu. ou li vilains maint. Mes
                         <expan>e<ex>n</ex>core</expan> ne tiengnes tu du roi. si li doiz tu avoir par devant son baillif en la chastelerie dont tu es. Mes <expan>q<ex>ua</ex>nt</expan> li bailliz fet ajorner franc home par devant lui aler i doit encore ne tiengne il <expan>rie<ex>n</ex>s</expan> del roi et <expan>ileq<ex>ue</ex>s</expan> puet la cort
                         <expan>so<ex>n</ex></expan> seignor avoier se il veult. se li clams qui est fez seur lui le sueffre.</p>
-                    </note>
-                    <note type="edition" n="2">
-                      <label>Compilation juridique en français des
-                        <title>Institutes</title> et du <title>Digeste vieux</title></label>
+                    </div>
+                    <div type="edition" n="2">
+                      <head>Compilation juridique en français des <title>Institutes</title> et du <title>Digeste vieux</title></head>
                       <p><emph n="rubrique">Des convenances qui riens ne vallent</emph>
                         <pb n="f. 59v"/><supplied resp="#LM">= Inst. 3.19, <title xml:lang="lat">De inutilibus stipulationibus</title></supplied>
                         <hi rend="b">T</hi>outes les choses qui
@@ -14813,9 +14818,9 @@
                         <expan>q<ex>u</ex></expan>'uns champs te soit donnez. tu ne porras pas meintenant pledier. se tant de
                         <expan>ta<ex>n</ex>s</expan> n'est establiz.
                         <expan>q<ex>ue</ex></expan> la chose peust estre bailliee.</p>
-                    </note>
-                    <note type="edition" n="3">
-                      <label><title>Grand coutumier de Normandie</title></label>
+                    </div>
+                    <div type="edition" n="3">
+                      <head><title>Grand coutumier de Normandie</title></head>
                       <p><supplied resp="#LM"><title xml:lang="lat">De justiciatione</title> ; <quote>De iustisement</quote> (la rubrique est absente, mais le titre est mentionné dans la table des matières, f. 97v)</supplied></p>
                       <p><hi rend="b">I</hi>ustisement est destrece qui est fete seur aucun por fere li fere droit de sa dete ou de son mesfet. <expan><ex>et</ex></expan> porce apert il que nus ne doit estre justiciez se il n'a avant fet cel mesfet de quoi il soit tenuz a fere satifacion ¶ Trois choses sont par quoi home doit estre justisiez. quant il passe le terme qui li est mis a fare ce que il doit. qant il despit justice. qant il fet tort a autrui. ¶ Por terme passé est home justiciez qant terme li est assis a aucun paier. sa rente <expan><ex>et</ex></expan> il ne la paie au terme ne ne l'offre il doit estre justiciez tant que il ait fet gré avenanment. ou que il ait doné pleges d'estre a droit,
                         <expan><ex>et</ex></expan> cel trespassement de fine sont apelez defaute. ¶ Tele maniere de justice doit estre fete par prendre ses nanz ou ses muebles.
@@ -14836,10 +14841,9 @@
                         <expan><ex>et</ex></expan> areté par les saingnieurs en qui fie il font cez forfez. portant
                         <expan>q<ex>u</ex></expan>'il soient pris a presant forfet. <expan><ex>et</ex></expan> se il pueent estre tenuz tant que il aient doné nanz ou pleiges. de restorer le domage ou de paier l'amende. la ou ele doit estre levee. ¶ Se aucuns est pris por aucun autre forfeit. il doit estre renduz au baillif sanz delai. ¶ Se li sires fet tort a son home por la reson de son fie. la cort en aprtient au duc. se il n'a aucun saingnieur moian entre lui. <expan><ex>et</ex></expan> le duc. qui
                         <expan>e<ex>n</ex></expan> doie avoir la cort. par la reson de son fie.</p>
-                    </note>
-                    <note type="edition" n="4">
-                      <label>Suite de la compilation juridique tirée des
-                        <title>Institutes</title> et du <title>Digeste vieux</title></label>
+                    </div>
+                    <div type="edition" n="4">
+                      <head>Suite de la compilation juridique tirée des <title>Institutes</title> et du <title>Digeste vieux</title></head>
                       <p><emph n="rubrique"><expan><ex>Com</ex>ment</expan>
                         <expan>chas<ex>cun</ex></expan> doit user en soi du droit qu'il establist a un autre <pb n="f. 172v" /></emph>
                         <supplied resp="#LM">D 2.2, <title xml:lang="lat">Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur</title></supplied></p>
@@ -14887,8 +14891,8 @@
                         <expan><ex>com</ex>me</expan> la chose vault. et pource
                         <expan>q<ex>ue</ex></expan> la
                         <expan>pai<ex>n</ex>ne</expan> en doit estre paiee a la borsse l'empereeur. l'action n'en est pas donee aprés l'an. ne contre contre l'oir.</p>
-                    </note>
-                  </note>
+                    </div>
+                  </div>
                 </div>
               </div>
             </div>
@@ -16104,9 +16108,10 @@
                     </listBibl>
                   </additional>
                 </msDesc>
-                <note type="edition">
-                  <note type="edition" n="1">
-                    <label>D. 9.2.40</label>
+                <div type="edition">
+                  <head>Édition</head>
+                  <div type="edition" n="1">
+                    <head>D. 9.2.40</head>
                     <p><label>[9.2.40]</label>
                       <hi rend="b">P</hi>ous dit <hi rend="b">E</hi>n la loi aquile. se je sai que aucuns m’a defacié ma chartre ou estoit escrite dete. que aucuns me devoit par condition:
                       <expan><ex>et</ex></expan> je puis prover ma dete par <pb n="f. 120d"/> tesmoins: <expan><ex>et</ex></expan> il porra estre que cil tesmoing ne seront vis
@@ -16170,8 +16175,8 @@
                       <expan>p<ex>or</ex></expan> ce que la seue escapast deu feu: car il dit que ci cesse l’accion de la loi aquile. car il ot poor que li feus ne venist jusq’a la.
                       <expan><ex>et</ex></expan> porce abati la maison son voisin.
                       <expan><ex>et</ex></expan> se li feus vint q’a lui il fu avant <expan>estai<ex>n</ex>s</expan> il esme que ceste accions cesse.</p>
-                  </note>
-                  <note type="edition" n="2">
+                  </div>
+                  <div type="edition" n="2">
                     <label>D. 9.3.5</label>
                     <p><label>[9.3.5]</label>
                       <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
@@ -16521,9 +16526,9 @@
                       <expan>Donq<ex>ue</ex>s</expan> li sires doit mostrer ses sers en plait. la ou l’en dit que il meffirent.
                       <expan><ex>et</ex></expan> il puet
                       <expan>p<ex>er</ex>dre</expan> la signorie de tos ensamble. se il ne les deffent.</p>
-                  </note>
-                  <note type="edition" n="3">
-                    <label>D. 12.4</label>
+                  </div>
+                  <div type="edition" n="3">
+                    <head>D. 12.4</head>
                     <p><emph n="rubrique">Ci dit de ce qu’en baille a autre por aucune cause <expan><ex>et</ex></expan> ele n’est
                       <expan>aco<ex>m</ex>plie</expan></emph>
                       <hi rend="b">C</hi>ist titres
@@ -16692,8 +16697,8 @@
                       <expan><ex>et</ex></expan> porce se stic est mors. Je te puis demander l’<expan>arge<ex>n</ex>t</expan> que je te baillie porce que tu me baillasses. stic. Mes ore poson que. stic. estoit autrui. Mes ne por <expan>q<ex>ua</ex>nt</expan> tu le me baillas: Je te puis demander l’<expan>arge<ex>n</ex>t</expan> que je te baillie porce <expan>q<ex>ue</ex></expan> tu ne le feis mien. <expan><ex>et</ex></expan> se. stic. est
                       <expan>tie<ex>n</ex>s</expan> et tu me le bailles.
                       <expan><ex>et</ex></expan> ne m’aseures de garandir le. tu n’es mie delivres que je ne te puisse demander l’argent</p>
-                  </note>
-                </note>
+                  </div>
+                </div>
               </div>
               <!-- TODO: FD, on fait quoi de cette mention ? -->
               <item><ref target="#kbr_9234">Bruxelles, Bibl. royale de Belgique, 9234 (de D. 3.1 à D. 4.6)</ref></item>

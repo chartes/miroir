@@ -1077,8 +1077,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>[II.1]</label>
+              <div type="edition">
+                <head>Édition. [II.1]</head>
                 <p><label>[pr.]</label><hi rend="b">NO</hi>us avons traittié en le partye<note xml:id="note_ordo_kbr21227_1" resp="#FD" place="bottom">ii a été transcrit y.</note> devant ceste loy des
                   <expan>perso<ex>n</ex>nes</expan> qui <expan>doive<ex>n</ex>t</expan> estre en jugement. Or volons nous en ceste Seconde partye
                   <expan>ense<ex>n</ex>gnier</expan> le juge le demandeur et le respondeur <expan><ex>com</ex>ment</expan> il se doivent avoir en
@@ -1305,7 +1305,7 @@
                   <expan>dema<ex>n</ex>deur</expan> qu’il traie son adversaire en cause par <expan>deva<ex>n</ex>t</expan> le juge en cuy
                   <expan>juridict<ex>i</ex>on</expan> il est alleis
                   <expan>q<ex>ue</ex></expan> par <expan>deva<ex>n</ex>t</expan> celuy en cuy poesté il at son <expan>ma<ex>n</ex>noir</expan>.</p>
-              </note>
+              </div>
             </item>
             <item xml:id="metz_1196" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md38jd475j5s">
               <msDesc type="manifestation_singleton">
@@ -1959,8 +1959,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Ci commence li secons livres de l’ordenaire maistre Tancrei. Ci tytres est a cui cort li demanderres doit aler</emph><label>[pr.]</label>
                   <hi rend="b">N</hi>os avons traitié en la partie devant ceste des
                   <expan>p<ex>er</ex>sones</expan> qui
@@ -2207,7 +2207,7 @@
                   <expan>souva<ex>n</ex>t</expan> avient que ce est plus li prouz au demandeor que il traie son aversaire en cause par
                   <expan>deva<ex>n</ex>t</expan> lou juge en cui juridiction il est alez Que <expan>p<ex>ar</ex></expan>
                   <expan>deva<ex>n</ex>t</expan> celui en cui poestei il ai son manoir.</p>
-              </note>
+              </div>
             </item>
             <item xml:id="marston_228" corresp="ARK_manuscrit">
               <msDesc type="manifestation_singleton">
@@ -2742,8 +2742,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Cist tytres parole a <expan>q<ex>ue</ex>l</expan> cort li demandierres doit aler</emph><hi rend="b">N</hi>os avons tretié. en la <expan>p<ex>ar</ex>tie</expan>
                   <expan>deva<ex>n</ex>t</expan> ceste. des personnes
                   <expan>q<ex>ui</ex></expan> doivent <expan>est<ex>re</ex></expan> en
@@ -2977,7 +2977,7 @@
                   <expan>q<ex>ue</ex></expan> il traie son
                   <expan>av<ex>er</ex>saire</expan> en cause <expan>p<ex>ar</ex></expan> devant le juge. en qui <expan>juridicio<ex>n</ex></expan> est alez
                   <expan>q<ex>ue</ex></expan> par devant celui en qui poosté il a son manoir.</p>
-              </note>
+              </div>
             </item>
             <item xml:id="fr_1073" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596684">
               <msDesc type="manifestation_singleton">
@@ -3460,8 +3460,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Ci <expan>p<ex>ar</ex>ole</expan> a qui court li
                   <expan>dema<ex>n</ex>de<ex>r</ex>res</expan> doit aler</emph><label>[pr.]</label>Nous avons tretié en
                   <expan>p<ex>ar</ex>tie</expan> devant ceste. des persones qui doivent estre en jugement. Or vou<pb n="f. 23d"/>lons en ceste seconde partie <expan>enseign<ex>er</ex></expan> le juge
@@ -3524,7 +3524,7 @@
                   <expan>so<ex>n</ex>t</expan> mis en sa justice par leur fet.
                   <label>[3.17]</label> Et je ai mis touz ces cas porce que souvent avient que ce est plus li<note xml:id="fr_1073_note_1" place="bottom" resp="#FD"><quote>li</quote> ajouté par le copiste dans l’interligne supérieur.</note> preuz au demandeeur que il traie son adversaire en cause par devant le juge en qui jurisdicion il est alez
                   <expan>q<ex>ue</ex></expan> par devant celui en qui poosté il a son manoir.</p>
-              </note>
+              </div>
             </item>
             <item xml:id="fr_1074" corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059667q">
               <msDesc type="manifestation_singleton">
@@ -4046,8 +4046,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Cist <pb n="f. 29a"/> titres est a
                   <expan>q<ex>ue</ex>l</expan> cort li
                   <expan>dema<ex>n</ex>d<ex>er</ex>res</expan> doit
@@ -4255,7 +4255,7 @@
                   <expan>av<ex>er</ex>ssaire</expan> en cause
                   <expan>p<ex>ar</ex></expan> devant le juge en qui jurisdicion il est alez. <expan>q<ex>ue</ex></expan> par devant celui en qui poosté il a
                   <expan>so<ex>n</ex></expan> manoir.</p>
-              </note>
+              </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596936" xml:id="fr_1075">
               <msDesc type="manifestation_singleton">
@@ -4808,8 +4808,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Chi commence li segont livres misire Tancré. Ciz titres <expan>p<ex>ar</ex>ole</expan> a <expan>q<ex>ue</ex>l</expan> cort le <expan>dema<ex>n</ex>de<ex>or</ex></expan> doit aler</emph><label>[pr.]</label> Nous avon traetié en la
                   <expan>p<ex>ar</ex>tie</expan> devant ceste des
                   <expan>p<ex>er</ex>sones</expan> qui doivent estre en jugement <hi rend="b">O</hi>r volons en ceste segonde garder
@@ -5031,7 +5031,7 @@
                   <expan>q<ex>ua</ex>nt</expan> il traet son
                   <expan>adv<ex>er</ex>saere</expan> en cause
                   <expan>p<ex>ar</ex></expan> devant le juge ou qui juridion il est alez que <expan>p<ex>ar</ex></expan> devant celi ou il a son maners.</p>
-              </note>
+              </div>
             </item>
             <item xml:id="fr_25546" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162">
               <msDesc type="manifestation_singleton">
@@ -5600,8 +5600,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Ci <expan>co<ex>m</ex>mence</expan> li secons livres de l’ordenence Tancré. Cilz chapistres est a
                   <expan>q<ex>ue</ex>l</expan> court li
                   <expan>dema<ex>n</ex>derres</expan> doit aler</emph><label>[pr.]</label> Nous avons traitié en la
@@ -5935,7 +5935,7 @@
                   <expan>e<ex>n</ex></expan> cause <expan>p<ex>ar</ex></expan> devant juge en cui <expan>juridicio<ex>n</ex></expan> il est alez
                   <expan>q<ex>ue</ex></expan>
                   <expan>p<ex>ar</ex></expan> devant celui en cui poesté il a son manoir.</p>
-              </note>
+              </div>
             </item>
             <item xml:id="nafr_10046" corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000004652">
               <msDesc type="manifestation_singleton">
@@ -6569,8 +6569,10 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <note type="edition" n="1"><label>II.1 (copiste 1)</label>
+              <div type="edition">
+                <head>Édition</head>
+                <div type="edition" n="1">
+                  <head>II.1 (copiste 1)</head>
                   <p><emph n="rubrique">Ci <expan><ex>com</ex>me<ex>n</ex>ce</expan> li segons livres de l’ordinaere maestre
                     <expan>Ta<ex>n</ex>crey</expan>. Cis titres est a
                     <expan>q<ex>ue</ex>l</expan> li demandieres doit alaer</emph><label>[pr.]</label> Nos <expan>avo<ex>n</ex></expan> traitié en la <expan>p<ex>ar</ex>tie</expan>
@@ -7169,9 +7171,9 @@
                     <expan>deva<ex>n</ex>t</expan> le juge en <expan>q<ex>ui</ex></expan> juridicion il est alés <expan>q<ex>ue</ex></expan>
                     <expan>p<ex>ar</ex></expan>
                     <expan>deva<ex>n</ex>t</expan> celui en <expan>q<ex>ui</ex></expan> poosté il a <expan>so<ex>n</ex></expan> manoir. </p>
-                </note>
-                <note type="edition" n="2">
-                  <label>III.13.4 (début) (copiste 2)</label>
+                </div>
+                <div type="edition" n="2">
+                  <head>III.13.4 (début) (copiste 2)</head>
                   <p><emph n="rubrique"><expan>Co<ex>m</ex>ment</expan>
                     <expan>instrume<ex>n</ex>t</expan> doivent estre moustré .xv.</emph> Instrumens doivent estre fais en ceste au previliege ou au juge ou a celui qu’il avra mis en son lieu si que li adversaires a celui qui les moustre soit <pb n="f. 72a"/> prés. Et li
                     <expan>instrum<ex>en</ex>s</expan> ne soit pas bailliés a l’<expan>adv<ex>er</ex>saire</expan> pour transcrire ains soit transcrit par le notaire de la court ou par un autre loyal
@@ -7199,8 +7201,8 @@
                     <expan><ex>et</ex></expan> a ce lieu <expan><ex>et</ex></expan> par
                     <expan>dev<ex>er</ex>s</expan> le demandeur
                     <expan><ex>et</ex></expan> par <expan>dev<ex>er</ex>s</expan> le desfendeur. </p>
-                </note>
-              </note>
+                </div>
+              </div>
             </item>
             <item xml:id="stomer_545" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md150g355d33">
               <msDesc type="manifestation_singleton">
@@ -7684,8 +7686,8 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <note type="edition">
-                <label>II.1</label>
+              <div type="edition">
+                <head>Édition. II.1</head>
                 <p><emph n="rubrique">Ci <expan><ex>com</ex>mence</expan> li secons livres. Et est le <expan>p<ex>re</ex>mier</expan> title. A quel
                   <expan>co<ex>ur</ex>t</expan> li demanderres doit aler. x.</emph><label>[pr.]</label><hi rend="b">N</hi>ous
                   <expan>avo<ex>n</ex>s</expan> devant traicté en la
@@ -8181,7 +8183,7 @@
                   <expan>aut<ex>re</ex></expan> done en tous cas est tenable quar il se <expan>s<ex>un</ex>t</expan> mis en sa justice par lor fait
                   <label>[3.17]</label> et je ay mis tous ces cas pour ce que se avient souvent que se est plus li preus au <expan>demand<ex>eur</ex></expan> que il traite son <expan>adv<ex>er</ex>saire</expan> en cause par devant le juge en qui juridicion il est alez que <expan>p<ex>ar</ex></expan>
                   <expan>deva<ex>n</ex>t</expan> le juge en qui poesté il a son manoir.</p>
-              </note>
+              </div>
             </item>
           </list>
         </div>
