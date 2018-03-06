@@ -338,7 +338,23 @@
       <a:documentation>Description libre de la décoration du manuscrit</a:documentation>
       <!-- pour l’instant un unique <p> avec de la typo -->
       <!-- si on peut définir des catégories de notes (par ex. "illustration", utiliser decoNote, dans la mesure où toutes les notes semblent concerner la décoration– voir avec JBC -->
-      <ref name="p"/>
+      <choice>
+        <ref name="p"/>
+        <oneOrMore>
+          <ref name="decoNote"/>
+        </oneOrMore>
+      </choice>
+    </element>
+  </define>
+  
+  <define name="decoNote">
+    <a:documentation>Rubrique non normalisée pour la description de la décoration d’un manuscrit</a:documentation>
+    <!-- NB: div non autorisé. On remet tout à plat (flat), plutôt que de maintenir une hiérarchie de <note>s dans decoNote -->
+    <element name="decoNote">
+      <ref name="label"/>
+      <oneOrMore>
+        <ref name="p"/>
+      </oneOrMore>
     </element>
   </define>
   

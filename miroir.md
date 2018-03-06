@@ -1,4 +1,7 @@
 # Les manuscrits juridiques
+
+* decoNote : problème des notes dans decoDesc => pas de div hiérarchique, seulement une sccession plate de note (decoNote) => reprise de la structure de decoDesc ; problème du typage, notamment pour digestum_vetus.
+
 * `//emph` : voir les valeurs des `@rend` et `@n` pour normalisation
 * pourquoi des `div` pour les `list[@type='listMs']` ?
 * inversement, inscrire des `div` pour `list[@type="temoins"]`
