@@ -1386,7 +1386,7 @@
                     <settlement>London</settlement>
                     <repository>British Libr.</repository>
                     <idno>Royal 20.D.IX</idno>
-                    <msName type="sigle" resp="martin">O</msName><!-- d’après l’éd. Olivier-Martin, p. xxx-xxxi -->
+                    <msName type="sigle" resp="olivier-martin">O</msName><!-- d’après l’éd. Olivier-Martin, p. xxx-xxxi -->
                   </msIdentifier>
                   <msContents>
                     <summary>traductions <lang xml:lang="fro" n="lang_arrivée">françaises</lang> anonymes de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 6a-133b) et des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title> (f. 133b-184c) ; table des rubriques des traductions des <title corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" type="oeuvre">Institutes</title>, <title>Authentiques</title> et <title xml:lang="lat">Tres libri</title> (f. 185a-189d)</summary>
@@ -3615,7 +3615,7 @@
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
                     <idno>fr. 498</idno>
-                    <msName type="sigle" resp="martin">A</msName>
+                    <msName type="sigle" resp="olivier-martin">A</msName>
                   </msIdentifier>
                   <msContents>
                     <summary><title xml:lang="lat" type="oeuvre">Parvum volumen</title> (<title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title>, <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authentiques</title> et <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title>) en <lang xml:lang="fro" n="lang_arrivée">français</lang>.</summary>
@@ -5938,7 +5938,7 @@
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
                     <idno>fr. 22970</idno>
-                    <msName type="sigle" resp="martin">F</msName>
+                    <msName type="sigle" resp="olivier-martin">F</msName>
                   </msIdentifier>
                   <msContents>
                     <summary><title xml:lang="lat">Parvum volumen</title> (<title xml:lang="fr" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title>, <title xml:lang="fr" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authentiques</title> et <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title>) en <lang xml:lang="fro">français</lang>.</summary>
