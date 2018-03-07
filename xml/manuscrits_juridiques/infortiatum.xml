@@ -1812,7 +1812,7 @@
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_blanc">
                         <locus from="157v"/>
-                        <note>blanc</note>
+                        <note type="msItem">Blanc</note>
                       </msItem>
                     </msItem>
                     <msItem n="2" xml:id="rouen_794_trespartes">

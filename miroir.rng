@@ -318,6 +318,9 @@
           <ref name="cipit.cont"/>
         </element>
       </optional>
+      <optional>
+        <ref name="msItem.note"/>
+      </optional>
     </element>
   </define>
    
@@ -343,6 +346,21 @@
         <attribute name="facs"/>
       </optional>
       <text/>
+    </element>
+  </define>
+  
+  <define name="msItem.note">
+    <a:documentation>Commentaire libre portant sur l’item et affiché dans le corps de la notice. Cette note NE DOIT PAS être déportée.</a:documentation>
+    <element name="note">
+      <attribute name="type">
+        <value>msItem</value>
+      </attribute>
+      <choice>
+        <oneOrMore>
+          <text/>
+          <ref name="typo"/>
+        </oneOrMore>
+      </choice>
     </element>
   </define>
   

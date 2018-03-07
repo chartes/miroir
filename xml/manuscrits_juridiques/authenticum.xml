@@ -3050,7 +3050,7 @@
                       <title type="partie" xml:lang="fr">table des rubriques du manuscrit : <title>Institutes</title>,
                         <title>Authentiques</title> et <title xml:lang="lat">Tres libri</title></title>
                       <incipit xml:lang="fro">En non de <expan>n<ex>ost</ex>re</expan> seignor <expan>Jh<ex>es</ex>ucrist</expan> ci <expan><ex>com</ex>m<ex>en</ex>ce</expan> les institutes a l’<expan>emp<ex>er</ex>eor</expan> <expan>Justinia<ex>n</ex></expan>. Li <expan>emp<ex>er</ex>eres</expan> Cesar Flavius Justinians <expan><ex>et</ex></expan> toz jorz augustus dist.</incipit>
-                      <note>La table forme une unité codicologique distincte du corps du texte et commence par les titres des
+                      <note type="msItem">La table forme une unité codicologique distincte du corps du texte et commence par les titres des
                         <title>Institutes</title> aujourd’hui disparus du manuscrit. Elle est copiée d’une main plus cursive et plus récente que les traductions (écriture très proche du ms Paris, bibl. Sainte-Geneviève 2387, f. 23v [1335] ;
                         <bibl><title>Mss datés</title>, t. I, pl. XLII</bibl>), qui a également procédé à une numérotation marginale des titres en chiffres arabes le long du manuscrit.</note>
                     </msItem>

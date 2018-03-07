@@ -2999,7 +2999,7 @@
                       <title type="section" xml:lang="fr">Table des rubriques</title>
                       <incipit><emph n="rubrique">Cy commence la table des chappitres de ce present volume intitulé l’Ordinaire de maistre Tancrez qui traitte <expan>comme<ex>n</ex>t</expan> toute personne se doit avoir en justice et contient quatre livres dont les rubrices du premier s’ensuivent.</emph><lb/>Premierement le prologue i<lb/>De l’ordre des jugemens i</incipit>
                       <explicit>Fin de la table des quatre livres de l’Ordinaire maistre Tancrez.</explicit>
-                      <note>La table renvoie à la foliotation du texte dans le manuscrit.</note>
+                      <note type="msItem">La table renvoie à la foliotation du texte dans le manuscrit.</note>
                     </msItem>
                     <msItem xml:id="fr_1073_ordo_livre1">
                       <locus from="1a" to="23c"/>
@@ -3549,7 +3549,7 @@
                       <title type="section" xml:lang="fr">Table des titres</title>
                       <incipit xml:lang="fro">Icist livres est devisés en quatres parties dont la permiere partie <expan><ex>con</ex>tient</expan> x chapitres<lb/>Li premiers <lb/>i. De l’ordre des jugemans</incipit>
                       <explicit xml:lang="lat">In hujus opere sit nomen Domini benedictum. Amen.</explicit>
-                      <note>La table renvoie aux f. du ms. Des initiales nues bleues et rouges de 4 UR distinguent les livres ; des pieds-de-mouche alternativement bleus et rouges précèdent chaque titre.</note>
+                      <note type="msItem">La table renvoie aux f. du ms. Des initiales nues bleues et rouges de 4 UR distinguent les livres ; des pieds-de-mouche alternativement bleus et rouges précèdent chaque titre.</note>
                     </msItem>
                     <msItem xml:id="fr_1074_ordo_livre1">
                       <locus from="1a" to="28d"/>
@@ -3986,7 +3986,7 @@
                     <title type="partie" xml:lang="lat">Versus de mola piperis</title>
                     <incipit xml:lang="lat">Militis uxorem clamidis mercede subegit clericus...</incipit>
                     <explicit xml:lang="lat">Sed magis ad nostram non molet ille molam</explicit>
-                    <note>Ajoutés d’une main cursive aux 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. sur le verso blanc du dernier f.</note>
+                    <note type="msItem">Ajoutés d’une main cursive aux 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. sur le verso blanc du dernier f.</note>
                   </msItem>
                 </msContents>
                 <physDesc>
@@ -4280,7 +4280,7 @@
                         <expan><ex>com</ex>menche</expan> li
                         <expan>p<ex>re</ex>mier</expan> titre de l’Ordinaeres maestre <expan>Ta<ex>n</ex>cr<supplied resp="#FD">é</supplied></expan> canoigne de Boloigne du
                         <expan>p<supplied resp="#FD"><ex>re</ex></supplied>mier</expan> livre</emph><lb/>De l’ordre des <expan>jugeme<ex>n</ex>s</expan>.<lb/>Des juges ordinaeres.</incipit>
-                      <note>La fin de la table manque, parce que le quart supérieur du f. 1 a été arraché.</note>
+                      <note type="msItem">La fin de la table manque, parce que le quart supérieur du f. 1 a été arraché.</note>
                     </msItem>
                     <msItem xml:id="fr_1075_ordo_livre1">
                       <locus from="1b" to="18d"/>
@@ -5060,7 +5060,7 @@
                       <explicit>
                         <emph n="rubrique">De restitution viii<lb/>Ci finissent li tytre</emph>
                       </explicit>
-                      <note>Initiale de chaque titre alternativement rouge et bleue. Numéro d’ordre des titres rubriqué. La main plus tardive (14e-15e s.) qui a folioté l’<title xml:lang="lat">Ordo</title> de <persName>Tancrède</persName> a ajouté aux numéros d’ordre les numéros de f. en cursive. La division en livres est signalée dans la table par des rubriques.</note>
+                      <note type="msItem">Initiale de chaque titre alternativement rouge et bleue. Numéro d’ordre des titres rubriqué. La main plus tardive (14e-15e s.) qui a folioté l’<title xml:lang="lat">Ordo</title> de <persName>Tancrède</persName> a ajouté aux numéros d’ordre les numéros de f. en cursive. La division en livres est signalée dans la table par des rubriques.</note>
                     </msItem>
                     <msItem xml:id="fr_25546_ordo_livre1">
                       <locus from="1a" to="24b"/>
@@ -5484,7 +5484,7 @@
                         <expan><ex>con</ex>soil</expan> de France et de
                         <expan>Champ<ex>aingne</ex></expan>.</explicit>
                     </msItem>
-                    <note>Texte édité dans <bibl>P. Portejoie, <title>L’ancien coutumier de Champagne</title>, Poitiers, 1956</bibl>.</note> 
+                    <note type="msItem">Texte édité dans <bibl>P. Portejoie, <title>L’ancien coutumier de Champagne</title>, Poitiers, 1956</bibl>.</note> 
                   </msItem>
                   <msItem n="3" xml:id="fr_25546_ezechiel">
                     <locus from="139b" to="139d"/>
@@ -5497,7 +5497,7 @@
                       <expan>no<ex>n</ex></expan>...</incipit>
                     <explicit xml:lang="fro">Les bestes morront l’<expan>a<ex>n</ex></expan> nou mettre en obliance<lb/>Garde bien ton <expan>froum<ex>en</ex>t</expan>
                       <expan><ex>et</ex></expan> dou cuillir t’avance.</explicit>
-                    <note>Texte édité par <bibl>Paul Meyer, <title level="a">Notice du ms A 454 de la Bibliothèque de Rouen</title>, dans
+                    <note type="msItem">Texte édité par <bibl>Paul Meyer, <title level="a">Notice du ms A 454 de la Bibliothèque de Rouen</title>, dans
                       <title>Bulletin de la Société des anciens textes</title>, t. 9, 1883, p. 89-91</bibl>.</note>
                   </msItem>
                   <msItem n="4" xml:id="fr_25546_autres">
@@ -5508,7 +5508,7 @@
                       <expan><ex>et</ex></expan> li royz Foudreiz firent a l’onor
                       <expan><ex>et</ex></expan> au secours de touz ceux qui aprés lour vendrient <expan><ex>et</ex></expan>
                       <expan>p<ex>re</ex>mierema<ex>n</ex>t</expan> des pierres precieuses <expan>enco<ex>m</ex>ma<ex>n</ex>ce</expan> au saphir</title>).</title>
-                    <note>Texte inédit.</note>
+                    <note type="msItem">Texte inédit.</note>
                     <msItem xml:id="fr_25546_autres_lapidaire">
                       <locus from="140a" to="146b"/>
                       <title type="section" xml:lang="fr">Lapidaire</title>
@@ -5957,7 +5957,7 @@
                       <locus from="1a" to="1b"/>
                       <title type="section" xml:lang="fr">Liste des titres</title>
                       <incipit xml:lang="fro">Des juges delegas. Des arbitres.</incipit>
-                      <note>La liste est amputée du début, suite à une déchirure dans la partie supérieure du f. 1. Le f. 1a commençait par le titre du texte et le nom de l’auteur suivis de la liste des titres du premier livre. Les titres sont copiés à longues lignes les uns à la suite des autres, séparés par un point et par un rehaut de rouge sur la première lettre du titre.</note>
+                      <note type="msItem">La liste est amputée du début, suite à une déchirure dans la partie supérieure du f. 1. Le f. 1a commençait par le titre du texte et le nom de l’auteur suivis de la liste des titres du premier livre. Les titres sont copiés à longues lignes les uns à la suite des autres, séparés par un point et par un rehaut de rouge sur la première lettre du titre.</note>
                     </msItem>
                     <msItem xml:id="nafr_10046_ordo_livre1">
                       <locus from="1b" to="18b"/>
@@ -7222,7 +7222,7 @@
                     <locus from="1" to="9v"/>
                     <title type="partie" xml:lang="fr">compilation de droits coutumiers
                       <supplied>titre f. 1 (main du 18e s.) : <title>Traicté de droit civil</title></supplied>. </title>
-                    <note>Amputé du début, puisque les chapitres sont numérotés de 60 à 99. Il ne s’agit pas d’une coutume du pays de Flandre, comme pourrait le faire croire l’explicit du f. 9v, puisque des allusions sont faites à de nombreux usages et coutumes (coutume de France, style du Parlement de Paris, rappel de jugements divers). Le texte a été complété par une main contemporaine différente (f. 9-9v), postérieure à la rubrication du manuscrit et à la confection des initiales du traité. C’est pourquoi nous donnons l’explicit primitif et l’explicit du texte complété.</note>
+                    <note type="msItem">Amputé du début, puisque les chapitres sont numérotés de 60 à 99. Il ne s’agit pas d’une coutume du pays de Flandre, comme pourrait le faire croire l’explicit du f. 9v, puisque des allusions sont faites à de nombreux usages et coutumes (coutume de France, style du Parlement de Paris, rappel de jugements divers). Le texte a été complété par une main contemporaine différente (f. 9-9v), postérieure à la rubrication du manuscrit et à la confection des initiales du traité. C’est pourquoi nous donnons l’explicit primitif et l’explicit du texte complété.</note>
                     <incipit xml:lang="fro"><emph n="rubrique">Assavoir se le demandeur a fait en son adjournement ses demandes, se le deffenseur avra jour de conseil. .lx.</emph><lb/>Se partie fait mettre en son adjournement les demandes qu’elle entent a faire a son deffendeur...</incipit>
                     <explicit xml:lang="fro"><emph n="rubrique">Question seur provision requise par Jehan de Praelles contre les religieus de saint Maard sur la maison de Ruigny. iii<hi rend="upper">xx</hi>xix.</emph><lb/>Memoire de Jean de Pourelles qui requeroit de l’eglise de saint Maard de Soissons que
                       <expan><ex>com</ex>me</expan> une
