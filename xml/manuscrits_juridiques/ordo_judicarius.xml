@@ -1496,8 +1496,8 @@
                       <msItem>
                         <locus from="37b"/>
                         <title type="sub">[II.15]</title>
-                        <incipit><emph n="rubrique"><expan><ex>Com</ex>ma<ex>n</ex>t</expan> li deffenderres la<note place="bottom" xml:id="metz_1196_note_1"><quote>la</quote> ajouté en noir dans l’interligne supérieur.</note> doit
-                          <expan>do<ex>n</ex>ner</expan><note place="bottom" xml:id="metz_1196_note_2"><quote>r</quote> final ajouté en noir.</note></emph></incipit>
+                        <incipit><emph n="rubrique"><expan><ex>Com</ex>ma<ex>n</ex>t</expan> li deffenderres la<note place="bottom"><quote>la</quote> ajouté en noir dans l’interligne supérieur.</note> doit
+                          <expan>do<ex>n</ex>ner</expan><note place="bottom"><quote>r</quote> final ajouté en noir.</note></emph></incipit>
                       </msItem>
                       <msItem>
                         <locus from="37d"/>
@@ -1704,7 +1704,7 @@
                       <msItem>
                         <locus from="78c"/>
                         <title type="sub">[IV.3]</title>
-                        <incipit><emph n="rubrique"><expan><ex>Com</ex>mant</expan> sentence <expan>q<ex>ui</ex></expan> vaut est souzlegie<note place="bottom" xml:id="metz_1196_note_3"><quote>uzlegie</quote> à l’encre noire.</note></emph></incipit>
+                        <incipit><emph n="rubrique"><expan><ex>Com</ex>mant</expan> sentence <expan>q<ex>ui</ex></expan> vaut est souzlegie<note place="bottom"><quote>uzlegie</quote> à l’encre noire.</note></emph></incipit>
                       </msItem>
                       <msItem>
                         <locus from="79d"/>

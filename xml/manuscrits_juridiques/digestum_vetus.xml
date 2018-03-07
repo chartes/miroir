@@ -6666,8 +6666,7 @@
                               <expan><ex>et</ex></expan> metre em possession...</incipit>
                             <explicit xml:lang="fro">Et ce meisme respondra l’en en celui qui reçut l’eritaige qui li fu renduz par le
                               <expan>co<ex>m</ex>mandeme<ex>n</ex>t</expan> au mort se li hoirs qui li devoit rendre fist transaction au deteur de l’eritaige qui riens
-                              <expan>n’e<ex>n</ex></expan> savoit<note place="bottom" xml:id="kbr_9234_note_1"><quote xml:lang="fro">au deteur de l’eritaige qui riens
-                                <expan>n’e<ex>n</ex></expan> savoit</quote> : passage répété par erreur.</note>.</explicit>
+                              <expan>n’e<ex>n</ex></expan> savoit<note place="bottom"><quote xml:lang="fro">au deteur de l’eritaige qui riens <expan>n’e<ex>n</ex></expan> savoit</quote> : passage répété par erreur.</note>.</explicit>
                             <msItem>
                               <locus from="18b"/>
                               <title type="sub">[D. 2.1]</title>
@@ -6767,7 +6766,7 @@
                               <lb/>
                               <pb n="f. 40b"/> Ulpians dist : li precteur fist cest livre por ce <expan>q<ex>ue</ex></expan> l’en eust regart <expan>v<ex>er</ex>s</expan> les avocaz et por <expan>gard<ex>er</ex></expan> sa digneté
                               <expan><ex>et</ex></expan> son honeur</incipit>
-                            <explicit xml:lang="fro">Papinians dist : Se l’en acuse aucun serf l’en le met a gehine se cil qui acuse le requiert et se il est delivrés cil qui l’encusoit doit paier au seigneur du serf le double du pris du serf mes l’en demande <supplied resp="#FD">de</supplied><note place="bottom" xml:id="kbr_9234_note_2">La préposition se trouve sans doute dans la marge de reliure.</note> sa chalenge estre le pris du serf se li crimes de chalenge est de partir domaige qu’il a fet au seignor por ce qu’il fist metre son serf en gehine.</explicit>
+                            <explicit xml:lang="fro">Papinians dist : Se l’en acuse aucun serf l’en le met a gehine se cil qui acuse le requiert et se il est delivrés cil qui l’encusoit doit paier au seigneur du serf le double du pris du serf mes l’en demande <supplied resp="#FD">de</supplied><note place="bottom">La préposition se trouve sans doute dans la marge de reliure.</note> sa chalenge estre le pris du serf se li crimes de chalenge est de partir domaige qu’il a fet au seignor por ce qu’il fist metre son serf en gehine.</explicit>
                             <msItem>
                               <locus from="40a"/>
                               <title type="sub">[D. 3.1]</title>
@@ -6871,7 +6870,7 @@
                             <title type="section" xml:lang="fr">Livre V</title>
                             <incipit xml:lang="fro"><emph n="rubrique">Ci commence le quint livre. Cist tytres est de
                               <expan>jugeme<ex>n</ex>z</expan> et en
-                              <expan>q<ex>ue</ex>l</expan> lieu aucuns puet estre trez en cause<note place="bottom" xml:id="kbr_9234_note_3"><quote>en cause</quote> répété par erreur.</note>.</emph>
+                              <expan>q<ex>ue</ex>l</expan> lieu aucuns puet estre trez en cause<note place="bottom"><quote>en cause</quote> répété par erreur.</note>.</emph>
                               <lb/>Ulpians dist : se aucuns se
                               <expan>souzmete<ex>n</ex>t</expan> a la juridiction a .i. juge et il se
                               <expan><ex>con</ex>sentent</expan> en lui...</incipit>
@@ -6888,7 +6887,7 @@
                               <title type="sub">[D. 5.1]</title>
                               <incipit><emph n="rubrique">Cist tytres est de
                                 <expan>jugeme<ex>n</ex>z</expan> et en
-                                <expan>q<ex>ue</ex>l</expan> lieu aucuns puet estre trez en cause<note place="bottom" xml:id="kbr_9234_note_4"><quote>en cause</quote> répété par erreur.</note></emph></incipit>
+                                <expan>q<ex>ue</ex>l</expan> lieu aucuns puet estre trez en cause<note place="bottom"><quote>en cause</quote> répété par erreur.</note></emph></incipit>
                             </msItem>
                             <msItem>
                               <locus from="88b"/>
@@ -8975,7 +8974,7 @@
                           <msItem xml:id="fr_495_digestumvetus_livre8">
                             <locus from="100c" to="111a"/>
                             <title type="section" xml:lang="fr">Livre VIII</title>
-                            <incipit xml:lang="fro"><emph n="rubrique">Cy commence li huitiesmes livres. Cist tytres est des servises.</emph><lb/>Martians dit : Servages sont ou personniex<note place="bottom" xml:id="fr_495_note_1"><hi rend="i">r</hi> corrigé en <hi rend="i">x</hi>.</note> si <expan><ex>com</ex>me</expan> usaiges <expan><ex>et</ex></expan> usaires ou de choses <expan>si<ex>com</ex>me</expan> les servises des posessions des cheans ou de celes des ctez
+                            <incipit xml:lang="fro"><emph n="rubrique">Cy commence li huitiesmes livres. Cist tytres est des servises.</emph><lb/>Martians dit : Servages sont ou personniex<note place="bottom"><hi rend="i">r</hi> corrigé en <hi rend="i">x</hi>.</note> si <expan><ex>com</ex>me</expan> usaiges <expan><ex>et</ex></expan> usaires ou de choses <expan>si<ex>com</ex>me</expan> les servises des posessions des cheans ou de celes des ctez
                               <supplied resp="#FD">sic</supplied>.</incipit>
                             <explicit xml:lang="fro">Paulus dit : Il ne semble
                               <expan>q<ex>ue</ex></expan> nus use de servise fors cil <expan>q<ex>ui</ex></expan> tant
@@ -13977,7 +13976,7 @@
                             <expan><ex>com</ex>me</expan> il a esté dit avant.<lb/>C'est la fin du secont livre. <pb n="f. 94v"/></explicit>
                           <msItem>
                             <locus from="53v"/>
-                            <title type="sub">[Inst. 3.1]<note place="bottom" xml:id="fr_5245_note_1">Entre crochets sont données les sources de la compilation</note></title>
+                            <title type="sub">[Inst. 3.1]<note place="bottom">Entre crochets sont données les sources de la compilation</note></title>
                             <incipit><emph n="rubrique">Cist tytres parole des heritages a ceuls qui muerent sanz fere testament</emph></incipit>
                           </msItem>
                           <msItem>
