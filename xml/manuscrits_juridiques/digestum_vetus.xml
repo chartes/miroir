@@ -7513,7 +7513,7 @@
                             <locus from="255b" to="273a"/>
                             <title type="section" xml:lang="fr">Livre XIX</title>
                             <incipit xml:lang="fro"><emph n="rubrique">Ci
-                              <expan>co<ex>m</ex>mence</expan> le .xix<hi rend="upper">me</hi>. livre. Cist tytres est d’action d’achat <expan><ex>et</ex></expan> de
+                              <expan>co<ex>m</ex>mence</expan> le .xix<hi rend="sup">me</hi>. livre. Cist tytres est d’action d’achat <expan><ex>et</ex></expan> de
                               <expan>ve<ex>n</ex>te</expan>.</emph>
                               <lb/>Ulpians dit : se la chose qui est vendue n’est bailliee a l’acheteeur, il en puet pledier por tant
                               <expan><ex>com</ex>me</expan> il i a de domaige...</incipit>
@@ -7549,7 +7549,7 @@
                             <locus from="273a" to="291a"/>
                             <title type="section" xml:lang="fr">Livre XX</title>
                             <incipit xml:lang="fro"><emph n="rubrique">Ci
-                              <expan><ex>com</ex>mence</expan> le .xx<hi rend="upper">me</hi>. livre. Cist tytres est de gaiges et de choses obligiees et de covenanz qui sont fet.</emph>
+                              <expan><ex>com</ex>mence</expan> le .xx<hi rend="sup">me</hi>. livre. Cist tytres est de gaiges et de choses obligiees et de covenanz qui sont fet.</emph>
                               <lb/>
                               <pb n="f. 273a"/> Papinians dit : Aucuns puet
                               <expan>engaig<ex>ier</ex></expan> ses choses generalment <expan>q<ex>ue</ex></expan> il a et celes <expan>q<ex>ue</ex></expan> il
@@ -7603,7 +7603,7 @@
                           <msItem xml:id="kbr_9234_digestumvetus_livre21">
                             <locus from="291a" to="298a"/>
                             <title type="section" xml:lang="fr">Livre XXI</title>
-                            <incipit xml:lang="fro"><emph n="rubrique">Ci commence le <pb n="f. 291b"/> .xxi<hi rend="upper">9</hi>. livre. Cist tytres est d’action de garantir ce qui est deu ou de <expan>re<ex>n</ex>dre</expan> le au double.</emph>
+                            <incipit xml:lang="fro"><emph n="rubrique">Ci commence le <pb n="f. 291b"/> .xxi<hi rend="sup">9</hi>. livre. Cist tytres est d’action de garantir ce qui est deu ou de <expan>re<ex>n</ex>dre</expan> le au double.</emph>
                               <lb/>Ulpians dit : Se toute la chose qui fu
                               <expan>ve<ex>n</ex>due</expan> est tolue a l’acheteor ou une <expan>p<ex>ar</ex>tie</expan>, il se puet retorner au vendeor</incipit>
                             <explicit xml:lang="fro">...<expan>q<ex>ue</ex></expan> il soient hoir ou de tout l’eritaige ou de cele chose meismes tant seulement.</explicit>
@@ -7622,7 +7622,7 @@
                           <msItem xml:id="kbr_9234_digestumvetus_livre22">
                             <locus from="298a" to="306c"/>
                             <title type="section" xml:lang="fr">Livre XXII</title>
-                            <incipit xml:lang="fro"><emph n="rubrique">Ci commence le .xxii<hi rend="upper">9</hi>. livres. Cist tytres est d’usaires et de fruiz et des autres choses qui pueent eschaoir
+                            <incipit xml:lang="fro"><emph n="rubrique">Ci commence le .xxii<hi rend="sup">9</hi>. livres. Cist tytres est d’usaires et de fruiz et des autres choses qui pueent eschaoir
                               <expan>p<ex>ar</ex></expan> demoree.</emph>
                               <lb/>Ulpians dit : Quant l’en plede
                               <expan>p<ex>ar</ex></expan>
@@ -7666,7 +7666,7 @@
                           <msItem xml:id="kbr_9234_digestumvetus_livre23">
                             <locus from="306c" to="322b"/>
                             <title type="section" xml:lang="fr">Livre XXIII</title>
-                            <incipit xml:lang="fro"><emph n="rubrique">Ci commence le .xxxiii<hi rend="upper">9</hi>. livres. Cist tytres est d’espousailles.</emph>
+                            <incipit xml:lang="fro"><emph n="rubrique">Ci commence le .xxxiii<hi rend="sup">9</hi>. livres. Cist tytres est d’espousailles.</emph>
                               <lb/>Ulpians dit : espousailles sont promesses de mariage qui est avenir.</incipit>
                             <explicit xml:lang="fro">...mes ge croi
                               <expan>q<ex>ue</ex></expan> il en avra la moitié et la fame la moitié et de cest droit uson nous.</explicit>
@@ -12512,7 +12512,7 @@
                             <explicit xml:lang="fro">je te puis
                               <expan>demand<ex>er</ex></expan> leur pois d’autresin boen argent <expan>p<ex>ar</ex></expan> l’action des <expan>p<ex>ar</ex>oles</expan>
                               <expan>q<ex>ui</ex></expan>
-                              <expan>fure<ex>n</ex>t</expan> avant dites. Autresi est il se tu me deus rendre les hennas ou autretant d’argent.<lb/>Explicit li .xix<hi rend="upper">us</hi>. livres <expan><ex>et</ex></expan> puis commence li .xxti<hi rend="upper">esmes</hi>.</explicit>
+                              <expan>fure<ex>n</ex>t</expan> avant dites. Autresi est il se tu me deus rendre les hennas ou autretant d’argent.<lb/>Explicit li .xix<hi rend="sup">us</hi>. livres <expan><ex>et</ex></expan> puis commence li .xxti<hi rend="sup">esmes</hi>.</explicit>
                             <msItem>
                               <locus from="10''d"/>
                               <title type="sub">[D. 19.1]</title>

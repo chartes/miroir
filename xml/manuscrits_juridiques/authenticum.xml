@@ -976,7 +976,7 @@
                       <msItem>
                         <locus from="190"/>
                         <title type="sub">[Auth. 9, Nov. 9]</title>
-                        <incipit>La xii<hi rend="upper">e</hi> <expan>constituc<ex>i</ex>on</expan> <expan>q<ex>ue</ex></expan> l’eglise de <expan>ro<ex>m</ex>me</expan> ayt prescripcion de cent ans</incipit>
+                        <incipit>La xii<hi rend="sup">e</hi> <expan>constituc<ex>i</ex>on</expan> <expan>q<ex>ue</ex></expan> l’eglise de <expan>ro<ex>m</ex>me</expan> ayt prescripcion de cent ans</incipit>
                       </msItem>
                       <msItem>
                         <locus from="191"/>
@@ -1006,7 +1006,7 @@
                       <msItem>
                         <locus from="200v"/>
                         <title type="sub">[Auth. 17, Nov. 17]</title>
-                        <incipit>Du <expan>commandem<ex>en</ex>t</expan> aux princes, c’est le xv<hi rend="upper">e</hi> <expan>estabissem<ex>en</ex>t</expan></incipit>
+                        <incipit>Du <expan>commandem<ex>en</ex>t</expan> aux princes, c’est le xv<hi rend="sup">e</hi> <expan>estabissem<ex>en</ex>t</expan></incipit>
                       </msItem>
                       <msItem>
                         <locus from="206"/>
@@ -4205,7 +4205,7 @@
                       <msItem>
                         <locus from="67b"/>
                         <title type="sub">[Auth. 9, Nov. 9]</title>
-                        <incipit><emph n="rubrique">La .xii<hi rend="upper">me</hi>. constitucion que l’eglize de Rome ait prescripcion de .c. ans</emph></incipit>
+                        <incipit><emph n="rubrique">La .xii<hi rend="sup">me</hi>. constitucion que l’eglize de Rome ait prescripcion de .c. ans</emph></incipit>
                       </msItem>
                       <msItem>
                         <locus from="67d"/>
@@ -4235,7 +4235,7 @@
                       <msItem>
                         <locus from="71c"/>
                         <title type="sub">[Auth. 17, Nov. 17]</title>
-                        <incipit><emph n="rubrique">Cist titres est du commandement as princes, ce est li .xv<hi rend="upper">e</hi>. establissement</emph></incipit>
+                        <incipit><emph n="rubrique">Cist titres est du commandement as princes, ce est li .xv<hi rend="sup">e</hi>. establissement</emph></incipit>
                       </msItem>
                       <msItem>
                         <locus from="73d"/>

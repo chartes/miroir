@@ -1106,7 +1106,7 @@
                         <incipit xml:lang="lat">Brutus venit <expan>i<ex>n</ex></expan>
                           <expan>Anglia<ex>m</ex></expan> Anno a
                           <expan>creatio<ex>n</ex>e</expan>
-                          <expan>mu<ex>n</ex>di</expan> .iiii<hi rend="upper">m</hi>.xxxiii. ante <expan>adventu<ex>m</ex></expan>
+                          <expan>mu<ex>n</ex>di</expan> .iiii<hi rend="sup">m</hi>.xxxiii. ante <expan>adventu<ex>m</ex></expan>
                           <expan>Do<ex>mi</ex>ni</expan> m.cc.</incipit>
                         <explicit xml:lang="lat">et sub <expan>eisde<ex>m</ex></expan> xxvii. episcopi.</explicit>
                       </msItem>
@@ -10041,7 +10041,7 @@
                       <locus from="1a" to="3d"/>
                       <title type="partie" xml:lang="fr">calendrier</title>
                       <incipit xml:lang="lat">Jam <expan>p<ex>ri</ex>ma</expan> dies
-                        <expan><ex>et</ex></expan> vii<hi rend="upper">a</hi> fine
+                        <expan><ex>et</ex></expan> vii<hi rend="sup">a</hi> fine
                         <expan>timet<ex>ur</ex></expan></incipit>
                       <explicit xml:lang="lat"><expan>s<ex>ancti</ex></expan> Silvestri
                         <expan>pape</expan>.</explicit>
