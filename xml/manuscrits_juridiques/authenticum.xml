@@ -3194,7 +3194,7 @@
                   </div>
                   <div type="edition" n="1">
                     <head>C. 10.65-78</head>
-                    <p><label>[C. 10.65]</label>
+                    <p xml:id="C.10.65"><label>[C. 10.65]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> del <expan>legacio<ex>n</ex>s</expan></emph>
                       <label>[65.2]</label>
                       <hi rend="b">C</hi>il meisme <expan>emp<ex>er</ex>eeur</expan> dient. <hi rend="b">P</hi>or ce <expan>q<ex>ue</ex></expan> vos avez receu <expan>e<ex>n</ex></expan> vostre <expan>p<ex>ro</ex>pre</expan> <expan>no<ex>n</ex></expan>. depensses por la <expan><ex>com</ex>mune</expan> defensse. <hi rend="b">L</hi>i oir a vostre <expan><ex>com</ex>pengno<ex>n</ex></expan> n’est pas tenu a rendre. ce <expan>q<ex>ue</ex></expan> il en avoit receu. Mes se il est issi <expan>q<ex>ue</ex></expan> il doient avoir restitucion. il doivent randre a la chose comune ce <expan>q<ex>ue</ex></expan> il ont eu. <label>[1]</label> Mes se cele <expan>q<ex>ua</ex>ntité</expan> estoit establie a ceus qui feroient cel office. vos n’avez pas tort se vos reqerez <expan>q<ex>ue</ex></expan> cele quantité soit randue a vos qui devez qui devez fere l’office. <label>[2]</label> <expan><ex>et</ex></expan> vos poez acuser celui <expan>q<ex>ue</ex></expan> vos dites <expan>q<ex>ue</ex></expan> il a lessié l’office. de ce que il a guerpie la legacion qui li fu bailliee.</p>
@@ -3238,7 +3238,7 @@
                         <rdg wit="#O"/>
                         <rdg xml:lang="lat">ordinetur</rdg>
                       </app></note> par devant toi.</p>
-                    <p><label>[C. 10.66]</label>
+                    <p xml:id="C.10.66"><label>[C. 10.66]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> de l’<expan>escusem<ex>en</ex>t</expan> as menesteriez</emph>
                       <label>[66.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> costentins. dit. <hi rend="b">N</hi>os <expan><ex>com</ex>m<ex>an</ex>dons</expan> que li menesterel de divers mestiers qui demeuront<note xml:id="bl_royal20_note_9" place="bottom"><app>
@@ -3254,14 +3254,14 @@
                       </app></note> <expan><ex>et</ex></expan> li orfevre. <expan><ex>et</ex></expan> cil qui font les uuevres d’arain. <expan><ex>et</ex></expan> li fondeeur <expan><ex>et</ex></expan> li seeleeur. <expan><ex>et</ex></expan> li portier <expan><ex>et</ex></expan> li verrier. <expan><ex>et</ex></expan> li <expan>plo<ex>m</ex>mier</expan> <expan><ex>et</ex></expan> li peletier. <expan><ex>et</ex></expan> li folon <expan><ex>et</ex></expan> li <expan>charpent<ex>ier</ex></expan> <expan><ex>et</ex></expan> autre divers menesterel.</p>
                     <p><label>[66.2]</label>
                       <hi rend="b">C</hi>il meismes <expan>emp<ex>er</ex>eres</expan> dit <hi rend="b">L</hi>i menesterel <expan><ex>et</ex></expan> li mesureeur des terres. <expan><ex>et</ex></expan> cil qui font les mesons qui partent les <expan>t<ex>er</ex>res</expan>. <expan><ex>et</ex></expan> mesurent. <expan><ex>et</ex></expan> il font noviaux <expan>edefieme<ex>n</ex>z</expan> <expan><ex>et</ex></expan> cil qui font noviax <expan><ex>con</ex>duiz</expan> d’eve. soient quite de toz servises. <expan><ex>et</ex></expan> <expan>prai<ex>n</ex>gne<ex>n</ex>t</expan> des autres a ensegnier tant <expan>q<ex>ue</ex></expan> il en i ait assez.</p>
-                    <p><label>[C. 10.67]</label>
+                    <p xml:id="C.10.67"><label>[C. 10.67]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> d’apeler les melleurs as offices</emph>
                       <label>[67.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> <expan>antoni<ex>n</ex>s</expan> dit <hi rend="b">S</hi>e tu es apelez as servises <expan>citeai<ex>n</ex>s</expan> <expan><ex>et</ex></expan> tu il veus <expan>no<ex>m</ex>mer</expan> autre. qui i soit miexdres que tu n’es. met en avant<note xml:id="bl_royal20_note_12" place="bottom"><app>
                         <rdg wit="#A #F">mete li avant t.</rdg>
                         <rdg wit="#O"/>
                       </app></note> ta cause.</p>
-                    <p><label>[C. 10.68]</label>
+                    <p xml:id="C.10.68"><label>[C. 10.68]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> se <expan>au<ex>cun</ex>s</expan> est <expan>no<ex>m</ex>mez</expan> par haine a <expan>au<ex>cun</ex></expan> office</emph>
                       <label>[68.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> alixandres dit <hi rend="b">S</hi>e tu es <expan>no<ex>m</ex>mez</expan> as<note xml:id="bl_royal20_note_13" place="bottom"><app>
@@ -3270,7 +3270,7 @@
                         <rdg wit="#O"/>
                         <rdg xml:lang="lat">propter inimicitias</rdg>
                       </app></note> servises citeains. la leauté au <expan>p<ex>re</ex>vost</expan>. fera <expan>q<ex>ue</ex></expan> cil <expan>no<ex>m</ex>mem<ex>en</ex>z</expan> ne te nuira pas. car il apartient au comun profit. <expan>q<ex>ue</ex></expan> li <expan>no<ex>m</ex>mement</expan> ne <expan>soie<ex>n</ex>t</expan> pas fet par haine mes par verai <expan>jugem<ex>en</ex>t</expan>.</p>
-                    <p><label>[C. 10.69]</label>
+                    <p xml:id="C.10.69"><label>[C. 10.69]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> de <expan>recov<ex>re</ex>r</expan> les <expan>depe<ex>n</ex>ses</expan></emph>
                       <label>[69.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> Gordians dit <hi rend="b">S</hi>e tu as .v. enfanz vis tu ne seras pas<note xml:id="bl_royal20_note_14" place="bottom"><app>
@@ -3282,7 +3282,7 @@
                         <rdg wit="#O #F"/>
                         <rdg xml:lang="lat">devocaverint</rdg>
                       </app></note> a servise <expan><ex>con</ex>tre</expan> cest <expan>p<ex>ri</ex>viliege</expan> <expan>p<ex>our</ex></expan> traveillier toi. <expan><ex>et</ex></expan> tu as apelé encontre. <expan><ex>et</ex></expan> tu en es aseurez. tu recoverras les despens <expan>q<ex>ue</ex></expan> tu as fez el plet seur ceux qui t’i ont <expan>no<ex>m</ex>mé</expan>.</p>
-                    <p><label>[C. 10.70]</label>
+                    <p xml:id="C.10.70"><label>[C. 10.70]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> se <expan>auc<ex>un</ex>s</expan> muert <expan>ai<ex>n</ex>z</expan> <expan>q<ex>ue</ex></expan> il oit receu l’office a <expan>q<ex>uo</ex>i</expan> il fu <expan>no<ex>m</ex>mez</expan></emph>
                       <label>[70.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> Gordians dit <hi rend="b">S</hi>e tes peres morut le jor<note xml:id="bl_royal20_note_16" place="bottom"><app>
@@ -3291,7 +3291,7 @@
                         <rdg wit="#O"/>
                         <rdg xml:lang="lat">ante diem</rdg>
                       </app></note> <expan>q<ex>ue</ex></expan> il devoit recevoir l’aneur ou le servise. li <expan>p<ex>re</ex>voz</expan> de la <expan><ex>con</ex>tree</expan> savra bien <expan>q<ex>ue</ex></expan> il ne con<pb n="f. 150d" />vient pas <expan>q<ex>ue</ex></expan> si oir soient tret en cause en cel non.</p>
-                    <p><label>[C. 10.71]</label>
+                    <p xml:id="C.10.71"><label>[C. 10.71]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> des notaires <expan><ex>et</ex></expan> des <expan>esc<ex>ri</ex>vai<ex>n</ex>s</expan><note xml:id="bl_royal20_note_17" place="bottom"><app>
                         <rdg wit="#A #F">et des curialus</rdg>
                         <rdg wit="#O"/>
@@ -3332,7 +3332,7 @@
                         <rdg wit="#A #F">cil</rdg>
                         <rdg wit="#O"/>
                       </app></note> soient rendu a leur offices qui il sont estraint par leur obligement. ou par cel a leur peres ou a leur ancesseurs.</p>
-                    <p><label>[C. 10.72]</label>
+                    <p xml:id="C.10.72"><label>[C. 10.72]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> des receveeurs des detes a la borse l’empereeur</emph>
                       <label>[72.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> <expan>costa<ex>n</ex>tins</expan> dit <hi rend="b">N</hi>os <expan><ex>com</ex>mandons</expan> que cil qui doivent recevoir les <expan><ex>com</ex>munes</expan> rentes. les recevent sanz nule demeure. <label>[1]</label> <expan>Q<ex>ue</ex>r</expan> se cil qui les doit recevoir despit celui qui les veut paier. cil li doit offrir par devant <expan>tesmoi<ex>n</ex>z</expan>. si <expan>q<ex>ue</ex></expan> quant ce sera prové. il soit quites des mesfet de la seurtenue. <expan><ex>et</ex></expan> cil qui ne vost recevoir ce qui estoit deu a la borse l’<expan>e<ex>m</ex>p<ex>er</ex>eor</expan>. soit <expan><ex>con</ex>trainz</expan> par l’office au <expan>p<ex>re</ex>vost</expan>. de rendre le a doubles.
@@ -3417,7 +3417,7 @@
                         <rdg wit="#O #F"/>
                       </app></note> qui en <expan>s<ex>on</ex>t</expan>
                       <pb n="f. 151d"/> mestre</p>
-                    <p><label>[C. 10.73]</label>
+                    <p xml:id="C.10.73"><label>[C. 10.73]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> des pesceurs<note xml:id="bl_royal20_note_41" place="bottom"><app>
                         <rdg wit="#A #F">pourceours</rdg>
                         <rdg wit="#O"/>
@@ -3432,10 +3432,7 @@
                     <p><label>[73.2]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eeur</expan> dyoclicians <expan><ex>et</ex></expan> maximians <expan>die<ex>n</ex>t</expan>
                       <hi rend="b">T</hi>outes les foiz <expan>q<ex>ue</ex></expan> doutence nest de la <expan>q<ex>ua</ex>lité</expan> de deniers. Il nos plest <expan>q<ex>ue</ex></expan> uns hom leaus <expan><ex>et</ex></expan> sages qui ne deceive ne ne soit deceuz departe le contenz</p>
-                    <p><label>[C. 10.75]</label>
-                      <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> <expan>q<ex>ue</ex></expan> nus ne <expan>porp<ex>re</ex>ngne</expan> les choses <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> receues des <expan><ex>com</ex>munes</expan> <expan>re<ex>n</ex>tes</expan></emph>
-                      <label>[75.1]</label>
-                      <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> costentins dit <hi rend="b">N</hi>us des juges ne s’esfort<note xml:id="bl_royal20_note_43" place="bottom"><app>
+                    <p xml:id="C.10.75"><label>[C. 10.75]</label> <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> <expan>q<ex>ue</ex></expan> nus ne <expan>porp<ex>re</ex>ngne</expan> les choses <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> receues des <expan><ex>com</ex>munes</expan> <expan>re<ex>n</ex>tes</expan></emph> <label>[75.1]</label> <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> costentins dit <hi rend="b">N</hi>us des juges ne s’esfort<note xml:id="bl_royal20_note_43" place="bottom"><app>
                         <rdg wit="#A">ne soit fort</rdg>
                         <rdg wit="#O #F"/>
                         <rdg xml:lang="lat">conetur</rdg>
@@ -3447,11 +3444,11 @@
                       </app></note> ne porpraigne por nul tytre. nules des choses qui sont repostes en nostre tresor. se il n’en a par avanture <expan><ex>com</ex>mandement</expan> de ceus qui li pueent donner</p>
                     <p><label>[75.3]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> archades dit <hi rend="b">L</hi>i juge <expan>sache<ex>n</ex>t</expan> que il ne loist a nul a metre <expan>e<ex>n</ex></expan> autre besoinz ce <expan>q<ex>ue</ex></expan> il receit des choses qui <expan>ap<ex>ar</ex>tienent</expan> a la chose privee. se il ne veut <expan>q<ex>ue</ex></expan> sa licence soit refrenee par grief <expan>se<ex>n</ex>tence</expan>.</p>
-                    <p><label>[C. 10.76]</label>
+                    <p xml:id="C.10.76"><label>[C. 10.76]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> de l’or qui est dounez por le <expan>q<ex>ue</ex>ro<ex>n</ex>nem<ex>en</ex>t</expan> l’<expan>e<ex>m</ex>p<ex>er</ex>eor</expan></emph>
                       <label>[76.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> Gordians dit. <hi rend="b">I</hi>l nos plest que nus ne soit <expan><ex>con</ex>t<ex>ra</ex>inz</expan> de paier l’or qui est dounez por le <expan>q<ex>ue</ex>ronement</expan> l’<expan>emp<ex>er</ex>eeur</expan>. fors cil qui le doivent par costume.</p>
-                    <p><label>[C. 10.77]</label>
+                    <p xml:id="C.10.77"><label>[C. 10.77]</label>
                       <label>[77.1]</label>
                       <hi rend="b">L</hi>i <expan>emp<ex>er</ex>eres</expan> honoires dit. <hi rend="b">C</hi>il qui <expan>s<ex>on</ex>t</expan> establi par les <expan><ex>con</ex>trees</expan> a fere pés <expan><ex>et</ex></expan> repos <expan><ex>et</ex></expan> a tenir concorde en toz les ceiteens<note xml:id="bl_royal20_note_45" place="bottom"><app>
                         <rdg wit="#A">terreeurs</rdg>
@@ -3463,7 +3460,7 @@
                         <rdg wit="#O"/>
                         <rdg xml:lang="lat">praesidum provinciarum</rdg>
                       </app></note> des <expan><ex>con</ex>trees</expan></p>
-                    <p><label>[C. 10.78]</label>
+                    <p xml:id="C.10.78"><label>[C. 10.78]</label>
                       <emph n="rubrique"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> del pris de l’argent <expan>q<ex>ui</ex></expan> est deuz a l’<expan>emp<ex>er</ex>eor</expan></emph>
                       <label>[78.1]</label>
                       <hi rend="b">L</hi>i empereres archades dit <hi rend="b">N</hi>os <expan>comando<ex>n</ex>s</expan> que chacuns oit pooir de paier or por la some de l’argent <expan>q<ex>ue</ex></expan> il devoit paier. si <expan>q<ex>ue</ex></expan> il doint por chascune livre d’argent .v. s. d’or</p>
