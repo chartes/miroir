@@ -396,20 +396,20 @@
                   <rdg wit="#A #B #D">qu’il le donna a</rdg>
                 </app>(Inst. 2.17.6). D’autre part, <hi rend="i">ABD</hi> présente une leçon conforme à la source latine alors que le reste de la tradition présente une omission : <app>
                   <rdg wit="#C #E #F #G #I #K #L #M #N">et il fait aprés... par droit
-                    <emph rend="normal">om.</emph></rdg>
+                    <hi rend="n">om.</hi></rdg>
                   <rdg wit="#A #B #D"/>
                 </app> (Inst. 2.17.3). D’après ce lieu, la famille <hi rend="i">ABD</hi> remonterait directement à l’archétype.</p>
                 <p>Faute commune à <hi rend="i">AB</hi> s’opposant à <hi rend="i">D</hi> : <app>
                   <rdg wit="#C #E #F #G #K #N #D">noz soionz asoz</rdg>
                   <rdg wit="#M">soiens asolt</rdg>
                   <rdg wit="#A #B">nous aions asaus</rdg>
-                  <rdg wit="#I">soionz <emph rend="normal">om.</emph></rdg>
+                  <rdg wit="#I">soionz <hi rend="n">om.</hi></rdg>
                   <rdg wit="#L">nous soions au dessus</rdg>
                 </app> (Inst. 2.17.8)</p>
                 <p>Faute commune de <hi rend="i">BD</hi> s’opposant à <hi rend="i">A</hi> : <app>
                   <rdg wit="#C #E #F #G #I #L #K #N #M">quant il fu mors</rdg>
                   <rdg wit="#A">car il fu mort</rdg>
-                  <rdg wit="#B #D"><emph rend="normal">om.</emph></rdg>
+                  <rdg wit="#B #D"><hi rend="n">om.</hi></rdg>
                 </app> (Inst. 2.17.6)</p>
                 <p>D’après la leçon précédente et la suivante, <hi rend="i">A</hi> ne peut descendre de <hi rend="i">B</hi> : <app>
                   <rdg wit="#C #A #E #F #G #I #L #N #D #M">loiaument en coi il</rdg>
@@ -427,7 +427,7 @@
                   <rdg wit="#F #G #K #M">antonius distrent</rdg>
                 </app> (Inst. 2.17.3) ; <app>
                   <rdg wit="#C #A #B #E #I #L #N #D">a aucun et que... pere adoptif</rdg>
-                  <rdg wit="#F #G #K #M"><emph rend="normal">om.</emph></rdg>
+                  <rdg wit="#F #G #K #M"><hi rend="n">om.</hi></rdg>
                 </app> (Inst. 2.17.6) ; <app>
                   <rdg wit="#C #A #B #E #I #L #N #D">que les tablez</rdg>
                   <rdg wit="#F #G #K">que les causes</rdg>
@@ -440,7 +440,7 @@
                   <rdg wit="#N">qu’il soit cous ou qu’il soit rous</rdg>
                 </app> (Inst. 2.17) ; <app>
                   <rdg wit="#C #A #B #E #I #K #L #N #D #M">roz (touz) autresi c.</rdg>
-                  <rdg wit="#F #G">autresi <emph rend="normal">om.</emph></rdg>
+                  <rdg wit="#F #G">autresi <hi rend="n">om.</hi></rdg>
                 </app> (Inst. 2.17.1) ; <app>
                   <rdg wit="#C #A #B #E #K #L #N #D #M">de tout l’eritage</rdg>
                   <rdg wit="#F #G #I">de l’heritage</rdg>
@@ -453,7 +453,7 @@
                   <rdg wit="#F #G">sanz aucun profit</rdg>
                 </app> (Inst. 2.17.6) ; <app>
                   <rdg wit="#C #A #B #E #I #K #L #N #D #M"/>
-                  <rdg wit="#F #G">seiauz as .vii. <emph rend="normal">om.</emph></rdg>
+                  <rdg wit="#F #G">seiauz as .vii. <hi rend="n">om.</hi></rdg>
                 </app> (Inst. 2.17.6).</p>
                 <p>Faute commune de <hi rend="i">KM</hi> s’opposant au reste de la tradition : <app>
                   <rdg wit="#C #A #B #E #F #G #I #L #N #D">l’auctoritez de droit</rdg>
@@ -468,7 +468,7 @@
               <item><label>Groupe <hi rend="i">EI</hi></label>
                 <p>Fautes communes à <hi rend="i">EI</hi> opposées à <hi rend="i">C</hi> : <app>
                   <rdg wit="#C #A #B #F #G #K #L #N #D">un autres hoirs</rdg>
-                  <rdg wit="#E #I">autres <emph rend="normal">om.</emph></rdg>
+                  <rdg wit="#E #I">autres <hi rend="n">om.</hi></rdg>
                   <rdg wit="#M">uns autres hons</rdg>
                 </app> (Inst. 217.1) ; <app>
                   <rdg wit="#C #B">toutes les choses</rdg>
@@ -486,7 +486,7 @@
                 </app> (Inst. 2.17.8)</p>
                 <p>Plusieurs omissions de <hi rend="i">I</hi> interdisent d’en faire l’ancêtre de <hi rend="i">E</hi>, par ex. <app>
                   <rdg wit="#C #A #B #E #F #G #K #L #N #D"/>
-                  <rdg wit="#I #M">a soi... de celui qui <emph rend="normal">om.</emph><supplied resp="#FD">saut du même au même</supplied></rdg>
+                  <rdg wit="#I #M">a soi... de celui qui <hi rend="n">om.</hi><supplied resp="#FD">saut du même au même</supplied></rdg>
                 </app> (Inst. 2.17.1).</p>
               </item>
               <item><label>Place du manuscrit <hi rend="i">R</hi> (= ms perdu n° 10 de F. Olivier-Martin)</label>

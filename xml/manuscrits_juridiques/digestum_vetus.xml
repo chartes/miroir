@@ -6417,10 +6417,10 @@
                           </app> ; [9.2.49] <app>
                             <rdg wit="#E #B #F">il avoit poor que li feus ne venist en sa meson et por ce abati il la son voisin et que li feus feist ou se il ala. jusqu’a sa meson
                               <supplied>avec quelques variantes mineures dans BF</supplied></rdg>
-                            <rdg wit="#A">et por ce... a sa meson <emph rend="normal">om.</emph><supplied>saut du même au même</supplied></rdg>
+                            <rdg wit="#A">et por ce... a sa meson <hi rend="n">om.</hi><supplied>saut du même au même</supplied></rdg>
                           </app> ; [9.4.4.3] <app>
                             <rdg wit="#E #B #F">mes tant comme li premiers plet durroit se li demandierres se repentist</rdg>
-                            <rdg wit="#A">mes tant comme li premiers plet <emph rend="normal">om.</emph><supplied>saut du même au même</supplied></rdg>
+                            <rdg wit="#A">mes tant comme li premiers plet <hi rend="n">om.</hi><supplied>saut du même au même</supplied></rdg>
                           </app>
                           </p>
                         </item>
@@ -12756,7 +12756,7 @@
                         <decoDesc>
                           <decoNote>
                             <label>Structure</label>
-                            <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une miniature (ou une réserve lorsque la miniature n’a pas été réalisée) ; 2. une rubrique du type <quote>Ci commence li <emph rend="normal">[numéro d’ordre]</emph> livres de Digeste vielle</quote> suivie de l’énoncé, toujours rubriqué, du premier titre (<quote>Cist tytres est de...</quote>) ; 3. une lettre ornée à motif animalier (et plus rarement végétal) de 2 UR au début du 1<hi rend="sup">er</hi> titre ; 4. la modification du titre courant.</p>
+                            <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une miniature (ou une réserve lorsque la miniature n’a pas été réalisée) ; 2. une rubrique du type <quote>Ci commence li <hi rend="n">[numéro d’ordre]</hi> livres de Digeste vielle</quote> suivie de l’énoncé, toujours rubriqué, du premier titre (<quote>Cist tytres est de...</quote>) ; 3. une lettre ornée à motif animalier (et plus rarement végétal) de 2 UR au début du 1<hi rend="sup">er</hi> titre ; 4. la modification du titre courant.</p>
                             <p>Les <hi rend="b">titres</hi> sont indiqués par des rubriques, dont les plus longues sont disposées en escalier, ce qui implique la prévision de leur réalisation lors de la copie du texte.</p>
                             <p>Chaque <hi rend="b">loi</hi>, sauf la première du titre, commence par une initiale filigranée de 2 UR, alternativement bleue à filigrane rouge ou rouge à filigrane bleu. Une initiale nue d’1 UR, alternativement bleue ou rouge, suit le verbe <hi rend="i">dire</hi> de l’inscription (<quote>Ulpians dit...</quote>,
                               <quote>Pomponius dit...</quote>). La loi, surtout lorsqu’elle est longue, peut être divisée par des pieds-de-mouche alternativement bleus et rouges. Certains d’entre eux sont filigranés (pieds-de-mouche bleus à filigrane rouge ; rouges à filigrane bleu). Dans le prologue, les pieds-de-mouche n’ont été réalisés que sur le f. 1r-v et non aux emplacements prévus au f. 2.</p>
@@ -16075,7 +16075,7 @@
                       <decoNote>
                         <label>Structure</label>
                         <p>Le début du <hi rend="b">texte</hi> manque.</p>
-                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commence li <emph rend="normal">N</emph> livres qui parole/devise de</quote> + teneur du premier titre ; 2. une lettre puzzle à filigrane rouge et bleu de 8 à 11 UR, à prolongement marginal d’antennes, rinceaux et de festons rouges et bleus ; 3. un titre courant dans la marge supérieure.</p>
+                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commence li <hi rend="n">N</hi> livres qui parole/devise de</quote> + teneur du premier titre ; 2. une lettre puzzle à filigrane rouge et bleu de 8 à 11 UR, à prolongement marginal d’antennes, rinceaux et de festons rouges et bleus ; 3. un titre courant dans la marge supérieure.</p>
                         <p>Les <hi rend="b">titres</hi> sont indiqués par 1. une rubrique parfois disposée en escalier ; 2. les éléments qui distinguent chaque loi.</p>
                         <p>Chaque <hi rend="b">loi</hi> commence, après un retour à la ligne, par une initiale marginale le plus souvent de 3 UR, mais de 4 pour les <quote>P</quote> et jusqu’à 6 pour <quote>I</quote>, alternativement bleue à filigrane rouge ou rouge à filigrane bleu. Les filigranes, à « oeufs de grenouille », se prolongent en marge sous forme de longues antennes. Après l’énoncé de l’auteur de la loi (du type <quote>Ulpians dit</quote>), la teneur est signalée par une lettre nue, alternativement rouge ou bleue, d’une UR.</p>
                         <p>Lorsqu’elle est longue, la loi est fréquemment divisée en

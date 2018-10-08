@@ -206,7 +206,7 @@
                     <rdg xml:lang="lat">in hac bona civitate</rdg>
                   </app> ; Auth. 81.6 <app>
                     <rdg wit="#A #F #L">a ceste sainte cité</rdg>
-                    <rdg wit="#O">sainte <emph rend="normal">om.</emph></rdg>
+                    <rdg wit="#O">sainte <hi rend="n">om.</hi></rdg>
                     <rdg xml:lang="lat">in hac habitantium civitate</rdg>
                   </app> ; Auth. 81.9 <app>
                     <rdg wit="#A #F #L">et nous donnons a celui qui avra ceste bailliee fiance</rdg>
@@ -233,7 +233,7 @@
                     <rdg wit="#O">p. acompli l’.</rdg>
                     <rdg xml:lang="lat">jam advocatione dudum completa</rdg>
                   </app> ; Auth. 83.1 <app>
-                    <rdg wit="#A #F #L">et Flavian qui est orendroit avocaz de la borse l’empereur <emph rend="normal">om.</emph></rdg>
+                    <rdg wit="#A #F #L">et Flavian qui est orendroit avocaz de la borse l’empereur <hi rend="n">om.</hi></rdg>
                     <rdg wit="#O"/>
                     <rdg xml:lang="lat">ac Flavianus, qui nunc advocatus fisci consistit</rdg>
                   </app> ; Auth. 83.1 <app>
@@ -243,13 +243,13 @@
                   </app>. <hi rend="i">AFL</hi> descendent donc d’un ancêtre commun.</p>
                   <p><hi rend="i">AFL</hi> ne peuvent descendre de <hi rend="i">O</hi> : <hi rend="i">O</hi> est le seul témoin à présenter certaines omissions (Auth. 81.2 <app>
                     <rdg wit="#A #F #L">qui maintiengnent le plet par droit</rdg>
-                    <rdg wit="#O"><emph rend="normal">om.</emph></rdg>
+                    <rdg wit="#O"><hi rend="n">om.</hi></rdg>
                   </app> ; Auth. 81.3 <app>
                     <rdg wit="#A #F #L">citez et en lor</rdg>
-                    <rdg wit="#O"><emph rend="normal">om. (saut du même au même)</emph></rdg>
+                    <rdg wit="#O"><hi rend="n">om. (saut du même au même)</hi></rdg>
                   </app> ; Auth. 81.6 <app>
                     <rdg wit="#A #F #L">quant il lor avra enquis la verité</rdg>
-                    <rdg wit="#O">lor <emph rend="normal">om.</emph></rdg>
+                    <rdg wit="#O">lor <hi rend="n">om.</hi></rdg>
                   </app>. En outre, <hi rend="i">O</hi> est le seul des quatre témoins à omettre les incipit latins des paragraphes. <hi rend="i">O</hi> transmet par ailleurs de nombreuses leçons individuelles, qui ne sont pas manifestement fautives, et que la tradition manuscrite en aval n’aurait eu aucune raison d’éliminer : Auth. 81.1 <app>
                     <rdg wit="#A #F #L">qui ont ceste dignité</rdg>
                     <rdg wit="#O">ont esté digne</rdg>
@@ -3095,13 +3095,13 @@
                       <decoNote>
                         <label>Structure. <title>Authentiques</title></label>
                         <p>Chaque collection est distinguée 1. par un « L » orné de 7 à 8 UR sur fond d’or ; 2. par une rubrique du type
-                          <quote>Ci commance la <emph rend="normal">N</emph> collection</quote> suivie de l’intitulé de la première constitution, toujours rubriqué (la rubrique de la première collection indique simplement le début du texte) ; 3. par un titre courant indiquant le numéro d’ordre de la collection.</p>
+                          <quote>Ci commance la <hi rend="n">N</hi> collection</quote> suivie de l’intitulé de la première constitution, toujours rubriqué (la rubrique de la première collection indique simplement le début du texte) ; 3. par un titre courant indiquant le numéro d’ordre de la collection.</p>
                         <p>Chaque constitution est annoncée par une rubrique et commence par une lettre filigranée en marge de 3 UR alternativement rouge à filigrane bleu et bleue à filigrane rouge. Prolongement marginal du filigrane en antennes. Des initiales nues rouges et bleues d’1 UR, dont la couleur alterne avec celle de l’initiale filigranée, marquent le début de la teneur, après l’énoncé des auteurs.</p>
                         <p>Des pieds-de-mouche, alternativement rouges et bleus, structurent les constitutions.</p>
                       </decoNote>
                       <decoNote>
                         <label>Structure. <title xml:lang="lat">Tres libri</title></label>
-                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commance le <emph rend="normal">N</emph> livres del Code</quote> suivie de l’énoncé toujours rubriqué du premier titre (<quote>C’est le tytre de...</quote>,
+                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commance le <hi rend="n">N</hi> livres del Code</quote> suivie de l’énoncé toujours rubriqué du premier titre (<quote>C’est le tytre de...</quote>,
                           <quote>Cist tytres est de...</quote>) ; 2. un « L » orné de 7 à 8 UR ; 3. un titre courant donnant le numéro d’ordre du livre du Code.</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques.</p>
                         <p>Chaque <hi rend="b">loi</hi> commence par une lettre marginale filigranée de 3 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu à prolongement marginal d’antennes. Une initiale nue d’1 UR, dont la couleur, bleue et rouge, alterne avec l’initiale filigranée. Des pieds-de-mouche, alternativement rouges et bleus segmentent en paragraphes les lois les plus longues.</p>
@@ -5785,7 +5785,7 @@
                       </decoNote>
                       <decoNote n="institutiones">
                         <label>Structure. <title>Institutes</title></label>
-                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. pour les livres II à IV d’une rubrique du type <quote>Ci commence le <emph rend="normal">N</emph> livre</quote>, suivie de l’énoncé, toujours rubriqué, du premier titre : <quote>De la division des chosez</quote> (f. 9b), <quote>Cist titrez est de...</quote> (f. 24a, 36c) ; 3. une miniature de 11 ou 12 UR pour les livres II à IV, la grande miniature du f. 1 servant de frontispice au volume ; 4. une initiale de 4 à 6 UR en tête du 1<hi rend="sup">er</hi> titre du livre (lettre dragonnée avec rinceaux en marge de 6 UR en tête du livre I, lettres champies de 4 ou 5 UR en tête des livres II à IV).</p>
+                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. pour les livres II à IV d’une rubrique du type <quote>Ci commence le <hi rend="n">N</hi> livre</quote>, suivie de l’énoncé, toujours rubriqué, du premier titre : <quote>De la division des chosez</quote> (f. 9b), <quote>Cist titrez est de...</quote> (f. 24a, 36c) ; 3. une miniature de 11 ou 12 UR pour les livres II à IV, la grande miniature du f. 1 servant de frontispice au volume ; 4. une initiale de 4 à 6 UR en tête du 1<hi rend="sup">er</hi> titre du livre (lettre dragonnée avec rinceaux en marge de 6 UR en tête du livre I, lettres champies de 4 ou 5 UR en tête des livres II à IV).</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques et commencent par une lettre filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Ils peuvent être divisés par des pieds-de-mouche alternativement rouges et bleus.</p>
                       </decoNote>
                       <decoNote n="authenticum">
@@ -5796,7 +5796,7 @@
                       </decoNote>
                       <decoNote n="tres_libri">
                         <label>Structure. <title xml:lang="lat">Tres libri</title></label>
-                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commence le <emph rend="normal">N</emph> livre du Code</quote> suivie pour les livres XI et XII de l’énoncé toujours rubriqué du premier titre (<quote>C’est le tytre de...</quote>, <quote>Cist tytres est de...</quote>) ; 2. une miniature de 11 ou 12 UR pour les livres X et XI ; 3. une lettre champie de 5 UR au début du 1<hi rend="sup">er</hi> titre des livres X et XI [le début du livre XII est signalé, contrairement aux précédents, par une lettre émanchée filigranée de 7 UR].</p>
+                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commence le <hi rend="n">N</hi> livre du Code</quote> suivie pour les livres XI et XII de l’énoncé toujours rubriqué du premier titre (<quote>C’est le tytre de...</quote>, <quote>Cist tytres est de...</quote>) ; 2. une miniature de 11 ou 12 UR pour les livres X et XI ; 3. une lettre champie de 5 UR au début du 1<hi rend="sup">er</hi> titre des livres X et XI [le début du livre XII est signalé, contrairement aux précédents, par une lettre émanchée filigranée de 7 UR].</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques.</p>
                         <p>Chaque <hi rend="b">loi</hi> commence par une lettre filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Une initiale nue d’1 UR, alternativement bleue et rouge, marque le début de la citation. Des pieds-de-mouche, alternativement bleus et rouges, sont utilisés en fin de loi pour dissocier les derniers mots de la loi, rejetés sur la ligne inférieure et alignés à droite, et les premiers mots de la loi suivante.</p>
                       </decoNote>
@@ -8079,7 +8079,7 @@
                       </decoNote>
                       <decoNote n="institutiones">
                         <label>Structure. <title>Institutes</title></label>
-                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. pour les livres II à IV d’une rubrique du type <quote>Ci commence li <emph rend="normal">N</emph> livre</quote>, suivie de l’énoncé, toujours rubriqué, du premier titre : <quote>Et parle ces tytre de...</quote>
+                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. pour les livres II à IV d’une rubrique du type <quote>Ci commence li <hi rend="n">N</hi> livre</quote>, suivie de l’énoncé, toujours rubriqué, du premier titre : <quote>Et parle ces tytre de...</quote>
                           <quote>et parle li tytres de...</quote> ; 3. une miniature de 11 ou 12 UR ; 4. une lettre fleurie au début du 1<hi rend="sup">er</hi> titre du livre (12 UR en tête du livre I, 7 UR en tête du livre II, 5 UR en tête du livre III, 7 UR en tête du livre IV) ; 5. un titre courant (<quote>L</quote> au verso ; numéro de livre au recto en chiffres romains rouges et bleus).</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques et commencent par une lettre champie à fond bleu et rose et filets blancs de 2 UR. Ces lettres se prolongent souvent en marge par des rinceaux et vignettes.</p>
                         <p>Les titres, surtout lorsqu’ils sont longs, peuvent être divisés par des pieds-de-mouche alternativement bleus et rouges. Les rehauts de jaune servent également d’élément structurant.</p>
@@ -8093,7 +8093,7 @@
                       </decoNote>
                       <decoNote n="tres_libri">
                         <label>Structure. <title xml:lang="lat">Tres Libri</title></label>
-                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. un explicit (<quote>Ci fine le disieme livre du Code</quote> f. 246c) suivi d’un saut de page [le livre XI se terminant au bas du f. 260d, la justification ne permettait pas l’ajout d’un explicit ; le saut de page passe inaperçu] ; 2. une rubrique du type <quote>Ci commence li <emph rend="normal">N</emph> livre du Code</quote> suivie pour les livres XI et XII de l’énoncé toujours rubriqué du premier titre (<quote>Cest tytre est de...</quote>) ; 3. une miniature de 11 ou 12 UR ; 4. une lettre fleurie de 8 UR au début du 1<hi rend="sup">er</hi> titre [seules les deux premières ont été exécutées ; réserve de 8 UR ménagée au f. 261a, en tête du livre XII] ; 5. un titre courant dont on suppose la forme à partir de minces traces (<quote>L</quote> au verso ; numéro de livre au recto en chiffres romains, sans doute rouges et bleus au recto).</p>
+                        <p>La division en <hi rend="b">livres</hi> est marquée par : 1. un explicit (<quote>Ci fine le disieme livre du Code</quote> f. 246c) suivi d’un saut de page [le livre XI se terminant au bas du f. 260d, la justification ne permettait pas l’ajout d’un explicit ; le saut de page passe inaperçu] ; 2. une rubrique du type <quote>Ci commence li <hi rend="n">N</hi> livre du Code</quote> suivie pour les livres XI et XII de l’énoncé toujours rubriqué du premier titre (<quote>Cest tytre est de...</quote>) ; 3. une miniature de 11 ou 12 UR ; 4. une lettre fleurie de 8 UR au début du 1<hi rend="sup">er</hi> titre [seules les deux premières ont été exécutées ; réserve de 8 UR ménagée au f. 261a, en tête du livre XII] ; 5. un titre courant dont on suppose la forme à partir de minces traces (<quote>L</quote> au verso ; numéro de livre au recto en chiffres romains, sans doute rouges et bleus au recto).</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques et commencent par une lettre champie à fond bleu et rose et filets blancs de 2 UR.</p>
                         <p>Chaque <hi rend="b">loi</hi>, sauf la première du titre, commence par une initiale filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Une initiale nue d’1 UR, alternativement bleue et rouge, suit le verbe <hi rend="i">dire</hi> de l’inscription (<quote>Li empereres Valens dit...</quote>). La loi, surtout lorsqu’elle est longue, peut être divisée par des pieds-de-mouche alternativement bleus et rouges. Les rehauts de jaune servent également d’élément structurant.</p>
                       </decoNote>
