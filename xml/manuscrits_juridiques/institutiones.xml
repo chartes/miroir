@@ -9802,7 +9802,7 @@
                   </msDesc>
                   <div type="edition">
                     <head>Transcription du fragment</head>
-                    <p><pb n="f. 1a"/>
+                    <p xml:id="leiden_bpl3201.3"><pb n="f. 1a"/>
                       <expan>q<ex>ue</ex></expan> il est male chose. ¶ Que li cas d’aventure lour tort a domage. <expan>q<ex>ua</ex>r</expan> se cele
                       <expan>q<ex>ui</ex></expan> est naturelment franche n’a eu trois enfanz. ou cele <expan>q<ex>ui</ex></expan> a esté franchie. n’en a eu <expan>q<ex>ua</ex>tre</expan> por ce n’est il pas droit
                       <expan>q<ex>ue</ex></expan> ele soit mise hors de l’eritage a ses enfanz. ¶ <expan>Q<ex>ua</ex>r</expan> en ce n’a ele rien mesfet se ele a eu poi d’enfanz. <expan><ex>et</ex></expan> nos avons plenierement donné le loial droit.
@@ -9824,7 +9824,7 @@
                       <label>[7]</label>
                       <expan><ex>et</ex></expan> ja soit ce <expan>q<ex>ue</ex></expan> li filz ou la fille soit de porchaz. ¶
                       <expan>Neporq<ex>ua</ex>nt</expan> la mere puet bien estre receue a avoir ses biens par le <expan><ex>con</ex>seil</expan> au senat <expan>q<ex>ui</ex></expan> est apelé tertulian.</p>
-                    <p><label>[3.4]</label><emph n="rubrique">Dou conseil au senat orfician.</emph>
+                    <p xml:id="leiden_bpl3201.3.4"><label>[3.4]</label><emph n="rubrique">Dou conseil au senat orfician.</emph>
                       <expan>En<ex>con</ex>tre</expan> ce les enfanz sont receuz a avoir les biens a lour meres qui muerent sanz fere testament par le
                       <expan><ex>con</ex>seil</expan> au senat qui est apelé terculian orficians qui fut fet <supplied resp="#FD">...</supplied> orfices <expan><ex>et</ex></expan> rufus
                       <expan>estoie<ex>n</ex>t</expan>
@@ -9843,7 +9843,7 @@
                       <expan>q<ex>ue</ex></expan> les enfanz qui sont de porchaz. sont receuz a l’eritage lour me<supplied resp="#FD">...</supplied>
                       <label>[4]</label>
                       <pb n="f. 2a"/> estre as autres. <expan><ex>et</ex></expan> se cil qui reçurent lour parties muerent avant les parties a cels qui ne le reçurent pas doivent estre as hers a cels qui sont morz.</p>
-                    <p><label>[3.5]</label><emph n="rubrique">Comment heritage vient as parenz de par la mere</emph> Aprés les
+                    <p xml:id="leiden_bpl3201.3.5"><label>[3.5]</label><emph n="rubrique">Comment heritage vient as parenz de par la mere</emph> Aprés les
                       <expan>p<ex>ro</ex>pres</expan> hers. <expan><ex>et</ex></expan> aprés cels <expan>q<ex>ue</ex></expan> li
                       <expan>p<ex>ro</ex>voz</expan>
                       <expan><ex>et</ex></expan> li establissement apelent as heritages. entre les <expan>p<ex>ro</ex>pres</expan> hers. ¶
