@@ -3302,7 +3302,7 @@
               </msDesc>
               <div type="edition" n="digestum_vetus" resp="Graziella Pastore" xml:id="fr_2844.D.9.1">
                 <head>Édition. D. 9.1 [LJP, V 1]</head>
-                <p xml:id="fr_2844.D.9.1.1"><pb n="f. 54a"/>
+                <p xml:id="fr_2844-D.9.1.1"><pb n="f. 54a"/>
                   <label>[9.1.0]</label>
                   <emph n="rubrique">Se beste a .iiii. piez fet domage. Et d’omecide. et de geter eue sor genz</emph>
                   <label>[9.1.1]</label> Se beste a .iiii. piez fet domage la loi
@@ -3429,7 +3429,7 @@
                   <expan>d<ex>r</ex>oit</expan>
                   <expan>q<ex>u’</ex>i</expan>
                   <expan>s<ex>on</ex>t</expan> seignors.</p>
-                <p xml:id="fr_2844.D.9.1.2"><label>[9.1.2]</label>
+                <p xml:id="fr_2844-D.9.1.2"><label>[9.1.2]</label>
                   <expan><hi rend="b">P</hi>aul<ex>us</ex></expan>. <foreign xml:lang="lat"><hi rend="b">H</hi>ec auctio</foreign>. Ceste <expan>aucio<ex>n</ex></expan> ne
                   <expan>vie<ex>n</ex>t</expan> pas en bestes au seignor
                   <expan>solem<ex>en</ex>t</expan>. mes a celui a
@@ -3452,7 +3452,7 @@
                   <expan>p<ex>ar</ex></expan> ce <expan>q<ex>u’</ex>il</expan> fust deslié et <expan>au<ex>cun</ex></expan>
                   <expan>cuide<ex>n</ex>t</expan>
                   <expan>e<ex>n</ex>co<ex>n</ex>tre</expan>.</p>
-                <p xml:id="fr_2844.D.9.1.3"><label>[9.1.3]</label>
+                <p xml:id="fr_2844-D.9.1.3"><label>[9.1.3]</label>
                   <hi rend="b">G</hi>aius. <foreign xml:lang="lat"><hi rend="b">E</hi>x <expan>ha<ex>n</ex>c</expan></foreign>. L’<expan>e<ex>n</ex></expan> ne dot pas de cete loi
                   <expan>q<ex>ue</ex></expan> l’<expan>e<ex>n</ex></expan> ne puisse pledier <expan>e<ex>n</ex></expan>
                   <expan>no<ex>n</ex></expan> de <expan>fra<ex>n</ex>ches</expan>
@@ -3469,11 +3469,11 @@
                   <expan>q<ex>ue</ex></expan> l’<expan>a<ex>n</ex></expan> fera au garir les et les domages de lor besoignes
                   <expan>q<ex>u’</ex>il</expan>
                   <expan>p<ex>er</ex>de<ex>n</ex>t</expan> a fere.</p>
-                <p xml:id="fr_2844.D.9.1.4"><label>[9.1.4]</label>
+                <p xml:id="fr_2844-D.9.1.4"><label>[9.1.4]</label>
                   <expan><hi rend="b">P</hi>aul<ex>us</ex></expan>. <foreign xml:lang="lat"><hi rend="b">H</hi>ec auctio</foreign>. Ceste <expan>aucio<ex>n</ex></expan>
                   <pb n="f. 54d"/> a leu tot n’ait la beste .iiii. piez
                   <expan>q<ex>u</ex>i</expan> fist le domage.</p>
-                <p xml:id="fr_2844.D.9.1.5"><label>[9.1.5]</label>
+                <p xml:id="fr_2844-D.9.1.5"><label>[9.1.5]</label>
                   <expan><hi rend="b">A</hi>lphen<ex>us</ex></expan>. <foreign xml:lang="lat"><hi rend="b">A</hi>gaso</foreign>. Un asner <expan>e<ex>n</ex>tra</expan> en une taverne ou son chevau. il ouia une muile la mule repuça. et fruissa la cuisse a l’asner. l’en <expan>dem<ex>an</ex>de</expan>
                   <expan><ex>con</ex>soil</expan> se l’<expan>e<ex>n</ex></expan> porroit pledier o le seignor de mule <expan>q<ex>u</ex>i</expan> avoit fet le<note place="bottom" xml:id="fr_2844_note_10"><quote>le</quote> suivi par un mot supprimé</note> domage<note place="bottom" xml:id="fr_2844_note_11"><quote>domage delivre et de ceste loi</quote> dans le ms., <quote>delivre et de ceste loi</quote> supprimé</note>. et je di
                   <expan>q<ex>ue</ex></expan> oïl.</p>
@@ -3482,7 +3482,7 @@
                 <head>Édition</head>
                 <div type="edition" n="1" xml:id="fr_2844.D.25.4">
                   <head>D. 25.4 [LJP, XI 3]</head>
-                  <p xml:id="fr_2844.D.25.4.0"><pb n="f. 107b"/>
+                  <p xml:id="fr_2844-D.25.4.0"><pb n="f. 107b"/>
                     <label>[25.4.0]</label>
                     <emph n="rubrique">Ci titres est de garder la vente a la feme</emph>
                     <label>[25.4.1]</label>
@@ -3961,7 +3961,7 @@
                     <expan><ex>et</ex></expan> l’<expan>e<ex>n</ex>fa<ex>n</ex>t</expan>
                     <expan>q<ex>u</ex>ant</expan> il nest.
                     <expan><ex>et</ex></expan> puis <expan>q<ex>u</ex>’il</expan> est nez.</p>
-                  <p xml:id="fr_2844.D.25.4.2"><label>[25.4.2]</label>
+                  <p xml:id="fr_2844-D.25.4.2"><label>[25.4.2]</label>
                     <expan><hi rend="b">J</hi>ulian<ex>us</ex></expan> dist. li <expan>banissem<ex>an</ex>z</expan> de garder l’<expan>e<ex>n</ex>fa<ex>n</ex>t</expan> abat celui
                     <expan>q<ex>u</ex>i</expan> est fez a la meniere do
                     <expan><ex>con</ex>soil</expan> au senat
@@ -3974,14 +3974,14 @@
                     <expan>p<ex>ar</ex></expan> la <expan>si<ex>m</ex>plece</expan> a la feme <expan><ex>et</ex></expan>
                     <expan>sa<ex>n</ex>z</expan> malice <expan>q<ex>ue</ex></expan> li <expan>ve<ex>n</ex>tres</expan> n’est pas veuz ne li
                     <expan>e<ex>n</ex>fés</expan> gardez.</p>
-                  <p xml:id="fr_2844.D.25.4.3"><label>[25.4.3]</label>
+                  <p xml:id="fr_2844-D.25.4.3"><label>[25.4.3]</label>
                     <expan><hi rend="b">P</hi>aul<ex>us</ex></expan> dist se cil <expan>q<ex>u</ex>i</expan> est establiz a estre heirs aprés l’<expan>e<ex>n</ex>fa<ex>n</ex>t</expan>
                     <expan>q<ex>u</ex>i</expan> est <expan>e<ex>n</ex>core</expan> a nestre. ou cil <expan>q<ex>u</ex>i</expan> est fez heirs
                     <expan>si<ex>m</ex>plem<ex>en</ex>t</expan> velt
                     <expan>gard<ex>er</ex></expan> le
                     <expan>ve<ex>n</ex>tre</expan> il doit
                     <expan>est<ex>r</ex>e</expan> oïz.</p>
-                  <p xml:id="fr_2844.D.25.4.4"><label>[25.4.4]</label>
+                  <p xml:id="fr_2844-D.25.4.4"><label>[25.4.4]</label>
                     <hi rend="b">S</hi>cevola <pb n="f. 108b"/> dist. Cil a
                     <expan>q<ex>u</ex>i</expan> il fut
                     <expan><ex>com</ex>m<ex>an</ex>dé</expan>
@@ -4108,16 +4108,16 @@
                 <p><pb n="f. 136a"/>
                   <emph n="rubrique">Ci commence li livres de Digeste nove</emph>
                 </p>
-                <p xml:id="fr_2844.D.42.1.0"><label>[42.1.0]</label>
+                <p xml:id="fr_2844-D.42.1.0"><label>[42.1.0]</label>
                   <emph n="rubrique">Cist titres est de force juigie et de la force des sentences et des interlocutoires au juiges</emph></p>
-                <p xml:id="fr_2844.D.42.1.1"><label>[42.1.1]</label>
+                <p xml:id="fr_2844-D.42.1.1"><label>[42.1.1]</label>
                   <pb n="f. 136b"/><hi rend="b">M</hi>odestin<hi rend="b">u</hi>s dit l’<expan>e<ex>n</ex></expan> apele chose juigie
                   <expan>p<ex>ar</ex></expan>
                   <expan>q<ex>u</ex>oi</expan> li plet son<supplied resp="#GP">t</supplied> finé <expan>p<ex>ar</ex></expan> le
                   <expan>p<ex>ro</ex>n<ex>on</ex>cem<ex>en</ex>t</expan> au juige <expan><ex>et</ex></expan> ce <expan>avie<ex>n</ex>t</expan> quant <expan>au<ex>cun</ex></expan>
                   <expan><ex>est</ex></expan>
                   <expan><ex>con</ex>de<ex>m</ex>pnez</expan> ou asoz.</p>
-                <p xml:id="fr_2844.D.42.1.2"><label>[42.1.2]</label>
+                <p xml:id="fr_2844-D.42.1.2"><label>[42.1.2]</label>
                   <hi rend="b">G</hi>aius dit. Cil <expan>q<ex>u</ex>i</expan> juige ne garde pas toz jorz le <expan>te<ex>n</ex>s</expan> de la chose juigie. <expan>ai<ex>n</ex>z</expan> l’acorce
                   <expan>au<ex>cun</ex>ne</expan> foiz
                   <expan><ex>et</ex></expan> l’<expan>alo<ex>n</ex>gue</expan>
@@ -4143,11 +4143,11 @@
                   <expan>don<ex>er</ex></expan>
                   <expan>norret<ex>ur</ex>e</expan> a <expan>au<ex>cun</ex></expan>. ou <expan>q<ex>u</ex>ant</expan> l’<expan>e<ex>n</ex></expan> secort a celui <expan>q<ex>u</ex>i</expan> a
                   <expan>moi<ex>n</ex>s</expan> de .xv. anz.</p>
-                <p xml:id="fr_2844.D.42.1.3"><label>[42.1.3]</label>
+                <p xml:id="fr_2844-D.42.1.3"><label>[42.1.3]</label>
                   <expan><hi rend="b">P</hi>aul<ex>us</ex></expan> dit cil
                   <expan>q<ex>u</ex>i</expan> puet
                   <expan><ex>con</ex>de<ex>m</ex>pn<ex>er</ex></expan><note place="bottom" xml:id="fr_2844_note_31"><quote>condempner</quote> suivi par <quote>o</quote> supprimé</note> a poer de sodre<note place="bottom" xml:id="fr_2844_note_32"><quote>de sodre</quote> écrit sur correction (par une autre main ?)</note></p>
-                <p xml:id="fr_2844.D.42.1.4"><label>[42.1.4]</label>
+                <p xml:id="fr_2844-D.42.1.4"><label>[42.1.4]</label>
                   <hi rend="b">U</hi>lpians dit. se li
                   <expan>proc<ex>ur</ex>ators</expan> n’a esté a oïr
                   <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>.
@@ -4290,7 +4290,7 @@
                   <expan><ex>con</ex>de<ex>m</ex>pnz</expan>
                   <expan>aba<ex>n</ex>don<ex>er</ex></expan> un serf a sofrir poine. et tu l’abandones celui de <expan>q<ex>u</ex>i</expan> uns autres a l’usaire tu es encore tenuz <expan>p<ex>ar</ex></expan>
                   <expan>aucio<ex>n</ex></expan> de chose juigie. mes se li usaires faut tu es delivrez.</p>
-                <p xml:id="fr_2844.D.42.1.7"><label>[42.1.7]</label>
+                <p xml:id="fr_2844-D.42.1.7"><label>[42.1.7]</label>
                   <expan><hi rend="b">G</hi>ai<ex>us</ex></expan> dit. Ja sé ce <expan>q<ex>ue</ex></expan> l’<expan>e<ex>n</ex></expan> ne puisse pas pledier de chose juigie <expan>deda<ex>n</ex>z</expan> le <expan>t<ex>er</ex>me</expan>
                   <expan>q<ex>u</ex>i</expan>
                   <expan><ex>est</ex></expan> establiz
@@ -4306,7 +4306,7 @@
                   <expan><ex>con</ex>de<ex>m</ex>pnz</expan>
                   <expan><ex>et</ex></expan> ne mie
                   <expan><ex>con</ex>t<ex>r</ex>e</expan> lui.</p>
-                <p xml:id="fr_2844.D.42.1.8"><label>[42.1.8]</label>
+                <p xml:id="fr_2844-D.42.1.8"><label>[42.1.8]</label>
                   <hi rend="b">P</hi>aulus dit. uns sers
                   <expan>q<ex>u</ex>i</expan> estoit
                   <expan>dem<ex>an</ex>dez</expan>
@@ -4318,12 +4318,12 @@
                   <expan>dem<ex>an</ex>doit</expan> soit asoz
                   <expan><ex>et</ex></expan>
                   <expan>q<ex>ue</ex></expan> il <expan>re<ex>n</ex>de</expan> les fruiz.</p>
-                <p xml:id="fr_2844.D.42.1.9"><label>[42.1.9]</label>
+                <p xml:id="fr_2844-D.42.1.9"><label>[42.1.9]</label>
                   <expan><hi rend="b">P</hi>onp<ex>onius</ex></expan> dit. juiges ne <expan>arbit<ex>r</ex>es</expan> ne puet
                   <expan>don<ex>er</ex></expan>
                   <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>
                   <expan><ex>con</ex>t<ex>r</ex>e</expan> forsené.</p>
-                <p xml:id="fr_2844.D.42.1.13"><label>[42.1.13]</label>
+                <p xml:id="fr_2844-D.42.1.13"><label>[42.1.13]</label>
                   <label>[1]</label>
                   <expan><hi rend="b">C</hi>els<ex>us</ex></expan> dit Se mis<note place="bottom" xml:id="fr_2844_note_36">Confusion de tracé pour
                     <quote>uns</quote><app>
@@ -4337,7 +4337,7 @@
                   <expan><ex>con</ex>de<ex>m</ex>pnz</expan> ou
                   <expan>den<ex>er</ex>s</expan> ses<note place="bottom" xml:id="fr_2844_note_37"><foreign xml:lang="lat">sic</foreign></note> si comme il <expan>avie<ex>n</ex>t</expan>
                   <expan>e<ex>n</ex></expan> toz <expan>obligema<ex>n</ex>z</expan> de fere <expan>au<ex>cun</ex>ne</expan> chose.</p>
-                <p xml:id="fr_2844.D.42.1.16"><label>[42.1.16]</label>
+                <p xml:id="fr_2844-D.42.1.16"><label>[42.1.16]</label>
                   <hi rend="b">C</hi>il moismes dit.
                   <expan>Au<ex>cun</ex></expan>
                   <expan>s<ex>on</ex>t</expan>
@@ -4357,7 +4357,7 @@
                   <expan>s<ex>on</ex>t</expan>
                   <expan><ex>com</ex>poigno<ex>n</ex>s</expan> de toz lor
                   <expan>bie<ex>n</ex>s</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.26"><label>[42.1.26]</label>
+                <p xml:id="fr_2844-D.42.1.26"><label>[42.1.26]</label>
                   <expan><hi rend="b">U</hi>lp<ex>ianus</ex></expan> dit. Se li pledeor s’<expan>acorde<ex>n</ex>t</expan>
                   <expan>q<ex>ue</ex></expan> une cause soit juigie
                   <expan>ent<ex>r</ex>e</expan> ous ce ne sera pas
@@ -4365,7 +4365,7 @@
                   <expan>reso<ex>n</ex></expan>. li juiges
                   <expan>don<ex>n</ex>e</expan> tel
                   <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.28"><label>[42.1.28]</label>
+                <p xml:id="fr_2844-D.42.1.28"><label>[42.1.28]</label>
                   <hi rend="b">C</hi>il moismes dit. Si dui juige delegat
                   <expan>don<ex>er</ex>e<ex>n</ex>t</expan>
                   <expan>div<ex>er</ex>ses</expan>
@@ -4378,7 +4378,7 @@
                   <expan>q<ex>ue</ex></expan> plus haut juiges
                   <expan>e<ex>n</ex></expan> ait une
                   <expan><ex>con</ex>fermee</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.29"><label>[42.1.29]</label>
+                <p xml:id="fr_2844-D.42.1.29"><label>[42.1.29]</label>
                   <hi rend="b">C</hi>il moismes dit. li
                   <expan>t<ex>er</ex>mes</expan>
                   <expan>q<ex>u</ex>i</expan>
@@ -4395,7 +4395,7 @@
                   <expan><ex>est</ex></expan> plus donz a la cause
                   <expan>q<ex>ue</ex></expan> a la
                   <expan>p<ex>er</ex>sone</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.38"><label>[42.1.38]</label>
+                <p xml:id="fr_2844-D.42.1.38"><label>[42.1.38]</label>
                   <hi rend="b">P</hi>aulus dit. li juige
                   <expan>do<ex>n</ex>ne<ex>n</ex>t</expan>
                   <pb n="f. 136d"/>
@@ -4428,7 +4428,7 @@
                   <expan>div<ex>er</ex>ses</expan> somnes l’<expan>e<ex>n</ex></expan> se doit tenir a la menor si
                   <expan><ex>com</ex>me</expan>
                   <expan>julia<ex>n</ex>s</expan> dit.</p>
-                <p xml:id="fr_2844.D.42.1.39"><label>[42.1.39]</label>
+                <p xml:id="fr_2844-D.42.1.39"><label>[42.1.39]</label>
                   <expan><hi rend="b">C</hi>els<ex>us</ex></expan> dit. Se .iii. <expan>s<ex>on</ex>t</expan> juige li dui ne puent pas juigier sanz le tierz. car il <expan><ex>est</ex></expan>
                   <expan><ex>com</ex>m<ex>an</ex>dé</expan> a
                   <expan>t<ex>r</ex>ois</expan>
@@ -4438,7 +4438,7 @@
                   <expan><ex>con</ex>tre</expan> la
                   <expan>sente<ex>n</ex>ce</expan> as autres. li
                   <expan>juigema<ex>n</ex>z</expan> as .ii. sera tenables. car il <expan><ex>est</ex></expan> voirs <expan>q<ex>ue</ex></expan> li .iii. <expan>o<ex>n</ex>t</expan> juigié.</p>
-                <p xml:id="fr_2844.D.42.1.43"><label>[42.1.43]</label>
+                <p xml:id="fr_2844-D.42.1.43"><label>[42.1.43]</label>
                   <hi rend="b">C</hi>il moismes dit.
                   <expan>Paul<ex>us</ex></expan>
                   <expan>esc<ex>r</ex>it</expan>
@@ -4456,7 +4456,7 @@
                   <expan>avena<ex>n</ex>t</expan> il ne puet pas
                   <expan>est<ex>r</ex>e</expan> trez <expan>e<ex>n</ex></expan> cause <expan>p<ex>or</ex></expan> les
                   <expan>aut<ex>r</ex>es</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.45"><label>[42.1.45]</label>
+                <p xml:id="fr_2844-D.42.1.45"><label>[42.1.45]</label>
                   <hi rend="b">P</hi>aulus dit. li juiges puet
                   <expan><ex>con</ex>de<ex>m</ex>pn<ex>er</ex></expan> s’il veust <expan><ex>et</ex></expan> les
                   <expan>p<ex>ar</ex>ties</expan> s’i
@@ -4482,14 +4482,14 @@
                   <expan>q<ex>u</ex>i</expan> n’<expan>o<ex>n</ex>t</expan> ne
                   <expan>deffe<ex>n</ex>deor</expan> ne
                   <expan>p<ex>ro</ex>curator</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.46"><label>[42.1.46]</label>
+                <p xml:id="fr_2844-D.42.1.46"><label>[42.1.46]</label>
                   <hi rend="b">H</hi>ermogenes dit. il n’est pas deuee a
                   <expan>am<ex>en</ex>der</expan> les
                   <expan>p<ex>ar</ex>oles</expan> des
                   <expan>errem<ex>en</ex>z</expan>
                   <expan>sa<ex>n</ex>z</expan> müer la forme de la
                   <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>.</p>
-                <p xml:id="fr_2844.D.42.1.47"><label>[42.1.47]</label>
+                <p xml:id="fr_2844-D.42.1.47"><label>[42.1.47]</label>
                   <expan><hi rend="b">P</hi>aul<ex>us</ex></expan> dit il
                   <expan><ex>con</ex>vie<ex>n</ex>t</expan>
                   <expan>donn<ex>er</ex></expan>
@@ -4514,7 +4514,7 @@
                   <expan>deva<ex>n</ex>t</expan> la borse l’<expan>e<ex>n</ex>p<ex>er</ex>eror</expan> il
                   <expan>doiv<ex>en</ex>t</expan>
                   <expan>est<ex>r</ex>e</expan> sor mis as choses juigies.</p>
-                <p xml:id="fr_2844.D.42.1.53"><label>[42.1.53]</label>
+                <p xml:id="fr_2844-D.42.1.53"><label>[42.1.53]</label>
                   <hi rend="b">H</hi>ermogenes dit. la
                   <expan><ex>con</ex>tuma<ex>n</ex>ce</expan> a celui
                   <expan>q<ex>u</ex>i</expan> n’obeist pas a juiges
@@ -4536,7 +4536,7 @@
                   <expan>niene<ex>n</ex>t</expan>
                   <expan>q<ex>ue</ex></expan> il n’<expan>ap<ex>ar</ex>tien<ex>en</ex>t</expan> mie a la
                   <expan>juridicio<ex>n</ex></expan> a lor juiges.</p>
-                <p xml:id="fr_2844.D.42.1.55"><label>[42.1.55]</label>
+                <p xml:id="fr_2844-D.42.1.55"><label>[42.1.55]</label>
                   <expan><hi rend="b">U</hi>lpia<ex>nu</ex>s</expan> dit.
                   <expan>desq<ex>ue</ex></expan> li juiges a doné une foiz
                   <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> il lesse a estre juiges <expan><ex>et</ex></expan> de ce
@@ -4551,7 +4551,7 @@
                   <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>
                   <pb n="f. 137a"/> car il use de son office ou
                   <expan>bie<ex>n</ex></expan> ou malemant.</p>
-                <p xml:id="fr_2844.D.42.1.56"><label>[42.1.56]</label>
+                <p xml:id="fr_2844-D.42.1.56"><label>[42.1.56]</label>
                   <hi rend="b">C</hi>il moismes dit. l’<expan>e<ex>n</ex></expan> ne doit riens
                   <expan>enq<ex>ue</ex>rre</expan> puis
                   <expan>q<ex>ue</ex></expan>
@@ -4563,7 +4563,7 @@
                   <expan>d<ex>r</ex>oit</expan>. car ce <expan>q<ex>u</ex>i</expan>
                   <expan><ex>est</ex></expan> reconeu <expan>e<ex>n</ex></expan> droit vaut <expan>aut<ex>r</ex>eta<ex>n</ex>t</expan>
                   <expan><ex>com</ex>me</expan> ce <expan>q<ex>u</ex>i</expan> est juigié.</p>
-                <p xml:id="fr_2844.D.42.1.58"><label>[42.1.58]</label>
+                <p xml:id="fr_2844-D.42.1.58"><label>[42.1.58]</label>
                   <hi rend="b">C</hi>il moismes dit ¶ Se gage
                   <expan>s<ex>on</ex>t</expan>
                   <expan>p<ex>r</ex>is</expan> et <expan>ve<ex>n</ex>duz</expan>
@@ -6124,7 +6124,7 @@
                 <head>Édition</head>
                 <div type="edition" n="1">
                   <head>D. 9.2.40-49</head>
-                  <p xml:id="fr_197.D.9.2.40"><label>[9.2.40]</label> Paulus dit <foreign xml:lang="lat" rend="underlined">Si deletum</foreign> Se je di
+                  <p xml:id="fr_197-D.9.2.40"><label>[9.2.40]</label> Paulus dit <foreign xml:lang="lat" rend="underlined">Si deletum</foreign> Se je di
                     <expan>q<ex>ue</ex></expan> .i. cyrogrefes m’a esté effaciez par coi denier m’estoient deu soz
                     <expan><ex>con</ex>dicion</expan>
                     <expan><ex>e</ex></expan> je <pb n="f. 174c"/> puis bien lors
@@ -6134,7 +6134,7 @@
                     <expan>p<ex>ro</ex>ver</expan> la dete <expan><ex>e</ex></expan> requerre que li deteurs i soit
                     <expan><ex>con</ex>dempnez</expan> mes je ne porrai demander la valeur del <expan><ex>con</ex>dempnem<ex>en</ex>t</expan> devant que la <expan><ex>con</ex>dicion</expan> faut li
                     <expan><ex>con</ex>dempnemenz</expan> n’avra nule force.</p>
-                  <p xml:id="fr_197.D.9.2.41"><label>[9.2.41]</label> Ulpians dit <label>[pr.]</label>
+                  <p xml:id="fr_197-D.9.2.41"><label>[9.2.41]</label> Ulpians dit <label>[pr.]</label>
                     <foreign xml:lang="lat" rend="underlined">Si quis
                       <expan>testam<ex>en</ex>tu<ex>m</ex></expan></foreign> Se <expan>aucu<ex>n</ex>s</expan> efface
                     <expan>testam<ex>en</ex>t</expan> voions se action de damage fet a tort i apartient. Et Marceaus en dote
@@ -6151,10 +6151,10 @@
                     <expan><ex>com</ex>me</expan> se il les efface non pas par corage de fere larrecin, mes de tortfe<pb n="f. 174d"/>re tant
                     <expan>seulem<ex>en</ex>t</expan>
                     <expan><ex>e</ex></expan> lors ne sera il pas tenuz par action de larrecin quer el fet il osta le corage de larron.</p>
-                  <p xml:id="fr_197.D.9.2.42"><label>[9.2.42]</label> Ulpians dit <foreign xml:lang="lat" rend="underlined">Qui tabulas</foreign> Cil qui les tables del <expan>testam<ex>en</ex>t</expan> qui li estoient bailliees a garder ou .i. autre instrument effaça si que il ne puet estre leuz est tenuz par action de chose bailliee en garde
+                  <p xml:id="fr_197-D.9.2.42"><label>[9.2.42]</label> Ulpians dit <foreign xml:lang="lat" rend="underlined">Qui tabulas</foreign> Cil qui les tables del <expan>testam<ex>en</ex>t</expan> qui li estoient bailliees a garder ou .i. autre instrument effaça si que il ne puet estre leuz est tenuz par action de chose bailliee en garde
                     <expan><ex>e</ex></expan> de fere la chose venir avant
                     <expan>q<ex>ue</ex>r</expan> la chose est corrompue quant il la rent ou quant il la maine avant <expan><ex>e</ex></expan> l’action de la loi aquiliane i apartient quer l’en dit par droit que cil a <expan>corro<ex>m</ex>pu</expan> les tables qui les a afaciees.</p>
-                  <p xml:id="fr_197.D.9.2.43"><label>[9.2.43]</label>
+                  <p xml:id="fr_197-D.9.2.43"><label>[9.2.43]</label>
                     <expan>Pomponi<ex>us</ex></expan> dit <foreign xml:lang="lat" rend="underlined">Ob id</foreign> Tu as action de la loi
                     <expan>aq<ex>ui</ex>liane</expan> por le damage qui fu fez es choses de l’eritage ainz <expan>q<ex>ue</ex></expan> tu le receusses, se ce est avenu aprés la mort a celui a qui tu es oirs la loi aquiliane apele seigneur <expan>n<ex>on</ex></expan> pas celui qui estoit sires lors <expan>q<ex>ue</ex></expan> li damages fu fez <expan>q<ex>ue</ex>r</expan> en ceste maniere ne peust pas ceste action trespasser de celui a qui
                     <expan>aucu<ex>n</ex>s</expan> sera oirs se li damages n’estoit fez en la chose qui estoit a l’oir E se tu estoies en la poesté a tes anemis quant damages fu fez en ta chose tu em porras pledier <expan>qua<ex>n</ex>t</expan> tu seras revenuz de la chaitivoison <expan>q<ex>ue</ex>r</expan> l’en ne porroit
@@ -6163,10 +6163,10 @@
                     <expan>q<ex>ue</ex></expan> cil li deussent defendre a qui li heritages apartenoit <expan><ex>e</ex></expan> il
                     <expan>escristre<ex>n</ex>t</expan>
                     <pb n="f. 175a"/> que il l’avoient defendu.</p>
-                  <p xml:id="fr_197.D.9.2.44"><label>[9.2.44]</label> Ulpians dit <label>[pr.]</label>
+                  <p xml:id="fr_197-D.9.2.44"><label>[9.2.44]</label> Ulpians dit <label>[pr.]</label>
                     <foreign xml:lang="lat" rend="underlined">In lege</foreign> En la loi aquiliane vient tres legiere corpe <label>[1]</label> totes les foiz que sers navre ou ocit
                     <expan>ho<ex>m</ex>me</expan> par le seu son seigneur il n’est pas dote que li sires ne soit tenuz par la loi aquiliane.</p>
-                  <p xml:id="fr_197.D.9.2.45"><label>[9.2.45]</label> Paulus dit <label>[pr.]</label>
+                  <p xml:id="fr_197-D.9.2.45"><label>[9.2.45]</label> Paulus dit <label>[pr.]</label>
                     <foreign xml:lang="lat" rend="underlined">Scienciam</foreign> Nos entendons ci son seu se il le suefre si
                     <expan>q<ex>ue</ex></expan> se il le pot defendre
                     <expan><ex>e</ex></expan> il ne le defendi il soit tenuz par la loi. ¶ <label>[3]</label>
@@ -6181,20 +6181,20 @@
                     <expan>n<ex>on</ex></expan> pas por
                     <expan>ve<ex>n</ex>gier</expan>. ¶ <label>[5]</label>
                     <foreign xml:lang="lat" rend="underlined">Qui idoneum</foreign> ¶ Qui oste buene paroi il est tenuz a celui qui le tenoit por le damage <expan><ex>e</ex></expan> por le tort fet.</p>
-                  <p xml:id="fr_197.D.9.2.46"><label>[9.2.46]</label>
+                  <p xml:id="fr_197-D.9.2.46"><label>[9.2.46]</label>
                     <expan>Ulp<ex>ians</ex></expan> dit <foreign xml:lang="lat" rend="underlined">Si vulnerato</foreign> Se l’en a pledié
                     <expan>p<ex>ar</ex></expan> la loi aquiliane por serf qui a esté navrez <expan><ex>e</ex></expan> il muert puis de cele plaie por ce ne remaint pas que l’en ne puisse pledier.</p>
-                  <p xml:id="fr_197.D.9.2.47"><label>[9.2.47]</label> Julians dit <foreign xml:lang="lat" rend="underlined">Sed priore</foreign> Se li damages a esté
+                  <p xml:id="fr_197-D.9.2.47"><label>[9.2.47]</label> Julians dit <foreign xml:lang="lat" rend="underlined">Sed priore</foreign> Se li damages a esté
                     <expan>p<ex>ro</ex>isiez</expan> el premier
                     <expan>jugem<ex>en</ex>t</expan>
                     <expan><ex>e</ex></expan> li sires
                     <expan><ex>com</ex>m<ex>en</ex>ce</expan> puis a pledier de son <pb n="f. 175b"/> serf qui est ocis, l’en doit opposer
                     <expan><ex>con</ex>tre</expan> lui exception de tricherie que il n’ait rien plus por son serf que il en eust eu se il eust au <expan><ex>com</ex>mencem<ex>en</ex>t</expan> pledié por
                     <expan>so<ex>n</ex></expan> serf ocis.</p>
-                  <p xml:id="fr_197.D.9.2.48"><label>[9.2.48]</label> Paulus dit <foreign xml:lang="lat" rend="underlined">In te</foreign> Se uns sers fet damage en une des choses de l’eritage ainz que li heritages soit receuz
+                  <p xml:id="fr_197-D.9.2.48"><label>[9.2.48]</label> Paulus dit <foreign xml:lang="lat" rend="underlined">In te</foreign> Se uns sers fet damage en une des choses de l’eritage ainz que li heritages soit receuz
                     <expan><ex>e</ex></expan> il fet puis que il est franchiz damage en cele meisme chose il sera tenuz par l’une
                     <expan><ex>e</ex></expan> par l’autre action quer il i a .ii. fez de coi l’action apartient as oirs.</p>
-                  <p xml:id="fr_197.D.9.2.49"><label>[9.2.49]</label> Ulpians dit <label>[pr.]</label>
+                  <p xml:id="fr_197-D.9.2.49"><label>[9.2.49]</label> Ulpians dit <label>[pr.]</label>
                     <foreign xml:lang="lat" rend="underlined">Si quis fumo</foreign> Se aucun fet fumee <expan><ex>e</ex></expan> il chace les mosches son voisin ou il les tue il semble mielz que il leur donna cause de mort que il ne set <expan>q<ex>ue</ex></expan> il les ocit <expan><ex>e</ex></expan> por ce sera il tenuz par action seur le fet. ¶ <label>[1]</label>
                     <foreign xml:lang="lat" rend="underlined">Quod dicitur</foreign> ¶ Ce que l’en dit que damages qui est fez a tort est porsuiviz par la loi aquiliane doit estre eissi entendu que il semble
                     <expan>q<ex>ue</ex></expan> damages soit fez a tort se li torz fez a amené le damage se <expan>g<ex>ra</ex>nt</expan> force ne <expan><ex>con</ex>trainst</expan> a fere le
@@ -6206,7 +6206,7 @@
                 </div>
                 <div type="edition" n="2">
                   <head>D. 9.3.5</head>
-                  <p xml:id="fr_197.9.3.5.pr">Ulpians dit. <label>[pr.]</label>
+                  <p xml:id="fr_197-9.3.5.pr">Ulpians dit. <label>[pr.]</label>
                     <foreign xml:lang="lat" rend="underlined">Si vero.</foreign> Se pluseur i habitent <expan><ex>e</ex></expan> il ont parti la meson entre els action est donnee <expan><ex>con</ex>tre</expan> celui seul qui habite en la partie de coi la chose est espandue. ¶ <label>[1]</label>
                     <foreign xml:lang="lat" rend="underlined">Si quis gratuitas</foreign> ¶ Se <expan>aucu<ex>n</ex>s</expan> a presté habitations a cels <expan>q<ex>ue</ex></expan> il ou sa fame ont franchiz ou a leur serjanz, Trebatius dit
                     <expan>q<ex>ue</ex></expan> il est tenuz en leur non
@@ -7822,7 +7822,7 @@
                       <head>Édition</head>
                       <div type="edition" n="1">
                         <head>D. 2.9</head>
-                        <p xml:id="kbr_9234.D.2.9"><emph n="rubrique">De celui <expan>q<ex>ui</ex></expan> a afaire et est accusé de crime. En quel maniere il puisse eschiver la cause cirminal dont il est suivi</emph><label>[2.9.1]</label>
+                        <p xml:id="kbr_9234-D.2.9"><emph n="rubrique">De celui <expan>q<ex>ui</ex></expan> a afaire et est accusé de crime. En quel maniere il puisse eschiver la cause cirminal dont il est suivi</emph><label>[2.9.1]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label> Que se aucun seignor ait plegié son sergent d’une action criminal d’estre a droit
                           <expan><ex>con</ex>tre</expan> cui li voudra riens
@@ -7846,7 +7846,7 @@
                           <expan>q<ex>ue</ex></expan> son seigneur avoit plegié. qui ert en lui egal de pledier quant li ert o lui ait pris service d’<expan>o<ex>m</ex>me</expan> plus desfenssable. et plus riche et de meilleur lieu. et ait mué maistre en tel maniere. <expan>q<ex>ue</ex></expan> le seigneur. <expan>q<ex>ui</ex></expan> le plega. ne le puet mie amener la ou il avoit promis. Et la cause criminal soit vendue au grant seigneur avoec qui il s’est
                           <expan>derreniereme<ex>n</ex>t</expan> mis. Il cuide et li est avis <expan>q<ex>ue</ex></expan> il est miex
                           <expan>q<ex>ue</ex></expan> il ne soit mie rendu en jugement. <expan>q<ex>ue</ex></expan> autrement. mes se celui qui a esté racheté de la cause criminal cuide eschaper d’autel cause. s’il la faisoit. Et il la face en celle fiance il doit estre puni sanz rachat.</p>
-                        <p xml:id="kbr_9234.D.2.9.2"><label>[2.9.2]</label>
+                        <p xml:id="kbr_9234-D.2.9.2"><label>[2.9.2]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[pr.]</label>
                           <expan>Q<ex>ue</ex></expan> d’autre droit use l’en es causes qui sont devant mises. <expan>q<ex>ua</ex>r</expan> celui qui est accusé d’une caue criminal n’i est pas delivre. ainz est pris por celle cause. Et suivi aussi
                           <expan><ex>com</ex>me</expan> se il fust vendu.
@@ -7863,19 +7863,19 @@
                           <expan>Co<ex>m</ex>idius</expan> escristrent.
                           <expan>q<ex>ue</ex></expan> l’absence du
                           <expan>seign<ex>eur</ex></expan> ne li nuise. et donques sera restablie son action a l’aucteur. Et prendra des biens au serf. <expan>jusq<ex>ue</ex>s</expan> a la value de son mesfait.</p>
-                        <p xml:id="kbr_9234.D.2.9.3"><label>[2.9.3]</label>
+                        <p xml:id="kbr_9234-D.2.9.3"><label>[2.9.3]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <expan>Q<ex>ue</ex></expan> se le serf et le usufrutier. plaident ensemble de cause nuisible en jugement. pour usufruitier. Ou pour autre cause
                           <expan><ex>et</ex></expan> le serf ne li puisse fere desfensse. il li doit fere desfendre par le prevost.
                           <expan>q<ex>ue</ex></expan> il ne mete la
                           <expan>mai<ex>n</ex></expan> sus ce pour quoi le plet est meu. <expan>jusq<ex>ue</ex>s</expan> a tant
                           <expan>q<ex>ue</ex></expan> il soit afiné.</p>
-                        <p xml:id="kbr_9234.D.2.9.4"><label>[2.9.4]</label>
+                        <p xml:id="kbr_9234-D.2.9.4"><label>[2.9.4]</label>
                           <hi rend="b">G</hi>aius dit.
                           <expan>Q<ex>ue</ex></expan> se la cause de .ii. seigneurs soit demené en jugement. et l’un voeille faire satisfaction pour l’autre en partie. et
                           <expan>no<ex>n</ex></expan> mie en tout.
                           <expan>Sabi<ex>us</ex></expan> dist. que ce ne doit mie estre fait. Quar ou il le desfende tout. se il a necessité d’avoir le. Car il ne doit pas estre oï. se il est appareillié de desfendre le en partie.</p>
-                        <p xml:id="kbr_9234.D.2.9.5"><pb n="f. 24d"/>
+                        <p xml:id="kbr_9234-D.2.9.5"><pb n="f. 24d"/>
                           <label>[2.9.5]</label>
                           <hi rend="b">U</hi>lpians dist. Se aucun a promis a metre son serf en celle meisme cause estre mis pour lui en jugement et il s’en aut franc. Et le serf demeure chevetaigne de toutes les injures et de toutes ses actions. et <expan>no<ex>n</ex></expan> mie en
                           <expan>so<ex>n</ex></expan> non. Mais el non de celui qui li a mis. Le serf doit estre puni par tourment et <expan>p<ex>ar</ex></expan> batemenz jusques a tant que satisfacion des injures soit faite a plain. mes vengance doit estre prise au trement de celui qui s’en va franc. ou il doit <expan>est<ex>re</ex></expan>
@@ -7885,12 +7885,12 @@
                           <expan>c<ex>er</ex>taineme<ex>n</ex>t</expan>
                           <expan>amen<ex>er</ex></expan> a la meilleur fin
                           <expan>q<ex>ue</ex></expan> l’en puet.</p>
-                        <p xml:id="kbr_9234.D.2.9.6"><label>[2.9.6]</label>
+                        <p xml:id="kbr_9234-D.2.9.6"><label>[2.9.6]</label>
                           <expan><hi rend="b">P</hi>aul<ex>us</ex></expan> dit. <expan>q<ex>ue</ex></expan> se celui qui est franc s’est promis metre soi en <expan>jugeme<ex>n</ex>t</expan> por autrui. et il se mete maintenant pour icelle cause. Ja soit ce <expan>q<ex>ue</ex></expan> il soit franc. si fait il franchise a celui et bonté pour cui il se met.</p>
                       </div>
                       <div type="edition" n="2">
                         <head>D. 9.2.40-51</head>
-                        <p xml:id="kbr_9234.D.9.2.40"><label>[9.2.40]</label>
+                        <p xml:id="kbr_9234-D.9.2.40"><label>[9.2.40]</label>
                           <hi rend="b">P</hi>aulus dit. Se ge di que aucuns m’a effacié le cyrogreffe par quoi denier m’estoient deu souz condicion. et ge le puis prover
                           <expan>p<ex>ar</ex></expan> tesmoinz.
                           <expan>q<ex>ue</ex></expan> ge ne porroie pas
@@ -7901,7 +7901,7 @@
                           <expan>p<ex>ar</ex></expan>
                           <expan>deva<ex>n</ex>t</expan> le juge. Et cil qui efface le cyrogreffe. ne sera <expan><ex>con</ex>dampnez</expan> a rendre moi nule chose. devant
                           <expan>q<ex>ue</ex></expan> la condicion sor quoi. li denier me sont deu sera acomplie. et se ele faut. il ne sera tenuz a rendra riens.</p>
-                        <p xml:id="kbr_9234.D.9.2.41"><label>[9.2.41]</label>
+                        <p xml:id="kbr_9234-D.9.2.41"><label>[9.2.41]</label>
                           <hi rend="b">U</hi>lpians dist. Se aucuns efface .i. <expan>testame<ex>n</ex>t</expan>. voions. se l’<expan>actio<ex>n</ex></expan> de la loi qui fet restorer les domaiges. a leu contre lui. Et marciaus dit
                           <expan>q<ex>ue</ex></expan> nenil. Car li domaiges n’est pas bons a proisier. Et ge di.
                           <expan>q<ex>ue</ex></expan> ce est voir
@@ -7918,14 +7918,14 @@
                           <expan>q<ex>ue</ex></expan> cil qui esface les tables del <expan>testame<ex>n</ex>t</expan>. n’est pas remis par action de larrecin. Mes
                           <expan>p<ex>ar</ex></expan> l’action de la loi qui fet restorer les domaiges. si <expan><ex>com</ex>me</expan> se il ne les esface pas <expan>p<ex>ar</ex></expan> coraige de fere <expan>larreci<ex>n</ex></expan> mes de fere domaige tant seulement. et en cest cas n’est il pas tenuz
                           <expan>p<ex>ar</ex></expan> action de larrecin. Car il covenist <expan>q<ex>ue</ex></expan> li cuers fust o le fet.</p>
-                        <p xml:id="kbr_9234.D.9.2.42"><pb n="f. 140a"/>
+                        <p xml:id="kbr_9234-D.9.2.42"><pb n="f. 140a"/>
                           <label>[9.2.42]</label>
                           <hi rend="b">U</hi>lpians dit. Cil qui les tables del <expan>testame<ex>n</ex>t</expan> qui li estoient bailliees a <expan>gard<ex>er</ex></expan> esface. si
                           <expan>q<ex>ue</ex></expan> elles ne puissent estre leues. il est tenuz <expan>p<ex>ar</ex></expan> action de chose bailliee en garde. ou de fere la chose qui est
                           <expan>corro<ex>m</ex>pue</expan>. ou qu’il aporte
                           <expan>ava<ex>n</ex>t</expan> l’action de la loi qui fet restorer les domaiges.
                           <expan>ap<ex>ar</ex>tient</expan> contre lui l’en dit par droit <expan>q<ex>ue</ex></expan> cil a corpu les tables del <expan>testame<ex>n</ex>t</expan> qui les a esfaciees <expan>p<ex>ar</ex></expan> leus.</p>
-                        <p xml:id="kbr_9234.D.9.2.43"><label>[9.2.43]</label>
+                        <p xml:id="kbr_9234-D.9.2.43"><label>[9.2.43]</label>
                           <hi rend="b">P</hi>omponius dit. Li hoirs avra l’accion de ceste loi. por le domaige qui fu fez en l’eritaige. ainz <expan>q<ex>ue</ex></expan> il le receust. se li domaiges a esté fez aprés la mort. a celui a qui il est hoirs. tu ne porras pas pledier
                           <expan>p<ex>ar</ex></expan> ceste action.
                           <expan>q<ex>ua</ex>nt</expan> tu seras revenuz de chetivoison. por le domaige qui te fu fez. el tens
@@ -7936,10 +7936,10 @@
                           <expan>q<ex>ue</ex></expan> cil a qui li
                           <expan>h<ex>er</ex>itaiges</expan>
                           <expan>ap<ex>ar</ex>tient</expan>. li desfendist se il le seust.</p>
-                        <p xml:id="kbr_9234.D.9.2.44"><label>[9.2.44]</label>
+                        <p xml:id="kbr_9234-D.9.2.44"><label>[9.2.44]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label> Tres legiere corpe vient en la loi qui fet restorer les domaiges. ¶ <label>[1]</label> Toutes les foiz <expan>q<ex>ue</ex></expan> sers navre aucun ou occit <expan>p<ex>ar</ex></expan> le seu son seignor. il n’est pas doute <expan>q<ex>ue</ex></expan> li sires ne soit tenuz <expan>p<ex>ar</ex></expan> ceste accion.</p>
-                        <p xml:id="kbr_9234.D.9.2.45"><label>[9.2.45]</label>
+                        <p xml:id="kbr_9234-D.9.2.45"><label>[9.2.45]</label>
                           <hi rend="b">P</hi>aulus dist. <label>[pr.]</label> Nous apelons ci le seu por la souffrance. si
                           <expan>q<ex>ue</ex></expan> cil qui pot desfendre le domaige <expan>q<ex>ue</ex></expan> ses sers fesoit. et ne le desfendi soit tenuz par ceste loi. <label>[1]</label> L’en puet pledier <expan>p<ex>ar</ex></expan> ceste loi puis <expan>q<ex>ue</ex></expan> li sers
                           <expan>q<ex>ui</ex></expan> fu navrez est gariz.
@@ -7958,7 +7958,7 @@
                           <expan>mo<ex>n</ex></expan> adversaire. et ge ne feri pas lui mes .i. trespassant. ge sui tenuz
                           <expan>p<ex>ar</ex></expan> l’<expan>actio<ex>n</ex></expan> de ceste loi. Car il m’estuet otroier a feri celui seul qui force me fesoit.
                           <expan><ex>et</ex></expan> se ge le fesoie por moi desfendre. tant seulement. et <expan>no<ex>n</ex></expan> pas por <expan>veng<ex>ier</ex></expan> moi.</p>
-                        <p xml:id="kbr_9234.D.9.2.46"><label>[9.2.46]</label>
+                        <p xml:id="kbr_9234-D.9.2.46"><label>[9.2.46]</label>
                           <hi rend="b">U</hi>lpians dit. Se l’en a pledié
                           <expan>p<ex>ar</ex></expan> la loi qui fet restorer les domaiges. por .i. serf qui a esté navrez. se il muert
                           <expan>ap<ex>ré</ex>s</expan> de cele plaie
@@ -7968,11 +7968,11 @@
                           <expan>q<ex>ue</ex></expan> il poist avoir en se il eust pledié dés le
                           <expan><ex>com</ex>me<ex>n</ex>ceme<ex>n</ex>t</expan>
                           <expan><ex>com</ex>me</expan> de sers occis.</p>
-                        <p xml:id="kbr_9234.D.9.2.48"><label>[9.2.48]</label>
+                        <p xml:id="kbr_9234-D.9.2.48"><label>[9.2.48]</label>
                           <hi rend="b">P</hi>aulus dist. Se uns sers fist domaige en la chose de l’eritage. ainz
                           <expan>q<ex>ue</ex></expan> li sers fust receuz. et aprés <expan>q<ex>ua</ex>nt</expan> il est franchiz. se il fet aprés domaige es choses de l’eritaige il est tenuz
                           <expan>p<ex>ar</ex></expan> ceste loi por l’un domaige <expan><ex>et</ex></expan> por l’autre.</p>
-                        <p xml:id="kbr_9234.D.9.2.49"><label>[9.2.49]</label>
+                        <p xml:id="kbr_9234-D.9.2.49"><label>[9.2.49]</label>
                           <expan><hi rend="b">U</hi>lpia<ex>n</ex>s</expan> dist. <label>[pr.]</label> Se aucuns fet fumee tant
                           <expan>q<ex>ue</ex></expan> il chace autrui ou <pb n="f. 140c"/>
                           <expan>q<ex>ue</ex></expan> il les occit. il semble mielz
@@ -7990,10 +7990,10 @@
                           <expan>q<ex>ue</ex></expan> il avoit paor
                           <expan>q<ex>ue</ex></expan> li feus ne venist en sa meson. ou se il fu estainz. il dit
                           <expan>q<ex>ue</ex></expan> l’<expan>actio<ex>n</ex></expan> de ceste loi cesse.</p>
-                        <p xml:id="kbr_9234.D.9.2.50"><label>[9.2.50]</label>
+                        <p xml:id="kbr_9234-D.9.2.50"><label>[9.2.50]</label>
                           <expan><hi rend="b">U</hi>lpia<ex>n</ex>s</expan> dist. <hi rend="b">C</hi>il qui depeça autrui meson malgré a celui qui ele estoit. et il fist baniz. il est tenuz <expan>p<ex>ar</ex></expan> l’accion de ceste loi por le domaige par desus la naturel droiture
                           <expan>p<ex>ar</ex></expan> quoi cil qui a le fons de la terre. doit avoir ce qui est fet sor sa terre.</p>
-                        <p xml:id="kbr_9234.D.9.2.51"><label>[9.2.51]</label>
+                        <p xml:id="kbr_9234-D.9.2.51"><label>[9.2.51]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">U</hi>ns hom
                           <expan>nav<ex>ra</ex></expan> si .i. serf.
                           <expan>q<ex>ue</ex></expan> l’en savoit
@@ -8043,7 +8043,7 @@
                       </div>
                       <div type="edition" n="3">
                         <head>D. 9.3.5-7</head>
-                        <p xml:id="kbr_9234.D.9.3.5"><label>[9.3.5]</label>
+                        <p xml:id="kbr_9234-D.9.3.5"><label>[9.3.5]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label> Se pluseurs
                           <expan>habite<ex>n</ex>t</expan> en une meson. Mes chascuns en a sa <expan>c<ex>er</ex>taine</expan>
@@ -8112,7 +8112,7 @@
                           <label>[13]</label> ceste action est
                           <expan><ex>com</ex>mune</expan>. et apartient as hoirs. mes ele n’apartient pas
                           <expan><ex>con</ex>tre</expan> l’oir. Car ele est por paine.</p>
-                        <p xml:id="kbr_9234.D.9.3.6"><label>[9.3.6]</label>
+                        <p xml:id="kbr_9234-D.9.3.6"><label>[9.3.6]</label>
                           <hi rend="b">P</hi>aulus dist. <hi rend="b">L</hi>abeo escrist. <expan>q<ex>ue</ex></expan> cil
                           <expan>banisseme<ex>n</ex>t</expan> n’<expan>ap<ex>ar</ex>tient</expan> pas as cytez
                           <expan><ex>et</ex></expan> as viles tant
@@ -8120,7 +8120,7 @@
                           <expan>p<ex>ar</ex></expan> quoi la gent vont
                           <expan><ex>com</ex>munem<ex>en</ex>t</expan> Et se aucune chose qui face domaige est getee d’une nef. proffitable action en sera donnee
                           <expan><ex>con</ex>tre</expan> celui qui est mestres de la nef.</p>
-                        <p xml:id="kbr_9234.D.9.3.7"><label>[9.3.7]</label>
+                        <p xml:id="kbr_9234-D.9.3.7"><label>[9.3.7]</label>
                           <hi rend="b">G</hi>ayus dist. <hi rend="b">Q</hi>uant le cors d’un franc home est bleciez
                           <expan>p<ex>ar</ex></expan> ce qui a esté geté ou espandu d’une meson. li juges doit proisier les loiers qui ont esté donné as mires por garir le et les autres despens qui y ont esté fetes. et sa besoigne
                           <expan>q<ex>ue</ex></expan> il en a perdue et
@@ -8129,9 +8129,9 @@
                       </div>
                       <div type="edition" n="4">
                         <head>D. 9.4.1-8</head>
-                        <p xml:id="kbr_9234.D.9.4.1"><label>[9.4.1]</label>
+                        <p xml:id="kbr_9234-D.9.4.1"><label>[9.4.1]</label>
                           <hi rend="b">G</hi>ayus dist. <hi rend="b">A</hi>ctions de mesfet sont apelees. celes qui ne sont pas meues contre nous por marchiez. mes por les mesfez a nos sers. <expan><ex>et</ex></expan> la droiture de ces actions est <expan>q<ex>ue</ex></expan> cil qui en est <expan><ex>con</ex>dampnez</expan> se puet delivrer de tout le <expan><ex>com</ex>mandeme<ex>n</ex>t</expan> por habandoner le serf qui a fet le mesfet.</p>
-                        <p xml:id="kbr_9234.D.9.4.2"><label>[9.4.2]</label>
+                        <p xml:id="kbr_9234-D.9.4.2"><label>[9.4.2]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label>
                           <hi rend="b">S</hi>e uns sers a fet domaige
@@ -8154,13 +8154,13 @@
                           <expan><ex>con</ex>tre</expan> le
                           <expan>seign<ex>eur</ex></expan>
                           <expan>q<ex>ue</ex></expan> il n’escuse pas le serf. ainz grieve le seignor.Et ceste sentence est resnable.</p>
-                        <p xml:id="kbr_9234.D.9.4.3"><label>[9.4.3]</label>
+                        <p xml:id="kbr_9234-D.9.4.3"><label>[9.4.3]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">E</hi>n toutes les actions qui sont meues. por les mesfez as sers en quoi l’en fet
                           <expan>me<ex>n</ex>cio<ex>n</ex></expan> del seu au seignor. l’en le doit einssi
                           <expan>e<ex>n</ex>tendre</expan>. se li sires pot desfendre <expan>q<ex>ue</ex></expan> li
                           <expan>s<ex>er</ex>s</expan> ne mesfeist. et il ne le desfendi pas. autre chose est de doner actorité au serf qui mesfet. <expan>q<ex>ue</ex></expan> de souffrir
                           <expan>q<ex>ue</ex></expan> il mefface.</p>
-                        <p xml:id="kbr_9234.D.9.4.4"><label>[9.4.4]</label>
+                        <p xml:id="kbr_9234-D.9.4.4"><label>[9.4.4]</label>
                           <expan><hi rend="b">P</hi>aul<ex>us</ex></expan> dit. <label>[pr.]</label>
                           <hi rend="b">L</hi>’en demande
                           <expan><ex>com</ex>ment</expan> li seuz au seignor. doit estre entendu el mesfet as sers. ou
@@ -8204,7 +8204,7 @@
                           <expan>q<ex>ue</ex></expan> li mesfez fu fez
                           <expan>p<ex>ar</ex></expan> le seu. au seignor. il puet <expan>b<ex>ie</ex>n</expan> muer sa plainte avant
                           <expan>q<ex>ue</ex></expan> la sentence ait esté donnee.</p>
-                        <p xml:id="kbr_9234.D.9.4.5"><label>[9.4.5]</label>
+                        <p xml:id="kbr_9234-D.9.4.5"><label>[9.4.5]</label>
                           <hi rend="b">U</hi>lpians dist.
                           <label>[pr.]</label>
                           <hi rend="b">S</hi>e li sers qui est
@@ -8222,11 +8222,11 @@
                           <expan>seuleme<ex>n</ex>t</expan>
                           <expan>q<ex>ue</ex></expan> cil qui sot le mesfet. est
                           <expan>ten<ex>us</ex></expan> a restorer tout le domaige. mes cele <expan>q<ex>ue</ex></expan> se il vent. le serf. ou il le franchist. ou se li sers muert. li sires sera tenuz a respondre del mesfet. mes se li sires muert li hoirs n’i sera pas tenuz.</p>
-                        <p xml:id="kbr_9234.D.9.4.6"><label>[9.4.6]</label>
+                        <p xml:id="kbr_9234-D.9.4.6"><label>[9.4.6]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">M</hi>es li sers i sera tenuz. aprés ce
                           <expan>q<ex>ue</ex></expan> il sera
                           <expan>f<ex>ra</ex>nchiz</expan>.</p>
-                        <p xml:id="kbr_9234.D.9.4.7"><label>[9.4.7]</label>
+                        <p xml:id="kbr_9234-D.9.4.7"><label>[9.4.7]</label>
                           <hi rend="b">C</hi>il meismes dit.
                           <label>[pr.]</label>
                           <hi rend="b">A</hi>ction por le mesfet a
@@ -8241,7 +8241,7 @@
                           <expan><hi rend="b">P</hi>o<ex>m</ex>ponius</expan> dit : <hi rend="b">S</hi>e cil qui achate .i. serf. est trez en cause por le mesfet au serf. li
                           <expan>vend<ex>er</ex>res</expan>
                           <expan>p<ex>ar</ex></expan> qui seu il le fist n’<expan>e<ex>n</ex></expan> porra pas estre trez en cause.</p>
-                        <p xml:id="kbr_9234.D.9.4.8"><label>[9.4.8]</label>
+                        <p xml:id="kbr_9234-D.9.4.8"><label>[9.4.8]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">S</hi>e li sers qui est
                           <expan><ex>com</ex>muns</expan> a pluseurs. fet .i. larrecin. chascuns de ses seignors est tenuz
                           <expan>p<ex>ar</ex></expan> ceste action. se
@@ -8350,7 +8350,7 @@
                       <head>Transcription intégrale du fragment</head>
                       <div type="edition" n="1" xml:id="leiden_meijers_fr3.D.9.2">
                         <head>D. 9.2.40-51</head>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.40"><label>[9.2.40]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.40"><label>[9.2.40]</label>
                           <pb n="f. 1a"/> ... avoir el tens que la condicion avendra. <hi rend="b">G</hi>e doi amener les tesmoinz par devant le juge. <hi rend="b">E</hi>t cil qui efface le cyrogrefe ne sera
                           <expan><ex>con</ex>dampnez</expan> a rendre moi nule chose devant que la condicion seur quoi li denier me sont deu sera acomplie. <hi rend="b">E</hi>t se ele faut il ne sera tenuz a rendre riens. <label>[9.2.41]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
@@ -8361,19 +8361,19 @@
                           <hi rend="b">S</hi>e aucuns a effaciees les tables del testament <expan>q<ex>ui</ex></expan> li estoient bailliees en garde. ou il les a leues en comun il est voirs que action sor le fet. ou de tort fet soit donee contre lui. se il descovri les segrez del testament par corage de tort fere. ¶ <label>[1]</label>
                           <hi rend="b">P</hi>omponius dit que il avient aucune foiz que cil qui efface les tables del testament n’est pas tenuz par action de larrecin. mes par l’action de la loi qui fet restorer les damages. <hi rend="b">S</hi>i come se il ne les efface pas par corage de fere larrecin. mes de fere damage tant seulement
                           <expan><ex>et</ex></expan> en cest cas n’est il pas tenuz par action de larrecin. car il covenist que li cuers fust o le fet.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.42"><label>[9.2.42]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.42"><label>[9.2.42]</label>
                           <hi rend="b">U</hi>lpians dit. Cil qui les tables del <expan>testame<ex>n</ex>t</expan> qui li estoient bailliees a garder efface si <expan>q<ex>ue</ex></expan> eles ne pueent estre leues. il est tenuz par action de chose bailliee en garde. ou de fere la chose qui est
                           <expan>corro<ex>m</ex>pue</expan>. ou qu’il aporte
                           <expan>ava<ex>n</ex>t</expan> l’action de la loi qui fet restorer les damages apartient contre lui. l’en dit par droit <expan>q<ex>ue</ex></expan> cil a <pb n="f. 1b" /> corrompu les tables del testament qui les a effaciees par leus.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.43"><label>[9.2.43]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.43"><label>[9.2.43]</label>
                           <hi rend="b">P</hi>omponius dit : Li hoirs avra l’action de ceste loi por le damage qui fu fez en l’eritage <expan>ai<ex>n</ex>z</expan> qu’il le receust. se li domages a esté fez aprés la mort a celui a qui il est hoirs : tu ne porras pas pledier par ceste action
                           <expan>q<ex>ua</ex>nt</expan> tu seras revenuz de chetivoison por le damage qui te fu fez el tens que tu estoies en la chetivoison. <hi rend="b">C</hi>e meismes dirons nos des arbres qui furent coupé en larrecin en cel meismes tens. <hi rend="b">E</hi>t ge croi que l’en puet dire ce meismes de larrecin de ce qui est fet par force ou en repost. <hi rend="b">S</hi>e aucuns fet chose qui li est deffendue. ou de quoi il deust entendre que cil a qui li heritages apartient li deffendist se il le seust.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.44"><label>[9.2.44]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.44"><label>[9.2.44]</label>
                           <hi rend="b">U</hi>lpiens dit. <label>[pr.]</label>
                           <hi rend="b">T</hi>res legiere corpe vient en la loi qui fet restorer les damages. ¶ <label>[1]</label>
                           <hi rend="b">T</hi>outes les foiz
                           <expan>q<ex>ue</ex></expan> sers navre aucun ou ocit par le seu son seigneur il n’est pas doute que li sires ne soit tenuz par ceste action.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.45"><label>[9.2.45]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.45"><label>[9.2.45]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[pr.]</label>
                           <hi rend="b">N</hi>os apelons ci le seu por la
                           <expan>soffra<ex>n</ex>ce</expan>. si que cil qui pot desfendre le damage que ses sers fesoit
@@ -8387,16 +8387,16 @@
                           <expan><ex>et</ex></expan> tuit li droit otroient que foce soit bou<supplied resp="#FD">t</supplied>ee arriere par force. <hi rend="b">M</hi>es se ge gitai une pierre por deffendre moi de mon aver<pb n="f. 1c"/>saire et ge ne feri pas lui mes .i.
                           <expan>trespassa<ex>n</ex>t</expan> : ge sui tenuz par l’action de ceste loi. car il m’estuet otroier a ferir celui seul qui force me fesoit. <hi rend="b">E</hi>t se gel fesoit por moi deffendre tant seulement.
                           <expan><ex>et</ex></expan> non pas por vengier moi.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.46"><label>[9.2.46]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.46"><label>[9.2.46]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">S</hi>e l’en a pledié par la loi qui fet restorer les damages por .i. serf qui a esté navrez. se il muert aprés de cele plaie <label>[9.2.47]</label> Juliens dit que se li pris del sers fu paiez a son seignor el premier plet. <expan><ex>et</ex></expan> il en velt plus pledier come por son sers ocis : excepcion de tricherie te nuira si que il n’avra riens plus de l’un plet
                           <expan><ex>et</ex></expan> de l’autre
                           <expan>q<ex>ue</ex></expan> il peust avoir eu s’il eust pledié de le
                           <expan><ex>com</ex>me<ex>n</ex>cement</expan> come de sers ocis.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.48"><label>[9.2.48]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.48"><label>[9.2.48]</label>
                           <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e uns sers fist damage an la chose de l’eritage ainz que li sers fust receuz.
                           <expan><ex>et</ex></expan> aprés
                           <expan>q<ex>ua</ex>nt</expan> il est franchiz se il fet aprés damage es choses de l’eritage : il est tenuz par ceste loi por l’un damage et por l’autre.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.49"><label>[9.2.49]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.49"><label>[9.2.49]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e aucuns fet fumee tant qu’il chace autrui ou <expan>q<ex>ue</ex></expan> il les ocit : il semble mielz qu’il lor ait doné cause de mort que il les ait ocis : il semble mielz qu’il lor ait doné cause de mort que il les ait ocis. <expan><ex>et</ex></expan> por ce sera il tenuz par action sor le fet. ¶
                           <label>[1]</label>
@@ -8407,9 +8407,9 @@
                           <hi rend="b">S</hi>icome Celsus dit de celui qui abat la meson son voisin por trenchier le feu qu’il n’arde sa meson. car lors dit Celsus que l’action de ceste loi cesse <expan>q<ex>ua</ex>nt</expan> il avoit droit que il avoit peor <expan>q<ex>ue</ex></expan> li feus ne venist en sa meson. <expan><ex>et</ex></expan> por ce abati il a son voisin. <hi rend="b">E</hi>t q<hi rend="b">ue</hi> que li feus feist ou il ala jusqu’a sa meson
                           <pb n="f. 1d"/> ou s’il fu estainz : il dit
                           <expan>q<ex>ue</ex></expan> l’action de ceste loi cesse.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.50"><label>[9.2.50]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.50"><label>[9.2.50]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">C</hi>il qui despeça autrui meson malgré a celui qui ele estoit <expan><ex>et</ex></expan> i fist bainz. il est tenuz par l’action de ceste loi. por le damage. par desus la naturel droiture. par quoi cil qui a le fonz de la terre doit avoir ce qui est fet seur sa terre.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.2.51"><label>[9.2.51]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.2.51"><label>[9.2.51]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">U</hi>ns hons navra si .i. serf que l’en savoit certainement que il morroit de cele plaie. <hi rend="b">a</hi>prés avint que cil sers fu fez hoirs d’un heritage. <expan><ex>et</ex></expan> puis le feri uns autres si qu’il morut
                           <expan>mai<ex>n</ex>tenanz</expan> de cel coup. Ge demant se l’en puet pledier <expan>p<ex>ar</ex></expan> ceste loi a l’un <expan><ex>et</ex></expan> a l’autre come por home ocis. <hi rend="b">E</hi>t la response est que l’en dit <expan><ex>com</ex>munem<ex>en</ex>t</expan> que cil ocit home qui li done cause de mort en
                           <expan>quelq<ex>ue</ex></expan> maniere. mes cil sanz plus est tenuz par ceste loi qui par force
@@ -8424,19 +8424,19 @@
                       </div>
                       <div type="edition" n="2" xml:id="leiden_meijers_fr3.D.9.3">
                         <head>D. 9.3.5-9.4.8</head>
-                        <p xml:id="leiden_meijers_fr3.D.9.3.5"><label>[9.3.5]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.3.5"><label>[9.3.5]</label>
                           <pb n="f. 2a"/> ... mes ele n’apartient pas contre l’oir. car ele est por peine.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.3.6"><label>[9.3.6]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.3.6"><label>[9.3.6]</label>
                           <hi rend="b">P</hi>aulus dit. <hi rend="b">L</hi>abeo escrist que cist banissemenz n’apartient pas as citez <expan><ex>et</ex></expan> as viles
                           <expan>ta<ex>n</ex>t</expan> seulement. mes as voies par quoi la gent vont comunement. <hi rend="b">E</hi>t se aucune chose qui face damage est gitee d’une nef profitable action en sera donee contre celui qui est mestres de la nef.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.3.7"><label>[9.3.7]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.3.7"><label>[9.3.7]</label>
                           <hi rend="b">G</hi>aius dit. <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> li cors d’un franc home est bleciez par ce qui a esté gitez ou espandu d’une meson : li juges doit proisier les loiers qui ont esté doné as mires por garir le.
                           <expan><ex>et</ex></expan> les autres despenses qui i ont esté fetes. <expan><ex>et</ex></expan> sa besoigne que il en a perdue. <expan><ex>et</ex></expan> qu’il en perdra. mes li enledissemenz de son cors ne sera pas proisiez. car cors frans ne puet estre proisiez.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.1"><label>[9.4]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.1"><label>[9.4]</label>
                           <emph n="rubrique">Des actions qui sont meues contre les meffez as sers.</emph>
                           <label>[9.4.1]</label>
                           <hi rend="b">G</hi>aius dit. <hi rend="b">A</hi>ctions de meffet sont apelees celes qui ne sont pas meues contre nos por marchiez. mes por le meffez a noz sers. <hi rend="b">E</hi>t la droiture de cez actions est que cil qui en est condapnez se puet delivrer de tout le comandement por abandoner le serf qui a fet le meffet. </p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.2"><label>[9.4.2]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.2"><label>[9.4.2]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e uns sers a fet damage par le seu de son seignor : li sires est tenuz a restorer le tout enterinement car il semble que il meismes l’ait fet. mes se li sers le fist sanz le seu son seigneur. li sires se puet <expan>deliv<ex>re</ex>r</expan> por abandoner le serf. car plus ne li puet l’en pas demander del meffet au serf. fors qu’il soit tenuz a abandoner le. ¶
                           <label>[1]</label>
@@ -8449,10 +8449,10 @@
                           <hi rend="b">M</hi>es la loi qui fet restorer les damages a merci del serf qui obeist a son seignor por ce qu’il le doute. car autrement ne feist il pas ce que il fet. <hi rend="b">M</hi>es ce
                           <expan>q<ex>ue</ex></expan> Juliens escrist nos plest qui dist <expan>q<ex>ue</ex></expan> se uns sers a fet .i. larrecin ou .i. autre meffet il puet apartenir a la derreniere loi. mes l’en en puet pledier au seignor por abandoner le serf. si que ce que l’action de la loi qui fet restorer les damages est donee contre le seignor que il n’escuse pas le serf. ainz grieve le seignor.
                           <expan><ex>et</ex></expan> ceste sentence est resnable.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.3"><label>[9.4.3]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.3"><label>[9.4.3]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">E</hi>n toutes les actions qui sont meues por les meffez as sers en quoi l’en fet mencion del seu au seignor. l’en doit einsi entendre se li sires pot deffendre que li sers ne meffeist.
                           <expan><ex>et</ex></expan> il ne le deffendi pas. <hi rend="b">A</hi>utre chose est de doner autorité au serf qui meffet que de soffrir <expan>q<ex>ue</ex></expan> il mefface.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.4"><label>[9.4.4]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.4"><label>[9.4.4]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[pr.]</label>
                           <hi rend="b">L</hi>’en demande coment li seuz au seignor doit estre entendu el meffet as sers. ou
                           <expan>q<ex>ua</ex>nt</expan> li sires li done conseil de meffe<pb n="f. 2c"/>re ou
@@ -8465,14 +8465,14 @@
                           <expan><ex>et</ex></expan> il dit que les sers a meffet par son seu <expan><ex>et</ex></expan> li sires respont <expan>q<ex>ue</ex></expan> il ne le sot onques. se il est assols de cel plet <expan><ex>et</ex></expan> li demanderres velt puis pledier a lui qu’il soit contrainz d’<expan>aba<ex>n</ex>doner</expan> le serf por son meffet : il sera mis arrieres par excepcion de chose jugiee car la cause fu finee el premier plet. <hi rend="b">M</hi>es tant que li premiers plez duroit se li demanderres se repentist de ce que il avoit proposé que li meffez avoit esté fez par le seu au seignor : lors puet il lessier cele cause. <expan><ex>et</ex></expan>
                           <expan>req<ex>ue</ex>rre</expan> que li sires soit contrainz ou d’amender le mesfet ou d’abandoner le serf. Autresi est il se il pleda premierement el non del serf.
                           <expan><ex>et</ex></expan> il <pb n="f. 2d"/> vuelt aprés dire que li meffez fu fez par le seu au seignor. il puet bien muer sa plainte avant que la sentence ait esté donee.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.5"><label>[9.4.5]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.5"><label>[9.4.5]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e li sers qui est soumis a plusors meffet sans le seu a nul d’els. action sera donee el non del serf <expan><ex>co</ex>ntre</expan> lequel que l’en voldra. <hi rend="b">E</hi>t se il meffet au seu de toz l’en en porra pledier a chacun en son non. autresi come se chascun eust meffet. Et se l’en en plede a l’un <expan><ex>et</ex></expan> li autre ne sont pas encore delivre. mes li uns le sot
                           <expan><ex>et</ex></expan> li autres ne le sot pas : cil qui le sot sera trez en cause en son non. <hi rend="b">E</hi>t cil qui ne le sot pas sera trez el non au serf. <label>[1]</label> Il a difference entre tez actions. non pas tant solement que cil qui sot le meffet est tenuz a restorer tout le domage. mes tele que se il vent le serf ou il le franchist. ou se li sers muert li sires sera tenuz a respondre del meffet. mes se li sires muert li hoirs n’i sera pas tenuz.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.6"><label>[9.4.6]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.6"><label>[9.4.6]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">M</hi>es li sers i sera tenuz
                           <expan>ap<ex>ré</ex>s</expan> ce qu’il sera franchiz.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.7"><label>[9.4.7]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.7"><label>[9.4.7]</label>
                           <hi rend="b">C</hi>il meismes dit.
                           <label>[pr.]</label>
                           <hi rend="b">M</hi>es action por le meffet a mon serf n’est pas donee contre moi el
@@ -8482,7 +8482,7 @@
                           <expan><ex>et</ex></expan> mes hoirs i sera tenuz tant come li sers vivra.</p>
                         <p><label>[9.4.7.1]</label>
                           <hi rend="b">P</hi>omponius dit. <hi rend="b">S</hi>e cil qui achate .i. serf est trez en cause por le meffet au serf. li vendierres par qui seu il le fist n’en porra pas <expan>est<ex>re</ex></expan> trez en cause.</p>
-                        <p xml:id="leiden_meijers_fr3.D.9.4.8"><label>[9.4.8]</label>
+                        <p xml:id="leiden_meijers_fr3-D.9.4.8"><label>[9.4.8]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">S</hi>e li serf qui est comun a plusors fet .i. larrecin chascuns de ses seignors est tenuz par ceste action. si que nus d’els ne se puet deffendre qu’il n’ament tout le meffet. se il abandone tout le serf. <hi rend="b">N</hi>e il ne doit pas estre oïz se il en velt abandoner sa part tant seulement. mes se il est
                           <expan>conda<ex>m</ex>pnez</expan> a abandonner tout le meffet.</p>
                       </div>
@@ -9875,7 +9875,7 @@
                           <expan><ex>com</ex>m<ex>en</ex>cent</expan> a espondre. sanz metre devant point de prologue Car se ge ne sui deceuz. li prologue nous amainent. a lire la matire. qui
                           <expan><ex>est</ex></expan> proposee
                           <expan><ex>et</ex></expan> la nos font entendre plus legierement</p>
-                        <p xml:id="fr_495.D.I.2.2"><label>[I.2.2]</label>
+                        <p xml:id="fr_495-D.I.2.2"><label>[I.2.2]</label>
                           <hi rend="b">P</hi>ompoins dit.
                           <label>[pr.]</label>
                           <hi rend="b">I</hi>l nos semble
@@ -10409,7 +10409,7 @@
                       </div>
                       <div type="edition" n="2" xml:id="fr_495.D.9.2">
                         <head>D.9.2.40-51</head>
-                        <p xml:id="fr_495.D.9.2.40"><label>[9.2.40]</label>
+                        <p xml:id="fr_495-D.9.2.40"><label>[9.2.40]</label>
                           <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e ge di <expan>q<ex>ue</ex></expan> ¶ L’oste<note xml:id="fr_495_note_2" place="bottom"><app>
                             <rdg wit="#E"/>
                             <rdg wit="#A #F">l’oste <hi rend="i">om.</hi></rdg>
@@ -10434,7 +10434,7 @@
                             </rdgGrp>
                             <rdg wit="#F">paier moi rien</rdg>
                           </app></note> riens.</p>
-                        <p xml:id="fr_495.D.9.2.41"><label>[9.2.41]</label>
+                        <p xml:id="fr_495-D.9.2.41"><label>[9.2.41]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e aucuns efface .i. testament voions se l’action de la loy <expan>q<ex>ui</ex></expan> fet restourer les domaiges i a
                           <note place="bottom" xml:id="fr_495_note_5"><app>
@@ -10491,7 +10491,7 @@
                           <expan>larreci<ex>n</ex></expan>
                           <expan>q<ex>a</ex>r</expan> il couvenist
                           <expan>q<ex>ue</ex></expan> li cuers fust o le fet</p>
-                        <p xml:id="fr_495.D.9.2.42"><label>[9.2.42]</label>
+                        <p xml:id="fr_495-D.9.2.42"><label>[9.2.42]</label>
                           <hi rend="b">U</hi>lpians dit <hi rend="b">C</hi>il <expan>q<ex>ui</ex></expan> les tables del testament <expan>q<ex>ui</ex></expan> li estoient bailliees a garder esface. si <expan>q<ex>ue</ex></expan> eles ne pueent estre levees il <expan><ex>est</ex></expan> tenuz par action de chose bailliee en garde ou de fere la chose<note place="bottom" xml:id="fr_495_note_14"><app>
                             <rdg wit="#F">chose venir avant cil qui rent la chose</rdg>
                             <rdg wit="#A #B #E"><hi rend="i">om.</hi> venir avant cil qui rent la chose <supplied>saut du même au même</supplied></rdg>
@@ -10508,7 +10508,7 @@
                             <rdg wit="#B #F #E">corrompu</rdg>
                             <rdg wit="#A">corpu</rdg>
                           </app></note> les tables del testament qui les a esfaciees par leus</p>
-                        <p xml:id="fr_495.D.9.2.43"><label>[9.2.43]</label>
+                        <p xml:id="fr_495-D.9.2.43"><label>[9.2.43]</label>
                           <hi rend="b">P</hi>omponius dit <hi rend="b">L</hi>i hoirs <expan>av<ex>ra</ex></expan> l’<expan>actio<ex>n</ex></expan> de ceste loy por le domaige qui fu fez en l’eritaige. ainz
                           <expan>q<ex>ue</ex></expan> il le receust se li domaiges a esté fez <expan>ap<ex>ré</ex>s</expan> la mort. a celui a qui il <expan><ex>est</ex></expan> hoirs. tu ne porras pas pleidier <expan>p<ex>ar</ex></expan> ceste action. qant tu seras revenuz de chetivoison. por le domaige <expan>q<ex>ui</ex></expan> te fu fez el
                           <expan>te<ex>n</ex>s</expan>
@@ -10524,7 +10524,7 @@
                             <rdg wit="#E">a. le d.</rdg>
                             <rdg wit="#A #B #F">a. li d.</rdg>
                           </app></note> desfendist se il le seust</p>
-                        <p xml:id="fr_495.D.9.2.44"><label>[9.2.44]</label><hi rend="b">U</hi>lpians dit <label>[pr.]</label>
+                        <p xml:id="fr_495-D.9.2.44"><label>[9.2.44]</label><hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">T</hi>res legiere corpe
                           <expan>vie<ex>n</ex>t</expan> en la loy
                           <expan>q<ex>ui</ex></expan> fet restourer les domages <label>[1]</label> toutes les foiz
@@ -10537,7 +10537,7 @@
                             <rdg wit="#A #B #F">ne soit</rdg>
                           </app></note> soit tenuz par ceste
                           <expan>actio<ex>n</ex></expan></p>
-                        <p xml:id="fr_495.D.9.2.45"><label>[9.2.45]</label>
+                        <p xml:id="fr_495-D.9.2.45"><label>[9.2.45]</label>
                           <hi rend="b">P</hi>aulus dit <label>[pr.]</label>
                           <hi rend="b">N</hi>os apelons ci le seu por la soffrance. si <expan>q<ex>ue</ex></expan> cil qui pot desfendre le domaige <expan>q<ex>ue</ex></expan> sers<note place="bottom" xml:id="fr_495_note_22"><app>
                             <rdg wit="#E">que sers</rdg>
@@ -10587,7 +10587,7 @@
                           </app></note> se gel feisoiee por moy desfendre tant
                           <expan>seulem<ex>en</ex>t</expan>
                           <expan><ex>et</ex></expan> non pas por vengier moy.</p>
-                        <p xml:id="fr_495.D.9.2.46"><label>[9.2.46]</label>
+                        <p xml:id="fr_495-D.9.2.46"><label>[9.2.46]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">S</hi>e l’en a pleidié <expan>p<ex>ar</ex></expan> la loy qui fet restourer les domaiges por .i. serf
                           <expan>q<ex>ui</ex></expan>
                           <expan><ex>est</ex></expan> navrez<note xml:id="fr_495_note_29" place="bottom"><app>
@@ -10610,7 +10610,7 @@
                           </app></note> nuira. si <expan>q<ex>ue</ex></expan> il n’avra riens plus de l’un plet <expan><ex>et</ex></expan> de l’autre <expan>q<ex>ue</ex></expan> il peust avoir eu se il eust pleidié dés le
                           <expan><ex>com</ex>mencem<ex>en</ex>t</expan>
                           <expan><ex>com</ex>me</expan> de serf ocis</p>
-                        <p xml:id="fr_495.D.9.2.48"><label>[9.2.48]</label>
+                        <p xml:id="fr_495-D.9.2.48"><label>[9.2.48]</label>
                           <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e .i. serf fist domaige en la chose de l’eritaige. ainz que <pb n="f. 117b"/> li sers<note xml:id="fr_495_note_33" place="bottom"><app>
                             <rdg wit="#A #B #E">li sers f.</rdg>
                             <rdg wit="#F">li heritages f.</rdg>
@@ -10623,7 +10623,7 @@
                           </app></note> domaige es choses de l’eritaige il
                           <expan><ex>est</ex></expan> tenuz
                           <expan>p<ex>ar</ex></expan> ceste loy. por l’un domaige <expan><ex>et</ex></expan> por l’autre ;</p>
-                        <p xml:id="fr_495.D.9.2.49"><label>[9.2.49]</label>
+                        <p xml:id="fr_495-D.9.2.49"><label>[9.2.49]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e aucuns fet fumee tant
                           <expan>q<ex>ue</ex></expan> il enchace<note xml:id="fr_495_note_35" place="bottom"><app>
@@ -10695,7 +10695,7 @@
                       </div>
                       <div type="edition" n="3" xml:id="fr_495.D.9.3">
                         <head>D. 9.3.5-9.4</head>
-                        <p xml:id="fr_495.D.9.3.5"><label>[9.3.5]</label>
+                        <p xml:id="fr_495-D.9.3.5"><label>[9.3.5]</label>
                           <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">S</hi>e plusors
                           <expan>habite<ex>n</ex>t</expan>
@@ -10801,7 +10801,7 @@
                           <expan><ex>con</ex>tre</expan> l’oir
                           <expan>q<ex>a</ex>r</expan> ele
                           <expan><ex>est</ex></expan> por painne;</p>
-                        <p xml:id="fr_495.D.9.3.6"><label>[9.3.6]</label>
+                        <p xml:id="fr_495-D.9.3.6"><label>[9.3.6]</label>
                           <label>[pr.]</label>
                           <hi rend="b">P</hi>aulus dit : <hi rend="b">L</hi>abeo <expan>esc<ex>ri</ex>pt</expan>
                           <expan>q<ex>ue</ex></expan> cist
@@ -10819,7 +10819,7 @@
                           <expan>co<ex>n</ex>tre</expan> celui
                           <expan>q<ex>ui</ex></expan>
                           <expan><ex>est</ex></expan> mestres. de la nef.</p>
-                        <p xml:id="fr_495.D.9.3.7"><label>[9.3.7]</label>
+                        <p xml:id="fr_495-D.9.3.7"><label>[9.3.7]</label>
                           <hi rend="b">G</hi>aius dit : <hi rend="b">Q</hi>uant li cors d’un franc homne
                           <expan><ex>est</ex></expan> bleciez
                           <expan>p<ex>ar</ex></expan> ce qui i a<note place="bottom" xml:id="fr_495_note_49"><app>
@@ -10837,7 +10837,7 @@
                           <expan><ex>et</ex></expan>
                           <expan>q<ex>ue</ex></expan> il em perdra. mes li enleidissemenz de son cors. ne sera pas proisiez.
                           <expan>q<ex>a</ex>r</expan> cors frans ne puet estre proisiez.</p>
-                        <p xml:id="fr_495.D.9.4.0"><label>[9.4.0]</label>
+                        <p xml:id="fr_495-D.9.4.0"><label>[9.4.0]</label>
                           <emph n="rubrique">Des <expan>actio<ex>n</ex>s</expan>
                             <expan>q<ex>ui</ex></expan> sont menees pour les mesfez aus sers</emph>
                           <label>[9.4.1]</label>
@@ -10852,7 +10852,7 @@
                           <expan><ex>est</ex></expan>
                           <expan><ex>com</ex>dempnez</expan> se puet delivrer. de tout le
                           <expan><ex>com</ex>m<ex>en</ex>dem<ex>en</ex>t</expan> por abandoner le serf <expan>q<ex>ui</ex></expan> a fet le mesfet.</p>
-                        <p xml:id="fr_495.D.9.4.2"><label>[9.4.2]</label>
+                        <p xml:id="fr_495-D.9.4.2"><label>[9.4.2]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">S</hi>E .i. sers a fet domaige par le seu de son seingnor. li sires <expan><ex>est</ex></expan> tenuz. a restourer. le tot <expan>enterineme<ex>n</ex>t</expan>
                           <expan>q<ex>a</ex>r</expan> il semble
                           <expan>q<ex>ue</ex></expan> il meismes l'ait fet. mes se li sers le fist sanz le seu son seingnor li sires se puet. delivrer por abandoner le serf. quar plus. ne li puet l'en pas demander del mesfet au serf. fors
@@ -10922,7 +10922,7 @@
                           <expan>do<ex>n</ex>nee</expan>
                           <expan><ex>con</ex>tre</expan> le seingnor
                           <expan>q<ex>ue</ex></expan> il n'escuse pas le serf. ainz grieve le seingnor <expan><ex>et</ex></expan> ceste sentence <expan><ex>est</ex></expan> resnable</p>
-                        <p xml:id="fr_495.D.9.4.3"><label>[9.4.3]</label>
+                        <p xml:id="fr_495-D.9.4.3"><label>[9.4.3]</label>
                           <hi rend="b">C</hi>il meismes dit <hi rend="b">E</hi>n toutes les <expan>actio<ex>n</ex>s</expan>
                           <expan>q<ex>ui</ex></expan> sont meüees por les mesfez aus sers en quoi l'en fet mencion del seu au seingneur. l'en le doit<note xml:id="fr_495_note_62" place="bottom"><app>
                             <rdg wit="#B">l’en doit einsi</rdg>
@@ -10932,7 +10932,7 @@
                           <expan><ex>et</ex></expan> il ne le desfendi pas. autre chose est de <expan>don<ex>er</ex></expan> actorité au serf <expan>q<ex>ui</ex></expan> mesfet
                           <expan>q<ex>ue</ex></expan> de sosfrir
                           <expan>q<ex>ue</ex></expan> il mesface</p>
-                        <p xml:id="fr_495.D.9.4.4"><label>[9.4.4]</label>
+                        <p xml:id="fr_495-D.9.4.4"><label>[9.4.4]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[pr.]</label>
                           <hi rend="b">L</hi>'En demande
                           <expan><ex>com</ex>m<ex>en</ex>t</expan> li seuz au seingnor doit estre <expan>e<ex>n</ex>tendu</expan> el mesfet au serf. ou qant li sires li
@@ -11022,7 +11022,7 @@
                             <rdg wit="#B #E #A">p. avant que la</rdg>
                           </app></note> la sentence ait esté
                           <expan>do<ex>n</ex>nee</expan></p>
-                        <p xml:id="fr_495.D.9.4.5"><label>[9.4.5]</label>
+                        <p xml:id="fr_495-D.9.4.5"><label>[9.4.5]</label>
                           <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">E</hi>t<note place="bottom" xml:id="fr_495_note_78"><app>
                             <rdg wit="#B #A #F">Se li s.</rdg>
@@ -11066,7 +11066,7 @@
                           </app></note> i sera tenuz
                           <expan>ap<ex>ré</ex>s</expan>
                           <pb n="f. 120b"/> ce <expan>q<ex>ue</ex></expan> il sera franchiz</p>
-                        <p xml:id="fr_495.D.9.4.7"><label>[9.4.7]</label>
+                        <p xml:id="fr_495-D.9.4.7"><label>[9.4.7]</label>
                           <hi rend="b">C</hi>il meismes dit
                           <label>[pr.]</label>
                           <hi rend="b">A</hi>ction<note place="bottom" xml:id="fr_495_note_87"><app>
@@ -11088,7 +11088,7 @@
                             <rdg wit="#F">qui a achaté</rdg>
                             <rdg wit="#E #B #A">qui achate</rdg>
                           </app></note> .i. serf <expan><ex>est</ex></expan> trez en cause <expan>p<ex>or</ex></expan> le mesfet au serf li vendierres par cui seu il le fist n'en porra pas estre trez <expan>e<ex>n</ex></expan> cause</p>
-                        <p xml:id="fr_495.D.9.4.8"><label>[9.4.8]</label>
+                        <p xml:id="fr_495-D.9.4.8"><label>[9.4.8]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">S</hi>e li sers
                           <expan>q<ex>ui</ex></expan>
                           <expan><ex>est</ex></expan>
@@ -11137,7 +11137,7 @@
                           <expan>p<ex>ar</ex></expan> l'action de
                           <expan>p<ex>ar</ex>tir</expan> choses
                           <expan><ex>com</ex>munes</expan>. li apartient</p>
-                        <p xml:id="fr_495.D.9.4.9"><label>[9.4.9]</label>
+                        <p xml:id="fr_495-D.9.4.9"><label>[9.4.9]</label>
                           <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e li sers <expan>q<ex>ui</ex></expan> estoit conmuns a plusors fist .i. larrecin. au seu a l'un des seingnors. cil <expan>q<ex>ui</ex></expan> le sot sera tenuz. a respondre en por touz les autres Et se il en
                           <expan><ex>est</ex></expan> trez en cause. li autre sont delivre. ne il n'en puet riens
                           <expan>dem<ex>an</ex>der</expan> a l'un des autres
@@ -11146,14 +11146,14 @@
                           <expan>q<ex>ui</ex></expan> ne sot pas le mesfet en paia le double. il ne recouverra seur
                           <expan>so<ex>n</ex></expan>
                           <expan><ex>con</ex>paingnon</expan>. fors le simple</p>
-                        <p xml:id="fr_495.D.9.4.10"><label>[9.4.10]</label>
+                        <p xml:id="fr_495-D.9.4.10"><label>[9.4.10]</label>
                           <hi rend="b">C</hi>il meismes dit. <expan><hi rend="b">Q</hi><ex>ui</ex></expan> porra pleidier a son <expan><ex>con</ex>paingnon</expan> porce
                           <expan>q<ex>ue</ex></expan> il empira le serf qui estoit <expan><ex>com</ex>muns</expan> a eus d’eus. autresin <expan><ex>com</ex>me</expan> il peust pleidier a .i. autre <expan>q<ex>ui</ex></expan> eust empirié la chose <expan><ex>com</ex>mune</expan>
                           <expan><ex>et</ex></expan> se nulle chose ne lor remest
                           <expan><ex>com</ex>mune</expan>. qant li uns avra abandonné le serf por son mesfet le porra pleidier par action de <expan><ex>con</ex>pa<ex>in</ex>gnie</expan> ou par action. seur le fet. se il ne
                           <expan>fur<ex>en</ex>t</expan> pas
                           <expan><ex>con</ex>pa<ex>in</ex>gnon</expan></p>
-                        <p xml:id="fr_495.D.9.4.11"><label>[9.4.11]</label>
+                        <p xml:id="fr_495-D.9.4.11"><label>[9.4.11]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">S</hi>e .i. serf fet .i.
                           <expan>larrec<ex>in</ex></expan> cil
                           <expan>q<ex>ui</ex></expan> le porsiet
@@ -11164,7 +11164,7 @@
                           <expan><ex>et</ex></expan> se ses sires le
                           <expan><ex>com</ex>m<ex>en</ex>ce</expan> aprés a chalangier il sera mis arriere par excepcion de tricherie. ou il gaaingnera par l’office au juge
                           <expan>q<ex>ue</ex></expan> il en soit gardez de domaige</p>
-                        <p xml:id="fr_495.D.9.4.12"><label>[9.4.12]</label>
+                        <p xml:id="fr_495-D.9.4.12"><label>[9.4.12]</label>
                           <hi rend="b">P</hi>aulus dist. <hi rend="b">S</hi>e cil <expan>q<ex>ui</ex></expan> porseoit .i. serf par bone foy le lesse que l’en ne puisse pleidier a lui por le mesfet au serf il est obligiez par l’action
                           <expan>q<ex>ui</ex></expan>
                           <expan><ex>est</ex></expan>
@@ -11175,7 +11175,7 @@
                           <expan>q<ex>a</ex>r</expan> parce
                           <expan>s<ex>em</ex>ble</expan> il
                           <expan>q<ex>ue</ex></expan> il le porsiee encore !</p>
-                        <p xml:id="fr_495.D.9.4.13"><label>[9.4.13]</label>
+                        <p xml:id="fr_495-D.9.4.13"><label>[9.4.13]</label>
                           <hi rend="b">G</hi>aius dit. <hi rend="b">A</hi>ction <expan><ex>est</ex></expan>
                           <expan>d<ex>on</ex>nee</expan>. pour le mesfet au serf
                           <expan><ex>et</ex></expan> non pas tant
@@ -11187,7 +11187,7 @@
                           <expan>q<ex>a</ex>r</expan> ce ne seroit pas bone chose <expan>q<ex>ue</ex></expan> cil qui le porsieent
                           <expan>p<ex>ar</ex></expan> bonne foy. fussent obligié par ceste action. <expan>et</expan> cil
                           <expan>q<ex>ui</ex></expan> porsieent par male foy fussent <expan>q<ex>ui</ex>te</expan></p>
-                        <p xml:id="fr_495.D.9.4.14"><label>[9.4.14]</label>
+                        <p xml:id="fr_495-D.9.4.14"><label>[9.4.14]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e pluseurs
                           <expan>trai<ex>en</ex>t</expan> .i.
@@ -11228,7 +11228,7 @@
                           <expan><ex>est</ex></expan> delivres. se il
                           <expan>aband<ex>on</ex>nent</expan> le serf a celui a qui il mesfist <expan><ex>et</ex></expan> ce
                           <expan><ex>est</ex></expan> voirs</p>
-                        <p xml:id="fr_495.D.9.4.16"><label>[9.4.16]</label>
+                        <p xml:id="fr_495-D.9.4.16"><label>[9.4.16]</label>
                           <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e li hoirs fist par
                           <expan>t<ex>ri</ex>cherie</expan>
                           <expan>q<ex>ue</ex></expan> il n’a pas en sa poosté celi a
@@ -11236,7 +11236,7 @@
                           <expan><ex>est</ex></expan> deue soz condicion. et il reçoit porce jugement. sanz
                           <expan>abandon<ex>er</ex></expan> le. Qant la condicion de la franchise sera <expan>a<ex>com</ex>pliee</expan>. il devra estre <expan><ex>con</ex>demnez</expan> autresin
                           <expan><ex>com</ex>me</expan> se li serf fust morz</p>
-                        <p xml:id="fr_495.D.9.4.17"><label>[9.4.17]</label>
+                        <p xml:id="fr_495-D.9.4.17"><label>[9.4.17]</label>
                           <hi rend="b">P</hi>aulus dit . <label>[pr.]</label>
                           <hi rend="b">S</hi>e .i. serf
                           <expan>q<ex>ui</ex></expan> a .ii. seingneurs mesfist au seu. de l’un <expan><ex>et</ex></expan>
@@ -11265,7 +11265,7 @@
                           <expan><ex>con</ex>dempnez</expan>
                           <expan><ex>et</ex></expan> tu
                           <expan>abando<ex>n</ex>nes</expan> le serf. ge ne t’en porrai riens demander</p>
-                        <p xml:id="fr_495.D.9.4.18"><label>[9.4.18]</label>
+                        <p xml:id="fr_495-D.9.4.18"><label>[9.4.18]</label>
                           <hi rend="b">P</hi>omponius dit. <hi rend="b">S</hi>e uns sers. a fet .i. larrecin. a celui
                           <expan>q<ex>ui</ex></expan> a en lui l’usaire il a action <expan><ex>con</ex>tre</expan>. le seingneur. autresin. <expan>co<ex>m</ex>me</expan> uns autres eust. mes se il fet a son <expan>sei<ex>n</ex>gneur</expan>. le larrecin. li sires. n’avra pas
                           <expan><ex>con</ex>tre</expan> celui. action.
@@ -11274,7 +11274,7 @@
                           <expan><ex>est</ex></expan> condempnez a celui
                           <expan>q<ex>ui</ex></expan> a l’usaire
                           <expan><ex>et</ex></expan> il li abandonne le serf il est delivres</p>
-                        <p xml:id="fr_495.D.9.4.19"><label>[9.4.19]</label>
+                        <p xml:id="fr_495-D.9.4.19"><label>[9.4.19]</label>
                           <hi rend="b">P</hi>aulus dist. <label>[pr.]</label>
                           <hi rend="b">S</hi>e uns sers fet domaige. en une chose <expan>q<ex>ui</ex></expan>
                           <expan><ex>est</ex></expan> commune a moy
@@ -11297,7 +11297,7 @@
                           <expan>q<ex>ue</ex></expan> il fist en la chose qui estoit <expan><ex>com</ex>mune</expan>! ¶
                           <label>[1]</label> Se li sires de la proprieté. a aloé les jornees. de son serf. en quoi nus autres. a l’usaire. se il <expan><ex>est</ex></expan> trez en cause. por le mesfet. a cel serf il le porra
                           <expan>abandon<ex>er</ex></expan></p>
-                        <p xml:id="fr_495.D.9.4.20"><label>[9.4.20]</label>
+                        <p xml:id="fr_495-D.9.4.20"><label>[9.4.20]</label>
                           <hi rend="b">G</hi>aius dit. <hi rend="b">S</hi>e cil qui pleide en divers tens por plusors mesfez <expan>q<ex>ue</ex></expan> uns sers li a fez
                           <expan><ex>et</ex></expan> a conquis la seingnorie. por .i. des mesfez. il n’avra puis nule action
                           <expan><ex>con</ex>t<ex>re</ex></expan> le seingneur
@@ -11306,7 +11306,7 @@
                           <expan>q<ex>a</ex>r</expan> l’action del mesfet. ensuit le maufeteeur. mes se li sires amenda el
                           <expan>p<ex>re</ex>mier</expan> plet. le mesfet
                           <expan>q<ex>ue</ex></expan> ses sers. avoit. fet. il sera <expan>ap<ex>ré</ex>s</expan> tenuz a respondre. ou a celui. meismes. ou a autre. se li sers li a mesfet</p>
-                        <p xml:id="fr_495.D.9.4.21"><label>[9.4.21]</label>
+                        <p xml:id="fr_495-D.9.4.21"><label>[9.4.21]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">T</hi>outes les foiz
                           <expan>q<ex>ue</ex></expan> li sires
@@ -11362,7 +11362,7 @@
                           <expan>p<ex>ro</ex>v<ex>er</ex></expan>
                           <expan>q<ex>ue</ex></expan> li sers
                           <expan><ex>com</ex>mençast</expan> a estre en la poosté au seingneur. aprés ce <expan>q<ex>ue</ex></expan> il ot fet le <expan>serrem<ex>en</ex>t</expan></p>
-                        <p xml:id="fr_495.D.9.4.22"><label>[9.4.22]</label>
+                        <p xml:id="fr_495-D.9.4.22"><label>[9.4.22]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e li sers. a
                           <expan>aucu<ex>n</ex></expan>
@@ -11400,11 +11400,11 @@
                           <expan><ex>et</ex></expan> se il l’emprent a
                           <expan>prov<ex>er</ex></expan>
                           <expan><ex>et</ex></expan> il ne le preuve il a perdu la cause</p>
-                        <p xml:id="fr_495.D.9.4.23"><label>[9.4.23]</label>
+                        <p xml:id="fr_495-D.9.4.23"><label>[9.4.23]</label>
                           <pb n="f. 121d"/><hi rend="b">P</hi>aulus dist.
                           <hi rend="b">M</hi>es se li sires
                           <expan><ex>com</ex>mence</expan> puis a avoir. le serf en sa poosté. Il sera tenuz por sa novele possession. ne excepcion de chose <expan>q<ex>ui</ex></expan> fu feite. devant. ne li vaudra riens!</p>
-                        <p xml:id="fr_495.D.9.4.26"><label>[9.4.26]</label>
+                        <p xml:id="fr_495-D.9.4.26"><label>[9.4.26]</label>
                           <label>[4]</label>
                           <hi rend="b">P</hi>aulus dit. <hi rend="b">S</hi>e li sers <expan>q<ex>ue</ex></expan> tu as. lessié a porseoir par tricherie muert ainz tu soiees trés en cause. por son mesfet tu ies delivres. mes il
                           <expan><ex>est</ex></expan>
@@ -11417,7 +11417,7 @@
                           <expan>q<ex>ue</ex></expan> il i est. se li plez n’estoit ja entamez contre toy.
                           <expan>q<ex>a</ex>r</expan> puis n’<expan>e<ex>n</ex></expan> devroies tu pas estre oïz si <expan><ex>com</ex>me</expan> Labeo dit. Mes octavenus dit. <expan>q<ex>ue</ex></expan> por aucune cause ce porroit l’en secorre. puis <expan>q<ex>ue</ex></expan> li plez sera <expan>e<ex>n</ex>tamez</expan> si
                           <expan><ex>com</ex>me</expan> se tu ies. de tel aaige <expan>q<ex>ue</ex></expan> tu doiees avoir restitucion.</p>
-                        <p xml:id="fr_495.D.9.4.27"><label>[9.4.27]</label>
+                        <p xml:id="fr_495-D.9.4.27"><label>[9.4.27]</label>
                           <hi rend="b">G</hi>aius dit. <label>[pr]</label>
                           <hi rend="b">S</hi>e plez
                           <expan><ex>est</ex></expan> meüz por le mesfet a .i. serf qui <expan><ex>est</ex></expan> tenuz en gaige ou en
@@ -11439,7 +11439,7 @@
                           <expan>q<ex>a</ex>r</expan> nus de cez n’en porroit baillier au demandeeur. la seingnoriee
                           <expan>q<ex>a</ex>r</expan> il ne l’ont pas. Neporqant se li sers <expan><ex>est</ex></expan> bailliez au demandeeur por cele cause <expan><ex>et</ex></expan> li sires le chalonge puis <expan><ex>et</ex></expan> il ne vuelt pas amender le mesfet il porra estre botez <pb n="f. 122a"/> arriere par excepcion. de
                           <expan>t<ex>ri</ex>cherie</expan>.</p>
-                        <p xml:id="fr_495.D.9.4.28"><label>[9.4.28]</label>
+                        <p xml:id="fr_495-D.9.4.28"><label>[9.4.28]</label>
                           <hi rend="b">A</hi>ffricans dit. <expan><hi rend="b">G</hi>eneralm<ex>en</ex>t</expan> se ge sui trez en cause por le mesfet. a autrui serf
                           <expan>q<ex>ui</ex></expan> me servoit par bone foy
                           <expan><ex>et</ex></expan> ge l’abandonne au demandeeur. se ses sires le change puis
@@ -11468,7 +11468,7 @@
                           <expan><ex>com</ex>mandem<ex>en</ex>t</expan> au
                           <expan>p<ex>re</ex>vost</expan>.
                           <expan>q<ex>a</ex>r</expan> en cel cas a il droite cause de porseoir le</p>
-                        <p xml:id="fr_495.D.9.4.29"><label>[9.4.29]</label>
+                        <p xml:id="fr_495-D.9.4.29"><label>[9.4.29]</label>
                           <hi rend="b">G</hi>aius dit. <hi rend="b">H</hi>ome se puet delivrer de l’action
                           <expan>q<ex>ui</ex></expan>
                           <expan><ex>est</ex></expan> meue
@@ -11476,9 +11476,9 @@
                           <expan><ex>et</ex></expan> il lesse en jugement. sanz desfendre mes en cest cas couvient il
                           <expan>q<ex>ue</ex></expan> il baut au demandeeur tel droiture <expan><ex>com</ex>me</expan> il i a. autresin <expan><ex>com</ex>me</expan> se il eust esté
                           <expan><ex>con</ex>dempnez</expan></p>
-                        <p xml:id="fr_495.D.9.4.30"><label>[9.4.30]</label>
+                        <p xml:id="fr_495-D.9.4.30"><label>[9.4.30]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">E</hi>s actions qui sont menees par les mesfez aus sers. la <expan>d<ex>ro</ex>iture</expan> a ceus qui sont hors del païs par bone foy. n’est pas corrompue. mes qant il seront revenu. il avront pooir. de desfendre soi pour bien <expan><ex>et</ex></expan> por loiauté se il sont seingnors aus sers. ou se il i ont aucune droiture si <expan><ex>com</ex>me</expan> cil a qui il sont engaigié. ou cil qui en ont l’usaire.</p>
-                        <p xml:id="fr_495.D.9.4.31"><label>[9.4.31]</label>
+                        <p xml:id="fr_495-D.9.4.31"><label>[9.4.31]</label>
                           <hi rend="b">P</hi>aulus dit. <hi rend="b">D</hi>e ce <expan>q<ex>ue</ex></expan> li
                           <expan>p<ex>re</ex>volz</expan> dit
                           <expan>q<ex>ue</ex></expan> se une mesniee. fet. i. larrecin. il en donra action en tel maniere
@@ -11498,7 +11498,7 @@
                           <expan>gard<ex>er</ex></expan>. au tens.
                           <expan>q<ex>ue</ex></expan> li larrecins fu fez savoir mon se toute la mesniee fu a .i. meismes. seingneur. <expan>q<ex>a</ex>r</expan> se cil qui estoient lors a plusors seingneurs.
                           <expan><ex>com</ex>mencent</expan> puis a estre a .i. Cist <expan>banissem<ex>en</ex>z</expan> n’i avra pas leu</p>
-                        <p xml:id="fr_495.D.9.4.32"><label>[9.4.32]</label>
+                        <p xml:id="fr_495-D.9.4.32"><label>[9.4.32]</label>
                           <hi rend="b">M</hi>alistratus dit. <hi rend="b">S</hi>e l’en dit
                           <expan>q<ex>ue</ex></expan> cil
                           <expan>q<ex>ui</ex></expan> est en autrui poosté. a fet .i. mesfet <expan><ex>et</ex></expan> il n’a qui le desfende. li demandierres l’en doit mener.
@@ -11509,15 +11509,15 @@
                           <expan><ex>et</ex></expan>
                           <expan>p<ex>ro</ex>metre</expan>
                           <expan>q<ex>ue</ex></expan> il n’i fera nule tricheriee</p>
-                        <p xml:id="fr_495.D.9.4.33"><label>[9.4.33]</label>
+                        <p xml:id="fr_495-D.9.4.33"><label>[9.4.33]</label>
                           <expan><hi rend="b">P</hi>omponi<ex>us</ex></expan>. dit. <hi rend="b">N</hi>us n’est <expan><ex>con</ex>trainz</expan> de desfendre malgré soi celui. <expan>q<ex>ui</ex></expan> a mesfet. mes se il est ses sers. <expan><ex>et</ex></expan> il ne le desfent il le <expan>p<ex>er</ex>t</expan>. mes se cil <expan>q<ex>ui</ex></expan> fist le mesfet
                           <expan><ex>est</ex></expan> frans
                           <expan><ex>et</ex></expan> il est en autrui poosté. il li doit estre ostroié sanz nule
                           <expan>dinstincio<ex>n</ex></expan>.
                           <expan>q<ex>ue</ex></expan> il meismes se desfende.</p>
-                        <p xml:id="fr_495.D.9.4.34"><label>[9.4.34]</label>
+                        <p xml:id="fr_495-D.9.4.34"><label>[9.4.34]</label>
                           <hi rend="b">J</hi>ulians dit. <hi rend="b">T</hi>outes les foiz <expan>q<ex>ue</ex></expan> uns ne desfent le fill qui <expan><ex>est</ex></expan> em baill qui <expan><ex>est</ex></expan> trez en cause por son mesfet. la sentence est <expan>do<ex>n</ex>nee</expan> contre lui</p>
-                        <p xml:id="fr_495.D.9.4.35"><label>[9.4.35]</label>
+                        <p xml:id="fr_495-D.9.4.35"><label>[9.4.35]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">E</hi>t se il <expan><ex>est</ex></expan>
                           <expan><ex>con</ex>dempnez</expan> il doit feire ce qui
                           <expan><ex>est</ex></expan> jugié.
@@ -11527,7 +11527,7 @@
                           <expan><ex>est</ex></expan>
                           <expan><ex>con</ex>dempnez</expan>. ses
                           <expan>p<ex>er</ex>es</expan> n’en doit estre trez en cause. fors por son chatel</p>
-                        <p xml:id="fr_495.D.9.4.37"><label>[9.4.37]</label>
+                        <p xml:id="fr_495-D.9.4.37"><label>[9.4.37]</label>
                           <expan><hi rend="b">T</hi>riphoni<ex>us</ex></expan> dit. <hi rend="b">S</hi>e autrui sers m’a fet larrecin
                           <expan><ex>et</ex></expan> il vient
                           <expan>ap<ex>ré</ex>s</expan> en ma seingnorie. l’action. de larrecin <expan>q<ex>ue</ex></expan> ge avoiee contre lui est estainte. des
@@ -11538,7 +11538,7 @@
                           <expan>q<ex>ue</ex></expan> ge achetay ainz
                           <expan>q<ex>ue</ex></expan> ge meusse plet de larrecin que il m’avoit fet l’action de larrecin <pb n="f. 122c"/> ne sera pas restouree. mes se ge l’achetai puis <expan>q<ex>ue</ex></expan> ge oi entamé le plet contre lui. Cil qui le vendi doit estre
                           <expan><ex>con</ex>dempnez</expan> a moy. pour le larrecin.</p>
-                        <p xml:id="fr_495.D.9.4.38"><label>[9.4.38]</label>
+                        <p xml:id="fr_495-D.9.4.38"><label>[9.4.38]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">A</hi>utresin
                           <expan><ex>com</ex>me</expan> se il l’eust vendu a .i. autre. <expan>q<ex>a</ex>r</expan> il a pou. de differance a <expan>q<ex>ui</ex></expan> il l’ait vendu. ou a son
@@ -11551,7 +11551,7 @@
                           <expan><ex>et</ex></expan> d’autre.
                           <expan>q<ex>a</ex>r</expan> tu empleideras. a moi por le larrecin que mes sers a fet
                           <expan><ex>et</ex></expan> ge empleiderai. a toi por les deniers <expan>q<ex>ue</ex></expan> tu li as estouz.</p>
-                        <p xml:id="fr_495.D.9.4.39"><label>[9.4.39]</label>
+                        <p xml:id="fr_495-D.9.4.39"><label>[9.4.39]</label>
                           <hi rend="b">J</hi>ulians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e li serf a plusors a fet .i. larrecin. <expan><ex>et</ex></expan> tuit ont fet par
                           <expan>t<ex>ri</ex>cherie</expan>
@@ -11574,17 +11574,17 @@
                           <expan>p<ex>ar</ex></expan> tricherie.
                           <expan>q<ex>ue</ex></expan> il n’a pas. son serf en sa poosté. <expan><ex>et</ex></expan> li sires dit
                           <expan>q<ex>ue</ex></expan> uns autres desfent le serf qui a <expan>do<ex>n</ex>né</expan> caucion por lui. excepcion. de tricherie i avra leu</p>
-                        <p xml:id="fr_495.D.9.4.40"><label>[9.4.40]</label>
+                        <p xml:id="fr_495-D.9.4.40"><label>[9.4.40]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">S</hi>e li sers <expan>q<ex>ue</ex></expan> li sires lessa en son <expan>testam<ex>en</ex>t</expan>. a aucun emble <pb n="f. 122d"/> aucune des choses a celui
                           <expan>q<ex>ui</ex></expan> doit estre oirs qant. cil a qui il fu lessiez l’avra receus. li hoir porra pleidier a lui par accion. de larrecin el non del serf. mes se li sers embla chose qui fust de l’eritaige. l’action. de larrecin. Cessera. mes li hoirs porra pleidier. a celui <expan>q<ex>ui</ex></expan> a le serf par action de feire. la chose venir avant.</p>
-                        <p xml:id="fr_495.D.9.4.41"><label>[9.4.41]</label>
+                        <p xml:id="fr_495-D.9.4.41"><label>[9.4.41]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">Q</hi>uant li sers qui est
                           <expan><ex>com</ex>muns</expan> a pluseurs fet domaige a .i. de ses seingneurs par tort fet l’<expan>actio<ex>n</ex></expan> doit estre
                           <expan>q<ex>ui</ex></expan> fet restorer les domaiges. <expan>q<ex>a</ex>r</expan> se il eust fet a .i. estrange le domaige. cil em peust pleidier. a .i. de ses seingneurs por tout le domaige. <expan><ex>et</ex></expan> autresin. se li <expan>s<ex>er</ex>s</expan> qui
                           <expan><ex>est</ex></expan>
                           <expan><ex>com</ex>muns</expan> fet .i. larrecin. a .i. de ses seingneurs. cil n’em puet pas pleidier a l’autre par action. de larrecin. mes action. de partir choses
                           <expan><ex>com</ex>munes</expan> i a leu</p>
-                        <p xml:id="fr_495.D.9.4.42"><label>[9.4.42]</label> Ulpians dit. <label>[pr.]</label> Se plez <expan><ex>est</ex></expan> meuz
+                        <p xml:id="fr_495-D.9.4.42"><label>[9.4.42]</label> Ulpians dit. <label>[pr.]</label> Se plez <expan><ex>est</ex></expan> meuz
                           <expan><ex>con</ex>tre</expan> aucuns. por le mesfet a son serf. <expan><ex>et</ex></expan> li sers pleide a lui pour estre frans. l’en doit metre en sosfrance. le plet del mesfet. tant <expan>q<ex>ue</ex></expan> cil de la franchise soit finez. <expan><ex>et</ex></expan> se
                           <expan>sente<ex>n</ex>ce</expan>
                           <expan><ex>est</ex></expan>
@@ -11601,7 +11601,7 @@
                           <expan><ex>et</ex></expan> ont leu. tant
                           <expan><ex>com</ex>me</expan> li sires a pooir. d’<expan>abandon<ex>er</ex></expan> le serf qui a mesfet. Ele. n’apartient pas tant seulement a vos. mes a noz hoirs <expan><ex>et</ex></expan> contre les hoirs. apartient ele mes ce est par la reison. de la seingnorie Et por ce se uns sers <expan><ex>est</ex></expan> venduz. li noviax sires puet estre trez en cause. por son mesfet
                           <expan><ex>et</ex></expan> pour la reson. de la seingnorie</p>
-                        <p xml:id="fr_495.D.9.4.43"><label>[9.4.43]</label>
+                        <p xml:id="fr_495-D.9.4.43"><label>[9.4.43]</label>
                           <hi rend="b">P</hi>omponius dit. <hi rend="b">L</hi>i sers de qui li mesfet ensuit le chief doivent estre desfendu la ou l’en dit
                           <expan>q<ex>ue</ex></expan> il mesfont. li sires doit donc amener ses sers avant el leu ou l’en dit
                           <expan>q<ex>ue</ex></expan> il ont fet force. Et se il <pb n="f. 123a"/> ne les desfent il em pert la seingnorie.</p>
@@ -12842,7 +12842,7 @@
                           <expan><ex>com</ex>ment</expan> a espondre sanz metre devant point de prologue. Qar se ge ne sui deceuz li prologue nos amainent a lire la matere qui est proposee.
                           <expan><ex>et</ex></expan> la nos font entendre plus
                           <expan>legierem<ex>en</ex>t</expan>.</p>
-                        <p xml:id="fr_20118.D.I.2.2"><label>[I.2.2]</label>
+                        <p xml:id="fr_20118-D.I.2.2"><label>[I.2.2]</label>
                           <hi rend="b">P</hi>omponius dit.
                           <label>[pr.]</label>
                           <hi rend="b">I</hi>l nos semble
@@ -13263,7 +13263,7 @@
                       </div>
                       <div type="edition" n="2" xml:id="fr_20118.D.9.2">
                         <head>D. 9.2.40-51</head>
-                        <p xml:id="fr_20118.D.9.2.40"><label>[9.2.40]</label>
+                        <p xml:id="fr_20118-D.9.2.40"><label>[9.2.40]</label>
                           <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e ge di <expan>q<ex>ue</ex></expan> aucuns m’a esfacié le cyrogrefe par quoi denier m’estoient deu souz
                           <expan>condicio<ex>n</ex></expan>
                           <expan><ex>et</ex></expan> ge le puis prover par tesmoinz
@@ -13272,7 +13272,7 @@
                           <expan><ex>et</ex></expan> cil qui esface le cyrogrefe ne sera condampnez a rendre moi nule chose devant
                           <expan>q<ex>ue</ex></expan> la condicion souz quoi li denier me sont deu sera acomplie
                           <expan><ex>et</ex></expan> se ele faut il ne sera tenuz a paier moi rien.</p>
-                        <p xml:id="fr_20118.D.9.2.41"><label>[9.2.41]</label>
+                        <p xml:id="fr_20118-D.9.2.41"><label>[9.2.41]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e aucuns efface .i. testament voions se l’action de la loi qui fet restorer les damages a leu <expan>co<ex>n</ex>tre</expan> lui
                           <expan><ex>et</ex></expan> Marceaus dit
@@ -13290,11 +13290,11 @@
                           <expan>q<ex>ue</ex></expan> il avient aucune foiz
                           <expan>q<ex>ue</ex></expan> cil qui efface les tables del <expan>testam<ex>en</ex>t</expan> n’est pas tenuz par action de larrecin mes par l’action de la loi qui fet restorer les damages si come se il ne les efface pas <pb n="f. 17’d"/> par corage de fere larrecin mes de fere damage tant <expan>seulem<ex>en</ex>t</expan>
                           <expan><ex>et</ex></expan> en cel cas n’est il pas tenuz par action de larrecin <expan>q<ex>ua</ex>r</expan> il covenist <expan>q<ex>ue</ex></expan> li cuers fust o le fet.</p>
-                        <p xml:id="fr_20118.D.9.2.42"><label>[9.2.42]</label>
+                        <p xml:id="fr_20118-D.9.2.42"><label>[9.2.42]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">C</hi>il qui les tables del testament qui li estoient bailliees a garder efface si
                           <expan>q<ex>ue</ex></expan> eles ne
                           <expan>puee<ex>n</ex>t</expan> estre leues il est tenuz par action de chose bailliee en garde ou de fere la chose venir avant. Cil qui rent la chose qui est corrompue ou qui la porte avant l’action de la loi qui fet restorer les damages <expan>apartie<ex>n</ex>t</expan> contre lui l’en dit par droit <expan>q<ex>ue</ex></expan> cil a corrompu les tables del testament qui les a effaciees par leus.</p>
-                        <p xml:id="fr_20118.D.9.2.43"><label>[9.2.43]</label>
+                        <p xml:id="fr_20118-D.9.2.43"><label>[9.2.43]</label>
                           <expan><hi rend="b">P</hi>omponi<ex>us</ex></expan> dit <hi rend="b">L</hi>i hoirs avra l’action de ceste loi por le damage <expan>q<ex>ui</ex></expan> fu fez en l’eritage ainz <expan>q<ex>ue</ex></expan> il le receust se li damages a esté fez
                           <expan>ap<ex>ré</ex>s</expan> la mort a celui a qui il est hoirs. Tu ne porras pas pledier par ceste action
                           <expan>q<ex>ua</ex>nt</expan> tu seras revenuz de
@@ -13302,11 +13302,11 @@
                           <expan><ex>et</ex></expan> ge croi
                           <expan>q<ex>ue</ex></expan> l’en puet dire ce meismes de l’action de ce qui est fet par force ou en repost. Se aucuns fet chose qui li est deffendue ou de quoi il deust entendre <expan>q<ex>ue</ex></expan> cil a qui li <expan>h<ex>er</ex>itages</expan> apartient li
                           <expan>deffe<ex>n</ex>dist</expan> se il le seust.</p>
-                        <p xml:id="fr_20118.D.9.2.44"><label>[9.2.44]</label>
+                        <p xml:id="fr_20118-D.9.2.44"><label>[9.2.44]</label>
                           <hi rend="b">U</hi>lpians dit <hi rend="b">T</hi>res legiere corpe vient en la loi qui fet restorer les damages. ¶ Toutes les foiz
                           <expan>q<ex>ue</ex></expan> sers navre aucun ou ocit
                           <expan>p<ex>ar</ex></expan> le seu son seigneur il n’est pas doute <expan>q<ex>ue</ex></expan> li sires ne soit tenuz par ceste action.</p>
-                        <p xml:id="fr_20118.D.9.2.45"><label>[9.2.45]</label>
+                        <p xml:id="fr_20118-D.9.2.45"><label>[9.2.45]</label>
                           <hi rend="b">P</hi>aulus dit <label>[pr.]</label>
                           <hi rend="b">N</hi>os apelons ci le seu por la soufrance si <expan>q<ex>ue</ex></expan> cil qui pot deffendre le damage <expan>q<ex>ue</ex></expan> ses sers fesoit <expan><ex>et</ex></expan> ne le deffendi soit tenuz <expan>p<ex>ar</ex></expan> ceste loi
                           <label>[1]</label> l’en puet pledier par ceste loi puis
@@ -13322,15 +13322,15 @@
                           <expan><ex>et</ex></expan> tuit li droit otroient
                           <expan>q<ex>ue</ex></expan> force soit boutee arriere par force mes se ge getai une pierre por deffendre moi de mon aversaire <expan><ex>et</ex></expan> ge ne feri pas lui mes .i. trespassant ge sui tenuz par l’action de ceste loi <expan>q<ex>ua</ex>r</expan> il m’estoit otroié a ferir celui seul qui force me fesoit se ge le fesoie por moi <expan>deffe<ex>n</ex>dre</expan> tant
                           <expan>seulem<ex>en</ex>t</expan> et non pas por vengier moi.</p>
-                        <p xml:id="fr_20118.D.9.2.46"><label>[9.2.46]</label>
+                        <p xml:id="fr_20118-D.9.2.46"><label>[9.2.46]</label>
                           <hi rend="b">U</hi>lpians dit <hi rend="b">S</hi>e l’en a pledié par la loi qui fet restorer les damages por .i. serf qui a esté navrez se il muert aprés de cele plaie <label>[9.2.47]</label> Julians dit
                           <expan>q<ex>ue</ex></expan> se li pris del serf fu paiez a <expan>so<ex>n</ex></expan> seigneur del premier plet <expan><ex>et</ex></expan> il en veult puis pledier come por son serf oci excepcion de tricherie li nuira si
                           <expan>q<ex>ue</ex></expan> il n’avra rien plus de l’un plet <expan><ex>et</ex></expan> de l’autre
                           <expan>q<ex>ue</ex></expan> il peust avoir eu se il eust pledié dés le <expan>comencem<ex>en</ex>t</expan> come de serf ocis.</p>
-                        <p xml:id="fr_20118.D.9.2.48"><label>[9.2.48]</label>
+                        <p xml:id="fr_20118-D.9.2.48"><label>[9.2.48]</label>
                           <hi rend="b">P</hi>aulus dit <hi rend="b">S</hi>e uns sers fist damage en la chose de l’eritage ainz <expan>q<ex>ue</ex></expan> li heritages fust receuz <expan><ex>et</ex></expan> aprés
                           <expan>q<ex>ua</ex>nt</expan> il est franchiz se il fet encore damage es choses de l’eritage il est tenuz par ceste loi por l’un damage <expan><ex>et</ex></expan> por l’autre.</p>
-                        <p xml:id="fr_20118.D.9.2.49"><label>[9.2.49]</label>
+                        <p xml:id="fr_20118-D.9.2.49"><label>[9.2.49]</label>
                           <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">S</hi>e aucuns fet fumee tant
                           <expan>q<ex>ue</ex></expan> il chace autrui és ou
@@ -13354,7 +13354,7 @@
                       </div>
                       <div type="edition" n="3" xml:id="fr_20118.D.9.3">
                         <head>D. 9.3</head>
-                        <p xml:id="fr_20118.D.9.3.5"><label>[9.3.5]</label>
+                        <p xml:id="fr_20118-D.9.3.5"><label>[9.3.5]</label>
                           <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                           <hi rend="b">S</hi>e plusor habitent en une
                           <expan>meso<ex>n</ex></expan> mes
@@ -13509,7 +13509,7 @@
                           <expan>ap<ex>ar</ex>tient</expan> as hoirs mes ele n’<expan>ap<ex>ar</ex>tient</expan> pas
                           <expan><ex>con</ex>tre</expan> l’oir
                           <expan>q<ex>ua</ex>r</expan> ele est por paine.</p>
-                        <p xml:id="fr_20118.D.9.3.6"><label>[9.3.6]</label>
+                        <p xml:id="fr_20118-D.9.3.6"><label>[9.3.6]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[1]</label>
                           <hi rend="b">L</hi>abeo escrit
                           <expan>q<ex>ue</ex></expan> cist
@@ -13520,7 +13520,7 @@
                           <label>[3]</label> Et se aucune chose
                           <expan>q<ex>ui</ex></expan> face damage est getee d’une nef : profitable <expan>actio<ex>n</ex></expan> en sera donee <expan><ex>con</ex>tre</expan> celui
                           <expan>q<ex>ui</ex></expan> est mestres de la nef.</p>
-                        <p xml:id="fr_20118.D.9.3.7"><label>[9.3.7]</label>
+                        <p xml:id="fr_20118-D.9.3.7"><label>[9.3.7]</label>
                           <hi rend="b">G</hi>aius dit. <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> li cors d’<expan>u<ex>n</ex></expan> franc home est bleciez
                           <expan>p<ex>ar</ex></expan> ce
                           <expan>q<ex>ui</ex></expan> a esté geté ou
@@ -13541,14 +13541,14 @@
                         <head>D. 9.4.1-8</head>
                         <p><emph n="rubrique">Des actions qui sont meues
                           <expan>p<ex>or</ex></expan> les meffez as sers:</emph></p>
-                        <p xml:id="fr_20118.D.9.4.1"><label>[9.4.1]</label>
+                        <p xml:id="fr_20118-D.9.4.1"><label>[9.4.1]</label>
                           <hi rend="b">G</hi>aius dit. <hi rend="b">A</hi>ctions de meffet sont apelees celes que sont pas meues <expan><ex>con</ex>tre</expan> nos por marchiez mes por les meffez a noz sers. Et la droiture de cez
                           <expan>actio<ex>n</ex>s</expan> est
                           <expan>q<ex>ue</ex></expan> cil
                           <expan>q<ex>ui</ex></expan> en est
                           <expan><ex>con</ex>da<ex>m</ex>pnez</expan> se puet delivrer de tot le
                           <expan><ex>con</ex>dampnem<ex>en</ex>t</expan> por abandoner le sers <expan>q<ex>ui</ex></expan> a fet le meffet.</p>
-                        <p xml:id="fr_20118.D.9.4.2"><label>[9.4.2]</label>
+                        <p xml:id="fr_20118-D.9.4.2"><label>[9.4.2]</label>
                           <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                           <hi rend="b">S</hi>e uns sers a fet damage par le seu de <expan>so<ex>n</ex></expan> seignor li sires est tenuz a restorer le tot
                           <expan>ent<ex>er</ex>inem<ex>en</ex>t</expan>.
@@ -13596,10 +13596,10 @@
                           <expan>q<ex>ue</ex></expan> l’<expan>accio<ex>n</ex></expan> de la loi
                           <expan>q<ex>ui</ex></expan> fet restorer les damages est donee <expan><ex>con</ex>tre</expan> le seignor n’escuse pas le serf <expan>ai<ex>n</ex>z</expan> grieve le seignor. <expan><ex>et</ex></expan> ceste
                           <expan>sente<ex>n</ex>ce</expan> est resnable.</p>
-                        <p xml:id="fr_20118.D.9.4.3"><label>[9.4.3]</label>
+                        <p xml:id="fr_20118-D.9.4.3"><label>[9.4.3]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">E</hi>n totes les actions qui sont meues por les meffez as sers en coi l’en fet mencion el seu au seignor : l’en le doit einsi entendre. se li sires pot deffendre que li sers ne meffeist
                           <expan><ex>et</ex></expan> il ne le deffendi pas. autre chose est de doner auctorité au serf qui meffet que de soffrir que il mefface.</p>
-                        <p xml:id="fr_20118.D.9.4.4"><label>[9.4.4]</label>
+                        <p xml:id="fr_20118-D.9.4.4"><label>[9.4.4]</label>
                           <hi rend="b">P</hi>aulus dit. <label>[pr.]</label>
                           <hi rend="b">L</hi>’en
                           <expan>dema<ex>n</ex>de</expan>
@@ -13681,7 +13681,7 @@
                           <expan>p<ex>ar</ex></expan> le seu au seignor. il puet <expan>b<ex>ie</ex>n</expan> muer sa
                           <expan>plai<ex>n</ex>te</expan>
                           <expan>qua<ex>n</ex>q<ex>ue</ex></expan> la sentence ait esté donee:</p>
-                        <p xml:id="fr_20118.D.9.4.5"><label>[9.4.5]</label>
+                        <p xml:id="fr_20118-D.9.4.5"><label>[9.4.5]</label>
                           <hi rend="b">U</hi>lpians dit. <hi rend="b">S</hi>e li sers <expan>q<ex>ui</ex></expan> est
                           <expan><ex>com</ex>mu<ex>n</ex>s</expan> a plusors meffet <expan>sa<ex>n</ex>z</expan> le seu a nul d’els.
                           <expan>actio<ex>n</ex></expan> sera donee el
@@ -13701,10 +13701,10 @@
                           <expan>q<ex>ue</ex></expan> cil qui <pb n="f. 21’a"/> sot le meffet est tenuz a restorer tot le damage. mes tele
                           <expan>q<ex>ue</ex></expan> se il vent le serf ou il le franchist. ou se li sers muert li sires sera tenuz a
                           <expan>respo<ex>n</ex>dre</expan> del meffet. mes se li sires muert li hoirs n’i sera pas tenuz.</p>
-                        <p xml:id="fr_20118.D.9.4.6"><label>[9.4.6]</label>
+                        <p xml:id="fr_20118-D.9.4.6"><label>[9.4.6]</label>
                           <hi rend="b">C</hi>il meismes dit. <hi rend="b">M</hi>es li sers i sera tenuz
                           <expan>ap<ex>ré</ex>s</expan> ce que il sera franchiz.</p>
-                        <p xml:id="fr_20118.D.9.4.7"><label>[9.4.7]</label>
+                        <p xml:id="fr_20118-D.9.4.7"><label>[9.4.7]</label>
                           <hi rend="b">C</hi>il meimes dit.
                           <label>[pr.]</label>
                           <hi rend="b">A</hi>ction por le meffet a
@@ -13714,7 +13714,7 @@
                           <expan>po<ex>m</ex>ponius</expan> dit. Se cil
                           <expan>q<ex>ui</ex></expan> a achaté .i.serf est trez en cause por le meffet au serf. li venderres
                           <expan>p<ex>ar</ex></expan> qui seu il le fist n’en porra pas estre trez en cause.</p>
-                        <p xml:id="fr_20118.D.9.4.8"><label>[9.4.8]</label> Cil meismes dit. <hi rend="b">S</hi>e li sers <expan>q<ex>ui</ex></expan> est
+                        <p xml:id="fr_20118-D.9.4.8"><label>[9.4.8]</label> Cil meismes dit. <hi rend="b">S</hi>e li sers <expan>q<ex>ui</ex></expan> est
                           <expan><ex>com</ex>mu<ex>n</ex>s</expan> a pluseurs fet .i. <expan>larreci<ex>n</ex></expan> :
                           <expan>chascu<ex>n</ex>s</expan> de ses seignors est tenuz <expan>p<ex>ar</ex></expan> ceste action. si
                           <expan>q<ex>ue</ex></expan> nus d’els ne se puet defendre <expan>q<ex>ue</ex></expan> il n’ament tot le meffet se il n’<expan>abando<ex>n</ex>ne</expan> tot le serf. ne il ne doit pas estre oïz se il en velt abandoner sa part tant <expan>seulem<ex>en</ex>t</expan>. mes se il est <expan><ex>con</ex>dampnez</expan> a
