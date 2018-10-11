@@ -10760,7 +10760,7 @@
                     <hi rend="i">L</hi> ; <hi rend="i">P</hi>+ qu’elle lui est supérieure.</supplied></p>
                   <div type="edition" n="1">
                     <head>Prologue du traducteur-Inst. 1.2</head>
-                    <lg><!--  xml:id="harley_4477-inst.prol"  -->
+                    <lg xml:id="harley_4477-inst.prol">
                       <l><hi rend="b">Q</hi>ui de rien ne se veult grever /</l>
                       <l>Il ne <expan>po<ex>ur</ex>ra</expan> pas achever</l>
                       <l>Chose de quoy <expan>honne<ex>ur</ex></expan> li
@@ -10854,7 +10854,7 @@
                       <l>Justinien en son vivant</l>
                       <l>Et mist ce prologue devant.</l>
                     </lg>
-                    <lg><!--  xml:id="harley_4477-inst.1.1" -->
+                    <lg xml:id="harley_4477-inst.1.1">
                       <lg rend="underlined">
                         <l>¶ Cil qui les drois <expan>no<ex>us</ex></expan> baille
                           <expan><ex>et</ex></expan> livre</l>
@@ -11059,7 +11059,7 @@
                       <l>Soit en <expan>p<ex>ar</ex>tie</expan> gouvernee</l>
                       <l>Et <expan>p<ex>ar</ex></expan> voye des lois menee.</l>
                     </lg>
-                    <lg><!--  xml:id="harley_4477-inst.1.2" -->
+                    <lg xml:id="harley_4477-inst.1.2">
                       <lg rend="underlined">
                         <l>¶ Qui ce tiltre <expan>no<ex>m</ex>mer</expan> vouldroit</l>
                         <l>Il est de justice et de droit.</l>
@@ -11151,7 +11151,7 @@
                   </div>
                   <div type="edition" n="2">
                     <head>Inst. 2.17</head>
-                    <lg><!--  xml:id="harley_4477-inst.2.17" -->
+                    <lg xml:id="harley_4477-inst.2.17">
                       <lg rend="underlined"><!-- Le soulignement ne s'affiche pas : transformation ? -->
                         <l>Cest tiltre est <expan>q<ex>ua</ex>nt</expan> testament</l>
                         <l>Peult estre quassé et <expan>co<ex>m</ex>ment</expan>.</l>
@@ -11485,7 +11485,7 @@
                   </div>
                   <div type="edition" n="3">
                     <head>Inst. 4.17</head>
-                    <lg><!--  xml:id="harley_4477-4.17" -->
+                    <lg xml:id="harley_4477-4.17">
                       <lg>
                         <l>De l’office au juge convient</l>
                         <l>Parler en tiltre qui cy vient.</l>
@@ -11827,7 +11827,7 @@
                   </div>
                   <div type="edition" n="4">
                     <head>Épilogue</head>
-                    <lg><!--  xml:id="harley_4477-inst.epil" -->
+                    <lg xml:id="harley_4477-inst.epil">
                       <l>Mil ans .CC. IIII. fois vingt</l>
                       <l>Aprés que <expan>Jh<ex>es</ex>uc<ex>ri</ex>st</expan> vint</l>
                       <l>En terre <expan>po<ex>ur</ex></expan> l’umain linage</l>
@@ -12538,7 +12538,7 @@
                   <head>Édition</head>
                   <div type="edition" n="1">
                     <head>Prologue</head>
-                    <lg><!--  xml:id="caillaut-prol" -->
+                    <lg xml:id="caillaut-prol">
                       <l><hi rend="b">Q</hi>ui de rien ne se veult grever</l>
                       <l>Il ne pourra pas achever</l>
                       <l>Chose de quoy <expan>ho<ex>n</ex>neur</expan> luy
@@ -12815,7 +12815,7 @@
                   </div>
                   <div type="edition" n="3">
                     <head>Inst. 4.17</head>
-                    <p><pb n="f. P5b"/> De officio judicis<lb/>R. xviii<lb/>De l’office au juge convient Parler au tiltre qui ci vient.</p>
+                    <p xml:id="caillaut-4.17"><pb n="f. P5b"/> De officio judicis<lb/>R. xviii<lb/>De l’office au juge convient Parler au tiltre qui ci vient.</p>
                     <lg>
                       <l><hi rend="b">I</hi>cy nous convient pour voir</l>
                       <l>De l’office au juge ouir</l>
