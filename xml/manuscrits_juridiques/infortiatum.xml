@@ -195,46 +195,46 @@
                         <msItem>
                           <locus from="5a"/>
                           <title type="sub">[D. 25.1]</title>
-                          <incipit><emph n="rubrique">Des despenses qui sont fetes es choses del douere .ii.</emph></incipit>
+                          <incipit><seg type="rubric">Des despenses qui sont fetes es choses del douere .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="6a"/>
                           <title type="sub">[D. 25.2]</title>
-                          <incipit><emph n="rubrique">D’action de choses ostees .iii.</emph></incipit>
+                          <incipit><seg type="rubric">D’action de choses ostees .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="7a"/>
                           <title type="sub">[D. 25.3]</title>
-                          <incipit><emph n="rubrique">De reconoistre les enfanz
+                          <incipit><seg type="rubric">De reconoistre les enfanz
                             <expan><ex>et</ex></expan> de norrir les ou les
                             <expan>p<ex>er</ex>es</expan> ou les patrons ou
-                            <expan>ce<ex>us</ex></expan> qui ont esté franchi .iiii.</emph></incipit>
+                            <expan>ce<ex>us</ex></expan> qui ont esté franchi .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="8d"/>
                           <title type="sub">[D. 25.4]</title>
-                          <incipit><emph n="rubrique">De regarder le ventre a la feme qui dit <expan>q<ex>ue</ex></expan> ele est grosse .v.</emph></incipit>
+                          <incipit><seg type="rubric">De regarder le ventre a la feme qui dit <expan>q<ex>ue</ex></expan> ele est grosse .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="9d"/>
                           <title type="sub">[D. 25.5]</title>
-                          <incipit><emph n="rubrique">De la feme qui est mise em possession el non de son ventre baillié a autre la possession <expan>p<ex>ar</ex></expan> tricherie .vi.</emph></incipit>
+                          <incipit><seg type="rubric">De la feme qui est mise em possession el non de son ventre baillié a autre la possession <expan>p<ex>ar</ex></expan> tricherie .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="10a"/>
                           <title type="sub">[D. 25.6]</title>
-                          <incipit><emph n="rubrique">Se feme est a tort en possession el <expan>no<ex>n</ex></expan> de son ventre .vii.</emph></incipit>
+                          <incipit><seg type="rubric">Se feme est a tort en possession el <expan>no<ex>n</ex></expan> de son ventre .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="10c"/>
                           <title type="sub">[D. 25.7]</title>
-                          <incipit><emph n="rubrique">Des meschines .viii.</emph></incipit>
+                          <incipit><seg type="rubric">Des meschines .viii.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre2">
                         <locus from="10d" to="29d"/>
                         <title type="section" xml:lang="fr">Livre II</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci commence li secons d’Enforcade. Cilz titres est de gardes .i.</emph><lb/>Ulpians dit : Garde, si
+                        <incipit xml:lang="fro"><seg type="rubric">Ci commence li secons d’Enforcade. Cilz titres est de gardes .i.</seg><lb/>Ulpians dit : Garde, si
                           <expan><ex>com</ex>me</expan> Servius dit, est droiture et poesté que aucuns a en <expan>f<ex>ra</ex>nc</expan> chief pour desfendre celui qui pour son aage ne puet desfendre par lui...</incipit>
                         <explicit xml:lang="fro">Ge croi que tu doiz
                           <expan>p<ex>ar</ex></expan> droit aler contre cest barat si <expan>q<ex>ue</ex></expan> li filz soit
@@ -242,29 +242,29 @@
                         <msItem>
                           <locus from="10d"/>
                           <title type="sub">[D. 26.1]</title>
-                          <incipit><emph n="rubrique">Cilz titres est de gardes .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cilz titres est de gardes .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="11d"/>
                           <title type="sub">[D. 26.2]</title>
-                          <incipit><emph n="rubrique">De garde qui est donee en testament .ii.</emph></incipit>
+                          <incipit><seg type="rubric">De garde qui est donee en testament .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="14a"/>
                           <title type="sub">[D. 26.3]</title>
-                          <incipit><emph n="rubrique">De
-                            <expan><ex>con</ex>f<ex>er</ex>mer</expan> desfendeeur ou <expan>p<ex>ro</ex>cureeur</expan> .iii.</emph></incipit>
+                          <incipit><seg type="rubric">De
+                            <expan><ex>con</ex>f<ex>er</ex>mer</expan> desfendeeur ou <expan>p<ex>ro</ex>cureeur</expan> .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="14c"/>
                           <title type="sub">[D. 26.4]</title>
-                          <incipit><emph n="rubrique">De garde qui vient
-                            <expan>p<ex>ar</ex></expan> les lois</emph></incipit>
+                          <incipit><seg type="rubric">De garde qui vient
+                            <expan>p<ex>ar</ex></expan> les lois</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="15c"/>
                           <title type="sub">[D. 26.5]</title>
-                          <incipit><emph n="rubrique">De desfendeeurs
+                          <incipit><seg type="rubric">De desfendeeurs
                             <expan><ex>et</ex></expan> de procureeurs
                             <expan>q<ex>ui</ex></expan> sont doné
                             <expan>p<ex>ar</ex></expan>
@@ -274,26 +274,26 @@
                             <expan>q<ex>ue</ex>l</expan> pueent estre
                             <expan>especialme<ex>n</ex>t</expan>
                             <expan><ex>et</ex></expan> a
-                            <expan>q<ex>ui</ex></expan> .iiii.</emph></incipit>
+                            <expan>q<ex>ui</ex></expan> .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="16d"/>
                           <title type="sub">[D. 26.6]</title>
-                          <incipit><emph n="rubrique"><expan>Q<ex>ui</ex></expan> doit
+                          <incipit><seg type="rubric"><expan>Q<ex>ui</ex></expan> doit
                             <expan>dema<ex>n</ex>d<ex>er</ex></expan>
                             <expan>desfe<ex>n</ex>deeurs</expan>
                             <expan><ex>et</ex></expan>
                             <expan>p<ex>ro</ex>cureeurs</expan>
                             <expan><ex>et</ex></expan> ou il
                             <expan>doive<ex>n</ex>t</expan> estre
-                            <expan>dema<ex>n</ex>dé</expan> .vi.</emph></incipit>
+                            <expan>dema<ex>n</ex>dé</expan> .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="17c"/>
                           <title type="sub">[D. 26.7]</title>
-                          <incipit><emph n="rubrique">De l’aministracion et du peril aus desfendeors et aus
+                          <incipit><seg type="rubric">De l’aministracion et du peril aus desfendeors et aus
                             <expan>p<ex>ro</ex>cureors</expan>
-                            <expan><ex>et</ex></expan> de ceulz qui sont empledent ou sont empledié .vii.</emph></incipit>
+                            <expan><ex>et</ex></expan> de ceulz qui sont empledent ou sont empledié .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="26b"/>
@@ -303,20 +303,20 @@
                         <msItem>
                           <locus from="28a"/>
                           <title type="sub">[D. 26.9]</title>
-                          <incipit><emph n="rubrique">Quant cil qui sont dedenz aaige pueent enpledier ou estre emplediez
-                            <expan>p<ex>our</ex></expan> le fet as desfendeeurs ou as <expan>p<ex>ro</ex>cureeurs</expan> .viii.</emph></incipit>
+                          <incipit><seg type="rubric">Quant cil qui sont dedenz aaige pueent enpledier ou estre emplediez
+                            <expan>p<ex>our</ex></expan> le fet as desfendeeurs ou as <expan>p<ex>ro</ex>cureeurs</expan> .viii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="28b"/>
                           <title type="sub">[D. 26.10]</title>
-                          <incipit><emph n="rubrique">De desfendeeurs ou de procureeurs qui sont soupeçonneus .ix.</emph></incipit>
+                          <incipit><seg type="rubric">De desfendeeurs ou de procureeurs qui sont soupeçonneus .ix.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre3">
                         <locus from="29d" to="41d"/>
                         <title type="section" xml:lang="fr">Livre III</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
-                          <expan>com<ex>en</ex>ce</expan> li tierz livres d’<expan>E<ex>n</ex>forcade</expan>. Cist tytres est d’escusemenz .i.</emph><lb/>Ulpians dit :
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
+                          <expan>com<ex>en</ex>ce</expan> li tierz livres d’<expan>E<ex>n</ex>forcade</expan>. Cist tytres est d’escusemenz .i.</seg><lb/>Ulpians dit :
                           <expan>Modesti<ex>n</ex>s</expan> envoia a Ignace un livre <expan>m<ex>ou</ex>lt</expan> profitable si
                           <expan>co<ex>m</ex>me</expan> il m’est avis</incipit>
                         <explicit xml:lang="fro">et por ce se il les done ce ne vaut riens se il ne le fet por <expan>g<ex>ra</ex>nt</expan> preu au forsené.<lb/>Ci fine li <expan>t<ex>ier</ex>z</expan>
@@ -324,79 +324,79 @@
                         <msItem>
                           <locus from="29d"/>
                           <title type="sub">[D. 27.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est d’escusemenz .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est d’escusemenz .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="34c"/>
                           <title type="sub">[D. 27.2]</title>
-                          <incipit><emph n="rubrique">Ou li enfant doivent demorer
+                          <incipit><seg type="rubric">Ou li enfant doivent demorer
                             <expan><ex>et</ex></expan>
                             <expan>est<ex>re</ex></expan> norri
-                            <expan><ex>et</ex></expan> de doner lor norreture .ii.</emph></incipit>
+                            <expan><ex>et</ex></expan> de doner lor norreture .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="35b"/>
                           <title type="sub">[D. 27.3]</title>
-                          <incipit><emph n="rubrique">D’action de garde
-                            <expan><ex>et</ex></expan> de rendre conte .iii.</emph></incipit>
+                          <incipit><seg type="rubric">D’action de garde
+                            <expan><ex>et</ex></expan> de rendre conte .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="37b"/>
                           <title type="sub">[D. 27.4]</title>
-                          <incipit><emph n="rubrique">De contrere
-                            <expan>jugem<ex>en</ex>t</expan> de garde .iiii.</emph></incipit>
+                          <incipit><seg type="rubric">De contrere
+                            <expan>jugem<ex>en</ex>t</expan> de garde .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="37d"/>
                           <title type="sub">[D. 27.5]</title>
-                          <incipit><emph n="rubrique">De celui qui fet les besoignes en leu del desfendeeur .v.</emph></incipit>
+                          <incipit><seg type="rubric">De celui qui fet les besoignes en leu del desfendeeur .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="38a"/>
                           <title type="sub">[D. 27.6]</title>
-                          <incipit><emph n="rubrique">De ce <expan>q<ex>ui</ex></expan> est fet <expan>p<ex>ar</ex></expan>
-                            <expan>fau<ex>s</ex></expan> deffendeeur .vi.</emph></incipit>
+                          <incipit><seg type="rubric">De ce <expan>q<ex>ui</ex></expan> est fet <expan>p<ex>ar</ex></expan>
+                            <expan>fau<ex>s</ex></expan> deffendeeur .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="38d"/>
                           <title type="sub">[D. 27.7]</title>
-                          <incipit><emph n="rubrique">Des pleges
+                          <incipit><seg type="rubric">Des pleges
                             <expan><ex>et</ex></expan> des
                             <expan>no<ex>m</ex>ineeurs</expan>
                             <expan><ex>et</ex></expan> des hoirs as desfendeeurs
-                            <expan><ex>et</ex></expan> as procureors .vii.</emph></incipit>
+                            <expan><ex>et</ex></expan> as procureors .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="39a"/>
                           <title type="sub">[D. 27.8]</title>
-                          <incipit><emph n="rubrique">De trere en cause les baillis
-                            <expan><ex>et</ex></expan> lor hoirs .viii.</emph></incipit>
+                          <incipit><seg type="rubric">De trere en cause les baillis
+                            <expan><ex>et</ex></expan> lor hoirs .viii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="39d"/>
                           <title type="sub">[D. 27.9]</title>
-                          <incipit><emph n="rubrique">Que li
+                          <incipit><seg type="rubric">Que li
                             <expan>b<ex>ie</ex>n</expan> a cels qui sont dedens aaige ne <expan>soie<ex>n</ex>t</expan>
                             <expan>estra<ex>n</ex>gié</expan>
                             <expan>sa<ex>n</ex>z</expan>
-                            <expan>jugeme<ex>n</ex>t</expan></emph></incipit>
+                            <expan>jugeme<ex>n</ex>t</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="41b"/>
                           <title type="sub">[D. 27.10]</title>
-                          <incipit><emph n="rubrique">Des procureors qui sont doné as forsenez <expan><ex>et</ex></expan> as autres qui ont
-                            <expan>pl<ex>us</ex></expan> de .xxv. anz .x.</emph></incipit>
+                          <incipit><seg type="rubric">Des procureors qui sont doné as forsenez <expan><ex>et</ex></expan> as autres qui ont
+                            <expan>pl<ex>us</ex></expan> de .xxv. anz .x.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre4">
                         <locus from="42a" to="62b"/>
                         <title type="section" xml:lang="fr">Livre IV</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan><ex>com</ex>mence</expan> li
                           <expan>q<ex>ua</ex>rz</expan> livres d’Enforcade. Cist titres est li <expan>q<ex>ue</ex>l</expan> pueent fere <expan>testam<ex>en</ex>t</expan>
                           <expan><ex>et</ex></expan>
                           <expan>co<ex>m</ex>m<ex>en</ex>t</expan>
-                          <expan>testam<ex>en</ex>t</expan> puet estre fez .i.</emph><lb/>Ulpians dit : Testamenz est droite
+                          <expan>testam<ex>en</ex>t</expan> puet estre fez .i.</seg><lb/>Ulpians dit : Testamenz est droite
                           <expan>sente<ex>n</ex>ce</expan> de nostre volenté de ce <expan>q<ex>ue</ex></expan>
                           <expan>au<ex>cun</ex>s</expan> velt que soit fet aprés sa mort.</incipit>
                         <explicit xml:lang="fro">Labeo dit le controire
@@ -405,68 +405,68 @@
                         <msItem>
                           <locus from="42a"/>
                           <title type="sub">[D. 28.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est
+                          <incipit><seg type="rubric">Cist titres est
                             <expan>q<ex>ue</ex>l</expan> pueent fere
                             <expan>testam<ex>en</ex>t</expan>
                             <expan><ex>et</ex></expan>
                             <expan>co<ex>m</ex>m<ex>en</ex>t</expan>
-                            <expan>testam<ex>en</ex>t</expan> puet estre fez</emph></incipit>
+                            <expan>testam<ex>en</ex>t</expan> puet estre fez</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="43b"/>
                           <title type="sub">[D. 28.2]</title>
-                          <incipit><emph n="rubrique">De fere hoirs ou de
+                          <incipit><seg type="rubric">De fere hoirs ou de
                             <expan>desh<ex>er</ex>iter</expan> lé
                             <expan>enfa<ex>n</ex>z</expan> ou cels
                             <expan>q<ex>ui</ex></expan> sont encore el
                             <expan>ve<ex>n</ex>t<ex>re</ex></expan> lor
-                            <expan>m<ex>er</ex>e</expan></emph></incipit>
+                            <expan>m<ex>er</ex>e</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="45c"/>
                           <title type="sub">[D. 28.3]</title>
-                          <incipit><emph n="rubrique">De
+                          <incipit><seg type="rubric">De
                             <expan>testam<ex>en</ex>z</expan>
                             <expan>q<ex>ui</ex></expan> n’est pas
                             <expan>loia<ex>us</ex></expan> ou
                             <expan>q<ex>ui</ex></expan> est roz ou
-                            <expan>q<ex>ui</ex></expan> est vains .iii.</emph></incipit>
+                            <expan>q<ex>ui</ex></expan> est vains .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="47c"/>
                           <title type="sub">[D. 28.4]</title>
-                          <incipit><emph n="rubrique">De choses
+                          <incipit><seg type="rubric">De choses
                             <expan>q<ex>ui</ex></expan> sont effiees ou
-                            <expan>da<ex>n</ex>tees</expan> ou escriptes en testament .iiii.</emph></incipit>
+                            <expan>da<ex>n</ex>tees</expan> ou escriptes en testament .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="48b"/>
                           <title type="sub">[D. 28.5]</title>
-                          <incipit><emph n="rubrique">D’establir hors .v.</emph></incipit>
+                          <incipit><seg type="rubric">D’establir hors .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="55d"/>
                           <title type="sub">[D. 28.6]</title>
-                          <incipit><emph n="rubrique"><expan><ex>De</ex></expan> fere hoirs el <expan>sego<ex>n</ex>t</expan> degré .vi.</emph></incipit>
+                          <incipit><seg type="rubric"><expan><ex>De</ex></expan> fere hoirs el <expan>sego<ex>n</ex>t</expan> degré .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="60a"/>
                           <title type="sub">[D. 28.7]</title>
-                          <incipit><emph n="rubrique">Des condicions
-                            <expan>q<ex>ui</ex></expan> sont mises a establir hoirs .vii.</emph></incipit>
+                          <incipit><seg type="rubric">Des condicions
+                            <expan>q<ex>ui</ex></expan> sont mises a establir hoirs .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="61d"/>
                           <title type="sub">[D. 28.8]</title>
-                          <incipit><emph n="rubrique">De la droiture de conseillier soi de recevoir heritage .viii.</emph></incipit>
+                          <incipit><seg type="rubric">De la droiture de conseillier soi de recevoir heritage .viii.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre5">
                         <locus from="62b" to="77a"/>
                         <title type="section" xml:lang="fr">Livre V</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li
                           <expan>q<ex>ui</ex>nz</expan> livres d’Enforcade. Cist tytres est des testamenz a
-                          <expan>ch<ex>evalie</ex>rs</expan> .i.</emph><lb/>Ulpians dit : Julius Cesar donna
+                          <expan>ch<ex>evalie</ex>rs</expan> .i.</seg><lb/>Ulpians dit : Julius Cesar donna
                           <expan>p<ex>re</ex>mierement</expan> a
                           <expan>ch<ex>evalie</ex>rs</expan> pooir de fere testament mes cil droiz est temporels.</incipit>
                         <explicit xml:lang="fro">Et ge croi mielz
@@ -477,104 +477,104 @@
                         <msItem>
                           <locus from="62b"/>
                           <title type="sub">[D. 29.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est des testamenz a
-                            <expan>ch<ex>evalie</ex>rs</expan> .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est des testamenz a
+                            <expan>ch<ex>evalie</ex>rs</expan> .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="65c"/>
                           <title type="sub">[D. 29.2]</title>
-                          <incipit><emph n="rubrique">De recevoir
-                            <expan>h<ex>er</ex>itage</expan> ou de refuser le .ii.</emph></incipit>
+                          <incipit><seg type="rubric">De recevoir
+                            <expan>h<ex>er</ex>itage</expan> ou de refuser le .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="71a"/>
                           <title type="sub">[D. 29.3]</title>
-                          <incipit><emph n="rubrique"><expan>Com<ex>en</ex>t</expan> les tables del <expan>testam<ex>en</ex>t</expan> doivent estre overtes <expan><ex>et</ex></expan> regardees <expan><ex>et</ex></expan> contre-escrites .iii.</emph></incipit>
+                          <incipit><seg type="rubric"><expan>Com<ex>en</ex>t</expan> les tables del <expan>testam<ex>en</ex>t</expan> doivent estre overtes <expan><ex>et</ex></expan> regardees <expan><ex>et</ex></expan> contre-escrites .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="71d"/>
                           <title type="sub">[D. 29.4]</title>
-                          <incipit><emph n="rubrique">Se la cause del testament est lessiee <expan><ex>et</ex></expan> li heritages est receuz sanz testament .iiii.</emph></incipit>
+                          <incipit><seg type="rubric">Se la cause del testament est lessiee <expan><ex>et</ex></expan> li heritages est receuz sanz testament .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="73d"/>
                           <title type="sub">[D. 29.5]</title>
-                          <incipit><emph n="rubrique">Del
+                          <incipit><seg type="rubric">Del
                             <expan><ex>con</ex>seill</expan> au senaz
                             <expan>q<ex>ui</ex></expan> fu fez de fere
                             <expan>enq<ex>ue</ex>ste</expan>
                             <expan>p<ex>ar</ex></expan> les sers a cels
-                            <expan>q<ex>ui</ex></expan> sont ocis .v.</emph></incipit>
+                            <expan>q<ex>ui</ex></expan> sont ocis .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="76a"/>
                           <title type="sub">[D. 29.6]</title>
-                          <incipit><emph n="rubrique">Se aucuns desfent a autre
+                          <incipit><seg type="rubric">Se aucuns desfent a autre
                             <expan>q<ex>ue</ex></expan> il ne face
-                            <expan>testam<ex>en</ex>t</expan> ou il l’en fet force .vi.</emph></incipit>
+                            <expan>testam<ex>en</ex>t</expan> ou il l’en fet force .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="76b"/>
                           <title type="sub">[D. 29.7]</title>
-                          <incipit><emph n="rubrique">De la droiture des lés .vii.</emph></incipit>
+                          <incipit><seg type="rubric">De la droiture des lés .vii.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre6">
                         <locus from="77a" to="86d"/>
                         <title type="section" xml:lang="fr">Livre VI</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan>com<ex>en</ex>ce</expan> li sisiemes livres d’Enforcade. Cist tytres est de lés
                           <expan><ex>et</ex></expan> de choses
-                          <expan>e<ex>n</ex>joi<ex>n</ex>tes</expan></emph><lb/>Ulpians dit : les choses enjointes sont egaus en toutes choses.</incipit>
+                          <expan>e<ex>n</ex>joi<ex>n</ex>tes</expan></seg><lb/>Ulpians dit : les choses enjointes sont egaus en toutes choses.</incipit>
                         <explicit xml:lang="fro">... <expan><ex>et</ex></expan> ce est par droit quar cil meffont qui font mariaiges qui sont deffendu <expan><ex>et</ex></expan> il
                           <expan>e<ex>n</ex></expan> doivent estre puni mes la feme n’<expan>e<ex>n</ex></expan> puet pas estre blasmee
                           <expan>q<ex>ue</ex></expan> ses desfenderres a deceue en tel <pb n="f. 86d"/> maniere.</explicit>
                         <msItem>
                           <locus from="77a"/>
                           <title type="sub">[D. 30.0]</title>
-                          <incipit><emph n="rubrique">Cist tytres est de lés
+                          <incipit><seg type="rubric">Cist tytres est de lés
                             <expan><ex>et</ex></expan> de choses
-                            <expan>e<ex>n</ex>joi<ex>n</ex>tes</expan></emph></incipit>
+                            <expan>e<ex>n</ex>joi<ex>n</ex>tes</expan></seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre7">
                         <locus from="86d" to="95b"/>
                         <title type="section" xml:lang="fr">Livre VII</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li septiemes livres d’Enforcade. Cist tytres est de lés
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li septiemes livres d’Enforcade. Cist tytres est de lés
                           <expan><ex>et</ex></expan> des choses
-                          <expan>enjoi<ex>n</ex>tes</expan> segonde foiz</emph><lb/>Ulpians dit : Lés puet estre donez en jugement d’autrui autresi comme condicion</incipit>
+                          <expan>enjoi<ex>n</ex>tes</expan> segonde foiz</seg><lb/>Ulpians dit : Lés puet estre donez en jugement d’autrui autresi comme condicion</incipit>
                         <explicit xml:lang="fro">... <expan><ex>et</ex></expan> li hoir a la feme doivent rendre le pris a
                           <expan>ce<ex>us</ex></expan> a qui li chans devoit estre
                           <expan>re<ex>n</ex>duz</expan>.</explicit>
                         <msItem>
                           <locus from="86d"/>
                           <title type="sub">[D. 31.0]</title>
-                          <incipit><emph n="rubrique">Cist tytres est de lés
+                          <incipit><seg type="rubric">Cist tytres est de lés
                             <expan><ex>et</ex></expan> des choses
-                            <expan>enjoi<ex>n</ex>tes</expan> segonde foiz</emph></incipit>
+                            <expan>enjoi<ex>n</ex>tes</expan> segonde foiz</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre8">
                         <locus from="95b" to="106a"/>
                         <title type="section" xml:lang="fr">Livre VIII</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li huitiemes livres d’Enforcade. Cist tytres est de lés
-                          <expan><ex>et</ex></expan> de choses enjointes tierce foiz</emph><lb/>Ulpians dit : Se aucuns n’est pas
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li huitiemes livres d’Enforcade. Cist tytres est de lés
+                          <expan><ex>et</ex></expan> de choses enjointes tierce foiz</seg><lb/>Ulpians dit : Se aucuns n’est pas
                           <expan>c<ex>er</ex>tains</expan> se il est en chetivoison ou en <expan>mai<ex>n</ex></expan> de larrons</incipit>
                         <explicit xml:lang="fro">quar autresin
                           <expan><ex>com</ex>me</expan> la charche est creue a celui a qui sa partie est creue doit ele estre apeticiee a celui a qui sa <expan>p<ex>ar</ex>tie</expan> est descreue.</explicit>
                         <msItem>
                           <locus from="95b"/>
                           <title type="sub">[D. 32.0]</title>
-                          <incipit><emph n="rubrique">Cist tytres est de lés
-                            <expan><ex>et</ex></expan> de choses enjointes tierce foiz</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est de lés
+                            <expan><ex>et</ex></expan> de choses enjointes tierce foiz</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre9">
                         <locus from="106a" to="121c"/>
                         <title type="section" xml:lang="fr">Livre IX</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li nueviemes livres d’Enforcade. Cist titres est de lés
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li nueviemes livres d’Enforcade. Cist titres est de lés
                           <expan><ex>et</ex></expan> de choses enjointes
-                          <expan>q<ex>ui</ex></expan> sont deues d’an en an .i.</emph><lb/>Ulpians dit : <expan>Q<ex>ua</ex>nt</expan> .i. lés est leisiez a paier chascun an ne il n’est pas devisé en <expan>q<ex>ue</ex>l</expan> leu il doit estre paiez</incipit>
+                          <expan>q<ex>ui</ex></expan> sont deues d’an en an .i.</seg><lb/>Ulpians dit : <expan>Q<ex>ua</ex>nt</expan> .i. lés est leisiez a paier chascun an ne il n’est pas devisé en <expan>q<ex>ue</ex>l</expan> leu il doit estre paiez</incipit>
                         <explicit xml:lang="fro">...<expan>q<ex>ua</ex>r</expan> ce
                           <expan>q<ex>ue</ex></expan> la feme peust avoir par douere puet avoir la fille par heritaige
                           <expan><ex>et</ex></expan> ce qui apartenoit a la
@@ -582,132 +582,132 @@
                         <msItem>
                           <locus from="106a"/>
                           <title type="sub">[D. 33.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est de lés
+                          <incipit><seg type="rubric">Cist titres est de lés
                             <expan><ex>et</ex></expan> de choses enjointes
-                            <expan>q<ex>ui</ex></expan> sont deues d’an en an .i. </emph></incipit>
+                            <expan>q<ex>ui</ex></expan> sont deues d’an en an .i. </seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="108c"/>
                           <title type="sub">[D. 33.2]</title>
-                          <incipit><emph n="rubrique">De usaire
-                            <expan><ex>et</ex></expan> d’abitacion .ii.</emph></incipit>
+                          <incipit><seg type="rubric">De usaire
+                            <expan><ex>et</ex></expan> d’abitacion .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="111a"/>
                           <title type="sub">[D. 33.3]</title>
-                          <incipit><emph n="rubrique">De servise lessié .iii.</emph></incipit>
+                          <incipit><seg type="rubric">De servise lessié .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="111c"/>
                           <title type="sub">[D. 33.4]</title>
-                          <incipit><emph n="rubrique">De douere lessié .iiii.</emph></incipit>
+                          <incipit><seg type="rubric">De douere lessié .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="113a"/>
                           <title type="sub">[D. 33.5]</title>
-                          <incipit><emph n="rubrique">D’eslite
-                            <expan><ex>et</ex></expan> de chois qui est leissiez .v.</emph></incipit>
+                          <incipit><seg type="rubric">D’eslite
+                            <expan><ex>et</ex></expan> de chois qui est leissiez .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="114a"/>
                           <title type="sub">[D. 33.6]</title>
-                          <incipit><emph n="rubrique">De
+                          <incipit><seg type="rubric">De
                             <expan>from<ex>en</ex>t</expan>
                             <expan><ex>et</ex></expan> de vin
-                            <expan><ex>et</ex></expan> d’uile qui est lessiez .vi.</emph></incipit>
+                            <expan><ex>et</ex></expan> d’uile qui est lessiez .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="114c"/>
                           <title type="sub">[D. 33.7]</title>
-                          <incipit><emph n="rubrique">De chanp qui est lessiez garniz ou o ses outilz .vii.</emph></incipit>
+                          <incipit><seg type="rubric">De chanp qui est lessiez garniz ou o ses outilz .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="118b"/>
                           <title type="sub">[D. 33.8]</title>
-                          <incipit><emph n="rubrique">De chatel a serf qui li est lessiez .viii.</emph></incipit>
+                          <incipit><seg type="rubric">De chatel a serf qui li est lessiez .viii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="119d"/>
                           <title type="sub">[D. 33.9]</title>
-                          <incipit><emph n="rubrique">De despense
-                            <expan>q<ex>ui</ex></expan> est lessiee .ix.</emph></incipit>
+                          <incipit><seg type="rubric">De despense
+                            <expan>q<ex>ui</ex></expan> est lessiee .ix.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="120d"/>
                           <title type="sub">[D. 33.10]</title>
-                          <incipit><emph n="rubrique">De vesselemente lessié .x.</emph></incipit>
+                          <incipit><seg type="rubric">De vesselemente lessié .x.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre10">
                         <locus from="121c" to="134d"/>
                         <title type="section" xml:lang="fr">Livre X</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li disiemes livres d’Enforcade. Cist titres est de norreture
-                          <expan><ex>et</ex></expan> de pouture lessiee .i.</emph><lb/>Pomponius dit : Se norreture est lessiee l’en puet dire que eve est contenue</incipit>
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li disiemes livres d’Enforcade. Cist titres est de norreture
+                          <expan><ex>et</ex></expan> de pouture lessiee .i.</seg><lb/>Pomponius dit : Se norreture est lessiee l’en puet dire que eve est contenue</incipit>
                         <explicit xml:lang="fro">Claudius dit
                           <expan>q<ex>ue</ex></expan> se cil a qui uns lés est lessiez contre droit muert ainz <expan>q<ex>ue</ex></expan> cil qui fist <pb n="f. 134d"/> le
                           <expan>testam<ex>en</ex>t</expan> li lés n’est pas a la borse l’<expan>emp<ex>er</ex>eeur</expan> mes a celui qui le lessa.</explicit>
                         <msItem>
                           <locus from="121c"/>
                           <title type="sub">[D. 34.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est de norreture
-                            <expan><ex>et</ex></expan> de pouture lessiee .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cist titres est de norreture
+                            <expan><ex>et</ex></expan> de pouture lessiee .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="124a"/>
                           <title type="sub">[D. 34.2]</title>
-                          <incipit><emph n="rubrique">D’or <expan><ex>et</ex></expan> d’<expan>arge<ex>n</ex>t</expan>
+                          <incipit><seg type="rubric">D’or <expan><ex>et</ex></expan> d’<expan>arge<ex>n</ex>t</expan>
                             <expan><ex>et</ex></expan> de oignemenz
                             <expan><ex>et</ex></expan> d’aornemenz
-                            <expan><ex>et</ex></expan> de robes lessiees .ii.</emph></incipit>
+                            <expan><ex>et</ex></expan> de robes lessiees .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="127a"/>
                           <title type="sub">[D. 34.3]</title>
-                          <incipit><emph n="rubrique">Des debtes laissees</emph></incipit>
+                          <incipit><seg type="rubric">Des debtes laissees</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="129d"/>
                           <title type="sub">[D.34.4]</title>
-                          <incipit><emph n="rubrique">De souztrere lés ou de remuer lés .iii.</emph></incipit>
+                          <incipit><seg type="rubric">De souztrere lés ou de remuer lés .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="131c"/>
                           <title type="sub">[D.34.5]</title>
-                          <incipit><emph n="rubrique">De choses douteuses .iiii.</emph></incipit>
+                          <incipit><seg type="rubric">De choses douteuses .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="132d"/>
                           <title type="sub">[D. 34.6]</title>
-                          <incipit><emph n="rubrique">Des choses qui sont lessiees por cause de paine .v.</emph></incipit>
+                          <incipit><seg type="rubric">Des choses qui sont lessiees por cause de paine .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="132d"/>
                           <title type="sub">[D. 34.7]</title>
-                          <incipit><emph n="rubrique">De la riule Caton .vi.</emph></incipit>
+                          <incipit><seg type="rubric">De la riule Caton .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="133a"/>
                           <title type="sub">[D. 34.8]</title>
-                          <incipit><emph n="rubrique">Des choses qui ne valent plus
+                          <incipit><seg type="rubric">Des choses qui ne valent plus
                             <expan>q<ex>ue</ex></expan> se eles n’<expan>eusse<ex>n</ex>t</expan> pas esté
-                            <expan>esc<ex>ri</ex>tes</expan> .vii.</emph></incipit>
+                            <expan>esc<ex>ri</ex>tes</expan> .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="133b"/>
                           <title type="sub">[D. 34.9]</title>
-                          <incipit><emph n="rubrique">Des choses qui sont tolues a cels qui n’en <expan>so<ex>n</ex>t</expan> pas dignes .viii.</emph></incipit>
+                          <incipit><seg type="rubric">Des choses qui sont tolues a cels qui n’en <expan>so<ex>n</ex>t</expan> pas dignes .viii.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_infortiatum_livre11">
                         <locus from="134d" to="147d"/>
                         <title type="section" xml:lang="fr">Livre XI</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan>com<ex>en</ex>ce</expan> li onsiesmes livres d’Enforcade. Cist tytres est des adicions
                           <expan><ex>et</ex></expan> des demonstrances
                           <expan><ex>et</ex></expan> des manieres
                           <expan>q<ex>ui</ex></expan> sont escrites
                           <expan>e<ex>n</ex></expan>
-                          <expan>testam<ex>en</ex>t</expan> .i.</emph><lb/>Ulpians dit : Es lés qui sont lessié est mis ou jorz qui n’est pas
+                          <expan>testam<ex>en</ex>t</expan> .i.</seg><lb/>Ulpians dit : Es lés qui sont lessié est mis ou jorz qui n’est pas
                           <expan>c<ex>er</ex>tains</expan> ou
                           <expan>co<ex>n</ex>dicion</expan></incipit>
                         <explicit xml:lang="fro">Et einssi
@@ -715,24 +715,24 @@
                           <expan>q<ex>ue</ex></expan> li .c. qui pueent estre paié
                           <expan>sero<ex>n</ex>t</expan> devisé en
                           <expan>q<ex>ua</ex>tre</expan>
-                          <expan>p<ex>ar</ex>ties</expan>.<lb/><emph n="rubrique">Ci fenist Enforcade. <expan>Ap<ex>ré</ex>s</expan>
+                          <expan>p<ex>ar</ex>ties</expan>.<lb/><seg type="rubric">Ci fenist Enforcade. <expan>Ap<ex>ré</ex>s</expan>
                             <expan>viene<ex>n</ex>t</expan> .iii. parz de
                             <expan>q<ex>uo</ex>i</expan> li
-                            <expan>com<ex>men</ex>cem<ex>en</ex>t</expan> est de ceste derreniere loi.</emph></explicit>
+                            <expan>com<ex>men</ex>cem<ex>en</ex>t</expan> est de ceste derreniere loi.</seg></explicit>
                         <msItem>
                           <locus from="134d"/>
                           <title type="sub">[D. 35.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est des adicions
+                          <incipit><seg type="rubric">Cist tytres est des adicions
                             <expan><ex>et</ex></expan> des demonstrances
                             <expan><ex>et</ex></expan> des manieres
                             <expan>q<ex>ui</ex></expan> sont escrites
                             <expan>e<ex>n</ex></expan>
-                            <expan>testam<ex>en</ex>t</expan> .i.</emph></incipit>
+                            <expan>testam<ex>en</ex>t</expan> .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="142a"/>
                           <title type="sub">[D. 35.2]</title>
-                          <incipit><emph n="rubrique">De la loi qui retaille les lés .ii.</emph><supplied resp="#FD">s’achève aux 3/4 de D. 35.2.82</supplied></incipit>
+                          <incipit><seg type="rubric">De la loi qui retaille les lés .ii.</seg><supplied resp="#FD">s’achève aux 3/4 de D. 35.2.82</supplied></incipit>
                         </msItem>
                       </msItem>
                     </msItem>
@@ -742,31 +742,31 @@
                       <msItem xml:id="bordeaux_354_trespartes_livre1">
                         <locus from="148a" to="150d"/>
                         <title type="section" xml:lang="fr">Livre I [= D. 35.2.82 (fin)-D. 35.3]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li premiers livres de trois parz de quoi li com<supplied resp="#FD">encemen</supplied>z se joint a la fin d’Enforcade <expan><ex>et</ex></expan> est tout d’une meismes loi.</emph><lb/>Ulpians dit : Cil a qui li lés sont lessié aient les trois parz <expan><ex>et</ex></expan> li hoirs ait la <expan>q<ex>ua</ex>rte</expan>.</incipit>
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li premiers livres de trois parz de quoi li com<supplied resp="#FD">encemen</supplied>z se joint a la fin d’Enforcade <expan><ex>et</ex></expan> est tout d’une meismes loi.</seg><lb/>Ulpians dit : Cil a qui li lés sont lessié aient les trois parz <expan><ex>et</ex></expan> li hoirs ait la <expan>q<ex>ua</ex>rte</expan>.</incipit>
                         <explicit xml:lang="fro">...<expan>q<ex>ua</ex>r</expan> il n’est mie certaine chose <expan>q<ex>ue</ex></expan> la proprieté viegne a Tyce quant li usaires sera finez.</explicit>
                       </msItem>
                       <msItem xml:id="bordeaux_354_trespartes_livre2">
                         <locus from="150d" to="163c"/>
                         <title type="section" xml:lang="fr">Livre II [= D. 36.1.0-36.1.83]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li segonz livres de trois parz. Cist tytres est del conseill au senat qui est apelez tertullians qui dit
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li segonz livres de trois parz. Cist tytres est del conseill au senat qui est apelez tertullians qui dit
                           <expan>q<ex>ue</ex></expan> les
-                          <expan>actio<ex>n</ex>s</expan> de l’eritaige sivent l’eritaige .i.</emph><lb/> Ulpians dit : Aprés ce
+                          <expan>actio<ex>n</ex>s</expan> de l’eritaige sivent l’eritaige .i.</seg><lb/> Ulpians dit : Aprés ce
                           <expan>q<ex>ue</ex></expan> nos avons tretié de toutes les choses qui apartienent as lés <expan><ex>et</ex></expan> as choses enjointes...</incipit>
                         <explicit xml:lang="fro">...<expan><ex>et</ex></expan> il avoit esté enjoint a la <expan>m<ex>er</ex>e</expan>
                           <pb n="f. 163c"/> Policrape que ele rendist a son fill les lés qui li estoient lessiez.</explicit>
                         <msItem>
                           <locus from="150d"/>
                           <title type="sub">[D. 36.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est del conseill au senat qui est apelez tertullians qui dit
+                          <incipit><seg type="rubric">Cist tytres est del conseill au senat qui est apelez tertullians qui dit
                             <expan>q<ex>ue</ex></expan> les
-                            <expan>actio<ex>n</ex>s</expan> de l’eritaige sivent l’eritaige .i.</emph><supplied resp="#FD">incomplet : s’achève à la fin de D. 36.1.83</supplied></incipit>
+                            <expan>actio<ex>n</ex>s</expan> de l’eritaige sivent l’eritaige .i.</seg><supplied resp="#FD">incomplet : s’achève à la fin de D. 36.1.83</supplied></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_trespartes_livre3">
                         <locus from="163c" to="169a"/>
                         <title type="section" xml:lang="fr">Livre III [= D 36.2-36.4.15]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li tierz livres de troiz parz. Cist tytres est quant
-                          <expan>t<ex>er</ex>mes</expan> est de paier les lés et les choses enjointes .i.</emph><lb/>Ulpians dit :
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li tierz livres de troiz parz. Cist tytres est quant
+                          <expan>t<ex>er</ex>mes</expan> est de paier les lés et les choses enjointes .i.</seg><lb/>Ulpians dit :
                           <expan>Q<ex>ua</ex>nt</expan> cil est morz qui fist le
                           <expan>testam<ex>en</ex>t</expan> ja soit ce que...</incipit>
                         <explicit xml:lang="fro">...ou il a sacré aucune chose par l’otroi l’empereeur ou se il franchist
@@ -774,26 +774,26 @@
                         <msItem>
                           <locus from="163c"/>
                           <title type="sub">[D. 36.2]</title>
-                          <incipit><emph n="rubrique">Cist tytres est quant
-                            <expan>t<ex>er</ex>mes</expan> est de paier les lés et les choses enjointes .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est quant
+                            <expan>t<ex>er</ex>mes</expan> est de paier les lés et les choses enjointes .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="165d"/>
                           <title type="sub">[D. 36.3]</title>
-                          <incipit><emph n="rubrique"><expan>Q<ex>ue</ex></expan>
+                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan>
                             <expan>caucio<ex>n</ex></expan> soit donee de garder les lés <expan><ex>et</ex></expan> les choses
-                            <expan>e<ex>n</ex>joi<ex>n</ex>tes</expan></emph></incipit>
+                            <expan>e<ex>n</ex>joi<ex>n</ex>tes</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="167c"/>
                           <title type="sub">[D. 36.4]</title>
-                          <incipit><emph n="rubrique"><expan>Q<ex>ue</ex></expan> il loise a estre en possession por cause de lés ou de choses <expan>enjoi<ex>n</ex>tes</expan> .iii.</emph><supplied resp="#FD">incomplet : s’achève avec le paragraphe D. 36.4.15</supplied></incipit>
+                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> il loise a estre en possession por cause de lés ou de choses <expan>enjoi<ex>n</ex>tes</expan> .iii.</seg><supplied resp="#FD">incomplet : s’achève avec le paragraphe D. 36.4.15</supplied></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_trespartes_livre4">
                         <locus from="169a" to="187b"/>
                         <title type="section" xml:lang="fr">Livre IV [= D. 37]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li quarz livres de trois parz. Cist tytres est de cels qui porsieent les choses .i.</emph><lb/> Ulpians dit : Quant la possession des <expan>b<ex>ie</ex>ns</expan> est reoené li preu <expan><ex>et</ex></expan> li damaage de l’eritaige
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li quarz livres de trois parz. Cist tytres est de cels qui porsieent les choses .i.</seg><lb/> Ulpians dit : Quant la possession des <expan>b<ex>ie</ex>ns</expan> est reoené li preu <expan><ex>et</ex></expan> li damaage de l’eritaige
                           <expan><ex>et</ex></expan> la seignorie des choses apartienent a celui qui la reçoit</incipit>
                         <explicit xml:lang="fro">...se ele use de
                           <expan>so<ex>n</ex></expan> art contre la volanté a sa
@@ -801,235 +801,235 @@
                         <msItem>
                           <locus from="169a"/>
                           <title type="sub">[D. 37.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est de cels qui porsieent les choses .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est de cels qui porsieent les choses .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="170a"/>
                           <title type="sub">[D. 37.2]</title>
-                          <incipit><emph n="rubrique">Se les tables del testament
-                            <expan>dure<ex>n</ex>t</expan> encore .ii.</emph></incipit>
+                          <incipit><seg type="rubric">Se les tables del testament
+                            <expan>dure<ex>n</ex>t</expan> encore .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="170a"/>
                           <title type="sub">[D. 37.3]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>p<ex>os</ex>session</expan> des
                             <expan>b<ex>ie</ex>ns</expan> qui
                             <expan>apartiene<ex>n</ex>t</expan> au forsené
                             <expan><ex>et</ex></expan> au mu
                             <expan><ex>et</ex></expan> au sort
-                            <expan><ex>et</ex></expan> a l’avugle .iii.</emph></incipit>
+                            <expan><ex>et</ex></expan> a l’avugle .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="170b"/>
                           <title type="sub">[D. 37.4]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>possessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan> contre les tables .iiii.</emph></incipit>
+                            <expan>b<ex>ie</ex>ns</expan> contre les tables .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="173b"/>
                           <title type="sub">[D. 37.5]</title>
-                          <incipit><emph n="rubrique">De paier les lés
+                          <incipit><seg type="rubric">De paier les lés
                             <expan>qua<ex>n</ex>t</expan> la
                             <expan>p<ex>os</ex>sessio<ex>n</ex></expan> des
                             <expan>b<ex>ie</ex>ns</expan> est
                             <expan>dema<ex>n</ex>dee</expan>
-                            <expan><ex>con</ex>tre</expan> les tables .v.</emph></incipit>
+                            <expan><ex>con</ex>tre</expan> les tables .v.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="175c"/>
                           <title type="sub">[D. 37.6]</title>
-                          <incipit><emph n="rubrique">D’<expan>aport<ex>er</ex></expan> les biens a partie .vi.</emph></incipit>
+                          <incipit><seg type="rubric">D’<expan>aport<ex>er</ex></expan> les biens a partie .vi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="177d"/>
                           <title type="sub">[D. 37.7]</title>
-                          <incipit><emph n="rubrique">D’aporter douere a partie .vii.</emph></incipit>
+                          <incipit><seg type="rubric">D’aporter douere a partie .vii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="178b"/>
                           <title type="sub">[D. 37.9]</title>
-                          <incipit><emph n="rubrique">De metre feme grosse en
+                          <incipit><seg type="rubric">De metre feme grosse en
                             <expan>possessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan> .viii.</emph></incipit>
+                            <expan>b<ex>ie</ex>ns</expan> .viii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="179d"/>
                           <title type="sub">[D. 37.8]</title>
-                          <incipit><emph n="rubrique">D’<expan>a<ex>com</ex>pai<ex>n</ex>gn<ex>er</ex></expan> les neveuz au <expan>m<ex>or</ex>t</expan> a ses filz
-                            <expan>q<ex>ui</ex></expan> sont hors de baillie</emph><supplied resp="#FD">la rubrique est placée avant D. 37.9.10, qui précède immédiatement D. 37.8.1</supplied></incipit>
+                          <incipit><seg type="rubric">D’<expan>a<ex>com</ex>pai<ex>n</ex>gn<ex>er</ex></expan> les neveuz au <expan>m<ex>or</ex>t</expan> a ses filz
+                            <expan>q<ex>ui</ex></expan> sont hors de baillie</seg><supplied resp="#FD">la rubrique est placée avant D. 37.9.10, qui précède immédiatement D. 37.8.1</supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="181a"/>
                           <title type="sub">[D. 37.10]</title>
-                          <incipit><emph n="rubrique">Del
+                          <incipit><seg type="rubric">Del
                             <expan>banissem<ex>en</ex>t</expan>
-                            <expan>q<ex>ui</ex></expan> est apelez carbonians .x.</emph></incipit>
+                            <expan>q<ex>ui</ex></expan> est apelez carbonians .x.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="183c"/>
                           <title type="sub">[D. 37.11]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>p<ex>os</ex>sessio<ex>n</ex></expan> des
                             <expan>b<ex>ie</ex>ns</expan>
-                            <expan>selo<ex>n</ex>c</expan> les tables .xi.</emph></incipit>
+                            <expan>selo<ex>n</ex>c</expan> les tables .xi.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="185a"/>
                           <title type="sub">[D. 37.12]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>droit<ex>ur</ex>e</expan> a
                             <expan>ce<ex>us</ex></expan> qui
-                            <expan>o<ex>n</ex>t</expan> mis hors de lor poesté lor filz .xii.</emph></incipit>
+                            <expan>o<ex>n</ex>t</expan> mis hors de lor poesté lor filz .xii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="185b"/>
                           <title type="sub">[D. 37.13]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>poss<ex>essi</ex>on</expan> des
                             <expan>b<ex>ie</ex>ns</expan> du
                             <expan>testam<ex>en</ex>t</expan> aus
-                            <expan>ch<ex>eva</ex>l<ex>ie</ex>rs</expan></emph></incipit>
+                            <expan>ch<ex>eva</ex>l<ex>ie</ex>rs</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="185c"/>
                           <title type="sub">[D. 37.14]</title>
-                          <incipit><emph n="rubrique">De la droiture de patronaige .xiii.</emph></incipit>
+                          <incipit><seg type="rubric">De la droiture de patronaige .xiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="186d"/>
                           <title type="sub">[D. 37.15]</title>
-                          <incipit><emph n="rubrique">Des servises
+                          <incipit><seg type="rubric">Des servises
                             <expan>q<ex>ue</ex></expan> li enfant
                             <expan><ex>et</ex></expan> cil qui
                             <expan>so<ex>n</ex>t</expan> franchi
                             <expan>doive<ex>n</ex>t</expan> fere a lor
                             <expan>p<ex>er</ex>es</expan>
-                            <expan><ex>et</ex></expan> a lor patrons .xiiii.</emph></incipit>
+                            <expan><ex>et</ex></expan> a lor patrons .xiiii.</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_trespartes_livre5">
                         <locus from="187b" to="205a"/>
                         <title type="section" xml:lang="fr">Livre V [= D. 38]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
-                          <expan>co<ex>m</ex>mence</expan> le quint livre de .iii. <expan>p<ex>ar</ex>s</expan>. Cest tytre est des jornees a <expan>ce<ex>us</ex></expan> qui sont franchiz .i.</emph><lb/>Ulpians dit : Li
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
+                          <expan>co<ex>m</ex>mence</expan> le quint livre de .iii. <expan>p<ex>ar</ex>s</expan>. Cest tytre est des jornees a <expan>ce<ex>us</ex></expan> qui sont franchiz .i.</seg><lb/>Ulpians dit : Li
                           <expan>p<ex>re</ex>volz</expan> propose cest banissement por <expan>refren<ex>er</ex></expan>
                           <expan>ce<ex>us</ex></expan> qui contralient
                           <expan>fra<ex>n</ex>chise</expan></incipit>
-                        <explicit xml:lang="fro">...mes li enfes ne nest pas ou il nest morz ou li filz estoit en chetivoison dont il ne revint pas.<lb/><supplied resp="#FD">après un saut de 7 UR, d’une main médiévale postérieure à celle du copiste</supplied><emph n="rubrique">Ci fine l’Enforsade en <expan>fra<ex>n</ex>çois</expan></emph></explicit>
+                        <explicit xml:lang="fro">...mes li enfes ne nest pas ou il nest morz ou li filz estoit en chetivoison dont il ne revint pas.<lb/><supplied resp="#FD">après un saut de 7 UR, d’une main médiévale postérieure à celle du copiste</supplied><seg type="rubric">Ci fine l’Enforsade en <expan>fra<ex>n</ex>çois</expan></seg></explicit>
                         <msItem>
                           <locus from="187b"/>
                           <title type="sub">[D. 38.1]</title>
-                          <incipit><emph n="rubrique">Cest tytre est des jornees a
-                            <expan>ce<ex>us</ex></expan> qui sont franchiz .i.</emph></incipit>
+                          <incipit><seg type="rubric">Cest tytre est des jornees a
+                            <expan>ce<ex>us</ex></expan> qui sont franchiz .i.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="189c"/>
                           <title type="sub">[D. 38.2]</title>
-                          <incipit><emph n="rubrique">Des <expan>b<ex>ie</ex>ns</expan> a cels qui sont <expan>fra<ex>n</ex>chiz</expan> .ii.</emph></incipit>
+                          <incipit><seg type="rubric">Des <expan>b<ex>ie</ex>ns</expan> a cels qui sont <expan>fra<ex>n</ex>chiz</expan> .ii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="194c"/>
                           <title type="sub">[D. 38.3]</title>
-                          <incipit><emph n="rubrique">De <expan>ce<ex>us</ex></expan> qui <expan>so<ex>n</ex>t</expan>
+                          <incipit><seg type="rubric">De <expan>ce<ex>us</ex></expan> qui <expan>so<ex>n</ex>t</expan>
                             <expan>f<ex>ra</ex>nchis</expan> des
-                            <expan>univ<ex>er</ex>sitez</expan></emph></incipit>
+                            <expan>univ<ex>er</ex>sitez</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="194c"/>
                           <title type="sub">[D. 38.4]</title>
-                          <incipit><emph n="rubrique">D’assigner cels
-                            <expan>q<ex>ui</ex></expan> sont franchiz .iii.</emph></incipit>
+                          <incipit><seg type="rubric">D’assigner cels
+                            <expan>q<ex>ui</ex></expan> sont franchiz .iii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="195b"/>
                           <title type="sub">[D. 38.5]</title>
-                          <incipit><emph n="rubrique">Se aucune chose est fete en grevance del patron .iiii.</emph></incipit>
+                          <incipit><seg type="rubric">Se aucune chose est fete en grevance del patron .iiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="196d"/>
                           <title type="sub">[D. 38.6.1-2]</title>
-                          <incipit><emph n="rubrique">De
+                          <incipit><seg type="rubric">De
                             <expan>demand<ex>er</ex></expan> la
                             <expan>possessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan> sanz testament</emph></incipit>
+                            <expan>b<ex>ie</ex>ns</expan> sanz testament</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="197b"/>
                           <title type="sub">[D. 38.6.3-9]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>poss<ex>essi</ex>on</expan> des
                             <expan>b<ex>ie</ex>ns</expan>
                             <expan>q<ex>ui</ex></expan> est
-                            <expan>donn<ex>ee</ex></expan> aus enfans</emph></incipit>
+                            <expan>donn<ex>ee</ex></expan> aus enfans</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="197d"/>
                           <title type="sub">[D. 38.7]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>possessio<ex>n</ex></expan> des
                             <expan>b<ex>ie</ex>ns</expan>
-                            <expan>q<ex>ui</ex></expan> est donee par les lois</emph></incipit>
+                            <expan>q<ex>ui</ex></expan> est donee par les lois</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="198a"/>
                           <title type="sub">[D. 38.8]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>possessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan> qui est donee as cousins</emph></incipit>
+                            <expan>b<ex>ie</ex>ns</expan> qui est donee as cousins</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="198c"/>
                           <title type="sub">[D. 38.9]</title>
-                          <incipit><emph n="rubrique">Del
-                            <expan>banissem<ex>e</ex>nt</expan> de recevoir l’eritaige as morz</emph></incipit>
+                          <incipit><seg type="rubric">Del
+                            <expan>banissem<ex>e</ex>nt</expan> de recevoir l’eritaige as morz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="199a"/>
                           <title type="sub">[D. 38.10]</title>
-                          <incipit><emph n="rubrique">Des degrez de lignaige
-                            <expan><ex>et</ex></expan> d’affinitez</emph></incipit>
+                          <incipit><seg type="rubric">Des degrez de lignaige
+                            <expan><ex>et</ex></expan> d’affinitez</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="200c"/>
                           <title type="sub">[D. 38.11]</title>
-                          <incipit><emph n="rubrique"><expan>Com<ex>en</ex>t</expan> li mariz <expan><ex>et</ex></expan> sa feme
-                            <expan>so<ex>n</ex>t</expan> hoir li .i. a l’autre</emph></incipit>
+                          <incipit><seg type="rubric"><expan>Com<ex>en</ex>t</expan> li mariz <expan><ex>et</ex></expan> sa feme
+                            <expan>so<ex>n</ex>t</expan> hoir li .i. a l’autre</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="200d"/>
                           <title type="sub">[D. 38.12]</title>
-                          <incipit><emph n="rubrique">De l’eritaige as anciens
-                            <expan>ch<ex>evalie</ex>rs</expan></emph></incipit>
+                          <incipit><seg type="rubric">De l’eritaige as anciens
+                            <expan>ch<ex>evalie</ex>rs</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="200d"/>
                           <title type="sub">[D. 38.13]</title>
-                          <incipit><emph n="rubrique">A qui la possession des
-                            <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</emph></incipit>
+                          <incipit><seg type="rubric">A qui la possession des
+                            <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="200d"/>
                           <title type="sub">[D. 38.14]</title>
-                          <incipit><emph n="rubrique"><expan>Qu<ex>an</ex>t</expan> possession de <expan>b<ex>ie</ex>ns</expan> est donee par les lois ou <expan>p<ex>ar</ex></expan> le
-                            <expan><ex>con</ex>seill</expan> au senat .xiii.</emph></incipit>
+                          <incipit><seg type="rubric"><expan>Qu<ex>an</ex>t</expan> possession de <expan>b<ex>ie</ex>ns</expan> est donee par les lois ou <expan>p<ex>ar</ex></expan> le
+                            <expan><ex>con</ex>seill</expan> au senat .xiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="201a"/>
                           <title type="sub">[D. 38.15]</title>
-                          <incipit><emph n="rubrique">Quele ordre doit estre gardee en la possession des <expan>b<ex>ie</ex>ns</expan> .xiiii.</emph></incipit>
+                          <incipit><seg type="rubric">Quele ordre doit estre gardee en la possession des <expan>b<ex>ie</ex>ns</expan> .xiiii.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="201b"/>
                           <title type="sub">[D. 38.16]</title>
-                          <incipit><emph n="rubrique">Des propres hoirs et de cels qui sont hoir par les lois .xv.</emph></incipit>
+                          <incipit><seg type="rubric">Des propres hoirs et de cels qui sont hoir par les lois .xv.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="202d"/>
                           <title type="sub">[D. 38.17]</title>
-                          <incipit><emph n="rubrique">Del conseill au senat
-                            <expan>q<ex>ui</ex></expan> est apelez orfician</emph></incipit>
+                          <incipit><seg type="rubric">Del conseill au senat
+                            <expan>q<ex>ui</ex></expan> est apelez orfician</seg></incipit>
                         </msItem>
                       </msItem>
                     </msItem>
@@ -1103,7 +1103,7 @@
                   <div type="edition" n="1" xml:id="bordeaux_354.D.25.4">
                     <head>D. 25.4</head>
                     <p xml:id="bordeaux_354-D.25.4.0"><label>[25.4.0]</label>
-                      <emph n="rubrique">De garder le ventre a la feme qui dit que ele est grosse .v.</emph>
+                      <seg type="rubric">De garder le ventre a la feme qui dit que ele est grosse .v.</seg>
                       <label>[25.4.1]</label> Ulpians dit. <label>[pr.]</label> il avint ou tans aus S. freres que uns homs disoit que sa feme estoit grosse. et ele le nioit. <expan><ex>et</ex></expan>
                       <expan>qu<ex>an</ex>t</expan>
                       <expan><ex>con</ex>seulz</expan> leur en fu demandez. il
@@ -1187,7 +1187,7 @@
                   <div type="edition" n="2" xml:id="bordeaux_354.D.38">
                     <head>D. 38.11-15</head>
                     <p xml:id="bordeaux_354-D.38.11"><label>[D. 38.11]</label>
-                      <emph n="rubrique"><expan>Com<ex>en</ex>t</expan> li mariz et sa feme <expan>so<ex>n</ex>t</expan> hoir li .i. a l’autre .x.</emph>
+                      <seg type="rubric"><expan>Com<ex>en</ex>t</expan> li mariz et sa feme <expan>so<ex>n</ex>t</expan> hoir li .i. a l’autre .x.</seg>
                       <hi rend="b">U</hi>lpians dit. <hi rend="b">A</hi> ce
                       <expan>q<ex>ue</ex></expan> li mariz
                       <expan><ex>et</ex></expan> la feme aient li uns la
@@ -1209,7 +1209,7 @@
                       <expan>iuli<ex>us</ex></expan> fist des avoltres qui dit
                       <expan>q<ex>ue</ex></expan> li departemenz ne vaille riens. se il n’est fez en <expan>c<ex>er</ex>taine</expan> maniere. </p>
                     <p xml:id="bordeaux_354-D.38.12"><label>[D. 38.12]</label>
-                      <emph n="rubrique">De l’eritaige as anciens chevaliers .xi.</emph>
+                      <seg type="rubric">De l’eritaige as anciens chevaliers .xi.</seg>
                       <hi rend="b">M</hi>arceaus dit. <hi rend="b">P</hi>aulus <expan><ex>et</ex></expan> meandres es escristrent que l’en doit otroier au <expan>ch<ex>evalie</ex>r</expan> qui a desservi a estre puniz par paine capital.
                       <expan>q<ex>ue</ex></expan> il face
                       <expan>testam<ex>en</ex>t</expan>
@@ -1225,8 +1225,8 @@
                       <expan>b<ex>ie</ex>ns</expan> dedenz le
                       <expan>t<ex>er</ex>me</expan> qui est establiz.</p>
                     <p xml:id="bordeaux_354-D.38.13"><label>[D. 38.13]</label>
-                      <emph n="rubrique">A qui la possession des
-                        <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tient</expan> mie .xii.</emph>
+                      <seg type="rubric">A qui la possession des
+                        <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tient</expan> mie .xii.</seg>
                       <hi rend="b">J</hi>ulians dit. <hi rend="b">Q</hi>uant mes sers fu fez hoirs. ge fis par trecherie
                       <expan>q<ex>ue</ex></expan> li
                       <expan>testam<ex>en</ex>z</expan> ne fust mie muez.
@@ -1237,8 +1237,8 @@
                       <expan>q<ex>ue</ex></expan> li <expan>testam<ex>en</ex>z</expan> ne fust muez en quoi ses sers estoit fez hoirs. ja soit ce qu’il estoit franchiz <expan>q<ex>ua</ex>nt</expan> il reçut l’eritaige. les actions li soient vaees. quar au fill qui seroit hors de baill seroient eles vaees. se ses <expan>p<ex>er</ex>es</expan> avoit fet par <expan>trich<ex>er</ex>ie</expan>
                       <expan>q<ex>ue</ex></expan> li <expan>testam<ex>en</ex>z</expan> ne fust muez.</p>
                     <p xml:id="bordeaux_354-D.38.14"><label>[D. 38.14]</label>
-                      <emph n="rubrique"><expan>Q<ex>ua</ex>nt</expan> possession de
-                        <expan>b<ex>ie</ex>ns</expan> est donee par les lois ou par le <expan><ex>con</ex>seill</expan> au senat .xiii.</emph>
+                      <seg type="rubric"><expan>Q<ex>ua</ex>nt</expan> possession de
+                        <expan>b<ex>ie</ex>ns</expan> est donee par les lois ou par le <expan><ex>con</ex>seill</expan> au senat .xiii.</seg>
                       <hi rend="b">U</hi>lpians dit. <hi rend="b">L</hi>i
                       <expan>p<ex>re</ex>volz</expan> dit.
                       <expan>sico<ex>m</ex>me</expan> il covendra
@@ -1252,7 +1252,7 @@
                       <expan>autrem<ex>en</ex>t</expan>. se la loi ne li done
                       <expan>especialm<ex>en</ex>t</expan>.</p>
                     <p xml:id="bordeaux_354-D.38.15"><label>[D. 38.15]</label>
-                      <emph n="rubrique">Quele ordre doit estre gardee en la possession des <expan>b<ex>ie</ex>ns</expan> .xiiii.</emph>
+                      <seg type="rubric">Quele ordre doit estre gardee en la possession des <expan>b<ex>ie</ex>ns</expan> .xiiii.</seg>
                       <hi rend="b">M</hi>odestins dit. <expan><hi rend="b">Q</hi>ua<ex>n</ex>t</expan>
                       <expan>au<ex>cun</ex>s</expan> muert sanz fere
                       <expan>testam<ex>en</ex>t</expan> si enfant
@@ -1289,12 +1289,12 @@
                       <msItem xml:id="rouen_794_infortiatum_livre1">
                         <locus from="2a" to="13a"/>
                         <title type="section" xml:lang="fr">Livre I</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan>com<ex>en</ex>ce</expan> li
                           <expan>p<ex>re</ex>miers</expan>
                           <expan>liv<ex>re</ex>s</expan> d’Enforcade. Cist
                           <expan>tyt<ex>re</ex>s</expan> est
-                          <expan><ex>com</ex>ment</expan> doeres doit estre demandez <expan>q<ex>ua</ex>nt</expan> mariages est departy.</emph><lb/>Paulus dit : La cause de douere est toz jorz <expan><ex>et</ex></expan> en touz leus plus favorable <expan>q<ex>ue</ex></expan> autres, car c’est li
+                          <expan><ex>com</ex>ment</expan> doeres doit estre demandez <expan>q<ex>ua</ex>nt</expan> mariages est departy.</seg><lb/>Paulus dit : La cause de douere est toz jorz <expan><ex>et</ex></expan> en touz leus plus favorable <expan>q<ex>ue</ex></expan> autres, car c’est li
                           <expan>comu<ex>n</ex>s</expan> preuz
                           <expan>q<ex>ue</ex></expan> li douere soient gardé as femes.</incipit>
                         <explicit xml:lang="fro">Paulus dit : Il covient apeler meschine por le seul proposement de son corage.<lb/>Cil meismes dit : Aucuns baillis puet avoir meschine de la contree
@@ -1303,102 +1303,102 @@
                         <msItem>
                           <locus from="2a"/>
                           <title type="sub">[D. 24.3]</title>
-                          <incipit><emph n="rubrique">Cist
+                          <incipit><seg type="rubric">Cist
                             <expan>tyt<ex>re</ex>s</expan> est
-                            <expan><ex>com</ex>ment</expan> doeres doit estre demandez <expan>q<ex>ua</ex>nt</expan> mariages est departy</emph></incipit>
+                            <expan><ex>com</ex>ment</expan> doeres doit estre demandez <expan>q<ex>ua</ex>nt</expan> mariages est departy</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="7c"/>
                           <title type="sub">[D. 25.1]</title>
-                          <incipit><emph n="rubrique">Des
-                            <expan>despe<ex>n</ex>ses</expan> qui sont fetes es choses del doere</emph></incipit>
+                          <incipit><seg type="rubric">Des
+                            <expan>despe<ex>n</ex>ses</expan> qui sont fetes es choses del doere</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="8b"/>
                           <title type="sub">[D. 25.2]</title>
-                          <incipit><emph n="rubrique">D’action de choses ostees</emph></incipit>
+                          <incipit><seg type="rubric">D’action de choses ostees</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="9d"/>
                           <title type="sub">[D. 25.3]</title>
-                          <incipit><emph n="rubrique">De
+                          <incipit><seg type="rubric">De
                             <expan>reconoist<ex>re</ex></expan> les enfanz
                             <expan><ex>et</ex></expan> de norrir les ou les peres ou les <expan>patro<ex>n</ex>s</expan> ou cels
                             <expan>q<ex>ui</ex></expan>
                             <expan>o<ex>n</ex>t</expan> esté
-                            <expan>f<ex>ra</ex>nchi</expan></emph></incipit>
+                            <expan>f<ex>ra</ex>nchi</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="11b"/>
                           <title type="sub">[D. 25.4]</title>
-                          <incipit><emph n="rubrique">De regarder le ventre a la feme qui dit <expan>q<ex>ue</ex></expan> ele est grosse</emph></incipit>
+                          <incipit><seg type="rubric">De regarder le ventre a la feme qui dit <expan>q<ex>ue</ex></expan> ele est grosse</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="12b"/>
                           <title type="sub">[D. 25.5]</title>
-                          <incipit><emph n="rubrique">Se la feme qui est mise en possession el non de son ventre baille a autre la possession par tricherie</emph></incipit>
+                          <incipit><seg type="rubric">Se la feme qui est mise en possession el non de son ventre baille a autre la possession par tricherie</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="12c"/>
                           <title type="sub">[D. 25.6]</title>
-                          <incipit><emph n="rubrique">Se feme est a tort en possession el non de son ventre</emph></incipit>
+                          <incipit><seg type="rubric">Se feme est a tort en possession el non de son ventre</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="12d"/>
                           <title type="sub">[D. 25.7]</title>
-                          <incipit><emph n="rubrique">Des meschines</emph></incipit>
+                          <incipit><seg type="rubric">Des meschines</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre2">
                         <locus from="12’a" to="29a"/>
                         <title type="section" xml:lang="fr">Livre II</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci commence li segonz livres d’Enforcade.</emph><lb/><emph n="rubrique">Cist tytres est de gardes.</emph><lb/><pb n="f. 12'b"/> Ulpians dit : Garde, si come Servius dit, est droiture
+                        <incipit xml:lang="fro"><seg type="rubric">Ci commence li segonz livres d’Enforcade.</seg><lb/><seg type="rubric">Cist tytres est de gardes.</seg><lb/><pb n="f. 12'b"/> Ulpians dit : Garde, si come Servius dit, est droiture
                           <expan><ex>et</ex></expan> poesté
                           <expan>q<ex>ue</ex></expan> aucuns a en franc chief por desfendre celui qui por son aage ne se puet deffendre par lui...</incipit>
                         <explicit xml:lang="fro">Je croi <expan>q<ex>ue</ex></expan> tu doiz par droit aler contre cest barat si
-                          <expan>q<ex>ue</ex></expan> li filz soit contrainz de recevoir la garde des enfanz.<lb/><emph n="rubrique">Ci fenist li segonz livres d’Enforcade. Ci commence li tierz.</emph></explicit>
+                          <expan>q<ex>ue</ex></expan> li filz soit contrainz de recevoir la garde des enfanz.<lb/><seg type="rubric">Ci fenist li segonz livres d’Enforcade. Ci commence li tierz.</seg></explicit>
                         <msItem>
                           <locus from="12’a"/>
                           <title type="sub">[D. 26.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est de gardes</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est de gardes</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="13b"/>
                           <title type="sub">[D. 26.2]</title>
-                          <incipit><emph n="rubrique">De garde qui est donee en testament</emph></incipit>
+                          <incipit><seg type="rubric">De garde qui est donee en testament</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="15b"/>
                           <title type="sub">[D. 26.3]</title>
-                          <incipit><emph n="rubrique">De confermer deffendeeur ou procureeur</emph></incipit>
+                          <incipit><seg type="rubric">De confermer deffendeeur ou procureeur</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="15d"/>
                           <title type="sub">[D. 26.4]</title>
-                          <incipit><emph n="rubrique">De garde qui vient
-                            <expan>p<ex>ar</ex></expan> les lois</emph></incipit>
+                          <incipit><seg type="rubric">De garde qui vient
+                            <expan>p<ex>ar</ex></expan> les lois</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="16d"/>
                           <title type="sub">[D. 26.5]</title>
-                          <incipit><emph n="rubrique">Des deffendeeurs
+                          <incipit><seg type="rubric">Des deffendeeurs
                             <expan><ex>et</ex></expan> des procureeurs
                             <expan>q<ex>ui</ex></expan> sont doné par cels qui ont pooir de doner les <expan><ex>et</ex></expan> li
                             <expan>q<ex>ue</ex>l</expan>
                             <expan>puee<ex>n</ex>t</expan> estre doné especialment
                             <expan><ex>et</ex></expan> li
-                            <expan>q<ex>ue</ex>l</expan></emph></incipit>
+                            <expan>q<ex>ue</ex>l</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="17d"/>
                           <title type="sub">[D. 26.6]</title>
-                          <incipit><emph n="rubrique">Qui doit
+                          <incipit><seg type="rubric">Qui doit
                             <expan>dema<ex>n</ex>der</expan>
                             <expan>deffe<ex>n</ex>deeurs</expan>
                             <expan><ex>et</ex></expan>
                             <expan>p<ex>ro</ex>cureeurs</expan> et ou il
                             <expan>doive<ex>n</ex>t</expan> estre
-                            <expan>dema<ex>n</ex>dé</expan></emph></incipit>
+                            <expan>dema<ex>n</ex>dé</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="18b"/>
@@ -1409,94 +1409,94 @@
                         <msItem>
                           <locus from="26a"/>
                           <title type="sub">[D. 26.8]</title>
-                          <incipit><emph n="rubrique">De l’actorité
+                          <incipit><seg type="rubric">De l’actorité
                             <expan><ex>et</ex></expan> de l’assentement as
                             <expan>deffe<ex>n</ex>deeurs</expan>
-                            <expan><ex>et</ex></expan> as procureeurs</emph></incipit>
+                            <expan><ex>et</ex></expan> as procureeurs</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="27b"/>
                           <title type="sub">[D. 26.9]</title>
-                          <incipit><emph n="rubrique"><expan>Q<ex>ua</ex>nt</expan> cil qui sont dedenz aage pueent empledier ou estre emplediez por le fet as deffendeeurs ou as procureeurs</emph></incipit>
+                          <incipit><seg type="rubric"><expan>Q<ex>ua</ex>nt</expan> cil qui sont dedenz aage pueent empledier ou estre emplediez por le fet as deffendeeurs ou as procureeurs</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="27c"/>
                           <title type="sub">[D. 26.10]</title>
-                          <incipit><emph n="rubrique">De deffendeeurs ou de procureeurs qui sont soupeçonneus</emph></incipit>
+                          <incipit><seg type="rubric">De deffendeeurs ou de procureeurs qui sont soupeçonneus</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre3">
                         <locus from="29b" to="42d"/>
                         <title type="section" xml:lang="fr">Livre III</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Cist tytres est d’escusemenz.</emph><lb/>Ulpians dit : Modestius envoia a Ignace .i. livre <expan>m<ex>ou</ex>lt</expan> proufitable si come il m’est avis de l’escusement de garde
+                        <incipit xml:lang="fro"><seg type="rubric">Cist tytres est d’escusemenz.</seg><lb/>Ulpians dit : Modestius envoia a Ignace .i. livre <expan>m<ex>ou</ex>lt</expan> proufitable si come il m’est avis de l’escusement de garde
                           <expan><ex>et</ex></expan> de cure.</incipit>
-                        <explicit xml:lang="fro">Gaius dit : Li procurerres au forsené ne peut en nule maniere doner franchise car cele chose n’est pas de l’aministracion car <expan>q<ex>ua</ex>nt</expan> il baille les choses au forsené il les estrange se ce apartient a l’aministracion des besoignes et por ce, se il les done, ce ne vaut riens s’il ne le fet por grant preu au forsené.<lb/><emph n="rubrique">Ci fenist li tierz livres. Ci comence li quarz.</emph></explicit>
+                        <explicit xml:lang="fro">Gaius dit : Li procurerres au forsené ne peut en nule maniere doner franchise car cele chose n’est pas de l’aministracion car <expan>q<ex>ua</ex>nt</expan> il baille les choses au forsené il les estrange se ce apartient a l’aministracion des besoignes et por ce, se il les done, ce ne vaut riens s’il ne le fet por grant preu au forsené.<lb/><seg type="rubric">Ci fenist li tierz livres. Ci comence li quarz.</seg></explicit>
                         <msItem>
                           <locus from="29b"/>
                           <title type="sub">[D. 27.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est d’escusemenz</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est d’escusemenz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="34b"/>
                           <title type="sub">[D. 27.2]</title>
-                          <incipit><emph n="rubrique"><expan><ex>Ou</ex></expan> li enfant doivent demorer <expan><ex>et</ex></expan> estre norri et de doner lor norreture</emph></incipit>
+                          <incipit><seg type="rubric"><expan><ex>Ou</ex></expan> li enfant doivent demorer <expan><ex>et</ex></expan> estre norri et de doner lor norreture</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="35a"/>
                           <title type="sub">[D. 27.3]</title>
-                          <incipit><emph n="rubrique">D’action de garde
+                          <incipit><seg type="rubric">D’action de garde
                             <expan><ex>et</ex></expan> de rendre
-                            <expan>co<ex>n</ex>te</expan></emph></incipit>
+                            <expan>co<ex>n</ex>te</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="37a"/>
                           <title type="sub">[D. 27.4]</title>
-                          <incipit><emph n="rubrique">De contrere
-                            <expan>jugem<ex>en</ex>t</expan> de garde</emph></incipit>
+                          <incipit><seg type="rubric">De contrere
+                            <expan>jugem<ex>en</ex>t</expan> de garde</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="37c"/>
                           <title type="sub">[D. 27.5]</title>
-                          <incipit><emph n="rubrique">De celui qui fet les besoignes en leu del deffendeeur</emph></incipit>
+                          <incipit><seg type="rubric">De celui qui fet les besoignes en leu del deffendeeur</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="38a"/>
                           <title type="sub">[D. 27.6]</title>
-                          <incipit><emph n="rubrique">De ce qui est fet par faus deffendeeur</emph></incipit>
+                          <incipit><seg type="rubric">De ce qui est fet par faus deffendeeur</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="38d"/>
                           <title type="sub">[D. 27.7]</title>
-                          <incipit><emph n="rubrique">Des pleges
+                          <incipit><seg type="rubric">Des pleges
                             <expan><ex>et</ex></expan> des
                             <expan>no<ex>m</ex>ineeurs</expan>
                             <expan><ex>et</ex></expan> des hoirs as deffendeeurs
-                            <expan><ex>et</ex></expan> as procureeurs</emph></incipit>
+                            <expan><ex>et</ex></expan> as procureeurs</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="39a"/>
                           <title type="sub">[D. 27.8]</title>
-                          <incipit><emph n="rubrique">De trere en cause les baillis
-                            <expan><ex>et</ex></expan> les hoirs</emph></incipit>
+                          <incipit><seg type="rubric">De trere en cause les baillis
+                            <expan><ex>et</ex></expan> les hoirs</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="40a"/>
                           <title type="sub">[D. 27.9]</title>
-                          <incipit><emph n="rubrique">Que li bien a cels qui sont dedenz aage ne soient estrangié sanz
-                            <expan>jugeme<ex>n</ex>t</expan></emph></incipit>
+                          <incipit><seg type="rubric">Que li bien a cels qui sont dedenz aage ne soient estrangié sanz
+                            <expan>jugeme<ex>n</ex>t</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="41d"/>
                           <title type="sub">[D. 27.10]</title>
-                          <incipit><emph n="rubrique">Des procureors qui sont doné au forssenez <expan><ex>et</ex></expan> as autres qui ont plus de .xxv. anz</emph></incipit>
+                          <incipit><seg type="rubric">Des procureors qui sont doné au forssenez <expan><ex>et</ex></expan> as autres qui ont plus de .xxv. anz</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre4">
                         <locus from="42d" to="59d"/>
                         <title type="section" xml:lang="fr">Livre IV</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Cist tytres est li quel pueent fere <expan>testam<ex>en</ex>t</expan>
+                        <incipit xml:lang="fro"><seg type="rubric">Cist tytres est li quel pueent fere <expan>testam<ex>en</ex>t</expan>
                           <expan><ex>et</ex></expan> coment
-                          <expan>testam<ex>en</ex>t</expan> puet estre.</emph><lb/>Ulpians dit : Testamenz est droite sentence de nostre <expan>vole<ex>n</ex>té</expan> de ce
+                          <expan>testam<ex>en</ex>t</expan> puet estre.</seg><lb/>Ulpians dit : Testamenz est droite sentence de nostre <expan>vole<ex>n</ex>té</expan> de ce
                           <expan>q<ex>ue</ex></expan> aucuns vuelt
                           <expan>q<ex>ue</ex></expan> soit fet aprés sa mort.</incipit>
                         <explicit xml:lang="fro">...se il apert
@@ -1505,35 +1505,35 @@
                         <msItem>
                           <locus from="42d"/>
                           <title type="sub">[D. 28.1]</title>
-                          <incipit><emph n="rubrique">Cist tytres est li quel pueent fere <expan>testam<ex>en</ex>t</expan>
+                          <incipit><seg type="rubric">Cist tytres est li quel pueent fere <expan>testam<ex>en</ex>t</expan>
                             <expan><ex>et</ex></expan> coment
-                            <expan>testam<ex>en</ex>t</expan> puet estre</emph></incipit>
+                            <expan>testam<ex>en</ex>t</expan> puet estre</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="44b"/>
                           <title type="sub">[D. 28.2]</title>
-                          <incipit><emph n="rubrique">De fere hoirs ou de deseriter les enfanz ou cels qui sont encore el ventre lor mere</emph></incipit>
+                          <incipit><seg type="rubric">De fere hoirs ou de deseriter les enfanz ou cels qui sont encore el ventre lor mere</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="46c"/>
                           <title type="sub">[D. 28.3]</title>
-                          <incipit><emph n="rubrique">De testament qui n’est pas loiaus ou <expan>q<ex>ui</ex></expan> est rouz ou
-                            <expan>q<ex>ui</ex></expan> est vains</emph></incipit>
+                          <incipit><seg type="rubric">De testament qui n’est pas loiaus ou <expan>q<ex>ui</ex></expan> est rouz ou
+                            <expan>q<ex>ui</ex></expan> est vains</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="48c"/>
                           <title type="sub">[D. 28.4]</title>
-                          <incipit><emph n="rubrique">De choses qui sont effaciciees ou dantees ou escrites en testament</emph></incipit>
+                          <incipit><seg type="rubric">De choses qui sont effaciciees ou dantees ou escrites en testament</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="49b"/>
                           <title type="sub">[D. 28.5]</title>
-                          <incipit><emph n="rubrique">D’establir hoirs</emph></incipit>
+                          <incipit><seg type="rubric">D’establir hoirs</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="53c"/>
                           <title type="sub">[D. 28.6]</title>
-                          <incipit><emph n="rubrique"><expan><ex>De</ex></expan> fere hoirs el segont degré</emph></incipit>
+                          <incipit><seg type="rubric"><expan><ex>De</ex></expan> fere hoirs el segont degré</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="57c"/>
@@ -1612,25 +1612,25 @@
                       <msItem xml:id="rouen_794_infortiatum_livre7">
                         <locus from="83d" to="92d"/>
                         <title type="section" xml:lang="fr">Livre VII</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li septismes livres d’Enforcade. Cist tytres est de lés
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li septismes livres d’Enforcade. Cist tytres est de lés
                           <expan><ex>et</ex></expan> de choses enjointes
-                          <expan>seco<ex>n</ex>de</expan> foiz.</emph><lb/>Ulpians dit : Lés puet estre donez en jugement d’autrui autresi come condicion.</incipit>
+                          <expan>seco<ex>n</ex>de</expan> foiz.</seg><lb/>Ulpians dit : Lés puet estre donez en jugement d’autrui autresi come condicion.</incipit>
                         <explicit xml:lang="fro">...<expan><ex>et</ex></expan> li hoir a la feme doivent rendre le pris a cels a qui li chans deust estre renduz.</explicit>
                         <msItem>
                           <locus from="83d"/>
                           <title type="sub">[D. 31.0]</title>
-                          <incipit><emph n="rubrique">Cist tytres est de lés
+                          <incipit><seg type="rubric">Cist tytres est de lés
                             <expan><ex>et</ex></expan> de choses enjointes
-                            <expan>seco<ex>n</ex>de</expan> foiz</emph></incipit>
+                            <expan>seco<ex>n</ex>de</expan> foiz</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre8">
                         <locus from="93a" to="106a"/>
                         <title type="section" xml:lang="fr">[Livre VIII]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li septiemes livres d’Enforcade. Cist tytres
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li septiemes livres d’Enforcade. Cist tytres
                           <expan><ex>est</ex></expan> de lés
                           <expan><ex>et</ex></expan> de choses
-                          <expan>enjoi<ex>n</ex>tes</expan> tierce foiz.</emph><lb/>Ulpians dit : Se
+                          <expan>enjoi<ex>n</ex>tes</expan> tierce foiz.</seg><lb/>Ulpians dit : Se
                           <expan>aucu<ex>n</ex>s</expan> n’est pas certains se il est en chetivoison ou en main de larrons il ne puet fere
                           <expan>testame<ex>n</ex>t</expan></incipit>
                         <explicit xml:lang="fro"><expan>Q<ex>ua</ex>r</expan> autresi comme la charge est creue a celui a
@@ -1639,16 +1639,16 @@
                         <msItem>
                           <locus from="93a"/>
                           <title type="sub">[D. 32.0]</title>
-                          <incipit><emph n="rubrique">Cist tytres
+                          <incipit><seg type="rubric">Cist tytres
                             <expan><ex>est</ex></expan> de lés
                             <expan><ex>et</ex></expan> de choses
-                            <expan>enjoi<ex>n</ex>tes</expan> tierce foiz</emph></incipit>
+                            <expan>enjoi<ex>n</ex>tes</expan> tierce foiz</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre9">
                         <locus from="106a" to="123’a"/>
                         <title type="section" xml:lang="fr">[Livre IX]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci comence li .xx.tiesmes <expan>liv<ex>re</ex>s</expan> d’Enforcades. Cist titres est de lés <expan><ex>et</ex></expan> de choses enjointes qui sont deues d’an en an.</emph><lb/>Ulpians dit : <expan>Q<ex>ua</ex>nt</expan> uns lés est lessiez a paier chascun an ne il n’est mie devisez en <expan>q<ex>ue</ex>l</expan> leu il doit estre paiez...</incipit>
+                        <incipit xml:lang="fro"><seg type="rubric">Ci comence li .xx.tiesmes <expan>liv<ex>re</ex>s</expan> d’Enforcades. Cist titres est de lés <expan><ex>et</ex></expan> de choses enjointes qui sont deues d’an en an.</seg><lb/>Ulpians dit : <expan>Q<ex>ua</ex>nt</expan> uns lés est lessiez a paier chascun an ne il n’est mie devisez en <expan>q<ex>ue</ex>l</expan> leu il doit estre paiez...</incipit>
                         <explicit xml:lang="fro">Et ce qui
                           <expan>ap<ex>ar</ex>tenoit</expan> a la mere
                           <expan>ap<ex>ar</ex>tient</expan> au fill ou a la fille
@@ -1657,8 +1657,8 @@
                         <msItem>
                           <locus from="106a"/>
                           <title type="sub">[D. 33.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est de lés
-                            <expan><ex>et</ex></expan> de choses enjointes qui sont deues d’an en an</emph></incipit>
+                          <incipit><seg type="rubric">Cist titres est de lés
+                            <expan><ex>et</ex></expan> de choses enjointes qui sont deues d’an en an</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="108a"/>
@@ -1686,19 +1686,19 @@
                         <msItem>
                           <locus from="114c"/>
                           <title type="sub">[D. 33.6]</title>
-                          <incipit><emph n="rubrique">De froument
+                          <incipit><seg type="rubric">De froument
                             <expan><ex>et</ex></expan> de vin
-                            <expan><ex>et</ex></expan> d’uile qui est lessiez</emph></incipit>
+                            <expan><ex>et</ex></expan> d’uile qui est lessiez</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="115c"/>
                           <title type="sub">[D. 33.7]</title>
-                          <incipit><emph n="rubrique">De <expan>cha<ex>m</ex>p</expan> qui est lessiez garniz ou o ses ostilz</emph></incipit>
+                          <incipit><seg type="rubric">De <expan>cha<ex>m</ex>p</expan> qui est lessiez garniz ou o ses ostilz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="120a"/>
                           <title type="sub">[D. 33.8]</title>
-                          <incipit><emph n="rubrique">De chatel a serf qui li est lessiez</emph></incipit>
+                          <incipit><seg type="rubric">De chatel a serf qui li est lessiez</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="122a"/>
@@ -1708,13 +1708,13 @@
                         <msItem>
                           <locus from="123a"/>
                           <title type="sub">[D. 33.10]</title>
-                          <incipit><emph n="rubrique">De vesselemente lessiee</emph></incipit>
+                          <incipit><seg type="rubric">De vesselemente lessiee</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre10">
                         <locus from="123’a" to="140c"/>
                         <title type="section" xml:lang="fr">[Livre X]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Cist titres est de norreture <expan><ex>et</ex></expan> de poture lessiee.</emph><lb/>Pomponius dit : Se norreture est lessie l’en puet dire <expan>q<ex>ue</ex></expan> eve est
+                        <incipit xml:lang="fro"><seg type="rubric">Cist titres est de norreture <expan><ex>et</ex></expan> de poture lessiee.</seg><lb/>Pomponius dit : Se norreture est lessie l’en puet dire <expan>q<ex>ue</ex></expan> eve est
                           <expan><ex>con</ex>tenue</expan></incipit>
                         <explicit xml:lang="fro">Claudius dit
                           <expan>q<ex>ue</ex></expan> se cil a qui uns lés est lessiés <expan><ex>con</ex>tre</expan> droit muert ainz
@@ -1722,16 +1722,16 @@
                         <msItem>
                           <locus from="123’a"/>
                           <title type="sub">[D. 34.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est de norreture
-                            <expan><ex>et</ex></expan> de poture lessiee</emph></incipit>
+                          <incipit><seg type="rubric">Cist titres est de norreture
+                            <expan><ex>et</ex></expan> de poture lessiee</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="126b"/>
                           <title type="sub">[D. 34.2]</title>
-                          <incipit><emph n="rubrique">D’or <expan><ex>et</ex></expan> d’<expan>arge<ex>n</ex>t</expan>
+                          <incipit><seg type="rubric">D’or <expan><ex>et</ex></expan> d’<expan>arge<ex>n</ex>t</expan>
                             <expan><ex>et</ex></expan> d’<expan>aornem<ex>en</ex>z</expan>
                             <expan><ex>et</ex></expan> d’<expan>oingnem<ex>en</ex>z</expan>
-                            <expan><ex>et</ex></expan> de robe lessiee</emph></incipit>
+                            <expan><ex>et</ex></expan> de robe lessiee</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="130c"/>
@@ -1744,39 +1744,39 @@
                         <msItem>
                           <locus from="134a"/>
                           <title type="sub">[D. 34.4]</title>
-                          <incipit><emph n="rubrique">De soustrere lés ou de remuer lés</emph></incipit>
+                          <incipit><seg type="rubric">De soustrere lés ou de remuer lés</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="136b"/>
                           <title type="sub">[D. 34.5]</title>
-                          <incipit><emph n="rubrique">De choses douteuses</emph></incipit>
+                          <incipit><seg type="rubric">De choses douteuses</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="138b"/>
                           <title type="sub">[D. 34.6]</title>
-                          <incipit><emph n="rubrique">Des choses qui sont lessiees por cause de paine</emph></incipit>
+                          <incipit><seg type="rubric">Des choses qui sont lessiees por cause de paine</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="138b"/>
                           <title type="sub">[D. 34.7]</title>
-                          <incipit><emph n="rubrique">De la riule Caton</emph></incipit>
+                          <incipit><seg type="rubric">De la riule Caton</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="138b"/>
                           <title type="sub">[D. 34.8]</title>
-                          <incipit><emph n="rubrique">Des choses qui ne valent plus
-                            <expan>q<ex>ue</ex></expan> se eles n’<expan>eusse<ex>n</ex>t</expan> mie esté escrites</emph></incipit>
+                          <incipit><seg type="rubric">Des choses qui ne valent plus
+                            <expan>q<ex>ue</ex></expan> se eles n’<expan>eusse<ex>n</ex>t</expan> mie esté escrites</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="138d"/>
                           <title type="sub">[D. 34.9]</title>
-                          <incipit><emph n="rubrique">Des choses qui sont tolues a cels qui n’en sont mie dignes</emph></incipit>
+                          <incipit><seg type="rubric">Des choses qui sont tolues a cels qui n’en sont mie dignes</seg></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre11">
                         <locus from="140d" to="157b"/>
                         <title type="section" xml:lang="fr">[Livre XI]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan><ex>com</ex>m<ex>en</ex>ce</expan> li .x.siesmes livres. Cist titres est des
                           <expan><ex>co</ex>ndicions</expan>
                           <expan><ex>et</ex></expan>
@@ -1785,7 +1785,7 @@
                           <expan>man<ex>ier</ex>es</expan>
                           <expan>q<ex>ui</ex></expan> sont escrites
                           <expan>e<ex>n</ex></expan>
-                          <expan>testame<ex>n</ex>t</expan>.</emph><lb/>Ulpians dit : Li lés qui sont lessié sont mis ou jorz qui n’est mie certains ou condicion.</incipit>
+                          <expan>testame<ex>n</ex>t</expan>.</seg><lb/>Ulpians dit : Li lés qui sont lessié sont mis ou jorz qui n’est mie certains ou condicion.</incipit>
                         <explicit xml:lang="fro">Et einssi avendra il
                           <expan>q<ex>ue</ex></expan> li .c. denier qui pueent estre paiez seront devisez en .iiii.
                           <expan>p<ex>ar</ex>ties</expan>.<lb/>Ci fenist Enforcade.
@@ -1794,7 +1794,7 @@
                         <msItem>
                           <locus from="140d"/>
                           <title type="sub">[D. 35.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est des
+                          <incipit><seg type="rubric">Cist titres est des
                             <expan><ex>co</ex>ndicions</expan>
                             <expan><ex>et</ex></expan>
                             <expan>desmo<ex>n</ex>stracio<ex>n</ex>s</expan>
@@ -1802,12 +1802,12 @@
                             <expan>man<ex>ier</ex>es</expan>
                             <expan>q<ex>ui</ex></expan> sont escrites
                             <expan>e<ex>n</ex></expan>
-                            <expan>testame<ex>n</ex>t</expan></emph></incipit>
+                            <expan>testame<ex>n</ex>t</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="150a"/>
                           <title type="sub">[D. 35.2]</title>
-                          <incipit><emph n="rubrique">De la loi qui retaille les lés</emph><supplied resp="#FD">s’achève aux trois quarts de D. 35.2.82</supplied></incipit>
+                          <incipit><seg type="rubric">De la loi qui retaille les lés</seg><supplied resp="#FD">s’achève aux trois quarts de D. 35.2.82</supplied></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_blanc">
@@ -1821,8 +1821,8 @@
                       <msItem xml:id="rouen_794_trespartes_livre1">
                         <locus from="158a" to="161b"/>
                         <title type="section" xml:lang="fr">[Livre I = D. 35.2.82 (fin)-D. 35.3]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
-                          <expan><ex>com</ex>mencent</expan> Trois parz de quoi li <expan>co<ex>m</ex>mencemenz</expan> se joint a la fin d’Enforcade <expan><ex>et</ex></expan> est tot d’une meisme loi.</emph><lb/>Cil a qui li lés est lessié aient les .iii. parz <expan><ex>et</ex></expan> li hoirs ait la quarte et li detors qui n’a de quoi paier ce
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
+                          <expan><ex>com</ex>mencent</expan> Trois parz de quoi li <expan>co<ex>m</ex>mencemenz</expan> se joint a la fin d’Enforcade <expan><ex>et</ex></expan> est tot d’une meisme loi.</seg><lb/>Cil a qui li lés est lessié aient les .iii. parz <expan><ex>et</ex></expan> li hoirs ait la quarte et li detors qui n’a de quoi paier ce
                           <expan>q<ex>ue</ex></expan> il doit</incipit>
                         <explicit xml:lang="fro"><expan>q<ex>ua</ex>r</expan> il n’est mie certaine chose <expan>q<ex>ue</ex></expan> la
                           <expan>p<ex>ro</ex>prieté</expan> viegne a Tyte
@@ -1831,56 +1831,56 @@
                       <msItem xml:id="rouen_794_trespartes_livre2">
                         <locus from="161b" to="176a"/>
                         <title type="section" xml:lang="fr">[Livre II]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
-                          <expan><ex>com</ex>me<ex>n</ex>ce</expan> tout en ordre li trente deusiesmes livres de Digestes. Cist titres est del <expan><ex>con</ex>seill</expan> au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les actions de l’eritaige suivent l’eritaige.</emph><lb/>Aprés ce <expan>q<ex>ue</ex></expan> nos avons tretié de toutes les chose qui <expan>ap<ex>ar</ex>tiennent</expan> as lés
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
+                          <expan><ex>com</ex>me<ex>n</ex>ce</expan> tout en ordre li trente deusiesmes livres de Digestes. Cist titres est del <expan><ex>con</ex>seill</expan> au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les actions de l’eritaige suivent l’eritaige.</seg><lb/>Aprés ce <expan>q<ex>ue</ex></expan> nos avons tretié de toutes les chose qui <expan>ap<ex>ar</ex>tiennent</expan> as lés
                           <expan><ex>et</ex></expan> as choses enjointes...</incipit>
                         <explicit xml:lang="fro">...<expan><ex>et</ex></expan> il avoit esté enjoint a la mere Policrate <expan>q<ex>ue</ex></expan> ele rendist a <expan>so<ex>n</ex></expan> fill les lés qui li estoient lessiez.</explicit>
                         <msItem>
                           <locus from="161b"/>
                           <title type="sub">[D. 36.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est del
-                            <expan><ex>con</ex>seill</expan> au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les actions de l’eritaige suivent l’eritaige</emph><supplied resp="#FD">incomplet : s’achève à la fin de D. 36.1.83</supplied></incipit>
+                          <incipit><seg type="rubric">Cist titres est del
+                            <expan><ex>con</ex>seill</expan> au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les actions de l’eritaige suivent l’eritaige</seg><supplied resp="#FD">incomplet : s’achève à la fin de D. 36.1.83</supplied></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_trespartes_livre3">
                         <locus from="176a" to="183a"/>
                         <title type="section" xml:lang="fr">[Livre III]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan><ex>com</ex>mence</expan> li
                           <expan>tre<ex>n</ex>te</expan>
                           <expan><ex>et</ex></expan> deusiesme
-                          <expan><ex>l</ex>ivre</expan> de Digestes. Cist tytres est <expan>q<ex>ua</ex>nt</expan> termes est de paier les lés <expan><ex>et</ex></expan> les choses enjointes.</emph><lb/>Ulpians dit :
+                          <expan><ex>l</ex>ivre</expan> de Digestes. Cist tytres est <expan>q<ex>ua</ex>nt</expan> termes est de paier les lés <expan><ex>et</ex></expan> les choses enjointes.</seg><lb/>Ulpians dit :
                           <expan>Q<ex>ua</ex>nt</expan> cil est morz qui fist le testament...</incipit>
                         <explicit xml:lang="fro">...ou il a sacré aucune chose par l’otroi l’empereor ou se il franchist aucun en grevance des creanciers.</explicit>
                         <msItem>
                           <locus from="176a"/>
                           <title type="sub">[D. 36.2]</title>
-                          <incipit><emph n="rubrique">Cist tytres est
-                            <expan>q<ex>ua</ex>nt</expan> termes est de paier les lés <expan><ex>et</ex></expan> les choses enjointes</emph></incipit>
+                          <incipit><seg type="rubric">Cist tytres est
+                            <expan>q<ex>ua</ex>nt</expan> termes est de paier les lés <expan><ex>et</ex></expan> les choses enjointes</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="179a"/>
                           <title type="sub">[D. 36.3]</title>
-                          <incipit><emph n="rubrique"><expan>Q<ex>ue</ex></expan> caucion soit donnee de garder les lés
+                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> caucion soit donnee de garder les lés
                             <expan><ex>et</ex></expan> les choses
-                            <expan>enjoi<ex>n</ex>tes</expan></emph></incipit>
+                            <expan>enjoi<ex>n</ex>tes</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="181a"/>
                           <title type="sub">[D. 36.4]</title>
-                          <incipit><emph n="rubrique"><expan>Q<ex>ue</ex></expan> il loise a estre en poss estre en
+                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> il loise a estre en poss estre en
                             <expan>posessio<ex>n</ex></expan>
                             <supplied resp="#FD">sic</supplied> por cause de lés ou de choses
-                            <expan>enjoi<ex>n</ex>tes</expan></emph><supplied resp="#FD">incomplet : s’achève avec le paragraphe D. 36.4.15</supplied></incipit>
+                            <expan>enjoi<ex>n</ex>tes</expan></seg><supplied resp="#FD">incomplet : s’achève avec le paragraphe D. 36.4.15</supplied></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_trespartes_livre4">
                         <locus from="183a" to="225c"/>
                         <title type="section" xml:lang="fr">[Livre IV]</title>
-                        <incipit xml:lang="fro"><emph n="rubrique">Ci
+                        <incipit xml:lang="fro"><seg type="rubric">Ci
                           <expan><ex>com</ex>mence</expan> li trente sisiesme
                           <expan>liv<ex>re</ex></expan>. Cist titres est de
-                          <expan>ce<ex>l</ex>s</expan> qui porsient les choses.</emph><lb/>Ulpians dit :
+                          <expan>ce<ex>l</ex>s</expan> qui porsient les choses.</seg><lb/>Ulpians dit :
                           <expan>Qu<ex>an</ex>t</expan> la posessions des
                           <expan>b<ex>ie</ex>ns</expan> est receue
                           <expan><ex>et</ex></expan> li preu
@@ -1890,31 +1890,31 @@
                         <msItem>
                           <locus from="183a"/>
                           <title type="sub">[D. 37.1]</title>
-                          <incipit><emph n="rubrique">Cist titres est de
-                            <expan>ce<ex>l</ex>s</expan> qui porsient les choses.</emph></incipit>
+                          <incipit><seg type="rubric">Cist titres est de
+                            <expan>ce<ex>l</ex>s</expan> qui porsient les choses.</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="184a"/>
                           <title type="sub">[D. 37.2]</title>
-                          <incipit><emph n="rubrique">Se les tables del testament durent encore</emph></incipit>
+                          <incipit><seg type="rubric">Se les tables del testament durent encore</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="184a"/>
                           <title type="sub">[D. 37.3]</title>
-                          <incipit><emph n="rubrique">De la posession de
+                          <incipit><seg type="rubric">De la posession de
                             <expan>b<ex>ie</ex>ns</expan> qui
                             <expan>ap<ex>ar</ex>tienent</expan> au forsené
                             <expan><ex>et</ex></expan> au mu
                             <expan><ex>et</ex></expan> au sort
-                            <expan><ex>et</ex></expan> a l’avugle</emph></incipit>
+                            <expan><ex>et</ex></expan> a l’avugle</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="184b"/>
                           <title type="sub">[D. 37.4]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>posessio<ex>n</ex></expan> des
                             <expan>b<ex>ie</ex>ns</expan>
-                            <expan><ex>con</ex>tre</expan> les tables</emph></incipit>
+                            <expan><ex>con</ex>tre</expan> les tables</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="187d"/>
@@ -1928,37 +1928,37 @@
                         <msItem>
                           <locus from="190b"/>
                           <title type="sub">[D. 37.6]</title>
-                          <incipit><emph n="rubrique">D’<expan>aport<ex>er</ex></expan> les <expan>b<ex>ie</ex>ns</expan> a partie</emph></incipit>
+                          <incipit><seg type="rubric">D’<expan>aport<ex>er</ex></expan> les <expan>b<ex>ie</ex>ns</expan> a partie</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="193a"/>
                           <title type="sub">[D. 37.7]</title>
-                          <incipit><emph n="rubrique">D’aporter douere a partie</emph></incipit>
+                          <incipit><seg type="rubric">D’aporter douere a partie</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="193d"/>
                           <title type="sub">[D. 37.8]</title>
-                          <incipit><emph n="rubrique">De metre feme grosse en
+                          <incipit><seg type="rubric">De metre feme grosse en
                             <expan>posessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan></emph><supplied resp="#FD"><title xml:lang="lat">De coniungendis cum emancipato liberis eius</title> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.8</supplied></incipit>
+                            <expan>b<ex>ie</ex>ns</expan></seg><supplied resp="#FD"><title xml:lang="lat">De coniungendis cum emancipato liberis eius</title> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.8</supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="195b"/>
                           <title type="sub">[D. 37.9]</title>
-                          <incipit><emph n="rubrique">Del banissement qui est apelez carbonians</emph><supplied resp="#FD"><title xml:lang="lat">De ventre in possessionem mittendo et curatore eius</title> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.9</supplied></incipit>
+                          <incipit><seg type="rubric">Del banissement qui est apelez carbonians</seg><supplied resp="#FD"><title xml:lang="lat">De ventre in possessionem mittendo et curatore eius</title> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.9</supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="196d"/>
                           <title type="sub">[D. 37.10]</title>
-                          <incipit><emph n="rubrique">Del banissement qui est apelez carbonians</emph></incipit>
+                          <incipit><seg type="rubric">Del banissement qui est apelez carbonians</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="200a"/>
                           <title type="sub">[D. 37.11]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>posessio<ex>n</ex></expan> des
                             <expan>b<ex>ie</ex>ns</expan>
-                            <expan>selo<ex>n</ex>c</expan> les tables</emph></incipit>
+                            <expan>selo<ex>n</ex>c</expan> les tables</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="202a"/>
@@ -1977,29 +1977,29 @@
                         <msItem>
                           <locus from="202c"/>
                           <title type="sub">[D. 37.14]</title>
-                          <incipit><emph n="rubrique">De la
-                            <expan>droit<ex>ur</ex>e</expan> a patronage</emph></incipit>
+                          <incipit><seg type="rubric">De la
+                            <expan>droit<ex>ur</ex>e</expan> a patronage</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="204a"/>
                           <title type="sub">[D. 37.15]</title>
-                          <incipit><emph n="rubrique">Des services
+                          <incipit><seg type="rubric">Des services
                             <expan>q<ex>ue</ex></expan> li enfant
                             <expan><ex>et</ex></expan> cil qui sont franchi
                             <expan>doive<ex>n</ex>t</expan> fere a leur
                             <expan>p<ex>er</ex>es</expan> et a leur
-                            <expan>patro<ex>n</ex>s</expan></emph></incipit>
+                            <expan>patro<ex>n</ex>s</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="204c"/>
                           <title type="sub">[D. 38.1]</title>
-                          <incipit><emph n="rubrique">Des jornees a cels qui
-                            <expan>so<ex>n</ex>t</expan> franchiz</emph></incipit>
+                          <incipit><seg type="rubric">Des jornees a cels qui
+                            <expan>so<ex>n</ex>t</expan> franchiz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="207c"/>
                           <title type="sub">[D. 38.2]</title>
-                          <incipit><emph n="rubrique">Des biens a cels qui sont franchiz</emph></incipit>
+                          <incipit><seg type="rubric">Des biens a cels qui sont franchiz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="213a"/>
@@ -2010,88 +2010,88 @@
                         <msItem>
                           <locus from="213b"/>
                           <title type="sub">[D. 38.4]</title>
-                          <incipit><emph n="rubrique">D’assingner cels
+                          <incipit><seg type="rubric">D’assingner cels
                             <expan>q<ex>ui</ex></expan>
-                            <expan>so<ex>n</ex>t</expan> franchiz</emph></incipit>
+                            <expan>so<ex>n</ex>t</expan> franchiz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="214a"/>
                           <title type="sub">[D. 38.5]</title>
-                          <incipit><emph n="rubrique">Se aucune chose est fete en
-                            <expan>greva<ex>n</ex>ce</expan> del patron</emph></incipit>
+                          <incipit><seg type="rubric">Se aucune chose est fete en
+                            <expan>greva<ex>n</ex>ce</expan> del patron</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="215d"/>
                           <title type="sub">[D. 38.6]</title>
-                          <incipit><emph n="rubrique">De demander la posession des
-                            <expan>b<ex>ie</ex>ns</expan> sanz testament</emph></incipit>
+                          <incipit><seg type="rubric">De demander la posession des
+                            <expan>b<ex>ie</ex>ns</expan> sanz testament</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="216d"/>
                           <title type="sub">[D. 38.7]</title>
-                          <incipit><emph n="rubrique">De la posession des biens qui est donnee <expan>p<ex>ar</ex></expan> les lois</emph></incipit>
+                          <incipit><seg type="rubric">De la posession des biens qui est donnee <expan>p<ex>ar</ex></expan> les lois</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="217b"/>
                           <title type="sub">[D. 38.8]</title>
-                          <incipit><emph n="rubrique">De la
+                          <incipit><seg type="rubric">De la
                             <expan>posessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan> qui est donee as cousins</emph></incipit>
+                            <expan>b<ex>ie</ex>ns</expan> qui est donee as cousins</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="217d"/>
                           <title type="sub">[D. 38.9]</title>
-                          <incipit><emph n="rubrique">Del
-                            <expan>banissem<ex>en</ex>t</expan> de recevoir l’eritaige as morz</emph></incipit>
+                          <incipit><seg type="rubric">Del
+                            <expan>banissem<ex>en</ex>t</expan> de recevoir l’eritaige as morz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="218b"/>
                           <title type="sub">[D. 38.10]</title>
-                          <incipit><emph n="rubrique">Des degrez de lignaige
-                            <expan><ex>et</ex></expan> d’affinité</emph></incipit>
+                          <incipit><seg type="rubric">Des degrez de lignaige
+                            <expan><ex>et</ex></expan> d’affinité</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="220b"/>
                           <title type="sub">[D. 38.11]</title>
-                          <incipit><emph n="rubrique">Coment li mariz
-                            <expan><ex>et</ex></expan> sa feme sont li hoir l’uns de l’autre</emph></incipit>
+                          <incipit><seg type="rubric">Coment li mariz
+                            <expan><ex>et</ex></expan> sa feme sont li hoir l’uns de l’autre</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="220b"/>
                           <title type="sub">[D. 38.12]</title>
-                          <incipit><emph n="rubrique">De l’heritage as anciens chevaliers</emph></incipit>
+                          <incipit><seg type="rubric">De l’heritage as anciens chevaliers</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="220c"/>
                           <title type="sub">[D. 38.13]</title>
-                          <incipit><emph n="rubrique">A qui la posessions des
-                            <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</emph></incipit>
+                          <incipit><seg type="rubric">A qui la posessions des
+                            <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="220c"/>
                           <title type="sub">[D. 38.14]</title>
-                          <incipit><emph n="rubrique"><expan>Qu<ex>an</ex>t</expan> posession de <expan>b<ex>ie</ex>ns</expan> est donnee par les lois ou <expan>p<ex>ar</ex></expan> le
-                            <expan><ex>con</ex>seill</expan> au senat</emph></incipit>
+                          <incipit><seg type="rubric"><expan>Qu<ex>an</ex>t</expan> posession de <expan>b<ex>ie</ex>ns</expan> est donnee par les lois ou <expan>p<ex>ar</ex></expan> le
+                            <expan><ex>con</ex>seill</expan> au senat</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="220c"/>
                           <title type="sub">[D. 38.15]</title>
-                          <incipit><emph n="rubrique">Quelle ordre doit estre gardee en la possessions des
-                            <expan>b<ex>ie</ex>ns</expan></emph></incipit>
+                          <incipit><seg type="rubric">Quelle ordre doit estre gardee en la possessions des
+                            <expan>b<ex>ie</ex>ns</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="221a"/>
                           <title type="sub">[D. 38.16]</title>
-                          <incipit><emph n="rubrique">Des
+                          <incipit><seg type="rubric">Des
                             <expan>prop<ex>re</ex>s</expan> hoirs
                             <expan><ex>et</ex></expan> de cels qui
                             <expan>so<ex>n</ex>t</expan> hoirs
-                            <expan>p<ex>ar</ex></expan> les lois</emph></incipit>
+                            <expan>p<ex>ar</ex></expan> les lois</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="222d"/>
                           <title type="sub">[D. 38.17]</title>
-                          <incipit><emph n="rubrique">Del conseill au senat qui est apelez officiaus</emph></incipit>
+                          <incipit><seg type="rubric">Del conseill au senat qui est apelez officiaus</seg></incipit>
                         </msItem>
                       </msItem> 
                     </msItem>
@@ -2170,8 +2170,8 @@
                   <div type="edition" n="1" xml:id="rouen_794.D.25.4">
                     <head>D. 25.4</head>
                     <p xml:id="rouen_794-D.25.4.0"><label>[25.4.0]</label>
-                      <emph n="rubrique">De regarder le ventre a la feme qui dit
-                        <expan>q<ex>ue</ex></expan> ele est grosse</emph>
+                      <seg type="rubric">De regarder le ventre a la feme qui dit
+                        <expan>q<ex>ue</ex></expan> ele est grosse</seg>
                       <label>[25.4.1]</label>
                       <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
                       <hi rend="b">I</hi>l avint el tens as sainz freres
@@ -2545,9 +2545,9 @@
                   <div type="edition" n="3" xml:id="rouen_794.D.38">
                     <head>D. 38.11-15</head>
                     <p n="3" xml:id="rouen_794-D.38.11"><label>[D. 38.11]</label>
-                      <emph n="rubrique">Coment li mariz <expan><ex>et</ex></expan> sa feme sont li hoir l’uns de<note place="bottom" xml:id="rouen_794_note_29"><app>
+                      <seg type="rubric">Coment li mariz <expan><ex>et</ex></expan> sa feme sont li hoir l’uns de<note place="bottom" xml:id="rouen_794_note_29"><app>
                         <rdg wit="#B">u. a l’a.</rdg>
-                      </app></note> l’autre</emph>
+                      </app></note> l’autre</seg>
                       <label>[1]</label>
                       <hi rend="b">U</hi>lpians dit <label>[1.pr.]</label>
                       <hi rend="b">A</hi> ce <expan>q<ex>ue</ex></expan> li mariz
@@ -2567,7 +2567,7 @@
                       <expan>q<ex>u’e</ex>le</expan> ne se marit a autre malgré son patron. Autresi est il par la loi <expan>q<ex>ue</ex></expan> julius fist des avoutires qui dit <expan>q<ex>ue</ex></expan> li
                       <expan>dep<ex>ar</ex>tem<ex>en</ex>z</expan> ne vaille riens. se il n’est fez en certaine maniere.</p>
                     <p n="3" xml:id="rouen_794-D.38.12"><label>[D. 38.12]</label>
-                      <emph n="rubrique">De l’heritage as anciens chevaliers</emph>
+                      <seg type="rubric">De l’heritage as anciens chevaliers</seg>
                       <label>[1]</label>
                       <hi rend="b">M</hi>arceaus dit <hi rend="b">P</hi>aulus <expan><ex>et</ex></expan> meandres escrivent<note place="bottom" xml:id="rouen_794_note_30"><app>
                         <rdg wit="#B">m. escristrent</rdg>
@@ -2591,8 +2591,8 @@
                       <expan>b<ex>ie</ex>ns</expan> dedanz le terme qui est establiz. </p>
                     <p xml:id="rouen_794-D.38.13"><label>[D. 38.13]</label>
                       <pb n="f. 220c"/>
-                      <emph n="rubrique">A qui la posessions des
-                        <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</emph>
+                      <seg type="rubric">A qui la posessions des
+                        <expan>b<ex>ie</ex>ns</expan> n’<expan>ap<ex>ar</ex>tie<ex>n</ex>t</expan> mie</seg>
                       <label>[1]</label>
                       <hi rend="b">J</hi>ulians dit <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> mes sers fu fez hoirs ge fis par <expan>trich<ex>er</ex>ie</expan>
                       <expan>q<ex>ue</ex></expan> li testamenz ne fust mie muez.
@@ -2609,10 +2609,10 @@
                       <expan>p<ex>ar</ex></expan> tricherie
                       <expan>q<ex>ue</ex></expan> li <expan>testam<ex>en</ex>z</expan> ne fust muez.</p>
                     <p xml:id="rouen_794-D.38.14"><label>[D. 38.14]</label>
-                      <emph n="rubrique"><expan>Qu<ex>an</ex>t</expan> posession de
+                      <seg type="rubric"><expan>Qu<ex>an</ex>t</expan> posession de
                         <expan>b<ex>ie</ex>ns</expan> est donnee par les lois ou
                         <expan>p<ex>ar</ex></expan> le
-                        <expan><ex>con</ex>seill</expan> au senat</emph>
+                        <expan><ex>con</ex>seill</expan> au senat</seg>
                       <label>[1]</label>
                       <hi rend="b">U</hi>lpians dit. <label>[1.pr.]</label>
                       <hi rend="b">L</hi>i prevoz dit Si comme il convendra
@@ -2627,7 +2627,7 @@
                       <expan>q<ex>ua</ex>r</expan> la posessions des
                       <expan>b<ex>ie</ex>ns</expan> ne li apartient mie autrement se la loi ne li donne especialment.</p>
                     <p xml:id="rouen_794-D.38.15"><label>[D. 38.15]</label>
-                      <emph n="rubrique">Quelle ordre doit estre gardee en la possessions des <expan>b<ex>ie</ex>ns</expan></emph>
+                      <seg type="rubric">Quelle ordre doit estre gardee en la possessions des <expan>b<ex>ie</ex>ns</expan></seg>
                       <label>[1]</label>
                       <hi rend="b">M</hi>odestins dit <label>[1.pr.]</label>
                       <expan><hi rend="b">Q</hi><ex>ua</ex>nt</expan> aucuns muert sanz fere testament : si enfant <expan>q<ex>ue</ex></expan> il a de loial mariaige sont premierement apelez a son heritage
