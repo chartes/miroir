@@ -183,7 +183,7 @@
                       <expan>q<ex>ue</ex></expan> eles soent gardees
                       <expan>estroitem<ex>en</ex>t</expan> de noz baillis et de noz sojetz, sauve ce <expan>q<ex>ue</ex></expan> nos retenons la plene poesté real de declarer, de muer, de
                       <expan>ama<ex>n</ex>der</expan>, d’ejoster ou d’amenuiser. Et ce fut fet en l’an nostre Seignor .m. .ii.<hi rend="sup">c</hi> .l. .iiii. anz ou mois de delayr.</explicit>
-                    <note type="msItem">(édité par <bibl>Rapetti, <title>Appendice</title>, p. 335-344</bibl> ; cf. <bibl><title>Recueil des Ordonnances des rois de France</title>, t. I, p. 67-75</bibl>)</note>
+                    <note>(édité par <bibl>Rapetti, <title>Appendice</title>, p. 335-344</bibl> ; cf. <bibl><title>Recueil des Ordonnances des rois de France</title>, t. I, p. 67-75</bibl>)</note>
                   </msItem>
                   <msItem n="2" xml:id="fr_2844_etablissements">
                     <locus from="3a" to="4b"/>
@@ -213,12 +213,12 @@
                       <expan><ex>com</ex>me</expan> il est devissé par desus en tiel meniere <expan>q<ex>ue</ex></expan> nos i puissons metre et oster et <expan>ama<ex>n</ex>der</expan>
                       <expan>qua<ex>n</ex>t</expan> il nos plerra se nos veons
                       <expan>q<ex>ue</ex></expan> bien soit.</explicit>
-                    <note type="msItem">(édité par <bibl>Rapetti, <title>Appendice</title>, p. 345-349</bibl> ; cf. <bibl><title>Recueil des Ordonnances des rois de France</title>, t. I, p. 108-114</bibl>)</note>
+                    <note>(édité par <bibl>Rapetti, <title>Appendice</title>, p. 345-349</bibl> ; cf. <bibl><title>Recueil des Ordonnances des rois de France</title>, t. I, p. 108-114</bibl>)</note>
                   </msItem>
                   <msItem n="3" xml:id="fr_2844_ljp">
                     <locus from="4b" to="199a"/>
                     <title type="partie" xml:lang="fr"><title>Livre de jostice et de plet</title></title>
-                    <note type="msItem">[Afin de limiter les possibilités de confusion avec les renvois aux sections du <title>Digeste</title>, nous préférons utiliser le mot « chapitre » pour indiquer la structuration interne des livres du <title>Livre de jostice et de plet</title> (LJP), contrairement à l’usage de Rapetti qui emploie le mot « titre ». Le signe * signale que la rubrique contenant le titre du chapitre est absente de la table des matières (f. 199v-201v).]</note>
+                    <note>[Afin de limiter les possibilités de confusion avec les renvois aux sections du <title>Digeste</title>, nous préférons utiliser le mot « chapitre » pour indiquer la structuration interne des livres du <title>Livre de jostice et de plet</title> (LJP), contrairement à l’usage de Rapetti qui emploie le mot « titre ». Le signe * signale que la rubrique contenant le titre du chapitre est absente de la table des matières (f. 199v-201v).]</note>
                     <msItem xml:id="fr_2844_ljp_livre1">
                       <locus from="4b" to="23d"/>
                       <title type="section" xml:lang="fr">Livre I</title>
@@ -3185,7 +3185,7 @@
                   <msItem n="4" xml:id="fr_2844_table">
                     <locus from="199v" to="201v"/>
                     <title type="partie" xml:lang="fr">Table des matières</title>
-                    <note type="msItem">Table des matières sur 3 colonnes ; l’initiale des titres de chapitre est peinte en marge alternativement en rouge et en bleu.</note>
+                    <note>Table des matières sur 3 colonnes ; l’initiale des titres de chapitre est peinte en marge alternativement en rouge et en bleu.</note>
                     <msItem>
                       <locus from="199c" to="201d"/>
                       <title>Liste des titres de chapitre du <title>Livre de jostice et de plet</title> précédés par l’énoncé, toujours rubriqué, indiquant la numérotation des livres,
@@ -3193,7 +3193,7 @@
                           <expan><ex>com</ex>moi<ex>n</ex>ce</expan> li
                           <expan>p<ex>re</ex>m<ex>ier</ex>s</expan> livres</seg>.<lb/>Ci
                           <expan><ex>com</ex>mance</expan> li livres de jostice et de plet.<lb/>De restablissemanz <supplied resp="#GP"><foreign xml:lang="lat">sic</foreign></supplied></quote> (f. 199c).</title>
-                      <note type="msItem">Sauf quelques omissions (voir *), la liste correspond aux titres présents dans le ms. ; après le dernier titre du livre XX, la table ajoute 3 titres que le ms. ne comprend pas : <q>De l’usage d’Orlenays</q>, <q>De
+                      <note>Sauf quelques omissions (voir *), la liste correspond aux titres présents dans le ms. ; après le dernier titre du livre XX, la table ajoute 3 titres que le ms. ne comprend pas : <q>De l’usage d’Orlenays</q>, <q>De
                         <expan>pre<ex>n</ex>dre</expan> malfeteurs</q>,
                         <q>Des borgois d’<expan>Orlie<ex>n</ex>s</expan></q> (f. 201d)</note>
                     </msItem>
@@ -5992,7 +5992,7 @@
                     <msItem xml:id="fr_197_digestumvetus_tabletitres">
                       <locus from="414r" to="414v"/>
                       <title type="section" xml:lang="fr">Table des titres</title>
-                      <note type="msItem">liste des titres. Saut de ligne entre chaque livre. Les livres ne sont pas indiqués. F. 414r (3 col.)- f. 414v (2 colonnes).</note>
+                      <note>liste des titres. Saut de ligne entre chaque livre. Les livres ne sont pas indiqués. F. 414r (3 col.)- f. 414v (2 colonnes).</note>
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_glose">
                       <title type="section" xml:lang="fr">Glose <supplied resp="#FD">Paraît en grande partie tirée de la
@@ -11636,7 +11636,7 @@
                               <expan>Germanic<ex>us</ex></expan>, Antiquus, Alenicus, Affricanus, debonaires, boneurez, nobles, veinquerres, et tozjourz augustus, mande saluz a Theophile et a Dorotee et a Ynsidoire
                               <expan><ex>et</ex></expan> a Nathoire et a Kale et a Tratin, nobles homes et ses ancesseeurs et Salamin home tres discret et son ancesseeur. .i.<lb/><seg type="rubric">Ci commencent les rebriches du premier livre de la Digeste vieille. Cist tytres parole de justice <expan><ex>et</ex></expan> de droit</seg> .iii.</incipit>
                             <explicit xml:lang="fro">Coument douaires doit estre demandez qant mariages est departiz. .lxxiii.</explicit>
-                            <note type="msItem">
+                            <note>
                               <p>Chaque livre est signalé par une initiale bleue à filigrane rouge (2 UR) et par une rubrique. L’initiale de chaque intitulé de titre commence par une lettre peinte d’1 UR, alternativement bleue ou rouge. Tout comme celle du ms Montpellier, bibl. interuniversitaire de médecine, H 47, la table renvoie à la double-page ouverte et non au f. r et v.</p>
                               <p>La référence au f. du prologue – qui ne présente pas de foliotation ancienne en l’état actuel du manuscrit et a été copié par une main qu’on ne retrouve plus ensuite – laisse supposer que la table a été copiée postérieurement à l’ajout du prologue. L’absence de foliotation du prologue accrédite l’idée que la foliotation ancienne est antérieure à son ajout et à la confection de la table.</p>
                             </note>
@@ -13961,7 +13961,7 @@
                             <title type="ancien">Ci
                               <expan><ex>com</ex>mence</expan> li
                               <expan>se<ex>con</ex>z</expan> livres la roine</title> f. 53v)</title>
-                          <note type="msItem">Le texte des extraits des
+                          <note>Le texte des extraits des
                             <title>Institutes</title> présente parfois des différences par rapport à l'édition donnée par F. Olivier-Martin. Le texte des extraits du
                             <title>Digeste vieux</title> se rapproche le plus souvent du texte transmis par la traduction 3 du
                             <title>Digeste vieux</title>.</note>
@@ -14226,7 +14226,7 @@
                           <locus from="95" to="140"/>
                           <title type="section" xml:lang="fr">Livre III,
                             <title>Grand coutumier de Normandie</title> en prose <lang xml:lang="fro">française</lang></title>
-                          <note type="msItem">Le texte du <title>Grand coutumier de Normandie</title> pourrait remonter à la deuxième classe de la rédaction latine identifiée par Tardif.</note>
+                          <note>Le texte du <title>Grand coutumier de Normandie</title> pourrait remonter à la deuxième classe de la rédaction latine identifiée par Tardif.</note>
                           <incipit xml:lang="fro">
                             <hi rend="b">P</hi>or ce que
                             <expan>nost<ex>re</ex></expan> entencion est a esclairier en ceste oeuvre au mielz que nous porrons les droiz et les
@@ -15560,7 +15560,7 @@
                         <title type="section" xml:lang="fr">Table des livres XII à XXIV avec renvoi aux f.</title>
                         <incipit xml:lang="fro">Chi commenche li .xii.isme livres. Ou .c. et .li.isme foillier parole des choses acreues en quele accion affiert quant le demande chertaine chose de che. ¶ Ou .c. et .liiii.isme foillet parole des sairemens que l’en fait en plait par defaute de preuves. ¶ Ou .c. et .lviii.isme foilliet parole del
                           <expan>sairem<ex>en</ex>t</expan> qu’en fait en plait pour prisier sa chose</incipit>
-                        <note type="msItem">Le f. 150 constitue une unité codicologique indépendante (cf. la collation <foreign xml:lang="lat">infra</foreign>), copiée postérieurement à la copie de la traduction, réalisée sans doute simultanément à la foliotation, puisqu’il est lui-même folioté sans solution de continuité avec la traduction proprement dite. Il est possible que le folioteur et l’auteur/copiste de la table soit une seule et même personne. La table a sans doute été réalisée très vite après l’achèvement de la copie, d’autant qu’elle emploie le même schéma de réglure que le texte proprement dit. Il est hautement probable qu’une table du même type précédait les 11 premiers livres.</note>
+                        <note>Le f. 150 constitue une unité codicologique indépendante (cf. la collation <foreign xml:lang="lat">infra</foreign>), copiée postérieurement à la copie de la traduction, réalisée sans doute simultanément à la foliotation, puisqu’il est lui-même folioté sans solution de continuité avec la traduction proprement dite. Il est possible que le folioteur et l’auteur/copiste de la table soit une seule et même personne. La table a sans doute été réalisée très vite après l’achèvement de la copie, d’autant qu’elle emploie le même schéma de réglure que le texte proprement dit. Il est hautement probable qu’une table du même type précédait les 11 premiers livres.</note>
                       </msItem>
                       <msItem xml:id="montpellier_h47_digestumvetus_livre12">
                         <locus from="151a" to="167a"/>

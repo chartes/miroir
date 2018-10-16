@@ -4159,7 +4159,7 @@
                         <title type="partie" xml:lang="fr">Note sur la famille de Jean Aucoste, de Boulogne</title>
                         <incipit><supplied resp="#FD">F. 91v (add., a. 1292)</supplied>L’an mil .cc.iiii<hi rend="sup">xx</hi>. et .xii., .iii. jours en frevier rendi ame Jehan Aucoste fil Renier Aucoste, liqueus
                           <expan>Ren<ex>ier</ex>s</expan> eut pluisieurs autres fiex...</incipit>
-                        <note type="msItem">Ajout d’une main cursive.</note>
+                        <note>Ajout d’une main cursive.</note>
                       </msItem>
                     </msContents>
                     <physDesc>
@@ -7752,7 +7752,7 @@
                         </msItem>
                         <msItem xml:id="princeton_kane_ms49_institutiones_blanc">
                           <locus from="81v"/>
-                          <note type="msItem">blanc</note>
+                          <note>blanc</note>
                         </msItem>
                       </msItem>
                     </msContents>
@@ -9668,7 +9668,7 @@
                         <msItem xml:id="washington_i71_institutiones">
                           <locus from="5" to="212"/>
                           <title type="partie" xml:lang="fr">Traduction anonyme en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title></title>
-                          <note type="msItem">Incomplète du début du livre 1 et du début du livre 4 suite au manque de 2 f.</note>
+                          <note>Incomplète du début du livre 1 et du début du livre 4 suite au manque de 2 f.</note>
                         </msItem>
                       </msItem>
                     </msContents>
