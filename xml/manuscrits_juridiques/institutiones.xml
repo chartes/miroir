@@ -5155,7 +5155,7 @@
                     <head>Édition</head>
                     <div type="edition" n="1" resp="Marion Soutet">
                       <head>Inst. 2.17
-                        <note place="bottom" xml:id="fr.1063_note_1">transcription Marion Soutet AP1 2014.</note></head>
+                        <note place="bottom">transcription Marion Soutet AP1 2014.</note></head>
                       <p xml:id="fr_1063-2.17"><seg type="rubric">Cist <expan>tit<ex>re</ex>s</expan> est
                         <expan>a<ex>n</ex></expan> quele
                         <expan>ma<ex>n</ex>niere</expan> testament sont qassé</seg>Testament qui est fez par droit vaut tant
@@ -5193,7 +5193,7 @@
                     </div>
                     <div type="edition" n="2" resp="Xavier de Saint-Chamas">
                       <head>Inst. 4.17
-                        <note place="bottom" xml:id="fr.1063_note_2">transcription Xavier de Saint-Chamas AP1 2014.</note></head>
+                        <note place="bottom">transcription Xavier de Saint-Chamas AP1 2014.</note></head>
                       <p xml:id="fr_1063-4.17"><seg type="rubric">Cist <expan>tit<ex>re</ex>s</expan> est des antrediz de l’office du juge.</seg>Il convient que nous
                         <expan>treto<ex>n</ex>s</expan> de l’office du juge. li juges doit garder premierement <expan>q<ex>ue</ex></expan> il ne juge fors <expan>si<ex>com</ex>me</expan> il est. establi par les lois ou par les establissemenz. ou par les <pb n="f. 100a"/> costumes. <label>[1]</label>
                         <expan><ex>et</ex></expan> por ce se l’am plaide
@@ -6015,7 +6015,7 @@
                     <head>Édition</head>
                     <div type="edition" n="1" resp="Sarah Belda Romanosque">
                       <head>Inst. 2.17
-                        <note place="bottom" xml:id="fr.1064_note_1">transcription Sarah Belda Romanosque, MEM 2014.</note></head>
+                        <note place="bottom">transcription Sarah Belda Romanosque, MEM 2014.</note></head>
                       <p xml:id="fr_1064-2.17"><seg type="rubric">Cist titres est en
                         <expan>q<ex>ue</ex>l</expan> maniere
                         <expan>testam<ex>en</ex>t</expan>
@@ -9863,7 +9863,7 @@
             </div>
             <div type="deperdita">
               <list type="deperdita">
-                <head>Manuscrits perdus<note place="bottom" xml:id="institutes_note_1">Sont ici reprises la numérotation des manuscrits perdus adoptée par F. Olivier-Martin ainsi que, pour la plupart des items, la présentation qu’il en fait.</note></head>
+                <head>Manuscrits perdus<note place="bottom">Sont ici reprises la numérotation des manuscrits perdus adoptée par F. Olivier-Martin ainsi que, pour la plupart des items, la présentation qu’il en fait.</note></head>
                 <item xml:id="institutes_perdu1"><p>1. Dans l’inventaire des biens meubles de la reine <persName role="possesseur" key="Clémence de Hongrie">Clémence de Hongrie</persName>, rédigé en 1328, mention :
                   <quote>Item, une Institute en françois, presié XVI s.</quote> (Paris, Bibl. nat. de Fr., Clairambault 471, f. 33). Le ms a été acheté par la reine <persName role="possesseur" key="Jeanne d'Evreux">Jeanne d’Evreux</persName> (cf. <bibl>Léopold Delisle, <title>Le cabinet...</title>, t. I, p. 12</bibl>) avant qu’on en perde la trace. (F. Olivier-Martin, p. xxi-xxii).</p></item>
                 <item xml:id="institutes_perdu2-5"><p>2-5. Des 6 exemplaires de la traduction possédés par <persName role="possesseur" key="Charles V">Charles V</persName>, deux seulement nous sont parvenus. Les quatre autres figurent dans les inventaires. Cf. <bibl>Leopold Delisle, <title>Recherches</title>, t. II, n° 381, 382, 383, 401 de l’inventaire général</bibl>. (F. Olivier-Martin, p. xxii).</p></item>
@@ -11156,31 +11156,31 @@
                         <l>Cest tiltre est <expan>q<ex>ua</ex>nt</expan> testament</l>
                         <l>Peult estre quassé et <expan>co<ex>m</ex>ment</expan>.</l>
                       </lg>
-                      <l><hi rend="b">T</hi>estament<note place="bottom" xml:id="harley_4477_note_1">
+                      <l><hi rend="b">T</hi>estament<note place="bottom">
                         <app>
                           <rdg wit="#P">Lestament <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg> 
                         </app>
                       </note> qui <expan>p<ex>ar</ex></expan> droit est fait</l>
-                      <l>Vault<note xml:id="harley_4477_note_2" place="bottom">
+                      <l>Vault<note place="bottom">
                         <app>
                           <rdg wit="#P">Tient</rdg>
                           <rdg xml:lang="lat">valet <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg> 
                         </app></note> jucqu’a tant <expan>q<ex>u’i</ex>l</expan> est defait</l>
-                      <l>Ou jucqu’a tant <expan>q<ex>ue</ex></expan> il est<note place="bottom" xml:id="harley_4477_note_3"><app>
+                      <l>Ou jucqu’a tant <expan>q<ex>ue</ex></expan> il est<note place="bottom"><app>
                         <rdg wit="#P">il soit d.</rdg>
                       </app></note> rout</l>
-                      <l>Ou <expan>q<ex>ue</ex></expan> il est deffait du tout<note place="bottom" xml:id="harley_4477_note_4"><app>
+                      <l>Ou <expan>q<ex>ue</ex></expan> il est deffait du tout<note place="bottom"><app>
                         <rdg wit="#P">Ou qu’il est fait vain et coroupt</rdg>
                       </app></note></l>
                       <l><label>[1]</label> ¶ Nous devon <expan>sav<ex>er</ex></expan> que sans doubte</l>
                       <l>Force de testament est route</l>
                       <l>Quant cil qui ainsy l’ordonna</l>
-                      <l>De son estat rien ne changa<note place="bottom" xml:id="harley_4477_note_5"><app>
+                      <l>De son estat rien ne changa<note place="bottom"><app>
                         <rdg wit="#P">rien changié n’a <supplied resp="#FD">rime plus riche dans <hi rend="i">P</hi></supplied></rdg>
                       </app></note></l>
                       <l>Mais du <expan>testame<ex>n</ex>t</expan> est malmise</l>
                       <l>La doctrine en aucune guise.</l>
-                      <l>¶ Encore est il tout<note place="bottom" xml:id="harley_4477_note_6"><app>
+                      <l>¶ Encore est il tout<note place="bottom"><app>
                         <rdg wit="#P">il roupt a.</rdg>
                       </app></note>
                         <expan>ault<ex>re</ex>ment</expan></l>
@@ -11189,23 +11189,23 @@
                       <l>Ung filz qui en subjection</l>
                       <l>N’estoit a l’eure de nullui</l>
                       <l>Ains est tout nectement a lui</l>
-                      <l>Et le fait <expan>p<ex>ar</ex></expan><note place="bottom" xml:id="harley_4477_note_7"><app>
+                      <l>Et le fait <expan>p<ex>ar</ex></expan><note place="bottom"><app>
                         <rdg wit="#P">f. de par</rdg>
                       </app></note> l’<expan>emp<ex>er</ex>eur</expan></l>
-                      <l><pb n="f. 124d"/> Ou il y prent <expan>p<ex>ar</ex></expan> le preteur<note place="bottom" xml:id="harley_4477_note_8"><app>
+                      <l><pb n="f. 124d"/> Ou il y prent <expan>p<ex>ar</ex></expan> le preteur<note place="bottom"><app>
                         <rdg wit="#P">Ou par le fait au preteur</rdg>
                         <rdg xml:lang="lat">aut per praetorem <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note>.</l>
-                      <l>¶ L’enfant<note place="bottom" xml:id="harley_4477_note_9"><app>
+                      <l>¶ L’enfant<note place="bottom"><app>
                         <rdg wit="#P">Ung enfant</rdg>
                       </app></note> qui <expan>p<ex>ar</ex></expan> aventure</l>
                       <l>Est soubzmis a <expan>aut<ex>re</ex></expan> droicture</l>
                       <l>Le testament qu’il avoit fait</l>
-                      <l>Est ainssy<note place="bottom" xml:id="harley_4477_note_10"><app>
+                      <l>Est ainssy<note place="bottom"><app>
                         <rdg wit="#P">Est aultressy r. <supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> rot et deffait</l>
                       <l><expan>Co<ex>m</ex>me</expan> se ung nouvel filz naquist</l>
-                      <l>Que<note place="bottom" xml:id="harley_4477_note_11"><app>
+                      <l>Que<note place="bottom"><app>
                         <rdg wit="#P">Qui s.</rdg>
                       </app></note> son hoir estre convenist</l>
                       <l>Tout son <expan>premi<ex>er</ex></expan> testament ront</l>
@@ -11217,7 +11217,7 @@
                       <l>Se aucuns en peult estre hoir</l>
                       <l>Et <expan>po<ex>ur</ex></expan> ce s’aucun n’a cure</l>
                       <l>D’estre hoir <expan>p<ex>ar</ex></expan> aucune aventure</l>
-                      <l>Ou jassoit ce qu’il le voulsist<note place="bottom" xml:id="harley_4477_note_12"><app>
+                      <l>Ou jassoit ce qu’il le voulsist<note place="bottom"><app>
                         <rdg wit="#P">Ja soit oultre ce qu’il v.</rdg>
                       </app></note></l>
                       <l>La mort vient qui le devancist</l>
@@ -11236,29 +11236,29 @@
                       <l>Ne peult l’en pas dire qu’il vaille</l>
                       <l><expan>Po<ex>ur</ex></expan> l’<expan>aut<ex>re</ex></expan> qui a esté fait</l>
                       <l>Qui le <expan>p<ex>re</ex>mier</expan> a tout deffait</l>
-                      <l>Ly derrain ne peult valloir<note place="bottom" xml:id="harley_4477_note_13"><app>
+                      <l>Ly derrain ne peult valloir<note place="bottom"><app>
                         <rdg wit="#P">p. pas v. <supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l><expan>Po<ex>ur</ex></expan> ce <expan>q<ex>ue</ex></expan> il n’a point de hoir</l>
-                      <l><label>[2]</label> ¶ Se aucuns fait<note place="bottom" xml:id="harley_4477_note_14"><app>
+                      <l><label>[2]</label> ¶ Se aucuns fait<note place="bottom"><app>
                         <rdg wit="#P">a. fist son</rdg>
                       </app></note> son testament</l>
                       <l>Tout <expan>p<ex>ar</ex>fet</expan> bien et droictement</l>
                       <l>Et puis advient <expan>q<ex>ue</ex></expan> aultre fait</l>
-                      <l>Qui soit tout <expan>ault<ex>re</ex>ssy</expan><note place="bottom" xml:id="harley_4477_note_15"><app>
+                      <l>Qui soit tout <expan>ault<ex>re</ex>ssy</expan><note place="bottom"><app>
                         <rdg wit="#P">tout ainsi bien p.</rdg>
                       </app></note>
                         <expan>p<ex>ar</ex>fait</expan></l>
                       <l><pb n="f. 125a"/> Jassoit ce qu’il avoit fait hoir</l>
                       <l>A toutes ses choses avoir</l>
                       <l>Sevoirs et Anthonius escrisdrent</l>
-                      <l>Et en leur remenbrance misdrent<note place="bottom" xml:id="harley_4477_note_16"><app>
+                      <l>Et en leur remenbrance misdrent<note place="bottom"><app>
                         <rdg wit="#P">Une constitution et m. <supplied resp="#FD"><hi rend="i">P</hi> hypermétrique ;
                           <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>Que le <expan>premi<ex>er</ex></expan> testament fault</l>
                       <l>Et le derrain tient et vault</l>
-                      <l>Celle<note place="bottom" xml:id="harley_4477_note_17"><app>
+                      <l>Celle<note place="bottom"><app>
                         <rdg wit="#P">Se la leur</rdg>
                         <rdg xml:lang="lat">cujus constitutionis inseri verba jussimus <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> leur constitucion</l>
@@ -11272,34 +11272,34 @@
                       <l>Est fait <expan>p<ex>ar</ex></expan> droit il doit valoir</l>
                       <l>Jassoit ce qu’il y a a l’oir</l>
                       <l>Certaines choses ordonnees</l>
-                      <l>Escriptes<note place="bottom" xml:id="harley_4477_note_18"><app>
+                      <l>Escriptes<note place="bottom"><app>
                         <rdg wit="#P">Et escriptes <supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> et assignees</l>
                       <l>Et doit <expan>vall<ex>oi</ex>r</expan>
-                        <expan>ault<ex>re</ex>ssy</expan><note place="bottom" xml:id="harley_4477_note_19"><app>
+                        <expan>ault<ex>re</ex>ssy</expan><note place="bottom"><app>
                           <rdg wit="#P">v. tout ainsi b.</rdg>
                         </app></note> bien</l>
-                      <l><expan>Co<ex>m</ex>me</expan> se il n’y eust rien<note xml:id="harley_4477_note_20" place="bottom"><app>
+                      <l><expan>Co<ex>m</ex>me</expan> se il n’y eust rien<note place="bottom"><app>
                         <rdg wit="#P">eust oncques rien</rdg>
                       </app></note></l>
                       <l>De ces choses parlé ne dit</l>
                       <l>Mais <expan>q<ex>ue</ex></expan> ly hoir qui est escript</l>
                       <l>Ne doit de rien estre esmayé</l>
                       <l>Mais tenir se doit a payé</l>
-                      <l>Des<note xml:id="harley_4477_note_21" place="bottom"><app>
+                      <l>Des<note place="bottom"><app>
                         <rdg wit="#P">Les c. <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
-                      </app></note> choses qui lui sont donnees<note xml:id="harley_4477_note_22" place="bottom"><app>
+                      </app></note> choses qui lui sont donnees<note place="bottom"><app>
                         <rdg wit="#P">sont or d. <supplied resp="#FD"><hi rend="i">P</hi> hypermétrique ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
-                      <l>Et en tel<note xml:id="harley_4477_note_23" place="bottom"><app>
+                      <l>Et en tel<note place="bottom"><app>
                         <rdg wit="#P">en ce t.</rdg>
                       </app></note> testament <expan>no<ex>m</ex>mees</expan></l>
                       <l>Sy que les <expan>aut<ex>re</ex>s</expan> toutes lest</l>
                       <l>Ou de la quarte part qui est</l>
-                      <l>A l’eritier <expan>co<ex>m</ex>me</expan><note xml:id="harley_4477_note_24" place="bottom"><app>
+                      <l>A l’eritier <expan>co<ex>m</ex>me</expan><note place="bottom"><app>
                         <rdg wit="#P">comment q.</rdg>
                       </app></note> qu’il aille</l>
-                      <l>Par la loy qui les lés<note place="bottom" xml:id="harley_4477_note_25"><app>
+                      <l>Par la loy qui les lés<note place="bottom"><app>
                         <rdg wit="#P">les loys r.</rdg>
                         <rdg xml:lang="lat">ex lege Falcidia <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> retaille</l>
@@ -11307,27 +11307,27 @@
                       <l>Aux hoirs du <expan>p<ex>re</ex>mier</expan> testament</l>
                       <l>Par unes <expan>p<ex>ar</ex>olles</expan> qui sont</l>
                       <l>Dictes en testament segond</l>
-                      <l>Et le <expan>prem<ex>ie</ex>r</expan> testament vaille<note place="bottom" xml:id="harley_4477_note_26">
+                      <l>Et le <expan>prem<ex>ie</ex>r</expan> testament vaille<note place="bottom">
                         <app>
                           <rdg wit="#P">Que le premier testament baille</rdg>
                           <rdg xml:lang="lat">ut valeret prius testamentum expressum est <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                         </app></note></l>
                       <l>Et <expan>q<ex>ue</ex></expan>
-                        <expan>po<ex>ur</ex></expan><note place="bottom" xml:id="harley_4477_note_27"><app>
+                        <expan>po<ex>ur</ex></expan><note place="bottom"><app>
                           <rdg wit="#P">que par le</rdg>
                         </app></note> le segond ne faille.</l>
                       <l><label>[4]</label> ¶ Et une <expan>aut<ex>re</ex></expan> maniere y a</l>
                       <l>Par quoy le testament qui a</l>
-                      <l>Esté<note xml:id="harley_4477_note_28" place="bottom"><app>
+                      <l>Esté<note place="bottom"><app>
                         <rdg wit="#P">Elle fait <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> fait <expan>p<ex>ar</ex></expan> droit ne vault rien</l>
                       <l>Cen povon <expan>no<ex>us</ex></expan> voier moult bien</l>
                       <l>En ceulx qui en tel estat sont</l>
                       <l>Que amenysement de chief ont</l>
-                      <l>De quoy en livre devant cest<note xml:id="harley_4477_note_29" place="bottom"><app>
+                      <l>De quoy en livre devant cest<note place="bottom"><app>
                         <rdg wit="#P">q. au livre devant est</rdg>
                       </app></note></l>
-                      <l>Deismes <expan>co<ex>m</ex>me</expan> il en est.<note place="bottom" xml:id="harley_4477_note_30"><app>
+                      <l>Deismes <expan>co<ex>m</ex>me</expan> il en est.<note place="bottom"><app>
                         <rdg wit="#P">Declairé la chose que c’est</rdg>
                         <rdg xml:lang="lat">primo libro retulimus <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
@@ -11335,10 +11335,10 @@
                       <l>Testamens vains <expan>q<ex>ui</ex></expan> point ne
                         <expan>tienne<ex>n</ex>t</expan>.</l>
                       <l><label>[5]</label> ¶ Ly <expan>testame<ex>n</ex>s</expan> qui rompus sont</l>
-                      <l>Deviennent vain <expan>q<ex>ue</ex></expan><note xml:id="harley_4477_note_31" place="bottom"><app>
+                      <l>Deviennent vain <expan>q<ex>ue</ex></expan><note place="bottom"><app>
                         <rdg wit="#P">v. qui f.</rdg>
                       </app></note> force n’ont</l>
-                      <l>Et cil<note xml:id="harley_4477_note_32" place="bottom"><app>
+                      <l>Et cil<note place="bottom"><app>
                         <rdg wit="#P">Et si</rdg>
                         <rdg xml:lang="lat">et quae [testamenta] <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> sont vain en leur endroit</l>
@@ -11351,7 +11351,7 @@
                         <expan>le<ex>ur</ex></expan> meschief</l>
                       <l>Et sy povon dire de tous</l>
                       <l>Qui sont itel <expan>q<ex>ue</ex></expan> ilz sont rous</l>
-                      <l>Et <expan>po<ex>ur</ex></expan> ce <expan>q<ex>ue</ex></expan> nous descrivon<note xml:id="harley_4477_note_33" place="bottom"><app>
+                      <l>Et <expan>po<ex>ur</ex></expan> ce <expan>q<ex>ue</ex></expan> nous descrivon<note place="bottom"><app>
                         <rdg wit="#P">nous distinton</rdg>
                         <rdg xml:lang="lat">singulas causas singulis appelationibus distingui <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
@@ -11359,11 +11359,11 @@
                         <expan>no<ex>n</ex></expan></l>
                       <l>Il advient <expan>q<ex>ue</ex></expan> aucun testament</l>
                       <l>Qui n’a esté fait droictement</l>
-                      <l>Est rompu ou il est sy vain<note xml:id="harley_4477_note_34" place="bottom"><app>
+                      <l>Est rompu ou il est sy vain<note place="bottom"><app>
                         <rdg wit="#P">est fait en vain</rdg>
                         <rdg xml:lang="lat">irrita fieri <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
-                      <l>Et n’est pas droictement<note xml:id="harley_4477_note_35" place="bottom"><app>
+                      <l>Et n’est pas droictement<note place="bottom"><app>
                         <rdg wit="#P">pas testament c.</rdg>
                       </app></note> certain</l>
                       <l><label>[6]</label> Si povon dire de rechief</l>
@@ -11373,24 +11373,24 @@
                       <l>Puis qu’il a son testament fait</l>
                       <l>Ne toult pas au testament force</l>
                       <l>Jassoit ce <expan>q<ex>ue</ex></expan> aucun s’efforce</l>
-                      <l>De rompre lay<note xml:id="harley_4477_note_36" place="bottom"><app>
+                      <l>De rompre lay<note place="bottom"><app>
                         <rdg wit="#P">rompre le et</rdg>
                       </app></note> et de deffaire</l>
                       <l><expan>Po<ex>ur</ex></expan> tant <expan>q<ex>ue</ex></expan> il eust au faire</l>
                       <l>Vii. <expan>tesm<ex>oin</ex>z</expan> qui frans
-                        <expan>ho<ex>m</ex>mes</expan> erent<note xml:id="harley_4477_note_37" place="bottom"><app>
+                        <expan>ho<ex>m</ex>mes</expan> erent<note place="bottom"><app>
                           <rdg wit="#P">h. furent<supplied resp="#FD">modernisation, banalisation ; <hi rend="i">P</hi>-</supplied></rdg>
                         </app></note></l>
-                      <l>Et qui tous .vii. le seellerent<note xml:id="harley_4477_note_38" place="bottom"><app>
+                      <l>Et qui tous .vii. le seellerent<note place="bottom"><app>
                         <rdg wit="#P">Qui le seellerent et conclurent<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>Se cil qui le testament fist</l>
-                      <l>Meure <expan>q<ex>ue</ex></expan> de ce siecle yst<note xml:id="harley_4477_note_39" place="bottom">
+                      <l>Meure <expan>q<ex>ue</ex></expan> de ce siecle yst<note place="bottom">
                         <app>
                           <rdg wit="#P">A l’eure que du siecle yst</rdg>
                           <rdg xml:lang="lat">morte temporis <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                         </app></note></l>
-                      <l>Est franc <expan>ho<ex>m</ex>me</expan> et il est osté<note xml:id="harley_4477_note_40"><app>
+                      <l>Est franc <expan>ho<ex>m</ex>me</expan> et il est osté<note><app>
                         <rdg wit="#P">et il a esté<supplied resp="#FD">rime plus riche dans <hi rend="i">L</hi> ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>Du tout hors d’autry poosté.</l>
@@ -11404,11 +11404,11 @@
                       <l><expan>Po<ex>ur</ex></expan> chose qui soit advenue</l>
                       <l>Ou mue sa condicion</l>
                       <l>Et se donne en adoption</l>
-                      <l>Se il ains qu’il en soit hors<note xml:id="harley_4477_note_41" place="bottom"><app>
+                      <l>Se il ains qu’il en soit hors<note place="bottom"><app>
                         <rdg wit="#P">S’il meurt ains qu’il en soit dehors</rdg>
                         <rdg xml:lang="lat">mortis tempore in adoptioni patris potestate sit <supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
-                      <l>L’oir <expan>q<ex>ue</ex></expan> il fist ne peult pas lors<note xml:id="harley_4477_note_42" place="bottom"><app>
+                      <l>L’oir <expan>q<ex>ue</ex></expan> il fist ne peult pas lors<note place="bottom"><app>
                         <rdg wit="#P">pas alors<supplied resp="#FD"><hi rend="i">P</hi> hypermétrique</supplied></rdg>
                       </app></note></l>
                       <l>Par le testament clamer riens</l>
@@ -11418,52 +11418,52 @@
                       <l>Dist qu’il ne veult pas <expan>q<ex>ue</ex></expan> il vaille</l>
                       <l>Encore y a plus fort sans faille</l>
                       <l>S’aucun fist testament a droit</l>
-                      <l>Et il se repent<note xml:id="harley_4477_note_43" place="bottom"><app>
+                      <l>Et il se repent<note place="bottom"><app>
                         <rdg wit="#P">s’en r.</rdg>
                       </app></note> orendroit</l>
                       <l>Et il mue sa conscience</l>
                       <l>Et nouvel testament <expan>co<ex>m</ex>mence</expan></l>
                       <l>Et aprés la mort le souprent</l>
-                      <l>Ou<note xml:id="harley_4477_note_44" place="bottom"><app>
+                      <l>Ou<note place="bottom"><app>
                         <rdg wit="#P">Et il</rdg>
                         <rdg xml:lang="lat">aut <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> il advient qu’il se reprent</l>
                       <l>Sy que il ne le <expan>p<ex>ar</ex>fait</expan> point</l>
                       <l>Le <expan>p<ex>re</ex>mier</expan> remaint en son point</l>
-                      <l>Qu’il<note xml:id="harley_4477_note_45" place="bottom"><app>
+                      <l>Qu’il<note place="bottom"><app>
                         <rdg wit="#P">Qu’ <hi rend="i">om.</hi></rdg>
                       </app></note> n’y a point de
                         <expan>cont<ex>re</ex>dit</expan></l>
                       <l>Sy <expan>co<ex>m</ex>me</expan>
                         <expan>p<ex>er</ex>tinax</expan> nous dit</l>
-                      <l>Car testament qui n’est <expan>p<ex>ar</ex>fait</expan><note xml:id="harley_4477_note_46" place="bottom"><app>
+                      <l>Car testament qui n’est <expan>p<ex>ar</ex>fait</expan><note place="bottom"><app>
                         <rdg wit="#P">Quar chose qui au segond meist</rdg>
                         <rdg xml:lang="lat">ne alias tabulae priores iure factae irritae fiant <supplied resp="#FD">rime redoublant la précédente dans <hi rend="i">P</hi> ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
-                      <l>Au <expan>p<ex>re</ex>merain</expan> nul tort ne fait<note xml:id="harley_4477_note_47" place="bottom"><app>
+                      <l>Au <expan>p<ex>re</ex>merain</expan> nul tort ne fait<note place="bottom"><app>
                         <rdg wit="#P">ne fist<supplied resp="#FD">cf. <foreign xml:lang="lat">supra</foreign> ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>Ne ne ly toult pas sa bonté</l>
-                      <l>A<note xml:id="harley_4477_note_48" place="bottom"><app>
+                      <l>A<note place="bottom"><app>
                         <rdg wit="#P">Quar r.</rdg>
                       </app></note> rien ne doit estre compté.</l>
-                      <l><label>[8]</label> ¶ Il mesmes dit<note xml:id="harley_4477_note_49" place="bottom"><app>
+                      <l><label>[8]</label> ¶ Il mesmes dit<note place="bottom"><app>
                         <rdg wit="#P">mesmes nous dit<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> et afferme</l>
                       <l>Et veult <expan>q<ex>ue</ex></expan> ce soit chose ferme</l>
                       <l>Que ja heritage n’avra</l>
                       <l>En sa vie ne recevra</l>
                       <l>Ne ne sera hoir a celui</l>
-                      <l>Qui masle nest<note xml:id="harley_4477_note_50" place="bottom"><app>
+                      <l>Qui masle nest<note place="bottom"><app>
                         <rdg wit="#P">Qui maine plet par</rdg>
                         <rdg xml:lang="lat">qui litis causa principem heredem reliquerit <supplied resp="#FD">incertain</supplied></rdg>
                       </app></note>
                         <expan>p<ex>ar</ex></expan> devant lui</l>
-                      <l>Ne testament ne loera<note xml:id="harley_4477_note_51" place="bottom"><app>
+                      <l>Ne testament ne loera<note place="bottom"><app>
                         <rdg wit="#P">testament ja ne vauldra<supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l><pb n="f. 125d"/> Qui <expan>po<ex>ur</ex></expan> tel cause fait sera</l>
-                      <l>Et qui ne vouldra ja <expan>no<ex>n</ex></expan> d’oir<note xml:id="harley_4477_note_52" place="bottom"><app>
+                      <l>Et qui ne vouldra ja <expan>no<ex>n</ex></expan> d’oir<note place="bottom"><app>
                         <rdg wit="#P">Et ne pourra homme nom d’oir</rdg>
                         <rdg xml:lang="lat">neque ex nuda voce heredis nomen admissurum <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
@@ -11472,7 +11472,7 @@
                       <l>Qui n’est faicte selon droicture</l>
                       <l><expan>Po<ex>ur</ex></expan> ce escridrent clerement</l>
                       <l>Sevoirs et Anthonius souvent</l>
-                      <l>Jasoit ce font<note xml:id="harley_4477_note_53" place="bottom"><app>
+                      <l>Jasoit ce font<note place="bottom"><app>
                         <rdg wit="#P">ce dient il</rdg>
                       </app></note> il <expan>q<ex>ue</ex></expan> nous
                         <expan>so<ex>m</ex>mes</expan></l>
@@ -11491,27 +11491,27 @@
                         <l>Parler en tiltre qui cy vient.</l>
                       </lg>
                       <l><hi rend="b">I</hi>cy <expan>no<ex>us</ex></expan> convient <expan>po<ex>ur</ex></expan> voier</l>
-                      <l>De l’office au juge voier<note xml:id="harley_4477_note_54" place="bottom"><app>
+                      <l>De l’office au juge voier<note place="bottom"><app>
                         <rdg wit="#P">j. ouir</rdg>
                       </app></note></l>
                       <l>Il doit garder <expan>premi<ex>er</ex>ement</expan></l>
                       <l>Qu’il ne juge pas <expan>ault<ex>re</ex>ment</expan></l>
-                      <l>Que sy<note xml:id="harley_4477_note_55" place="bottom"><app>
+                      <l>Que sy<note place="bottom"><app>
                         <rdg wit="#P">Qu’ainsi c.</rdg>
                       </app></note>
                         <expan>co<ex>m</ex>me</expan> les lois
                         <expan>com<ex>m</ex>andent</expan></l>
                       <l>Ou que les <expan>emp<ex>er</ex>eurs</expan> le mandent</l>
                       <l>Qui les constitucions firent</l>
-                      <l>Si <expan>co<ex>m</ex>me</expan> le besoing en virent<note xml:id="harley_4477_note_56" place="bottom"><app>
+                      <l>Si <expan>co<ex>m</ex>me</expan> le besoing en virent<note place="bottom"><app>
                         <rdg wit="#P">Comme le besoing ilz en virent</rdg>
                       </app></note></l>
                       <l><pb n="f. 212a"/> Ou si <expan>co<ex>m</ex>me</expan> la coustume est</l>
                       <l>Qui n’est pas raison <expan>q<ex>ue</ex></expan> l’en lest</l>
-                      <l xml:id="harley_4477-4.17.1"><label>[1]</label> ¶ Se il est<note xml:id="harley_4477_note_57" place="bottom"><app>
+                      <l xml:id="harley_4477-4.17.1"><label>[1]</label> ¶ Se il est<note place="bottom"><app>
                         <rdg wit="#P">Cil est r.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> requis <expan>po<ex>ur</ex></expan> meffait</l>
-                      <l>Que ly serfs a aucun a fait<note xml:id="harley_4477_note_58" place="bottom"><app>
+                      <l>Que ly serfs a aucun a fait<note place="bottom"><app>
                         <rdg wit="#P">Que le serfs a l’autre fait</rdg>
                       </app></note></l>
                       <l>Qui vient a sentence donner</l>
@@ -11522,12 +11522,12 @@
                       <l>Et <expan>q<ex>ue</ex></expan> trop
                         <expan>env<ex>er</ex>s</expan> lui mesprist</l>
                       <l>Je condampne a paier x. <expan>l<ex>ivres</ex></expan></l>
-                      <l>Ou se il veult estre<note xml:id="harley_4477_note_59" place="bottom"><app>
+                      <l>Ou se il veult estre<note place="bottom"><app>
                         <rdg wit="#P">s’il en veult estre<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> delivres</l>
                       <l>Le juge <expan>q<ex>ue</ex></expan> il doit offrir</l>
                       <l>Le serf a la paine soffrir.</l>
-                      <l xml:id="harley_4477-4.17.2"><label>[2]</label> ¶ Se<note xml:id="harley_4477_note_60" place="bottom"><app>
+                      <l xml:id="harley_4477-4.17.2"><label>[2]</label> ¶ Se<note place="bottom"><app>
                         <rdg wit="#P">De l’a.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> l’action <expan>q<ex>ue</ex></expan> aucun
                         <expan>p<ex>ro</ex>pose</expan></l>
@@ -11535,20 +11535,20 @@
                       <l>Se il voit que cil qui demande</l>
                       <l>N’a point de droit en sa demande</l>
                       <l>Absouldre doit <expan>q<ex>ui</ex></expan> qu’il griet</l>
-                      <l>Cil<note xml:id="harley_4477_note_61" place="bottom"><app>
+                      <l>Cil<note place="bottom"><app>
                         <rdg wit="#P">Celui qui<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> qui la chose poursiet</l>
-                      <l>Et se il sent et <expan>ap<ex>er</ex>choit</expan><note xml:id="harley_4477_note_62" place="bottom"><app>
+                      <l>Et se il sent et <expan>ap<ex>er</ex>choit</expan><note place="bottom"><app>
                         <rdg wit="#P">s. en esperchoit<supplied resp="#FD"><hi rend="i">L</hi> et <hi rend="i">P</hi> hypométriques</supplied></rdg>
                       </app></note></l>
                       <l>Que celui qui demande ait droit</l>
-                      <l>Tantost condampner lui<note place="bottom" xml:id="harley_4477_note_63"><app>
+                      <l>Tantost condampner lui<note place="bottom"><app>
                         <rdg wit="#P">c. le c.</rdg>
                       </app></note> convient</l>
                       <l>Celui qui celle chose tient</l>
                       <l>Que la chose et tous les fruis rende</l>
                       <l>Que ja nul <expan>t<ex>er</ex>me</expan> n’y attende</l>
-                      <l>Et se il dit icy<note xml:id="harley_4477_note_64" place="bottom"><app>
+                      <l>Et se il dit icy<note place="bottom"><app>
                         <rdg wit="#P">d. ainsi e.</rdg>
                       </app></note> endroit</l>
                       <l>Qu’il ne la peult rendre orendroit</l>
@@ -11556,20 +11556,20 @@
                       <l>Et veult <expan>t<ex>er</ex>me</expan> de rendre la</l>
                       <l>Ly juges donner lui pourra</l>
                       <l>Par bons pleiges que il doura</l>
-                      <l>Et se au<note xml:id="harley_4477_note_65" place="bottom"><app>
+                      <l>Et se au<note place="bottom"><app>
                         <rdg wit="#P">Que son t.</rdg>
                         <rdg xml:lang="lat">si intra tempus... non restituisset
                           <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note>
                         <expan>t<ex>er</ex>me</expan> que l’en ly mect</l>
-                      <l>Ausy<note xml:id="harley_4477_note_66" place="bottom"><app>
+                      <l>Ausy<note place="bottom"><app>
                         <rdg>Est si c.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note>
                         <expan>co<ex>m</ex>me</expan> il le
                         <expan>p<ex>ro</ex>mect</expan></l>
                       <l>Ne la rent ly pleges rendra</l>
                       <l>Le pris <expan>q<ex>ue</ex></expan> la chose vauldra.</l>
-                      <l>¶ Se<note xml:id="harley_4477_note_67" place="bottom"><app>
+                      <l>¶ Se<note place="bottom"><app>
                         <rdg wit="#P">De l’e.</rdg>
                         <rdg xml:lang="lat">et si hereditas <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> l’eritage est demandé</l>
@@ -11580,31 +11580,31 @@
                       <l>N’a pas <expan>tousj<ex>our</ex>s</expan> esté bien sage</l>
                       <l>Quant venoit aux fruiz recevoir</l>
                       <l>Car il en peust bien avoir</l>
-                      <l>De tieulx <expan>q<ex>ue</ex></expan> il n’a pas<note xml:id="harley_4477_note_68" place="bottom"><app>
+                      <l>De tieulx <expan>q<ex>ue</ex></expan> il n’a pas<note place="bottom"><app>
                         <rdg wit="#P">n’en a pas<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> euz</l>
                       <l>En ses coupes ne receuz.</l>
                       <l>L’en en pourra aultressy dire</l>
                       <l>S’il savoit qu’il n’estoit pas sire</l>
                       <l>De l’eritage qu’il tenoit</l>
-                      <l>Qui<note xml:id="harley_4477_note_69" place="bottom"><app>
+                      <l>Qui<note place="bottom"><app>
                         <rdg wit="#P">Que a</rdg>
                       </app></note> a ung <expan>ault<ex>re</ex></expan>
                         <expan>app<ex>ar</ex>tenoit</expan></l>
-                      <l>Se il<note xml:id="harley_4477_note_70" place="bottom"><app>
+                      <l>Se il<note place="bottom"><app>
                         <rdg wit="#P">Et s’il<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> cuidoit estre seigneur</l>
                       <l>Et avoir droicture <expan>greigne<ex>ur</ex></expan></l>
                       <l>Que il n’avoit en l’eritage</l>
                       <l>Cen qu’il a mis en son usage</l>
                       <l>Des fruis que il a receuz</l>
-                      <l>Ne ceulx<note xml:id="harley_4477_note_71" place="bottom"><app>
+                      <l>Ne ceulx<note place="bottom"><app>
                         <rdg wit="#P">Ne de c.<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> que il n’a pas euz</l>
                       <l>Ne convendra pas que il rende</l>
                       <l>Se tant advient qu’il en despende</l>
                       <l>Puys que le plet est avant mis</l>
-                      <l>Ou il ne s’est pas entremis<note xml:id="harley_4477_note_72" place="bottom"><app>
+                      <l>Ou il ne s’est pas entremis<note place="bottom"><app>
                         <rdg wit="#P">Ou que il s’est entremis<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>A droit de faire les valoir</l>
@@ -11631,13 +11631,13 @@
                       <l>Ait acomply longue tenue</l>
                       <l>Ja <expan>po<ex>ur</ex></expan> ce remaindre ne doit</l>
                       <l>Qu’au rendre condampné ne soit</l>
-                      <l>Les fruis qu’il en<note xml:id="harley_4477_note_73" place="bottom"><app>
+                      <l>Les fruis qu’il en<note place="bottom"><app>
                         <rdg wit="#P">qu’el en</rdg>
                       </app></note> a euz</l>
                       <l>Et qui ont esté receuz</l>
                       <l>Dés l’eure <expan>q<ex>ue</ex></expan> ly plet
                         <expan>co<ex>m</ex>mance</expan></l>
-                      <l>De sy <expan>q<ex>ue</ex></expan> au<note xml:id="harley_4477_note_74" place="bottom"><app>
+                      <l>De sy <expan>q<ex>ue</ex></expan> au<note place="bottom"><app>
                         <rdg wit="#P">Jousqu’au<supplied resp="#FD"><hi rend="i">P</hi> hypométrique ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> jour de la sentence</l>
                       <l>Doit ly juges tout faire rendre</l>
@@ -11648,7 +11648,7 @@
                       <l>A faire la venir avant</l>
                       <l><expan>Po<ex>ur</ex></expan> tant <expan>q<ex>ue</ex></expan> ly juges veist</l>
                       <l>Que <expan>p<ex>ar</ex></expan> barat ne le deist</l>
-                      <l>Il luy<note xml:id="harley_4477_note_75" place="bottom"><app>
+                      <l>Il luy<note place="bottom"><app>
                         <rdg wit="#P">Il il d.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> devroit <expan>t<ex>er</ex>me</expan> fichier</l>
                       <l>Et soy <expan>p<ex>ar</ex></expan> pleiges atachier</l>
@@ -11659,36 +11659,36 @@
                       <l>Dés que ly juges luy <expan>co<ex>m</ex>mande</expan></l>
                       <l>Ne <expan>c<ex>er</ex>tain</expan>
                         <expan>t<ex>er</ex>me</expan> n’en demande</l>
-                      <l>Ne il ne veult pleige<note xml:id="harley_4477_note_76" place="bottom"><app>
+                      <l>Ne il ne veult pleige<note place="bottom"><app>
                         <rdg wit="#P">n’en veult terme d.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> donner</l>
                       <l>Le juge le doit condampner</l>
                       <l>En tant <expan>co<ex>m</ex>me</expan> l’aultre peust</l>
-                      <l>Avoir de preu se il eust<note xml:id="harley_4477_note_77" place="bottom"><app>
+                      <l>Avoir de preu se il eust<note place="bottom"><app>
                         <rdg wit="#P">s’il y fust<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>La chose en jugement veue</l>
-                      <l>Dés <expan>q<ex>ue</ex></expan><note xml:id="harley_4477_note_78" place="bottom"><app>
+                      <l>Dés <expan>q<ex>ue</ex></expan><note place="bottom"><app>
                         <rdg wit="#P">Des ce que<supplied resp="#FD"><quote>meüe</quote> disyllabique dans l’original ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> la cause fut meue.</l>
-                      <l xml:id="harley_4477-4.17.4"><label>[4]</label> ¶ Se<note xml:id="harley_4477_note_79" place="bottom"><app>
+                      <l xml:id="harley_4477-4.17.4"><label>[4]</label> ¶ Se<note place="bottom"><app>
                         <rdg wit="#P">De cilz qui</rdg>
                         <rdg xml:lang="lat">Si <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
-                      </app></note> cil qui ung <expan>h<ex>er</ex>itage</expan> oult<note xml:id="harley_4477_note_80" place="bottom">
+                      </app></note> cil qui ung <expan>h<ex>er</ex>itage</expan> oult<note place="bottom">
                         <app>
                           <rdg wit="#P">h. ont</rdg>
                           <rdg xml:lang="lat">Si familiae erciscundae iudicio actum sit <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                         </app></note></l>
-                      <l>A <expan>p<ex>ar</ex>tir</expan> a jugement voult<note place="bottom" xml:id="harley_4477_note_81"><app>
+                      <l>A <expan>p<ex>ar</ex>tir</expan> a jugement voult<note place="bottom"><app>
                         <rdg wit="#P">j. vont<supplied resp="#FD">cf. <foreign xml:lang="lat">supra</foreign> ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l><pb n="f. 212d"/>
                         <expan>Po<ex>ur</ex></expan>
-                        <expan>p<ex>ar</ex>tir</expan> luy plus<note xml:id="harley_4477_note_82" place="bottom"><app>
+                        <expan>p<ex>ar</ex>tir</expan> luy plus<note place="bottom"><app>
                           <rdg wit="#P">Par partir le plus de P <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                         </app></note> de legier</l>
                       <l>Ly juge <expan>le<ex>ur</ex></expan> doit adjugier</l>
-                      <l>Quel chose<note xml:id="harley_4477_note_83" place="bottom"><app>
+                      <l>Quel chose<note place="bottom"><app>
                         <rdg wit="#P">Quelz choses</rdg>
                       </app></note>
                         <expan>ch<ex>asc</ex>un</expan> doit avoir</l>
@@ -11697,21 +11697,21 @@
                       <l>Que l’un en ait <expan>meille<ex>ur</ex></expan>
                         <expan>p<ex>ar</ex>tie</expan></l>
                       <l>Que l’<expan>aut<ex>re</ex></expan> il doit condampner</l>
-                      <l>En<note xml:id="harley_4477_note_84" place="bottom"><app>
+                      <l>En<note place="bottom"><app>
                         <rdg wit="#P">Ou d.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> deniers a l’autre donner</l>
-                      <l>Sy qu’il n’y en ait<note xml:id="harley_4477_note_85" place="bottom"><app>
+                      <l>Sy qu’il n’y en ait<note place="bottom"><app>
                         <rdg wit="#P">Si que n’en y ait<supplied resp="#FD">syntaxe de <hi rend="i">P</hi> plus ancienne</supplied></rdg>
                       </app></note> nul grevé</l>
-                      <l>Et se ly uns seul<note xml:id="harley_4477_note_86" place="bottom"><app>
+                      <l>Et se ly uns seul<note place="bottom"><app>
                         <rdg wit="#P">ung de ceulx a</rdg>
                         <rdg xml:lang="lat">solus <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
-                      </app></note> a levé<note xml:id="harley_4477_note_87" place="bottom"><app>
+                      </app></note> a levé<note place="bottom"><app>
                         <rdg wit="#L">Trestous les fruis de l’eritage Ou se il y a fait dommage <hi rend="i">om.</hi><supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l>Tout doit ly juge avaluer</l>
                       <l>Ne cen ne doit l’en pas muer</l>
-                      <l>Se il y a plus hoirs<note xml:id="harley_4477_note_88" place="bottom"><app>
+                      <l>Se il y a plus hoirs<note place="bottom"><app>
                         <rdg wit="#P">plus ores que</rdg>
                         <rdg xml:lang="lat">inter plures quoque quam duos coheredes <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> que deux</l>
@@ -11732,32 +11732,32 @@
                       <l>Et s’il n’y a chose que une</l>
                       <l>Et elle est a pluseurs
                         <expan><ex>com</ex>mu<ex>n</ex>e</expan></l>
-                      <l>Mais el<note place="bottom" xml:id="harley_4477_note_89"><app>
+                      <l>Mais el<note place="bottom"><app>
                         <rdg wit="#P">Mais il ne</rdg>
                       </app></note> ne peult souffrir divise</l>
                       <l>Ne en part ne peult estre mise</l>
                       <l><expan>Po<ex>ur</ex></expan> nulle force
                         <expan>q<ex>ue</ex></expan> nul ait</l>
                       <l>Sy <expan>co<ex>m</ex>me</expan> ung
-                        <expan>ho<ex>m</ex>me</expan><note xml:id="harley_4477_note_90" place="bottom"><app>
+                        <expan>ho<ex>m</ex>me</expan><note place="bottom"><app>
                           <rdg wit="#P">ung asne ou</rdg>
                           <rdg xml:lang="lat">vel homo forte aut mulus erit
                             <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                         </app></note> ou ung mulet</l>
                       <l>Dont se doit le juge <expan>ent<ex>re</ex>mectre</expan></l>
                       <l>De la chose a leal prix mectre</l>
-                      <l>Et d’aviser<note xml:id="harley_4477_note_91" place="bottom"><app>
+                      <l>Et d’aviser<note place="bottom"><app>
                         <rdg wit="#P">d’ajugier que</rdg>
                         <rdg xml:lang="lat">adjudicandus <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note>
-                        <expan>q<ex>ue</ex></expan> ly ung l’ait<note xml:id="harley_4477_note_92" place="bottom"><app>
+                        <expan>q<ex>ue</ex></expan> ly ung l’ait<note place="bottom"><app>
                           <rdg wit="#P">ung les aye</rdg>
                         </app></note></l>
-                      <l>Et a <expan>ch<ex>asc</ex>un</expan> des aultres pait<note xml:id="harley_4477_note_93" place="bottom"><app>
+                      <l>Et a <expan>ch<ex>asc</ex>un</expan> des aultres pait<note place="bottom"><app>
                         <rdg wit="#P">autre paye</rdg>
                       </app></note></l>
                       <l>Tant <expan>co<ex>m</ex>me</expan> du prix ly affiert</l>
-                      <l>Ainsy la chose <expan>p<ex>ar</ex>tie</expan> yert.<note xml:id="harley_4477_note_94" place="bottom"><app>
+                      <l>Ainsy la chose <expan>p<ex>ar</ex>tie</expan> yert.<note place="bottom"><app>
                         <rdg wit="#P">Ainsi que la chose requiert</rdg>
                       </app></note></l>
                       <l xml:id="harley_4477-4.17.6"><label>[6]</label> ¶ En actions de champs
@@ -11779,7 +11779,7 @@
                       <l>En est sans doubte damagié</l>
                       <l>Dont convient estre adjugié</l>
                       <l>Que le champ <expan>p<ex>ro</ex>chain</expan> luy restort</l>
-                      <l>Deniers qu’il<note xml:id="harley_4477_note_95" place="bottom"><app>
+                      <l>Deniers qu’il<note place="bottom"><app>
                         <rdg wit="#P">D. qui ne ly f.</rdg>
                       </app></note> ne luy face tort /</l>
                       <l>Et en ce condampner convient</l>
@@ -11787,28 +11787,28 @@
                       <l>Que <expan>so<ex>m</ex>me</expan>
                         <expan>c<ex>er</ex>taine</expan> luy rende</l>
                       <l><expan>Po<ex>ur</ex></expan> le sien champ qui en amende.</l>
-                      <l>¶ En cest<note xml:id="harley_4477_note_96" place="bottom"><app>
+                      <l>¶ En cest<note place="bottom"><app>
                         <rdg wit="#P">En celuy<supplied resp="#FD"><hi rend="i">L</hi> hypométrique ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note> meismes jugement</l>
                       <l>Doit estre condampnez griefment</l>
                       <l>Cil qui les pierres des devises</l>
-                      <l>A ostees et<note xml:id="harley_4477_note_97" place="bottom"><app>
+                      <l>A ostees et<note place="bottom"><app>
                         <rdg wit="#P">A ou ostés ou d.</rdg>
                       </app></note> desassises</l>
                       <l>Ou a les arbres esrachiéz</l>
                       <l>Qui en devise erent fichiez.</l>
                       <l>¶ <expan>Po<ex>ur</ex></expan> constumace
-                        <expan><ex>et</ex></expan><note xml:id="harley_4477_note_98" place="bottom"><app>
+                        <expan><ex>et</ex></expan><note place="bottom"><app>
                           <rdg wit="#P">c. ou p.</rdg>
                         </app></note>
                         <expan>po<ex>ur</ex></expan> despit</l>
                       <l>Est condampnez cil qui respit</l>
                       <l>Quiert <expan>q<ex>ue</ex></expan> le
-                        <expan>mandeme<ex>n</ex>t</expan><note xml:id="harley_4477_note_99" place="bottom"><app>
+                        <expan>mandeme<ex>n</ex>t</expan><note place="bottom"><app>
                           <rdg wit="#P">Que le commandement au<supplied resp="#FD"><hi rend="i">P</hi> hypermétrique ;
                             <hi rend="i">P</hi>-</supplied></rdg>
                         </app></note> au juge</l>
-                      <l>Ne fait des ce que il ajuge<note xml:id="harley_4477_note_100" place="bottom">
+                      <l>Ne fait des ce que il ajuge<note place="bottom">
                         <app>
                           <rdg wit="#P">il juge<supplied resp="#FD"><hi rend="i">P</hi> hypométrique ; <hi rend="i">P</hi>-</supplied></rdg>
                         </app></note></l>
@@ -11818,7 +11818,7 @@
                       <l xml:id="harley_4477-4.17.7"><label>[7]</label> ¶ En ces jugemens est ainsy</l>
                       <l>Que des que la parole yssy</l>
                       <l>En la court de la bouche au juge</l>
-                      <l>Se a aucune<note xml:id="harley_4477_note_101" place="bottom"><app>
+                      <l>Se a aucune<note place="bottom"><app>
                         <rdg wit="#P">Que aucun une c.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> chose adjuge</l>
                       <l>Elle est soue sans contredit</l>
