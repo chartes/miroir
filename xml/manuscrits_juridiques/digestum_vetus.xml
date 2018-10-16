@@ -3185,7 +3185,7 @@
                   <msItem n="4" xml:id="fr_2844_table">
                     <locus from="199v" to="201v"/>
                     <title type="partie" xml:lang="fr">Table des matières</title>
-                    <note type="msItem" resp="#GP">Table des matières sur 3 colonnes ; l’initiale des titres de chapitre est peinte en marge alternativement en rouge et en bleu.</note>
+                    <note type="msItem">Table des matières sur 3 colonnes ; l’initiale des titres de chapitre est peinte en marge alternativement en rouge et en bleu.</note>
                     <msItem>
                       <locus from="199c" to="201d"/>
                       <title>Liste des titres de chapitre du <title>Livre de jostice et de plet</title> précédés par l’énoncé, toujours rubriqué, indiquant la numérotation des livres,
