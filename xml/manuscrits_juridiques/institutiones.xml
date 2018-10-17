@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="institutiones" xml:lang="fr">
@@ -583,9 +583,7 @@
                           <msItem>
                             <locus from="4c"/>
                             <title type="sub">[Inst. 1.7]</title>
-                            <incipit>Cist titre parolle de franchise et de
-                              <expan>len<ex>us</ex></expan>
-                              <supplied resp="#FD">sic</supplied> assenez en testament de la loy</incipit>
+                            <incipit>Cist titre parolle de franchise et de <expan>len<ex>us</ex></expan> assenez en testament de la loy</incipit>
                           </msItem>
                           <msItem>
                             <locus from="4d"/>
@@ -1248,7 +1246,7 @@
                         <expan>p<ex>ar</ex>ollez</expan> de
                         <expan>le<ex>ur</ex></expan> establissement fussent mise en
                         <expan>n<ex>ost</ex>re</expan> livre.
-                        <expan>po<ex>ur</ex></expan> che que ellez touchent encore autre chose ¶ Li emperees <supplied resp="#FD">sic</supplied> Sevoirz et <expan>Antoni<ex>us</ex></expan>. distrent que li testamenz qui fu fez au derrenier vaust par doit. Ja soit ce que oirz soit establiz de certainne cose. et que mencion n’i est faite de toutes <pb n="f. 27c"/> lez coses de l’eritage. Mes cil qui i est fez oirz est tenus a tenir soi apoiés dez chosez qui li ont esté donneez. ou que il retiengne la quarte parte de tout l’eritage / et rende le remanant a cheux qui furent fez oir el premier <expan>testame<ex>n</ex>t</expan>.
+                        <expan>po<ex>ur</ex></expan> che que ellez touchent encore autre chose ¶ Li <sic>emperees</sic> Sevoirz et <expan>Antoni<ex>us</ex></expan>. distrent que li testamenz qui fu fez au derrenier vaust par doit. Ja soit ce que oirz soit establiz de certainne cose. et que mencion n’i est faite de toutes <pb n="f. 27c"/> lez coses de l’eritage. Mes cil qui i est fez oirz est tenus a tenir soi apoiés dez chosez qui li ont esté donneez. ou que il retiengne la quarte parte de tout l’eritage / et rende le remanant a cheux qui furent fez oir el premier <expan>testame<ex>n</ex>t</expan>.
                         <expan>po<ex>ur</ex></expan> lez parollez qui furent ditez del <expan>p<ex>re</ex>mier</expan> testament par quoy il est dit <expan>exp<ex>re</ex>sseme<ex>n</ex>t</expan> que il ne
                         <expan>co<ex>n</ex>vient</expan> pas doubter que li premiers testamenz ne vaille. en ceste maniere est testamenz touz. ¶ <label>[4]</label> Li testamens qui est fez par droit. est quassez en une autre maniere. quant cil qui fist le testament a souffert amenuissemens de chief. et
                         <expan>no<ex>us</ex></expan> avons dit a premier livre
@@ -2073,7 +2071,7 @@
                         <expan>amonestema<ex>n</ex>z</expan> Si
                         <expan>q<ex>ue</ex></expan> il nos lise a aprendre la noveleté des lois non pas par les encianes fables mes par l’emperial clarté. Si <expan>q<ex>ue</ex></expan> nos oroilles ne nostre entendemant n’i truisse rien qui n’i soit profitable. ne <expan>q<ex>ue</ex></expan> il i soit mauvesemant mis mes ce qui vaut par les arguemanz des choses <expan><ex>et</ex></expan> nos faciez par un po de tans ce que li encien ne porent fere
                         <expan>e<ex>n</ex></expan> .iii. anz. Ce est
-                        <expan>q<ex>ue</ex></expan> il puissent lire toz les establissemanz l’enpereeurr <supplied resp="#FD">sic</supplied>
+                        <expan>q<ex>ue</ex></expan> il puissent lire toz les establissemanz <sic>l’enpereeurr</sic>
                         <pb n="f. 1c"/>
                         <expan>Q<ex>ue</ex></expan> vos estes trovez digne de si
                         <expan>g<ex>ra</ex>nt</expan> honeur
@@ -2081,7 +2079,7 @@
                         <expan>g<ex>ra</ex>nt</expan> benigneté que le
                         <expan><ex>com</ex>mencement</expan>
                         <expan><ex>et</ex></expan> la fin des enseignemenz des lois vos viegne de la bouche l’<expan>enp<ex>er</ex>eeur</expan>.
-                        <label>[4]</label> Nos avons donc <supplied resp="#FD">sic</supplied>
+                        <label>[4]</label> Nos avons <sic>donc</sic>
                         <expan><ex>com</ex>mandement</expan> que ces institutes soient parties en iiii. livres aprés les .l. livres de digestes.
                         <expan><ex>et</ex></expan> en quoi toz les enciens droiz fu assanblez par cel meismes <expan>t<ex>ri</ex>bunian</expan>
                         <expan><ex>et</ex></expan> par les autres homes nobles
@@ -2472,7 +2470,7 @@
                           <msItem>
                             <locus from="12d"/>
                             <title type="sub">[Inst. 1.26]</title>
-                            <incipit><seg type="rubric">Cest tytres es <supplied resp="#FD">sic</supplied> de deffendeours soupechonnous</seg></incipit>
+                            <incipit><seg type="rubric">Cest tytres <sic>es</sic> de deffendeours soupechonnous</seg></incipit>
                           </msItem>
                         </msItem>
                         <msItem xml:id="montpellier_h373_institutiones_livre2">
@@ -2628,7 +2626,7 @@
                             <incipit><seg type="rubric">De toutes les choses qui
                               <expan>s<ex>un</ex>t</expan> enjointes a l’oir que il rende</seg>
                               <supplied resp="#FD"><title xml:lang="lat">De singulis rebus per fideicommissum relictis</title> ;<seg type="incipit">Aucuns puet enjoindre que il rende aucuns simple chose si
-                                <expan><ex>com</ex>me</expan> .i. serf ou .i. champ ou une robe ou une masse d’arge <supplied resp="#FD">sic</supplied> d’argent ou deniers nonbrez...</seg></supplied></incipit>
+                                <expan><ex>com</ex>me</expan> .i. serf ou .i. champ ou une robe ou une masse <sic>d’arge</sic> d’argent ou deniers nonbrez...</seg></supplied></incipit>
                           </msItem>
                           <msItem>
                             <locus from="38b"/>
@@ -2788,7 +2786,7 @@
                             <locus from="54b"/>
                             <title type="sub">[Inst. 3.21]</title>
                             <incipit><seg type="rubric">D’<expan>obligeme<ex>n</ex>z</expan>
-                              <expan>q<ex>ui</ex></expan> on <supplied resp="#FD">sic</supplied> esté fez
+                              <expan>q<ex>ui</ex></expan> <sic>on</sic> esté fez
                               <expan>p<ex>ar</ex></expan> letres</seg></incipit>
                           </msItem>
                           <msItem>
@@ -3084,8 +3082,7 @@
                         <origPlace>France (Normandie ?)</origPlace>
                       </origin>
                       <provenance>
-                        <p><label>Provenance</label>appartenait en 1530 à <persName role="possesseur" key="Laurent Pongrise, bailli de Nogent-sur-Seine et de Pont-sur-Seine">Laurent Pongrise</persName>, bailli de Nogent-sur-Seine, et de Pont-sur-Seine. (ex libris <quote>Cest a moy Laurent Pongrise baillif de nogen et pont sur seyne il prys
-                          <supplied resp="#FD">sic</supplied> a ceulx ou a celle qui le trouve sy me le rendre ou a mon hoirs l’an mi V<hi rend="sup">c</hi> xxx</quote> f. 47,
+                        <p><label>Provenance</label>appartenait en 1530 à <persName role="possesseur" key="Laurent Pongrise, bailli de Nogent-sur-Seine et de Pont-sur-Seine">Laurent Pongrise</persName>, bailli de Nogent-sur-Seine, et de Pont-sur-Seine. (ex libris <quote>Cest a moy Laurent Pongrise baillif de nogen et pont sur seyne il <sic>prys</sic> a ceulx ou a celle qui le trouve sy me le rendre ou a mon hoirs l’an mi V<hi rend="sup">c</hi> xxx</quote> f. 47,
                           <quote>C’est a moy Laurent Pongrise baillif de nogent sur seyne et pont sur seyne</quote> [signature] f. 78b) ;
                           <persName role="possesseur" key="Jean Bouhier">Jean Bouhier</persName> (3<hi rend="sup">e</hi> f. de garde papier moderne <q>Ms de la bibliothèque de Mr le president Bouhier<lb/>D. 75<lb/>MDCCXXI</q>).
                           <orgName>Bibliotheca Buheriana</orgName>, ms 19 de Montpellier (cat. de la bibl. du Président Bouhier, rédigé par lui-même), p. 35 : <q>D.75 : Justinien, ses Institutes de droit traduits en françois par un auteur incertain et par le commandement du roy Saint-Louis, à ce qu’on croit. Volume écrit en parchemin l’an 1296, comme il est écrit à la fin</q>.</p>
@@ -3786,8 +3783,8 @@
                             <title type="sub">[Inst. 3.8]</title>
                             <incipit><seg type="rubric">Cis
                               <expan>t<ex>itles</ex></expan>
-                              <expan><ex>est</ex></expan> de l’eseignement
-                              <supplied resp="#FD">sic</supplied> de chiaus qui
+                              <expan><ex>est</ex></expan> de <sic>l’eseignement
+</sic> de chiaus qui
                               <expan>s<ex>on</ex>t</expan>
                               <expan>f<ex>ra</ex>nchi</expan>.
                               <expan>R<ex>ubri</ex>ca</expan> ca</seg></incipit>
@@ -6202,7 +6199,7 @@
                             <expan>neporqu<ex>an</ex>t</expan> il est loiaus
                             <expan><ex>et</ex></expan> diligenz ne doit pas
                             <expan>est<ex>re</ex></expan>
-                            <pb n="f. 18a"/> ostez de l’aministracion comme soupeçonneus. Cist finist li premiers livres. Ei <supplied resp="#FD">sic</supplied> commence li segons livres.</explicit>
+                            <pb n="f. 18a"/> ostez de l’aministracion comme soupeçonneus. Cist finist li premiers livres. <sic>Ei</sic> commence li segons livres.</explicit>
                           <msItem>
                             <locus from="1d"/>
                             <title type="sub">[Inst. 1.1]</title>
@@ -6547,7 +6544,7 @@
                           <msItem>
                             <locus from="59b"/>
                             <title type="sub">[Inst. 3.7]</title>
-                            <incipit><seg type="rubric">Cist titres es <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> de l’eritage a cels qui
+                            <incipit><seg type="rubric">Cist titres <sic>es</sic> de l’eritage a cels qui
                               <expan>s<ex>on</ex>t</expan> franchi</seg></incipit>
                           </msItem>
                           <msItem>
@@ -6820,7 +6817,7 @@
                       <label>Inst. Prologue</label>
                       <p xml:id="fr_1065-prol">Il convient que la majeté l’empereor soit atornee non mie
                         <expan>ta<ex>n</ex>t</expan> seulement d’armes de lois. Si que li uns <expan><ex>et</ex></expan> li autres tens. ce est cil de pés <expan><ex>et</ex></expan> cil de guerre que il puisse estre gouverné par droit. <expan><ex>et</ex></expan> li
-                        <expan>emp<ex>er</ex>eres</expan> de rome soit vainquierres. No <supplied resp="#FD">sic</supplied> mie tant seulement batailles <expan>q<ex>ue</ex></expan> il a contre ses
+                        <expan>emp<ex>er</ex>eres</expan> de rome soit vainquierres. <sic>No</sic> mie tant seulement batailles <expan>q<ex>ue</ex></expan> il a contre ses
                         <expan>a<ex>n</ex>nemis</expan>. Ainz bout arrieres par la force des lois. Ceus qui acusent fausement. E il soit autresi vainquierres par la religion de droit. conme il est conte ses anemis. <label>[1]</label> E nos avons porce fet a l’aide de dieu. l’une <expan><ex>et</ex></expan> l’autre voie par
                         <expan>g<ex>ra</ex>nt</expan> veilliees
                         <expan><ex>et</ex></expan> par souveraine porveance.
@@ -6842,7 +6839,7 @@
                         <expan>p<ex>ar</ex></expan> l’<expan>emp<ex>er</ex>ial</expan> clarté.
                         <expan><ex>et</ex></expan> nos oreilles ne nostre entendement n’i truissent riens qui n’i soit
                         <expan>p<ex>ro</ex>fitable</expan> ne qui i soit mauvesement mis. Mes ce qui vaut <expan>p<ex>ar</ex></expan> les argumenz des choses. E nos façoiz en pou de tens ce
-                        <expan>q<ex>ue</ex></expan> li ancien pooient a poinne retrere quatre anz. ce est que il puisent lire touz les establis<pb n="f. 1c"/>semenz l’<expan>emp<ex>er</ex>eeur</expan>. quar vos estres trové digne de si grant haieur <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign> manque un jambage</supplied> et de si grant beneurté. que li conmencement.
+                        <expan>q<ex>ue</ex></expan> li ancien pooient a poinne retrere quatre anz. ce est que il puisent lire touz les establis<pb n="f. 1c"/>semenz l’<expan>emp<ex>er</ex>eeur</expan>. quar vos estres trové digne de si grant <sic>haieur</sic><note>Il manque un jambage</note> et de si grant beneurté. que li conmencement.
                         <expan><ex>et</ex></expan> la fin de l’ansangnement des lois resviengne de la bouche l’empereur. <label>[4]</label> Nos avons dont conmandé que ces institutes. soient parties en .iiii. livres. Aprés li livres de digestes en qoi touz li anciens droiz fu assemblez <expan>p<ex>ar</ex></expan> celui meismes tribunian
                         <expan><ex>et</ex></expan> par les autres homes nobles
                         <expan><ex>et</ex></expan>
@@ -6876,8 +6873,8 @@
                         <pb n="f. 39a"/> est vains porce que cil qui le fist en a perdue la cité de ronme. ou franchise ou que il donna a estre fill adoptis a aucun. <expan><ex>et</ex></expan> que il estoit en la poesté a son pere adoptif quant il fu mort Cil qui fu fez oirs el testament ne puet pas demander en la
                         <expan>possessio<ex>n</ex></expan> de ses biens selonc les tables del testament. ¶ <label>[7]</label> Testamenz ne puet pas estre quassez por ce sanz plus que cil qui le fist ne vost pas tele ure fu aprés que il vausist. quar se aucuns a fet son testament par droit <expan><ex>et</ex></expan> il conmence aprés a fere un autre. <expan><ex>et</ex></expan> la mort li desfansist ou il se repant. si que il ne le parfet pas li emperieres parcinar establist qe li premiers testamenz ne soit pas porce vains. ¶ Quar testamenz qui n’est pas fez n’est nus.
                         <label>[8]</label> par ce cele meismes raison dit il. que il ne recevra pas l’eritage. a celui qui fet de lui son oir por cause de plet. <expan><ex>et</ex></expan> que il porverra que les tables ne furant pas faites loiaumant. an quoi il estoit establiz oirs porce cele cause. <expan><ex>et</ex></expan> que il ne recevra pas non d’oir por une voiz
-                        <expan><ex>et</ex></expan> que il ne conquerra nule be
-                        <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> chose par escriture. a qui l’autorité de droit faille. E selonc ce escristrent souvant li seint empereeur sevoirs. <expan><ex>et</ex></expan> antonnins. Ja soit ce sont il que nous soions asous des <pb n="f. 39a"/> lois. Ne porquant nous ne voulons riens fere qui soit contaire aus lois.</p>
+                        <expan><ex>et</ex></expan> que il ne conquerra nule <sic>be
+</sic> chose par escriture. a qui l’autorité de droit faille. E selonc ce escristrent souvant li seint empereeur sevoirs. <expan><ex>et</ex></expan> antonnins. Ja soit ce sont il que nous soions asous des <pb n="f. 39a"/> lois. Ne porquant nous ne voulons riens fere qui soit contaire aus lois.</p>
                     </div>
                   </div>
                 </item>
@@ -7726,7 +7723,7 @@
                         <msItem xml:id="princeton_kane_ms49_institutiones_livre1">
                           <locus from="1a" to="14a"/>
                           <title type="section" xml:lang="fr">Prooemium et livre I</title>
-                          <incipit xml:lang="fro"><seg type="rubric">El non nostre seigneur Jhesucrist. Ici commencent les Institutes a l’<expan>e<ex>m</ex>pereeur</expan> Justinian. Li empereres Cesar Flavius Justituatis <supplied resp="#FD">sic</supplied>
+                          <incipit xml:lang="fro"><seg type="rubric">El non nostre seigneur Jhesucrist. Ici commencent les Institutes a l’<expan>e<ex>m</ex>pereeur</expan> Justinian. Li empereres Cesar Flavius <sic>Justituatis</sic>
                             <expan><ex>et</ex></expan> tozjorz augustus dit.</seg><lb/>Il covient que la majesté l’emperere soit aornee, ne mie tant seulement d’armes mes de lois...</incipit>
                           <explicit xml:lang="fro">...Ne doit pas estre ostez de l’aministracion come soupeçoneus.</explicit>
                         </msItem>
@@ -8083,7 +8080,7 @@
                           <msItem>
                             <locus from="9c"/>
                             <title type="sub">[Inst. 1.26]</title>
-                            <incipit><supplied resp="#FD"><title xml:lang="lat">De suspectis tutoribus vel curatoribus</title> ; réserve prévue, mais rubrique non exécutée ;<seg type="incipit">L’an doit savoir que la crime del soupeçon et <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> descent de la loy des .xii. tables.</seg></supplied></incipit>
+                            <incipit><supplied resp="#FD"><title xml:lang="lat">De suspectis tutoribus vel curatoribus</title> ; réserve prévue, mais rubrique non exécutée ;<seg type="incipit">L’an doit savoir que la crime del soupeçon <sic>et</sic> descent de la loy des .xii. tables.</seg></supplied></incipit>
                           </msItem>
                         </msItem>
                         <msItem xml:id="stomer_439_institutiones_livre2">
@@ -8983,8 +8980,7 @@
                             <title type="sub">[Inst. 1.18]</title>
                             <incipit><seg type="rubric">Cist titres
                               <expan>p<ex>ar</ex>ole</expan> de ceus qui sont mis en garde de leur
-                              <expan>p<ex>ar</ex>tro<ex>n</ex>s</expan>
-                              <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied></seg></incipit>
+                              <expan>p<ex>ar</ex>tro<ex>n</ex>s</expan></seg></incipit>
                           </msItem>
                           <msItem>
                             <locus from="47a"/>
@@ -9166,8 +9162,8 @@
                           <msItem>
                             <locus from="66c"/>
                             <title type="sub">[Inst. 2.20]</title>
-                            <incipit><seg type="rubric">Ciz titres parole des hrors
-                              <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> de lor droiz</seg></incipit>
+                            <incipit><seg type="rubric">Ciz titres parole des <sic>hrors
+</sic> de lor droiz</seg></incipit>
                           </msItem>
                           <msItem>
                             <locus from="69d"/>
@@ -9244,7 +9240,7 @@
                           <msItem>
                             <locus from="80c"/>
                             <title type="sub">[Inst. 3.8]</title>
-                            <incipit><seg type="rubric">Cist titres parolle de ceus qui ont esté franchies <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied>
+                            <incipit><seg type="rubric">Cist titres parolle de ceus qui ont esté <sic>franchies</sic>
                               <expan>p<ex>ar</ex></expan>
                               <expan><ex>con</ex>duicio<ex>n</ex>s</expan></seg></incipit>
                           </msItem>
@@ -9613,7 +9609,7 @@
                     </div>
                     <div type="edition" n="2">
                       <head>Inst. 4.17</head>
-                      <p xml:id="bav_1927-4.17"><seg type="rubric">Cist titres parole de l’ofice au juge</seg><hi rend="b">I</hi>l convnent <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> que noz traitons <pb n="f. 106b"/> de l’ofice au juge.
+                      <p xml:id="bav_1927-4.17"><seg type="rubric">Cist titres parole de l’ofice au juge</seg><hi rend="b">I</hi>l <sic>convnent</sic> que noz traitons <pb n="f. 106b"/> de l’ofice au juge.
                         <expan><ex>et</ex></expan> li juges doit
                         <expan>gard<ex>er</ex></expan> premierement que il ne juge fors si comme il est establiz <expan>p<ex>ar</ex></expan> les lois ou par les establissemanz ou par les coustumes
                         <label>[1]</label>
@@ -9819,8 +9815,8 @@
                       <expan>q<ex>ue</ex></expan> se il n’i a <expan>q<ex>ue</ex></expan> les seurs a la morte ou a mort. <expan><ex>et</ex></expan> sa mere la mere ait la moitié de tout l’eritage <expan><ex>et</ex></expan> toutes les seurs aient l’autre moitié. <expan><ex>et</ex></expan> se aucun ou aucune muert <expan>sa<ex>n</ex>z</expan> fere testament <expan><ex>et</ex></expan> sa mere remaint.
                       <expan><ex>et</ex></expan> un frere <supplied resp="#FD">...</supplied>sors ou seul ou se<supplied resp="#FD">...</supplied>
                       <label>[6]</label>
-                      <pb n="f. 1c"/>fanz ou eles sont negligenz de demander autre dedenz l’an en leu de celui qui est trop plaignanz ou qui s’eseeuse
-                      <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied> la garde eles seront par droit mises arrieres a lour heritage se il muerent dedenz aage
+                      <pb n="f. 1c"/>fanz ou eles sont negligenz de demander autre dedenz l’an en leu de celui qui est trop plaignanz ou qui <sic>s’eseeuse
+</sic> la garde eles seront par droit mises arrieres a lour heritage se il muerent dedenz aage
                       <label>[7]</label>
                       <expan><ex>et</ex></expan> ja soit ce <expan>q<ex>ue</ex></expan> li filz ou la fille soit de porchaz. ¶
                       <expan>Neporq<ex>ua</ex>nt</expan> la mere puet bien estre receue a avoir ses biens par le <expan><ex>con</ex>seil</expan> au senat <expan>q<ex>ui</ex></expan> est apelé tertulian.</p>
@@ -9979,7 +9975,7 @@
                         <p>Inst. 2.3 <quote>Cest tiltre si bien y advises Nous fait mencion de servises Que pocesseurs de champs font A leurs voisins qui prés d’elx sont.</quote> L, f. 104a |
                           <quote>Ce tiltre cy bien y avises Te fait mencion de servises Que possessions de champs font A leurs voisins qui prés de eulz sont R. iii</quote> P, f. C8a</p>
                         <p>Inst. 2.12 <quote>Ce tiltre de ceulx nous esclere Que testament ne pevent faire</quote> L, f. 116c | <quote>Ce tiltre et se droit nous desclaire Ceulz qui testament ne pevent faire R. xii</quote> P, f. E1b</p>
-                        <p>Inst. 2.15 <quote>Cest tiltre est d’eritiers establir</quote> L | <quote>R. xvii<lb/>Ce tiltre est d’aultres heritiers Establir en lieu des premieres <supplied resp="#FD">sic</supplied></quote> P, f. E5c [manque le second vers dans L]</p>
+                        <p>Inst. 2.15 <quote>Cest tiltre est d’eritiers establir</quote> L | <quote>R. xvii<lb/>Ce tiltre est d’aultres heritiers Establir en lieu des <sic>premieres</sic></quote> P, f. E5c [manque le second vers dans L]</p>
                         <p>Inst. 2.22 <quote>Cest tiltre parole sans faille De la loy qui les lés retaille</quote> L, f. 136b | <quote>Ce tiltre parole sans faille De la loy qui les loys retaille R. xxii</quote> P, f. F6d</p>
                         <p>Inst. 3.2 <quote>De succession legictime fault D’esclairer comme elle fault</quote> L, f. 148a | <quote>Par quel raison pour hoirs se tiennent Cousins qui devers pere viennent R. ii</quote> P, f. G8a</p>
                         <p>Inst. 3.9 <quote>En ce tiltre peult l’en savoir Qui biens a mort doit possoier</quote> L, f. 156b | <quote>De bonorum possessionibus R. x<lb/>En ce tiltre peult l’en voir Qui les biens au mort doit avoir</quote> P, f. H6a</p>
@@ -9997,8 +9993,8 @@
                         <p>Inst. 4.1 <quote>D’obligemens qui de meffait Descendent quant aucun le fait</quote> L, f. 179c | <quote>De obligationibus que ex maleficio nascuntur R. i</quote> P, f. L5b</p>
                         <p>Inst. 4.8 <quote>D’actions qui sont de meffait Descendens que les serfs ont fait</quote> L, f. 196d | <quote>De noxalibus actionibus R. ix<lb/>Des actions qui des meffais Descendent que les serfs ont fais</quote> P, f. N6a</p>
                         <p>Inst. 4.12 <quote>De faire actions congnoissables Les temporelz des pardurables.</quote> L, f. 205a | <quote>De perpetuis et temporalibus actionibus R. xiii<lb/>De faire actions congnoissables Temporelles des pardurables</quote> P, f. O6b</p>
-                        <p>Inst. 4.16 <quote>De la paine et du jugement De ceulx qui plaident folement</quote> L, f. 210d | <quote>De pena temere litigantium R. xvii<lb/>De la paine et du veniement
-                          <supplied resp="#FD">sic</supplied> De ceulx qui pledent foulement</quote> P, f. P4c [<quote>veniement</quote> est une leçon fautive de <hi rend="i">P</hi>]</p>
+                        <p>Inst. 4.16 <quote>De la paine et du jugement De ceulx qui plaident folement</quote> L, f. 210d | <quote>De pena temere litigantium R. xvii<lb/>De la paine et du <sic>veniement
+</sic> De ceulx qui pledent foulement</quote> P, f. P4c [<quote>veniement</quote> est une leçon fautive de <hi rend="i">P</hi>]</p>
                       </item>
                     </list>
                   </item>
@@ -11065,7 +11061,7 @@
                         <l>Il est de justice et de droit.</l>
                       </lg>
                       <l><hi rend="b">J</hi>ustice est voulenté estable</l>
-                      <l>Voulenté feme <supplied resp="#FD"><foreign xml:lang="lat">sic</foreign></supplied>
+                      <l>Voulenté <sic>feme</sic>
                         <expan><ex>et</ex></expan> pardurable</l>
                       <l>Que a <expan>ch<ex>asc</ex>un</expan> sans attendue</l>
                       <l>Sois sa <expan>p<ex>ro</ex>pre</expan> chose rendue</l>
@@ -11912,7 +11908,7 @@
                         <incipit xml:lang="fro">Prologue.<lb/>La majesté de l’empereur Qui du <expan>mo<ex>n</ex>de</expan> est
                           <expan>go<ex>u</ex>verneur</expan> Doit estre d’armes
                           <expan>ho<ex>n</ex>noree</expan> Et de loys garnie et armee...</incipit>
-                        <explicit xml:lang="fro">Se il est loyalux <supplied resp="#FD">sic</supplied> et diligens Et a veue de toutes gens Il ne doibt pas estre getté Arriere pour sa povreté.<lb/>Cy finist le premier livre.</explicit>
+                        <explicit xml:lang="fro">Se il est <sic>loyalux</sic> et diligens Et a veue de toutes gens Il ne doibt pas estre getté Arriere pour sa povreté.<lb/>Cy finist le premier livre.</explicit>
                         <msItem>
                           <locus from="A3b"/>
                           <title type="sub">[Inst. 1.1]</title>
@@ -12140,7 +12136,7 @@
                         <msItem>
                           <locus from="E5c"/>
                           <title type="sub">[Inst. 2.15]</title>
-                          <incipit>R. xvii<lb/>Ce tiltre est d’aultres heritiers Establir en lieu des premieres <supplied resp="#FD">sic</supplied></incipit>
+                          <incipit>R. xvii<lb/>Ce tiltre est d’aultres heritiers Establir en lieu des <sic>premieres</sic></incipit>
                         </msItem>
                         <msItem>
                           <locus from="E6a"/>
@@ -12226,7 +12222,7 @@
                           <locus from="H1b"/>
                           <title type="sub">[Inst. 3.3]</title>
                           <incipit><foreign xml:lang="lat">De senatu
-                            <expan>co<ex>n</ex>sulto</expan> terculiano</foreign> R. <supplied resp="#FD">sic</supplied><lb/>Ce tiltre ainsi l’apelle l’en Est du conseil terculien</incipit>
+                            <expan>co<ex>n</ex>sulto</expan> terculiano</foreign> <sic>R.</sic><lb/>Ce tiltre ainsi l’apelle l’en Est du conseil terculien</incipit>
                         </msItem>
                         <msItem>
                           <locus from="H2c"/>
@@ -12257,7 +12253,7 @@
                         <msItem>
                           <locus from="H5d"/>
                           <title type="sub">[Inst. 3.8]</title>
-                          <incipit><foreign xml:lang="lat">De asignatione libertorum</foreign> R. ix<lb/>De l’eritare <supplied resp="#FD">sic</supplied> que ceulx ont Qui mis hors de
+                          <incipit><foreign xml:lang="lat">De asignatione libertorum</foreign> R. ix<lb/>De <sic>l’eritare</sic> que ceulx ont Qui mis hors de
                             <expan>s<ex>er</ex>vage</expan> sont</incipit>
                         </msItem>
                         <msItem>
@@ -12458,18 +12454,18 @@
                         <msItem>
                           <locus from="P2a"/>
                           <title type="sub">[Inst. 4.14]</title>
-                          <incipit><foreign xml:lang="lat">De replicationibus</foreign> R. v <supplied resp="#FD">sic</supplied><lb/>Cy a des replications Qui valent contre excepcions</incipit>
+                          <incipit><foreign xml:lang="lat">De replicationibus</foreign> R. <sic>v</sic><lb/>Cy a des replications Qui valent contre excepcions</incipit>
                         </msItem>
                         <msItem>
                           <locus from="P2c"/>
                           <title type="sub">[Inst. 4.15]</title>
-                          <incipit><foreign xml:lang="lat">De interdictis</foreign> R. iiii <supplied resp="#FD">sic</supplied><lb/>Ce titre est des interdictz Jugemens qui ainsi sont dictz</incipit>
+                          <incipit><foreign xml:lang="lat">De interdictis</foreign> R. <sic>iiii</sic><lb/>Ce titre est des interdictz Jugemens qui ainsi sont dictz</incipit>
                         </msItem>
                         <msItem>
                           <locus from="P4c"/>
                           <title type="sub">[Inst. 4.16]</title>
                           <incipit><foreign xml:lang="lat">De pena temere litigantium</foreign> R. xvii<lb/>De la paine
-                            <expan><ex>et</ex></expan> du veniement <supplied resp="#FD">sic</supplied> De ceulx qui pledent foulement</incipit>
+                            <expan><ex>et</ex></expan> du <sic>veniement</sic> De ceulx qui pledent foulement</incipit>
                         </msItem>
                         <msItem>
                           <locus from="P5b"/>
@@ -12585,7 +12581,7 @@
                         <expan>travaillasse<ex>n</ex>t</expan></l>
                       <l>Que tout le vieil droit <expan>ramenasse<ex>n</ex>t</expan></l>
                       <l>A <expan>co<ex>n</ex>cordance</expan> et a droit ordre</l>
-                      <l><pb n="f. A2b"/> Que nulz <expan>viva<ex>n</ex>s</expan> n’en peust remodre <supplied resp="#FD">sic</supplied></l>
+                      <l><pb n="f. A2b"/> Que nulz <expan>viva<ex>n</ex>s</expan> n’en peust <sic>remodre</sic></l>
                       <l>Et de ce qu’il eust commandé</l>
                       <l>Oncques n’y eust contremandé</l>
                       <l>Qu’ilz n’acomplissent ses requestes</l>
@@ -12700,9 +12696,9 @@
                       <l>Mais que l’oir qui y est escript</l>
                       <l>Ne doit de rien estre esmaié</l>
                       <l>Mais tenir se doit a paié</l>
-                      <l><pb n="f. E7d"/> Les choses qui sont or donnees <supplied resp="#FD">sic</supplied></l>
+                      <l><pb n="f. E7d"/> Les choses qui sont or <sic>donnees</sic></l>
                       <l>Et en ce testament <expan>no<ex>m</ex>mees</expan></l>
-                      <l>Si que toutes les autre <supplied resp="#FD">sic</supplied> lest</l>
+                      <l>Si que toutes les <sic>autre</sic> lest</l>
                       <l>Ou de la quarte part qui est</l>
                       <l>A l’eritier <expan>co<ex>m</ex>me<ex>n</ex>t</expan> qu’il aille</l>
                       <l>Par la loy que les loys retaille</l>
@@ -12821,7 +12817,7 @@
                       <l>De l’office au juge ouir</l>
                       <l>Il doit garder premierement</l>
                       <l>Qu’il ne juge pas aultrement</l>
-                      <l>Qu’aiusi <supplied resp="#FD">sic</supplied> comme les loys commanden <supplied resp="#FD">sic</supplied></l>
+                      <l><sic>Qu’aiusi</sic> comme les loys <sic>commanden</sic></l>
                       <l><pb n="f. P5c"/> Ou que les empereurs le mandent</l>
                       <l>Qui les coustitutions firent</l>
                       <l>Comme le besoing ilz en virent</l>
