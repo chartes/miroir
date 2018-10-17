@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stratagemata_frontinus" xml:lang="fr">
@@ -108,12 +108,12 @@
               <msItem>
                 <locus>f. 284b</locus>
                 <title>Prologue</title>
-                <incipit>Il est voir que Julius Frontinus fist un especial livre moult bel de stragemes <supplied>sic</supplied> devant diz et pour ce que Frontin est un livre que peu de gent puissent veoir ne avoir j’en vueil ycy adjouster aucuns car c’est pour veoir matiere moult delitable et proufitable pour le fait d’armes. </incipit>
+                <incipit>Il est voir que Julius Frontinus fist un especial livre moult bel de <sic>stragemes</sic> devant diz et pour ce que Frontin est un livre que peu de gent puissent veoir ne avoir j’en vueil ycy adjouster aucuns car c’est pour veoir matiere moult delitable et proufitable pour le fait d’armes. </incipit>
               </msItem>
               <msItem>
                 <locus>f. 284b-287c</locus>
                 <title>Texte</title>
-                <incipit>Frontin ou premier livre dit que Scipion l’Affriquant envoya au roy Siphx <supplied>sic</supplied> Lelius et avec lui en guise de serfs les plus saiges centurions et tribuns qui furent en son ost pour mieux savoir regarder et considerer la force de cellui roy et l’ordennance de luy et de ses gens...</incipit>
+                <incipit>Frontin ou premier livre dit que Scipion l’Affriquant envoya au roy <sic>Siphx</sic> Lelius et avec lui en guise de serfs les plus saiges centurions et tribuns qui furent en son ost pour mieux savoir regarder et considerer la force de cellui roy et l’ordennance de luy et de ses gens...</incipit>
                 <explicit>Scipio disoit c’on ne devoit pas seulement donner voye a son ennemi de fouir mais lui aidier a le faire et trouver.</explicit>
               </msItem>
             </msContents>
@@ -208,7 +208,7 @@
                       <locus>f. 62v-73v</locus>
                       <title>Texte</title>
                       <incipit>L’acteur <foreign>(rubr.)</foreign>
-                        <lb/>Frontin dist en son premier livre que Scipion l’Auffrican envoya en l’ost du roy Sciphas ung luy <supplied>sic</supplied> et avec ce des plus subtilz espices qui avec luy fussent pour mieux regarder et considerer la force et l’estat de celui roy et de son host...</incipit>
+                        <lb/>Frontin dist en son premier livre que Scipion l’Auffrican envoya en l’ost du roy Sciphas ung <sic>luy</sic> et avec ce des plus subtilz espices qui avec luy fussent pour mieux regarder et considerer la force et l’estat de celui roy et de son host...</incipit>
                       <explicit>Scipio l’Auffricant disoit que on ne devoit pas sans plus donner voye a son ennemy de fouyr mais luy aydier a le faire et a che trouver accoison. <lb/>Explicit de Frontin.</explicit>
                     </msItem>
                   </msContents>
@@ -355,7 +355,7 @@
                 <msItem>
                   <locus>f. 56b-83a</locus>
                   <title>Texte</title>
-                  <incipit>Le premier chappitre parle des manieres de aler soudaniement <supplied>sic</supplied> donner l’assault <foreign>(rubr.)</foreign>
+                  <incipit>Le premier chappitre parle des manieres de aler <sic>soudaniement</sic> donner l’assault <foreign>(rubr.)</foreign>
                     <lb/><foreign>Titus Quintus</foreign> (rubr.) Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
                   <explicit>...et furent soudainement ruez jus et desconfiz tous en ung jour et par mer et par terre.</explicit>
                 </msItem>
@@ -529,7 +529,7 @@
                 <msName type="sigle" resp="Bossuat">A</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titres : <title type="ancien">Cy commence le quart livre Julle Frontin de la discipline de chevalerie</title> f. 69a ; <seg type="explicit">explicit Frontinius</seg> <supplied>sic</supplied> f. 83c] f. 1a-83c : sans glossaire ; <title>Abrégé des Chroniques de France de Noël</title> de <persName>Fribois</persName> (f. 84a-127a).</p>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titres : <title type="ancien">Cy commence le quart livre Julle Frontin de la discipline de chevalerie</title> f. 69a ; <seg type="explicit">explicit <sic>Frontinius</sic></seg> f. 83c] f. 1a-83c : sans glossaire ; <title>Abrégé des Chroniques de France de Noël</title> de <persName>Fribois</persName> (f. 84a-127a).</p>
               </msContents>
               <physDesc>
                 <objectDesc>

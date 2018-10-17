@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <!--<?xml-stylesheet type="text/xsl" href="..\xsl\oeuvre_2.xsl"?>-->
@@ -1987,7 +1987,7 @@
                   <expan><ex>con</ex>tree</expan> a une autre. <hi rend="b">E</hi>t il i fait sa maison. <hi rend="b">I</hi>l est hors de la justice au juge en cui poestei il estoit avant. <hi rend="b">E</hi>t est soumis a celui en cui poestei. il ai pris sa maison ..
                   <hi rend="b">A</hi> ce meismes avons nos en digeste vielle el tytre des <expan><hi rend="b">j</hi>ugeme<ex>n</ex>s</expan> une loi <expan>q<ex>ui</ex></expan>
                   <expan><ex>com</ex>mence</expan>. « <foreign xml:lang="lat" rend="underlined"><hi rend="b">H</hi>eres <expan><hi rend="b">a</hi><ex>m</ex>b<ex>u</ex>lans</expan></foreign> ». <expan><hi rend="b">Q</hi><ex>ui</ex></expan> dit
-                  <expan>q<ex>ue</ex></expan> li hoirs <expan>q<ex>ui</ex></expan> est hors dou paiis se dois <supplied>sic</supplied> faire deffendre des choses
+                  <expan>q<ex>ue</ex></expan> li hoirs <expan>q<ex>ui</ex></expan> est hors dou paiis se <sic>dois</sic> faire deffendre des choses
                   <expan>q<ex>ui</ex></expan>
                   <expan>ap<ex>ar</ex>tienent</expan> a l’eritaige lai ou li mors se desfendeist. se il vesquit. <hi rend="b">E</hi>t se aucuns ai .ii. manoirs en la poestés. a ii. juges il est de la justice a ambedeus. ¶
                   <label>[3]</label>
@@ -1995,7 +1995,7 @@
                   <expan>deva<ex>n</ex>t</expan> juge seculer. mas ce faut en
                   <expan>aucu<ex>n</ex>s</expan> cas <label>[3.1]</label>
                   <hi rend="b">S</hi>i <expan><ex>com</ex>me</expan> en cause de mariaige <expan><hi rend="b">Q</hi><ex>ui</ex></expan> ne doit estre <expan>t<ex>ra</ex>itiez</expan> fors <expan>p<ex>ar</ex></expan>
-                  <expan>deva<ex>n</ex>t</expan> juge de seinte yglise. <hi rend="b">S</hi>i <expan><ex>com</ex>me</expan> nos. avons en la decretale el tytre « de la tranlation <supplied>sic</supplied> es esvesques » <expan><hi rend="b">Q</hi><ex>ui</ex></expan>
+                  <expan>deva<ex>n</ex>t</expan> juge de seinte yglise. <hi rend="b">S</hi>i <expan><ex>com</ex>me</expan> nos. avons en la decretale el tytre « de la <sic>tranlation</sic> es esvesques » <expan><hi rend="b">Q</hi><ex>ui</ex></expan>
                   <expan><ex>com</ex>mence</expan>. « <foreign xml:lang="lat" rend="underlined"><hi rend="b">I</hi>nter corporalia</foreign> ». <hi rend="b">Q</hi>ui dit au
                   <expan><ex>com</ex>mencem<ex>en</ex>t</expan> l’on ne doit pas douter <expan>q<ex>ue</ex></expan> dex n’ait estoié a son jugement l’<expan>esp<ex>er</ex>itel</expan> mariaige. <hi rend="b">Q</hi>ui est entre l’evesque <expan><ex>et</ex></expan> l’eglise
                   <expan>q<ex>ue</ex></expan>
@@ -2823,7 +2823,7 @@
                   <expan>p<ex>ra</ex>mist</expan> a paier aucune chose. Si
                   <expan><ex>com</ex>me</expan> nos avons en digeste vielle el tytre des jugemenz. en une loy <expan>q<ex>ui</ex></expan>
                   <expan><ex>com</ex>mence</expan>. <foreign xml:lang="lat" rend="underlined"><expan>h<ex>ab</ex>es</expan></foreign>. en .i. peragresfe <expan>q<ex>ui</ex></expan>
-                  <expan><ex>com</ex>mence</expan>. <foreign xml:lang="lat" rend="underlined">Si quis</foreign>. <expan>q<ex>ui</ex></expan> dit einssi. Se aucuns aministre garde ou cire <supplied>sic</supplied> ou autre besoingne. de qui
+                  <expan><ex>com</ex>mence</expan>. <foreign xml:lang="lat" rend="underlined">Si quis</foreign>. <expan>q<ex>ui</ex></expan> dit einssi. Se aucuns aministre garde ou <sic>cire</sic> ou autre besoingne. de qui
                   <expan>obligem<ex>en</ex>z</expan> nesse. Ja soit ce
                   <expan>q<ex>ue</ex></expan> il n’ait pas mension el leu ou il aministre Nepourqant il se doit desfendre <expan>e<ex>n</ex></expan> la cort au juge. en qui poosté ce <expan><ex>est</ex></expan>
                   <expan><ex>et</ex></expan> se il n’i veut respondre. si bien seront seisi. Et se il a vendu marcheandise. en aucun leu. ou il i a baillié. ses choses. a garder. Il <expan><ex>con</ex>vient</expan>
@@ -2874,7 +2874,7 @@
                   <label>[3.9]</label> autresi avient il aucune foiz pour la negligence au juge. Si <expan><ex>com</ex>me</expan> nos avons en la decretale. el tytre de cort avenant <expan>q<ex>ui</ex></expan>
                   <expan><ex>com</ex>mence</expan>. <foreign xml:lang="lat" rend="underlined">Cum. sit generale</foreign>.
                   <expan>q<ex>ui</ex></expan> dit <expan>q<ex>ue</ex></expan> se li juge seculer sont <expan>perece<ex>us</ex></expan> en fere droit. au personnes de <expan>sai<ex>n</ex>te</expan>. eglise. Il a esté establi pour la reverance de sainte. eglyse. que li menistre de sainte eglyse.
-                  <expan>q<ex>ue</ex></expan> li menistre. de sainte eglise <supplied>sic</supplied>
+                  <expan>q<ex>ue</ex></expan> li menistre. de sainte <sic>eglise</sic>
                   <expan>puisse<ex>n</ex>t</expan>
                   <pb n="p. 52a"/> empleidier leur <expan>av<ex>er</ex>saires</expan>
                   <expan>p<ex>ar</ex></expan> devant tel juge <expan><ex>com</ex>me</expan> il voudront. A ce meismes avons nos une decretale el tytre de cort avenant <expan>q<ex>ui</ex></expan>
@@ -2940,9 +2940,7 @@
                   <expan>do<ex>n</ex>nee</expan> Je deisse ce meismes
                   <expan><ex>et</ex></expan> li <expan>p<ex>re</ex>miers</expan> juges peust donner sentence. <expan><ex>et</ex></expan> ce doit estre gardé
                   <expan>generaume<ex>n</ex>t</expan>
-                  <expan>e<ex>n</ex></expan> touz tiex cas. Ce meismes. avons nos en la decretale. el tytre de cort avenant <expan>q<ex>ui</ex></expan>
-                  <expan><ex>com</ex>men</expan>
- <supplied>sic</supplied>
+                  <expan>e<ex>n</ex></expan> touz tiex cas. Ce meismes. avons nos en la decretale. el tytre de cort avenant <expan>q<ex>ui</ex></expan> <expan><ex>com</ex>men</expan>
                   <foreign xml:lang="lat" rend="underlined">proposuisti</foreign>
                   <expan>q<ex>ui</ex></expan> dit einssi. Tu
                   <expan>p<ex>ro</ex>posas</expan> devant nos
@@ -2966,7 +2964,7 @@
                   <expan>e<ex>n</ex></expan> la tierce cause en la tierce
                   <expan>q<ex>ue</ex>stion</expan>. en .i. peragresfe
                   <expan>q<ex>ui</ex></expan>
-                  <expan><ex>com</ex>mence</expan>. <foreign xml:lang="lat" rend="underlined">Offeratur</foreign>. <expan>q<ex>ui</ex></expan> dit issi. li desfendierres puet <expan>bie<ex>n</ex></expan> reser <supplied>sic</supplied> le juge. se ce n’est cil qui l’a esleu <pb n="p. 53b"/> en leu d’un autre. <expan>q<ex>ue</ex></expan> il refusa.
+                  <expan><ex>com</ex>mence</expan>. <foreign xml:lang="lat" rend="underlined">Offeratur</foreign>. <expan>q<ex>ui</ex></expan> dit issi. li desfendierres puet <expan>bie<ex>n</ex></expan> <sic>reser</sic> le juge. se ce n’est cil qui l’a esleu <pb n="p. 53b"/> en leu d’un autre. <expan>q<ex>ue</ex></expan> il refusa.
                   <label>[3.16]</label> Et ja soit ce qu’il est voirs
                   <expan>q<ex>ue</ex></expan> la sentence n’est pas tenable.
                   <expan>q<ex>ue</ex></expan> cil donne <expan>q<ex>ui</ex></expan> n’est pas a celui. a qui il l’a <expan>do<ex>n</ex>né</expan>. Si
@@ -6662,11 +6660,8 @@
                     <expan><ex>com</ex>me<ex>n</ex>ce</expan>. <foreign xml:lang="lat" rend="underlined">heres absens</foreign>.
                     <expan>q<ex>ue</ex></expan> dit <expan>q<ex>ue</ex></expan> li
                     <expan>ho<ex>n</ex>s</expan>
-                    <expan>q<ex>ui</ex></expan> est hors du païs se doit faere
-                    <expan>desfe<ex>n</ex>de</expan>
- <supplied>sic</supplied> des choses
-                    <expan>q<ex>ui</ex></expan>
-                    <expan>ap<ex>ar</ex>tiene<ex>n</ex>t</expan> a l’eritage la ou li mors se <expan>desfe<ex>n</ex>dist</expan> se il
+                    <expan>q<ex>ui</ex></expan> est hors du païs se doit faere <expan>desfe<ex>n</ex>de</expan> des choses
+                    <expan>q<ex>ui</ex></expan> <expan>ap<ex>ar</ex>tiene<ex>n</ex>t</expan> a l’eritage la ou li mors se <expan>desfe<ex>n</ex>dist</expan> se il
                     <expan>vesq<ex>ui</ex>st</expan>. <expan><ex>et</ex></expan> se
                     <expan>aucu<ex>n</ex>s</expan> a .ii. maners en la poosté a .ii. juges il est de la justise a <expan>ame<ex>s</ex>deulz</expan>.
                     <label>[3]</label> c’est voir
