@@ -1326,7 +1326,7 @@
                       <origPlace>France</origPlace>
                     </origin>
                     <provenance>
-                      <p><label>Provenance</label> : <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d’Armagnac</persName> (<quote>Ce livre de l’institute est <supplied resp="#FD">cachet</supplied> nemours, conte de la marche <supplied resp="#FD">signé <quote>P. Tropier</quote></supplied> <sic>Jacques.</sic> Pour Carlat</quote> f. 309) ; <persName role="possesseur" key="H. Bailly">H. Bailly</persName> et <persName role="possesseur" key="N.I. Closset">N.I. Closset</persName> (Liège, d’après perron de Liège entre leurs armes sur les plats de reliure) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> ; <orgName role="possesseur" key="bibliothèque royale">Bibliothèque royale</orgName>. Remarque : le fichier papier de la Bibl. royale indique que le ms a fait partie temporairement des collections de la Bibl. nationale de Paris, mais aucune estampille ou mention dans le manuscrit n’en témoigne.</p>
+                      <p><label>Provenance</label> : <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d’Armagnac</persName> (<quote>Ce livre de l’institute est <supplied resp="#FD">cachet</supplied> nemours, conte de la marche <supplied resp="#FD">signé « P. Tropier »</supplied> <sic>Jacques.</sic> Pour Carlat</quote> f. 309) ; <persName role="possesseur" key="H. Bailly">H. Bailly</persName> et <persName role="possesseur" key="N.I. Closset">N.I. Closset</persName> (Liège, d’après perron de Liège entre leurs armes sur les plats de reliure) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> ; <orgName role="possesseur" key="bibliothèque royale">Bibliothèque royale</orgName>. Remarque : le fichier papier de la Bibl. royale indique que le ms a fait partie temporairement des collections de la Bibl. nationale de Paris, mais aucune estampille ou mention dans le manuscrit n’en témoigne.</p>
                       <p><label>Anciennes cotes</label> : <idno type="old">6ah 14</idno> (étiquette collée sur le dos de la reliure) ; <idno type="old">61<hi rend="sup">o</hi> 19</idno> (f. 1) ; <idno type="old">138</idno> (f. 1).</p>
                     </provenance>
                   </history>
@@ -4145,12 +4145,12 @@
                     <msItem n="authenticum" xml:id="fr_498_authenticum">
                       <locus from="48a" to="171a"/>
                       <title type="partie" xml:lang="fr">état traductif 3 de la traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (titre : <title>Autentiques</title> f. 171a) (sigle A)</title>
-                      <incipit xml:lang="fro">L’emperere Justinien escripst a Joh. le prevost el nom nostre segnor Jhesucrist. <seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<supplied resp="#FD">...</supplied> la premiere constitucion se li hoir <supplied resp="#FD">ne pueent</supplied> paier les lés.</seg><lb/>Li empereres Justinien dit : Por ce que nous somes embesongnié des cures de la chose commune et ne voulon penser a nule petite chose...</incipit>
+                      <incipit xml:lang="fro">L’emperere Justinien escripst a Joh. le prevost el nom nostre segnor Jhesucrist. <seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <supplied resp="#FD">ne pueent</supplied> paier les lés.</seg><lb/>Li empereres Justinien dit : Por ce que nous somes embesongnié des cures de la chose commune et ne voulon penser a nule petite chose...</incipit>
                       <explicit xml:lang="fro">Tres chier pere et tres amé ta hautece coumant donc que ce que nous avon establi par ceste loi soit mené a effet et gardé.<lb/>Ci fenissent Autentiques.</explicit>
                       <msItem>
                         <locus from="48a"/>
                         <title type="sub">[Auth. 1, Nov. 1]</title>
-                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<supplied resp="#FD">...</supplied> la premiere constitucion se li hoir
+                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir
                           <supplied resp="#FD">ne pueent</supplied> paier les lés</seg></incipit>
                       </msItem>
                       <msItem>
@@ -4257,20 +4257,17 @@
                       <msItem>
                         <locus from="86d"/>
                         <title type="sub">[Auth. 23, Nov. 23]</title>
-                        <incipit><supplied resp="#FD">
-                          <title xml:lang="lat">De appellationibus et intra quae tempora debeat appellari</title> ; réserve mais pas de rubrique ;<seg type="incipit">Li emperere Justinian dit a Tribunian mestre des officez et questeur du saint palez : « Nous meton plusors remedes <expan><ex>con</ex>tre</expan> la grieté des ancianes lois...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD"><title xml:lang="lat">De appellationibus et intra quae tempora debeat appellari</title> ; réserve mais pas de rubrique ;<seg type="incipit">Li emperere Justinian dit a Tribunian mestre des officez et questeur du saint palez : « Nous meton plusors remedes <expan><ex>con</ex>tre</expan> la grieté des ancianes lois...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="87b"/>
                         <title type="sub">[Auth. 34, Nov. 105]</title>
-                        <incipit><supplied resp="#FD">
-                          <title xml:lang="lat">De consulibus</title> ; sans réserve ni rubrique ;<seg type="incipit">Cil meismez dit a Trage le conte dez <expan>sai<ex>n</ex>z</expan> dons : Le non et la cause de <expan><ex>con</ex>tee</expan> fu trovés par lez anciens Romains...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD"><title xml:lang="lat">De consulibus</title> ; sans réserve ni rubrique ;<seg type="incipit">Cil meismez dit a Trage le conte dez <expan>sai<ex>n</ex>z</expan> dons : Le non et la cause de <expan><ex>con</ex>tee</expan> fu trovés par lez anciens Romains...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="89a"/>
                         <title type="sub">[Auth. 35, Nov. 33]</title>
-                        <incipit><supplied resp="#FD">
-                          <title xml:lang="lat">Ut nullus mutuans agricolae teneat eius terram</title> ; sans réserve ni rubrique, mais avec retour à la ligne et initiale filigranée ;<seg type="incipit">Cil meismes dit que nul qui preste a cultiveeur de chans ne tiegne sa terre pour l'avarice des creanciers...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD"><title xml:lang="lat">Ut nullus mutuans agricolae teneat eius terram</title> ; sans réserve ni rubrique, mais avec retour à la ligne et initiale filigranée ;<seg type="incipit">Cil meismes dit que nul qui preste a cultiveeur de chans ne tiegne sa terre pour l'avarice des creanciers...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="89a"/>
@@ -4652,8 +4649,7 @@
                         <msItem>
                           <locus from="171a"/>
                           <title type="sub">[C. 10.1]</title>
-                          <incipit><supplied resp="#FD">
-                            <title xml:lang="lat">De jure fisci</title> ; sans rubrique annonçant le titre ;<seg type="incipit">Li emperere Gordians dit : Se il est prouvé que nostre pere vous donnast ses possessions par parfet dont ains que eles fussent obligiees a la bourse l’empereor...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD"><title xml:lang="lat">De jure fisci</title> ; sans rubrique annonçant le titre ;<seg type="incipit">Li emperere Gordians dit : Se il est prouvé que nostre pere vous donnast ses possessions par parfet dont ains que eles fussent obligiees a la bourse l’empereor...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="171d"/>
@@ -4734,8 +4730,7 @@
                         <msItem>
                           <locus from="175c"/>
                           <title type="sub">[C. 10.18]</title>
-                          <incipit><supplied resp="#FD">
-                            <title xml:lang="lat">De superindicto</title> ; sans rubrique ni réserve ;<seg type="incipit">Li emperere Gordian dit as <expan><ex>pro</ex>curateurs</expan> et as vicaires...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD"><title xml:lang="lat">De superindicto</title> ; sans rubrique ni réserve ;<seg type="incipit">Li emperere Gordian dit as <expan><ex>pro</ex>curateurs</expan> et as vicaires...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="175c"/>
@@ -4871,8 +4866,7 @@
                         <msItem>
                           <locus from="187a"/>
                           <title type="sub">[C. 10.46]</title>
-                          <incipit><supplied resp="#FD">
-                            <title xml:lang="lat">De vacatione muneris</title> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordians dit a Januaire : Il a esté respondu...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD"><title xml:lang="lat">De vacatione muneris</title> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordians dit a Januaire : Il a esté respondu...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="187b"/>
@@ -4882,8 +4876,7 @@
                         <msItem>
                           <locus from="187b"/>
                           <title type="sub">[C. 10.48]</title>
-                          <incipit><supplied resp="#FD">
-                            <title xml:lang="lat">De excusationibus munerum</title> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordiens dit : Cil qui ont esté nos procureour doivent user des citoiens servises qui apartienent a lour digneté.</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD"><title xml:lang="lat">De excusationibus munerum</title> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordiens dit : Cil qui ont esté nos procureour doivent user des citoiens servises qui apartienent a lour digneté.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="188b"/>
@@ -8122,7 +8115,7 @@
                       <origPlace>France (<foreign xml:lang="lat">scripta</foreign> parisienne)</origPlace>
                     </origin>
                     <provenance>
-                      <p><label>Provenance</label><supplied resp="#FD">ce paragraphe est largement tiré et résumé de la notice de la Bibl. nat. de Fr.</supplied> librairie de <persName role="possesseur" key="Charles V">Charles V</persName> : <quote>Code, couvert de cuir a queue</quote> (<bibl>inventaire de Gilles Malet établi en 1373, ms Paris, Bibl. nat. de Fr., fr. 2700, f. 5, n° 54</bibl>) ; <quote>Item un livre de Code, couvert de cuir a queue, escript de lettre de forme, en françois, a deux coulombes, commençant ou second fueillet : « gens pour ce que », et ou derrenier : « tres pour aucune besongne », ouquel livre est l’Institute au commencement, a quatre fermouers de cuivre</quote> (<bibl>inventaire de 1411, ms Bibl. nat. de Fr., fr. 2700, f. 55, n° 25</bibl>) ; <quote>Item ung autre petit volume en françois, contenant Institute, les Collections et .IIII. Livres de Code, en ung livre couvert de cuir rouge à queues, escript de lettre de forme, en françois, à deux colomnes, à deux fermouers de cuivre</quote> (<bibl>inventaire de 1424, Paris, bibl. Sainte-Geneviève, ms 964, f. 5v, n° 14</bibl>) — cardinal de <persName role="possesseur" key="Richelieu, cardinal de">Richelieu</persName> — <orgName role="possesseur" key="Sorbonne, bibliothèque de la">bibliothèque de la Sorbonne</orgName> (1660-1791) [estampille f. 2 et 289v] — Bibliothèque nationale.</p>
+                      <p><label>Provenance</label><note>Ce paragraphe est largement tiré et résumé de la notice de la Bibl. nat. de Fr.</note> librairie de <persName role="possesseur" key="Charles V">Charles V</persName> : <quote>Code, couvert de cuir a queue</quote> (<bibl>inventaire de Gilles Malet établi en 1373, ms Paris, Bibl. nat. de Fr., fr. 2700, f. 5, n° 54</bibl>) ; <quote>Item un livre de Code, couvert de cuir a queue, escript de lettre de forme, en françois, a deux coulombes, commençant ou second fueillet : « gens pour ce que », et ou derrenier : « tres pour aucune besongne », ouquel livre est l’Institute au commencement, a quatre fermouers de cuivre</quote> (<bibl>inventaire de 1411, ms Bibl. nat. de Fr., fr. 2700, f. 55, n° 25</bibl>) ; <quote>Item ung autre petit volume en françois, contenant Institute, les Collections et .IIII. Livres de Code, en ung livre couvert de cuir rouge à queues, escript de lettre de forme, en françois, à deux colomnes, à deux fermouers de cuivre</quote> (<bibl>inventaire de 1424, Paris, bibl. Sainte-Geneviève, ms 964, f. 5v, n° 14</bibl>) — cardinal de <persName role="possesseur" key="Richelieu, cardinal de">Richelieu</persName> — <orgName role="possesseur" key="Sorbonne, bibliothèque de la">bibliothèque de la Sorbonne</orgName> (1660-1791) [estampille f. 2 et 289v] — Bibliothèque nationale.</p>
                       <p><label>Anciennes cotes</label>« <idno type="old">401</idno> » , f. de garde parchemin verso [Sorbonne] ; F. 2 (marge de tête) : <quote>Institutes de Justinian<lb/><idno type="old">132</idno></quote> [Richelieu].</p>
                     </provenance>
                   </history>
@@ -8444,7 +8437,7 @@
                         <rdg wit="#O">einsi <hi rend="i">om.</hi></rdg>
                         <rdg wit="#A #F #L"/>
                         <rdg xml:lang="lat">ita</rdg>
-                      </app></note> est hors de baill <expan>p<ex>er</ex>de</expan> aucune loial droiture. ai<supplied resp="#FD">n</supplied>z<note><app>
+                      </app></note> est hors de baill <expan>p<ex>er</ex>de</expan> aucune loial droiture. <choice><sic>aiz</sic><corr>ainz</corr></choice><note><app>
                         <rdg wit="#O #A #L">d. mes</rdg>
                         <rdg wit="#F"/>
                       </app></note> il gardent a lor lignage toutes lor<note><app>

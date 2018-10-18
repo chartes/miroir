@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="digestum_vetus" xml:lang="fr">
@@ -783,17 +783,8 @@
                     <msItem xml:id="fr_2844_ljp_livre5">
                       <locus from="54a" to="59c"/>
                       <title type="section" xml:lang="fr">Livre V</title>
-                      <incipit xml:lang="fro"><seg type="rubric">Se beste a .iiii. piez fet domage et d’omecide et de geter eve sor genz.</seg> Se beste a .iiii. piez fet domage la loi
-                        <expan>e<ex>n</ex></expan> done aucion
-                        <expan>q<ex>ue</ex></expan> vost
-                        <expan>q<ex>ue</ex></expan> la beste
-                        <expan>q<ex>ue</ex></expan> fist le domage soit donee por le forfet ou <expan>q<ex>u'</ex></expan>il rendra la value de la chose ; et ceste
-                        <expan>aucio<ex>n</ex></expan> s’estant a totes betes <expan>q<ex>u</ex>i</expan>
-                        <expan>o<ex>n</ex>t</expan> .iiii. piez.<lb/></incipit>
-                      <explicit xml:lang="fro">En <expan><ex>par</ex>tir</expan> chose n’a <expan>poi<ex>n</ex>t</expan> de gaige fors l’agart de bones <expan>ge<ex>n</ex>z</expan> ; l’<expan>e<ex>n</ex></expan> puet totes choses
-                        <expan><ex>par</ex>tir</expan>
-                        <expan>p<ex>ar</ex></expan>
-                        <supplied resp="#GP">p</supplied>ris de deniers.</explicit>
+                      <incipit xml:lang="fro"><seg type="rubric">Se beste a .iiii. piez fet domage et d’omecide et de geter eve sor genz.</seg> Se beste a .iiii. piez fet domage la loi <expan>e<ex>n</ex></expan> done aucion <expan>q<ex>ue</ex></expan> vost <expan>q<ex>ue</ex></expan> la beste <expan>q<ex>ue</ex></expan> fist le domage soit donee por le forfet ou <expan>q<ex>u'</ex></expan>il rendra la value de la chose ; et ceste <expan>aucio<ex>n</ex></expan> s’estant a totes betes <expan>q<ex>u</ex>i</expan> <expan>o<ex>n</ex>t</expan> .iiii. piez.<lb/></incipit>
+                      <explicit xml:lang="fro">En <expan><ex>par</ex>tir</expan> chose n’a <expan>poi<ex>n</ex>t</expan> de gaige fors l’agart de bones <expan>ge<ex>n</ex>z</expan> ; l’<expan>e<ex>n</ex></expan> puet totes choses <expan><ex>par</ex>tir</expan> <expan>p<ex>ar</ex></expan> <supplied resp="#GP">p</supplied>ris de deniers.</explicit>
                       <msItem>
                         <locus from="54a"/>
                         <title type="sub">1. [D. 9.1]</title>
@@ -3255,8 +3246,7 @@
                   <provenance>
                     <p><label>Provenance</label>le ms. provient de la collection d’<persName role="possesseur" key="Antoine Lancelot">Antoine Lancelot</persName>, léguée au roi en 1733. Les contreplats portent des notes à l’encre brune d’anciens possesseurs du 14<hi rend="sup">e</hi> s. ; sur le contreplat antérieur <quote>Vecy le
                       <expan>cont<ex>enus</ex></expan>(?) de la(?) loy</quote> ; sur le contreplat postérieur : en haut
-                      <quote>Tu fus a moy en decembre l’an<lb/>mil .ccc. .lxxix., mon nom <expan>dess<ex>us</ex></expan></quote>, et plus bas, de la même main, des renvois au contenu de l’ouvrage <quote>Tu trouveras de
-                        <expan>quit<ex>ances</ex></expan> du .xviii.<hi rend="sup">e</hi> etc.<lb/>Du d<supplied resp="#GP">…</supplied> du .x.<hi rend="sup">e</hi> etc.<lb/>Se <expan>fe<ex>me</ex></expan> est a tort mise en <expan>pos<ex>session</ex></expan> de son doere<lb/>xi 4</quote>. Traces de rature au f. 199r.</p>
+                      <quote>Tu fus a moy en decembre l’an<lb/>mil .ccc. .lxxix., mon nom <expan>dess<ex>us</ex></expan></quote>, et plus bas, de la même main, des renvois au contenu de l’ouvrage <quote>Tu trouveras de <expan>quit<ex>ances</ex></expan> du .xviii.<hi rend="sup">e</hi> etc.<lb/>Du d<gap/> du .x.<hi rend="sup">e</hi> etc.<lb/>Se <expan>fe<ex>me</ex></expan> est a tort mise en <expan>pos<ex>session</ex></expan> de son doere<lb/>xi 4</quote>. Traces de rature au f. 199r.</p>
                     <p><label>Anciennes cotes</label>Regius <idno type="old">8407(5)</idno> (contreplat antérieur et f. 1r) ; Lancelot
                       <idno type="old">70</idno> (contreplat antérieur) et «
                       <idno type="old">n° 122</idno> » barré (contreplat antérieur et f. 1r).</p></provenance>
@@ -4089,12 +4079,7 @@
                 <p xml:id="fr_2844-D.42.1.0"><label>[42.1.0]</label>
                   <seg type="rubric">Cist titres est de force juigie et de la force des sentences et des interlocutoires au juiges</seg></p>
                 <p xml:id="fr_2844-D.42.1.1"><label>[42.1.1]</label>
-                  <pb n="f. 136b"/><hi rend="b">M</hi>odestin<hi rend="b">u</hi>s dit l’<expan>e<ex>n</ex></expan> apele chose juigie
-                  <expan>p<ex>ar</ex></expan>
-                  <expan>q<ex>u</ex>oi</expan> li plet son<supplied resp="#GP">t</supplied> finé <expan>p<ex>ar</ex></expan> le
-                  <expan>p<ex>ro</ex>n<ex>on</ex>cem<ex>en</ex>t</expan> au juige <expan><ex>et</ex></expan> ce <expan>avie<ex>n</ex>t</expan> quant <expan>au<ex>cun</ex></expan>
-                  <expan><ex>est</ex></expan>
-                  <expan><ex>con</ex>de<ex>m</ex>pnez</expan> ou asoz.</p>
+                  <pb n="f. 136b"/><hi rend="b">M</hi>odestin<hi rend="b">u</hi>s dit l’<expan>e<ex>n</ex></expan> apele chose juigie <expan>p<ex>ar</ex></expan> <expan>q<ex>u</ex>oi</expan> li plet <choice><sic>son</sic><corr>sont</corr></choice> finé <expan>p<ex>ar</ex></expan> le <expan>p<ex>ro</ex>n<ex>on</ex>cem<ex>en</ex>t</expan> au juige <expan><ex>et</ex></expan> ce <expan>avie<ex>n</ex>t</expan> quant <expan>au<ex>cun</ex></expan> <expan><ex>est</ex></expan> <expan><ex>con</ex>de<ex>m</ex>pnez</expan> ou asoz.</p>
                 <p xml:id="fr_2844-D.42.1.2"><label>[42.1.2]</label>
                   <hi rend="b">G</hi>aius dit. Cil <expan>q<ex>u</ex>i</expan> juige ne garde pas toz jorz le <expan>te<ex>n</ex>s</expan> de la chose juigie. <expan>ai<ex>n</ex>z</expan> l’acorce
                   <expan>au<ex>cun</ex>ne</expan> foiz
@@ -4155,24 +4140,8 @@
                   <expan><ex>con</ex>dicio<ex>n</ex></expan>
                   <expan>q<ex>ue</ex></expan> il ne <expan>se<ex>n</ex>ble</expan> pas <expan>q<ex>ue</ex></expan> il <expan>soffre<ex>n</ex>t</expan> a recevoir juigement <expan><ex>et</ex></expan>
                   <expan>p<ex>or</ex></expan> ce doit <expan>aucio<ex>n</ex></expan> de chose juigie estre nee <expan><ex>con</ex>tre</expan> aus. ¶
-                  <label>[2]</label> Li metres d’<expan>au<ex>cun</ex>ne</expan> garnison puet refuser <expan>aucio<ex>n</ex></expan> de chose juigie. mes ele sera donee <expan><ex>con</ex>t<ex>r</ex>e</expan> cex <expan>q<ex>u</ex>i</expan>
-                  <expan>s<ex>on</ex>t</expan> en la garnison. ¶ <label>[3]</label>
-                  <hi rend="b">L</hi>i <expan>p<ex>re</ex>voz</expan> dit cil
-                  <expan>q<ex>u</ex>i</expan>
-                  <expan><ex>est</ex></expan>
-                  <expan><ex>con</ex>de<ex>m</ex>pnez</expan> a poier
-                  <expan>den<ex>er</ex>s</expan>
-                  <expan>p<ex>or</ex></expan> cause de chose juigee
-                  <expan><ex>et</ex></expan>
-                  <expan>q<ex>ue</ex></expan>
-                  <expan>diro<ex>n</ex>s</expan> nos <expan>do<ex>n</ex>c</expan> s’il ne puet poier les <expan>den<ex>er</ex>s</expan> et il
-                  <expan><ex>est</ex></expan> apareilliez de fere
-                  <expan>e<ex>n</ex></expan>
-                  <expan>satisfacio<ex>n</ex></expan>. l’<expan>e<ex>n</ex></expan> dit <expan>do<ex>n</ex>c</expan>
-                  <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>voz</expan> ajojer<note>Confusion de tracé pour
-                    <quote>ajote</quote></note> ou il <supplied resp="#GP">n’</supplied>
-                  <expan>e<ex>n</ex></expan> face
-                  <expan>satisfacio<ex>n</ex></expan><note><app>
+                  <label>[2]</label> Li metres d’<expan>au<ex>cun</ex>ne</expan> garnison puet refuser <expan>aucio<ex>n</ex></expan> de chose juigie. mes ele sera donee <expan><ex>con</ex>t<ex>r</ex>e</expan> cex <expan>q<ex>u</ex>i</expan> <expan>s<ex>on</ex>t</expan> en la garnison. ¶
+                  <label>[3]</label> <hi rend="b">L</hi>i <expan>p<ex>re</ex>voz</expan> dit cil <expan>q<ex>u</ex>i</expan> <expan><ex>est</ex></expan> <expan><ex>con</ex>de<ex>m</ex>pnez</expan> a poier <expan>den<ex>er</ex>s</expan> <expan>p<ex>or</ex></expan> cause de chose juigee <expan><ex>et</ex></expan> <expan>q<ex>ue</ex></expan> <expan>diro<ex>n</ex>s</expan> nos <expan>do<ex>n</ex>c</expan> s’il ne puet poier les <expan>den<ex>er</ex>s</expan> et il <expan><ex>est</ex></expan> apareilliez de fere <expan>e<ex>n</ex></expan> <expan>satisfacio<ex>n</ex></expan>. l’<expan>e<ex>n</ex></expan> dit <expan>do<ex>n</ex>c</expan> <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>voz</expan> ajojer<note>Confusion de tracé pour « ajote »</note> ou il <choice><sic><expan>e<ex>n</ex></expan></sic><corr>n’<expan>e<ex>n</ex></expan></corr></choice> face <expan>satisfacio<ex>n</ex></expan><note><app>
                     <rdg xml:lang="lat">Et ait Labeo debuisse hoc quoque adici "Neque eo nomine satisfaciat"</rdg>
                   </app></note>. Car il puet <expan>bie<ex>n</ex></expan> avenir
                   <expan>q<ex>ue</ex></expan> il ait
@@ -4582,7 +4551,7 @@
                   <msItem xml:id="fr_197_digestumvetus">
                     <msItem xml:id="fr_197_digestumvetus_prologue">
                       <locus from="1a" to="3b"/>
-                      <title type="section" xml:lang="fr">Prologue <supplied resp="#FD"><title xml:lang="lat">Constitutio omnem</title>, traduction identique à celle du ms Paris, Bibl. nat. de Fr., fr. 20118 (trad. 2)</supplied></title>
+                      <title type="section" xml:lang="fr">Prologue <title xml:lang="lat">Constitutio omnem</title><note>traduction identique à celle du ms Paris, Bibl. nat. de Fr., fr. 20118 (trad. 2)</note></title>
                       <incipit xml:lang="fro"><seg type="rubric">Li empereres Cesar, Flavius, Justinianus, Alemanicus, Gozhicus, Germanicus, Antiqus, Alenicus, Affricanus, deboneres, boneurez, nobles, <supplied resp="#FD">vain</supplied>queres <expan><ex>et</ex></expan> toz jorz augustus, mande saluz a Theoph<supplied resp="#FD">ile</supplied>
                         <expan><ex>et</ex></expan> a <supplied resp="#FD">Dorot</supplied>ee et a Insidore
                         <expan><ex>et</ex></expan> a <supplied resp="#FD">Na</supplied>tere <expan><ex>et</ex></expan> a Cale et a Tratin, nobles homes <expan><ex>et</ex></expan> ses ancesseurs <expan><ex>et</ex></expan> a Salamin
@@ -5268,7 +5237,7 @@
                       <incipit xml:lang="fro"><foreign xml:lang="lat" rend="underlined">Finium</foreign>. L’action de
                         <expan>bo<ex>n</ex>ner</expan>
                         <expan>t<ex>er</ex>res</expan> est personel ja soit ce que ele est por chalengement de chose.</incipit>
-                      <explicit xml:lang="fro">Ulpians dit : <foreign xml:lang="lat" rend="underlined">Quest<supplied resp="#FD">i</supplied>onis</foreign>. L’en plede par action de fere la chose venir
+                      <explicit xml:lang="fro">Ulpians dit : <foreign xml:lang="lat" rend="underlined"><choice><sic>Questonis</sic><corr>Questionis</corr></choice></foreign>. L’en plede par action de fere la chose venir
                         <expan>ava<ex>n</ex>t</expan> por fere enqueste des mesfez as sers <expan><ex>et</ex></expan> por mostrer leur
                         <expan>conpai<ex>n</ex>gnons</expan>.</explicit>
                       <msItem>
@@ -5310,8 +5279,7 @@
                         <expan><ex>con</ex>tre</expan> lui
                         <expan><ex>et</ex></expan> li demanderes dote de quel partie cil a qui il velt pledier est oirs</incipit>
                       <explicit xml:lang="fro">Ilians dit :<foreign xml:lang="lat" rend="underlined"> Si
-                        <expan>pl<ex>ur</ex>es</expan></foreign>. Se pluseur sont seigneur de lieu ou .i. morz est enfoïz, tuit s’i doivent <expan><ex>con</ex>sentir</expan> que estrange i sont enfoï <expan>q<ex>ua</ex>r</expan> il est certaine chose que chascuns des seigneurs i puet estre enfoïz par droit sanz le <expan><ex>con</ex>sentement</expan>...
-                        <supplied resp="#FD">(D. 11.7.41) manque la fin du livre</supplied>.</explicit>
+                        <expan>pl<ex>ur</ex>es</expan></foreign>. Se pluseur sont seigneur de lieu ou .i. morz est enfoïz, tuit s’i doivent <expan><ex>con</ex>sentir</expan> que estrange i sont enfoï <expan>q<ex>ua</ex>r</expan> il est certaine chose que chascuns des seigneurs i puet estre enfoïz par droit sanz le <expan><ex>con</ex>sentement</expan>...<note>(D. 11.7.41) manque la fin du livre</note>.</explicit>
                       <msItem>
                         <locus from="201c"/>
                         <title type="sub">[D. 11.1]</title>
@@ -5885,7 +5853,7 @@
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_livre23">
                       <locus from="381b" to="402d"/>
-                      <title type="section" xml:lang="fr">Livre XXIII <supplied resp="#FD">glose du f. 381b au f. 413d</supplied></title>
+                      <title type="section" xml:lang="fr">Livre XXIII <note>glose du f. 381b au f. 413d</note></title>
                       <incipit xml:lang="fro"><foreign xml:lang="lat" rend="underlined"><expan>Spo<ex>n</ex>salia</expan></foreign>. Esposailles sont <expan>me<ex>n</ex>tion</expan>
                         <expan><ex>et</ex></expan>
                         <expan>p<ex>ra</ex>messes</expan> de noces qui sont avenir.</incipit>
@@ -5931,18 +5899,7 @@
                       <title type="section" xml:lang="fr">Livre XXIV</title>
                       <incipit xml:lang="fro">Ulpians dit : <foreign xml:lang="lat" rend="underlined"><expan>Morib<ex>us</ex></expan></foreign>. Il a esté receu par buenes meurs <expan>q<ex>ue</ex></expan> don ne vaillent entre le mari <expan><ex>et</ex></expan> sa fame
                         <expan><ex>et</ex></expan> ce est receu que li uns ne soit despoilliez por l’amor que il a l’autre...</incipit>
-                      <explicit xml:lang="fro">...<expan><ex>et</ex></expan> por ce se li <expan>patro<ex>n</ex>s</expan> a
-                        <expan>covena<ex>n</ex>ce</expan> .i. autre ou il
-                        <expan>p<ex>ro</ex>pose</expan> a
-                        <expan>p<ex>re</ex>ndre</expan> la ou il a demandé,
-                        <expan>l’e<ex>n</ex></expan> doit croirre
-                        <expan>q<ex>ue</ex></expan> il ne velt pas
-                        <expan>q<ex>ue</ex></expan> ele soit sa fame
-                        <expan><ex>et</ex></expan> se il
-                        <expan>e<ex>n</ex></expan>
-                        <expan>p<ex>re</ex>nt</expan> une
-                        <expan>l’e<ex>n</ex></expan> doit dire ce meisme
-                        <supplied resp="#FD">fin de D.24.2</supplied>.</explicit>
+                      <explicit xml:lang="fro">...<expan><ex>et</ex></expan> por ce se li <expan>patro<ex>n</ex>s</expan> a <expan>covena<ex>n</ex>ce</expan> .i. autre ou il <expan>p<ex>ro</ex>pose</expan> a <expan>p<ex>re</ex>ndre</expan> la ou il a demandé, <expan>l’e<ex>n</ex></expan> doit croirre <expan>q<ex>ue</ex></expan> il ne velt pas <expan>q<ex>ue</ex></expan> ele soit sa fame <expan><ex>et</ex></expan> se il <expan>e<ex>n</ex></expan> <expan>p<ex>re</ex>nt</expan> une <expan>l’e<ex>n</ex></expan> doit dire ce meisme<note>fin de D.24.2</note>.</explicit>
                       <msItem>
                         <locus from="402d"/>
                         <title type="sub">[D. 24.1]</title>
@@ -5971,8 +5928,7 @@
                       <note>liste des titres. Saut de ligne entre chaque livre. Les livres ne sont pas indiqués. F. 414r (3 col.)- f. 414v (2 colonnes).</note>
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_glose">
-                      <title type="section" xml:lang="fr">Glose <supplied resp="#FD">Paraît en grande partie tirée de la
-                        <title>Glose ordinaire</title>.</supplied></title>
+                      <title type="section" xml:lang="fr">Glose <note>Paraît en grande partie tirée de la <title>Glose ordinaire</title>.</note></title>
                       <msItem>
                         <locus from="213"/>
                         <title type="sub">D.12-D.13.4.9 (marge de reliure et marges de tête et de queue)</title>
@@ -6023,8 +5979,7 @@
                   <decoDesc>
                     <decoNote>
                       <label>Structure</label>
-                      <p>La division en <hi rend="b">livres</hi> est marquée par : 1. à trois reprises par une rubrique (<quote>Le segonz livres</quote>, f. 23c ;<quote> Ci
-                        <expan><ex>com</ex>m<ex>en</ex>ce</expan> le .xiii. <supplied resp="#FD"><foreign xml:lang="lat">sic pro</foreign> .xii.</supplied> livre</quote>, f. 213a ; <quote>Digeste .xiiii. <supplied resp="#FD"><foreign xml:lang="lat">sic pro</foreign> .xiii.</supplied></quote>, f. 233b) suivie de l’énoncé toujours rubriqué du premier titre ; 2. une miniature (prologue, livres 2, 12, 13, 16 ou une initiale historiée à antennes ou prolongements végétaux (livres 1, 3-11, 14, 15, 17-24), parfois précédée d’un saut de colonne en cas de lignes restantes insuffisantes pour confectionner l’initiale (ex. f. 201c) ; 3. initiales champies accompagnant les miniatures en tête des livres 2 et 13 ; 4. un titre courant (<quote>L</quote> en bleu ou rouge au verso ; numéro de livre au recto en chiffres romains rouges et bleus) avec décalage (livre 11 et 12 chiffrés XIII, livre 14 chiffré XV, livre 15 chiffré XVI)</p>
+                      <p>La division en <hi rend="b">livres</hi> est marquée par : 1. à trois reprises par une rubrique (<quote>Le segonz livres</quote>, f. 23c ;<quote> Ci <expan><ex>com</ex>m<ex>en</ex>ce</expan> le .xiii. <supplied resp="#FD"><foreign xml:lang="lat">sic pro</foreign> .xii.</supplied> livre</quote>, f. 213a ; <quote>Digeste .xiiii. <supplied resp="#FD"><foreign xml:lang="lat">sic pro</foreign> .xiii.</supplied></quote>, f. 233b) suivie de l’énoncé toujours rubriqué du premier titre ; 2. une miniature (prologue, livres 2, 12, 13, 16 ou une initiale historiée à antennes ou prolongements végétaux (livres 1, 3-11, 14, 15, 17-24), parfois précédée d’un saut de colonne en cas de lignes restantes insuffisantes pour confectionner l’initiale (ex. f. 201c) ; 3. initiales champies accompagnant les miniatures en tête des livres 2 et 13 ; 4. un titre courant (<quote>L</quote> en bleu ou rouge au verso ; numéro de livre au recto en chiffres romains rouges et bleus) avec décalage (livre 11 et 12 chiffrés XIII, livre 14 chiffré XV, livre 15 chiffré XVI)</p>
                       <p>Les <hi rend="b">titres</hi> sont indiqués par des rubriques dont les plus longues sont disposées en escalier, ce qui implique la prévision de leur réalisation lors de la copie du texte.</p>
                       <p>Chaque <hi rend="b">loi</hi> commence par une initiale nue d’une UR, alternativement bleue et rouge, correspondant à l’initiale de l’auteur de la loi. Après le verbe <hi rend="i">dire</hi> de l’inscription (<quote>Ulpians dit...</quote>, <quote>Pomponius dit...</quote>), le copiste va à la ligne. La loi proprement dite est signalée par son incipit latin dont l’initiale nue est peinte en marge alternativement en rouge et en bleu sur 2 UR. L’incipit latin est suivi de la traduction française qui commence par une initiale alternativement bleue et rouge d’une UR.</p>
                       <p>La loi, surtout lorsqu’elle est longue, peut être divisée en paragraphes signalés par des pieds-de-mouche alternativement bleus et rouges. Un premier pied-de-mouche introduit l’incipit du paragraphe en latin, suivi d’un second pied-de-mouche qui signale le début du paragraphe en français. Certaines de ces initiales de paragraphes ont été rehaussées de rouge dans la partie initiale du manuscrit où les rubriques ont été réalisées.</p>
@@ -6037,7 +5992,7 @@
                       <p><locus from="1a">Prologue (f. 1a)</locus> [miniature de 9 UR (46 x 83 mm.)], <q>Justinien rendant la justice : l’empereur trônant semble désigner du geste les deux personnages agenouillés devant lui, chacun étant accompagné d’un groupe de légiste</q> (<bibl>Avril-Gousset</bibl>) ; fond or. – 3 médaillons , 45 mm. de diamètre, en marge de queue : un couple en conversation dans les deux premiers, une femme en conversation avec un magistrat dans le troisième.</p>
                       <p><locus from="3b">Livre I (f. 3b)</locus> [initiale historiée (<q>U</q>) de 7 UR], <q>Justinien s’adresse à un groupe de magistrats dont l’un tient un écrit représentant sans doute le livre sur la justice que l’empereur lui a remis</q> (<bibl>Avril-Gousset</bibl>) ; fond or. − A la tête de D. 1.8, réserve pour initiale historiée de 9 UR.</p>
                       <p><locus from="23c">Livre II (f. 23c)</locus> [initiale ornée (<q>I</q>) de 17 UR surmontant une miniature de 9 UR], la lettre et la miniature mordant chacune sur la colonne, fond or. Miniature : <q>Justinien, vêtu de la robe rouge à camail de vair comme les hommes de loi, s’adresse à un groupe de juges dont l’un tient en main un écrit symbolisant sans doute le livre sur la juridiction</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
-                      <p><locus from="47c">Livre III (f. 47c)</locus> [initiale historiée de 10 UR], <q>la plaidoirie : une femme, Carfania <supplied resp="#FD">Calphurine dans le texte français</supplied> plaidant devant Justinien</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
+                      <p><locus from="47c">Livre III (f. 47c)</locus> [initiale historiée de 10 UR], <q>la plaidoirie : une femme, Carfania<note>Carfania : Calphurine dans le texte français</note> plaidant devant Justinien</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
                       <p><locus from="67d">Livre IV (f. 67d)</locus> [initiale historiée de 9 UR], <q>la restitution : un magistrat accompagné d’un adulte conduit un enfant devant Justinien en vue de la restitution d’un héritage</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
                       <p><locus from="100b">Livre V (f. 100b)</locus> [initiale historiée de 7 UR], <q>les jugements : groupe de juges devant Justinien</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
                       <p><locus from="121b">Livre VI (f. 121b)</locus> [initiale historiée de 8 UR], <q>la réclamation en justice : Justinien trônant entre des magistrats</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
@@ -6742,7 +6697,7 @@
                               <lb/>
                               <pb n="f. 40b"/> Ulpians dist : li precteur fist cest livre por ce <expan>q<ex>ue</ex></expan> l’en eust regart <expan>v<ex>er</ex>s</expan> les avocaz et por <expan>gard<ex>er</ex></expan> sa digneté
                               <expan><ex>et</ex></expan> son honeur</incipit>
-                            <explicit xml:lang="fro">Papinians dist : Se l’en acuse aucun serf l’en le met a gehine se cil qui acuse le requiert et se il est delivrés cil qui l’encusoit doit paier au seigneur du serf le double du pris du serf mes l’en demande <supplied resp="#FD">de</supplied><note>La préposition se trouve sans doute dans la marge de reliure.</note> sa chalenge estre le pris du serf se li crimes de chalenge est de partir domaige qu’il a fet au seignor por ce qu’il fist metre son serf en gehine.</explicit>
+                            <explicit xml:lang="fro">Papinians dist : Se l’en acuse aucun serf l’en le met a gehine se cil qui acuse le requiert et se il est delivrés cil qui l’encusoit doit paier au seigneur du serf le double du pris du serf mes l’en demande <corr>de</corr><note>La préposition se trouve sans doute dans la marge de reliure.</note> sa chalenge estre le pris du serf se li crimes de chalenge est de partir domaige qu’il a fet au seignor por ce qu’il fist metre son serf en gehine.</explicit>
                             <msItem>
                               <locus from="40a"/>
                               <title type="sub">[D. 3.1]</title>
@@ -7414,10 +7369,7 @@
                               <lb/>Paulus dit : Obligemenz de
                               <expan>mandeme<ex>n</ex>t</expan> est fez par le
                               <expan>conse<ex>n</ex>tement</expan> des parties et por ce puet mandemenz estre receuz par message et par letres.</incipit>
-                            <explicit xml:lang="fro">...<expan>q<ex>ua</ex>r</expan>
-                              <expan>q<ex>ua</ex>nt</expan> aucun prennent
-                              <expan><ex>com</ex>paingnie</expan> ensemble, il la <expan>prenne<ex>n</ex>t</expan> de perte
-                              <expan><ex>et</ex></expan> de gaaing. Se .i. de cels qui ne <supplied resp="#FD">bas du f. 241d</supplied></explicit>
+                            <explicit xml:lang="fro">...<expan>q<ex>ua</ex>r</expan> <expan>q<ex>ua</ex>nt</expan> aucun prennent <expan><ex>com</ex>paingnie</expan> ensemble, il la <expan>prenne<ex>n</ex>t</expan> de perte <expan><ex>et</ex></expan> de gaaing. Se .i. de cels qui ne <note>bas du f. 241d</note></explicit>
                             <msItem>
                               <locus from="226d"/>
                               <title type="sub">[D. 17.1]</title>
@@ -7776,9 +7728,7 @@
                           <origPlace>France (Paris)</origPlace>
                         </origin>
                         <provenance>
-                          <p><label>Provenance</label><persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ</persName> († 1482 ; armoiries et grelot tricolore peints sur les tranches) ; son fils <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (f. 330b : <quote>C’est le livre appellé la Digeste vielle traittant de justice et de droit ou il y a .xxv. hystoires,
-                            <expan>leq<ex>ue</ex>l</expan> est a
-                            <expan>mons<ex>eigneur</ex></expan> Charles de Croÿ, comte de Chimay <supplied resp="#FD">signature</supplied> Charles</quote>) ; acquis par <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> en 1511 : <quote>Ung autre grant livre en parchemin, de grosse belle letre a la main, couvert de velours bleu, a fermaulx et cloz dorez, appellé la Digeste vielle, traictant de justice et de droit, ou il y a XXV histoires</quote> (inventaire de 1516) ; passe à <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> en 1530 ; entre à la <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> en 1559 ; pris par les Français en 1794 (estampille de la Bibl. nat. f. 1 et 331) ; restitué en 1815.</p>
+                          <p><label>Provenance</label><persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ</persName> († 1482 ; armoiries et grelot tricolore peints sur les tranches) ; son fils <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (f. 330b : <quote>C’est le livre appellé la Digeste vielle traittant de justice et de droit ou il y a .xxv. hystoires, <expan>leq<ex>ue</ex>l</expan> est a <expan>mons<ex>eigneur</ex></expan> Charles de Croÿ, comte de Chimay <supplied resp="#FD">signature</supplied> Charles</quote>) ; acquis par <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> en 1511 : <quote>Ung autre grant livre en parchemin, de grosse belle letre a la main, couvert de velours bleu, a fermaulx et cloz dorez, appellé la Digeste vielle, traictant de justice et de droit, ou il y a XXV histoires</quote> (inventaire de 1516) ; passe à <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> en 1530 ; entre à la <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> en 1559 ; pris par les Français en 1794 (estampille de la Bibl. nat. f. 1 et 331) ; restitué en 1815.</p>
                         </provenance>
                       </history>
                       <additional>
@@ -8359,8 +8309,8 @@
                           <hi rend="b">D</hi>ui home virent le feu en une meson si corurent por <expan>destai<ex>n</ex>dre</expan> le. <expan><ex>et</ex></expan> s’entrehurterent si qu’il chaïrent ambedui. <expan><ex>et</ex></expan> que li uns fu ars. l’en n’en puet riens <expan>dema<ex>n</ex>der</expan> par ceste loi se l’en ne set liquiels bouta l’autre. ¶
                           <label>[4]</label>
                           <hi rend="b">C</hi>il qui ne se pooient
-                          <expan>autrem<ex>en</ex>t</expan> deffendre furent damagié en lor corpes. l’en ne lor en puet riens demander. car toutes les lo<supplied resp="#FD">i</supplied>s
-                          <expan><ex>et</ex></expan> tuit li droit otroient que foce soit bou<supplied resp="#FD">t</supplied>ee arriere par force. <hi rend="b">M</hi>es se ge gitai une pierre por deffendre moi de mon aver<pb n="f. 1c"/>saire et ge ne feri pas lui mes .i.
+                          <expan>autrem<ex>en</ex>t</expan> deffendre furent damagié en lor corpes. l’en ne lor en puet riens demander. car toutes les <choice><sic>los</sic><corr>lois</corr></choice>
+                          <expan><ex>et</ex></expan> tuit li droit otroient que foce soit <choice><sic>bouee</sic><corr>boutee</corr></choice> arriere par force. <hi rend="b">M</hi>es se ge gitai une pierre por deffendre moi de mon aver<pb n="f. 1c"/>saire et ge ne feri pas lui mes .i.
                           <expan>trespassa<ex>n</ex>t</expan> : ge sui tenuz par l’action de ceste loi. car il m’estuet otroier a ferir celui seul qui force me fesoit. <hi rend="b">E</hi>t se gel fesoit por moi deffendre tant seulement.
                           <expan><ex>et</ex></expan> non pas por vengier moi.</p>
                         <p xml:id="leiden_meijers_fr3-D.9.2.46"><label>[9.2.46]</label>
@@ -10269,30 +10219,7 @@
                           <expan><ex>et</ex></expan> de l'autre. Mes il
                           <expan>e<ex>s</ex>crist</expan> selonc l'encienne
                           <expan>p<ex>ar</ex>ole</expan>
-                          <expan><ex>et</ex></expan> por ce sont si livre. petit agraable. ¶ <label>[47]</label> Aprés cestui furent de grant actorité ataius capato <expan>q<ex>ui</ex></expan> ensuivi. osfilius <expan><ex>et</ex></expan> antitus. Labeo <expan>q<ex>ui</ex></expan> oï touz cez
-                          <expan>atei<ex>us</ex></expan>. fu
-                          <expan><ex>con</ex>seillier</expan>. mes labeo. ne le vost estre. Ja soit ce <expan>q<ex>ue</ex></expan> li
-                          <expan>emp<ex>ereeur</ex></expan> li osfri. mes il
-                          <expan>do<ex>n</ex>na</expan>
-                          <expan>m<ex>ou</ex>lt</expan>
-                          <expan>gra<ex>n</ex>t</expan> entente. a estuide
-                          <expan><ex>et</ex></expan> il avoit einsi devisé tout l'en <expan>q<ex>ue</ex></expan> il estoit .vi. mois a Rome <expan><ex>et</ex></expan>
-                          <expan>do<ex>n</ex>noit</expan> entente a escrivre. livres. Il lessa donc .xl. volumes
-                          <expan>q<ex>ue</ex></expan> nos avons. Cist dui
-                          <expan>fi<ex>re</ex>nt</expan>
-                          <supplied resp="#FD">lecture incertaine ?</supplied>
-                          <expan>p<ex>re</ex>mierem<ex>en</ex>t</expan> diverses suites. Car Capito. se tint aus choses
-                          <expan>q<ex>ui</ex></expan> furent
-                          <expan>deva<ex>n</ex>t</expan> bailliees
-                          <expan><ex>et</ex></expan> Labeo.
-                          <expan>q<ex>ui</ex></expan> estoit de bon enging avoit doné entente a escience plus
-                          <expan>q<ex>ue</ex></expan> li autre.
-                          <expan><ex>et</ex></expan> vost renoveler plusors choses. <label>[48]</label>
-                          <expan>ap<ex>ré</ex>s</expan> Capito. fu massurius. Sabinius <expan><ex>et</ex></expan>
-                          <expan>ap<ex>ré</ex>s</expan> labeo. fu
-                          <expan>n<ex>er</ex>va</expan>.
-                          <expan><ex>et</ex></expan> cil dui acrurent les
-                          <expan>disce<ex>n</ex>cio<ex>n</ex>s</expan> Cil Nerva fu mout <expan>p<ex>ri</ex>vez</expan>. de l’<expan>emp<ex>ereeur</ex></expan>.
+                          <expan><ex>et</ex></expan> por ce sont si livre. petit agraable. ¶ <label>[47]</label> Aprés cestui furent de grant actorité ataius capato <expan>q<ex>ui</ex></expan> ensuivi. osfilius <expan><ex>et</ex></expan> antitus. Labeo <expan>q<ex>ui</ex></expan> oï touz cez <expan>atei<ex>us</ex></expan>. fu <expan><ex>con</ex>seillier</expan>. mes labeo. ne le vost estre. Ja soit ce <expan>q<ex>ue</ex></expan> li <expan>emp<ex>ereeur</ex></expan> li osfri. mes il <expan>do<ex>n</ex>na</expan> <expan>m<ex>ou</ex>lt</expan> <expan>gra<ex>n</ex>t</expan> entente. a estuide <expan><ex>et</ex></expan> il avoit einsi devisé tout l'en <expan>q<ex>ue</ex></expan> il estoit .vi. mois a Rome <expan><ex>et</ex></expan> <expan>do<ex>n</ex>noit</expan> entente a escrivre. livres. Il lessa donc .xl. volumes <expan>q<ex>ue</ex></expan> nos avons. Cist dui <expan>fi<ex>re</ex>nt</expan><note>lecture incertaine ?</note> <expan>p<ex>re</ex>mierem<ex>en</ex>t</expan> diverses suites. Car Capito. se tint aus choses <expan>q<ex>ui</ex></expan> furent <expan>deva<ex>n</ex>t</expan> bailliees <expan><ex>et</ex></expan> Labeo. <expan>q<ex>ui</ex></expan> estoit de bon enging avoit doné entente a escience plus <expan>q<ex>ue</ex></expan> li autre. <expan><ex>et</ex></expan> vost renoveler plusors choses. <label>[48]</label> <expan>ap<ex>ré</ex>s</expan> Capito. fu massurius. Sabinius <expan><ex>et</ex></expan> <expan>ap<ex>ré</ex>s</expan> labeo. fu <expan>n<ex>er</ex>va</expan>. <expan><ex>et</ex></expan> cil dui acrurent les <expan>disce<ex>n</ex>cio<ex>n</ex>s</expan> Cil Nerva fu mout <expan>p<ex>ri</ex>vez</expan>. de l’<expan>emp<ex>ereeur</ex></expan>.
                           <expan><ex>et</ex></expan> Massurius Sabins. fu en l'ordre des <expan>ch<ex>evalie</ex>rs</expan>.
                           <expan><ex>et</ex></expan> fu li
                           <expan>p<ex>re</ex>miers</expan>
@@ -11600,7 +11527,7 @@
                           </msItem>
                           <msItem xml:id="fr_20118_digestumvetus_prologue">
                             <locus from="1a" to="2d"/>
-                            <title type="section" xml:lang="fr">Prologue <supplied resp="#FD"><title xml:lang="lat">Constitutio omnem</title>, traduction identique à celle du ms Paris, Bibl. nat. de Fr., fr. 197 (trad. 1)</supplied></title>
+                            <title type="section" xml:lang="fr">Prologue <supplied resp="#FD"><title xml:lang="lat">Constitutio omnem</title></supplied><note>Traduction identique à celle du ms Paris, Bibl. nat. de Fr., fr. 197 (trad. 1).</note></title>
                             <incipit xml:lang="fro"><seg type="rubric">Li empereres Cesar <expan>Flavi<ex>us</ex></expan>
                               <expan>Justinian<ex>us</ex></expan>, Alemanicus, Gozhicus, Germanicus, Antiqus, Alenicus,
                               <expan>Affrican<ex>us</ex></expan>, deboneres, boneurez, nobles, veinquerres et touzjourz augustus, mande saluz a Theophile et a Dorothee et a Insidoire et a Anathoire et a Kale et a Cracin, nobles houmes et ses ancesseurs et a Salamin, home tres discret et son ancesseurr.</seg><lb/>Nus ne set mieuz de vous <expan>q<ex>ue</ex></expan> touz li <expan>establisseme<ex>n</ex>z</expan> de
@@ -11936,10 +11863,7 @@
                               <expan><ex>et</ex></expan> en
                               <expan>q<ex>ue</ex>l</expan> leu aucuns puet estre trez en cause.</seg><lb/><pb n="f. 71d"/> Ulpians dit : Se aucun se <expan>souzmete<ex>n</ex>t</expan> a la jur<supplied resp="#FD">i</supplied>sdicion a .i. juge <expan><ex>et</ex></expan> il se
                               <expan>co<ex>n</ex>sentent</expan> en lui, il a poesté sus els por tant <expan>q<ex>ue</ex></expan> il soit juges qui ait aucune jurisdicion.</incipit>
-                            <explicit xml:lang="fro">Paulus dit : Et se la feme au mort ne set pas <expan>certainem<ex>en</ex>t</expan>
-                              <expan>q<ex>ue</ex></expan> ele soit grosse mes ele le cuide estre, dedenz ce est li filz hoirs de tout l’eritage, ja soit ce <expan>q<ex>ue</ex></expan> il ne set pas <expan>q<ex>ue</ex></expan> il soit hoirs de tout. Autresi est il de l’estrange
-                              <expan>q<ex>ui</ex></expan> est fez hoirs d’une certaine partie <expan><ex>et</ex></expan> li enfant qui sont encore a nestre
-                              <supplied>...</supplied><supplied>D. 5.4.5.1</supplied>.</explicit>
+                            <explicit xml:lang="fro">Paulus dit : Et se la feme au mort ne set pas <expan>certainem<ex>en</ex>t</expan> <expan>q<ex>ue</ex></expan> ele soit grosse mes ele le cuide estre, dedenz ce est li filz hoirs de tout l’eritage, ja soit ce <expan>q<ex>ue</ex></expan> il ne set pas <expan>q<ex>ue</ex></expan> il soit hoirs de tout. Autresi est il de l’estrange <expan>q<ex>ui</ex></expan> est fez hoirs d’une certaine partie <expan><ex>et</ex></expan> li enfant qui sont encore a nestre <gap/><note>D. 5.4.5.1</note>.</explicit>
                             <msItem>
                               <locus from="71c"/>
                               <title type="sub">[D. 5.1]</title>
@@ -12154,16 +12078,7 @@
                             <title type="section" xml:lang="fr">Livre XI</title>
                             <incipit xml:lang="fro"><seg type="rubric">Ci comence li onziemes livres. D’<expan>actio<ex>n</ex>s</expan> qui sont meues par demandes.</seg><lb/>Ulpians dit : L’en puet demander a l’oir de <expan>q<ex>ue</ex>l</expan> partie il est hoir toutes les foiz
                               <expan>q<ex>ue</ex></expan> plez est meuz contre lui.</incipit>
-                            <explicit xml:lang="fro">Cil meismes dit : Se li cors d’un home est enfoïz el
-                              <expan>monum<ex>en</ex>t</expan> qui n’est pas
-                              <expan>p<ex>ar</ex>fez</expan>,
-                              <expan>rie<ex>n</ex>s</expan> ne desfent
-                              <expan>q<ex>ue</ex></expan> il ne soit
-                              <expan>p<ex>ar</ex>fez</expan>
-                              <expan><ex>et</ex></expan> se li
-                              <expan>leu<ex>us</ex></expan> est fez
-                              <expan>religie<ex>us</ex></expan> li
-                              <expan>evesq<ex>ue</ex>s</expan> doit prendre garde que il soit parfez, sauve la religion<lb/><supplied resp="#FD">en marge de queue</supplied> Ci fine li onziemes livres de <sic>Gisceste</sic> vieille</explicit>
+                            <explicit xml:lang="fro">Cil meismes dit : Se li cors d’un home est enfoïz el <expan>monum<ex>en</ex>t</expan> qui n’est pas <expan>p<ex>ar</ex>fez</expan>, <expan>rie<ex>n</ex>s</expan> ne desfent <expan>q<ex>ue</ex></expan> il ne soit <expan>p<ex>ar</ex>fez</expan> <expan><ex>et</ex></expan> se li <expan>leu<ex>us</ex></expan> est fez <expan>religie<ex>us</ex></expan> li <expan>evesq<ex>ue</ex>s</expan> doit prendre garde que il soit parfez, sauve la religion<lb/><supplied resp="#FD">en marge de queue</supplied> Ci fine li onziemes livres de <sic>Gisceste</sic> vieille</explicit>
                             <msItem>
                               <locus from="34'b"/>
                               <title type="sub">[D. 11.1]</title>
@@ -12757,7 +12672,7 @@
                           <p><label>Provenance</label>mention de possesseur dont le nom a été effacé, f. 73’’b : <q xml:lang="lat">bono venerabilisque vir cui in omnibus Jhesus Virginis Marie filius det juvamen legens hoc dicat an…</q> (main du 14<hi rend="sup">e</hi> s.). A fait partie de la librairie de <persName role="possesseur" key="Charles V">Charles V</persName> (cf.
                             <bibl>inventaire de Gilles Mallet établi en 1373 et récolé en 1380 par Jean Blanchet, ms Paris, Bibl. nat. de Fr., fr. 2700 [inv. A], f. 5, n° 44</bibl>:
                             <quote>Digeste vielle, de meismes [couvert de soie ynde et vermeille], et fermoers d’argent.</quote>) Prêté, avec d’autres manuscrits juridiques à <persName role="possesseur" key="Louis d'Anjou">Louis d'Anjou</persName>, frère du roi le 22 novembre 1380. Lors de la vente de la librairie en 1424, le ms est estimé <quote>6 livres parisis</quote> (cf.
-                            <bibl>Paris, bibliothèque Sainte-Geneviève, ms 964 [Inv. F], f. 23, n° 160</bibl> : <quote>un Digeste vieil en françois, couvert et fermant comme dessus [couvert de soye inde et vermeille, à quatre fermouers d’argent doré à écussons de France</quote>). Appartient au 17<hi rend="sup">e</hi> s. au cardinal de <persName role="possesseur" key="Richelieu, cardinal de">Richelieu</persName> (armes d'argent à trois chevrons de gueules sur les plats et au dos). En 1660, la collection du cardinal de Richelieu fut transférée à la <orgName role="possesseur" key="Sorbonne, bibliothèque de la">bibliothèque de la Sorbonne</orgName> (estampille f. 1 et 274v). Après confiscation de la bibliothèque de la Sorbonne en 1791, le ms entra en 1796 à la Bibliothèque nationale.<supplied resp="#FD">L’histoire des possesseurs est résumée d’après la notice du ms sur le site de la Bibl. nat. de Fr.</supplied></p>
+                            <bibl>Paris, bibliothèque Sainte-Geneviève, ms 964 [Inv. F], f. 23, n° 160</bibl> : <quote>un Digeste vieil en françois, couvert et fermant comme dessus [couvert de soye inde et vermeille, à quatre fermouers d’argent doré à écussons de France</quote>). Appartient au 17<hi rend="sup">e</hi> s. au cardinal de <persName role="possesseur" key="Richelieu, cardinal de">Richelieu</persName> (armes d'argent à trois chevrons de gueules sur les plats et au dos). En 1660, la collection du cardinal de Richelieu fut transférée à la <orgName role="possesseur" key="Sorbonne, bibliothèque de la">bibliothèque de la Sorbonne</orgName> (estampille f. 1 et 274v). Après confiscation de la bibliothèque de la Sorbonne en 1791, le ms entra en 1796 à la Bibliothèque nationale.<note>L’histoire des possesseurs est résumée d’après la notice du ms sur le site de la Bibl. nat. de Fr.</note></p>
                           <p><label>Anciennes cotes</label>« <idno type="old">340</idno> », f. B [Sorbonne] ; « <idno type="old">130</idno> », f. B [Richelieu] ; paraphe du libraire Blaise accompagné du n° <idno type="old">2770</idno>, f. Av.</p>
                         </provenance>
                       </history>
@@ -14544,82 +14459,23 @@
                         <expan>q<ex>ua</ex>nt</expan> il n'est gentix hom de lignage. et il est aucun frans
                         <expan>ho<ex>m</ex></expan>. <expan><ex>et</ex></expan> il est couchanz <expan><ex>et</ex></expan> levanz en ton vilenage. de ton vilenage face
                         <expan>v<ex>er</ex>s</expan> toi ce que il doit. et ses cors <expan><ex>et</ex></expan> si chatel seront mené par la lei franche. et la reson en est bonne.
-                        <expan>q<ex>ua</ex>r</expan> se li
-                        <expan>vilai<ex>n</ex>s</expan> qui ne s'aert a franchise fors par le franc fie qu'il a acheté
-                        <expan>m<ex>ou</ex>lt</expan> mieulz le doit celui estre qui a naturel <expan>fra<ex>n</ex>chise</expan> de par <expan>p<ex>er</ex>e</expan>
-                        <expan><ex>et</ex></expan> de <expan>p<ex>ar</ex></expan> mere. encore maigne il en vilenage. se einsi n'est qu'il s’i soit mis del tout pour son fie en loi vilainne. et la parole que l'en dit <expan>q<ex>ue</ex></expan> li hons doit estre justisiez. la ou il couche
-                        <expan><ex>et</ex></expan> lieve c'est voirs selonc l'estat ou il est. et se il <expan><ex>est</ex></expan> gentix hom de lingnage et ne tenist point de
-                        <expan>fra<ex>nc</ex></expan> fie de nului. et il
-                        <expan>p<ex>re</ex>nt</expan> ta vilaine. et lieve
-                        <expan><ex>et</ex></expan> couche en ta justise. lors sera menez par la loi vilaine la ou il se met du tout fors de son cors. Se baillis le roi ou autres sires de coi tu tiengnes. semont ton vilain. il n’i doit pas aler par
-                        <expan>n<ex>ost</ex>re</expan> usage. mes se il mandent <expan>q<ex>ue</ex></expan> tu aies ton vilain
-                        <expan>p<ex>ar</ex></expan> devant euls. avoir li doiz. se ensi n'est qu'il tiengne del seingnor. selonc le leu. ou li vilains maint. Mes
-                        <expan>e<ex>n</ex>core</expan> ne tiengnes tu du roi. si li doiz tu avoir par devant son baillif en la chastelerie dont tu es. Mes <expan>q<ex>ua</ex>nt</expan> li bailliz fet ajorner franc home par devant lui aler i doit encore ne tiengne il <expan>rie<ex>n</ex>s</expan> del roi et <expan>ileq<ex>ue</ex>s</expan> puet la cort
-                        <expan>so<ex>n</ex></expan> seignor avoier se il veult. se li clams qui est fez seur lui le sueffre.</p>
+                        <expan>q<ex>ua</ex>r</expan> se li <expan>vilai<ex>n</ex>s</expan> qui ne s'aert a franchise fors par le franc fie qu'il a acheté <expan>m<ex>ou</ex>lt</expan> mieulz le doit celui estre qui a naturel <expan>fra<ex>n</ex>chise</expan> de par <expan>p<ex>er</ex>e</expan> <expan><ex>et</ex></expan> de <expan>p<ex>ar</ex></expan> mere. encore maigne il en vilenage. se einsi n'est qu'il s’i soit mis del tout pour son fie en loi vilainne. et la parole que l'en dit <expan>q<ex>ue</ex></expan> li hons doit estre justisiez. la ou il couche <expan><ex>et</ex></expan> lieve c'est voirs selonc l'estat ou il est. et se il <expan><ex>est</ex></expan> gentix hom de lingnage et ne tenist point de <expan>fra<ex>nc</ex></expan> fie de nului. et il <expan>p<ex>re</ex>nt</expan> ta vilaine. et lieve <expan><ex>et</ex></expan> couche en ta justise. lors sera menez par la loi vilaine la ou il se met du tout fors de son cors. Se baillis le roi ou autres sires de coi tu tiengnes. semont ton vilain. il n’i doit pas aler par <expan>n<ex>ost</ex>re</expan> usage. mes se il mandent <expan>q<ex>ue</ex></expan> tu aies ton vilain <expan>p<ex>ar</ex></expan> devant euls. avoir li doiz. se ensi n'est qu'il tiengne del seingnor. selonc le leu. ou li vilains maint. Mes <expan>e<ex>n</ex>core</expan> ne tiengnes tu du roi. si li doiz tu avoir par devant son baillif en la chastelerie dont tu es. Mes <expan>q<ex>ua</ex>nt</expan> li bailliz fet ajorner franc home par devant lui aler i doit encore ne tiengne il <expan>rie<ex>n</ex>s</expan> del roi et <expan>ileq<ex>ue</ex>s</expan> puet la cort <expan>so<ex>n</ex></expan> seignor avoier se il veult. se li clams qui est fez seur lui le sueffre.</p>
                     </div>
                     <div type="edition" n="2">
                       <head>Compilation juridique en français des <title>Institutes</title> et du <title>Digeste vieux</title></head>
                       <p><seg type="rubric">Des convenances qui riens ne vallent</seg>
-                        <pb n="f. 59v"/><supplied resp="#LM">= Inst. 3.19, <title xml:lang="lat">De inutilibus stipulationibus</title></supplied>
-                        <hi rend="b">T</hi>outes les choses qui
-                        <expan>s<ex>on</ex>t</expan> soz mises a
-                        <expan>n<ex>ot</ex>re</expan> seingneur
-                        <expan>puee<ex>n</ex>t</expan> estre amenees a convenances <expan>q<ex>ue</ex>les</expan>
-                        <expan>q<ex>ue</ex>les</expan> soient ou mouvables ou
-                        <expan>no<ex>n</ex></expan> movables. se
-                        <expan>au<ex>cun</ex>s</expan> met en convenant
-                        <expan>q<ex>ue</ex></expan> une chose li soit donnee. qui n'est pas ne ne puet estre. cele convenance ne vaut <expan>rie<ex>n</ex>s</expan>. si
-                        <expan><ex>com</ex>me</expan> se
-                        <expan>au<ex>cun</ex>s</expan>
-                        <expan>p<ex>ro</ex>met</expan> a
-                        <expan>au<ex>cun</ex></expan> qu'il li donroit .i. serf. <expan>q<ex>u</ex></expan>'il cuidoit qu'il fust vis. et il est morz. Autresi est il se
-                        <expan>au<ex>cun</ex>s</expan> met en convenant
-                        <expan>q<ex>ue</ex></expan> la chose sainte
-                        <expan><ex>et</ex></expan> religieuse
-                        <expan>q<ex>u</ex></expan>'il cuidoit qui ne fust d'umaine. nature li est donnee. ou la chose
-                        <expan><ex>com</ex>mune</expan> qui est establie
-                        <expan><ex>com</ex>munement</expan>. a l’usage del païs est du pueple. si <expan><ex>com</ex>me</expan> li marchiez ou li theatres ou .i. frans hom qui cuidoit qu'il fust sers ou chose de quoi marchiez ne puet estre fez. ou
-                        <expan>q<ex>ue</ex></expan> la chose qui est a celi qui fist la <expan>convena<ex>n</ex>ce</expan> li soit donnee. Ne la convenance ne porloingnera pas porce
-                        <expan>q<ex>ue</ex></expan> la chose qui est
-                        <expan><ex>com</ex>mune</expan> puet en autrui
-                        <expan>te<ex>n</ex>s</expan> estre a .i. home. ou
-                        <expan>q<ex>ue</ex></expan> li frans homs porra devenir sers. <expan><ex>et</ex></expan>
-                        <expan>q<ex>ue</ex></expan> la chose de quoi marchiez ne puet estre fez porra venir en tel point
-                        <expan>q<ex>ue</ex></expan> marchiez en porra estre fez. Et <expan>q<ex>ue</ex></expan> la chose a celui qui fet la convenance porra lessier a estre seue. mes tantost tieus <expan>convena<ex>n</ex>ces</expan> ne vallent
-                        <expan>rie<ex>n</ex>s</expan>. ¶ Et en contre ce se la chose de quoi convenance porroit estre fete au
-                        <expan><ex>com</ex>mencement</expan>. vient
-                        <expan>ap<ex>ré</ex>s</expan> ce en l'estat a celes de quoi <expan>n<ex>ous</ex></expan> avons
-                        <expan>p<ex>ar</ex>lé</expan> sanz le fet a celui qui la promist. La convenance ne vaut
-                        <expan>rie<ex>n</ex>s</expan> se
-                        <expan>au<ex>cun</ex>s</expan> dist ainsi. Tu me promez
-                        <expan>q<ex>ue</ex></expan> tu me donras tyce.
+                        <pb n="f. 59v"/><supplied resp="#LM"><title xml:lang="lat">De inutilibus stipulationibus</title><note>= Inst. 3.19.</note></supplied>
+                        <hi rend="b">T</hi>outes les choses qui <expan>s<ex>on</ex>t</expan> soz mises a <expan>n<ex>ot</ex>re</expan> seingneur <expan>puee<ex>n</ex>t</expan> estre amenees a convenances <expan>q<ex>ue</ex>les</expan> <expan>q<ex>ue</ex>les</expan> soient ou mouvables ou <expan>no<ex>n</ex></expan> movables. se <expan>au<ex>cun</ex>s</expan> met en convenant <expan>q<ex>ue</ex></expan> une chose li soit donnee. qui n'est pas ne ne puet estre. cele convenance ne vaut <expan>rie<ex>n</ex>s</expan>. si <expan><ex>com</ex>me</expan> se <expan>au<ex>cun</ex>s</expan> <expan>p<ex>ro</ex>met</expan> a <expan>au<ex>cun</ex></expan> qu'il li donroit .i. serf. <expan>q<ex>u</ex></expan>'il cuidoit qu'il fust vis. et il est morz. Autresi est il se <expan>au<ex>cun</ex>s</expan> met en convenant <expan>q<ex>ue</ex></expan> la chose sainte <expan><ex>et</ex></expan> religieuse <expan>q<ex>u</ex></expan>'il cuidoit qui ne fust d'umaine. nature li est donnee. ou la chose <expan><ex>com</ex>mune</expan> qui est establie <expan><ex>com</ex>munement</expan>. a l’usage del païs est du pueple. si <expan><ex>com</ex>me</expan> li marchiez ou li theatres ou .i. frans hom qui cuidoit qu'il fust sers ou chose de quoi marchiez ne puet estre fez. ou <expan>q<ex>ue</ex></expan> la chose qui est a celi qui fist la <expan>convena<ex>n</ex>ce</expan> li soit donnee. Ne la convenance ne porloingnera pas porce <expan>q<ex>ue</ex></expan> la chose qui est <expan><ex>com</ex>mune</expan> puet en autrui <expan>te<ex>n</ex>s</expan> estre a .i. home. ou <expan>q<ex>ue</ex></expan> li frans homs porra devenir sers. <expan><ex>et</ex></expan> <expan>q<ex>ue</ex></expan> la chose de quoi marchiez ne puet estre fez porra venir en tel point <expan>q<ex>ue</ex></expan> marchiez en porra estre fez. Et <expan>q<ex>ue</ex></expan> la chose a celui qui fet la convenance porra lessier a estre seue. mes tantost tieus <expan>convena<ex>n</ex>ces</expan> ne vallent <expan>rie<ex>n</ex>s</expan>. ¶ Et en contre ce se la chose de quoi convenance porroit estre fete au <expan><ex>com</ex>mencement</expan>. vient <expan>ap<ex>ré</ex>s</expan> ce en l'estat a celes de quoi <expan>n<ex>ous</ex></expan> avons <expan>p<ex>ar</ex>lé</expan> sanz le fet a celui qui la promist. La convenance ne vaut <expan>rie<ex>n</ex>s</expan> se <expan>au<ex>cun</ex>s</expan> dist ainsi. Tu me promez <expan>q<ex>ue</ex></expan> tu me donras tyce.
                         <expan>q<ex>ua</ex>nt</expan> il sera sers. tel convenance ne vaut <expan>rie<ex>n</ex>s</expan> au
                         <expan><ex>com</ex>mencement</expan>. Et se cil qui a <expan>p<ex>ro</ex>mis</expan> a donner la chose falt tele convenance ne vaut <expan>rie<ex>n</ex>s</expan> au
                         <expan><ex>com</ex>mencement</expan>. et les autres samblables choses qui par la nature de lés sont exceptés ce est delivrés de <expan>n<ex>ost</ex>re</expan> seingnorie. ¶ Ne pueent en nule maniere estre ramenees en convenant. ¶ Se <expan>au<ex>cun</ex>s</expan>
                         <expan>p<ex>ro</ex>met</expan>
                         <expan>q<ex>ue</ex></expan>
                         <expan>au<ex>cun</ex>s</expan> donra ou fera
-                        <expan>au<ex>cun</ex>e</expan> chose. Il n’i est pas obligiez. mes se martins te <expan>p<ex>ro</ex>met</expan> qu'il fera tant <expan>q<ex>ue</ex></expan> tyces te donra .v. <expan><ex>deniers</ex></expan>. martins i est obligiez. ¶ Se <expan>au<ex>cun</ex>s</expan> fet fere convenance a <expan>au<ex>cun</ex></expan> autre.
-                        <expan>q<ex>ue</ex></expan> a celi a cui droiture. Il est soz mis. il ne li fet riens. ¶
-                        <expan>Neporq<ex>ua</ex>nt</expan> la paie puet estre fete a .i. estrange par convenant. ¶ Si
-                        <expan><ex>com</ex>me</expan> se
-                        <expan>au<ex>cun</ex>s</expan> fet ceste convenance. ¶ Tu me <expan>p<ex>ro</ex>mez</expan>
-                        <expan>q<ex>ue</ex></expan> tu me donras a moi
-                        <expan><ex>et</ex></expan> a tyce .v.
-                        <expan><ex>deniers</ex></expan>. li obligemenz en est aquis a celui a cui l'en fet le
-                        <expan>convena<ex>n</ex>t</expan>
-                        <expan><ex>et</ex></expan> la chose qui est
-                        <expan>p<ex>ro</ex>mise</expan> puet estre paiee a l'autre maugré celui qui fist le convenant
-                        <expan><ex>et</ex></expan> cil qui a
-                        <expan>p<ex>ro</ex>mis</expan> en est delivrés par droit. mes cil qui fist le convenant. se la chose est paiee a l'autre maugré sien. a
-                        <expan>actio<ex>n</ex>s</expan> de
-                        <expan>ma<ex>n</ex>dement</expan>
-                        <expan><ex>con</ex>tre</expan> celui qui la chose a reçue. Se <expan>au<ex>cun</ex>s</expan> met en convenant
-                        <expan>q<ex>ue</ex></expan>
-                        <expan>au<ex>cu</ex>ne</expan> chose sera paiee a lui
-                        <expan><ex>et</ex></expan> a .i. autre a cui droiture il n'est pas soz mis. la convenance vault. mes l'<expan>e<ex>n</ex></expan> doute. Se toute la convenance ou la moitié li est deue. mes il
-                        <expan>n<ex>ous</ex></expan> plest
-                        <expan>q<ex>ue</ex></expan> cil qui fist la convenance n'ait <expan>rie<ex>n</ex>s</expan> plus aquis de ceste convenance. <expan>q<ex>ue</ex></expan> la moitié. Se <expan>au<ex>cun</ex>s</expan> fet convenance a celui qui est soz mis a sa droiture Il aquiert a li
+                        <expan>au<ex>cun</ex>e</expan> chose. Il n’i est pas obligiez. mes se martins te <expan>p<ex>ro</ex>met</expan> qu'il fera tant <expan>q<ex>ue</ex></expan> tyces te donra .v. <expan><ex>deniers</ex></expan>. martins i est obligiez. ¶ Se <expan>au<ex>cun</ex>s</expan> fet fere convenance a <expan>au<ex>cun</ex></expan> autre. <expan>q<ex>ue</ex></expan> a celi a cui droiture. Il est soz mis. il ne li fet riens. ¶
+                        <expan>Neporq<ex>ua</ex>nt</expan> la paie puet estre fete a .i. estrange par convenant. ¶ Si <expan><ex>com</ex>me</expan> se <expan>au<ex>cun</ex>s</expan> fet ceste convenance. ¶ Tu me <expan>p<ex>ro</ex>mez</expan> <expan>q<ex>ue</ex></expan> tu me donras a moi <expan><ex>et</ex></expan> a tyce .v. <expan><ex>deniers</ex></expan>. li obligemenz en est aquis a celui a cui l'en fet le
+                        <expan>convena<ex>n</ex>t</expan> <expan><ex>et</ex></expan> la chose qui est <expan>p<ex>ro</ex>mise</expan> puet estre paiee a l'autre maugré celui qui fist le convenant <expan><ex>et</ex></expan> cil qui a <expan>p<ex>ro</ex>mis</expan> en est delivrés par droit. mes cil qui fist le convenant. se la chose est paiee a l'autre maugré sien. a <expan>actio<ex>n</ex>s</expan> de <expan>ma<ex>n</ex>dement</expan>
+                        <expan><ex>con</ex>tre</expan> celui qui la chose a reçue. Se <expan>au<ex>cun</ex>s</expan> met en convenant <expan>q<ex>ue</ex></expan> <expan>au<ex>cu</ex>ne</expan> chose sera paiee a lui <expan><ex>et</ex></expan> a .i. autre a cui droiture il n'est pas soz mis. la convenance vault. mes l'<expan>e<ex>n</ex></expan> doute. Se toute la convenance ou la moitié li est deue. mes il <expan>n<ex>ous</ex></expan> plest <expan>q<ex>ue</ex></expan> cil qui fist la convenance n'ait <expan>rie<ex>n</ex>s</expan> plus aquis de ceste convenance. <expan>q<ex>ue</ex></expan> la moitié. Se <expan>au<ex>cun</ex>s</expan> fet convenance a celui qui est soz mis a sa droiture Il aquiert a li
                         <expan>q<ex>ua</ex>r</expan> sa voiz est autresi
                         <expan><ex>com</ex>me</expan> la voiz de son filz.
                         <expan><ex>et</ex></expan> la voiz de
@@ -14773,7 +14629,7 @@
                     </div>
                     <div type="edition" n="3">
                       <head><title>Grand coutumier de Normandie</title></head>
-                      <p><supplied resp="#LM"><title xml:lang="lat">De justiciatione</title> ; <quote>De iustisement</quote> (la rubrique est absente, mais le titre est mentionné dans la table des matières, f. 97v)</supplied></p>
+                      <p><supplied resp="#LM"><title xml:lang="lat">De justiciatione</title></supplied><note><quote>De iustisement</quote> (la rubrique est absente, mais le titre est mentionné dans la table des matières, f. 97v)</note></p>
                       <p><hi rend="b">I</hi>ustisement est destrece qui est fete seur aucun por fere li fere droit de sa dete ou de son mesfet. <expan><ex>et</ex></expan> porce apert il que nus ne doit estre justiciez se il n'a avant fet cel mesfet de quoi il soit tenuz a fere satifacion ¶ Trois choses sont par quoi home doit estre justisiez. quant il passe le terme qui li est mis a fare ce que il doit. qant il despit justice. qant il fet tort a autrui. ¶ Por terme passé est home justiciez qant terme li est assis a aucun paier. sa rente <expan><ex>et</ex></expan> il ne la paie au terme ne ne l'offre il doit estre justiciez tant que il ait fet gré avenanment. ou que il ait doné pleges d'estre a droit,
                         <expan><ex>et</ex></expan> cel trespassement de fine sont apelez defaute. ¶ Tele maniere de justice doit estre fete par prendre ses nanz ou ses muebles.
                         <expan><ex>et</ex></expan> se l'en ne trueve el fie point de mueble. la justice doit estre par le fie.
@@ -14798,7 +14654,7 @@
                       <head>Suite de la compilation juridique tirée des <title>Institutes</title> et du <title>Digeste vieux</title></head>
                       <p><seg type="rubric"><expan><ex>Com</ex>ment</expan>
                         <expan>chas<ex>cun</ex></expan> doit user en soi du droit qu'il establist a un autre <pb n="f. 172v" /></seg>
-                        <supplied resp="#LM">D 2.2, <title xml:lang="lat">Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur</title></supplied></p>
+                        <supplied resp="#LM"><title xml:lang="lat">Quod quisque iuris in alterum statuerit, ut ipse eodem iure utatur</title></supplied><note>D 2.2</note></p>
                       <p><hi rend="b">U</hi>lpians dist. <hi rend="b">C</hi>ist bannissemenz
                         <expan><ex>con</ex>tinet</expan>. tres grant leauté. et nus ne s'en corrouce par droit. qui groucera se l'en li fet le jugement <expan>q<ex>u</ex></expan>'il a fet a autres. ou <expan>q<ex>u</ex></expan>'il leur fet fere. ¶ Se cil qui a baillie o poesté seur aucun establist .i. nouvau droit. il devra aucune foiz user de ce meisme droit
                         <expan><ex>con</ex>tre</expan> soi meismes. se ses aversaires le requiert. ¶ Se aucuns a porchacié aucune chose de nouvau droit sus aucuns par devant bailli ou par devant autre qui ait poostez. l'en jugera puis aucune foiz
@@ -14829,9 +14685,7 @@
                         <expan>q<ex>ue</ex></expan> ce qui est paié pour cete cause. ne puet estre <expan>dema<ex>n</ex>dé</expan> arrieres. <expan>q<ex>ua</ex>r</expan> toujorz remeint la naturel cause qui deffent <expan>q<ex>u</ex></expan>'il soit <expan>dema<ex>n</ex>dez</expan> arrieres.</p>
                       <p><hi rend="b">G</hi>aius dit. <hi rend="b">L</hi>i prevolz excepta .i. cas. Ce est
                         <expan>q<ex>ua</ex>nt</expan> aucuns veult user de nouvel droit <expan><ex>con</ex>tre</expan> celi qui en usa <expan>p<ex>re</ex>mierement</expan>. et ce est a bon droit <expan>q<ex>ue</ex></expan> li juges qui veult desfendre le bennissement. Ou aucuns qui veult avoir en le benefice n'enchiee en peinne.</p>
-                      <p><seg type="rubric">Cist tytres parole
-                        <expan><ex>com</ex>ment</expan> chascun doit obeir a son juge</seg>
-                        <supplied resp="#LM">D 2.3, <title xml:lang="lat">Si quis ius dicenti non obtemperavit</title></supplied></p>
+                      <p><seg type="rubric">Cist tytres parole <expan><ex>com</ex>ment</expan> chascun doit obeir a son juge</seg><note>D 2.3, <title xml:lang="lat">Si quis ius dicenti non obtemperavit</title></note></p>
                       <p><hi rend="b">U</hi>lpians dit. il est octroié a touz les bailliz selonc la droiture de leur poosté. fors sanz plus au desfendeors des citez que il desfendent leur juridicion. par peinne de chatel. Cil n'obeist pas au juge qui fet la derreniere chose qui est en la juridicion. ja soit ce <expan>q<ex>u</ex></expan>'il en fet le
                         <expan><ex>com</ex>mencement</expan>. si
                         <expan><ex>com</ex>me</expan> se il ne souffri pas
@@ -14879,9 +14733,9 @@
                     <msItem xml:id="montpellier_h47_digestumvetus">
                       <msItem xml:id="montpellier_h47_digestumvetus_livre1">
                         <locus from="3a" to="13d"/>
-                        <title type="section" xml:lang="fr">Livre I <supplied resp="#FD">incomplet du début et de la fin</supplied></title>
+                        <title type="section" xml:lang="fr">Livre I<note>incomplet du début et de la fin</note></title>
                         <incipit xml:lang="fro">Et aprés ce puis que aucuns ans furent passés <expan><ex>et</ex></expan> les .xii. tables furent fetes, li pueples contendoit as majeurs de la cité car li pueples voloit qu’il i eust consuls d’aus ausi com des majeurs, et li majeur ne s’i acordoient mie. Dom il fu ensi fet qu’il firent tribuns de chevaliers une partie deu pueple... <supplied resp="#FD">D. 1.2.25</supplied></incipit>
-                        <explicit xml:lang="fro">...porce qu’il est noiseus ou mesfaisant il <expan>convie<ex>n</ex>t</expan> qu’il s’en gart... <supplied resp="#FD">D. 1.19.3.1</supplied></explicit>
+                        <explicit xml:lang="fro">...porce qu’il est noiseus ou mesfaisant il <expan>convie<ex>n</ex>t</expan> qu’il s’en gart... <note>D. 1.19.3.1</note></explicit>
                         <msItem>
                           <title type="sub">[D. 1.1-2.24]</title>
                           <incipit><supplied resp="#FD">Lacune. Figurait sur les f. 1 et 2, aujourd’hui perdus</supplied></incipit>
@@ -14994,7 +14848,7 @@
                       </msItem>
                       <msItem xml:id="montpellier_h47_digestumvetus_livre2">
                         <locus from="15a" to="30d"/>
-                        <title type="section" xml:lang="fr">Livre II <supplied resp="#FD">incomplet du début</supplied></title>
+                        <title type="section" xml:lang="fr">Livre II<note>incomplet du début</note></title>
                         <incipit xml:lang="fro">...prent l’en vengance de ce qu’il
                           <expan>despise<ex>n</ex>t</expan> la hautece au preteur... <supplied resp="#FD">D. 2.1.9</supplied></incipit>
                         <explicit xml:lang="fro">...se li oirs qui li devoit rendre fist transaccion au deteur de l’iretaje qui riens n’en savoit.</explicit>
@@ -15225,7 +15079,7 @@
                           <title type="sub">[D. 5.1]</title>
                           <incipit><seg type="rubric">Des jugemens
                             <expan><ex>et</ex></expan>
-                            <supplied resp="#FD">...</supplied>
+                            <gap/>
                             <expan>e<ex>n</ex></expan> quiex leus l’<expan>e<ex>n</ex></expan> doit fere droit
                             <expan><ex>et</ex></expan>
                             <expan>prendr<ex>e</ex></expan> droit</seg></incipit>
@@ -15611,7 +15465,7 @@
                         <title type="section" xml:lang="fr">Livre XIV</title>
                         <incipit xml:lang="fro"><seg type="rubric">Ci commence li .xiiii. livres qui parole d’une accion que l’en apele excercitoire.</seg>
                           <lb/>Ulpians dit : Il n’est nus qui ne puisse bien savoir le profit de cest titre car...</incipit>
-                        <explicit xml:lang="fro">...se l’en li demande par cele promesse qu’il fist il se deff<supplied resp="#FD">e</supplied>ndra par exception en fet.</explicit>
+                        <explicit xml:lang="fro">...se l’en li demande par cele promesse qu’il fist il se <choice><sic>deffndra</sic><corr>deffendra</corr></choice> par exception en fet.</explicit>
                         <msItem>
                           <locus from="177b"/>
                           <title type="sub">[D. 14.1]</title>
@@ -15965,10 +15819,8 @@
                           <expan>fe<ex>m</ex>me</expan> tant com il soient ensamble.</seg>
                           <lb/>Ulpians dit : Il est acoustumee chose entre nos que donations entre le mari <expan>et</expan> la femme ne vaillent</incipit>
                         <explicit xml:lang="fro">...nos disons que ele a pooir de marier soi maintenant a autre <expan><ex>et</ex></expan> por ce se li franchissieres en fiancha une autre ou il fet
-                          <expan>sambla<ex>n</ex>t</expan> qu’il en vueille avoir une autre ou il desirete autre mariaje, l’en puet croire qu’il ne viaut plus cele. Et ce meimes dirons s’il prent une sognant.<lb/>Explicit Digeste vieille <supplied resp="#FD">d’une encre brune, proche de celle utilisée pour la foliotation ou pour la copie de la table intermédiaire, et d’une main différente de celle du copiste, mais sans doute peu éloignée chronologiquement</supplied>
-                          <lb/>
-                          <foreign xml:lang="lat">Explicit, expliceat Ludere scriptor eat</foreign>
-                          <supplied resp="#FD">de la main du copiste</supplied>.</explicit>
+                          <expan>sambla<ex>n</ex>t</expan> qu’il en vueille avoir une autre ou il desirete autre mariaje, l’en puet croire qu’il ne viaut plus cele. Et ce meimes dirons s’il prent une sognant.<lb/>Explicit Digeste vieille<note>d’une encre brune, proche de celle utilisée pour la foliotation ou pour la copie de la table intermédiaire, et d’une main différente de celle du copiste, mais sans doute peu éloignée chronologiquement</note>
+                          <lb/><foreign xml:lang="lat">Explicit, expliceat Ludere scriptor eat</foreign><note>de la main du copiste</note>.</explicit>
                         <msItem>
                           <locus from="293d"/>
                           <title type="sub">[D. 24.1]</title>
@@ -16498,9 +16350,9 @@
                       <expan>arge<ex>n</ex>t</expan>
                       <expan>q<ex>ue</ex></expan> tu ne me semonssisses
                       <expan>p<ex>ar</ex></expan> devant le juge.
-                      <expan><ex>et</ex></expan> ensi fis pés a toi. se tu n<supplied resp="#FD">e</supplied> me veus aseurer que tu ne me semondres. la <expan>questio<ex>n</ex>s</expan> est se je te puis demander l’<expan>arge<ex>n</ex>t</expan>. que je te baillie. <expan><ex>et</ex></expan> la verités est qu’il i a
+                      <expan><ex>et</ex></expan> ensi fis pés a toi. se tu <choice><sic>n</sic><corr>ne</corr></choice> me veus aseurer que tu ne me semondres. la <expan>questio<ex>n</ex>s</expan> est se je te puis demander l’<expan>arge<ex>n</ex>t</expan>. que je te baillie. <expan><ex>et</ex></expan> la verités est qu’il i a
                       <expan>g<ex>ra</ex>nt</expan> differance se je te baillie l’<expan>arge<ex>n</ex>t</expan> por ce
-                      <expan>seuleme<ex>n</ex>t</expan> que tu ne me semonssisses ou porce avec qu<supplied resp="#FD">e</supplied> tu ne m’aseurasses <expan>q<ex>ue</ex></expan> tu ne me semondroies <expan><ex>et</ex></expan> se por ce le te baillie que tu m’aseurasses. se tu ne m’aseures je le te puis demander. Mes se por ce <expan>seuleme<ex>n</ex>t</expan> je te baillie que tu ne me semonsisses. tantdis com tu ne me
+                      <expan>seuleme<ex>n</ex>t</expan> que tu ne me semonssisses ou porce avec <choice><sic>qu</sic><corr>que</corr></choice> tu ne m’aseurasses <expan>q<ex>ue</ex></expan> tu ne me semondroies <expan><ex>et</ex></expan> se por ce le te baillie que tu m’aseurasses. se tu ne m’aseures je le te puis demander. Mes se por ce <expan>seuleme<ex>n</ex>t</expan> je te baillie que tu ne me semonsisses. tantdis com tu ne me
                       <expan>semo<ex>n</ex>s</expan> je ne te puis
                       <expan>rie<ex>n</ex>s</expan> demander <label>[1]</label> autretel. sera se je te baill argent porce que tu franchisses ton serf car selonc la <sic>stuitition</sic>
                       <expan>p<ex>ar</ex></expan> desus porrai je demander l’<expan>arge<ex>n</ex>t</expan> ou non <label>[2]</label> Mes se je te baill <expan>arge<ex>n</ex>t</expan> por ce
@@ -16554,7 +16406,7 @@
                       <hi rend="b">C</hi>ist meimes dit en livre des disputitisons. <label>[pr.]</label> Se ge te baillie
                       <expan>arge<ex>n</ex>t</expan> por ce que tu alas a
                       <expan>q<ex>u</ex>apes</expan> et tu estoies aparilliés d’aller .i. Mes maladie ou mauvais tens te destorba que tu n’i pues aler. veons se je le puis demander.
-                      <expan><ex>et</ex></expan> puis qu’il ne demeure por toi. Je nes puis demander mes porce que je me puis repentier avant qu<supplied resp="#FD">e</supplied> tu i ailles Je puis demander ce que je te baillie. se je m’en repent. ¶ Se tu ne dois avoir damage en ce que tu receus l’<expan>arge<ex>n</ex>t</expan> par ceste raison. car se la chose est einsi que ja soit ce que tu ne soies meus a aler Ne por <expan>q<ex>ua</ex>nt</expan> tu as fet
+                      <expan><ex>et</ex></expan> puis qu’il ne demeure por toi. Je nes puis demander mes porce que je me puis repentier avant <choice><sic>qu</sic><corr>que</corr></choice> tu i ailles Je puis demander ce que je te baillie. se je m’en repent. ¶ Se tu ne dois avoir damage en ce que tu receus l’<expan>arge<ex>n</ex>t</expan> par ceste raison. car se la chose est einsi que ja soit ce que tu ne soies meus a aler Ne por <expan>q<ex>ua</ex>nt</expan> tu as fet
                       <expan>despe<ex>n</ex>s</expan> en aparillier toi si que tu as espoir plus despendu que tu n’avoies receu. Je <pb n="f. 160b"/> ne te puis rien demander. Mes se tu as mains despendu Je porai demander le sorplus Ne por
                       <expan>q<ex>ua</ex>nt</expan> en tel maniere que tu n’i aies damaje. ¶ <label>[1]</label> Se aucuns baille son serf. a autre porce qu’il le franchisse dedens certain jor. se cil qui le bailla se <expan>repe<ex>n</ex>t</expan>.
                       <expan><ex>et</ex></expan> il le fait savoir a l’autre.

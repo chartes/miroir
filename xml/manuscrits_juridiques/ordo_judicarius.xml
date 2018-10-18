@@ -1012,9 +1012,9 @@
                     </supportDesc>
                   </objectDesc>
                   <handDesc hands="1">
-                    <p><label>Écriture</label> de type <term xml:lang="lat" cRef="URI_terme_thesaurus">hybrida currens</term> pour le corps du texte ; <term xml:lang="lat" cRef="URI_terme_thesaurus">semihybrida formata</term> de gros module pour la notation de l’intitulé des titres – le colophon indique le nom du copiste et la date de la copie : <quote>Chy fenist li Ordinaire maistre Tancrey
-                      <expan>chanoi<ex>n</ex>ne</expan> de Boulogne<lb/>Hic liber est scriptus qui scripsit sit benedictus<lb/>Amen Goysson
-                      <supplied resp="#FD">paraphe</supplied> per manus scriptus<lb/>Anno.......................................1474<hi rend="sup">to</hi></quote> – aucun changement de main patent dans la copie du texte : le copiste a dû copier le texte, l’intitulé des titres et sans doute réaliser les rehauts et soulignements ainsi que les initiales rubriquées. Noter que le folioteur a ajouté des références aux feuillets dans la table en face de l’intitulé des titres et qu’il a ajouté dans une <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term> les titres qui avaient été omis — coefficient d’abréviation : 12,5 (d’après le nombre de caractères italiques consécutifs dans les 1000 premiers mots de l’extrait édité).</p>
+                    <p><label>Écriture</label> de type <term xml:lang="lat" cRef="URI_terme_thesaurus">hybrida currens</term> pour le corps du texte ; <term xml:lang="lat" cRef="URI_terme_thesaurus">semihybrida formata</term> de gros module pour la notation de l’intitulé des titres – le colophon indique le nom du copiste et la date de la copie : <quote>Chy fenist li Ordinaire maistre Tancrey <expan>chanoi<ex>n</ex>ne</expan> de Boulogne<lb/>Hic liber est scriptus qui scripsit sit benedictus
+                      <lb/>Amen Goysson <supplied resp="#FD">paraphe</supplied> per manus scriptus
+                      <lb/>Anno.......................................1474<hi rend="sup">to</hi></quote> – aucun changement de main patent dans la copie du texte : le copiste a dû copier le texte, l’intitulé des titres et sans doute réaliser les rehauts et soulignements ainsi que les initiales rubriquées. Noter que le folioteur a ajouté des références aux feuillets dans la table en face de l’intitulé des titres et qu’il a ajouté dans une <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term> les titres qui avaient été omis — coefficient d’abréviation : 12,5 (d’après le nombre de caractères italiques consécutifs dans les 1000 premiers mots de l’extrait édité).</p>
                     <p><label>Scripta</label>la scripta est caractéristique du nord-est de l’aire picarde. Parmi ses caractéristiques les plus marquantes, citons : <list rend="bulleted">
                       <item>notation graphique du résultat de /a/ latin tonique libre par <hi rend="i">ei</hi> (<bibl>Gossen,
                         <title>Grammaire</title> [<foreign xml:lang="lat">infra</foreign> Gossen], § 1</bibl>) :
@@ -4284,7 +4284,7 @@
                       <title type="section" xml:lang="fr">Prologue et livre I</title>
                       <incipit xml:lang="fro"><seg type="rubric">Chi
                         <expan><ex>com</ex>mence</expan>
-                        <supplied resp="#FD">...........</supplied> maestre Tancré chanoigne de Boloigne du <expan>p<ex>re</ex>mier</expan> livre. D’ensaignement.</seg><lb/>Mi conpaignon vos vos estes grant pieche a entremis que je vous feisse .i. livret par quoy li demanderres fust ensaigniés comment il doit demander...</incipit>
+                        <gap/> maestre Tancré chanoigne de Boloigne du <expan>p<ex>re</ex>mier</expan> livre. D’ensaignement.</seg><lb/>Mi conpaignon vos vos estes grant pieche a entremis que je vous feisse .i. livret par quoy li demanderres fust ensaigniés comment il doit demander...</incipit>
                       <explicit xml:lang="fro">Si <expan><ex>com</ex>me</expan>
                         <expan>no<ex>us</ex></expan>
                         <expan>avo<ex>n</ex></expan> en Code el titre des procurators en une loy <expan>q<ex>ui</ex></expan>
@@ -5485,9 +5485,7 @@
                   </msItem>
                   <msItem n="3" xml:id="fr_25546_ezechiel">
                     <locus from="139b" to="139d"/>
-                    <title type="partie" xml:lang="fr">Prognostics d’Ezéchiel (en vers)
-                      <supplied>titre : <title xml:lang="lat">Incipit liber Ezechie
-                        <expan>p<ex>ro</ex>ph<ex>et</ex>e</expan> de divisione annorum</title> f. 139b</supplied>.</title>
+                    <title type="partie" xml:lang="fr">Prognostics d’Ezéchiel (en vers) <note>titre : <title xml:lang="lat">Incipit liber Ezechie <expan>p<ex>ro</ex>ph<ex>et</ex>e</expan> de divisione annorum</title> f. 139b</note>.</title>
                     <incipit xml:lang="fro">[E]n terre de labour et de
                       <expan>p<ex>ro</ex>mission</expan><lb/> Ot jadis .i.
                       <expan>p<ex>ro</ex>dome</expan> Ezechiel ot
@@ -7214,15 +7212,12 @@
                     <persName role="traducteur" ref="???">anonyme</persName> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb10772918v">Ordo judiciarius</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb129804640" n="Tancrède de Bologne">Tancrède de Bologne</persName> (f. 10v-137v) (sigle I).</summary>
                   <msItem n="1" xml:id="stomer_545_traitédroit">
                     <locus from="1" to="9v"/>
-                    <title type="partie" xml:lang="fr">compilation de droits coutumiers
-                      <supplied>titre f. 1 (main du 18e s.) : <title>Traicté de droit civil</title></supplied>. </title>
+                    <title type="partie" xml:lang="fr">compilation de droits coutumiers <add>Traicté de droit civil<note>Titre f. 1 (main du 18e s.).</note></add>. </title>
                     <note>Amputé du début, puisque les chapitres sont numérotés de 60 à 99. Il ne s’agit pas d’une coutume du pays de Flandre, comme pourrait le faire croire l’explicit du f. 9v, puisque des allusions sont faites à de nombreux usages et coutumes (coutume de France, style du Parlement de Paris, rappel de jugements divers). Le texte a été complété par une main contemporaine différente (f. 9-9v), postérieure à la rubrication du manuscrit et à la confection des initiales du traité. C’est pourquoi nous donnons l’explicit primitif et l’explicit du texte complété.</note>
                     <incipit xml:lang="fro"><seg type="rubric">Assavoir se le demandeur a fait en son adjournement ses demandes, se le deffenseur avra jour de conseil. .lx.</seg><lb/>Se partie fait mettre en son adjournement les demandes qu’elle entent a faire a son deffendeur...</incipit>
-                    <explicit xml:lang="fro"><seg type="rubric">Question seur provision requise par Jehan de Praelles contre les religieus de saint Maard sur la maison de Ruigny. iii<hi rend="sup">xx</hi>xix.</seg><lb/>Memoire de Jean de Pourelles qui requeroit de l’eglise de saint Maard de Soissons que
-                      <expan><ex>com</ex>me</expan> une
-                      <expan>p<ex>er</ex>mission</expan>... <supplied>explicit de la main qui a copié le reste du texte</supplied></explicit>
+                    <explicit xml:lang="fro"><seg type="rubric">Question seur provision requise par Jehan de Praelles contre les religieus de saint Maard sur la maison de Ruigny. iii<hi rend="sup">xx</hi>xix.</seg><lb/>Memoire de Jean de Pourelles qui requeroit de l’eglise de saint Maard de Soissons que <expan><ex>com</ex>me</expan> une <expan>p<ex>er</ex>mission</expan>... <note>explicit de la main qui a copié le reste du texte</note></explicit>
                     <explicit>Par l’us et la coustume dou païs de Flandres dessusdit se aucuns des mainnés muert aprés la mort dou pere, sa portion vient par droit d’escheoite a tous ses frerez tant ainnez
-                      <expan><ex>com</ex>me</expan> mainnez par portion egalez soit mors <expan>civilem<ex>en</ex>t</expan>, c’est assavoir mis en religion ou naturelment. <supplied>pourrait être ajout d’une autre main, f. 9-9v</supplied></explicit>
+                      <expan><ex>com</ex>me</expan> mainnez par portion egalez soit mors <expan>civilem<ex>en</ex>t</expan>, c’est assavoir mis en religion ou naturelment. <note>pourrait être ajout d’une autre main, f. 9-9v</note></explicit>
                   </msItem>
                   <msItem n="2" xml:id="stomer_545_ordo">
                     <locus from="10v" to="137v"/>
