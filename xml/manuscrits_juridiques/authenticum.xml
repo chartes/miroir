@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <!--<?xml-stylesheet type="text/xsl" href="../xsl/oeuvre_2.xsl"?>-->
@@ -395,7 +395,7 @@
                         <msItem>
                           <locus from="1"/>
                           <title type="sub">[Prooemium]</title>
-                          <incipit><supplied resp="#FD">sans rubrique.<seg type="incipit"><supplied resp="#FD">I</supplied>l convient que la magesté de l’empereur soit aournee non mie tant seulement d’armes mais de loys...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">I</supplied>l convient que la magesté de l’empereur soit aournee non mie tant seulement d’armes mais de loys...</incipit>
                         </msItem>
                         <msItem>
                           <locus from="2"/>
@@ -3860,8 +3860,7 @@
                         <msItem>
                           <locus from="19b"/>
                           <title type="sub">[Inst. 2.19]</title>
-                          <incipit><seg type="rubric">Cist titres est de la <sic>quinte
-</sic> et de la <expan>diff<ex>er</ex>ence</expan> dez hoirs</seg></incipit>
+                          <incipit><seg type="rubric">Cist titres est de la <sic>quinte</sic> et de la <expan>diff<ex>er</ex>ence</expan> dez hoirs</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="19d"/>
