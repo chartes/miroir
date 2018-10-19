@@ -956,7 +956,8 @@
                       <msItem>
                         <locus from="114"/>
                         <title type="sub">[IV.1]</title>
-                        <incipit><supplied resp="#FD"><title xml:lang="lat">De sententiis et interlocutionibus</title>; absence de rubrique;<seg type="incipit">Pour ce que sentence diffinitive met fin en tous plais...</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De sententiis et interlocutionibus</title>
+                        <incipit><supplied resp="#FD">; absence de rubrique;<seg type="incipit">Pour ce que sentence diffinitive met fin en tous plais...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="118"/>
@@ -1570,7 +1571,8 @@
                       <msItem>
                         <locus from="48a"/>
                         <title type="sub">[III.1]</title>
-                        <incipit><supplied resp="#FD"><title xml:lang="lat">De litis constestatione</title>; sans titre rubriqué ;<seg type="incipit">Nos nos sumes despechié des choses qui
+                        <title xml:lang="lat" resp="#FD">De litis constestatione</title>
+                        <incipit><supplied resp="#FD">; sans titre rubriqué ;<seg type="incipit">Nos nos sumes despechié des choses qui
                           <expan>souva<ex>n</ex>t</expan> sont feites en jugement <expan>deva<ex>n</ex>t</expan> l’entree de la
                           <expan>pri<ex>n</ex>cipal</expan> cause...</seg></supplied></incipit>
                       </msItem>
@@ -4522,7 +4524,8 @@
                       <msItem>
                         <locus from="48a"/>
                         <title type="sub">[III.1]</title>
-                        <incipit><supplied resp="#FD"><title xml:lang="lat">De litis constestatione</title> ; sans titre rubriqué ;<seg type="incipit">Nos <expan>no<ex>us</ex></expan>
+                        <title xml:lang="lat" resp="#FD">De litis constestatione</title>
+                        <incipit><supplied resp="#FD"> ; sans titre rubriqué ;<seg type="incipit">Nos <expan>no<ex>us</ex></expan>
                           <expan>so<ex>m</ex>mes</expan> despeeschié des choses qui sovent sont faetes en jugement</seg></supplied></incipit>
                       </msItem>
                       <msItem>

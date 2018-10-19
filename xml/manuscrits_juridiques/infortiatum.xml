@@ -18,7 +18,7 @@
           <resp>établissement de la notice, 2006</resp>
         </respStmt>
         <respStmt>
-        <name xml:id="GP">Graziella Pastore</name>
+          <name xml:id="GP">Graziella Pastore</name>
           <resp>Rédaction de notices</resp>
         </respStmt>
         <respStmt>
@@ -187,7 +187,8 @@
                         <msItem>
                           <locus from="1a"/>
                           <title type="sub">[D. 24.3]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Soluto matrimonio dos quemadmodum petatur</title> ; incomplet du début : commence au milieu du paragraphe D. 24.3.9 ;<seg type="incipit">ge, quar li fruit de tout l’an sont conté ensenble. ¶ Se il est demoré
+                          <title xml:lang="lat" resp="#FD">Soluto matrimonio dos quemadmodum petatur</title>
+                          <incipit><supplied resp="#FD"> ; incomplet du début : commence au milieu du paragraphe D. 24.3.9 ;<seg type="incipit">ge, quar li fruit de tout l’an sont conté ensenble. ¶ Se il est demoré
                             <expan>p<ex>ar</ex></expan> la feme
                             <expan>q<ex>ue</ex></expan> ele n’a receu son douere li mari i doit rendre ce qui est
                             <expan>p<ex>er</ex>du</expan> par sa tricherie</seg></supplied></incipit>
@@ -298,7 +299,8 @@
                         <msItem>
                           <locus from="26b"/>
                           <title type="sub">[D. 26.8]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De auctoritate et consensu tutorum et curatorum</title> ; ni réserve, ni rubrique ;<seg type="incipit">Ulpians dit : Ja soit de que ce est <pb n="f. 26c"/> une ruille du droit citoien que cil qui a .i. orfelin en garde ne puet donner auctorité a l’orfelin de fere nule chose de quoi li preus soit siens.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De auctoritate et consensu tutorum et curatorum</title>
+                          <incipit><supplied resp="#FD"> ; ni réserve, ni rubrique ;<seg type="incipit">Ulpians dit : Ja soit de que ce est <pb n="f. 26c"/> une ruille du droit citoien que cil qui a .i. orfelin en garde ne puet donner auctorité a l’orfelin de fere nule chose de quoi li preus soit siens.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="28a"/>
@@ -1403,7 +1405,8 @@
                         <msItem>
                           <locus from="18b"/>
                           <title type="sub">[D. 26.7]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De administratione et periculo tutorum et curatorum qui gesserint vel non et de agentibus vel conveniendis uno vel pluribus</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit li deffenderres seult estre
+                          <title xml:lang="lat" resp="#FD">De administratione et periculo tutorum et curatorum qui gesserint vel non et de agentibus vel conveniendis uno vel pluribus</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit li deffenderres seult estre
                             <expan>co<ex>n</ex>trainz</expan> hors d’ordre de fere les besoignes</seg></supplied></incipit>
                         </msItem>
                         <msItem>
@@ -1538,7 +1541,8 @@
                         <msItem>
                           <locus from="57c"/>
                           <title type="sub">[D. 28.7]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De condicionibus institutionum</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Il nos plaist que instrucion qui est fete soz condicion qui ne puet avenir ou en aucune autre maniere ne soit pas quassee.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De condicionibus institutionum</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Il nos plaist que instrucion qui est fete soz condicion qui ne puet avenir ou en aucune autre maniere ne soit pas quassee.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="59b"/>
@@ -1556,41 +1560,48 @@
                         <msItem>
                           <locus from="59d"/>
                           <title type="sub">[D. 29.1]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De testamento militis</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Julius Cesar dona premierement a
+                          <title xml:lang="lat" resp="#FD">De testamento militis</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Julius Cesar dona premierement a
                             <expan>ch<ex>evalie</ex>rs</expan> pooir de fere testament mes cil otroiz est temporels...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="62d"/>
                           <title type="sub">[D. 29.2]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De adquirenda vel omittenda hereditate</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Paulus dit : Cil qui puet aquierre tout .i. heritage ne le puet pas despecier por recevoir en une partie.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De adquirenda vel omittenda hereditate</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Paulus dit : Cil qui puet aquierre tout .i. heritage ne le puet pas despecier por recevoir en une partie.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="68b"/>
                           <title type="sub">[D. 29.3]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Testamenta quemadmodum aperiuntur inspiciantur et describantur</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Gaius dit : Li prevost promet <expan>q<ex>ue</ex></expan> il donra a toz cels qui voldront veoir <expan><ex>et</ex></expan> contre escrire les tables del testament por oïr et veoir les et d’escontrescrire.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Testamenta quemadmodum aperiuntur inspiciantur et describantur</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Gaius dit : Li prevost promet <expan>q<ex>ue</ex></expan> il donra a toz cels qui voldront veoir <expan><ex>et</ex></expan> contre escrire les tables del testament por oïr et veoir les et d’escontrescrire.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="71a"/>
                           <title type="sub">[D. 29.4]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Si quis omissa causa testamenti ab intestato vel alio modo possideat hereditatem</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Li prevost garantist la volenté as morz
+                          <title xml:lang="lat" resp="#FD">Si quis omissa causa testamenti ab intestato vel alio modo possideat hereditatem</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Li prevost garantist la volenté as morz
                             <expan><ex>et</ex></expan> va contre la malevoidie a cels qui lessent la cause del testament.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="71a"/>
                           <title type="sub">[D. 29.5]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De senatus consulto Silaniano et Claudiano quorum testamenta ne aperiantur</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Por ce <expan>q<ex>ue</ex></expan> nule meson ne puet estre seure se li serf ne sont contraint par peril de lor chief de garder lor seignors de privez
+                          <title xml:lang="lat" resp="#FD">De senatus consulto Silaniano et Claudiano quorum testamenta ne aperiantur</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Por ce <expan>q<ex>ue</ex></expan> nule meson ne puet estre seure se li serf ne sont contraint par peril de lor chief de garder lor seignors de privez
                             <expan><ex>et</ex></expan> d’estanges...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="73b"/>
                           <title type="sub">[D. 29.6]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Si quis aliquem testari prohibuerit vel cogerit</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Se aucun est covoiteus d’avoir heritage sanz
+                          <title xml:lang="lat" resp="#FD">Si quis aliquem testari prohibuerit vel cogerit</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Se aucun est covoiteus d’avoir heritage sanz
                             <expan>testame<ex>n</ex>t</expan> et il deffent que testament n’en soit fez ou il le fet raver malgré a celui qui le fist...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="73c"/>
                           <title type="sub">[D. 29.7]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De jure codicillorum</title> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dit : Il a sovent escrit
+                          <title xml:lang="lat" resp="#FD">De jure codicillorum</title>
+                          <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dit : Il a sovent escrit
                             <expan><ex>et</ex></expan> establi
                             <expan>q<ex>ue</ex></expan> se aucuns cuide fere testament...</seg></supplied></incipit>
                         </msItem>
@@ -1606,7 +1617,8 @@
                         <msItem>
                           <locus from="74b"/>
                           <title type="sub">[D. 30.0]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De legatis et fideicommissis</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Lés <expan><ex>et</ex></expan> choses enjointes sont oels en toutes choses.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De legatis et fideicommissis</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Lés <expan><ex>et</ex></expan> choses enjointes sont oels en toutes choses.</seg></supplied></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre7">
@@ -1663,24 +1675,28 @@
                         <msItem>
                           <locus from="108a"/>
                           <title type="sub">[D. 33.2]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis</title> ; ni réserve ni rubrique ;<seg type="incipit">Paulus dit : Ne usaiges ne usaires ne puet estre lessiez de voie ne de santier ne de charriere ne de doiz d’eve.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De usu et de usu fructu et reditu et habitatione et operis per legatum vel fideicommissum datis</title>
+                          <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ;<seg type="incipit">Paulus dit : Ne usaiges ne usaires ne puet estre lessiez de voie ne de santier ne de charriere ne de doiz d’eve.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="111b"/>
                           <title type="sub">[D. 33.3]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De servitute legata</title> ; ni réserve ni rubrique ;<seg type="incipit">Paulus dit : Cil qui avoit .ii. fenestres joingnanz les lessa a .ii.
+                          <title xml:lang="lat" resp="#FD">De servitute legata</title>
+                          <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ;<seg type="incipit">Paulus dit : Cil qui avoit .ii. fenestres joingnanz les lessa a .ii.
                             <expan>ho<ex>m</ex>es</expan> a chascun la seue.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="111c"/>
                           <title type="sub">[D. 33.4]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De dote praelegata</title> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dit : Quant doueres est lessiez a feme il est voirs
+                          <title xml:lang="lat" resp="#FD">De dote praelegata</title>
+                          <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dit : Quant doueres est lessiez a feme il est voirs
                             <expan>q<ex>ue</ex></expan> ce meisme est elles qui est en l’<expan>actio<ex>n</ex></expan> de douere.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="113c"/>
                           <title type="sub">[D. 33.5]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De optione vel electione legata</title> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dit : Li empereres Pius escrist a Procle
+                          <title xml:lang="lat" resp="#FD">De optione vel electione legata</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dit : Li empereres Pius escrist a Procle
                             <expan>q<ex>ue</ex></expan> cil a qui li chois est lessiez des sers en puet eslire trois.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
@@ -1703,7 +1719,8 @@
                         <msItem>
                           <locus from="122a"/>
                           <title type="sub">[D. 33.9]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De penu legata</title> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dit : Uns homs commanda a son hoir qu’il donast chascun an a sa feme aucune certaine chose de sa despense.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De penu legata</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dit : Uns homs commanda a son hoir qu’il donast chascun an a sa feme aucune certaine chose de sa despense.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="123a"/>
@@ -1736,7 +1753,8 @@
                         <msItem>
                           <locus from="130c"/>
                           <title type="sub">[D. 34.3]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De liberatione legata</title> ; sans réserve ni rubrique ;<seg type="incipit">Julians dit : L’en puet
+                          <title xml:lang="lat" resp="#FD">De liberatione legata</title>
+                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Julians dit : L’en puet
                             <expan>b<ex>ie</ex>n</expan> lessier a touz les deteurs ce qu’il doivent. Julius escrist
                             <expan>q<ex>ue</ex></expan> se li creancier lessent au deteur la chose
                             <expan>q<ex>ue</ex></expan> il li ont baillee en gages...</seg></supplied></incipit>
@@ -1960,14 +1978,16 @@
                         <msItem>
                           <locus from="202a"/>
                           <title type="sub">[D. 37.12]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Si a parente quis manumissus sit</title> ; sans réserve ni rubrique ;<seg type="incipit">Ulpians dit : Il qui ses peres met hors de sa poesté est autresi envers son <expan>p<ex>er</ex>e</expan>
+                          <title xml:lang="lat" resp="#FD">Si a parente quis manumissus sit</title>
+                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Ulpians dit : Il qui ses peres met hors de sa poesté est autresi envers son <expan>p<ex>er</ex>e</expan>
                             <expan><ex>com</ex>me</expan> cil qui est franchiz
                             <expan>env<ex>er</ex>s</expan> son patron...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="202b"/>
                           <title type="sub">[D. 37.13]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De bonorum possessione ex testamento militis</title> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dit : Il n’est mie doute
+                          <title xml:lang="lat" resp="#FD">De bonorum possessione ex testamento militis</title>
+                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dit : Il n’est mie doute
                             <expan>q<ex>ue</ex></expan> les derrenieres volantez a cels qui font leur testament entre leur anemis <expan><ex>et</ex></expan> qui
                             <expan>muere<ex>n</ex>t</expan> ne doient estre fermes.</seg></supplied></incipit>
                         </msItem>
@@ -2001,7 +2021,8 @@
                         <msItem>
                           <locus from="213a"/>
                           <title type="sub">[D. 38.3]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De libertis universitatium</title> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dit : Li mestre des <expan>garniso<ex>n</ex>s</expan> ont pleniere droiture sor <expan>ce<ex>l</ex>s</expan> et sor seles qu’il ont franchi autresi
+                          <title xml:lang="lat" resp="#FD">De libertis universitatium</title>
+                          <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dit : Li mestre des <expan>garniso<ex>n</ex>s</expan> ont pleniere droiture sor <expan>ce<ex>l</ex>s</expan> et sor seles qu’il ont franchi autresi
                             <expan><ex>com</ex>me</expan> li autre patron.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
