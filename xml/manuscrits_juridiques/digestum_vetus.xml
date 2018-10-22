@@ -4813,9 +4813,7 @@
                         <locus from="35a"/>
                         <title type="sub">[D. 2.13]</title>
                         <title xml:lang="lat" resp="#FD">De edendo</title>
-                        <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise (rien de correspondant dans la table) ;<seg type="incipit">Ulpians dit : <foreign xml:lang="lat" rend="underlined">Qua
-                          <expan>quisq<ex>ue</ex></expan></foreign>. Chascuns doit <expan>p<ex>re</ex>mierement</expan>
-                          <expan>no<ex>m</ex>mer</expan> l’action...</seg></supplied></incipit>
+                        <incipit>Ulpians dit : <foreign xml:lang="lat" rend="underlined">Qua <expan>quisq<ex>ue</ex></expan></foreign>. Chascuns doit <expan>p<ex>re</ex>mierement</expan> <expan>no<ex>m</ex>mer</expan> l’action...<note>Réserve prévue mais rubrique omise (rien de correspondant dans la table).</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="37b"/>
@@ -4826,8 +4824,7 @@
                         <locus from="44d"/>
                         <title type="sub">[D. 2.15]</title>
                         <title xml:lang="lat" resp="#FD">De transactionibus</title>
-                        <incipit><supplied resp="#FD"> ; sans réserve pour une rubrique (rien de correspondant dans la table) ;<seg type="incipit">Ulpians dit : <foreign rend="underlined" xml:lang="lat">Qui transigit</foreign>. Qui fet
-                          <expan>t<ex>ra</ex>nsaction</expan> il l’a fet autresi <expan><ex>com</ex>me</expan> de chose doteuse...</seg></supplied></incipit>
+                        <incipit>Ulpians dit : <foreign rend="underlined" xml:lang="lat">Qui transigit</foreign>. Qui fet <expan>t<ex>ra</ex>nsaction</expan> il l’a fet autresi <expan><ex>com</ex>me</expan> de chose doteuse...<note>Sans réserve pour une rubrique (rien de correspondant dans la table).</note></incipit>
                       </msItem>
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_livre3">
@@ -5034,15 +5031,13 @@
                         <locus from="121a"/>
                         <title type="sub">[D. 5.5]</title>
                         <title xml:lang="lat" resp="#FD">De possessoria hereditatis petitione</title>
-                        <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise (aucun titre correspondant dans la table) ;<seg type="incipit">Ulpians dit : <foreign xml:lang="lat" rend="underlined">Ordinarium</foreign>. Ce fu chose ordinaire <expan>ap<ex>ré</ex>s</expan> les citeaines actions qui sont
-                          <expan>p<ex>ro</ex>posees</expan> as oirs...</seg></supplied></incipit>
+                        <incipit>Ulpians dit : <foreign xml:lang="lat" rend="underlined">Ordinarium</foreign>. Ce fu chose ordinaire <expan>ap<ex>ré</ex>s</expan> les citeaines actions qui sont <expan>p<ex>ro</ex>posees</expan> as oirs...<note>Réserve prévue mais rubrique omise (aucun titre correspondant dans la table).</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="121a"/>
                         <title type="sub">[D. 5.6]</title>
                         <title xml:lang="lat" resp="#FD">De fideicommissaria hereditatis petitione</title>
-                        <incipit><supplied resp="#FD"> ; pas de réserve, rubrique omise (aucun titre correspondant dans la table) ;<seg type="incipit">Ulpians dit : <foreign xml:lang="lat" rend="underlined">Ex ordine</foreign>. Tot en ordre vient une action qui est
-                          <expan>p<ex>ro</ex>posé</expan> a cels a qui heritages est renduz.</seg></supplied></incipit>
+                        <incipit>Ulpians dit : <foreign xml:lang="lat" rend="underlined">Ex ordine</foreign>. Tot en ordre vient une action qui est <expan>p<ex>ro</ex>posé</expan> a cels a qui heritages est renduz.<note>Pas de réserve, rubrique omise (aucun titre correspondant dans la table).</note></incipit>
                       </msItem>
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_livre6">
@@ -5421,9 +5416,7 @@
                         <locus from="235b"/>
                         <title type="sub">[D. 13.4]</title>
                         <title xml:lang="lat" resp="#FD">De eo quod certo loco dari oportet</title>
-                        <incipit><supplied resp="#FD"> ; ni réserve prévue ni rubrique ;<seg type="incipit">Gaius dit :
-                          <foreign xml:lang="lat" rend="underlined">Alio</foreign>. Il ne sembloit pas a
-                          <expan>aucu<ex>n</ex>s</expan> eust pooir de pledier en autre lieu <expan>q<ex>ue</ex></expan> en celui en coi il mist en covenant...</seg></supplied></incipit>
+                        <incipit>Gaius dit : <foreign xml:lang="lat" rend="underlined">Alio</foreign>. Il ne sembloit pas a <expan>aucu<ex>n</ex>s</expan> eust pooir de pledier en autre lieu <expan>q<ex>ue</ex></expan> en celui en coi il mist en covenant...<note>Ni réserve prévue ni rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="236c"/>
@@ -5625,8 +5618,8 @@
                         <locus from="312b"/>
                         <title type="sub">[D. 18.3]</title>
                         <title xml:lang="lat" resp="#FD">De lege commissoria</title>
-                        <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise (aucun titre correspondant dans la table) ;<seg type="incipit">Ulpians dit : <foreign xml:lang="lat" rend="underlined">Si fundus</foreign>. Se .i. chans est venduz par tel
-                          <expan>covena<ex>n</ex>t</expan> que li achatierres ne l’ait pas...</seg></supplied></incipit>
+                        <incipit>Ulpians dit : <foreign xml:lang="lat" rend="underlined">Si fundus</foreign>. Se .i. chans est venduz par tel
+                          <expan>covena<ex>n</ex>t</expan> que li achatierres ne l’ait pas...<note>Réserve prévue mais rubrique omise (aucun titre correspondant dans la table).</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="313a"/>
@@ -6468,10 +6461,7 @@
                               <locus from="3d"/>
                               <title type="sub">[D. 1.2]</title>
                               <title xml:lang="lat" resp="#FD">De origine juris et omnium magistratum et successione prudentium</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne et pas de rubrique ;<seg type="incipit">Gayus dit : El <expan>p<ex>re</ex>mier</expan> livre de la loi des .xii. tables por ce
-                                <expan>q<ex>ue</ex></expan> ge voloie espondre les vieilles lois, il me semble
-                                <expan>q<ex>ue</ex></expan> il est necessaire chose <expan>q<ex>ue</ex></expan> ge recordasse le
-                                <expan><ex>com</ex>menceme<ex>n</ex>t</expan> de la cité de Rome.</seg></supplied></incipit>
+                              <incipit>Gayus dit : El <expan>p<ex>re</ex>mier</expan> livre de la loi des .xii. tables por ce <expan>q<ex>ue</ex></expan> ge voloie espondre les vieilles lois, il me semble <expan>q<ex>ue</ex></expan> il est necessaire chose <expan>q<ex>ue</ex></expan> ge recordasse le <expan><ex>com</ex>menceme<ex>n</ex>t</expan> de la cité de Rome.<note>Saut de ligne et pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="6d"/>
@@ -6489,14 +6479,14 @@
                               <locus from="7d"/>
                               <title type="sub">[D. 1.5]</title>
                               <title xml:lang="lat" resp="#FD">De statu hominum</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne mais pas de rubrique ;<seg type="incipit"><expan>Gai<ex>us</ex></expan> dist : Tout li droit de quoi <expan>no<ex>us</ex></expan> usons apartient as persones ou as actions ou as choses.</seg></supplied></incipit>
+                              <incipit><expan>Gai<ex>us</ex></expan> dist : Tout li droit de quoi <expan>no<ex>us</ex></expan> usons apartient as persones ou as actions ou as choses.<note>Saut de ligne mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="8d"/>
                               <title type="sub">[D. 1.6]</title>
                               <title xml:lang="lat" resp="#FD">De his qui sui vel alieni juris sunt</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne mais pas de rubrique ;<seg type="incipit"><expan>Gai<ex>us</ex></expan> dist : Aprés vient une autre condicion
-                                <expan><ex>et</ex></expan> division de la droiture des persones <expan>q<ex>ue</ex></expan> les unes des persones sont de leur nature, les autres sont sozmis a autrui droiture.</seg></supplied></incipit>
+                              <incipit><expan>Gai<ex>us</ex></expan> dist : Aprés vient une autre condicion
+                                <expan><ex>et</ex></expan> division de la droiture des persones <expan>q<ex>ue</ex></expan> les unes des persones sont de leur nature, les autres sont sozmis a autrui droiture.<note>Saut de ligne mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="9d"/>
@@ -6513,9 +6503,7 @@
                               <locus from="12d"/>
                               <title type="sub">[D. 1.9]</title>
                               <title xml:lang="lat" resp="#FD">De senatoribus</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dist : Nus ne doute <expan>q<ex>ue</ex></expan>
-                                <expan>u<ex>n</ex></expan>
-                                <expan>ho<ex>m</ex></expan> qui est en la digneté de <expan>conseill<ex>er</ex></expan> ne doie estre mis par devant fame de cele meismes digneté.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Nus ne doute <expan>q<ex>ue</ex></expan> <expan>u<ex>n</ex></expan> <expan>ho<ex>m</ex></expan> qui est en la digneté de <expan>conseill<ex>er</ex></expan> ne doie estre mis par devant fame de cele meismes digneté.<note>Réserve prévue mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="13b"/>
@@ -6533,8 +6521,7 @@
                               <locus from="13c"/>
                               <title type="sub">[D. 1.12]</title>
                               <title xml:lang="lat" resp="#FD">De officio praefecti urbi</title>
-                              <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ;<seg type="incipit">Ulpians dist : Le
-                                <expan>p<ex>re</ex>vost</expan> de la cité puet jugier de touz crimes.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Le <expan>p<ex>re</ex>vost</expan> de la cité puet jugier de touz crimes.<note>Ni réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="14a"/>
@@ -6551,7 +6538,7 @@
                               <locus from="14c"/>
                               <title type="sub">[D. 1.15]</title>
                               <title xml:lang="lat" resp="#FD">De officio praefecti vigilum</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Paulus dist : En l’ancien tens estoient home establi por destaindre le feu se il preist en la cité.</seg></supplied></incipit>
+                              <incipit>Paulus dist : En l’ancien tens estoient home establi por destaindre le feu se il preist en la cité.<note>Réserve prévue mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="14d"/>
@@ -6564,41 +6551,31 @@
                               <locus from="16a"/>
                               <title type="sub">[D. 1.17]</title>
                               <title xml:lang="lat" resp="#FD">De officio praefecti Augustalis</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dist : Li <expan>p<ex>re</ex>vost</expan> d’Egypte ne pert sa juridicion ne sa
-                                <expan>p<ex>re</ex>vosté</expan> devant
-                                <expan>q<ex>ue</ex></expan> cil qui vient en son lieu soit entrez en la cité d’Alixandre.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Li <expan>p<ex>re</ex>vost</expan> d’Egypte ne pert sa juridicion ne sa <expan>p<ex>re</ex>vosté</expan> devant <expan>q<ex>ue</ex></expan> cil qui vient en son lieu soit entrez en la cité d’Alixandre.<note>Réserve prévue mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="16a"/>
                               <title type="sub">[D. 1.18]</title>
                               <title xml:lang="lat" resp="#FD">De officio praesidis</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne, mais pas de rubrique ;<seg type="incipit">Martians dist : Li <expan>no<ex>n</ex>s</expan> de
-                                <expan>p<ex>re</ex>vost</expan> est generals car le visconte <expan><ex>et</ex></expan> li legat
-                                <expan>l’emp<ex>er</ex>eor</expan> et tuit cil qui gouvernent les contrees ja soit ce
-                                <expan>q<ex>ue</ex></expan> il soient senateur sont apelé prevost.</seg></supplied></incipit>
+                              <incipit>Martians dist : Li <expan>no<ex>n</ex>s</expan> de <expan>p<ex>re</ex>vost</expan> est generals car le visconte <expan><ex>et</ex></expan> li legat <expan>l’emp<ex>er</ex>eor</expan> et tuit cil qui gouvernent les contrees ja soit ce <expan>q<ex>ue</ex></expan> il soient senateur sont apelé prevost.<note>Saut de ligne, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="17b"/>
                               <title type="sub">[D. 1.19]</title>
                               <title xml:lang="lat" resp="#FD">De officio procuratoris Caesaris vel rationalis</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dist : Les choses <expan>q<ex>ue</ex></expan> li procurateur
-                                <expan>l’emp<ex>er</ex>eor</expan> fet ou en
-                                <expan>jugeme<ex>n</ex>t</expan> ou dehors sont autressi fermes <expan><ex>com</ex>me</expan> se li <expan>emp<ex>er</ex>eor</expan> meismes les feist.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Les choses <expan>q<ex>ue</ex></expan> li procurateur <expan>l’emp<ex>er</ex>eor</expan> fet ou en <expan>jugeme<ex>n</ex>t</expan> ou dehors sont autressi fermes <expan><ex>com</ex>me</expan> se li <expan>emp<ex>er</ex>eor</expan> meismes les feist.<note>Réserve prévue mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="17c"/>
                               <title type="sub">[D. 1.20]</title>
                               <title xml:lang="lat" resp="#FD">De officio juridici</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne mais pas de rubrique ;<seg type="incipit">Ulpians dist : Aucuns puet adopter par devant celui a qui juridicion est donee car les
-                                <expan>actio<ex>n</ex>s</expan> des lois li sont otroiees.</seg> Réserve et initiale filigranée de 2 UR entre D. 1.20.1 et D. 1.20.2.</supplied></incipit>
+                              <incipit>Ulpians dist : Aucuns puet adopter par devant celui a qui juridicion est donee car les <expan>actio<ex>n</ex>s</expan> des lois li sont otroiees. <note>Réserve et initiale filigranée de 2 UR entre D. 1.20.1 et D. 1.20.2. ; saut de ligne mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="17c"/>
                               <title type="sub">[D. 1.21]</title>
                               <title xml:lang="lat" resp="#FD">De officio ejus cui mandata est jurisdictio</title>
-                              <incipit><supplied resp="#FD"> ; ni saut de ligne ni rubrique ;<seg type="incipit">Des choses qui sont otroiees
-                                <expan>especialeme<ex>n</ex>t</expan> par loi ou par le conseil au senat ou par l’establissement au prince ne sont pas remuees par ce que juridicion est donees a
-                                <expan>aucu<ex>n</ex></expan>.</seg></supplied></incipit>
+                              <incipit>Des choses qui sont otroiees <expan>especialeme<ex>n</ex>t</expan> par loi ou par le conseil au senat ou par l’establissement au prince ne sont pas remuees par ce que juridicion est donees a <expan>aucu<ex>n</ex></expan>.<note>Ni saut de ligne ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="18a"/>
@@ -6624,15 +6601,13 @@
                               <locus from="19b"/>
                               <title type="sub">[D. 2.2]</title>
                               <title xml:lang="lat" resp="#FD">Quod quisque juris in alterum statuerit ut ipse eodem jure utatur</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dist : Cist <expan>banisseme<ex>n</ex>t</expan>
-                                <expan><ex>con</ex>tient</expan> tres grant loiauté et nul ne l’en corrouce par droit.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Cist <expan>banisseme<ex>n</ex>t</expan> <expan><ex>con</ex>tient</expan> tres grant loiauté et nul ne l’en corrouce par droit.<note>Réserve prévue, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="19d"/>
                               <title type="sub">[D. 2.3]</title>
                               <title xml:lang="lat" resp="#FD">Si quis jus dicenti non obtemperaverit</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne, mais pas de rubrique ;<seg type="incipit">Ulpians dist : Il est otroié a touz les bailliz selonc la droiture de leur poesté fors sanz plus aus deffendeors des citez
-                                <expan>q<ex>ue</ex></expan> il deffendent lor juridicion par paine de chatel...</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Il est otroié a touz les bailliz selonc la droiture de leur poesté fors sanz plus aus deffendeors des citez <expan>q<ex>ue</ex></expan> il deffendent lor juridicion par paine de chatel...<note>Saut de ligne, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="20a"/>
@@ -6689,15 +6664,7 @@
                               <locus from="28c"/>
                               <title type="sub">[D. 2.13]</title>
                               <title xml:lang="lat" resp="#FD">De edendo</title>
-                              <incipit><supplied resp="#FD"> ; ni réserve, ni rubrique ;<seg type="incipit"><supplied resp="#FD">U</supplied>lpians dit :
-                                <expan>Q<ex>ue</ex></expan>
-                                <expan>qui<ex>con</ex>que</expan> veult suivre autrui par action, il doit ainçois de monstrer son
-                                <expan>actio<ex>n</ex></expan>
-                                <expan>q<ex>u</ex>’il</expan>
-                                <expan><ex>com</ex>mence</expan> a suivre son action, car ce est plus juste chose si
-                                <expan><ex>com</ex>me</expan> il m’est avis
-                                <expan>q<ex>u</ex>’il</expan> la monstre ainz
-                                <expan>q<ex>u</ex>’il</expan> procede en la cause.</seg></supplied></incipit>
+                              <incipit><supplied resp="#FD">U</supplied>lpians dit : <expan>Q<ex>ue</ex></expan> <expan>qui<ex>con</ex>que</expan> veult suivre autrui par action, il doit ainçois de monstrer son <expan>actio<ex>n</ex></expan> <expan>q<ex>u</ex>’il</expan> <expan><ex>com</ex>mence</expan> a suivre son action, car ce est plus juste chose si <expan><ex>com</ex>me</expan> il m’est avis <expan>q<ex>u</ex>’il</expan> la monstre ainz <expan>q<ex>u</ex>’il</expan> procede en la cause.<note>Ni réserve, ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="30c"/>
@@ -6798,7 +6765,7 @@
                               <locus from="72a"/>
                               <title type="sub">[D. 4.6]</title>
                               <title xml:lang="lat" resp="#FD">Ex quibus causis majores vigintiquinque annis</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne, mais pas de rubrique ;<seg type="incipit">Ulpians dist : Il n’est nus qui ne <expan><ex>con</ex>noisse</expan> l’achosson de <sic>de</sic> cest edit ne soit <expan>m<ex>ou</ex>lt</expan> droituriere.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Il n’est nus qui ne <expan><ex>con</ex>noisse</expan> l’achosson de <sic>de</sic> cest edit ne soit <expan>m<ex>ou</ex>lt</expan> droituriere.<note>Saut de ligne, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="76a"/>
@@ -6845,10 +6812,7 @@
                               <locus from="88b"/>
                               <title type="sub">[D. 5.2]</title>
                               <title xml:lang="lat" resp="#FD">De inofficioso testamento</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit">Ulpians dist : L’en doit savoir
-                                <expan>q<ex>ue</ex></expan> plaintes
-                                <expan>viene<ex>n</ex>t</expan> sovent de
-                                <expan>testame<ex>n</ex>z</expan> qui ne sont mie a droit fez.</seg></supplied></incipit>
+                              <incipit>Ulpians dist : L’en doit savoir <expan>q<ex>ue</ex></expan> plaintes <expan>viene<ex>n</ex>t</expan> sovent de <expan>testame<ex>n</ex>z</expan> qui ne sont mie a droit fez.<note>Réserve prévue mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="91d"/>
@@ -6984,9 +6948,7 @@
                               <locus from="122c"/>
                               <title type="sub">[D. 8.2]</title>
                               <title xml:lang="lat" resp="#FD">De servitutibus praediorum urbanorum</title>
-                              <incipit><supplied resp="#FD"> ; saut de ligne, mais pas de rubrique ;<seg type="incipit">Ulpians dist : Se terre
-                                <expan><ex>com</ex>mune</expan> ou voie
-                                <expan><ex>com</ex>mune</expan> est pres de la terre qui doit servise de voie ne de charriere ne d’edefier plus haut...</seg></supplied></incipit>
+                              <incipit>Ulpians dist : Se terre <expan><ex>com</ex>mune</expan> ou voie <expan><ex>com</ex>mune</expan> est pres de la terre qui doit servise de voie ne de charriere ne d’edefier plus haut...<note>Saut de ligne, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="125c"/>
@@ -7128,7 +7090,7 @@
                               <locus from="162a"/>
                               <title type="sub">[D. 11.5]</title>
                               <title xml:lang="lat" resp="#FD">De aleatoribus</title>
-                              <incipit><supplied resp="#FD"> ; réserve, mais ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Ulpians dit : Se aucun bat celui chiés qui l’en geue as tables...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Se aucun bat celui chiés qui l’en geue as tables...<note>Réserve, mais ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="162c"/>
@@ -7147,12 +7109,12 @@
                               <locus from="166b"/>
                               <title type="sub">[D. 11.8]</title>
                               <title xml:lang="lat" resp="#FD">De mortuo inferendo et sepulchro aedificando</title>
-                              <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ni initiale marquant le début de titre ;<seg type="incipit">Ulpians dit : Li prevolz dit : Se aucuns a droiture d’enfoïr .i. mort en aucun leu...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Li prevolz dit : Se aucuns a droiture d’enfoïr .i. mort en aucun leu...<note>Ni réserve ni rubrique ni initiale marquant le début de titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="166c"/>
                               <title type="sub">[D. 3.5.32-fin]</title>
-                              <incipit><supplied resp="#FD">ni réserve ni rubrique ni initiale marquant le début de titre ;<seg type="incipit">Cil meismes dit : li hoirs au mari qui el tens de mariaige mist ses choses en la poesté sa fame...</seg></supplied></incipit>
+                              <incipit>Cil meismes dit : li hoirs au mari qui el tens de mariaige mist ses choses en la poesté sa fame...<note>Ni réserve ni rubrique ni initiale marquant le début de titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="167d"/>
@@ -7189,7 +7151,7 @@
                               <locus from="175c"/>
                               <title type="sub">[D. 12.3]</title>
                               <title xml:lang="lat" resp="#FD">De in litem iurando</title>
-                              <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ni initiale marquant un début de titre ;<seg type="incipit">Ulpians dit : la chose qui est amenee en jugement ne sera pas proisiee a plus qu’ele ne vaut</seg></supplied></incipit>
+                              <incipit>Ulpians dit : la chose qui est amenee en jugement ne sera pas proisiee a plus qu’ele ne vaut<note>Ni réserve ni rubrique ni initiale marquant un début de titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="176b"/>
@@ -7211,7 +7173,7 @@
                               <locus from="184c"/>
                               <title type="sub">[D. 12.7]</title>
                               <title xml:lang="lat" resp="#FD">De condictione sine causa</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue, mais rubrique omise ; pas d’initiale marquant le début du titre ;<seg type="incipit">Ulpians dit : Il y a une autre maniere de demander arriere se aucuns...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Il y a une autre maniere de demander arriere se aucuns...<note>Réserve prévue, mais rubrique omise ; pas d’initiale marquant le début du titre.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="kbr_9234_digestumvetus_livre13">
@@ -7251,26 +7213,19 @@
                               <locus from="188a"/>
                               <title type="sub">[D. 13.5]</title>
                               <title xml:lang="lat" resp="#FD">De pecunia constituta</title>
-                              <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Ulpians dit : Li prevolz otroie en cest <expan>banisseme<ex>n</ex>t</expan> naturel loiauté qui fet
-                                <expan>gard<ex>er</ex></expan> ce
-                                <expan>q<ex>ue</ex></expan> l’en prent en
-                                <expan>mai<ex>n</ex>s</expan> a paier
-                                <expan>p<ex>ar</ex></expan>
-                                <expan>consenteme<ex>n</ex>t</expan></seg></supplied></incipit>
+                              <incipit>Ulpians dit : Li prevolz otroie en cest <expan>banisseme<ex>n</ex>t</expan> naturel loiauté qui fet <expan>gard<ex>er</ex></expan> ce <expan>q<ex>ue</ex></expan> l’en prent en <expan>mai<ex>n</ex>s</expan> a paier <expan>p<ex>ar</ex></expan> <expan>consenteme<ex>n</ex>t</expan><note>Ni réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="190c"/>
                               <title type="sub">[D. 13.6]</title>
                               <title xml:lang="lat" resp="#FD">Commodati vel contra</title>
-                              <incipit><supplied resp="#FD"> ; ni réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Ulpians dit : Li prevolz dit : De ce <expan>q<ex>ue</ex></expan> aucuns avra presté je li dorrai jugement</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Li prevolz dit : De ce <expan>q<ex>ue</ex></expan> aucuns avra presté je li dorrai jugement<note>Ni réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="193c"/>
                               <title type="sub">[D. 13.7]</title>
                               <title xml:lang="lat" resp="#FD">De pigneraticia actione vel contra</title>
-                              <incipit><supplied resp="#FD"> ; réserve, mais pas de rubrique ni d’initiale marquant un début de titre ;<seg type="incipit">Ulpians dit : Gaiges est obligiez
-                                <expan>no<ex>n</ex></expan> pas tant
-                                <expan>seuleme<ex>n</ex>t</expan> par baillier le mes <expan>p<ex>ar</ex></expan> une covenance, ja soit ce <expan>q<ex>ue</ex></expan> il ne soit pas bailliez</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Gaiges est obligiez <expan>no<ex>n</ex></expan> pas tant <expan>seuleme<ex>n</ex>t</expan> par baillier le mes <expan>p<ex>ar</ex></expan> une covenance, ja soit ce <expan>q<ex>ue</ex></expan> il ne soit pas bailliez<note>Réserve, mais pas de rubrique ni d’initiale marquant un début de titre.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="kbr_9234_digestumvetus_livre14">
@@ -7431,28 +7386,25 @@
                               <locus from="247c"/>
                               <title type="sub">[D. 18.2]</title>
                               <title xml:lang="lat" resp="#FD">De in diem addictione</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique. Se présente comme un simple paragraphe du titre précédent.<seg type="incipit">Paulus dit : Vente a <expan>t<ex>er</ex>me</expan> est fete en ceste maniere. Cil champ soit tiens por .c.
-                                <expan>s<ex>ous</ex>.</expan> se uns autres n’i veult plus donner dedenz les kalendes de
-                                <expan>ge<ex>n</ex>vier</expan></seg></supplied></incipit>
+                              <incipit>Paulus dit : Vente a <expan>t<ex>er</ex>me</expan> est fete en ceste maniere. Cil champ soit tiens por .c. <expan>s<ex>ous</ex>.</expan> se uns autres n’i veult plus donner dedenz les kalendes de <expan>ge<ex>n</ex>vier</expan><note>Sans réserve ni rubrique. Se présente comme un simple paragraphe du titre précédent.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="249a"/>
                               <title type="sub">[D. 18.3]</title>
                               <title xml:lang="lat" resp="#FD">De lege commissoria</title>
-                              <incipit><supplied resp="#FD"> ; réserve mais pas de rubrique ;<seg type="incipit">Ulpians dit : se uns chans est <expan>vend<ex>us</ex></expan> par tel covenant <expan>q<ex>ue</ex></expan> li marchiez soit despeciez...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : se uns chans est <expan>vend<ex>us</ex></expan> par tel covenant <expan>q<ex>ue</ex></expan> li marchiez soit despeciez...<note>Réserve mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="249d"/>
                               <title type="sub">[D. 18.4]</title>
                               <title xml:lang="lat" resp="#FD">De hereditate vel actione vendita</title>
-                              <incipit><supplied resp="#FD"> ; réserve mais pas de rubrique ;<seg type="incipit"><expan>Pomponi<ex>us</ex></expan> dit : Se li
-                                <expan>h<ex>er</ex>itaiges</expan> a celui qui encor vit ou cil qui n’est a nul est venduz la vente ne vaut riens...</seg></supplied></incipit>
+                              <incipit><expan>Pomponi<ex>us</ex></expan> dit : Se li <expan>h<ex>er</ex>itaiges</expan> a celui qui encor vit ou cil qui n’est a nul est venduz la vente ne vaut riens...<note>Réserve mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="251d"/>
                               <title type="sub">[D. 18.5]</title>
                               <title xml:lang="lat" resp="#FD">De rescindenda venditione et quando licet ab emptione discedere</title>
-                              <incipit><supplied resp="#FD"> ; réserve incertaine, pas de rubrique, mais initiale marquant nouveau titre ;<seg type="incipit"><expan>Pomponi<ex>us</ex></expan> dit : Celsus cuidoit <expan>q<ex>ue</ex></expan> se li filz qui est em bail me vendi une chose de son chatel...</seg></supplied></incipit>
+                              <incipit><expan>Pomponi<ex>us</ex></expan> dit : Celsus cuidoit <expan>q<ex>ue</ex></expan> se li filz qui est em bail me vendi une chose de son chatel...<note>Réserve incertaine, pas de rubrique, mais initiale marquant nouveau titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="252c"/>
@@ -7490,7 +7442,7 @@
                               <locus from="263a"/>
                               <title type="sub">[D. 19.2]</title>
                               <title xml:lang="lat" resp="#FD">Locati conducti</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Paulus dit : Por ce que marchiez de louaige fu trovez par enging naturel...</seg></supplied></incipit>
+                              <incipit>Paulus dit : Por ce que marchiez de louaige fu trovez par enging naturel...<note>Sans réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="269d"/>
@@ -7642,27 +7594,25 @@
                               <locus from="307b"/>
                               <title type="sub">[D. 23.2]</title>
                               <title xml:lang="lat" resp="#FD">De ritu nutpiarium</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Mariages est condicion de masle et de femele...</seg></supplied></incipit>
+                              <incipit>Mariages est condicion de masle et de femele...<note>Sans réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="311c"/>
                               <title type="sub">[D. 23.3]</title>
                               <title xml:lang="lat" resp="#FD">De jure dotium</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Cause de doere est pardurable et
-                                <expan>q<ex>ua</ex>nt</expan> l’en le donne il est einssi <expan>q<ex>ue</ex></expan> il doit estre touzjorz au mari.</seg></supplied></incipit>
+                              <incipit>Cause de doere est pardurable et <expan>q<ex>ua</ex>nt</expan> l’en le donne il est einssi <expan>q<ex>ue</ex></expan> il doit estre touzjorz au mari.<note>Sans réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="319d"/>
                               <title type="sub">[D. 23.4]</title>
                               <title xml:lang="lat" resp="#FD">De pactis dotalibus</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Labolenus dit : Il loist a fere couvenant de doere aprés le mariage se il ne fu fez devant</seg></supplied></incipit>
+                              <incipit>Labolenus dit : Il loist a fere couvenant de doere aprés le mariage se il ne fu fez devant<note>Sans réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="321b"/>
                               <title type="sub">[D. 23.5]</title>
                               <title xml:lang="lat" resp="#FD">De fundo dotali</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ni initiale marquant le début d’un titre ;<seg type="incipit">Aucune foiz cesse la loi
-                                <expan>q<ex>ue</ex></expan> Julius fist de champ de doere</seg></supplied></incipit>
+                              <incipit>Aucune foiz cesse la loi <expan>q<ex>ue</ex></expan> Julius fist de champ de doere<note>Sans réserve ni rubrique ni initiale marquant le début d’un titre.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="kbr_9234_digestumvetus_livre24">
@@ -8549,8 +8499,7 @@
                               <locus from="10c"/>
                               <title type="sub">[D. 1.13]</title>
                               <title xml:lang="lat" resp="#FD">De officio quaestoris</title>
-                              <incipit><supplied resp="#FD"> ; sans rubrique ni réserve prévue ;<seg type="incipit">Ulpians dit : La nessance de fere
-                                <expan>q<ex>ue</ex>steurs</expan> est tres encienne et poi s’en faut que...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : La nessance de fere <expan>q<ex>ue</ex>steurs</expan> est tres encienne et poi s’en faut que...<note>Sans rubrique ni réserve prévue.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="10d"/>
@@ -8591,7 +8540,7 @@
                               <locus from="13c"/>
                               <title type="sub">[D. 1.21]</title>
                               <title xml:lang="lat" resp="#FD">De officio eius, cui mandata est iurisdictio</title>
-                              <incipit><supplied resp="#FD"> ; seul un pied-de-mouche sépare D. 1.20.2 de D. 1.21. <seg type="incipit">Les choses <expan>q<ex>ui</ex></expan> sont ostroiees <expan>especiaum<ex>en</ex>t</expan> par loy ou par le <expan><ex>con</ex>seil</expan> au senat...</seg></supplied></incipit>
+                              <incipit>Les choses <expan>q<ex>ui</ex></expan> sont ostroiees <expan>especiaum<ex>en</ex>t</expan> par loy ou par le <expan><ex>con</ex>seil</expan> au senat...<note>Seul un pied-de-mouche sépare D. 1.20.2 de D. 1.21. </note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="14a"/>
@@ -8622,7 +8571,7 @@
                               <locus from="15c"/>
                               <title type="sub">[D. 2.3]</title>
                               <title xml:lang="lat" resp="#FD">Si quis ius dicenti non obtemperaverit</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise ;<seg type="incipit">Ulpians dit : Il est ostroié de touz les baillis selonc la droiture de la poosté...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Il est ostroié de touz les baillis selonc la droiture de la poosté...<note>Réserve prévue mais rubrique omise.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="15d"/>
@@ -8659,48 +8608,31 @@
                               <locus from="19c"/>
                               <title type="sub">[D. 2.10]</title>
                               <title xml:lang="lat" resp="#FD">De eo per quem factum erit quominus quis in iudicio sistat</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise ;<seg type="incipit">Ulpians dit : Il fu avis au <expan>p<ex>re</ex>vost</expan> que ce estoit loiauté de chastier la
-                                <expan>t<ex>ri</ex>cherie</expan>...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Il fu avis au <expan>p<ex>re</ex>vost</expan> que ce estoit loiauté de chastier la <expan>t<ex>ri</ex>cherie</expan>...<note>Réserve prévue mais rubrique omise.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="20a"/>
                               <title type="sub">[D. 2.11]</title>
                               <title xml:lang="lat" resp="#FD">Si quis cautionibus in iudicio sistendi causa factis non obtemperaverit</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise ;<seg type="incipit">Paulus dit : Li <expan>p<ex>re</ex>voz</expan> commande
-                                <expan>q<ex>ue</ex></expan> chascune jornee soit de .xx. milles...</seg></supplied></incipit>
+                              <incipit>Paulus dit : Li <expan>p<ex>re</ex>voz</expan> commande <expan>q<ex>ue</ex></expan> chascune jornee soit de .xx. milles...<note>Réserve prévue mais rubrique omise.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="21b"/>
                               <title type="sub">[D. 2.12]</title>
                               <title xml:lang="lat" resp="#FD">De feriis et dilationibus et diversis temporibus</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise ;<seg type="incipit">Ulpians dit : Li
-                                <expan>emp<ex>erere</ex></expan> Marc establi
-                                <expan>q<ex>ue</ex></expan> nus ne
-                                <expan><ex>con</ex>traingne</expan> son
-                                <expan>av<ex>er</ex>saire</expan> de venir a jugement...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Li <expan>emp<ex>erere</ex></expan> Marc establi <expan>q<ex>ue</ex></expan> nus ne <expan><ex>con</ex>traingne</expan> son <expan>av<ex>er</ex>saire</expan> de venir a jugement...<note>Réserve prévue mais rubrique omise.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="22a"/>
                               <title type="sub">[D. 2.13]</title>
                               <title xml:lang="lat" resp="#FD">De edendo</title>
-                              <incipit><supplied resp="#FD"> ; réserve prévue mais rubrique omise ;<seg type="incipit">Ulpians dit : Par
-                                <expan>f<ex>aire</ex></expan> le
-                                <expan>actio<ex>n</ex></expan>
-                                <expan>q<ex>ue</ex></expan> chascuns vueille plaidier, il doit
-                                <expan>p<ex>re</ex>mierem<ex>en</ex>t</expan>
-                                <expan>nom<ex>er</ex></expan> la...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Par <expan>f<ex>aire</ex></expan> le <expan>actio<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> chascuns vueille plaidier, il doit <expan>p<ex>re</ex>mierem<ex>en</ex>t</expan> <expan>nom<ex>er</ex></expan> la...<note>Réserve prévue mais rubrique omise.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="23b"/>
                               <title type="sub">[D. 2.14]</title>
                               <title xml:lang="lat" resp="#FD">De pactis</title>
-                              <incipit><supplied resp="#FD"> ; place pour la rubrique, mais celle-ci n’a pas été copiée ;<seg type="incipit">Ulpians dit : La loiauté de cest
-                                <expan>banissem<ex>en</ex>t</expan> est naturel. Quel chose <expan><ex>est</ex></expan> si
-                                <expan><ex>con</ex>venable</expan> a humaine foi
-                                <expan><ex>com</ex>me</expan> garder les choses
-                                <expan>q<ex>ui</ex></expan>
-                                <expan>so<ex>n</ex>t</expan>
-                                <expan><ex>con</ex>venanciees</expan> ?</seg></supplied></incipit>
+                              <incipit>Ulpians dit : La loiauté de cest <expan>banissem<ex>en</ex>t</expan> est naturel. Quel chose <expan><ex>est</ex></expan> si <expan><ex>con</ex>venable</expan> a humaine foi <expan><ex>com</ex>me</expan> garder les choses <expan>q<ex>ui</ex></expan> <expan>so<ex>n</ex>t</expan> <expan><ex>con</ex>venanciees</expan> ?<note>Place pour la rubrique, mais celle-ci n’a pas été copiée.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="28a"/>
@@ -8731,18 +8663,13 @@
                               <locus from="31b"/>
                               <title type="sub">[D. 3.2]</title>
                               <title xml:lang="lat" resp="#FD">De his qui notantur infamia</title>
-                              <incipit><supplied resp="#FD"> ; réserve mais pas de rubrique ;<seg type="incipit">Julians dit : Les paroles aus
-                                <expan>p<ex>re</ex>volz</expan> dient : Cil sont mal <expan>reno<ex>m</ex>mé</expan>
-                                <expan>q<ex>ui</ex></expan> por meffet
-                                <expan>q<ex>ue</ex></expan> il ont fet sont envoié hors de l’ost</seg></supplied></incipit>
+                              <incipit>Julians dit : Les paroles aus <expan>p<ex>re</ex>volz</expan> dient : Cil sont mal <expan>reno<ex>m</ex>mé</expan> <expan>q<ex>ui</ex></expan> por meffet <expan>q<ex>ue</ex></expan> il ont fet sont envoié hors de l’ost<note>Réserve mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="33a"/>
                               <title type="sub">[D. 3.3]</title>
                               <title xml:lang="lat" resp="#FD">De procuratoribus et defensoribus</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve apparente ni rubrique ;<seg type="incipit">Ulpians dit : Cil <expan><ex>est</ex></expan> procurateurs <expan>q<ex>ui</ex></expan> amenistre autrui besoingnes par le
-                                <expan>conmandem<ex>en</ex>t</expan> a celui qui
-                                <expan><ex>est</ex></expan> sires de la chose</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Cil <expan><ex>est</ex></expan> procurateurs <expan>q<ex>ui</ex></expan> amenistre autrui besoingnes par le <expan>conmandem<ex>en</ex>t</expan> a celui qui <expan><ex>est</ex></expan> sires de la chose<note>Sans réserve apparente ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="37c"/>
@@ -9039,10 +8966,7 @@
                               <locus from="123d"/>
                               <title type="sub">[D. 10.2]</title>
                               <title xml:lang="lat" resp="#FD">Familiae erciscundae</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Gaius dit : Ceste action vient de la loy des .xii. tables
-                                <expan>q<ex>a</ex>r</expan> qant cil
-                                <expan>q<ex>ui</ex></expan> estoient hoir d’un heritaige voloient
-                                <expan>dep<ex>ar</ex>tir</expan> lor heritaiges...</seg></supplied></incipit>
+                              <incipit>Gaius dit : Ceste action vient de la loy des .xii. tables <expan>q<ex>a</ex>r</expan> qant cil <expan>q<ex>ui</ex></expan> estoient hoir d’un heritaige voloient <expan>dep<ex>ar</ex>tir</expan> lor heritaiges...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="129b"/>
@@ -9105,21 +9029,12 @@
                               <locus from="140d"/>
                               <title type="sub">[D. 11.8]</title>
                               <title xml:lang="lat" resp="#FD">De mortuo inferendo et sepulchro aedificando</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Ulpians dit : Li
-                                <expan>p<ex>re</ex>volz</expan> dit : Se aucuns a droiture d’enfouir .i. mort
-                                <expan>e<ex>n</ex></expan> aucun leu, ge desfent
-                                <expan>q<ex>ue</ex></expan> force ne lui soit fette...</seg><seg type="explicit"><pb n="f. 141a" /> Cil meismes dit : Se li cors d’<expan>u<ex>n</ex></expan> honme
-                                  <expan><ex>est</ex></expan> enfouiz el
-                                  <expan>monum<ex>en</ex>t</expan>
-                                  <expan>q<ex>ui</ex></expan> n’est pas parfez, riens ne desfent <expan>q<ex>ue</ex></expan> il ne soit parfez <expan><ex>et</ex></expan> li leus soit fez <expan>religie<ex>us</ex></expan> ; li
-                                  <expan>esvesq<ex>ue</ex>s</expan> doit
-                                  <expan>prend<ex>re</ex></expan> garde
-                                  <expan>q<ex>ue</ex></expan> il soit parfez sauve la religion.</seg><supplied resp="#FD">= fin de D. 11.8</supplied></supplied></incipit>
+                              <incipit>Ulpians dit : Li <expan>p<ex>re</ex>volz</expan> dit : Se aucuns a droiture d’enfouir .i. mort <expan>e<ex>n</ex></expan> aucun leu, ge desfent <expan>q<ex>ue</ex></expan> force ne lui soit fette...<note>Sans réserve ni rubrique.</note><seg type="explicit"><pb n="f. 141a" /> Cil meismes dit : Se li cors d’<expan>u<ex>n</ex></expan> honme <expan><ex>est</ex></expan> enfouiz el <expan>monum<ex>en</ex>t</expan> <expan>q<ex>ui</ex></expan> n’est pas parfez, riens ne desfent <expan>q<ex>ue</ex></expan> il ne soit parfez <expan><ex>et</ex></expan> li leus soit fez <expan>religie<ex>us</ex></expan> ; li <expan>esvesq<ex>ue</ex>s</expan> doit <expan>prend<ex>re</ex></expan> garde <expan>q<ex>ue</ex></expan> il soit parfez sauve la religion.</seg><supplied resp="#FD">= fin de D. 11.8</supplied></incipit>
                             </msItem>
                             <msItem>
                               <locus from="141a"/>
                               <title type="sub">[D. 3.5]</title>
-                              <incipit><supplied resp="#FD">traduction de D. 3.5.32 à la fin du titre. La mise en page, sans réserve ni rubrique, laisse croire que le titre précédent du livre XI se poursuit. <seg type="incipit">Cil meismes dit : Li oirs au mari qui el tens de mariaige mist ses choses en la poosté sa fame ne la doit pas d’eritaige gasté, mes il puet <expan>pleid<ex>ier</ex></expan> par action de fere la chose venir avant ou de besoingne feite.</seg></supplied></incipit>
+                              <incipit>Cil meismes dit : Li oirs au mari qui el tens de mariaige mist ses choses en la poosté sa fame ne la doit pas d’eritaige gasté, mes il puet <expan>pleid<ex>ier</ex></expan> par action de fere la chose venir avant ou de besoingne feite.<note>Traduction de D. 3.5.32 à la fin du titre. La mise en page, sans réserve ni rubrique, laisse croire que le titre précédent du livre XI se poursuit. </note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="142b"/>
@@ -9159,9 +9074,7 @@
                               <locus from="149a"/>
                               <title type="sub">[D. 12.3]</title>
                               <title xml:lang="lat" resp="#FD">De in litem iurando</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ; <seg type="incipit">Ulpians dit : La chose <expan>q<ex>ui</ex></expan>
-                                <expan><ex>est</ex></expan> amenee en
-                                <expan>jugem<ex>en</ex>t</expan> ne sera pas proisie a plus que ele ne vaut...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : La chose <expan>q<ex>ui</ex></expan> <expan><ex>est</ex></expan> amenee en <expan>jugem<ex>en</ex>t</expan> ne sera pas proisie a plus que ele ne vaut...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="149d"/>
@@ -9651,33 +9564,25 @@
                               <locus from="261d"/>
                               <title type="sub">[D. 23.2]</title>
                               <title xml:lang="lat" resp="#FD">De ritu nuptiarum</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Modestins dit : Mariaiges <expan><ex>est</ex></expan>
-                                <expan><ex>con</ex>dicio<ex>n</ex></expan> de male
-                                <expan><ex>et</ex></expan> de femele
-                                <expan><ex>et</ex></expan>
-                                <expan><ex>com</ex>paingnie</expan> de tote leur vie...</seg></supplied></incipit>
+                              <incipit>Modestins dit : Mariaiges <expan><ex>est</ex></expan> <expan><ex>con</ex>dicio<ex>n</ex></expan> de male <expan><ex>et</ex></expan> de femele <expan><ex>et</ex></expan> <expan><ex>com</ex>paingnie</expan> de tote leur vie...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="265c"/>
                               <title type="sub">[D. 23.3]</title>
                               <title xml:lang="lat" resp="#FD">De iure dotium</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Paulus dit : Cause de doere est <expan>p<ex>ar</ex>durable</expan>
-                                <expan><ex>et</ex></expan> qant l’en le
-                                <expan>do<ex>n</ex>ne</expan> il est einssi
-                                <expan>q<ex>ue</ex></expan> il doit estre torjorz au mari.</seg></supplied></incipit>
+                              <incipit>Paulus dit : Cause de doere est <expan>p<ex>ar</ex>durable</expan> <expan><ex>et</ex></expan> qant l’en le <expan>do<ex>n</ex>ne</expan> il est einssi <expan>q<ex>ue</ex></expan> il doit estre torjorz au mari.<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="272a"/>
                               <title type="sub">[D. 23.4]</title>
                               <title xml:lang="lat" resp="#FD">De pactis dotalibus</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique.<seg type="incipit">Jabolenus dit : Il loist a fere <expan><ex>con</ex>venant</expan> de doere <expan>ap<ex>ré</ex>s</expan> le mariaige se il ne fu fez devant.</seg></supplied></incipit>
+                              <incipit>Jabolenus dit : Il loist a fere <expan><ex>con</ex>venant</expan> de doere <expan>ap<ex>ré</ex>s</expan> le mariaige se il ne fu fez devant.<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="274b"/>
                               <title type="sub">[D. 23.5]</title>
                               <title xml:lang="lat" resp="#FD">De fundo dotali</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Paulus dit : Aucune foiz cesse la loy que Julius fist de champ de doere qant li mariz ne
-                                <expan>do<ex>n</ex>ne</expan> pas caucion...</seg></supplied></incipit>
+                              <incipit>Paulus dit : Aucune foiz cesse la loy que Julius fist de champ de doere qant li mariz ne <expan>do<ex>n</ex>ne</expan> pas caucion...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="fr_495_digestumvetus_livre24">
@@ -11712,11 +11617,7 @@
                               <locus from="16b"/>
                               <title type="sub">[D. 1.21]</title>
                               <title xml:lang="lat" resp="#FD">De officio eius, cui mandata est iurisdictio</title>
-                              <incipit><supplied resp="#FD"> ; seul un pied-de-mouche sépare D. 1.20.2 de D. 1.21.<seg type="incipit">Les choses qui sont otroiees
-                                <expan>especialem<ex>en</ex>t</expan> par loi ou par conseill au senat ou
-                                <expan>p<ex>ar</ex></expan>
-                                <expan>establissem<ex>en</ex>t</expan> au
-                                <expan>p<ex>ri</ex>nce</expan>...</seg></supplied></incipit>
+                              <incipit>Les choses qui sont otroiees <expan>especialem<ex>en</ex>t</expan> par loi ou par conseill au senat ou <expan>p<ex>ar</ex></expan> <expan>establissem<ex>en</ex>t</expan> au <expan>p<ex>ri</ex>nce</expan>...<note>Seul un pied-de-mouche sépare D. 1.20.2 de D. 1.21.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="16c"/>
@@ -12175,8 +12076,7 @@
                               <locus from="41'c"/>
                               <title type="sub">[D. 11.8]</title>
                               <title xml:lang="lat" resp="#FD">De mortuo inferendo et sepulchro aedificando</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Ulpians dit : Li prevolz dit : Se aucuns a droiture d’enfoïr .i. mort <pb n="f. 41’d"/> en aucun leu, ge desfent
-                                <expan>q<ex>ue</ex></expan> force ne li soit fette...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Li prevolz dit : Se aucuns a droiture d’enfoïr .i. mort <pb n="f. 41’d"/> en aucun leu, ge desfent <expan>q<ex>ue</ex></expan> force ne li soit fette...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="fr_20118_digestumvetus_livre12">
@@ -12201,7 +12101,7 @@
                               <locus from="47'c"/>
                               <title type="sub">[D. 12.3]</title>
                               <title xml:lang="lat" resp="#FD">De in litem iurando</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Ulpians dit : La chose qui est amenee en jugement ne sera pas proisiee a plus que ele ne vaut...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : La chose qui est amenee en jugement ne sera pas proisiee a plus que ele ne vaut...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="48'a"/>
@@ -12397,20 +12297,19 @@
                               <locus from="4''b"/>
                               <title type="sub">[D. 18.2]</title>
                               <title xml:lang="lat" resp="#FD">De in diem addictione</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve apparente ni rubrique ;<seg type="incipit">Paulus dit : Vente a terme est fete en ceste maniere. Cil chans soit tuens por .c. s. se uns autres n’i velt plus <expan>don<ex>er</ex></expan> dedenz les kalandes de juignet.</seg></supplied></incipit>
+                              <incipit>Paulus dit : Vente a terme est fete en ceste maniere. Cil chans soit tuens por .c. s. se uns autres n’i velt plus <expan>don<ex>er</ex></expan> dedenz les kalandes de juignet.<note>Sans réserve apparente ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="5''d"/>
                               <title type="sub">[D. 18.3]</title>
                               <title xml:lang="lat" resp="#FD">De lege commissoria</title>
-                              <incipit><supplied resp="#FD"> ; réserve ménagée, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Se uns chans est venduz par tel convenant
-                                <expan>q<ex>ue</ex></expan> li marchiez soit despeciez...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Se uns chans est venduz par tel convenant <expan>q<ex>ue</ex></expan> li marchiez soit despeciez...<note>Réserve ménagée, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="6''b"/>
                               <title type="sub">[D. 18.4]</title>
                               <title xml:lang="lat" resp="#FD">De hereditate vel actione vendita</title>
-                              <incipit><supplied resp="#FD"> ; réserve ménagée, mais pas de rubrique ;<seg type="incipit"><supplied>P</supplied>omponius dit : Se li heritaiges a celui qui encor vit ou cil qui n’est a nul est venduz, la vente ne vaut riens.</seg></supplied></incipit>
+                              <incipit><supplied>P</supplied>omponius dit : Se li heritaiges a celui qui encor vit ou cil qui n’est a nul est venduz, la vente ne vaut riens.<note>Réserve ménagée, mais pas de rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="8''a"/>
@@ -12423,8 +12322,7 @@
                               <locus from="9''a"/>
                               <title type="sub">[D. 18.6]</title>
                               <title xml:lang="lat" resp="#FD">De periculo et commodo rei venditae</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Ulpians dit : Se aucuns a venduz vins
-                                <expan><ex>et</ex></expan> il a mis certain terme...</seg></supplied></incipit>
+                              <incipit>Ulpians dit : Se aucuns a venduz vins <expan><ex>et</ex></expan> il a mis certain terme...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="10''a"/>
@@ -12452,18 +12350,13 @@
                               <locus from="10''d"/>
                               <title type="sub">[D. 19.1]</title>
                               <title xml:lang="lat" resp="#FD">De actionibus empti venditi</title>
-                              <incipit><supplied resp="#FD"> ; réserve ménagée mais pas de rubrique ;<seg type="incipit">Ulpians dit : Se la chose qui est
-                                <expan>ve<ex>n</ex>due</expan> n’est bailliee a l’achateor, il en puet
-                                <expan>pled<ex>ier</ex></expan> portant
-                                <expan><ex>com</ex>me</expan> il i a de damage...</seg></supplied></incipit>
+                              <incipit><note>Réserve ménagée mais pas de rubrique ;</note>Ulpians dit : Se la chose qui est <expan>ve<ex>n</ex>due</expan> n’est bailliee a l’achateor, il en puet <expan>pled<ex>ier</ex></expan> portant <expan><ex>com</ex>me</expan> il i a de damage...</incipit>
                             </msItem>
                             <msItem>
                               <locus from="17''b"/>
                               <title type="sub">[D. 19.2]</title>
                               <title xml:lang="lat" resp="#FD">Locati conducti</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Paulus dit : Por ce
-                                <expan>q<ex>ue</ex></expan> marchiez de louaige fu trouvez par enging naturel, il n’est mie fez par paroles mes par
-                                <expan><ex>con</ex>sentem<ex>en</ex>t</expan>...</seg></supplied></incipit>
+                              <incipit>Paulus dit : Por ce <expan>q<ex>ue</ex></expan> marchiez de louaige fu trouvez par enging naturel, il n’est mie fez par paroles mes par <expan><ex>con</ex>sentem<ex>en</ex>t</expan>...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="23''a"/>
@@ -12601,7 +12494,7 @@
                               <locus from="52''c"/>
                               <title type="sub">[D. 22.6]</title>
                               <title xml:lang="lat" resp="#FD">De iuris et facti ignorantia</title>
-                              <incipit><supplied resp="#FD"> ; réserve, mais pas de rubrique ;<seg type="incipit">Paulus dit : Il i a ingnorance de fet ou de droit.</seg></supplied></incipit>
+                              <incipit>Paulus dit : Il i a ingnorance de fet ou de droit.<note>Réserve, mais pas de rubrique.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="fr_20118_digestumvetus_livre23">
@@ -12623,8 +12516,7 @@
                               <locus from="53''d"/>
                               <title type="sub">[D. 23.2]</title>
                               <title xml:lang="lat" resp="#FD">De ritu nuptiarum</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Modestins dit : Mariaiges est <expan>conjonctio<ex>n</ex>s</expan> de malle <expan><ex>et</ex></expan> de femele
-                                <expan><ex>et</ex></expan> compaingnie de toute leur vie...</seg></supplied></incipit>
+                              <incipit>Modestins dit : Mariaiges est <expan>conjonctio<ex>n</ex>s</expan> de malle <expan><ex>et</ex></expan> de femele <expan><ex>et</ex></expan> compaingnie de toute leur vie...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="57''b"/>
@@ -12640,7 +12532,7 @@
                               <locus from="65''b"/>
                               <title type="sub">[D. 23.5]</title>
                               <title xml:lang="lat" resp="#FD">De fundo dotali</title>
-                              <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Paulus dit : Aucune foiz cesse la loi que Julius fist del champ de doere...</seg></supplied></incipit>
+                              <incipit>Paulus dit : Aucune foiz cesse la loi que Julius fist del champ de doere...<note>Sans réserve ni rubrique.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="fr_20118_digestumvetus_livre24">
@@ -14843,7 +14735,7 @@
                           <locus from="9a"/>
                           <title type="sub">[D. 1.8.5-fin]</title>
                           <title xml:lang="lat" resp="#FD">De divisione rerum et qualitate</title>
-                          <incipit><supplied resp="#FD"> ; début de D. 1.8 perdu, du fait de l’absence des f. 7 et 8 ;<seg type="incipit">Gaius dit : Li usajes des rivires est <expan><ex>com</ex>munel</expan> par droit de gens...</seg></supplied></incipit>
+                          <incipit>Gaius dit : Li usajes des rivires est <expan><ex>com</ex>munel</expan> par droit de gens...<note>Début de D. 1.8 perdu, du fait de l’absence des f. 7 et 8.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="9b"/>
@@ -14925,9 +14817,7 @@
                           <locus from="15a"/>
                           <title type="sub">[D. 2.1]</title>
                           <title xml:lang="lat" resp="#FD">De jurisdictione</title>
-                          <incipit><supplied resp="#FD"> ; manque le début, du fait de l’absence du f. 14 ;<seg type="incipit">...prent l’en vengance de ce qu’il
-                            <expan>despise<ex>n</ex>t</expan> la hautece au preteur...</seg>
-                            <supplied resp="#FD">D. 2.1.9</supplied></supplied></incipit>
+                          <incipit>...prent l’en vengance de ce qu’il <expan>despise<ex>n</ex>t</expan> la hautece au preteur...<note>D. 2.1.9 ; manque le début, du fait de l’absence du f. 14.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="15c"/>
@@ -15202,7 +15092,7 @@
                           <locus from="89b"/>
                           <title type="sub">[D.6.2]</title>
                           <title xml:lang="lat" resp="#FD">De publiciana in rem actione</title>
-                          <incipit><supplied resp="#FD"> ; réserve mais pas de rubrique ;<seg type="incipit">Ulpians dit : li preteurs escrist. Se aucuns demande chose qui li fu bailliee par aucune droite raison dom il perdi puis la saisine...</seg></supplied></incipit>
+                          <incipit>Ulpians dit : li preteurs escrist. Se aucuns demande chose qui li fu bailliee par aucune droite raison dom il perdi puis la saisine...<note>Réserve mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="90d"/>
@@ -15340,7 +15230,7 @@
                           <locus from="123c"/>
                           <title type="sub">[D. 9.4]</title>
                           <title xml:lang="lat" resp="#FD">De noxalibus actionibus</title>
-                          <incipit><supplied resp="#FD"> ; réserve et rubrique effacée ;<seg type="incipit">Gais dit : nos accions noxcelles sont apelees cele qui ne vienent de nul marchié qui soit fés...</seg></supplied></incipit>
+                          <incipit>Gais dit : nos accions noxcelles sont apelees cele qui ne vienent de nul marchié qui soit fés...<note>Réserve et rubrique effacée.</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="montpellier_h47_digestumvetus_livre10">

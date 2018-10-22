@@ -957,7 +957,7 @@
                         <locus from="114"/>
                         <title type="sub">[IV.1]</title>
                         <title xml:lang="lat" resp="#FD">De sententiis et interlocutionibus</title>
-                        <incipit><supplied resp="#FD">; absence de rubrique;<seg type="incipit">Pour ce que sentence diffinitive met fin en tous plais...</seg></supplied></incipit>
+                        <incipit>Pour ce que sentence diffinitive met fin en tous plais...<note>Absence de rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="118"/>
@@ -1572,9 +1572,7 @@
                         <locus from="48a"/>
                         <title type="sub">[III.1]</title>
                         <title xml:lang="lat" resp="#FD">De litis constestatione</title>
-                        <incipit><supplied resp="#FD">; sans titre rubriqué ;<seg type="incipit">Nos nos sumes despechié des choses qui
-                          <expan>souva<ex>n</ex>t</expan> sont feites en jugement <expan>deva<ex>n</ex>t</expan> l’entree de la
-                          <expan>pri<ex>n</ex>cipal</expan> cause...</seg></supplied></incipit>
+                        <incipit>Nos nos sumes despechié des choses qui <expan>souva<ex>n</ex>t</expan> sont feites en jugement <expan>deva<ex>n</ex>t</expan> l’entree de la <expan>pri<ex>n</ex>cipal</expan> cause...<note>Sans titre rubriqué.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="50a"/>
@@ -2438,7 +2436,7 @@
                       <msItem>
                         <locus from="112a"/>
                         <title type="sub">[II.16.3-4]</title>
-                        <incipit><supplied resp="#FD">réserve ménagée, mais rubrique non réalisée ;<seg type="incipit">Or voions quel force l’action de paier ce <expan>q<ex>ui</ex></expan> sera jugié...</seg></supplied></incipit>
+                        <incipit>Or voions quel force l’action de paier ce <expan>q<ex>ui</ex></expan> sera jugié...<note>Réserve ménagée, mais rubrique non réalisée.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="112b"/>
@@ -3749,10 +3747,7 @@
                       <msItem>
                         <locus from="69c"/>
                         <title type="sub">[II.16.2]</title>
-                        <incipit><seg type="rubric">Cist titres est coment l’en doit
-                          <expan>do<ex>n</ex>ner</expan>
-                          <expan>caucio<ex>n</ex></expan>
-                          <supplied><seg type="incipit">Or voions de la caucion que li procurateur au desfendeor doit donner.</seg></supplied></seg></incipit>
+                        <incipit><seg type="rubric">Cist titres est coment l’en doit <expan>do<ex>n</ex>ner</expan> <expan>caucio<ex>n</ex></expan> <supplied><seg type="incipit">Or voions de la caucion que li procurateur au desfendeor doit donner.</seg></supplied></seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="71c"/>
@@ -4525,8 +4520,7 @@
                         <locus from="48a"/>
                         <title type="sub">[III.1]</title>
                         <title xml:lang="lat" resp="#FD">De litis constestatione</title>
-                        <incipit><supplied resp="#FD"> ; sans titre rubriqué ;<seg type="incipit">Nos <expan>no<ex>us</ex></expan>
-                          <expan>so<ex>m</ex>mes</expan> despeeschié des choses qui sovent sont faetes en jugement</seg></supplied></incipit>
+                        <incipit>Nos <expan>no<ex>us</ex></expan> <expan>so<ex>m</ex>mes</expan> despeeschié des choses qui sovent sont faetes en jugement<note>Sans titre rubriqué.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="49b"/>

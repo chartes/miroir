@@ -426,13 +426,13 @@
                           <locus from="4v"/>
                           <title type="sub">[Inst. 1.4]</title>
                           <title xml:lang="lat" resp="#FD">De ingenuis</title>
-                          <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui est naturelment franc qui est franc tres qu’il naist</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">C</supplied>ellui est naturelment franc qui est franc tres qu’il naist<note>Réserve sans rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="4v"/>
                           <title type="sub">[Inst. 1.5]</title>
                           <title xml:lang="lat" resp="#FD">De libertinis</title>
-                          <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>eulx sont franchi qui de naturel servaige sont ramenez a franchise</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">C</supplied>eulx sont franchi qui de naturel servaige sont ramenez a franchise<note>Réserve sans rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="5v"/>
@@ -560,7 +560,7 @@
                           <locus from="30v"/>
                           <title type="sub">[Inst. 2.3]</title>
                           <title xml:lang="lat" resp="#FD">De servitutibus</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve pour rubrique, mais le titre commence en haut de page et une réserve pour initiale a été ménagée ;<seg type="incipit"><supplied resp="#FD">L</supplied>es droittures des possessions des champs...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">L</supplied>es droittures des possessions des champs...<note>Sans réserve pour rubrique, mais le titre commence en haut de page et une réserve pour initiale a été ménagée.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="31"/>
@@ -611,19 +611,19 @@
                           <locus from="44"/>
                           <title type="sub">[Inst. 2.13]</title>
                           <title xml:lang="lat" resp="#FD">De exheredatione liberorum</title>
-                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>este forme que nous avons dicte <expan>deva<ex>n</ex>t</expan> ne souffist pas a ce que le testament vaille en toute maniere...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">C</supplied>este forme que nous avons dicte <expan>deva<ex>n</ex>t</expan> ne souffist pas a ce que le testament vaille en toute maniere...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="46"/>
                           <title type="sub">[Inst. 2.14]</title>
                           <title xml:lang="lat" resp="#FD">De heredibus instituendis</title>
-                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">I</supplied>l est octroié que l’en face ses hoirs des frans <expan>ho<ex>m</ex>mes</expan>...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">I</supplied>l est octroié que l’en face ses hoirs des frans <expan>ho<ex>m</ex>mes</expan>...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="48v"/>
                           <title type="sub">[Inst. 2.15]</title>
                           <title xml:lang="lat" resp="#FD">De vulgari substitutione</title>
-                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">A</supplied>ucun peut faire en son testament pluseurs degrez de hoirs...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">A</supplied>ucun peut faire en son testament pluseurs degrez de hoirs...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="49"/>
@@ -700,19 +700,19 @@
                           <locus from="76"/>
                           <title type="sub">[Inst. 3.4]</title>
                           <title xml:lang="lat" resp="#FD">De senatus consulto Orphitiano</title>
-                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">E</supplied>ncontre ce les enfans sont receuz a avoir les biens leurs meres qui meurent...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">E</supplied>ncontre ce les enfans sont receuz a avoir les biens leurs meres qui meurent...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="76v"/>
                           <title type="sub">[Inst. 3.5]</title>
                           <title xml:lang="lat" resp="#FD">De successione agnatorum</title>
-                          <incipit><supplied resp="#FD"> » ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">A</supplied>prés les propres hoirs et aprés ceulx que le prevost et l’establissement appellent a l’eritage...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">A</supplied>prés les propres hoirs et aprés ceulx que le prevost et l’establissement appellent a l’eritage...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="80"/>
                           <title type="sub">[Inst. 3.6]</title>
                           <title xml:lang="lat" resp="#FD">De gradibus cognationis</title>
-                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">O</supplied>r veons des biens a ceulx qui ont esté franchiz.</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">O</supplied>r veons des biens a ceulx qui ont esté franchiz.<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="82"/>
@@ -839,7 +839,7 @@
                           <locus from="111"/>
                           <title type="sub">[Inst. 4.2]</title>
                           <title xml:lang="lat" resp="#FD">Vi bonorum raptorum</title>
-                          <incipit><supplied resp="#FD"> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui qui ravist autruy chose est tenu par action de larrecin...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">C</supplied>ellui qui ravist autruy chose est tenu par action de larrecin...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="112"/>
@@ -1157,164 +1157,163 @@
                         <locus from="259v"/>
                         <title type="sub">[Auth. 72, Nov. 70]</title>
                         <title xml:lang="lat" resp="#FD">Ut ordinariae praefecturae urbanae duae et praetorianae praefecturae quae in cingulo et in actu sunt solae, non etiam honorariae liberent a curiali fortuna</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L'</supplied>empereur Justinien dit a Johan le prevost doyent et conte ordinaire : « <foreign xml:lang="lat" rend="underlined">Lurmia horum que olim sanctita sont</foreign> » Il nous semble que pluseurs des choses...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L'</supplied>empereur Justinien dit a Johan le prevost doyent et conte ordinaire : « <foreign xml:lang="lat" rend="underlined">Lurmia horum que olim sanctita sont</foreign> » Il nous semble que pluseurs des choses...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="260"/>
                         <title type="sub">[Auth. 73, Nov. 69]</title>
                         <title xml:lang="lat" resp="#FD">Ut omnes oboediant praesidibus provinciarum tam in criminalibus quam in pecuniariis causis, et ut ibi causae examinentur, neve quisquam ex privilegio quodam excipiatur praeter sacram pragmaticam sanctionem</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied>empereur Justinien dit a ceulx de Coustantinoble : L’en doit jugier que une vertu est tresparfaicte par dessus toutes les autres...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied>empereur Justinien dit a ceulx de Coustantinoble : L’en doit jugier que une vertu est tresparfaicte par dessus toutes les autres...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="263"/>
                         <title type="sub">[Auth. 74, Nov. 74]</title>
                         <title xml:lang="lat" resp="#FD">De liberis quomodo legitimi aut naturales existimandi sint et de indotatis nuptiis</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied>empereur Justinien dit a Johan le prevost : Nostre ancesseur ont par droit dit et <expan>meismem<ex>en</ex>t</expan> Julien qui fu tressages hom pardevant tous les <expan>aut<ex>re</ex>s</expan>...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied>empereur Justinien dit a Johan le prevost : Nostre ancesseur ont par droit dit et <expan>meismem<ex>en</ex>t</expan> Julien qui fu tressages hom pardevant tous les <expan>aut<ex>re</ex>s</expan>...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="267"/>
                         <title type="sub">[Auth. 75, Nov. 72]</title>
                         <title xml:lang="lat" resp="#FD">De curatoribus et tutoribus et cura minorum</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied>empereur Justinien dit a Johan le prevost : « <foreign xml:lang="lat" rend="underlined">Omnia quidem legulatorii</foreign> » Cellui qui fait les loys a <expan>t<ex>re</ex>sgrant</expan> cure de toutes choses qui sont en la chose <expan>co<ex>m</ex>mune</expan></seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied>empereur Justinien dit a Johan le prevost : « <foreign xml:lang="lat" rend="underlined">Omnia quidem legulatorii</foreign> » Cellui qui fait les loys a <expan>t<ex>re</ex>sgrant</expan> cure de toutes choses qui sont en la chose <expan>co<ex>m</ex>mune</expan><note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="269"/>
                         <title type="sub">[Auth. 76, Nov. 73]</title>
                         <title xml:lang="lat" resp="#FD">Quomodo instrumentis quae aput iudices insinuantur fidem addere oporteat</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied>empereur Justinien dit a Johan le prevost : <expan>No<ex>us</ex></expan> savons bien noz lois qui veulent que foy soit donnee aux instrumens pour la collaccion des <expan>l<ex>et</ex>res</expan>...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied>empereur Justinien dit a Johan le prevost : <expan>No<ex>us</ex></expan> savons bien noz lois qui veulent que foy soit donnee aux instrumens pour la collaccion des <expan>l<ex>et</ex>res</expan>...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="272"/>
                         <title type="sub">[Auth. 77, Nov. 76]</title>
                         <title xml:lang="lat" resp="#FD">Haec constitutio interpretatur priorem constitutionem de iis qui monasteria ingrediuntur et bona sua consecrant, ex quo tempore eam valere oporteat</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost : «
-                          <foreign xml:lang="lat" rend="underlined">Causa talis ad nos pervenit</foreign> » Une telle cause est venue a nous...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost : « <foreign xml:lang="lat" rend="underlined">Causa talis ad nos pervenit</foreign> » Une telle cause est venue a nous...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="273"/>
                         <title type="sub">[Auth. 78, Nov. 77]</title>
                         <title xml:lang="lat" resp="#FD">Constitutio de afficiendis supplicio iis qui per Deum iurant quique blasphemant</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit a ceulx de Constantinoble : Nous creons que il est <expan>app<ex>er</ex>te</expan> chose a tous les homes qui ont droit <expan>entendem<ex>en</ex>t</expan> que toute nostre estude est que...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a ceulx de Constantinoble : Nous creons que il est <expan>app<ex>er</ex>te</expan> chose a tous les homes qui ont droit <expan>entendem<ex>en</ex>t</expan> que toute nostre estude est que...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="274"/>
                         <title type="sub">[Auth. 79, Nov. 78]</title>
                         <title xml:lang="lat" resp="#FD">Ne liberti in posterum indigeant iure aureorum anulorum et restitutionis natalium...</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le presvost d’Orient : Aprés ce que nous avons <expan>p<ex>ar</ex>fait</expan> toutes les choses que Dieu nous a octroiees il nous semble que il convient que nous facions pures <expan><ex>et</ex></expan> netes les franchises...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le presvost d’Orient : Aprés ce que nous avons <expan>p<ex>ar</ex>fait</expan> toutes les choses que Dieu nous a octroiees il nous semble que il convient que nous facions pures <expan><ex>et</ex></expan> netes les franchises...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="276"/>
                         <title type="sub">[Auth. 80, Nov. 79]</title>
                         <title xml:lang="lat" resp="#FD">Apud quos causam dicere oporteat monachos et sanctimonialies</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit a Mane tresbeneuré arcevesque <expan><ex>et</ex></expan> patriarche : Pource que nous savons que une chose est <expan>f<ex>ai</ex>te</expan> en ceste roiale cité qui n’est pas droite...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a Mane tresbeneuré arcevesque <expan><ex>et</ex></expan> patriarche : Pource que nous savons que une chose est <expan>f<ex>ai</ex>te</expan> en ceste roiale cité qui n’est pas droite...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="277"/>
                         <title type="sub">[Auth. 81, Nov. 80]</title>
                         <title xml:lang="lat" resp="#FD">De quaesitore</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost : Nous nous pourveons du tout a l’ayde de Dieu que les soubzmis que Dieu nous a baillez soient gardé de...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost : Nous nous pourveons du tout a l’ayde de Dieu que les soubzmis que Dieu nous a baillez soient gardé de...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="279"/>
                         <title type="sub">[Auth. 82, Nov. 81]</title>
                         <title xml:lang="lat" resp="#FD">Constitutio quae per dignitates et episcopatum filios a patria potestate liberat</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit au saint senat de ceste royale cité : Nous pensons touzjours a ce qui <expan>app<ex>ar</ex>tient</expan> au proufit et a l’aornement de l’empire...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit au saint senat de ceste royale cité : Nous pensons touzjours a ce qui <expan>app<ex>ar</ex>tient</expan> au proufit et a l’aornement de l’empire...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="280v"/>
                         <title type="sub">[Auth. 83, Nov. 82]</title>
                         <title xml:lang="lat" resp="#FD">De iudicibus, et ut nullatenus cum iureiurando eligatur aliquis iudex quod permanet ei ...</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost d’Orient : l’<expan>e<ex>m</ex>pereur</expan> Zenon de haulte memoire escrist une loy de l’ordre des jugemens qui...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost d’Orient : l’<expan>e<ex>m</ex>pereur</expan> Zenon de haulte memoire escrist une loy de l’ordre des jugemens qui...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="283v"/>
                         <title type="sub">[Auth. 84, Nov. 83]</title>
                         <title xml:lang="lat" resp="#FD">Ut clerici aput proprios episcopos primum conveniantur et post haec apud civiles iudices</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit">Cellui mesmes dit a Johan : Nous avons escript pluseurs saintes loys des evesques et de tout l’autre clergie et des moines nagueres...</seg></supplied></incipit>
+                        <incipit>Cellui mesmes dit a Johan : Nous avons escript pluseurs saintes loys des evesques et de tout l’autre clergie et des moines nagueres...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="284"/>
                         <title type="sub">[Auth. 85, Nov. 84]</title>
                         <title xml:lang="lat" resp="#FD">De consanguineis et uterinis fratribus</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit">Cellui mesmes dit a Johan le prevost : Nature use de toutes pars de moult de nouvelletez. Ce proemes a esté souvent dit en lois...</seg></supplied></incipit>
+                        <incipit>Cellui mesmes dit a Johan le prevost : Nature use de toutes pars de moult de nouvelletez. Ce proemes a esté souvent dit en lois...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="285v"/>
                         <title type="sub">[Auth. 86, Nov. 85]</title>
                         <title xml:lang="lat" resp="#FD">De armis</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit">Cellui mesmes dit a Basile le maistre des offices : Nous appellons touzjours le grant Dieu et <expan>n<ex>ost</ex>re</expan> sauveur <expan>Jh<ex>es</ex>ucrist</expan> et nous entremetons de garder sans <expan>chalo<ex>n</ex>ge</expan> sans grevance tous noz soubzmis...</seg></supplied></incipit>
+                        <incipit>Cellui mesmes dit a Basile le maistre des offices : Nous appellons touzjours le grant Dieu et <expan>n<ex>ost</ex>re</expan> sauveur <expan>Jh<ex>es</ex>ucrist</expan> et nous entremetons de garder sans <expan>chalo<ex>n</ex>ge</expan> sans grevance tous noz soubzmis...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="287"/>
                         <title type="sub">[Auth. 88, Nov. 88]</title>
                         <title xml:lang="lat" resp="#FD">De deposito et denuntiationibus inquilinorum, et de suspendenda aministratione panum</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous avons <expan>nouvellem<ex>en</ex>t</expan> oÿ un plait <expan>sico<ex>m</ex>me</expan> nous fesons souvent quant nous seons en <expan>n<ex>ost</ex>re</expan> empire...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous avons <expan>nouvellem<ex>en</ex>t</expan> oÿ un plait <expan>sico<ex>m</ex>me</expan> nous fesons souvent quant nous seons en <expan>n<ex>ost</ex>re</expan> empire...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="288"/>
                         <title type="sub">[Auth. 89, Nov. 89]</title>
                         <title xml:lang="lat" resp="#FD">Quibus modis naturales efficiuntur sui, et de eorum ex testamento seu ab intestato successione</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Les loys de Rome ne s’entremetoient point jadix du nom d’<expan>enfa<ex>n</ex>s</expan> naturelz...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Les loys de Rome ne s’entremetoient point jadix du nom d’<expan>enfa<ex>n</ex>s</expan> naturelz...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="295v"/>
                         <title type="sub">[Auth. 90, Nov. 90]</title>
                         <title xml:lang="lat" resp="#FD">De testibus</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit : Le proufit des tesmoings fu jadix trouvez pour preuves que nulles des choses qui ont esté faites ne soit legierement celee...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit : Le proufit des tesmoings fu jadix trouvez pour preuves que nulles des choses qui ont esté faites ne soit legierement celee...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="298v"/>
                         <title type="sub">[Auth. 91, Nov. 92]</title>
                         <title xml:lang="lat" resp="#FD">De inmensis donationibus in filios</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous regardasmes pieça de la loy qui retaille les lays d’une partie de lui et l’acreusmes par noble <expan>acroissem<ex>en</ex>t</expan> car ce qui est trop desegal ne nous plaist pas moult...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous regardasmes pieça de la loy qui retaille les lays d’une partie de lui et l’acreusmes par noble <expan>acroissem<ex>en</ex>t</expan> car ce qui est trop desegal ne nous plaist pas moult...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="299v"/>
                         <title type="sub">[Auth. 92, Nov. 94]</title>
                         <title xml:lang="lat" resp="#FD">Ut sine prohibitione matres debitrices et creditrices tutelam gerant minorum, neque iusiurandum praebeant quia non veniunt ad secunda vota</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">N</supplied>ous escripsismes nagaires une loy de la cure de ceulx qui sont dedans aage car nous trouvasmes par les plaiz qui <expan>souve<ex>n</ex>t</expan> sont mené par devant nous...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">N</supplied>ous escripsismes nagaires une loy de la cure de ceulx qui sont dedans aage car nous trouvasmes par les plaiz qui <expan>souve<ex>n</ex>t</expan> sont mené par devant nous...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="300v"/>
                         <title type="sub">[Auth. 93, Nov. 91]</title>
                         <title xml:lang="lat" resp="#FD">Ut exactione instante dotis primae et secundae viro ad secunda vota migrante praeponatur uxor prima vel ex priori matrimonio filii...</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Quant nous jugions jadix une cause nous vint plaine de doubte <expan><ex>et</ex></expan> digne de moult grant <expan>amendem<ex>en</ex>t</expan> et de plus clere loy...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Quant nous jugions jadix une cause nous vint plaine de doubte <expan><ex>et</ex></expan> digne de moult grant <expan>amendem<ex>en</ex>t</expan> et de plus clere loy...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="301v"/>
                         <title type="sub">[Auth. 94, Nov. 95]</title>
                         <title xml:lang="lat" resp="#FD">De administratoribus</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous savons bien que une loy a ja esté faite par quoy nous ne volons pas que ceulx qui sont en dignitez ou citoiennes ou de chevaleries...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous savons bien que une loy a ja esté faite par quoy nous ne volons pas que ceulx qui sont en dignitez ou citoiennes ou de chevaleries...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="302"/>
                         <title type="sub">[Auth. 95, Nov. 96]</title>
                         <title xml:lang="lat" resp="#FD">De executoribus et qui conveniuntur et reconveniunt</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Pource que nous hayons faulx plaiz et contralions toute mauvaise fuite...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Pource que nous hayons faulx plaiz et contralions toute mauvaise fuite...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="303"/>
                         <title type="sub">[Auth. 96, Nov. 97]</title>
                         <title xml:lang="lat" resp="#FD">De aequalitate dotis et propter nuptias donationis et augmento dotis et propter nuptias donationis...</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Pource que nous veons es lois pluseurs questions qui sont meues de noz nativitez...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Pource que nous veons es lois pluseurs questions qui sont meues de noz nativitez...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="306v"/>
                         <title type="sub">[Auth. 97, Nov. 99]</title>
                         <title xml:lang="lat" resp="#FD">De reis promittendi</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ; <seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous savons bien que une loy qui fu pieça faite de l’eslection de demandeurs et des pleges et des prometeurs...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Johan le prevost : Nous savons bien que une loy qui fu pieça faite de l’eslection de demandeurs et des pleges et des prometeurs...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="308"/>
                         <title type="sub">[Auth. 108, Nov. 116]</title>
                         <title xml:lang="lat" resp="#FD">Ut neque miles neque foederatus observet domui privatae aut possessioni alicuius</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Theodote le prevost : L’<expan>ordenem<ex>en</ex>t</expan> des choses aux <expan>ch<ex>eva</ex>l<ex>ie</ex>rs</expan> <expan>co<ex>m</ex>mence</expan> par la benivolance de Dieu a la garde des soubzmis...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Theodote le prevost : L’<expan>ordenem<ex>en</ex>t</expan> des choses aux <expan>ch<ex>eva</ex>l<ex>ie</ex>rs</expan> <expan>co<ex>m</ex>mence</expan> par la benivolance de Dieu a la garde des soubzmis...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="309"/>
                         <title type="sub">[Auth. 109, Nov. 114]</title>
                         <title xml:lang="lat" resp="#FD">Ut divinae iussiones subscriptionem habeant gloriosi quaestoris</title>
-                        <incipit><supplied resp="#FD"> ; réserve sans rubrique ;<seg type="incipit"><supplied resp="#FD">C</supplied>ellui mesmes dit a Theodore le prevost : La cure de <expan>n<ex>ost</ex>re</expan> purté vueille l’esteme de savoir soubzmis ne nous cessans d’<expan>enq<ex>ue</ex>rre</expan> se il a riens a amender en <expan>n<ex>ost</ex>re</expan> chose <expan>co<ex>m</ex>mune</expan>...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">C</supplied>ellui mesmes dit a Theodore le prevost : La cure de <expan>n<ex>ost</ex>re</expan> purté vueille l’esteme de savoir soubzmis ne nous cessans d’<expan>enq<ex>ue</ex>rre</expan> se il a riens a amender en <expan>n<ex>ost</ex>re</expan> chose <expan>co<ex>m</ex>mune</expan>...<note>Réserve sans rubrique.</note></incipit>
                       </msItem>
                     </msItem>
                   </msContents>
@@ -1485,14 +1484,18 @@
                         <msItem>
                           <locus from="26c"/>
                           <title type="sub">[Auth. 8, Nov. 8]</title>
-                          <incipit><seg type="rubric">Cist tytres est .xiii. jorz devant les kalendes de mai fu envoiez li <expan>esse<ex>m</ex>pleres</expan>
-                            <pb n="f. 26d"/> del banissement de Costentinoble al sulifaire <expan>q<ex>ui</ex></expan> lors estoit <expan><ex>con</ex>seilliers</expan> <expan>q<ex>ui</ex></expan> tiex est</seg><supplied resp="#FD">de <quote xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</quote> à <quote xml:lang="lat">... si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</quote>.<seg type="incipit">La loi que nous avon fete novelement que nos avons escrite a noz prevoz gloriex...</seg></supplied></incipit>
+                          <incipit>
+                            <seg type="rubric">Cist tytres est .xiii. jorz devant les kalendes de mai fu envoiez li <expan>esse<ex>m</ex>pleres</expan><pb n="f. 26d"/> del banissement de Costentinoble al sulifaire <expan>q<ex>ui</ex></expan> lors estoit <expan><ex>con</ex>seilliers</expan> <expan>q<ex>ui</ex></expan> tiex est</seg>
+                            <supplied resp="#FD">de <quote xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</quote> à <quote xml:lang="lat">... si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</quote>.<seg type="incipit">La loi que nous avon fete novelement que nos avons escrite a noz prevoz gloriex...</seg></supplied>
+                          </incipit>
                         </msItem>
                         <msItem>
                           <locus from="28a"/>
                           <title type="sub">[Auth. 8, Nov. 8]</title>
-                          <incipit><seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> Ce est ci li <expan>serem<ex>en</ex>z</expan> que cil font qui recevent les baillies</seg><supplied resp="#FD">de
-                            <quote xml:lang="lat">Iuro ego per deum omnipotentem et filium eius unigenitum</quote> jusqu’à la fin de Auth. 8.<seg type="incipit">C’est ci li seremenz <expan>q<ex>ue</ex></expan> cil font qui recevent les baillies : Je jur par Dieu le tout puissent <expan><ex>et</ex></expan> par nostre segnor <expan>Jh<ex>es</ex>ucrist</expan>...</seg></supplied></incipit>
+                          <incipit>
+                            <seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> Ce est ci li <expan>serem<ex>en</ex>z</expan> que cil font qui recevent les baillies</seg>
+                            <supplied resp="#FD">de <quote xml:lang="lat">Iuro ego per deum omnipotentem et filium eius unigenitum</quote> jusqu’à la fin de Auth. 8.<seg type="incipit">C’est ci li seremenz <expan>q<ex>ue</ex></expan> cil font qui recevent les baillies : Je jur par Dieu le tout puissent <expan><ex>et</ex></expan> par nostre segnor <expan>Jh<ex>es</ex>ucrist</expan>...</seg></supplied>
+                          </incipit>
                         </msItem>
                         <msItem>
                           <locus from="28c"/>
@@ -1932,7 +1935,8 @@
                         <msItem>
                           <locus from="117b"/>
                           <title type="sub">[Auth. 133, Nov. 128]</title>
-                          <incipit><seg type="rubric">Cist tytres est <expan><ex>com</ex>mant</expan> li treü doivent estre paié <expan><ex>et</ex></expan> <expan>aut<ex>re</ex>s</expan> <expan>chapit<ex>re</ex>s</expan></seg><supplied resp="#FD">= <title xml:lang="lat">De collatoribus et aliis capitulis</title></supplied></incipit>
+                          <title resp="#FD" xml:lang="lat">De collatoribus et aliis capitulis</title>
+                          <incipit><seg type="rubric">Cist tytres est <expan><ex>com</ex>mant</expan> li treü doivent estre paié <expan><ex>et</ex></expan> <expan>aut<ex>re</ex>s</expan> <expan>chapit<ex>re</ex>s</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="119c"/>
@@ -1982,7 +1986,8 @@
                         <msItem>
                           <locus from="132b"/>
                           <title type="sub">[Auth. 66, Nov. 63]</title>
-                          <incipit><seg type="rubric">Cist tytres est de novele vente qui est fete por tolir la veue de l’autrui</seg><supplied resp="#FD">= <title xml:lang="lat">De novi operis nuntiatione marini aspectus</title></supplied></incipit>
+                          <title resp="#FD" xml:lang="lat">De novi operis nuntiatione marini aspectus</title>
+                          <incipit><seg type="rubric">Cist tytres est de novele vente qui est fete por tolir la veue de l’autrui</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="132c"/>
@@ -2085,7 +2090,7 @@
                           <locus from="137a"/>
                           <title type="sub">[C. 10.18]</title>
                           <title xml:lang="lat" resp="#FD">De superindicto</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Gracians dit as <expan><ex>pro</ex>curateurs</expan> <expan><ex>et</ex></expan> as vicaires...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eres</expan> Gracians dit as <expan><ex>pro</ex>curateurs</expan> <expan><ex>et</ex></expan> as vicaires...<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="137a"/>
@@ -2221,7 +2226,7 @@
                           <locus from="147a"/>
                           <title type="sub">[C. 10.46]</title>
                           <title xml:lang="lat" resp="#FD">De vacatione muneris</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Gordianz dit a Januaire : Il a esté respondu <expan>p<ex>ar</ex></expan> droit <expan>q<ex>ue</ex></expan> quitence de <expan><ex>com</ex>muns</expan> servises...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eres</expan> Gordianz dit a Januaire : Il a esté respondu <expan>p<ex>ar</ex></expan> droit <expan>q<ex>ue</ex></expan> quitence de <expan><ex>com</ex>muns</expan> servises...<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="147a"/>
@@ -2367,7 +2372,7 @@
                           <locus from="151d"/>
                           <title type="sub">[C. 10.77]</title>
                           <title xml:lang="lat" resp="#FD">De irenarchis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Honoires dit : Cil qui <expan>s<ex>on</ex>t</expan> establi par les <expan><ex>con</ex>trees</expan> a fere pés et repos...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eres</expan> Honoires dit : Cil qui <expan>s<ex>on</ex>t</expan> establi par les <expan><ex>con</ex>trees</expan> a fere pés et repos...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="151d"/>
@@ -2394,7 +2399,7 @@
                           <locus from="152c"/>
                           <title type="sub">[C. 11.4]</title>
                           <title xml:lang="lat" resp="#FD">De navibus non excusandis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Li <expan>emp<ex>er</ex>eeur</expan> Entonius dit : Pluseur vuelent garantir leur nés par <expan>div<ex>er</ex>s</expan> non <expan><ex>et</ex></expan> par divers tytres...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eeur</expan> Entonius dit : Pluseur vuelent garantir leur nés par <expan>div<ex>er</ex>s</expan> non <expan><ex>et</ex></expan> par divers tytres...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="152c"/>
@@ -2405,7 +2410,7 @@
                           <locus from="152d"/>
                           <title type="sub">[C. 11.6]</title>
                           <title xml:lang="lat" resp="#FD">De naufragiis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Cil meismes <expan>emp<ex>er</ex>eres</expan> dit : Se une nef vient aucune foiz a rive <expan>p<ex>ar</ex></expan> torment de mer...</seg></supplied></incipit>
+                          <incipit>Cil meismes <expan>emp<ex>er</ex>eres</expan> dit : Se une nef vient aucune foiz a rive <expan>p<ex>ar</ex></expan> torment de mer...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="153a"/>
@@ -3670,7 +3675,7 @@
                         <msItem>
                           <locus from="1a"/>
                           <title type="sub">[Prooemium]</title>
-                          <incipit><supplied resp="#FD">sans rubrique ;<seg type="incipit">Il convient que la magesté l’empereor soit aournee ne mie tant seulement de armes mes de lois</seg></supplied></incipit>
+                          <incipit>Il convient que la magesté l’empereor soit aournee ne mie tant seulement de armes mes de lois<note>sans rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="1c"/>
@@ -3908,7 +3913,7 @@
                           <locus from="19d"/>
                           <title type="sub">[Inst. 2.20]</title>
                           <title xml:lang="lat" resp="#FD">De legatis</title>
-                          <incipit><supplied resp="#FD">. Copié à la suite de Inst. 1.19, sans même un signe de ponctuation entre les deux titres.<seg type="incipit">De lais. Oions dont <expan>ap<ex>ré</ex>s</expan> ces chosez dez lais. Et il <expan>ap<ex>er</ex>t</expan> que ceste partie de droit...</seg></supplied></incipit>
+                          <incipit>De lais. Oions dont <expan>ap<ex>ré</ex>s</expan> ces chosez dez lais. Et il <expan>ap<ex>er</ex>t</expan> que ceste partie de droit...<note>Copié à la suite de Inst. 1.19, sans même un signe de ponctuation entre les deux titres.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="22a"/>
@@ -4300,19 +4305,19 @@
                         <locus from="86d"/>
                         <title type="sub">[Auth. 23, Nov. 23]</title>
                         <title xml:lang="lat" resp="#FD">De appellationibus et intra quae tempora debeat appellari</title>
-                        <incipit><supplied resp="#FD"> ; réserve mais pas de rubrique ;<seg type="incipit">Li emperere Justinian dit a Tribunian mestre des officez et questeur du saint palez : « Nous meton plusors remedes <expan><ex>con</ex>tre</expan> la grieté des ancianes lois...</seg></supplied></incipit>
+                        <incipit>Li emperere Justinian dit a Tribunian mestre des officez et questeur du saint palez : « Nous meton plusors remedes <expan><ex>con</ex>tre</expan> la grieté des ancianes lois...<note>Réserve mais pas de rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="87b"/>
                         <title type="sub">[Auth. 34, Nov. 105]</title>
                         <title xml:lang="lat" resp="#FD">De consulibus</title>
-                        <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Cil meismez dit a Trage le conte dez <expan>sai<ex>n</ex>z</expan> dons : Le non et la cause de <expan><ex>con</ex>tee</expan> fu trovés par lez anciens Romains...</seg></supplied></incipit>
+                        <incipit>Cil meismez dit a Trage le conte dez <expan>sai<ex>n</ex>z</expan> dons : Le non et la cause de <expan><ex>con</ex>tee</expan> fu trovés par lez anciens Romains...<note>Sans réserve ni rubrique.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="89a"/>
                         <title type="sub">[Auth. 35, Nov. 33]</title>
                         <title xml:lang="lat" resp="#FD">Ut nullus mutuans agricolae teneat eius terram</title>
-                        <incipit><supplied resp="#FD"> ; sans réserve ni rubrique, mais avec retour à la ligne et initiale filigranée ;<seg type="incipit">Cil meismes dit que nul qui preste a cultiveeur de chans ne tiegne sa terre pour l'avarice des creanciers...</seg></supplied></incipit>
+                        <incipit>Cil meismes dit que nul qui preste a cultiveeur de chans ne tiegne sa terre pour l'avarice des creanciers...<note>Sans réserve ni rubrique, mais avec retour à la ligne et initiale filigranée.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="89a"/>
@@ -4695,7 +4700,7 @@
                           <locus from="171a"/>
                           <title type="sub">[C. 10.1]</title>
                           <title xml:lang="lat" resp="#FD">De jure fisci</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique annonçant le titre ;<seg type="incipit">Li emperere Gordians dit : Se il est prouvé que nostre pere vous donnast ses possessions par parfet dont ains que eles fussent obligiees a la bourse l’empereor...</seg></supplied></incipit>
+                          <incipit>Li emperere Gordians dit : Se il est prouvé que nostre pere vous donnast ses possessions par parfet dont ains que eles fussent obligiees a la bourse l’empereor...<note>Sans rubrique annonçant le titre.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="171d"/>
@@ -4777,7 +4782,7 @@
                           <locus from="175c"/>
                           <title type="sub">[C. 10.18]</title>
                           <title xml:lang="lat" resp="#FD">De superindicto</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li emperere Gordian dit as <expan><ex>pro</ex>curateurs</expan> et as vicaires...</seg></supplied></incipit>
+                          <incipit>Li emperere Gordian dit as <expan><ex>pro</ex>curateurs</expan> et as vicaires...<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="175c"/>
@@ -4914,7 +4919,7 @@
                           <locus from="187a"/>
                           <title type="sub">[C. 10.46]</title>
                           <title xml:lang="lat" resp="#FD">De vacatione muneris</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordians dit a Januaire : Il a esté respondu...</seg></supplied></incipit>
+                          <incipit>Li empereres Gordians dit a Januaire : Il a esté respondu...<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="187b"/>
@@ -4925,7 +4930,7 @@
                           <locus from="187b"/>
                           <title type="sub">[C. 10.48]</title>
                           <title xml:lang="lat" resp="#FD">De excusationibus munerum</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordiens dit : Cil qui ont esté nos procureour doivent user des citoiens servises qui apartienent a lour digneté.</seg></supplied></incipit>
+                          <incipit><note>Sans rubrique ni réserve.</note>Li empereres Gordiens dit : Cil qui ont esté nos procureour doivent user des citoiens servises qui apartienent a lour digneté.</incipit>
                         </msItem>
                         <msItem>
                           <locus from="188b"/>
@@ -5061,7 +5066,7 @@
                           <locus from="192d"/>
                           <title type="sub">[C. 10.77]</title>
                           <title xml:lang="lat" resp="#FD">De irenarchis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Li empereres Honoires dit : Cil qui sont establi par les contrees a fere pés et repos...</seg></supplied></incipit>
+                          <incipit>Li empereres Honoires dit : Cil qui sont establi par les contrees a fere pés et repos...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="192d"/>
@@ -5099,7 +5104,7 @@
                           <locus from="193d"/>
                           <title type="sub">[C. 11.6]</title>
                           <title xml:lang="lat" resp="#FD">De naufragiis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Cil meismes <expan>emp<ex>er</ex>eres</expan> dit : Se une nef vient aucune fois a rive <expan>p<ex>ar</ex></expan> torment de mer...</seg></supplied></incipit>
+                          <incipit>Cil meismes <expan>emp<ex>er</ex>eres</expan> dit : Se une nef vient aucune fois a rive <expan>p<ex>ar</ex></expan> torment de mer...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="194b"/>
@@ -5307,11 +5312,12 @@
                           <locus from="201b"/>
                           <title type="sub">[C. 11.48]</title>
                           <title xml:lang="lat" resp="#FD">De agricolis censitis vel colonis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Li emperiere Constantin dit : Li cultiveur des chans qui entendent a cuillent les blés...</seg></supplied></incipit>
+                          <incipit>Li emperiere Constantin dit : Li cultiveur des chans qui entendent a cuillent les blés...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.49]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De capitatione civium censibus eximenda</title> ; rubrique et texte manquent</supplied></incipit>
+                          <title xml:lang="lat">De capitatione civium censibus eximenda</title>
+                          <incipit><supplied resp="#FD"> ; rubrique et texte manquent</supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="204a"/>
@@ -7015,7 +7021,7 @@
                           <locus from="223a"/>
                           <title type="sub">[C. 10.1]</title>
                           <title xml:lang="lat" resp="#FD">De jure fisci</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique annonçant le titre ;<seg type="incipit">Li emperere Gordians dit : Se il est prouvé que nostre pere nous <expan>do<ex>n</ex>nast</expan> ses possessions par parfait don ainz que eles fussent obligiees a la bourse l’empereur...</seg></supplied></incipit>
+                          <incipit>Li emperere Gordians dit : Se il est prouvé que nostre pere nous <expan>do<ex>n</ex>nast</expan> ses possessions par parfait don ainz que eles fussent obligiees a la bourse l’empereur...<note>Sans rubrique annonçant le titre.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="223d"/>
@@ -7096,7 +7102,7 @@
                           <locus from="228a"/>
                           <title type="sub">[C. 10.18]</title>
                           <title xml:lang="lat" resp="#FD">De superindicto</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Graciens dit as <expan><ex>pro</ex>curateurs</expan> et as vicaires...</seg></supplied></incipit>
+                          <incipit>Li empereres Graciens dit as <expan><ex>pro</ex>curateurs</expan> et as vicaires...<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="228a"/>
@@ -7232,7 +7238,7 @@
                           <locus from="240c"/>
                           <title type="sub">[C. 10.46]</title>
                           <title xml:lang="lat" resp="#FD">De vacatione muneris</title>
-                          <incipit><supplied resp="#FD">; sans rubrique ni réserve ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Gordians dit a Januaire : Il a esté respondu...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eres</expan> Gordians dit a Januaire : Il a esté respondu...<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="240c"/>
@@ -7243,7 +7249,7 @@
                           <locus from="240c"/>
                           <title type="sub">[C. 10.48]</title>
                           <title xml:lang="lat" resp="#FD">De excusationibus munerum</title>
-                          <incipit><supplied resp="#FD"> ; sans rubrique ni réserve ;<seg type="incipit">Li empereres Gordiens dit : Cil qui ont esté nos procurateurs doivent user des citoiens servises qui apartienent a lor dignité.</seg></supplied></incipit>
+                          <incipit>Li empereres Gordiens dit : Cil qui ont esté nos procurateurs doivent user des citoiens servises qui apartienent a lor dignité.<note>Sans rubrique ni réserve.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="241d"/>
@@ -7379,7 +7385,7 @@
                           <locus from="246b"/>
                           <title type="sub">[C. 10.77]</title>
                           <title xml:lang="lat" resp="#FD">De irenarchis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Honoires dit : Cil qui sont establiz par les contrees a faire pés et repos...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eres</expan> Honoires dit : Cil qui sont establiz par les contrees a faire pés et repos...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="246c"/>
@@ -7416,7 +7422,7 @@
                           <locus from="248a"/>
                           <title type="sub">[C. 11.6]</title>
                           <title xml:lang="lat" resp="#FD">De naufragiis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Cil meismes empereres dit : Se une nef vient aucune foiz a rive par torment de mer...</seg></supplied></incipit>
+                          <incipit>Cil meismes empereres dit : Se une nef vient aucune foiz a rive par torment de mer...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="248c"/>
@@ -7625,7 +7631,7 @@
                           <locus from="256b"/>
                           <title type="sub">[C. 11.48]</title>
                           <title xml:lang="lat" resp="#FD">De agricolis censitis vel colonis</title>
-                          <incipit><supplied resp="#FD"> ; sans réserve ni rubrique ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Constantins dit : Le cultiveur des champs qui entendent a cueillir les blez...</seg></supplied></incipit>
+                          <incipit>Li <expan>emp<ex>er</ex>eres</expan> Constantins dit : Le cultiveur des champs qui entendent a cueillir les blez...<note>Sans réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.49]</title>
