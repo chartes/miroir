@@ -844,7 +844,8 @@
                         <msItem>
                           <locus from="112"/>
                           <title type="sub">[Inst. 4.3]</title>
-                          <incipit xml:lang="lat"><seg type="rubric"><title xml:lang="lat">De lege Aquilia</title> ; réserve prévue mais pas de rubrique ;<seg type="incipit"><supplied resp="#FD">A</supplied>ction de domage appartient par la loy que Acquilius fist...</seg></seg></incipit>
+                          <title xml:lang="lat" resp="#FD">De lege Aquilia</title>
+                          <incipit xml:lang="lat"><supplied resp="#FD">A</supplied>ction de domage appartient par la loy que Acquilius fist...<note>Réserve prévue mais pas de rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="114"/>
@@ -2926,12 +2927,14 @@
                         <msItem>
                           <locus from="178a"/>
                           <title type="sub">[C. 12.30]</title>
-                          <incipit><seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> de la dignité as <expan>ch<ex>evalie</ex>rs</expan></seg><supplied resp="#FD">= <title xml:lang="lat">De castrensi omnium palatinorum peculio</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De castrensi omnium palatinorum peculio</title>
+                          <incipit><seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> de la dignité as <expan>ch<ex>evalie</ex>rs</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="178a"/>
                           <title type="sub">[C. 12.31]</title>
-                          <incipit><seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> del chatel <expan>q<ex>ue</ex></expan> li <expan>palazi<ex>n</ex></expan> <expan>aq<ex>ui</ex>erent</expan> <expan>p<ex>ar</ex></expan> <expan>ch<ex>evaler</ex>ie</expan><supplied resp="#FD">= <title xml:lang="lat">De equestri dignitate</title></supplied></seg></incipit>
+                          <title xml:lang="lat">De equestri dignitate</title>
+                          <incipit><seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> del chatel <expan>q<ex>ue</ex></expan> li <expan>palazi<ex>n</ex></expan> <expan>aq<ex>ui</ex>erent</expan> <expan>p<ex>ar</ex></expan> <expan>ch<ex>evaler</ex>ie</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.32]</title>
@@ -2960,7 +2963,7 @@
                         <msItem>
                           <locus from="179c"/>
                           <title type="sub">[C. 12.37]</title>
-                          <incipit><seg type="rubric">Cist tytres est de <expan>p<ex>ar</ex>tir</expan> les <expan>ano<ex>n</ex>nes</expan> as <expan>ch<ex>evalie</ex>rs</expan></seg><supplied resp="#FD">manque le début du titre (C.12.37.1-5).<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Gracians dit : « Li fort chevalier <expan><ex>et</ex></expan> cil qui nos <expan>serve<ex>n</ex>t</expan> devostement...</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Cist tytres est de <expan>p<ex>ar</ex>tir</expan> les <expan>ano<ex>n</ex>nes</expan> as <expan>ch<ex>evalie</ex>rs</expan></seg><note>Manque le début du titre (C.12.37.1-5).</note>Li <expan>emp<ex>er</ex>eres</expan> Gracians dit : « Li fort chevalier <expan><ex>et</ex></expan> cil qui nos <expan>serve<ex>n</ex>t</expan> devostement...</incipit>
                         </msItem>
                         <msItem>
                           <locus from="180b"/>
@@ -3750,7 +3753,8 @@
                         <msItem>
                           <locus from="6c"/>
                           <title type="sub">[Inst. 1.15]</title>
-                          <incipit><seg type="rubric">De la garde qui est bailliee</seg><supplied resp="#FD"><title xml:lang="lat">De legitima adgnatorum tutela</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De legitima adgnatorum tutela</title>
+                          <incipit><seg type="rubric">De la garde qui est bailliee</seg><supplied resp="#FD"></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="6c"/>
@@ -3771,7 +3775,8 @@
                         <msItem>
                           <locus from="7a"/>
                           <title type="sub">[Inst. 1.19]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De fiduciaria tutela</title> ; sans réserve ni rubrique. Le titre est toutefois introduit par une initiale filigranée de 2 UR.<seg>Il ya une autre <expan>man<ex>ier</ex>e</expan> de garde <expan>q<ex>ui</ex></expan> est apelee garde par fiance...</seg> = éd. F. Olivier-Martin, p. 39</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De fiduciaria tutela</title>
+                          <incipit><supplied resp="#FD"><seg>Il ya une autre <expan>man<ex>ier</ex>e</expan> de garde <expan>q<ex>ui</ex></expan> est apelee garde par fiance...</seg><note>Ed. F. Olivier-Martin, p. 39. Sans réserve ni rubrique. Le titre est toutefois introduit par une initiale filigranée de 2 UR.</note></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="7a"/>
@@ -4079,7 +4084,8 @@
                         <msItem>
                           <locus from="35b"/>
                           <title type="sub">[Inst. 3.27]</title>
-                          <incipit><seg type="rubric">Cist titrez est par quiex <expan>p<ex>er</ex>so<ex>n</ex>nes</expan> <expan>obligem<ex>en</ex>t</expan> <expan>no<ex>us</ex></expan> est aquis</seg><supplied resp="#FD"><title xml:lang="lat">De obligationibus quasi ex contractu</title> ; anticipation de la rubrique suivante. Le texte qui suit correspond au titre 27, introduit par la rubrique <quote>Cist titres est des obligemenz qui vienent autresi conme de marchié</quote>, dans l’éd. F. Olivier-Martin, p. 221</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De obligationibus quasi ex contractu</title>
+                          <incipit><seg type="rubric">Cist titrez est par quiex <expan>p<ex>er</ex>so<ex>n</ex>nes</expan> <expan>obligem<ex>en</ex>t</expan> <expan>no<ex>us</ex></expan> est aquis<note>Anticipation de la rubrique suivante. Le texte qui suit correspond au titre 27, introduit par la rubrique <quote>Cist titres est des obligemenz qui vienent autresi conme de marchié</quote>, dans l’éd. F. Olivier-Martin, p. 221.</note></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="35d"/>
@@ -4254,7 +4260,8 @@
                       <msItem>
                         <locus from="67d"/>
                         <title type="sub">[Auth. 10, Nov. 10]</title>
-                        <incipit><seg type="rubric">La constitucion a l’empereor a Bilisaire visconte</seg><supplied resp="#FD"><title xml:lang="lat">De referendariis Palatii</title></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De referendariis Palatii</title>
+                        <incipit><seg type="rubric">La constitucion a l’empereor a Bilisaire visconte</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="68a"/>
@@ -4643,7 +4650,8 @@
                       <msItem>
                         <locus from="154b"/>
                         <title type="sub">[Auth. 133, Nov. 128]</title>
-                        <incipit><seg type="rubric">Cist titres est come li treü doivent estre baillié et d’autres chapistres</seg><supplied resp="#FD">= <title xml:lang="lat">De collatoribus et aliis capitulis</title></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De collatoribus et aliis capitulis</title>
+                        <incipit><seg type="rubric">Cist titres est come li treü doivent estre baillié et d’autres chapistres</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="156c"/>
@@ -4721,12 +4729,14 @@
                         <msItem>
                           <locus from="172d"/>
                           <title type="sub">[C. 10.5]</title>
-                          <incipit><seg type="rubric">De ceulz qui enprunterent les coumuns deniers</seg><supplied resp="#FD"><title xml:lang="lat">Ne fiscus rem quam vendidit evincat</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Ne fiscus rem quam vendidit evincat</title>
+                          <incipit><seg type="rubric">De ceulz qui enprunterent les coumuns deniers</seg><supplied resp="#FD"></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="173a"/>
                           <title type="sub">[C. 10.6]</title>
-                          <incipit><seg type="rubric">Que la bourse l’empereor ne chalenge la chose que ele a vendue</seg><supplied resp="#FD"><title xml:lang="lat">De his qui ex publicis rationibus mutuam pecuniam acceperunt</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De his qui ex publicis rationibus mutuam pecuniam acceperunt</title>
+                          <incipit><seg type="rubric">Que la bourse l’empereor ne chalenge la chose que ele a vendue</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="173a"/>
@@ -4908,7 +4918,8 @@
                         <msItem>
                           <locus from="186c"/>
                           <title type="sub">[C. 10.44]</title>
-                          <incipit><seg type="rubric">Cest tytres est des servises qui sont fés pour les patremoingnes <supplied resp="#FD"><title xml:lang="lat">De his qui sponte munera susceperunt</title></supplied></seg></incipit>
+                          <title xml:lang="lat" resp="#FD">De his qui sponte munera susceperunt</title>
+                          <incipit><seg type="rubric">Cest tytres est des servises qui sont fés pour les patremoingnes</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="187a"/>
@@ -4975,12 +4986,14 @@
                         <msItem>
                           <locus from="190a"/>
                           <title type="sub">[C. 10.58]</title>
-                          <incipit><seg type="rubric">Cest titre est des mals renonmés <supplied resp="#FD"><title xml:lang="lat">De libertinis</title></supplied></seg></incipit>
+                          <title xml:lang="lat" resp="#FD">De libertinis</title>
+                          <incipit><seg type="rubric">Cest titre est des mals renonmés</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="190b"/>
                           <title type="sub">[C. 10.59]</title>
-                          <incipit><seg type="rubric">Cest titre est des filz a ceuls qui ont esté frachis <supplied resp="#FD"><title xml:lang="lat">De infamibus</title></supplied></seg></incipit>
+                          <title xml:lang="lat" resp="#FD">De infamibus</title>
+                          <incipit><seg type="rubric">Cest titre est des filz a ceuls qui ont esté frachis</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="190b"/>
@@ -5168,7 +5181,8 @@
                         <msItem>
                           <locus from="196d"/>
                           <title type="sub">[C. 11.19]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De studiis liberalibus urbis Romae et Constantinopolitanae</title> ; réserve, mais rubrique non réalisée. En marge, rubrique d’attente : <quote>Des escoles de la cité de Rome <expan><ex>et</ex></expan> de celes de Constantinoble</quote></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De studiis liberalibus urbis Romae et Constantinopolitanae</title>
+                          <incipit><supplied resp="#FD"> ; réserve, mais rubrique non réalisée. En marge, rubrique d’attente : <quote>Des escoles de la cité de Rome <expan><ex>et</ex></expan> de celes de Constantinoble</quote></supplied></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.20]</title>
@@ -5262,12 +5276,14 @@
                         <msItem>
                           <locus from="199d"/>
                           <title type="sub">[C. 11.38]</title>
-                          <incipit><seg type="rubric">De ceuls qui sont tret en cause pour en quoi il sont aministré</seg><supplied resp="#FD"><title xml:lang="lat">Injuncti muneris sumptus ad omnes collegas pertinere</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Injuncti muneris sumptus ad omnes collegas pertinere</title>
+                          <incipit><seg type="rubric">De ceuls qui sont tret en cause pour en quoi il sont aministré</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="199d"/>
                           <title type="sub">[C. 11.39]</title>
-                          <incipit><seg type="rubric">Que les despens de l’office qui est enjo<supplied resp="#FD">i</supplied>nt apartient a tous les compaignons</seg><supplied resp="#FD"><title xml:lang="lat">De his qui ex officio quod administraverunt conveniuntur</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De his qui ex officio quod administraverunt conveniuntur</title>
+                          <incipit><seg type="rubric">Que les despens de l’office qui est enjo<supplied resp="#FD">i</supplied>nt apartient a tous les compaignons</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="199d"/>
@@ -5430,7 +5446,8 @@
                         <msItem>
                           <locus from="214b"/>
                           <title type="sub">[C. 12.25]</title>
-                          <incipit><seg type="rubric">Cest tytres est de ceuls qui gardent les robes l’empereur et de cels qui les font</seg><supplied resp="#FD">= <title xml:lang="lat">De castrensianis et ministerianis</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De castrensianis et ministerianis</title>
+                          <incipit><seg type="rubric">Cest tytres est de ceuls qui gardent les robes l’empereur et de cels qui les font</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="214c"/>
@@ -5534,7 +5551,8 @@
                         <msItem>
                           <locus from="219d"/>
                           <title type="sub">[C. 11.74.1]</title>
-                          <incipit><seg type="rubric">A qui il ne loist pas a prendre a louage les possessions a la bourse l’empereour</seg><supplied resp="#FD"><title xml:lang="lat">De collatione fundorum fiscalium vel rei privatae vel dominicae vel civitatum vel templorum</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De collatione fundorum fiscalium vel rei privatae vel dominicae vel civitatum vel templorum</title>
+                          <incipit><seg type="rubric">A qui il ne loist pas a prendre a louage les possessions a la bourse l’empereour</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="220a"/>
@@ -6578,7 +6596,8 @@
                       <msItem>
                         <locus from="97d"/>
                         <title type="sub">[Auth. 10, Nov. 10]</title>
-                        <incipit><seg type="rubric">La constitucion l’<expan>emp<ex>er</ex>eur</expan> a Bilisaire le visconte</seg><supplied resp="#FD"><title xml:lang="lat">De referendariis Palatii</title></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De referendariis Palatii</title>
+                        <incipit><seg type="rubric">La constitucion l’<expan>emp<ex>er</ex>eur</expan> a Bilisaire le visconte</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="98b"/>
@@ -7227,7 +7246,8 @@
                         <msItem>
                           <locus from="239d"/>
                           <title type="sub">[C. 10.44]</title>
-                          <incipit><seg type="rubric">Cest tytre est des servises qui sont faiz por les patremoines</seg><supplied resp="#FD"><title xml:lang="lat">De his qui sponte munera susceperunt</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De his qui sponte munera susceperunt</title>
+                          <incipit><seg type="rubric">Cest tytre est des servises qui sont faiz por les patremoines</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="240b"/>
@@ -7294,12 +7314,14 @@
                         <msItem>
                           <locus from="243c"/>
                           <title type="sub">[C. 10.58]</title>
-                          <incipit><seg type="rubric">Cest tytre est des mals <expan>reno<ex>m</ex>mez</expan></seg><supplied resp="#FD"><title xml:lang="lat">De libertinis</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De libertinis</title>
+                          <incipit><seg type="rubric">Cest tytre est des mals <expan>reno<ex>m</ex>mez</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="243c"/>
                           <title type="sub">[C. 10.59]</title>
-                          <incipit><seg type="rubric">Cest tytre est des filz a ceus qui ont esté franchiz</seg><supplied resp="#FD"><title xml:lang="lat">De infamibus</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De infamibus</title>
+                          <incipit><seg type="rubric">Cest tytre est des filz a ceus qui ont esté franchiz</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="243d"/>
@@ -7580,13 +7602,14 @@
                         <msItem>
                           <locus from="254b"/>
                           <title type="sub">[C. 11.38]</title>
-                          <incipit><seg type="rubric">De ceus qui <expan>so<ex>n</ex>t</expan> trait en cause por
-                            <pb n="f. 254c"/> l’office en quoi il amenistre</seg><supplied resp="#FD">= <title xml:lang="lat">Injuncti muneris sumptus ad omnes collegas pertinere</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Injuncti muneris sumptus ad omnes collegas pertinere</title>
+                          <incipit><seg type="rubric">De ceus qui <expan>so<ex>n</ex>t</expan> trait en cause por<pb n="f. 254c"/>l’office en quoi il amenistre</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="254c"/>
                           <title type="sub">[C. 11.39]</title>
-                          <incipit><seg type="rubric">Que les despens de l’office qui est enjoinz apartient a tous les compaignons</seg><supplied resp="#FD">= <title xml:lang="lat">De his qui ex officio quod administraverunt conveniuntur</title></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De his qui ex officio quod administraverunt conveniuntur</title>
+                          <incipit><seg type="rubric">Que les despens de l’office qui est enjoinz apartient a tous les compaignons</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="254c"/>

@@ -2371,14 +2371,12 @@
                       <msItem>
                         <locus from="94b"/>
                         <title type="sub">[II.9]</title>
-                        <incipit><seg type="rubric">Cist tytres est del libelle d’acusement</seg><supplied resp="#FD">la rubrique correspond au contenu de II.8, mais le texte qui suit est bien celui de II.9 ;<seg type="incipit">Li uns libelles est d’acusement de quoi nos avons treitié avant el prouchien tytre <expan>q<ex>ui</ex></expan> est donnez es causes
-                          <expan>c<ex>ri</ex>minaus</expan>...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist tytres est del libelle d’acusement</seg><supplied resp="#FD">la rubrique correspond au contenu de II.8, mais le texte qui suit est bien celui de II.9 ;<seg type="incipit">Li uns libelles est d’acusement de quoi nos avons treitié avant el prouchien tytre <expan>q<ex>ui</ex></expan> est donnez es causes <expan>c<ex>ri</ex>minaus</expan>...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="97b"/>
                         <title type="sub">[II.10]</title>
-                        <incipit><seg type="rubric">Cist tytres
-                          <expan><ex>est</ex></expan> del libelle d’<expan>aq<ex>ue</ex>re</expan> possession</seg></incipit>
+                        <incipit><seg type="rubric">Cist tytres <expan><ex>est</ex></expan> del libelle d’<expan>aq<ex>ue</ex>re</expan> possession</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="98b"/>
@@ -2416,8 +2414,7 @@
                       <msItem>
                         <locus from="106a"/>
                         <title type="sub">[II.15]</title>
-                        <incipit><supplied resp="#FD">réserve ménagée mais rubrique omise. D’une main cursive plus tardive <quote>Cy est le tiltre de la caution du defendeur</quote> ;<seg type="incipit">Il <expan><ex>con</ex>vient</expan> veoir de la caucion <expan>q<ex>ue</ex></expan> li desfendierres doit
-                          <expan>do<ex>n</ex>ner</expan>...</seg></supplied></incipit>
+                        <incipit><supplied resp="#FD">réserve ménagée mais rubrique omise. D’une main cursive plus tardive <quote>Cy est le tiltre de la caution du defendeur</quote> ;<seg type="incipit">Il <expan><ex>con</ex>vient</expan> veoir de la caucion <expan>q<ex>ue</ex></expan> li desfendierres doit <expan>do<ex>n</ex>ner</expan>...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="107b"/>
@@ -2522,7 +2519,8 @@
                       <msItem>
                         <locus from="168a"/>
                         <title type="sub">[III.7]</title>
-                        <incipit><seg type="rubric">Cist tytres parole devant des tesmoins</seg><supplied resp="#FD">= <title xml:lang="lat">Quot testes in causa sufficiant.</title></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">Quot testes in causa sufficiant.</title>
+                        <incipit><seg type="rubric">Cist tytres parole devant des tesmoins</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="170b"/>
@@ -2542,12 +2540,8 @@
                       <msItem>
                         <locus from="176b"/>
                         <title type="sub">[III.9]</title>
-                        <incipit><seg type="rubric">Cist titres
-                          <expan><ex>est</ex></expan>
-                          <expan><ex>com</ex>m<ex>en</ex>t</expan>
-                          <expan>tesmoi<ex>n</ex>g</expan>
-                          <expan>doive<ex>n</ex>t</expan>
-                          <expan>est<ex>re</ex></expan> amené</seg><supplied resp="#FD">= <title xml:lang="lat">De juramento testium, et qualiter sunt examinandi</title></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De juramento testium, et qualiter sunt examinandi</title>
+                        <incipit><seg type="rubric">Cist titres <expan><ex>est</ex></expan> <expan><ex>com</ex>m<ex>en</ex>t</expan> <expan>tesmoi<ex>n</ex>g</expan> <expan>doive<ex>n</ex>t</expan> <expan>est<ex>re</ex></expan> amené</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="180a"/>
@@ -3801,7 +3795,8 @@
                       <msItem>
                         <locus from="84a"/>
                         <title type="sub">[III.1]</title>
-                        <incipit><supplied><title xml:lang="lat">De litis constestatione</title> ; manque le début du titre (équivalent d’un f. de texte) ;<seg type="incipit">ton aversaire sanz l’autorité a celui qui t’avoit en garde et li prevolz donna sentence contre toi, celle sentence n’a pas auctorité de chose jugiee.</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De litis constestatione</title>
+                        <incipit>Ton aversaire sanz l’autorité a celui qui t’avoit en garde et li prevolz donna sentence contre toi, celle sentence n’a pas auctorité de chose jugiee.<note> ; manque le début du titre (équivalent d’un f. de texte) ;</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="86a"/>
@@ -3863,8 +3858,8 @@
                       <msItem>
                         <locus from="112d"/>
                         <title type="sub">[III.10] </title>
-                        <incipit><supplied><title xml:lang="lat">De testium publicatione</title> ; ni rubrique ni saut de ligne. Un simple pied-de-mouche précède le début du titre ; <seg type="incipit">Li pueploiemenz des
-                          <expan>tesmoi<ex>n</ex>z</expan> doit estre fez qant l’une partie <expan><ex>et</ex></expan> l’autre est presente...</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De testium publicatione</title>
+                        <incipit>Li pueploiemenz des <expan>tesmoi<ex>n</ex>z</expan> doit estre fez qant l’une partie <expan><ex>et</ex></expan> l’autre est presente...<note> ; ni rubrique ni saut de ligne. Un simple pied-de-mouche précède le début du titre ; </note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="115a"/>
@@ -5389,11 +5384,8 @@
                       <msItem>
                         <locus from="106a"/>
                         <title type="sub">[17] [III.14]</title>
-                        <incipit><seg type="rubric"><expan><ex>Com</ex>b<ex>ie</ex>n</expan> on doit croire
-                          <expan>i<ex>n</ex>st<ex>ru</ex>m<ex>en</ex>t</expan></seg>
-                          <supplied resp="#FD"><title xml:lang="lat">De praesumptionibus</title>;<seg type="incipit">Nous avons acompli le <expan>t<ex>ra</ex>itié</expan> de prueve veraie et pleniere qui est faite
-                            <expan>p<ex>ar</ex></expan>
-                            <expan>tesmoi<ex>n</ex>z</expan> ou par instrumens...</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De praesumptionibus</title>
+                        <incipit><seg type="rubric"><expan><ex>Com</ex>b<ex>ie</ex>n</expan> on doit croire <expan>i<ex>n</ex>st<ex>ru</ex>m<ex>en</ex>t</expan></seg> ; Nous avons acompli le <expan>t<ex>ra</ex>itié</expan> de prueve veraie et pleniere qui est faite <expan>p<ex>ar</ex></expan> <expan>tesmoi<ex>n</ex>z</expan> ou par instrumens...</incipit>
                       </msItem>
                       <msItem>
                         <locus from="108a"/>
@@ -6138,11 +6130,8 @@
                       <msItem>
                         <locus from="28b"/>
                         <title type="sub">[7] [II.6]</title>
-                        <incipit><supplied><title xml:lang="lat">De recusationibus judicum</title> ; réserve pour une rubrique non réalisée et réserve et lettre d’attente pour initiale ;
-                          <seg type="incipit">Pour <expan>ce<ex>n</ex></expan>
-                            <expan>q<ex>ue</ex></expan> il est perilleuse chose de pledier <expan>p<ex>ar</ex></expan>
-                            <expan>deva<ex>n</ex>t</expan> juge soupecenoux
-                            <expan><ex>et</ex></expan> aucune fois en est courrociez en la fin...</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De recusationibus judicum</title>
+                        <incipit>Pour <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> il est perilleuse chose de pledier <expan>p<ex>ar</ex></expan> <expan>deva<ex>n</ex>t</expan> juge soupecenoux <expan><ex>et</ex></expan> aucune fois en est courrociez en la fin...<note> ; réserve pour une rubrique non réalisée et réserve et lettre d’attente pour initiale ; </note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="30d"/>
@@ -6343,10 +6332,8 @@
                       <msItem>
                         <locus from="69b"/>
                         <title type="sub">[13] [III.12]</title>
-                        <incipit><supplied><title xml:lang="lat">Quibus testibus fides adhibeatur et quanta</title> ; réserve mais pas de rubrique ; lettre d’attente et réserve pour initiale ;<seg type="incipit">Pour ce <expan>q<ex>ue</ex></expan> li tesmoing <expan>q<ex>ui</ex></expan>
-                          <expan>so<ex>n</ex>t</expan> amené en jugement
-                          <expan>so<ex>n</ex>t</expan> aucune fois
-                          <expan><ex>con</ex>t<ex>ra</ex>ire</expan></seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">Quibus testibus fides adhibeatur et quanta</title>
+                        <incipit>Pour ce <expan>q<ex>ue</ex></expan> li tesmoing <expan>q<ex>ui</ex></expan> <expan>so<ex>n</ex>t</expan> amené en jugement <expan>so<ex>n</ex>t</expan> aucune fois <expan><ex>con</ex>t<ex>ra</ex>ire</expan><note> ; réserve mais pas de rubrique ; lettre d’attente et réserve pour initiale ;</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="70d"/>
@@ -6404,71 +6391,33 @@
                       <msItem>
                         <locus from="82c"/>
                         <title type="sub">[2] [IV.2]</title>
-                        <incipit><seg type="rubric">Ce titres est des presumptions .xvii.</seg>
-                          <supplied><title xml:lang="lat">Quae sententia sit ipso iure nulla</title> ;<seg type="incipit">Nous
-                            <expan>avo<ex>n</ex></expan> dit el
-                            <expan>tit<ex>re</ex></expan>
-                            <expan>ava<ex>n</ex>t</expan>
-                            <expan>q<ex>ue</ex></expan>
-                            <expan>d<ex>ro</ex>is</expan> est fés
-                            <expan>ent<ex>re</ex></expan> les
-                            <expan>p<ex>ar</ex>ties</expan>
-                            <expan>p<ex>ar</ex></expan>
-                            <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>
-                            <expan>diffi<ex>ni</ex>tive</expan>...</seg></supplied></incipit>
+                        <incipit>
+                          <seg type="rubric">Ce titres est des presumptions .xvii.</seg>
+                          <supplied><title xml:lang="lat">Quae sententia sit ipso iure nulla</title> ;<seg type="incipit">Nous <expan>avo<ex>n</ex></expan> dit el <expan>tit<ex>re</ex></expan> <expan>ava<ex>n</ex>t</expan> <expan>q<ex>ue</ex></expan> <expan>d<ex>ro</ex>is</expan> est fés <expan>ent<ex>re</ex></expan> les <expan>p<ex>ar</ex>ties</expan> <expan>p<ex>ar</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> <expan>diffi<ex>ni</ex>tive</expan>...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="83d"/>
                         <title type="sub">[3] [IV.3]</title>
-                        <incipit><supplied><title xml:lang="lat">Quo remedio valida sententia sublevetur</title> ; réserve pour rubrique et pour initiale non réalisées ; lettre d’attente ;<seg type="incipit">Nous <expan>avo<ex>n</ex></expan>
-                          <expan>t<ex>ra</ex>itié</expan> el
-                          <expan>tit<ex>re</ex></expan>
-                          <expan>deva<ex>n</ex>t</expan>
-                          <expan><ex>com</ex>m<ex>en</ex>t</expan>
-                          <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> n’a point de force, or <expan>voio<ex>n</ex>s</expan>
-                          <expan><ex>com</ex>m<ex>en</ex>t</expan>
-                          <expan>se<ex>n</ex>te<ex>n</ex>ce</expan>
-                          <expan>q<ex>ui</ex></expan> vaut est sorlegié...</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">Quo remedio valida sententia sublevetur</title>
+                        <incipit>Nous <expan>avo<ex>n</ex></expan> <expan>t<ex>ra</ex>itié</expan> el <expan>tit<ex>re</ex></expan> <expan>deva<ex>n</ex>t</expan> <expan><ex>com</ex>m<ex>en</ex>t</expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> n’a point de force, or <expan>voio<ex>n</ex>s</expan> <expan><ex>com</ex>m<ex>en</ex>t</expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> <expan>q<ex>ui</ex></expan> vaut est sorlegié...<note> ; réserve pour rubrique et pour initiale non réalisées ; lettre d’attente ;</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="85c"/>
                         <title type="sub">[4] [IV.4]</title>
                         <incipit><seg type="rubric">Cist titres parole des executions de sentence</seg>
-                          <supplied><title xml:lang="lat">De exsecutione sententiae</title> ; réserve pour rubrique et pour initiale non réalisées; lettre d’attente ;<seg type="incipit">Pour <expan>ce<ex>n</ex></expan>
-                            <expan>q<ex>ue</ex></expan> il ne soffit pas
-                            <expan>q<ex>ue</ex></expan>
-                            <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> soit
-                            <expan>do<ex>n</ex>nee</expan> se elle n’est
-                            <expan>ma<ex>n</ex>dee</expan> a
-                            <expan>execut<ex>i</ex>on</expan>...</seg></supplied></incipit>
+                          <supplied><title xml:lang="lat">De exsecutione sententiae</title> ; réserve pour rubrique et pour initiale non réalisées; lettre d’attente ;<seg type="incipit">Pour <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> il ne soffit pas <expan>q<ex>ue</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> soit <expan>do<ex>n</ex>nee</expan> se elle n’est <expan>ma<ex>n</ex>dee</expan> a <expan>execut<ex>i</ex>on</expan>...</seg></supplied></incipit>
                       </msItem>
                       <msItem>
                         <locus from="88c"/>
                         <title type="sub">[5] [IV.5]</title>
-                        <incipit><supplied><title xml:lang="lat">De appellationibus</title> ; réserve pour rubrique et pour initiale non réalisées; lettre d’attente ;<seg type="incipit">Nos deismes
-                          <expan>ava<ex>n</ex>t</expan>
-                          <expan>q<ex>ue</ex></expan>
-                          <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> est sorlegie
-                          <expan>p<ex>ar</ex></expan> apel
-                          <expan><ex>et</ex></expan>
-                          <expan>po<ex>ur</ex></expan>
-                          <expan>ce<ex>n</ex></expan>
-                          <expan>voulo<ex>n</ex></expan>
-                          <expan>no<ex>us</ex></expan>
-                          <expan>t<ex>ra</ex>itier</expan> d’apel</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De appellationibus</title>
+                        <incipit>Nos deismes <expan>ava<ex>n</ex>t</expan> <expan>q<ex>ue</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> est sorlegie <expan>p<ex>ar</ex></expan> apel <expan><ex>et</ex></expan> <expan>po<ex>ur</ex></expan> <expan>ce<ex>n</ex></expan> <expan>voulo<ex>n</ex></expan> <expan>no<ex>us</ex></expan> <expan>t<ex>ra</ex>itier</expan> d’apel<note> ; réserve pour rubrique et pour initiale non réalisées; lettre d’attente ;</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="91d"/>
                         <title type="sub">[6] [IV.6]</title>
-                        <incipit><supplied><title xml:lang="lat">De in integrum restitutione</title> ; place en fin de ligne pour une courte rubrique ; réserve pour initiale non réalisée ; lettre d’attente ;<seg type="incipit">Pour
-                          <expan>ce<ex>n</ex></expan>
-                          <expan>q<ex>ue</ex></expan> li
-                          <expan>jugem<ex>en</ex>s</expan> est aucune fois rapeleis <expan>p<ex>ar</ex></expan> le benefice d’<expan>e<ex>n</ex>t<ex>er</ex>ine</expan>
-                          <expan>restitut<ex>i</ex>on</expan> la
-                          <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> ne puet
-                          <expan>est<ex>re</ex></expan> rapelee
-                          <expan>p<ex>ar</ex></expan> nul
-                          <expan>aut<ex>re</ex></expan> remede...</seg></supplied></incipit>
+                        <title xml:lang="lat" resp="#FD">De in integrum restitutione</title>
+                        <incipit>Pour <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> li <expan>jugem<ex>en</ex>s</expan> est aucune fois rapeleis <expan>p<ex>ar</ex></expan> le benefice d’<expan>e<ex>n</ex>t<ex>er</ex>ine</expan> <expan>restitut<ex>i</ex>on</expan> la <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> ne puet <expan>est<ex>re</ex></expan> rapelee <expan>p<ex>ar</ex></expan> nul <expan>aut<ex>re</ex></expan> remede...<note> ; place en fin de ligne pour une courte rubrique ; réserve pour initiale non réalisée ; lettre d’attente ;</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="94c"/>

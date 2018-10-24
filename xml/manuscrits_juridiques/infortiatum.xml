@@ -1543,7 +1543,8 @@
                         <msItem>
                           <locus from="59b"/>
                           <title type="sub">[D. 28.8]</title>
-                          <incipit><supplied resp="#FD"><title resp="#FD">De jure deliberandi</title> ; réserve prévue, mais pas de rubrique ;<seg type="incipit">Ulpians dit : Se serf est fez hoirs nos ne li dirons pas terme de conseillier soi de recevoir l’eritage mes a son seignor car li serf ne sont conté por riens en tel chose.</seg></supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De jure deliberandi</title>
+                          <incipit>Ulpians dit : Se serf est fez hoirs nos ne li dirons pas terme de conseillier soi de recevoir l’eritage mes a son seignor car li serf ne sont conté por riens en tel chose.<note> ; réserve prévue, mais pas de rubrique ;</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_livre5">
@@ -1937,14 +1938,14 @@
                         <msItem>
                           <locus from="193d"/>
                           <title type="sub">[D. 37.8]</title>
-                          <incipit><seg type="rubric">De metre feme grosse en
-                            <expan>posessio<ex>n</ex></expan> des
-                            <expan>b<ex>ie</ex>ns</expan></seg><supplied resp="#FD"><title xml:lang="lat">De coniungendis cum emancipato liberis eius</title> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.8</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De coniungendis cum emancipato liberis eius</title>
+                          <incipit><seg type="rubric">De metre feme grosse en <expan>posessio<ex>n</ex></expan> des <expan>b<ex>ie</ex>ns</expan></seg><note> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.8</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="195b"/>
                           <title type="sub">[D. 37.9]</title>
-                          <incipit><seg type="rubric">Del banissement qui est apelez carbonians</seg><supplied resp="#FD"><title xml:lang="lat">De ventre in possessionem mittendo et curatore eius</title> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.9</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De ventre in possessionem mittendo et curatore eius</title>
+                          <incipit><seg type="rubric">Del banissement qui est apelez carbonians</seg><note> ; erreur dans la rubrique mais les paragraphes qui suivent correspondent bien au titre D. 37.9</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="196d"/>
