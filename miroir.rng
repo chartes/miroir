@@ -342,6 +342,10 @@
     <element name="locus">
       <a:documentation>Foliotation de l’item du manuscrit (séquence continue ou discontinue avec liens optionnels aux images).</a:documentation>
       <!-- Pour une séquence, voir si on peut inscrire un manifest IIIF en lien -->
+      <attribute name="from"/>
+      <optional>
+        <attribute name="to"/>
+      </optional>
       <optional>
         <attribute name="facs"/>
       </optional>

@@ -4102,7 +4102,7 @@
                         <expan>p<ex>er</ex>e</expan>. <expan><ex>et</ex></expan> il fait ce puis qu’il a fait sen
                         <expan>testam<ex>en</ex>t</expan> li
                         <expan>testam<ex>en</ex>s</expan>
-                        <expan><ex>est</ex></expan> rompus autresi come se uns autres hoirs fust puis nés. ¶ <foreign xml:lang="lat" rend="underlined">Posteriore</foreign>. ¶ <label>[2]</label> Li premiers
+                        <expan><ex>est</ex></expan> rompus autresi come se uns autres hoirs fust puis nés. ¶ <foreign xml:lang="lat" rend="u">Posteriore</foreign>. ¶ <label>[2]</label> Li premiers
                         <expan>testam<ex>en</ex>s</expan>
                         <expan>q<ex>ue</ex></expan>
                         <expan>aucu<ex>n</ex>s</expan> fist est
@@ -4125,7 +4125,7 @@
                         <expan>p<ex>ar</ex></expan> le daarrain.
                         <expan><ex>et</ex></expan> li daarrains n’a nule force por che <expan>q<ex>ue</ex></expan> nus n’estoit hoirs. ¶
                         <label>[3]</label>
-                        <foreign xml:lang="lat" rend="underlined"><expan>S<ex>ed</ex></expan> si quis</foreign>. ¶ Mais se
+                        <foreign xml:lang="lat" rend="u"><expan>S<ex>ed</ex></expan> si quis</foreign>. ¶ Mais se
                         <expan>aucu<ex>n</ex>s</expan> a
                         <expan>p<ex>re</ex>mierem<ex>en</ex>t</expan>
                         <expan>p<ex>ar</ex>fait</expan> sen
@@ -4166,7 +4166,7 @@
                         <expan><ex>et</ex></expan> en ceste maniere est
                         <expan>testam<ex>en</ex>s</expan> rous. ¶
                         <label>[4]</label>
-                        <foreign xml:lang="lat" rend="underlined">Alio</foreign>. ¶ Li
+                        <foreign xml:lang="lat" rend="u">Alio</foreign>. ¶ Li
                         <expan>testam<ex>en</ex>s</expan> qui
                         <expan><ex>est</ex></expan> fais <expan>p<ex>ar</ex></expan> droit <expan><ex>est</ex></expan>
                         <expan>q<ex>ua</ex>ssés</expan> en une autre maniere
@@ -4191,7 +4191,7 @@
                         <expan>s<ex>on</ex>t</expan> rout. ou il
                         <expan>s<ex>on</ex>t</expan> fait vain. ¶
                         <label>[6]</label>
-                        <foreign xml:lang="lat" rend="underlined">Non tamen</foreign>
+                        <foreign xml:lang="lat" rend="u">Non tamen</foreign>
                         <pb n="f. 33c"/> Neporquant li <expan>testam<ex>en</ex>t</expan> qui <expan>fure<ex>n</ex>t</expan> fait
                         <expan>p<ex>ar</ex></expan> droit au
                         <expan>com<ex>en</ex>chement</expan>.
@@ -10595,7 +10595,7 @@
                       <l>Et mist ce prologue devant.</l>
                     </lg>
                     <lg xml:id="harley_4477-inst.1.1">
-                      <lg rend="underlined">
+                      <lg rend="u">
                         <l>¶ Cil qui les drois <expan>no<ex>us</ex></expan> baille
                           <expan><ex>et</ex></expan> livre</l>
                         <l>Enseigne <expan>q<ex>ue</ex></expan> le premier livre</l>
@@ -10800,7 +10800,7 @@
                       <l>Et <expan>p<ex>ar</ex></expan> voye des lois menee.</l>
                     </lg>
                     <lg xml:id="harley_4477-inst.1.2">
-                      <lg rend="underlined">
+                      <lg rend="u">
                         <l>¶ Qui ce tiltre <expan>no<ex>m</ex>mer</expan> vouldroit</l>
                         <l>Il est de justice et de droit.</l>
                       </lg>
@@ -10892,7 +10892,7 @@
                   <div type="edition" n="2">
                     <head>Inst. 2.17</head>
                     <lg xml:id="harley_4477-inst.2.17">
-                      <lg rend="underlined"><!-- Le soulignement ne s'affiche pas : transformation ? -->
+                      <lg rend="u"><!-- Le soulignement ne s'affiche pas : transformation ? -->
                         <l>Cest tiltre est <expan>q<ex>ua</ex>nt</expan> testament</l>
                         <l>Peult estre quassé et <expan>co<ex>m</ex>ment</expan>.</l>
                       </lg>
