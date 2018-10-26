@@ -585,13 +585,12 @@
                   <msName type="sigle" resp="édition_Cropp">P</msName>
                 </msIdentifier>
                 <msContents>
-                  <p>recueil de 16 textes, dont le <title>Roman de la Rose</title>, le
-                    <title>Testament</title> et le <title>Codicille</title> de
+                  <p>recueil de 16 textes, dont le <title>Roman de la Rose</title>, le <title>Testament</title> et le <title>Codicille</title> de
                     <persName type="ancien">Jean de Meun</persName>, ainsi que les deux « romans » du <persName type="ancien">Reclus de Molliens</persName> ; <persName type="traducteur">Adam de Suel</persName>, traduction française des
                     <title>Distiques</title> de <persName type="ancien">Caton</persName> [titre : <title type="ancien">Chaton en françoys</title> f. 125c] f. 125c-128d ; traduction VI de la
-                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Boesce de consolacion</title> (rubr.) f. 201a ;
-                    <title type="ancien">Cy finent les livres de Boesce <lb/>que j’ay escript a grant angoesce</title> (rubr.) f. 221b] sans prologue (début-V, m. 2) f. 201a-217b (inc. <seg type="incipit">Je qui sueil diter et escrire <lb/>Les livres de haute matire
-                      <lb/>Et d’estuide avoie la flour <lb/>Fais or diz de duel et de plour</seg> ; expl. ...<seg type="explicit">Riens ne se puet a lui celer, <lb/>Ne nuit ne li puet riens veler <lb/>Quanque fu et sera et soit. <lb/>A I seul regart trestout voit, <lb/>Car il met tout par tout son ray : <lb/>Appellons le « Souleil veray ». <lb/>Jusques cy souffist par tant come il en appartient aus lais et depuis ci jusques a la fin a esté pris de la translacion que fist maistre Jehan de Meun et est trop fort a entendre se n’est a gens bien lettrez</seg> (rubr.)) ; traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun (V, pr. 3-fin) f. 217b-221b (inc. <seg type="incipit">Lors je dis Or suy je confondus par plus greveuse doubtance que devant</seg>... ; expl. ...<seg type="explicit">C’est a dire grans mestiers vous est que vous soiez preudome quant vous faites toutes voz euvres devant les yeulz du juge qui toutes choses voit</seg>).</p>
+                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Boesce de consolacion</title> (rubr.) f. 201a ; <title type="ancien">Cy finent les livres de Boesce <lb/>que j’ay escript a grant angoesce</title> (rubr.) f. 221b] sans prologue (début-V, m. 2) f. 201a-217b (inc.
+                    <seg type="incipit">Je qui sueil diter et escrire <lb/>Les livres de haute matire <lb/>Et d’estuide avoie la flour <lb/>Fais or diz de duel et de plour</seg> ; expl. ...
+                    <seg type="explicit">Riens ne se puet a lui celer, <lb/>Ne nuit ne li puet riens veler <lb/>Quanque fu et sera et soit. <lb/>A I seul regart trestout voit, <lb/>Car il met tout par tout son ray : <lb/>Appellons le « Souleil veray ». <lb/>Jusques cy souffist par tant come il en appartient aus lais et depuis ci jusques a la fin a esté pris de la translacion que fist maistre Jehan de Meun et est trop fort a entendre se n’est a gens bien lettrez</seg> (rubr.)) ; traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun (V, pr. 3-fin) f. 217b-221b (inc. <seg type="incipit">Lors je dis Or suy je confondus par plus greveuse doubtance que devant</seg>... ; expl. ...<seg type="explicit">C’est a dire grans mestiers vous est que vous soiez preudome quant vous faites toutes voz euvres devant les yeulz du juge qui toutes choses voit</seg>).</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -601,8 +600,7 @@
                     <p>Copié par <persName type="copiste">Mathias du Rivau</persName>, originaire du Poitou (nouv acq. fr. 20001, f. 12)</p>
                   </handDesc>
                   <decoDesc>
-                    <p>illustration : 1 miniature découpée en tête de la traduction des
-                      <title>Distiques</title> (f. 125c) ; 1 autre conservée d’1/4 de la justification (f. 125d).</p>
+                    <p>illustration : 1 miniature découpée en tête de la traduction des <title>Distiques</title> (f. 125c) ; 1 autre conservée d’1/4 de la justification (f. 125d).</p>
                   </decoDesc>
                 </physDesc>
                 <history>
@@ -4126,10 +4124,9 @@
                   <p>recueil de 16 textes, dont le <title>Roman de la Rose</title>, le <title>Testament</title> et le <title>Codicille</title> de
                     <persName type="ancien">Jean de Meun</persName>, ainsi que les deux « romans » du <persName type="ancien">Reclus de Molliens</persName> ; <persName type="traducteur">Adam de Suel</persName>, traduction française des
                     <title>Distiques</title> de <persName type="ancien">Caton</persName> [titre : <title type="ancien">Chaton en françoys</title> f. 125c] f. 125c-128d ; traduction VI de la
-                    <title>Consolatio Philosophiae</title> de Boèce [titre :
-                    <title type="ancien">Boesce de consolacion</title> (rubr.) f. 201a ; <title type="ancien">Cy finent les livres de Boesce <lb/>que j’ay escript a grant angoesce</title> (rubr.) f. 221b] sans prologue (début-V, m. 2) f. 201a-217b (inc. <seg type="incipit">Je qui sueil diter et escrire <lb/>Les livres de haute matire <lb/>Et d’estuide avoie la flour <lb/>Fais or diz de duel et de plour</seg>... ; expl. ...<seg type="explicit">Riens ne se puet a lui celer, <lb/>Ne nuit ne li puet riens veler <lb/>Quanque fu et sera et soit.
-                      <lb/>A I seul regart trestout voit, <lb/>Car il met tout par tout son ray : <lb/>Appellons le « Souleil veray ».
-                      <lb/>Jusques cy souffist par tant come il en appartient aus lais et depuis ci jusques a la fin a esté pris de la translacion que fist maistre Jehan de Meun et est trop fort a entendre, se n’est a gens bien lettrez</seg> (rubr.)) ; traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun (V, pr. 3-fin) f. 217b-221b (inc. <seg type="incipit">Lors je dis ; Or suy je confondus par plus greveuse doubtance que devant</seg>... ; expl. ...<seg type="explicit">C’est a dire, grans mestiers vous est que vous soiez preudome quant vous faites toutes voz euvres devant les yeulz du juge qui toutes choses voit</seg>).</p>
+                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Boesce de consolacion</title> (rubr.) f. 201a ; <title type="ancien">Cy finent les livres de Boesce <lb/>que j’ay escript a grant angoesce</title> (rubr.) f. 221b] sans prologue (début-V, m. 2) f. 201a-217b (inc.
+                    <seg type="incipit">Je qui sueil diter et escrire <lb/>Les livres de haute matire <lb/>Et d’estuide avoie la flour <lb/>Fais or diz de duel et de plour</seg>... ; expl. ...
+                    <seg type="explicit">Riens ne se puet a lui celer, <lb/>Ne nuit ne li puet riens veler <lb/>Quanque fu et sera et soit.<lb/>A I seul regart trestout voit, <lb/>Car il met tout par tout son ray : <lb/>Appellons le « Souleil veray ».<lb/>Jusques cy souffist par tant come il en appartient aus lais et depuis ci jusques a la fin a esté pris de la translacion que fist maistre Jehan de Meun et est trop fort a entendre, se n’est a gens bien lettrez</seg> (rubr.)) ; traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun (V, pr. 3-fin) f. 217b-221b (inc. <seg type="incipit">Lors je dis ; Or suy je confondus par plus greveuse doubtance que devant</seg>... ; expl. ...<seg type="explicit">C’est a dire, grans mestiers vous est que vous soiez preudome quant vous faites toutes voz euvres devant les yeulz du juge qui toutes choses voit</seg>).</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>

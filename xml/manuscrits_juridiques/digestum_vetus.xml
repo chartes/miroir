@@ -13405,42 +13405,23 @@
                       <msItem xml:id="fr_5245_livre-la-roine">
                         <msItem xml:id="fr_5245_livre-la-roine_livre1_conseil" corresp="conseil_ami">
                           <locus from="1" to="51"/>
-                          <title type="partie" xml:lang="fr">Livre I, <persName role="auteur" n="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title>Conseil à un ami</title> (titres anciens : <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie... et
-                            <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine</title> f. 1; <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li consuelz
-                              <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</title> f. 1v)</title>
-                          <incipit xml:lang="fro"><seg type="rubric">Ci
-                            <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie, et fu fez por une roine de
-                            <expan>Fra<ex>n</ex>ce</expan> tres gentil et tres noble, et le fist a sa
-                            <expan>req<ex>ue</ex>ste</expan> li plus sages hons qui a son tans vesquist selonc les lois, et
-                            <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine.</seg>
-                            <lb/>
-                            <hi rend="b">A</hi> l’enprendre de ce ce
-                            <expan>q<ex>ue</ex></expan> vos m’avez tantes foiz proié et requis en apel ge joingtes mains... <pb n="f. 1"/><lb/>
-                            <seg type="rubric">Ci
-                              <expan><ex>com</ex>mence</expan> li conseulz
-                              <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</seg>
-                            <lb/>
+                          <title type="partie" xml:lang="fr">Livre I, <persName role="auteur" n="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title>Conseil à un ami</title> (titres anciens : <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie... et <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine</title> f. 1; <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li consuelz <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</title> f. 1v)</title>
+                          <incipit xml:lang="fro"><seg type="rubric">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie, et fu fez por une roine de <expan>Fra<ex>n</ex>ce</expan> tres gentil et tres noble, et le fist a sa <expan>req<ex>ue</ex>ste</expan> li plus sages hons qui a son tans vesquist selonc les lois, et <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine.</seg> <lb/>
+                            <hi rend="b">A</hi> l’enprendre de ce ce <expan>q<ex>ue</ex></expan> vos m’avez tantes foiz proié et requis en apel ge joingtes mains... <pb n="f. 1"/><lb/>
+                            <seg type="rubric">Ci <expan><ex>com</ex>mence</expan> li conseulz <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</seg> <lb/>
                             <hi rend="b">T</hi>u qui te veuls entremetre de droit fere et de terre tenir… <pb n="f. 1v" />.</incipit>
-                          <explicit xml:lang="fro">...les enfanz aus chamberieres. et les faons. aus bestes.<lb/>Ci fine li <expan>prem<ex>ier</ex>s</expan> livres la roine.
-                            <pb n="f. 51"/></explicit>
+                          <explicit xml:lang="fro">...les enfanz aus chamberieres. et les faons. aus bestes.<lb/>Ci fine li <expan>prem<ex>ier</ex>s</expan> livres la roine.<pb n="f. 51"/></explicit>
                           <msItem>
                             <locus from="1"/>
-                            <incipit><seg type="rubric">Ci
-                              <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie, et fu fez por une roine de
-                              <expan>Fra<ex>n</ex>ce</expan> tres gentil et tres noble, et le fist a sa
-                              <expan>req<ex>ue</ex>ste</expan> li plus sages hons qui a son tans vesquist selonc les lois, et
-                              <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine</seg></incipit>
+                            <incipit><seg type="rubric">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie, et fu fez por une roine de <expan>Fra<ex>n</ex>ce</expan> tres gentil et tres noble, et le fist a sa <expan>req<ex>ue</ex>ste</expan> li plus sages hons qui a son tans vesquist selonc les lois, et <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine</seg></incipit>
                           </msItem>
                           <msItem>
                             <locus from="1v"/>
-                            <incipit><seg type="rubric">Ci
-                              <expan><ex>com</ex>mence</expan> li conseulz
-                              <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</seg></incipit>
+                            <incipit><seg type="rubric">Ci <expan><ex>com</ex>mence</expan> li conseulz <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</seg></incipit>
                           </msItem>
                           <msItem>
                             <locus from="1v"/>
-                            <incipit><seg type="rubric">Ci
-                              <expan><ex>com</ex>mence</expan> des semonsses qu'en fet as frans <expan><ex>et</ex></expan> as vileins</seg></incipit>
+                            <incipit><seg type="rubric">Ci <expan><ex>com</ex>mence</expan> des semonsses qu'en fet as frans <expan><ex>et</ex></expan> as vileins</seg></incipit>
                           </msItem>
                           <msItem>
                             <locus from="2"/>

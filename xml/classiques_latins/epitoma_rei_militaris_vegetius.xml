@@ -271,7 +271,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc n="Incipit" type="biblissima">
+          <msDesc n="incipit" type="biblissima">
             <msIdentifier>
               <settlement>Carpentras</settlement>
               <repository>bibl. mun.</repository>
