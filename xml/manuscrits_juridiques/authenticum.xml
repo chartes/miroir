@@ -103,9 +103,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 498</idno>
-                  <altIdentifier>
-                    <idno>A</idno>
-                  </altIdentifier>
+                  <altIdentifier><idno>A</idno></altIdentifier>
                 </msIdentifier>
               </msDesc>
             </ref>
@@ -369,7 +367,7 @@
               <head>Manuscrits</head>
               <div>
                 <head>Bruxelles, Bibl. royale de Belgique, 10467</head>
-                <msDesc xml:id="kbr_10467" type="biblissima">
+                <msDesc xml:id="kbr_10467" type="main"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>Belgique</country>
                     <settlement>Bruxelles</settlement>
@@ -1417,7 +1415,7 @@
               </div>
               <div>
                 <head>London, British Libr., Royal 20.D.IX</head>
-                <msDesc  xml:id="bl_royal20" type="biblissima">
+                <msDesc  xml:id="bl_royal20" type="main"><!--type="biblissima"-->
                   <msIdentifier>
                     <country>Angleterre</country>
                     <settlement>London</settlement>
@@ -2445,7 +2443,9 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.13]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De classicis</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De classicis</title>
+                          <note>Rubrique et texte manquent.</note>
+                          <incipit/>
                         </msItem>
                         <msItem>
                           <locus from="155a"/>
@@ -5996,7 +5996,7 @@
               </div>
               <div>
                 <head>Paris, Bibl. nat. de Fr., fr. 22970</head>
-                <msDesc xml:id="fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r" type="biblissima">
+                <msDesc xml:id="fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r" type="main"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
