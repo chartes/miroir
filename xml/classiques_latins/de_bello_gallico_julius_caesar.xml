@@ -510,7 +510,7 @@
         <div type="manuscrit">
           <head>Collection privée</head>
           <listBibl type="msList">
-            <msDesc xml:id="ms7" type="biblissima">
+            <msDesc xml:id="ms7" type="main">
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -828,7 +828,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_728" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_728" n="vu ms" type="main">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -853,8 +853,7 @@
               <additional>
                 <listBibl>
                   <bibl>P. Arnauldet, « Inventaire de la librairie du château de Blois en 1518 », dans <title>Le bibliographe moderne</title>, t. VI, 1902, p. 308-309</bibl>
-                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
-                    <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 374-375</bibl>
+                  <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 374-375</bibl>
                 </listBibl>
               </additional>
             </msDesc>
