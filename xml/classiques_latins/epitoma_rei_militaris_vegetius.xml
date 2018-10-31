@@ -2213,7 +2213,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2693" corresp="stratagemata_frontinus.xml#arsenal_2693" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2693" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -2238,7 +2238,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1234" corresp="stratagemata_frontinus.xml#fr_1234" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1234" sameAs="stratagemata_frontinus.xml#fr_1234" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2266,7 +2266,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1235" corresp="stratagemata_frontinus.xml#fr_1235" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1235" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2292,7 +2292,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_24257" corresp="stratagemata_frontinus.xml#fr_24257" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_24257" sameAs="stratagemata_frontinus.xml#fr_24257" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

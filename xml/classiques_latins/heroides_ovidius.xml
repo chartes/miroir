@@ -1388,7 +1388,7 @@
         <div type="manuscrit">
           <head>Collections privées</head>
           <listBibl type="msList">
-            <msDesc type="biblissima" xml:id="ms33">
+            <msDesc xml:id="heroides_ms33" type="biblissima">
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1403,7 +1403,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc type="biblissima" xml:id="ms34">
+            <msDesc xml:id="heroides_ms34" type="biblissima">
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1418,7 +1418,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="ms35" type="biblissima">
+            <msDesc xml:id="heroides_ms35" type="biblissima">
               <msIdentifier>
                 <settlement/>
                 <repository/>

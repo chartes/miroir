@@ -298,7 +298,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_881" corresp="de_vetula_pseudo_ovidius.xml#fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_881" sameAs="de_vetula_pseudo_ovidius.xml#fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -449,7 +449,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_12478" corresp="remedia_amoris_ovidius.xml#fr_12478" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_12478" sameAs="remedia_amoris_ovidius.xml#fr_12478" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

@@ -128,7 +128,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" corresp="epistola_alexandri_ad_aristotelem.xml#kbr_11104-05" n="vu mf" type="biblissima">
+            <msDesc xml:id="kbr_11104-05" n="vu mf" type="biblissima">
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>

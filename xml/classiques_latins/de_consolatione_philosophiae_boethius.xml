@@ -1260,7 +1260,7 @@
                   <origin notBefore="1383" notAfter="1383">1383 [n.s.] (proche du ms Paris, bibl. de la Sorbonne, 126, f. 466v [1379], <title>Mss datés</title>, t. I, pl. 57)</origin>
                 </history>
               </msDesc>
-              <msDesc xml:id="fr_1543" corresp="stratagemata_frontinus.xml#fr_1543" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1543" sameAs="stratagemata_frontinus.xml#fr_1543" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>

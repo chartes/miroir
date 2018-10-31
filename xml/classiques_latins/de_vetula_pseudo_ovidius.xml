@@ -227,7 +227,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_881" corresp="ars_amatoria_ovidius.xml#fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

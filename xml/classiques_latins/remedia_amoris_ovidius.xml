@@ -165,7 +165,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_12478" corresp="ars_amatoria_ovidius.xml#fr_12478" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_12478" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -338,7 +338,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lille_388" corresp="de_disciplina_scolarium_psudo_boethius.xml#lille_388" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="lille_388" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Lille</settlement>
                 <repository>bibl. mun.</repository>

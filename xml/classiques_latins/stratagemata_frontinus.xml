@@ -156,7 +156,7 @@
               <div type="manuscrit">
                 <head>Manuscrit</head>
                 <listBibl type="msList">
-                  <msDesc xml:id="fr_1543" corresp="de_consolatione_philosophiae_boethius.xml#fr_1543" type="main"><!-- type="biblissima" -->
+                  <msDesc xml:id="fr_1543" type="main"><!-- type="biblissima" -->
                     <msIdentifier>
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
@@ -496,7 +496,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2693" corresp="epitoma_rei_militaris_vegetius.xml#arsenal_2693" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -547,7 +547,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1234" corresp="epitoma_rei_militaris_vegetius.xml#fr_1234" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1234" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -575,7 +575,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1235" corresp="epitoma_rei_militaris_vegetius.xml#fr_1235" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -602,7 +602,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_24257" corresp="epitoma_rei_militaris_vegetius.xml#fr_24257" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_24257" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
