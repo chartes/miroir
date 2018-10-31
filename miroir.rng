@@ -78,6 +78,12 @@
     </element>
   </define>
   
+  <!--
+    on cherche à distinguer les notices principales (maître) des notices secondaires
+    les notices principales = //msDesc[@xml:id and not(sameAs)]
+      càd les notices identifiées comme maître dans un fichier et qui ne sont pas reproduites (@sameAs) dans un second fichier
+      TODO: réfléchir à la normalisation des atts (biblissima, singleton, main, etc.) -> @type est-il bien utile (préciser la sémantique : notice maître ou exhasutive ?) ?
+  -->
   <define name="msDesc.main.atts">
     <attribute name="type">
       <a:documentation>Noter qu’il s’agit du msDesc maître</a:documentation>
@@ -120,15 +126,15 @@
     <attribute name="n">
       <choice>
         <value>incipit</value>
-        <a:documentation>???????????????????????????????</a:documentation>
+        <a:documentation>Définit la source de l'édition d'un ou plusieurs incipit.</a:documentation>
         <value>prologue</value>
-        <a:documentation>???????????????????????????????</a:documentation>
+        <a:documentation>Définit la source de l'édition d'un prologue.</a:documentation>
         <!-- on trouve @n='vu mf' et @n='vu ms' or @n est de type teidata.text (= string) => pas de valeur multiple... on normalise en vu_mf et vu_ms ? -->
         <!-- "vu mf" = vu microfilm  //  "vu ms" = vu manuscrit -->
         <value>vu mf</value>
-        <a:documentation>???????????????????????????????</a:documentation>
+        <a:documentation>Source consultée via son microfilm.</a:documentation>
         <value>vu ms</value>
-        <a:documentation>???????????????????????????????</a:documentation>
+        <a:documentation>Source consultée directement sur le manuscrit.</a:documentation>
       </choice>
     </attribute>
   </define>
