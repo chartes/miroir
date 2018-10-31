@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <!--<?xml-stylesheet type="text/xsl" href="../xsl/oeuvre_2.xsl"?>-->
@@ -97,7 +97,7 @@
           <head>Conspectus siglorum</head>
           <witness xml:id="A">
             <ref target="#fr_498">
-              <msDesc>
+              <msDesc corresp="#fr_498">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -110,7 +110,7 @@
           </witness>
           <witness xml:id="F">
             <ref target="#fr_22970">
-              <msDesc>
+              <msDesc corresp="#fr_22970">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -125,7 +125,7 @@
           </witness>
           <witness xml:id="L">
             <ref target="#kbr_10467">
-              <msDesc>
+              <msDesc corresp="#kbr_10467">
                 <msIdentifier>
                   <country>Belgique</country>
                   <settlement>Bruxelles</settlement>
@@ -140,7 +140,7 @@
           </witness>
           <witness xml:id="O">
             <ref target="#bl_royal20">
-              <msDesc>
+              <msDesc corresp="#bl_royal20">
                 <msIdentifier>
                   <country>Angleterre</country>
                   <settlement>London</settlement>

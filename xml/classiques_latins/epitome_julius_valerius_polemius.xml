@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="epitome_julius_valerius_polemius" xml:lang="fr">
@@ -88,7 +88,7 @@
         <div type="edition">
           <head>Transcription des deux premiers chapitres</head>
           <p>d'après le ms</p>
-          <msDesc type="biblissima">
+          <msDesc corresp="#kbr_11104-05" type="biblissima">
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -110,7 +110,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" type="biblissima">
+          <msDesc corresp="#kbr_11104-05" n="incipit" type="biblissima">
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -128,7 +128,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" n="vu mf" type="biblissima">
+            <msDesc xml:id="kbr_11104-05" corresp="epistola_alexandri_ad_aristotelem.xml#kbr_11104-05" n="vu mf" type="biblissima">
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>

@@ -88,7 +88,7 @@
             <head>Conspectus siglorum</head>
             <witness xml:id="A">
               <ref target="#kbr_21227"><!-- Pour renvoyer à la notice -->
-                <msDesc>
+                <msDesc corresp="#kbr_21227">
                   <msIdentifier>
                     <country>Belgique</country>
                     <settlement>Bruxelles</settlement>
@@ -103,7 +103,7 @@
             </witness>
             <witness xml:id="B">
               <ref target="#metz_1196">
-                <msDesc>
+                <msDesc corresp="#metz_1196">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Metz</settlement>
@@ -118,7 +118,7 @@
             </witness>
             <witness xml:id="C">
               <ref target="#marston_228">
-                <msDesc>
+                <msDesc corresp="#marston_228">
                   <msIdentifier>
                     <country>Etats-Unis</country>
                     <settlement>New Haven</settlement>
@@ -131,7 +131,7 @@
                 </msDesc></ref>
             </witness>
             <witness xml:id="D">
-              <ref target="#fr_1073"><msDesc>
+              <ref target="#fr_1073"><msDesc corresp="#fr_1073">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -145,7 +145,7 @@
             </witness>
             <witness xml:id="E">
               <ref target="#fr_1074">
-                <msDesc>
+                <msDesc corresp="#fr_1074">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -160,7 +160,7 @@
             </witness>
             <witness xml:id="F">
               <ref target="#fr_1075">
-                <msDesc>
+                <msDesc corresp="#fr_1075">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -175,7 +175,7 @@
             </witness>
             <witness xml:id="G">
               <ref target="#fr_25546">
-                <msDesc>
+                <msDesc corresp="#fr_25546">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -190,7 +190,7 @@
             </witness>
             <witness xml:id="H">
               <ref target="#nafr_10046">
-                <msDesc>
+                <msDesc corresp="#nafr_10046">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -205,7 +205,7 @@
             </witness>
             <witness xml:id="I">
               <ref target="#stomer_545">
-                <msDesc>
+                <msDesc corresp="#stomer_545">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Saint-Omer</settlement>
@@ -638,8 +638,8 @@
         <div type="manuscrit" n="I.1">
           <list type="listMs">
             <head>Copies existantes</head>
-            <item xml:id="kbr_21227" corresp="ARK_manuscrit">
-              <msDesc type="manifestation_singleton">
+            <item corresp="ARK_manuscrit"><!-- xml:id="kbr_21227" -->
+              <msDesc xml:id="kbr_21227" type="manifestation_singleton">
                 <msIdentifier>
                   <country>Belgique</country>
                   <settlement>Bruxelles</settlement>
@@ -1308,8 +1308,8 @@
                   <expan>q<ex>ue</ex></expan> par <expan>deva<ex>n</ex>t</expan> celuy en cuy poesté il at son <expan>ma<ex>n</ex>noir</expan>.</p>
               </div>
             </item>
-            <item xml:id="metz_1196" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md38jd475j5s">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md38jd475j5s"><!-- xml:id="metz_1196" -->
+              <msDesc xml:id="metz_1196" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Metz</settlement>
@@ -2209,8 +2209,8 @@
                   <expan>deva<ex>n</ex>t</expan> celui en cui poestei il ai son manoir.</p>
               </div>
             </item>
-            <item xml:id="marston_228" corresp="ARK_manuscrit">
-              <msDesc type="manifestation_singleton">
+            <item corresp="ARK_manuscrit"><!-- xml:id="marston_228" -->
+              <msDesc xml:id="marston_228" type="manifestation_singleton">
                 <msIdentifier>
                   <country>Etats-Unis</country>
                   <settlement>New Haven</settlement>
@@ -2970,8 +2970,8 @@
                   <expan>q<ex>ue</ex></expan> par devant celui en qui poosté il a son manoir.</p>
               </div>
             </item>
-            <item xml:id="fr_1073" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596684">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596684"><!-- xml:id="fr_1073" -->
+              <msDesc xml:id="fr_1073" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -3517,8 +3517,8 @@
                   <expan>q<ex>ue</ex></expan> par devant celui en qui poosté il a son manoir.</p>
               </div>
             </item>
-            <item xml:id="fr_1074" corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059667q">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059667q"><!-- xml:id="fr_1074" -->
+              <msDesc xml:id="fr_1074" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -4246,8 +4246,8 @@
                   <expan>so<ex>n</ex></expan> manoir.</p>
               </div>
             </item>
-            <item xml:id="fr_1075" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596936">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596936"><!-- xml:id="fr_1075" -->
+              <msDesc xml:id="fr_1075" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -5022,8 +5022,8 @@
                   <expan>p<ex>ar</ex></expan> devant le juge ou qui juridion il est alez que <expan>p<ex>ar</ex></expan> devant celi ou il a son maners.</p>
               </div>
             </item>
-            <item xml:id="fr_25546" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162"><!-- xml:id="fr_25546" -->
+              <msDesc xml:id="fr_25546" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -5921,8 +5921,8 @@
                   <expan>p<ex>ar</ex></expan> devant celui en cui poesté il a son manoir.</p>
               </div>
             </item>
-            <item xml:id="nafr_10046" corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000004652">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000004652"><!--  xml:id="nafr_10046" -->
+              <msDesc xml:id="nafr_10046" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -7142,8 +7142,8 @@
                 </div>
               </div>
             </item>
-            <item xml:id="stomer_545" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md150g355d33">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md150g355d33"><!-- xml:id="stomer_545" -->
+              <msDesc xml:id="stomer_545" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Saint-Omer</settlement>
@@ -8122,8 +8122,8 @@
         <div type="deperdita" n="I.2">
           <list type="deperdita">
             <head>Manuscrits détruits</head>
-            <item xml:id="chartres_212" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md945q47v99n">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md945q47v99n"><!-- xml:id="chartres_212" -->
+              <msDesc xml:id="chartres_212" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Chartres</settlement>
@@ -8186,8 +8186,8 @@
                 </additional>
               </msDesc>
             </item>
-            <item xml:id="tours_658" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md72b8518b0w">
-              <msDesc type="manifestation_singleton">
+            <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md72b8518b0w"><!-- xml:id="tours_658" -->
+              <msDesc xml:id="tours_658" type="manifestation_singleton">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Tours</settlement>

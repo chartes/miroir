@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_vetula_pseudo_ovidius" xml:lang="fr">
@@ -93,7 +93,7 @@
         <div type="edition epilogue">
           <head>Epilogue</head>
           <p>d'après le ms</p>
-          <msDesc n="epilogue" type="biblissima">
+          <msDesc corresp="#fr_881" n="epilogue" type="biblissima">
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -116,7 +116,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc n="incipit" type="biblissima">
+            <msDesc corresp="#fr_881" n="incipit" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -168,7 +168,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc n="incipit" type="biblissima">
+            <msDesc corresp="#fr_2327" n="incipit" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -195,7 +195,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc n="incipit" type="biblissima">
+            <msDesc corresp="#fr_19138" n="incipit" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -227,7 +227,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_881" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_881" corresp="ars_amatoria_ovidius.xml#fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -259,7 +259,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_2327" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_2327" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -278,7 +278,7 @@
                 <provenance>Possesseur : f. 1 essais de plume avec mention du nom de <quote>« <persName type="possesseur" key="Robert Sirorost">Robert Sirorost</persName> »</quote></provenance>
               </history>
             </msDesc>
-            <msDesc xml:id="fr_19138" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_19138" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

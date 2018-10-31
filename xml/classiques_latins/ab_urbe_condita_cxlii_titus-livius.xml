@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ab_urbe_condita_cxlii_titus_livius" xml:lang="fr">
@@ -129,7 +129,13 @@
         </div>
         <div type="incipit">
           <head>Incipit d’après le Paris, BnF, fr. 263</head>
-          <bibl type="ms"><msIdentifier source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b"><settlement>Paris,</settlement> <repository>Bibl. nat. de Fr.,</repository> <idno>fr. 263</idno></msIdentifier>.</bibl>
+          <!--<bibl type="ms">
+            <msIdentifier source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b">
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 263</idno>
+            </msIdentifier>.
+          </bibl>-->
           <msDesc type="contents" corresp="#fr_263" source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
@@ -3511,7 +3517,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <bibl><title type="ancien">Les gestes romaines, nouvellement imprimez</title>, Paris, <publisher>Antoine Vérard</publisher>, <date notBefore="1500" notAfter="1515">ca 1508</date></bibl>
-              <msDesc type="????"><!-- type="biblissima" -->
+              <msDesc xml:id="impr_titeLive_verard" type="????"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement/>
                   <repository/>

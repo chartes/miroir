@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="factorum_dictorum_memorabilium_libri_ix_valerius_maximus" xml:lang="fr">
@@ -112,7 +112,7 @@
         <div type="edition epilogue">
           <head>Épilogue du traducteur</head>
           <p>d’après le ms</p>
-          <msDesc n="epilogue" type="biblissima">
+          <msDesc corresp="#fr_282" n="epilogue" type="biblissima">
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -124,7 +124,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d’après le ms</p>
-          <msDesc n="incipit" type="biblissima">
+          <msDesc corresp="#fr_282" n="incipit" type="biblissima">
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -227,7 +227,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="berlin_breslauI-II" type="biblissima">
+            <msDesc xml:id="berlin_breslauI-II" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Berlin</settlement>
                 <repository>Staatsbibl. zu Berlin-Preussischer Kulturbesitz</repository>
@@ -261,7 +261,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="berlin_hdschr94" type="biblissima">
+            <msDesc xml:id="berlin_hdschr94" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Berlin</settlement>
                 <repository>Staatsbibl. zu Berlin-Preussischer Kulturbesitz</repository>
@@ -294,7 +294,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="brugge_157-159" type="biblissima">
+            <msDesc xml:id="brugge_157-159" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Brugge</settlement>
                 <repository>Groot Seminarie</repository>
@@ -326,7 +326,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="kbr_9078" n="vu mf" type="biblissima">
+            <msDesc xml:id="kbr_9078" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -358,7 +358,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="kbr_II7318" n="vu ms" type="biblissima">
+            <msDesc xml:id="kbr_II7318" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -376,7 +376,7 @@
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
               </history>
             </msDesc>
-            <msDesc xml:id="cambrai_687" n="vu mf" type="biblissima">
+            <msDesc xml:id="cambrai_687" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Cambrai</settlement>
                 <repository>bibl. mun.</repository>
@@ -400,7 +400,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="chantilly_833-834" n="vu ms" type="biblissima">
+            <msDesc xml:id="chantilly_833-834" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Chantilly</settlement>
                 <repository>Musée Condé</repository>
@@ -438,7 +438,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="douai_879" n="vu mf" type="biblissima">
+            <msDesc xml:id="douai_879" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Douai</settlement>
                 <repository>bibl. mun.</repository>
@@ -465,7 +465,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="geneve_fr73" type="biblissima">
+            <msDesc xml:id="geneve_fr73" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Genève</settlement>
                 <repository>Bibl. publique et universitaire</repository>
@@ -491,7 +491,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="s.Gravenhage_66b13" type="biblissima">
+            <msDesc xml:id="s.Gravenhage_66b13" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>s’Gravenhage</settlement>
                 <repository>Koninklijke Bibl.</repository>
@@ -521,7 +521,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="s.Gravenhage_71d42" type="biblissima">
+            <msDesc xml:id="s.Gravenhage_71d42" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>s’Gravenhage</settlement>
                 <repository>Koninklijke Bibl.</repository>
@@ -556,7 +556,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="s.Gravenhage_71e68" type="biblissima">
+            <msDesc xml:id="s.Gravenhage_71e68" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>s’Gravenhage</settlement>
                 <repository>Koninklijke Bibl.</repository>
@@ -585,7 +585,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="thulb_gall87" type="biblissima">
+            <msDesc xml:id="thulb_gall87" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Jena</settlement>
                 <repository>Thüringer Universitäts- und Landesbibl.</repository>
@@ -612,7 +612,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="thulb_gall88" type="biblissima">
+            <msDesc xml:id="thulb_gall88" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Jena</settlement>
                 <repository>Thüringer Universitäts- und Landesbibl.</repository>
@@ -642,7 +642,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="leiden_bpl2552" type="biblissima">
+            <msDesc xml:id="leiden_bpl2552" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Leiden</settlement>
                 <repository>Bibl. der Rijksuniversiteit</repository>
@@ -660,7 +660,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="leipzig_repI11b" type="biblissima">
+            <msDesc xml:id="leipzig_repI11b" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Leipzig</settlement>
                 <repository>Universitätsbibl.</repository>
@@ -691,7 +691,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="lille_443" type="biblissima">
+            <msDesc xml:id="lille_443" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Lille</settlement>
                 <repository>bibl. mun.</repository>
@@ -718,7 +718,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="limoges_7" n="vu ms" type="biblissima">
+            <msDesc xml:id="limoges_7" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Limoges</settlement>
                 <repository>bibl. mun.</repository>
@@ -743,7 +743,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_harley4372-4373" n="vu ms" type="biblissima">
+            <msDesc xml:id="bl_harley4372-4373" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -772,7 +772,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_harley4374-4375" n="vu ms" type="biblissima">
+            <msDesc xml:id="bl_harley4374-4375" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -800,7 +800,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_harley4430" n="vu ms" type="biblissima">
+            <msDesc xml:id="bl_harley4430" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -827,7 +827,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal17fIV" n="vu ms" type="biblissima">
+            <msDesc xml:id="bl_royal17fIV" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -857,7 +857,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal18e3-4" n="vu ms" type="biblissima">
+            <msDesc xml:id="bl_royal18e3-4" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -887,7 +887,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bne_res8" n="vu mf partiel" type="biblissima">
+            <msDesc xml:id="bne_res8" n="vu mf partiel" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Madrid</settlement>
                 <repository>Bibl. Nacional</repository>
@@ -915,7 +915,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="manchester_fr63" type="biblissima">
+            <msDesc xml:id="manchester_fr63" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Manchester</settlement>
                 <repository>John Rylands University Libr.</repository>
@@ -940,7 +940,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="milano_trivulziana" n="vu mf" type="biblissima">
+            <msDesc xml:id="milano_trivulziana" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Milano</settlement>
                 <repository>Bibl. Trivulziana [dépôt de la Regione Lombardia]</repository>
@@ -965,7 +965,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="montpellier_23" n="vu mf" type="biblissima">
+            <msDesc xml:id="montpellier_23" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Montpellier</settlement>
                 <repository>bibl. interuniversitaire, section Médecine</repository>
@@ -991,7 +991,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="met_31.134.8" type="biblissima">
+            <msDesc xml:id="met_31.134.8" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>New York</settlement>
                 <repository>Metropolitan Museum of Art</repository>
@@ -1020,7 +1020,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bodleian_douce202-203" type="biblissima">
+            <msDesc xml:id="bodleian_douce202-203" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Oxford</settlement>
                 <repository>Bodleian Libr.</repository>
@@ -1047,7 +1047,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bodleian_rawlinsond876-877" type="biblissima">
+            <msDesc xml:id="bodleian_rawlinsond876-877" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Oxford</settlement>
                 <repository>Bodleian Libr.</repository>
@@ -1074,7 +1074,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_5194-5" n="vu ms" type="biblissima">
+            <msDesc xml:id="arsenal_5194-5" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -1102,7 +1102,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_5196" n="vu mf" type="biblissima">
+            <msDesc xml:id="arsenal_5196" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -1133,7 +1133,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_5221" n="vu ms" type="biblissima">
+            <msDesc xml:id="arsenal_5221" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -1163,7 +1163,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_5775" n="vu ms" type="biblissima">
+            <msDesc xml:id="arsenal_5775" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -1187,7 +1187,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="mazarine_1595" n="vu ms" type="biblissima">
+            <msDesc xml:id="mazarine_1595" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. Mazarine</repository>
@@ -1218,7 +1218,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_41" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_41" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1248,7 +1248,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_42-43" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_42-43" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1275,7 +1275,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_44" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_44" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1304,7 +1304,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_45-46" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_45-46" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1336,7 +1336,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_282" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_282" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1365,7 +1365,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_283-285" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_283-285" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1400,7 +1400,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_286" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_286" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1427,7 +1427,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_288-289" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_288-289" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1455,7 +1455,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_290" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_290" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1485,7 +1485,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_291" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_291" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1515,7 +1515,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc n="vu ms" xml:id="fr_292" type="biblissima">
+            <msDesc xml:id="fr_292" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1537,7 +1537,7 @@
                 <provenance>possesseur : ms travaillé, conçu pour la consultation (commentaires en latin, notes, papier incisé avec compléments)</provenance>
               </history>
             </msDesc>
-            <msDesc xml:id="fr_737" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_737" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1561,7 +1561,7 @@
                 <origin notBefore="1401" notAfter="1500">XVe s. (f. 15 proche du ms Paris, bibl. Sainte-Geneviève 1036, f. 171 [1456], <title>Mss datés</title>, t. I, pl. 113)</origin>
               </history>
             </msDesc>
-            <msDesc xml:id="fr_738" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_738" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1580,7 +1580,7 @@
                 <provenance>Possesseur : <persName type="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> (armes f. 1)</provenance>
               </history>
             </msDesc>
-            <msDesc xml:id="fr_6185" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_6185" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1611,7 +1611,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_6445" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_6445" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1638,7 +1638,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_9749" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_9749" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1668,7 +1668,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_15471" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_15471" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1694,7 +1694,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_20318" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_20318" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1721,7 +1721,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_20319" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_20319" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1749,7 +1749,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_20320" n="vu mf" type="biblissima">
+            <msDesc xml:id="fr_20320" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1776,7 +1776,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_23090-31" n="vu ms" type="biblissima">
+            <msDesc xml:id="fr_23090-31" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1800,7 +1800,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="nafr_6367" n="vu ms" type="biblissima">
+            <msDesc xml:id="nafr_6367" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1823,7 +1823,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="nafr_20233" n="vu ms" type="biblissima">
+            <msDesc xml:id="nafr_20233" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1850,7 +1850,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="sorbonne_51" n="vu ms" type="biblissima">
+            <msDesc xml:id="sorbonne_51" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de la Sorbonne</repository>
@@ -1877,7 +1877,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="torino_1634" n="vu mf" type="biblissima">
+            <msDesc xml:id="torino_1634" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Torino</settlement>
                 <repository>Bibl. nazionale universitaria</repository>
@@ -1898,7 +1898,7 @@
                 <origin>(proche du ms Paris, bibl. de l’Arsenal, 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
               </history>
             </msDesc>
-            <msDesc xml:id="torino_1673" n="vu mf" type="biblissima">
+            <msDesc xml:id="torino_1673" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Torino</settlement>
                 <repository>Bibl. nazionale universitaria</repository>
@@ -1925,7 +1925,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="troyes_261" type="biblissima">
+            <msDesc xml:id="troyes_261" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Troyes</settlement>
                 <repository>bibl. mun.</repository>
@@ -1955,7 +1955,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="onb_2544" type="biblissima">
+            <msDesc xml:id="onb_2544" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Wien</settlement>
                 <repository>Österreichische Nationalbibl.</repository>
@@ -1984,7 +1984,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="wroclav_rehdig48-49" type="biblissima">
+            <msDesc xml:id="wroclav_rehdig48-49" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Wroclaw</settlement>
                 <repository>Bibl. Uniwersytecka</repository>
@@ -2012,7 +2012,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="zb_rhhist162-163" type="biblissima">
+            <msDesc xml:id="zb_rhhist162-163" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Zürich</settlement>
                 <repository>Zentralbibl.</repository>
@@ -2043,7 +2043,7 @@
         <div type="manuscrit">
           <head>Manuscrit dans une collection privée</head>
           <listBibl type="msList">
-            <msDesc xml:id="london_perrins39" type="biblissima">
+            <msDesc xml:id="london_perrins39" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>Perrins Collection</repository>
@@ -2077,7 +2077,7 @@
         <div type="deperdita">
           <head>Manuscrit perdu</head>
           <listBibl type="deperdita">
-            <msDesc xml:id="tours_983" type="biblissima">
+            <msDesc xml:id="tours_983" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Tours</settlement>
                 <repository>bibl. mun.</repository>
@@ -2180,7 +2180,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc type="biblissima">
+            <msDesc corresp="#fr_287" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2252,7 +2252,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_287" n="vu mf" type="biblissima">
+              <msDesc xml:id="fr_287" n="vu mf" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2296,7 +2296,7 @@
           <div type="edition prologue">
             <head>Prologue</head>
             <p>d'après le ms</p>
-            <msDesc type="biblissima">
+            <msDesc corresp="#fr_2118" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2308,7 +2308,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc type="biblissima">
+            <msDesc corresp="#fr_2118" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2333,7 +2333,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_2118" n="vu ms" type="biblissima">
+              <msDesc xml:id="fr_2118" n="vu ms" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2381,7 +2381,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc n="incipit" type="biblissima">
+            <msDesc corresp="#fr_2125" n="incipit" type="biblissima">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2418,7 +2418,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_2125" n="vu ms" type="biblissima">
+              <msDesc xml:id="fr_2125" n="vu ms" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2444,7 +2444,7 @@
       <div type="deperdita">
         <head>Manuscrits perdus ou non identifiés</head>
         <listBibl type="deperdita">
-          <msDesc xml:id="lisboa_a4.3" type="biblissima">
+          <msDesc xml:id="lisboa_a4.3" type="main"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Lisboa</settlement>
               <repository>Bibl. Real da Corte</repository>

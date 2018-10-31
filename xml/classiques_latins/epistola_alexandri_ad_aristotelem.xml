@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="epistola_alexandri_ad_aristotelem" xml:lang="fr">
@@ -90,7 +90,7 @@
         <div type="edition">
           <head>Transcription du début du texte</head>
           <p>d’après le ms</p>
-          <msDesc type="biblissima">
+          <msDesc corresp="#kbr_14561-4" type="biblissima">
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -105,7 +105,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" type="biblissima">
+          <msDesc corresp="#kbr_14561-4" n="incipit" type="biblissima">
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -125,7 +125,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_14561-4" n="vu ms" type="biblissima">
+            <msDesc xml:id="kbr_14561-4" n="vu ms" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -168,7 +168,7 @@
         <div type="edition">
           <head>Transcription du début du texte</head>
           <p>d’après le ms</p>
-          <msDesc type="biblissima">
+          <msDesc corresp="#kbr_11104-05" type="biblissima">
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -186,7 +186,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" type="biblissima">
+          <msDesc corresp="#kbr_11104-05" n="incipit" type="biblissima">
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -210,14 +210,15 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" n="vu mf" type="biblissima">
+            <msDesc xml:id="kbr_11104-05" corresp="epitome_julius_valerius_polemius.xml#kbr_11104-05" n="vu mf" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
                 <idno>11104-05</idno>
               </msIdentifier>
               <msContents>
-                <p>traduction française anonyme de l’<title>Epitome</title> de <persName type="ancien">Julius Valerius</persName> : table des chapitres f. 1-9, f. 9v blanc, texte f. 10-65v ; traduction française anonyme de l’<title>Epistola Alexandri ad Aristotelem</title> f. 66-90v [titre : <title type="ancien">Cy commence la table de la seconde partie de ce livre qui est des merveillez que eut Alexandre en Ynde</title> f. 6v].</p>
+                <p>traduction française anonyme de l’<title>Epitome</title> de <persName type="ancien">Julius Valerius</persName> : table des chapitres f. 1-9, f. 9v blanc, texte f. 10-65v ; traduction française anonyme de l’<title>Epistola Alexandri ad Aristotelem</title> f. 66-90v [titre :
+                  <title type="ancien">Cy commence la table de la seconde partie de ce livre qui est des merveillez que eut Alexandre en Ynde</title> f. 6v].</p>
               </msContents>
               <physDesc>
                 <objectDesc>

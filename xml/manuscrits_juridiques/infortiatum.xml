@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="infortiatum" xml:lang="fr">
@@ -84,7 +84,7 @@
         <p>Cette traduction anonyme nous est transmise par deux témoins: <listWit>
           <witness xml:id="B">
             <ref target="#bordeaux_354">
-              <msDesc>
+              <msDesc corresp="#bordeaux_354">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Bordeaux</settlement>
@@ -99,7 +99,7 @@
           </witness>
           <witness xml:id="R">
             <ref target="#rouen_794">
-              <msDesc>
+              <msDesc corresp="#rouen_794">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Rouen</settlement>
@@ -159,8 +159,8 @@
           <head>Tradition directe</head>
           <div type="manuscrit">
             <list type="listMs">
-              <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" xml:id="bordeaux_354">
-                <msDesc type="manifestation_singleton">
+              <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300"><!-- xml:id="bordeaux_354" -->
+                <msDesc xml:id="bordeaux_354" type="manifestation_singleton">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Bordeaux</settlement>
@@ -1235,8 +1235,8 @@
                   </div>
                 </div>
               </item>
-              <item xml:id="rouen_794" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32">
-                <msDesc type="manifestation_singleton">
+              <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32">
+                <msDesc xml:id="rouen_794" type="manifestation_singleton">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Rouen</settlement>
