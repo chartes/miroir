@@ -153,7 +153,7 @@
             </listBibl>
             <div type="manuscrit">
               <head>Paris, Bibl. nat. de Fr., fr. 2844</head>
-              <msDesc xml:id="fr_2844" corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059006z" resp="#GP" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_2844" source="http://gallica.bnf.fr/ark:/12148/btv1b9059006z" resp="#GP" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -4517,7 +4517,7 @@
             <p>Une traduction identique de la <title xml:lang="lat">Constitutio omnem</title> se trouve dans le ms Paris, Bibl. nat. de Fr., fr. 197 (traduction 2) et dans le ms Paris, Bibl. nat. de Fr., fr. 20118 (trad. 3), alors qu’elle est absente des autres témoins complets. Une étude des procédés traductifs permettrait peut-être de savoir à quelle traduction assigner ce passage, qui témoigne d’une circulation des versions françaises en un même milieu.</p>
             <div type="manuscrit">
               <head>Paris, Bibl. nat. de Fr., fr. 197</head>
-              <msDesc xml:id="fr_197" corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000048506" type="main"><!--type="biblissima"-->
+              <msDesc xml:id="fr_197" source="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000048506" type="main"><!--type="biblissima"-->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -6230,7 +6230,7 @@
                   <head>Manuscrits</head>
                   <div>
                     <head>Bruxelles, Bibl. royale de Belgique, 9234</head>
-                    <msDesc xml:id="kbr_9234" corresp="ARK_manuscrit" type="main"><!-- type="biblissima" -->
+                    <msDesc xml:id="kbr_9234" source="ARK_manuscrit" type="main"><!-- type="biblissima" -->
                       <msIdentifier>
                         <country>Belgique</country>
                         <settlement>Bruxelles</settlement>
@@ -7996,7 +7996,7 @@
                   </div>
                   <div>
                     <head>Leiden, Universiteitsbibliotheek, Meijers fr. 3</head>
-                    <msDesc xml:id="leiden_meijers_fr3" corresp="ARK_manuscrit" type="main"><!-- type="biblissima" -->
+                    <msDesc xml:id="leiden_meijers_fr3" source="ARK_manuscrit" type="main"><!-- type="biblissima" -->
                       <msIdentifier>
                         <country>Pays-Bas</country>
                         <settlement>Leiden</settlement>
@@ -8214,7 +8214,7 @@
                   </div>
                   <div>
                     <head>Paris, Bibl. nat. de Fr., fr. 495</head>
-                    <msDesc xml:id="fr_495" corresp="http://gallica.bnf.fr/ark:/12148/btv1b84471866" type="main"><!-- type="biblissima" -->
+                    <msDesc xml:id="fr_495" source="http://gallica.bnf.fr/ark:/12148/btv1b84471866" type="main"><!-- type="biblissima" -->
                       <msIdentifier>
                         <country>France</country>
                         <settlement>Paris</settlement>
@@ -11260,7 +11260,7 @@
                   </div>
                   <div>
                     <head>Paris, Bibl. nat. de Fr., fr. 20118</head>
-                    <msDesc xml:id="fr_20118" corresp="http://gallica.bnf.fr/ark:/12148/btv1b84557828" type="main"><!-- type="biblissima" -->
+                    <msDesc xml:id="fr_20118" source="http://gallica.bnf.fr/ark:/12148/btv1b84557828" type="main"><!-- type="biblissima" -->
                       <msIdentifier>
                         <country>France</country>
                         <settlement>Paris</settlement>
@@ -13380,7 +13380,7 @@
                 </listBibl>
                 <div type="manuscrit">
                   <head>Paris, Bibl. nat. de Fr., fr. 5245</head>
-                  <msDesc xml:id="fr_5245" corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000090869" type="main" resp="#LM"><!-- type="biblissima" -->
+                  <msDesc xml:id="fr_5245" source="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000090869" type="main" resp="#LM"><!-- type="biblissima" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -14457,7 +14457,7 @@
               <head>Manuscrits</head>
               <div>
                 <head>Montpellier, bibl. interuniversitaire, section Médecine, H 47</head>
-                <msDesc xml:id="montpellier_h47" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md5370797r5z" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="montpellier_h47" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md5370797r5z" type="main"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Montpellier</settlement>

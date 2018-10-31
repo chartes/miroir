@@ -5996,7 +5996,7 @@
               </div>
               <div>
                 <head>Paris, Bibl. nat. de Fr., fr. 22970</head>
-                <msDesc xml:id="fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="fr_22970" source="http://gallica.bnf.fr/ark:/12148/btv1b8447870r" type="main"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
