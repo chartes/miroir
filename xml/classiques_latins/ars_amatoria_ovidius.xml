@@ -544,7 +544,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>]</bibl>
-            <msDesc xml:id="impr_ovide_1500" type="biblissima">
+            <msDesc xml:id="impr_ovide_1500" type="imprime"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>

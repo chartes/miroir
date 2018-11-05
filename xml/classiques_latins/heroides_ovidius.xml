@@ -1766,7 +1766,7 @@
         <div type="incipit">
           <head>Incipit d’après l’<ref target="#imprime34_heroides">éd. Paris, Pierre le Dru, ca 1500</ref></head>
           <bibl><title type="ancien">Le Vergier d’honneur nouvellement imprimé a Paris</title>, <publisher>Pierre Le Dru</publisher> ? pour <publisher>Antoine Vérard</publisher> ?, <date notBefore="1495" notAfter="1505">ca 1500</date>.</bibl>
-          <msDesc xml:id="impr_ovide_leDruVerard" type="biblissima">
+          <msDesc xml:id="impr_ovide_leDruVerard" type="imprime"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>

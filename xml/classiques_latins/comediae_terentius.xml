@@ -342,7 +342,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl><publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1490" notAfter="1510">vers 1500</date></bibl>
-          <msDesc xml:id="impr_comediae_verard">
+          <msDesc xml:id="impr_comediae_verard" type="imprime">
             <msIdentifier>
               <settlement/>
               <repository/>

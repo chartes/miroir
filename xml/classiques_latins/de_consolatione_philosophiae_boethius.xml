@@ -6007,7 +6007,7 @@
           </listBibl>
           <div type="incipit">
             <head>Incipit</head>
-            <msDesc xml:id="impr_boece" type="biblissima">
+            <msDesc xml:id="impr_boece" type="imprime"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>

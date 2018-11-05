@@ -3517,7 +3517,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <bibl><title type="ancien">Les gestes romaines, nouvellement imprimez</title>, Paris, <publisher>Antoine Vérard</publisher>, <date notBefore="1500" notAfter="1515">ca 1508</date></bibl>
-              <msDesc xml:id="impr_titeLive_verard" type="????"><!-- type="biblissima" -->
+              <msDesc xml:id="impr_titeLive_verard" type="imprime"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement/>
                   <repository/>
