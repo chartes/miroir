@@ -100,7 +100,7 @@
           <head>Incipit</head>
           <bibl>le manuscrit et l’édition d’Antoine Vérard</bibl>
           <p>Les titres français donnés à la suite des titres latins sont tirés de l’édition Vérard. Les titres donnés par le manuscrit apparaissent à la suite de l’argument.</p>
-          <msDesc n="incipit" corresp="#nafr_4804" type="biblissima">
+          <msDesc n="incipit" corresp="#nafr_4804"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>

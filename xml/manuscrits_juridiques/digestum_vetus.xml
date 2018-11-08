@@ -3967,8 +3967,8 @@
                     <expan>q<ex>u</ex>ant</expan> la cause est
                     <expan>q<ex>ue</ex>neue</expan>.</p>
                 </div>
-                <head type="edition" n="2" xml:id="fr_2844.D.28.1.22">
-                  <div>D. 28.1.22 [LJP, XII 1]</div>
+                <div type="edition" n="2" xml:id="fr_2844.D.28.1.22">
+                  <head>D. 28.1.22 [LJP, XII 1]</head>
                   <p><pb n="f. 109d"/>
                     <label>[28.1.22]</label>
                     <hi rend="b">C</hi>il meismes dit. <label>[pr.]</label> je et mis <expan>p<ex>er</ex>es</expan>. et plusors
@@ -4050,7 +4050,7 @@
                     <expan>p<ex>ar</ex></expan> le <expan>d<ex>r</ex>oit</expan> citeen. <expan><ex>et</ex></expan>
                     <expan>p<ex>ar</ex></expan> celi au
                     <expan>p<ex>re</ex>vost</expan>.</p>
-                </head>
+                </div>
               </div>
               <div type="edition" n="digestum_novum" resp="Graziella Pastore" xml:id="fr_2844.D.42.1">
                 <head>D. 42.1 [LJP, XVI 1]</head>

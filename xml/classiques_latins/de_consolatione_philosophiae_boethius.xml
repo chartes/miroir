@@ -120,7 +120,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#onb_2642" n="incipit" type="biblissima">
+            <msDesc corresp="#onb_2642" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Wien</settlement>
                 <repository>Österreichische Nationalbibl.</repository>
@@ -195,7 +195,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition R. Schroth</bibl>
-            <msDesc corresp="#troyes_898" n="incipit" type="biblissima">
+            <msDesc corresp="#troyes_898" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Troyes</settlement>
                 <repository>bibl. mun.</repository>
@@ -269,7 +269,7 @@
             <div type="prologue">
               <head>Prologue</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_821" n="prologue" type="biblissima">
+              <msDesc corresp="#fr_821" n="prologue"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -281,7 +281,7 @@
             <div type="epilogue">
               <head>Conclusion</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_821" n="conclusion" type="biblissima">
+              <msDesc corresp="#fr_821" n="conclusion"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -295,7 +295,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_821" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_821" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -380,7 +380,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition V. L. Dedeck-Héry</bibl>
-            <msDesc corresp="#fr_1097" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_1097" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1109,7 +1109,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#bav_lat4788" n="incipit" type="biblissima">
+            <msDesc corresp="#bav_lat4788" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -1196,7 +1196,7 @@
           <div type="edition epilogue">
             <head>Epilogue</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_576" n="epilogue" type="biblissima">
+            <msDesc corresp="#fr_576" n="epilogue"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1209,7 +1209,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_576" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_576" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1307,7 +1307,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition J. K. Atkinson, <title>« Boeces : De Consolacion. »</title></bibl>
-            <msDesc corresp="#fr_1096" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_1096" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1332,7 +1332,7 @@
           <div type="manuscrit">
             <head>Manuscrits</head>
             <listBibl type="msList">
-              <msDesc xml:id="amiens_412.2" sameAs="#amiens_412" n="vu mf" type="biblissima">
+              <msDesc xml:id="amiens_412.2" sameAs="#amiens_412" n="vu mf"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Amiens</settlement>
                   <repository>bibl. mun.</repository>
@@ -1549,7 +1549,7 @@
           </listBibl>
           <div type="edition sommaire">
             <head>Sommaire du <title>Romant de Fortune et de Felicité</title></head>
-            <msDesc corresp="#fr_24307" n="sommaire" type="biblissima">
+            <msDesc corresp="#fr_24307" n="sommaire"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1563,7 +1563,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>le ms de base de l’édition B. M. Atherton</bibl>
-            <msDesc corresp="#glasgow_hunterian439" n="incipit" type="biblissima">
+            <msDesc corresp="#glasgow_hunterian439" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Glasgow</settlement>
                 <repository>Hunterian Museum</repository>
@@ -2556,7 +2556,7 @@
             </listBibl>
             <div type="edition prologue">
               <head>Prologue</head>
-              <msDesc corresp="#fr_25418" n="prologue" type="biblissima">
+              <msDesc corresp="#fr_25418" n="prologue"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2576,7 +2576,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_25418" type="biblissima">
+              <msDesc corresp="#fr_25418"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2641,7 +2641,7 @@
           </listBibl>
           <div type="edition colophon">
             <head>Acrostiche donnant le nom du copiste et du dédicataire</head>
-            <msDesc corresp="#nafr_1982" type="biblissima">
+            <msDesc corresp="#nafr_1982"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2654,7 +2654,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition M. M. Noest</bibl>
-            <msDesc corresp="#nafr_1982" n="incipit" type="biblissima">
+            <msDesc corresp="#nafr_1982" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -3323,7 +3323,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12238" type="biblissima">
+              <msDesc xml:id="fr_12238"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3358,7 +3358,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12239.2" sameAs="#fr_12239" n="vu ms" type="biblissima">
+              <msDesc xml:id="fr_12239.2" sameAs="#fr_12239" n="vu ms"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3765,7 +3765,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#arras_532" n="incipit" type="biblissima">
+              <msDesc corresp="#arras_532" n="incipit"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Arras</settlement>
                   <repository>bibl. mun.</repository>
@@ -3825,7 +3825,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_12459" n="incipit" type="biblissima">
+              <msDesc corresp="#fr_12459" n="incipit"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3857,7 +3857,7 @@
             <div type="manuscrit">
               <head>Manuscrit</head>
               <listBibl type="msList">
-                <msDesc xml:id="fr_12459.2" sameAs="#fr_12459" n="vu ms" type="biblissima">
+                <msDesc xml:id="fr_12459.2" sameAs="#fr_12459" n="vu ms"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -4022,7 +4022,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l' édition G. M. Cropp</bibl>
-            <msDesc corresp="#auckland_greyms119" n="incipit" type="biblissima">
+            <msDesc corresp="#auckland_greyms119" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Auckland</settlement>
                 <repository>Public Libr.</repository>
@@ -4111,7 +4111,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="dijon_525.2" sameAs="#dijon_525" type="biblissima">
+              <msDesc xml:id="dijon_525.2" sameAs="#dijon_525"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Dijon</settlement>
                   <repository>bibl. mun.</repository>
@@ -4390,7 +4390,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="nafr_20001" type="biblissima">
+              <msDesc xml:id="nafr_20001"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -6111,7 +6111,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition C. Schwarze</bibl>
-          <msDesc corresp="#orleans_444" n="incipit" type="biblissima">
+          <msDesc corresp="#orleans_444" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Orléans</settlement>
               <repository>bibl. mun.</repository>

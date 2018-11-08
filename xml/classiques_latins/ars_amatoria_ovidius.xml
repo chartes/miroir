@@ -111,7 +111,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" corresp="#fr_19152" type="biblissima">
+          <msDesc n="incipit" corresp="#fr_19152"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -177,7 +177,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition B. Roy (p. 63-70)</bibl>
-          <msDesc n="incipit" corresp="#estense_γ.G.3.20" type="biblissima">
+          <msDesc n="incipit" corresp="#estense_γ.G.3.20"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Modena</settlement>
               <repository>Bibl. Estense Universitaria</repository>
@@ -350,7 +350,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition D. Talsma</bibl>
-          <msDesc n="incipit" corresp="#dresden_oc64" type="biblissima">
+          <msDesc n="incipit" corresp="#dresden_oc64"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Dresden</settlement>
               <repository>Sächsische Landesbibl.</repository>
@@ -646,7 +646,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition A. Doutrepont</bibl>
-          <msDesc n="incipit" corresp="#nafr_4531" type="biblissima">
+          <msDesc n="incipit" corresp="#nafr_4531"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -829,7 +829,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" corresp="#fr_1593" type="biblissima">
+          <msDesc n="incipit" corresp="#fr_1593"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>

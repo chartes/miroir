@@ -126,7 +126,7 @@
         <div type="edition epilogue">
           <head>Épilogue</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#fr_38" type="biblissima">
+          <msDesc corresp="#fr_38"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -139,7 +139,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" corresp="#fr_38" type="biblissima">
+          <msDesc n="incipit" corresp="#fr_38"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -560,7 +560,7 @@
           <div type="edition prologue">
             <head>Prologue</head>
             <p>d’après le ms</p>
-            <msDesc n="prologue" corresp="#fr_280" type="biblissima">
+            <msDesc n="prologue" corresp="#fr_280"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -573,7 +573,7 @@
             <head>Incipit</head>
             <p>d’après le ms</p>
             <p>Seuls sont donnés les incipit différents.</p>
-            <msDesc n="incipit" corresp="#fr_280" type="biblissima">
+            <msDesc n="incipit" corresp="#fr_280"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -661,7 +661,7 @@
           <div type="dedicace">
             <head>Dédicace</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_728" n="dedicace" type="biblissima">
+            <msDesc corresp="#fr_728" n="dedicace"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -669,7 +669,7 @@
               </msIdentifier>
               <p><pb n="f. 1"/>A tres chrestien et tres excellent prince, Charles, huitiesme de ce nom, roy de France, Robert, ministre general de l’ordre de Sainte Trinité et redemption des prisonniers chrestiens, dit et desire, en toute humilité, honneur, gloire et longue vie <foreign>(rubr.)</foreign></p>
             </msDesc>
-            <msDesc n="dedicace" corresp="#arsenal_5222" type="biblissima">
+            <msDesc n="dedicace" corresp="#arsenal_5222"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -706,7 +706,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_728" n="incipit" type="biblissima">
+          <msDesc corresp="#fr_728" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -887,7 +887,7 @@
         <div type="manuscrit">
           <head>Collections privées</head>
           <listBibl type="msList">
-            <msDesc xml:id="ms13" type="biblissima">
+            <msDesc xml:id="ms13"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -909,7 +909,7 @@
                 <provenance>Vente Nicolay, 2 mai 1895, passé à la librairie D. Morgand</provenance>
               </history>
             </msDesc>
-            <msDesc xml:id="ms14" type="biblissima">
+            <msDesc xml:id="ms14"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>

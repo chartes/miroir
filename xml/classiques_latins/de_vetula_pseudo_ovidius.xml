@@ -93,7 +93,7 @@
         <div type="edition epilogue">
           <head>Epilogue</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_881" n="epilogue" type="biblissima">
+          <msDesc corresp="#fr_881" n="epilogue"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -116,7 +116,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_881" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_881" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -168,7 +168,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_2327" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_2327" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -195,7 +195,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_19138" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_19138" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

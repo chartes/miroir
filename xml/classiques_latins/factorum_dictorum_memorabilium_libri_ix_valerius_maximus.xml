@@ -112,7 +112,7 @@
         <div type="edition epilogue">
           <head>Épilogue du traducteur</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#fr_282" n="epilogue" type="biblissima">
+          <msDesc corresp="#fr_282" n="epilogue"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -124,7 +124,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#fr_282" n="incipit" type="biblissima">
+          <msDesc corresp="#fr_282" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -2180,7 +2180,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_287" type="biblissima">
+            <msDesc corresp="#fr_287"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2296,7 +2296,7 @@
           <div type="edition prologue">
             <head>Prologue</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_2118" type="biblissima">
+            <msDesc corresp="#fr_2118"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2308,7 +2308,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_2118" type="biblissima">
+            <msDesc corresp="#fr_2118"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2381,7 +2381,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_2125" n="incipit" type="biblissima">
+            <msDesc corresp="#fr_2125" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

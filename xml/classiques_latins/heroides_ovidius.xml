@@ -96,7 +96,7 @@
         </listBibl>
         <div type="incipit">
           <head>Incipit d’après le <ref target="#bl_royal20dI">ms London, British Libr., Royal 20 D I</ref> (éd. Barbieri)</head>
-          <msDesc corresp="#bl_royal20dI" type="biblissima">
+          <msDesc corresp="#bl_royal20dI"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>London</settlement>
               <repository>British Libr.</repository>
@@ -180,7 +180,7 @@
           <div n="A">
             <head>Manuscrits contenant la seconde rédaction de l’<title>Histoire ancienne jusqu’a Cesar</title> avec la <title>Prose 5</title> du <title>Roman de Troie</title></head>
             <listBibl type="msList">
-              <msDesc xml:id="grenoble_860" type="biblissima"><!-- type="biblissima" -->
+              <msDesc xml:id="grenoble_860"><!-- type="biblissima" --><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Grenoble</settlement>
                   <repository>bibl. mun.</repository>
@@ -197,7 +197,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_royal20dI" type="biblissima">
+              <msDesc xml:id="bl_royal20dI"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -211,7 +211,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_stowe54" type="biblissima">
+              <msDesc xml:id="bl_stowe54"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -225,7 +225,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_301" type="biblissima">
+              <msDesc xml:id="fr_301"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -239,7 +239,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="hab_cod.guelf.81.29" type="biblissima">
+              <msDesc xml:id="hab_cod.guelf.81.29"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Wolfenbüttel</settlement>
                   <repository>Herzog August Bibl.</repository>
@@ -260,7 +260,7 @@
           <div n="B">
             <head>Manuscrits contenant la seconde rédaction de l’<title>Histoire ancienne jusqu’a Cesar</title> avec la dédicace à Charles V</head>
             <listBibl type="msList">
-              <msDesc xml:id="kbr_iv555" type="biblissima">
+              <msDesc xml:id="kbr_iv555"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -274,7 +274,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="chantilly_727" type="biblissima">
+              <msDesc xml:id="chantilly_727"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -288,7 +288,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="osaka_phillipps23240" type="biblissima">
+              <msDesc xml:id="osaka_phillipps23240"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Osaka</settlement>
                   <repository>Otemai University Libr.</repository>
@@ -303,7 +303,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bodleian_douce353" type="biblissima">
+              <msDesc xml:id="bodleian_douce353"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Oxford</settlement>
                   <repository>Bodleian Libr.</repository>
@@ -317,7 +317,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_254" type="biblissima">
+              <msDesc xml:id="fr_254"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -331,7 +331,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_22554" type="biblissima">
+              <msDesc xml:id="fr_22554"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -345,7 +345,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_24396" type="biblissima">
+              <msDesc xml:id="fr_24396"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -364,7 +364,7 @@
           <div n="C">
             <head>Manuscrits contenant la <title>Prose 5</title> du <title>Roman de Troie</title> insérée dans une <title>Histoire universelle</title></head>
             <listBibl type="msList">
-              <msDesc xml:id="kbr_iv995" type="biblissima">
+              <msDesc xml:id="kbr_iv995"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -378,7 +378,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_3685" type="biblissima">
+              <msDesc xml:id="arsenal_3685"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -392,7 +392,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc  xml:id="fr_15455" type="biblissima">
+              <msDesc  xml:id="fr_15455"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -411,7 +411,7 @@
           <div n="D">
             <head>Manuscrits présentant les <title>Héroïdes</title> regroupées</head>
             <listBibl type="msList">
-              <msDesc xml:id="kbr_9572" type="biblissima">
+              <msDesc xml:id="kbr_9572"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -425,7 +425,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="cambridge_trinity0.4.26" type="biblissima">
+              <msDesc xml:id="cambridge_trinity0.4.26"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Cambridge</settlement>
                   <repository>Trinity College Libr.</repository>
@@ -439,7 +439,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_add25884" type="biblissima">
+              <msDesc xml:id="bl_add25884"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -453,7 +453,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_3326" type="biblissima">
+              <msDesc xml:id="arsenal_3326"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -494,7 +494,7 @@
               "On peut pas avoir quelque chose comme "source" ?
               revoir la forme le msDesc en top div element"
             -->
-            <msDesc corresp="#fr_1641" type="biblissima">
+            <msDesc corresp="#fr_1641"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -505,7 +505,7 @@
           </div>
           <div type="prologue">
             <head>Prologue d’après le <ref target="#fr_874">ms Paris, Bibl. nat. de Fr., fr. 874</ref></head>
-            <msDesc corresp="#fr_874" type="biblissima">
+            <msDesc corresp="#fr_874"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -602,7 +602,7 @@
         <!-- l’édition des incipit du manuscrit de référence -->
         <div type="incipit">
           <head>Incipit d’après le <ref target="#fr_1641">ms Paris, Bibl. nat. de Fr., fr. 1641</ref></head>
-          <msDesc corresp="#fr_1641" type="biblissima">
+          <msDesc corresp="#fr_1641"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -1388,7 +1388,7 @@
         <div type="manuscrit">
           <head>Collections privées</head>
           <listBibl type="msList">
-            <msDesc xml:id="heroides_ms33" type="biblissima">
+            <msDesc xml:id="heroides_ms33"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1403,7 +1403,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="heroides_ms34" type="biblissima">
+            <msDesc xml:id="heroides_ms34"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1418,7 +1418,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="heroides_ms35" type="biblissima">
+            <msDesc xml:id="heroides_ms35"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>

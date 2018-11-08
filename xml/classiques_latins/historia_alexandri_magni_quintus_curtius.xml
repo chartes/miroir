@@ -102,7 +102,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#fr_22547" n="incipit" type="biblissima">
+          <msDesc corresp="#fr_22547" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -1120,7 +1120,7 @@
         <div type="manuscrit">
           <head>Collections privées</head>
           <listBibl type="msList">
-            <msDesc xml:id="historia_alexandri_ms33" type="biblissima">
+            <msDesc xml:id="historia_alexandri_ms33"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1147,7 +1147,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="historia_alexandri_ms34" type="biblissima">
+            <msDesc xml:id="historia_alexandri_ms34"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1165,7 +1165,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="historia_alexandri_ms35" type="biblissima">
+            <msDesc xml:id="historia_alexandri_ms35"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1273,7 +1273,7 @@
           <div type="edition prologue">
             <head>Prologue du remanieur</head>
             <p>d’après le ms</p>
-            <msDesc corresp="#chantilly_756" n="prologue" type="biblissima">
+            <msDesc corresp="#chantilly_756" n="prologue"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Chantilly</settlement>
                 <repository>Musée Condé</repository>
@@ -1286,7 +1286,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d’après le ms</p>
-            <msDesc corresp="#abbeville_92" n="incipit" type="biblissima">
+            <msDesc corresp="#abbeville_92" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Abbeville</settlement>
                 <repository>bibl. mun.</repository>

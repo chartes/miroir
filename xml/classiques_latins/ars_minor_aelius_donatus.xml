@@ -92,7 +92,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#bern_439" type="biblissima">
+          <msDesc n="incipit" corresp="#bern_439"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bern</settlement>
               <repository>Burgerbibl.</repository>
@@ -159,7 +159,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#lat_14095" type="biblissima">
+          <msDesc n="incipit" corresp="#lat_14095"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -228,7 +228,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#mazarine3794" type="biblissima">
+          <msDesc n="incipit" corresp="#mazarine3794"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. Mazarine</repository>
@@ -293,7 +293,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#mazarine3794" type="biblissima">
+          <msDesc n="incipit" corresp="#mazarine3794"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. Mazarine</repository>
@@ -311,7 +311,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2" type="biblissima">
+            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. Mazarine</repository>
@@ -358,7 +358,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#bav_lat1479" type="biblissima">
+          <msDesc n="incipit" corresp="#bav_lat1479"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Vaticano</settlement>
               <repository>Bibl. apostolica Vaticana</repository>
@@ -426,7 +426,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#salins_44" type="biblissima">
+          <msDesc n="incipit" corresp="#salins_44"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Salins</settlement>
               <repository>bibl. mun.</repository>
@@ -520,7 +520,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#nafr_1120" type="biblissima">
+          <msDesc n="incipit" corresp="#nafr_1120"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -589,7 +589,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#nafr_4690" type="biblissima">
+          <msDesc n="incipit" corresp="#nafr_4690"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -655,7 +655,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="timelli_1" n="incipit" type="biblissima">
+          <msDesc xml:id="timelli_1" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>
@@ -702,7 +702,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="timelli_2" n="incipit" type="biblissima">
+          <msDesc xml:id="timelli_2" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>

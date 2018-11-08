@@ -98,7 +98,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml#fr_282" type="biblissima">
+          <msDesc corresp="factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml#fr_282"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -133,7 +133,7 @@
               <div type="incipit">
                 <head>Incipit</head>
                 <p>d'après le ms</p>
-                <msDesc corresp="#fr_1543" type="biblissima">
+                <msDesc corresp="#fr_1543"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -192,7 +192,7 @@
               <div type="incipit">
                 <head>Incipit</head>
                 <p>d'après le ms</p>
-                <msDesc corresp="#br_add18179" type="biblissima">
+                <msDesc corresp="#br_add18179"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>London</settlement>
                     <repository>British Libr.</repository>
@@ -261,7 +261,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition F. Desonay</bibl>
-            <msDesc xml:id="kbr_18210-5" type="biblissima">
+            <msDesc xml:id="kbr_18210-5"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -307,7 +307,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1233" n="incipit" type="biblissima">
+          <msDesc corresp="#fr_1233" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -366,7 +366,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_24257" n="incipit" type="biblissima">
+          <msDesc corresp="#fr_24257" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -389,7 +389,7 @@
         <div type="incipit">
           <head>Glossaire</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1234" type="biblissima">
+          <msDesc corresp="#fr_1234"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -653,7 +653,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#s.Gravenhage73j22" type="biblissima">
+          <msDesc corresp="#s.Gravenhage73j22"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>s’Gravenhage</settlement>
               <repository>Koninklijke Bibl.</repository>
