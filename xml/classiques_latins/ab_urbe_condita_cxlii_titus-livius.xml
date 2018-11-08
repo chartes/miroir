@@ -2720,7 +2720,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_296-299"><!-- type="biblissima" -->
+                    <msDesc xml:id="fr_296-299" type="main"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -2751,7 +2751,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="schotten_139-140" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc xml:id="schotten_139-140" type="main" n="vu mf"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Wien</settlement>
                         <repository>Schottenstift</repository>
