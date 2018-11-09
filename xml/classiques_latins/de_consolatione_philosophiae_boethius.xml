@@ -120,7 +120,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#onb_2642" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#onb_2642" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Wien</settlement>
                 <repository>Österreichische Nationalbibl.</repository>
@@ -144,7 +144,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="onb_2642" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="onb_2642" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Wien</settlement>
                   <repository>Österreichische Nationalbibl.</repository>
@@ -166,6 +166,7 @@
                   <origin notBefore="1201" notAfter="1250">1<hi rend="sup">re</hi> moitié du XIII<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 526 [1234-1247], <title>Mss datés</title>, t. I, pl. 13), probablement originaire du sud-est de la Bourgogne</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. J. Hermann, <title>Die romanischer Handschriften des Abenlandes</title>, t. III, n° 31, Leipzig, 1927, p. 37-38 et fig. 41</bibl>
                     <bibl>notice IRHT (1964)</bibl>
@@ -195,7 +196,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition R. Schroth</bibl>
-            <msDesc corresp="#troyes_898" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#troyes_898" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Troyes</settlement>
                 <repository>bibl. mun.</repository>
@@ -219,7 +220,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="troyes_898" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="troyes_898" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Troyes</settlement>
                   <repository>bibl. mun.</repository>
@@ -241,6 +242,7 @@
                   <provenance>possesseur : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ, comte de Chimay</persName> († 1482) ou <persName type="possesseur" key="Philippe II de Croÿ, comte de Porcéan">Philippe II de Croÿ, comte de Porcéan</persName> († 1549) (<quote>« Ce livre appartient a Mons Phe de Croÿ comte de Porchien »</quote> f. 271v, mention de la 1re moitié du XVI<hi rend="sup">e</hi> s.)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>R. Schroth, <title>Eine altfranzösische Übersetzung der Consolatio Philosophiae des Boethius (Handschrift Troyes Nr. 898), Edition und Kommentar</title>, Frankfurt/M., 1976, p. 21-43 [notice]</bibl>
                     <bibl>notice IRHT</bibl>
@@ -269,7 +271,7 @@
             <div type="prologue">
               <head>Prologue</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_821" n="prologue"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_821" n="prologue" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -281,7 +283,7 @@
             <div type="epilogue">
               <head>Conclusion</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_821" n="conclusion"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_821" n="conclusion" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -295,7 +297,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_821" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_821" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -326,7 +328,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_821" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_821" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -349,6 +351,7 @@
                   <provenance>possesseurs : bibliothèque des ducs de Milan au château de Pavie (inventaires de 1426 et 1489) ; mention du XV<hi rend="sup">e</hi> s. déchiffrée par M.-R. Jung : <quote>« Iste liber est Johannely de Midda [Medda ?] Vercellana [?] parocie Sancte Marie Podiensis »</quote> (f. 290v)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M.-R. Jung, <title>La légende de Troie en France au moyen âge</title>, p. 194-199</bibl>
                     <bibl>J. K. Atkinson, « The French and Italian translations of Boethius’ ‘Consolatio philosophiae’ by Bonaventura da Demena », dans <title>Carmina philosophiae</title>, t. 7, 1998, p. 67-80</bibl>
@@ -380,7 +383,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition V. L. Dedeck-Héry</bibl>
-            <msDesc corresp="#fr_1097" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_1097" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -404,7 +407,7 @@
           <div type="manuscrit">
             <head>Manuscrits</head>
             <listBibl type="msList">
-              <msDesc xml:id="amiens_412" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="amiens_412" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Amiens</settlement>
                   <repository>bibl. mun.</repository>
@@ -419,6 +422,7 @@
                   </objectDesc>
                 </physDesc>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 19 (1893), p. 202</bibl>
                     <bibl>J. K. Atkinson, <title>« Boeces : De Consolacion. » Edition critique d’après le manuscrit Paris, Bibl. nationale, fr. 1096, avec Introduction, Variantes, Notes et Glossaires</title>, Tübingen, 1996, p. 5-6</bibl>
@@ -462,7 +466,7 @@
                   </history>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="besancon_434" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="besancon_434" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Besançon</settlement>
                   <repository>bibl. mun.</repository>
@@ -492,6 +496,7 @@
                   <provenance>possesseur : recueil confectionné pour <persName type="possesseur" key="Charles V">Charles V</persName>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>V. A. Castan, « Un manuscrit de la bibliothèque du roi de France, Charles V retrouvé à Besançon », dans <title>Mémoires de la Société d’émulation du Doubs</title>, 1882, p. 201</bibl>
                     <bibl><title>La librairie de Charles V. Catalogue de l’exposition de la Bibliothèque nationale</title>, Paris, 1968, n° 184, p. 105-106</bibl>
@@ -501,7 +506,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10394-10414" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10394-10414" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -514,6 +519,7 @@
                   <origin notBefore="1280" notAfter="1305">fin du XIII<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2899, f. 172v [1297 (?)], <title>Mss datés</title>, t. I, pl. 26)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Quelques manuscrits méconnus de la traduction en prose de la ‘Consolatio Philosophiae’ par Jean de Meun », dans <title>Scriptorium</title>, t. 33, 1979, p. 263</bibl>
                     <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, p. 384-386</bibl>
@@ -521,7 +527,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="chantilly_283" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="chantilly_283" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -541,13 +547,14 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes, f. 1a, peints après 1485, date de la mort d’Antoine de Chourses).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 62</bibl>
                     <bibl>R. Harrouët, <title>Une famille de bibliophiles au XVe siècle : les Coëtivy</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 1999, t. II, p. 311-313</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="chantilly_284" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="chantilly_284" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -569,13 +576,14 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes, monogramme et devise f. 1a).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 63</bibl>
                     <bibl>R. Harrouët, <title>Une famille de bibliophiles au XVe siècle : les Coëtivy</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 1999, t. II, p. 314-316</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="dijon_525" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="dijon_525" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Dijon</settlement>
                   <repository>bibl. mun.</repository>
@@ -608,6 +616,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Louis de Luxembourg, comte de Saint-Pol">Louis de Luxembourg</persName>, comte de Saint-Pol, exécuté en 1475 (signature effacée f. 221) ; <persName type="possesseur" key="Regnault, Jean">Jehan Regnault</persName> (ex libris contreplat sup. XVI<hi rend="sup">e</hi> s. : avocat au Parlement de Bourgogne, identif. incertaine proposée par Y. Zaluska, marié en 1597).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 5 (1889), p. 128-129</bibl>
                     <bibl>E. Langlois, <title>Les manuscrits du Roman de la Rose, description et classement</title>, Lille-Paris, 1910, p. 122-125</bibl>
@@ -620,7 +629,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="douai_765" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="douai_765" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Douai</settlement>
                   <repository>bibl. mun.</repository>
@@ -634,6 +643,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Chrétien, abbé de Marchiennes">Chrétien, abbé de Marchiennes</persName> de 1389 à 1412  : mention <quote>« Apporté par l’abbé Chrétien au XIVe siècle »</quote> (f. 1)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in 4°, t. 6 (1878), p. 461-463</bibl>
                     <bibl>O. Weijers, <title>Pseudo-Boèce, De disciplina scolarium</title>, Leiden-Köln, 1976 (Studien und Texte zur Geistesgeschichte des Mittelaters, 12), p. 70</bibl>
@@ -716,7 +726,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="morgan_m332" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="morgan_m332" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>New York</settlement>
                   <repository>Pierpont Morgan Libr.</repository>
@@ -742,6 +752,7 @@
                   <provenance>possesseur : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 4 ; devise f. 1, 4 ; signature f. 161 et 162).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>
                       <title>Corsair : The Online Catalogue of The Pierpont Morgan Library</title>
@@ -775,7 +786,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1097" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1097" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -794,8 +805,11 @@
                   <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 734, f. 102 [1312], <title>Mss datés</title>, t. I, pl. 30)</origin>
                   <provenance>Possesseur : <quote>« <persName type="possesseur" key="Marguerite">Margueryte</persName> »</quote> (f. 59) ; devise <quote>« laz ...lite moy quel de plaisir soufre »</quote> par une main du XV<hi rend="sup">e</hi> s. (f. 59).</provenance>
                 </history>
+                <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                </additional>
               </msDesc>
-              <msDesc xml:id="fr_1098" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1098" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -818,12 +832,13 @@
                   <provenance>possesseurs : <persName type="possesseur" key="Budé, Guillaume">Guillaume Budé</persName> ; <persName type="possesseur" key="Budé, Jean">Jean Budé</persName> ; <persName type="possesseur" key="Le Tellier, Charles Maurice">Charles Maurice Le Tellier</persName>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. Plummer, <title>The last flowering French painting in manuscripts 1420-1530 from American Collection in the Pierpont Morgan Library</title>, New York, London, 1982, p. 38 [attribution d’après C. Reynaud]</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="lat_18424" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="lat_18424" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -843,12 +858,13 @@
                   <provenance>Possesseur : <quote>« Ce livre appartient a l’eglise de Chaumont »</quote> (mention du XV<hi rend="sup">e</hi> s. f. 184) ; Notre-Dame de Paris.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>Pseudo-Boèce, <title>De disciplina scolarium</title>, éd. O. Weijers, Leyde, 1976, p. 80-81 [notice]</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_732" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="arsenal_732" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -870,12 +886,13 @@
                   <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (texte français proche du ms Paris, Bibl. nat. de Fr., lat. 6342, f. 74 [1374-1376], <title>Mss datés</title>, t. II, pl. 69)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1886, t. II, p. 67-68</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_733" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="arsenal_733" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -896,12 +913,13 @@
                   <provenance>Provenance : bibl. de Grands-Augustins de Paris (mention moderne f. 11).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1886, t. II, p. 68</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_738" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="arsenal_738" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -925,6 +943,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 7831, f. 122 [1416], <title>Mss datés</title>, t. II, pl. 84 et du ms Paris, Bibl. nat. de Fr., lat. 1063, f. 196v [1417], <title>Mss datés</title>, t. II, pl. 85)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1886, t. II, p. 70</bibl>
                     <bibl>G. M. Cropp, « Quelques manuscrits méconnus de la traduction en prose de la ‘Consolatio Philosophiae’ par Jean de Meun », dans <title>Scriptorium</title>, t. 33, 1979, p. 264-265</bibl>
@@ -968,7 +987,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="stomer_661" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="stomer_661" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Saint-Omer</settlement>
                   <repository>bibl. mun.</repository>
@@ -988,6 +1007,7 @@
                   <provenance>Possesseur : abbaye Saint-Bertin.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in 4°, t. 3 (1861), p. 289-290</bibl>
                   </listBibl>
@@ -1051,7 +1071,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_809" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_809" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1076,6 +1096,7 @@
                   <provenance>possesseur : signature effacée <quote>« <persName type="possesseur" key="Françoise">Françoyse</persName> »</quote> (XV<hi rend="sup">e</hi>-XVI<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du Livre de Boèce de Consolacion », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 335-337</bibl>
                     <bibl>C. Sterling, <title>La peinture médiévale à Paris, 1300-1500</title>, Paris, 1990, t. II, p. 167-176, fig. 173</bibl>
@@ -1109,7 +1130,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#bav_lat4788" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#bav_lat4788" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -1144,7 +1165,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="bav_lat4788" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bav_lat4788" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -1169,6 +1190,7 @@
                   <provenance>commanditaire : <persName type="commanditaire">Jean Coqueriau</persName> (<quote>« Ci comense le livre de Boece de consolation, translaté de latin en franceis par maistre Pierre de Paris. Et a ce que la maniere dou translat soit coneue, le devant dit maistre si a ordené une epistle en cest comensement, laquel epistle est, auci come le prologue, dou translator, a laquel il demoustre tote la maniere selonc laquel il entent a porsuivre sa translation. Et comense ensi, lequel susdit livre je, maistre Ogier, ay contrescrit a vos, mesire Johan Coqueriau, en l’aun de grace M° CCC° VIIII°, a XX jors de setembre »</quote> f. 1a)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans
                       <title>Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>, t. 33, 1889, p. 261-265</bibl>
@@ -1196,7 +1218,7 @@
           <div type="edition epilogue">
             <head>Epilogue</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_576" n="epilogue"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_576" n="epilogue" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1209,7 +1231,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_576" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_576" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1237,7 +1259,7 @@
           <div type="manuscrit">
             <head>Manuscrits</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_576" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_576" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1259,6 +1281,7 @@
                 <history>
                   <origin notBefore="1383" notAfter="1383">1383 [n.s.] (proche du ms Paris, bibl. de la Sorbonne, 126, f. 466v [1379], <title>Mss datés</title>, t. I, pl. 57)</origin>
                 </history>
+                <additional><adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo></additional>
               </msDesc>
               <msDesc xml:id="fr_1543" sameAs="stratagemata_frontinus.xml#fr_1543" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
@@ -1307,7 +1330,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition J. K. Atkinson, <title>« Boeces : De Consolacion. »</title></bibl>
-            <msDesc corresp="#fr_1096" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_1096" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1332,7 +1355,7 @@
           <div type="manuscrit">
             <head>Manuscrits</head>
             <listBibl type="msList">
-              <msDesc xml:id="amiens_412.2" sameAs="#amiens_412" n="vu mf"><!-- type="biblissima" -->
+              <msDesc xml:id="amiens_412.2" sameAs="#amiens_412" type="double"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Amiens</settlement>
                   <repository>bibl. mun.</repository>
@@ -1348,6 +1371,7 @@
                   </objectDesc>
                 </physDesc>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 19 (1893), p. 202</bibl>
                     <bibl>J. K. Atkinson, <title>« Boeces : De Consolacion. » Edition critique d’après le manuscrit Paris, Bibl. nationale, fr. 1096, avec Introduction, Variantes, Notes et Glossaires</title>, Tübingen, 1996, p. 5-6</bibl>
@@ -1391,7 +1415,7 @@
                   </history>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="bern_365" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bern_365" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bern</settlement>
                   <repository>Burgerbibl.</repository>
@@ -1414,6 +1438,7 @@
                   <provenance>possesseur : <orgName type="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. 5).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Ruhe, <title>Les Proverbes Seneke le philosophe</title>, München, 1969, p. 26-29, 47-49, 64-65</bibl>
                     <bibl>M. Oswald, « Les ‘Enseignement Seneque’, note additionnelle », dans <title>Romania</title>, t. 91, 1970, p. 106-113 [notice du ms, p. 107-113]</bibl>
@@ -1421,7 +1446,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10398-10414" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10398-10414" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -1435,6 +1460,7 @@
                   <origin notBefore="1280" notAfter="1305">fin du XIII<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2899, f. 172v [1297 (?)], <title>Mss datés</title>, t. I, pl. 26)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Quelques manuscrits méconnus de la traduction en prose de la ‘Consolatio Philosophiae’ par Jean de Meun », dans <title>Scriptorium</title>, t. 33, 1979, p. 263</bibl>
                     <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, p. 384-386</bibl>
@@ -1442,7 +1468,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="montpellier_h43" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="montpellier_h43" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Montpellier</settlement>
                   <repository>bibl. interuniversitaire, section Médecine</repository>
@@ -1465,6 +1491,7 @@
                   <provenance>possesseurs : <persName type="possesseur" key="Gournay, famille de">famille de Gournay</persName> (XVI<hi rend="sup">e</hi> s.) : <quote>« Ce livre est a dame Anne de Gournay, fille signeur Regnault de Gournay »</quote> (f. 1).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in 4°, t. 1 (1849), p. 302-304</bibl>
                     <bibl>J. K. Atkinson, <title>« Boeces : De Consolacion. » Edition critique d’après le manuscrit Paris, Bibl. nationale, fr. 1096, avec Introduction, Variantes, Notes et Glossaires</title>, Tübingen, 1996, p. 8-9</bibl>
@@ -1472,7 +1499,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1096" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1096" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1489,7 +1516,7 @@
                   <handDesc>
                     <p>Copiste : <quote>« 
                       <persName type="copiste">Gm Guidomari Venetensis diocesis</persName>
-                     »</quote> [Bouveret 4657] (f. 87)</p>
+                       »</quote> [Bouveret 4657] (f. 87)</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : lettre ornée haute de 7 lignes (f. 1) et réserves pour grandes lettrines hautes de 5 à 8 lignes non exécutées au début de chacun des cinq livres (f. 2, 13, 28, 51, 72)</p>
@@ -1499,12 +1526,13 @@
                   <origin notBefore="1397" notAfter="1397">1397 (f. 87) (proche du ms Paris, bibl. de la Sorbonne 216, f. 248 [1388], <title>Mss datés</title>, t. I, pl. 60)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. K. Atkinson, <title>« Boeces : De Consolacion. » Edition critique d’après le manuscrit Paris, Bibl. nationale, fr. 1096, avec Introduction, Variantes, Notes et Glossaires</title>, Tübingen, 1996, p. 9-10</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="strasbourg_508" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="strasbourg_508" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Strasbourg</settlement>
                   <repository>bibl. nat. et universitaire</repository>
@@ -1522,6 +1550,7 @@
                   <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 777 [1364-1373], <title>Mss datés</title>, t. I, pl. 51)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. K. Atkinson, <title>« Boeces : De Consolacion. » Edition critique d’après le manuscrit Paris, Bibl. nationale, fr. 1096, avec Introduction, Variantes, Notes et Glossaires</title>, Tübingen, 1996, p. 10</bibl>
                     <bibl>notice IRHT</bibl>
@@ -1549,7 +1578,7 @@
           </listBibl>
           <div type="edition sommaire">
             <head>Sommaire du <title>Romant de Fortune et de Felicité</title></head>
-            <msDesc corresp="#fr_24307" n="sommaire"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_24307" n="sommaire" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1563,7 +1592,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>le ms de base de l’édition B. M. Atherton</bibl>
-            <msDesc corresp="#glasgow_hunterian439" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#glasgow_hunterian439" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Glasgow</settlement>
                 <repository>Hunterian Museum</repository>
@@ -1613,7 +1642,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arras_729" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="arras_729" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Arras</settlement>
                   <repository>bibl. mun.</repository>
@@ -1634,13 +1663,14 @@
                   <provenance>Possesseur : mention f. 1v non déchiffrée.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in 4°, t. 4 (1872), p. 290-291</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 173-174</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bern_a95" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bern_a95" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bern</settlement>
                   <repository>Burgerbibl.</repository>
@@ -1659,12 +1689,13 @@
                   <provenance>Possesseurs : <orgName type="possesseur" key="Chaalis, abbaye de">abbaye de Chaalis</orgName> (<quote>« Ce livre est de Notre Dame de Chaliz »</quote>, mention du XV<hi rend="sup">e</hi> s. f. 5v) ; au-dessous signatures par paire : <quote>« Jamet »</quote> (?) <quote>« A.-J. Gaboys »</quote> ; <quote>« Denise Crestaille J. Barono »</quote></provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 174-175</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="besancon_422" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="besancon_422" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Besançon</settlement>
                   <repository>bibl. mun.</repository>
@@ -1686,6 +1717,7 @@
                   <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Salins, bibl. mun. 30, f. 331 [1425], <title>Mss datés</title>, t. V, pl. 88)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 175-176</bibl>
                   </listBibl>
@@ -1715,7 +1747,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10220" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10220" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -1739,13 +1771,14 @@
                   <provenance>possesseur : <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque des ducs de Bourgogne</orgName> (n°165 de l’inventaire 1404-1405 [P. M. De Winter, <title>La bibliothèque de Philippe le Hardi, duc de Bourgogne (1364-1404)</title>, Paris, 1985] ; n° 182 de l’inventaire de 1420).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 177-178</bibl>
                     <bibl>C. Van Hoorebeeck, [notice] dans <title>La Librairie des ducs de Bourgogne</title>, t. I, Turnhout, 2000, p. 208-211</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10221" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10221" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -1765,13 +1798,14 @@
                   <provenance>Possesseur : <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque des ducs de Bourgogne</orgName> (inventaire de 1467-1469 : n° 1539).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 178-179</bibl>
                     <bibl>C. Van den Bergen-Pantens, [notice] dans <title>La librairie des ducs de Bourgogne</title>, t. I, Turnhout, 2000, p. 212-214</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10295-10304" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10295-10304" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -1797,6 +1831,7 @@
                   <provenance>possesseur : <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName>, comte de Chimay (<quote>« En ce livre sont contenues pluiseurs vyes de sains et de saintes en rime et en prose, lequel est a monseigneur Charles de Croÿ, comte de Chimay »</quote> [signature] <quote>« Charles »</quote> f. 386) ; Marguerite d’Autriche (acquis avant 1511) ; <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (ex-libris collé sur le verso du dernier f. de garde) ; <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (à partir de 1559).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Masail et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique, t. II : 1401-1440</title>, Bruxelles-Gand, 1972, p. 39-40, pl. 315-316</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 179-182</bibl>
@@ -1805,7 +1840,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_18064-18069" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_18064-18069" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -1824,6 +1859,7 @@
                   <provenance>Possesseur : <orgName type="possesseur" key="Floreffe, abbaye des Prémontrés">abbaye de Prémontrés de Floreffe</orgName> (fin du XV<hi rend="sup">e</hi> s.) (f. 187v, armes de Luc d’Eyck, premier abbé de Floreffe) ; <persName type="possesseur" key="Henri d’Opprebais, régulier de Floreffe et abbé de Beaurepart">Henri d’Opprebais, régulier de Floreffe et abbé de Beaurepart</persName> (<quote>« Liber Henrici d’Opprebays et regularorum floreffusi ordinis premonstratensis. Abbas Belli reditus Leodiensis »</quote> f. 1).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 182-184</bibl>
                   </listBibl>
@@ -1864,7 +1900,7 @@
                   </history>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="carpentras_411" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="carpentras_411" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Carpentras</settlement>
                   <repository>bibl. mun.</repository>
@@ -1885,13 +1921,14 @@
                   <provenance>Possesseur : <quote>« <persName type="possesseur" key="Nicolas Huron">Nicolas Huron</persName> demeurant a Gonesse »</quote> (XV<hi rend="sup">e</hi> s.) (f. 59v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 34 (1901), p. 217-218</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 184-185</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fribourg_l7" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fribourg_l7" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Fribourg</settlement>
                   <repository>Bibl. cantonale et universitaire</repository>
@@ -1914,6 +1951,7 @@
                   <provenance>mention <quote>« framuz rugne »</quote> (?) avec signature formée d’un C ou d’un G (f. 25v) ; <persName type="possesseur" key="Rugine, Franz">Franz Rugine</persName> (signature de 1563, f. 190v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 185-186</bibl>
                   </listBibl>
@@ -2001,7 +2039,7 @@
                   </history>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="geneve_179bis" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="geneve_179bis" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Genève</settlement>
                   <repository>Bibl. publique et universitaire</repository>
@@ -2021,6 +2059,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 3357, f. 339v [1488], <title>Mss datés</title>, t. I, pl. 145)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. Gosman, <title>La lettre du Prêtre Jean, éd. des versions en ancien français et en ancien occitan</title>, Groningue, 1982 notice, p. 64-66</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 191-198</bibl>
@@ -2030,7 +2069,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="geneve_251" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="geneve_251" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Genève</settlement>
                   <repository>Bibl. publique et universitaire</repository>
@@ -2053,6 +2092,7 @@
                   <provenance>possesseurs : peut-être <persName type="possesseur" key="Jean de Montchenu-Ternier">Jean de Montchenu-Ternier, dit le Commandeur de Genève</persName> (vécut à Genève de 1473 à 1475) (revers du plat supérieur, f. 1) ; <persName type="possesseur" key="Jean Brogny">Jean Brogny</persName> (XVI<hi rend="sup">e</hi> s., nom et blason f. 144v) ; <quote>« Iste liber est michi Johanni Philippi Burgen. Gebenarum quid sibi fu abattu per collu seusqueti suspendetur si sit Johannes Philippi supra Philippi bonno est quem Deus ipsum benedicat »</quote> (f. 144v) [XV<hi rend="sup">e</hi> s.] ; <quote>«  Sans faire bruit [paraphe] Bruyant  »</quote> suivi de la date 1508 (f. 144v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Droz, « Le copiste Guichard Philippe (1471) », dans
                       <title>Studi Francesi</title>, t. 39, 1969, p. 401-408</bibl>
@@ -2061,7 +2101,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="glasgow_hunterian439" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="glasgow_hunterian439" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Glasgow</settlement>
                   <repository>Hunterian Museum</repository>
@@ -2080,12 +2120,13 @@
                   <origin notBefore="1395" notAfter="1420">début XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 756, f. 431v [1406] et Paris, Bibl. nat. de Fr., lat. 1597, f. 13 [1409-1418], <title>Mss datés</title>, t. II, pl. 79 et 80)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 200-201</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_egerton2633" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_egerton2633" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -2104,12 +2145,13 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> siècle (proche du ms Paris, bibl. de l’Arsenal, 239, f. 66 [1415], <title>Mss datés</title>, t. I, pl. 80)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 203-204</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_royal19aiv" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_royal19aiv" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -2134,13 +2176,14 @@
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 133)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. F. Warner et J. P. Gilson, <title>British Museum, Catalogue of Western manuscripts in the old royal and King’s Collections</title>, Oxford, 1921, p. 318</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 204-205</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="macon_95" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="macon_95" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Mâcon</settlement>
                   <repository>bibl. mun.</repository>
@@ -2162,6 +2205,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133) [« XIV<hi rend="sup">e</hi> s. (quatrième quart ?) » d’après (3)]</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 42 (1904), p. 282</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 205-206</bibl>
@@ -2169,7 +2213,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="munchen_gall31" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="munchen_gall31" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>München</settlement>
                   <repository>Bayerische Staatsbibl.</repository>
@@ -2188,6 +2232,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 206-207</bibl>
                     <bibl>notice IRHT</bibl>
@@ -2219,7 +2264,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_578" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_578" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2242,12 +2287,13 @@
                   <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 522, f. 100 [après 1395], <title>Mss datés</title>, t. I, pl. 67)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 207-209</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_822" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_822" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2274,12 +2320,13 @@
                   <origin notBefore="1380" notAfter="1420">fin du XIV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 416, f. 107 [1380], <title>Mss datés</title>, t. II, pl. 63)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 209-210</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1095" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1095" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2298,12 +2345,13 @@
                   <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 1100 [1418], <title>Mss datés</title>, t. I, pl. 84)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 210-211</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1102" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1102" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2326,12 +2374,13 @@
                   <origin notBefore="1401" notAfter="1473">XVe s. (avant 1473, notes du f. 107v répétant à plusieurs reprises cette date) (proche du ms Paris, Bibl. nat. de Fr., lat. 6091, f. 102v [1434], <title>Mss datés</title>, t. II, pl. 97)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 211-212</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1540" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1540" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2352,12 +2401,13 @@
                   <provenance>Possesseur : mention f. 68v <quote>« Je soubz signé et confayse estre teneu de debvoyr payer au sire Anthoyne Coursain la somme de VI 4 »</quote>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 212-213</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1542" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1542" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2376,12 +2426,13 @@
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 5099, f. 77 [après 1437], <title>Mss datés</title>, t. I, pl. 95)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 213-214</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1651" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1651" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2401,12 +2452,13 @@
                   <provenance>Possesseur : f. 118v signature <quote>« Rabuti »</quote>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 214-215</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_19137" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_19137" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2428,13 +2480,14 @@
                   <origin notBefore="1451" notAfter="1500">2<hi rend="sup">de</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 5088, f. 345 [1454], <title>Mss datés</title>, t. I, pl. 109)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. Hasenohr-Esnos, <title>Le respit de la mort par Jean Le Fèvre</title>, Paris, 1969, notice p. lxxxvii-lxxxix</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 215-216</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_24230" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_24230" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2456,12 +2509,13 @@
                   <origin notBefore="1401" notAfter="1500">XVe s. (proche du ms Paris, Bibl. nat. de Fr., lat. 2690, f. 147 [1462], <title>Mss datés</title>, t. II, pl. 133)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 216-217</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_24307" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_24307" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2485,13 +2539,14 @@
                   <provenance>possesseur : <quote>« <persName type="possesseur" key="Rasoir, Nicolas">Nicolas Rasoir</persName> »</quote> (XVI<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>A.-G. Van Hamel, <title>Li romans de Carité et Miserere du Renclus de Moiliens</title>, Paris, 1885, t. I, p. xv-xvi</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 217-218</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_24308" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_24308" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2511,13 +2566,14 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Sauve, Philippe">Philippe Saulve</persName> (XVI<hi rend="sup">e</hi> s. d’après (1) : <quote>« C’est a moy Sauve »</quote> f. de garde début verso) ; note sur le mariage de <quote>« <persName type="possesseur" key="Hurtault, Guillaume">Guillaume Hurtault</persName> »</quote> avec <quote>« <persName type="possesseur" key="Marie Guegues">Marie Guegues</persName> »</quote> (9 nov. 1473), f. 68v.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Anciens petits fonds</title>, Paris, 1902, t. II, p. 311-312</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 218-219</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bav_reg-lat_1518" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bav_reg-lat_1518" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -2537,6 +2593,7 @@
                   <origin notBefore="1451" notAfter="1500">seconde moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6925, f. 8 [1465], <title>Mss datés</title>, t. II, pl. 136)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans
                       <title>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques</title>, t. 33/2, 1889, p. 181-184</bibl>
@@ -2556,7 +2613,7 @@
             </listBibl>
             <div type="edition prologue">
               <head>Prologue</head>
-              <msDesc corresp="#fr_25418" n="prologue"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_25418" n="prologue" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2576,7 +2633,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_25418"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_25418" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2600,7 +2657,7 @@
             <div type="manuscrit">
               <head>Manuscrit</head>
               <listBibl type="msList">
-                <msDesc xml:id="fr_25418" n="vu ms" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="fr_25418" type="main"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -2620,6 +2677,7 @@
                     <provenance>Possesseurs : f. de garde début, signature de deux possesseurs : <quote>« <persName type="possesseur" key="Derellis">Derellis</persName> »</quote> ( ?), <quote>«  Guinguant  »</quote> (peut-être l’un des <persName type="possesseur" key="Guinguant, Hugues ou Louis">frères Guinguant (Hugues et Louis, notaires-secrétaires du roi au début du XVe s.</persName>) ; <orgName type="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> [n° 1479] (ex libris f. 1)</provenance>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl>G. Hasenohr-Esnos, <title>Le respit de la mort par Jean Lefèvre</title>, Paris, 1969, notice p. xcii-xcvii</bibl>
                       <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 221</bibl>
@@ -2641,20 +2699,19 @@
           </listBibl>
           <div type="edition colophon">
             <head>Acrostiche donnant le nom du copiste et du dédicataire</head>
-            <msDesc corresp="#nafr_1982"><!-- type="biblissima" -->
+            <msDesc corresp="#nafr_1982" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>nouv. acq. fr. 1982</idno>
               </msIdentifier>
-              <p><locus>f. 86v</locus>C’est le congié de l’escrivain
-                <foreign>(rubr)</foreign><lb/>Icy endroit fine Boece<lb/>En qui peuent trouver l’adresce<lb/>homs et femmes par ses recors<lb/>A sauver leurs ames et corps,<lb/>Non pas eulz laissier tourmenter<lb/>De desespoir ne seurmonter<lb/>En orgueil, l’ort pechié terrible,<lb/>Le plus grief de tous et horrible,<lb/>Ainçois est d’avoir pacience<lb/>Nuit et jour et querre science<lb/>Glorieuse pour Dieu amer,<lb/>Requerir, servir, honnorer<lb/>Et la doulce vierge Marie<lb/>Sur tous les cielx d’anges chierie<lb/>En qui divine pourveance<lb/>Se mist et ot double substance<lb/>merveilleuse pour nostre amour<lb/>aus quelx prierons sans demour<lb/>jointes mains que ilz gardent d’yre<lb/>li vaillans homs qui fist escrire<lb/>le livre assez bien compassez<lb/>et les ames des trespassez<lb/>vueillent garder de maulx liens<lb/>R. dit amen d’Orliens.<lb/>Qui cest escript a droit verra,<lb/>Nom et seurnom y trouvera <foreign>(rubr.)</foreign></p>
+              <p><locus>f. 86v</locus>C’est le congié de l’escrivain <foreign>(rubr)</foreign><lb/>Icy endroit fine Boece<lb/>En qui peuent trouver l’adresce<lb/>homs et femmes par ses recors<lb/>A sauver leurs ames et corps,<lb/>Non pas eulz laissier tourmenter<lb/>De desespoir ne seurmonter<lb/>En orgueil, l’ort pechié terrible,<lb/>Le plus grief de tous et horrible,<lb/>Ainçois est d’avoir pacience<lb/>Nuit et jour et querre science<lb/>Glorieuse pour Dieu amer,<lb/>Requerir, servir, honnorer<lb/>Et la doulce vierge Marie<lb/>Sur tous les cielx d’anges chierie<lb/>En qui divine pourveance<lb/>Se mist et ot double substance<lb/>merveilleuse pour nostre amour<lb/>aus quelx prierons sans demour<lb/>jointes mains que ilz gardent d’yre<lb/>li vaillans homs qui fist escrire<lb/>le livre assez bien compassez<lb/>et les ames des trespassez<lb/>vueillent garder de maulx liens<lb/>R. dit amen d’Orliens.<lb/>Qui cest escript a droit verra,<lb/>Nom et seurnom y trouvera <foreign>(rubr.)</foreign></p>
             </msDesc>
           </div>
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition M. M. Noest</bibl>
-            <msDesc corresp="#nafr_1982" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#nafr_1982" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2688,7 +2745,7 @@
           <div type="manuscrit">
             <head>Manuscrits</head>
             <listBibl type="msList">
-              <msDesc xml:id="amiens_411" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="amiens_411" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Amiens</settlement>
                   <repository>bibl. mun.</repository>
@@ -2710,6 +2767,7 @@
                   <provenance>possesseurs : <persName type="possesseur" key="Trencart, Jean">Jean Trencart d’Amiens</persName> et <persName type="possesseur" key="Vismes, Anne de">Anne de Vismes</persName>, sa femme (fin XVI<hi rend="sup">e</hi> s.-début XVII<hi rend="sup">e</hi> s., f. 97 ; 141v et 147).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 19 (1893), p. 200-201</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
@@ -2742,7 +2800,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10474" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10474" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -2765,12 +2823,13 @@
                   <origin notBefore="1501" notAfter="1600">XVI<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale, II. 1016, f. 3 [1465], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, 1982, t. IV, pl. 761)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_11244-11251" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_11244-11251" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -2796,6 +2855,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 731, f. 1 [1477-1484], <title>Mss datés</title>, t. I, pl. 135)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                     <bibl>notice IRHT</bibl>
@@ -2820,7 +2880,7 @@
                   <handDesc>
                     <p>Copiste : <quote>« 
                       <persName type="copiste">G. dictus Lanielle</persName>
-                     »</quote>, f. 13 (signature « G », f. 52, 74, 96v) [Bouveret 4665]</p>
+                       »</quote>, f. 13 (signature « G », f. 52, 74, 96v) [Bouveret 4665]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 47 dessins coloriés</p>
@@ -2839,7 +2899,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="chantilly_285" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="chantilly_285" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -2850,6 +2910,7 @@
                   <p>recueil factice de deux éléments composé à date ancienne (XV<hi rend="sup">e</hi> siècle)</p>
                 </msContents>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 63</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
@@ -2890,7 +2951,7 @@
                   </physDesc>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="chantilly_485" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="chantilly_485" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -2913,13 +2974,14 @@
                   <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 105</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="douai_766" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="douai_766" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Douai</settlement>
                   <repository>bibl. mun.</repository>
@@ -2943,6 +3005,7 @@
                   <provenance>possesseur : <persName type="possesseur" key="Despierres">Despierres</persName> ( ?) (f. de garde et sous l’explicit, f. 80b : <quote>« Y prouvera encores. Despierrez »</quote>) XVI<hi rend="sup">e</hi> s.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in 4°, t. VI (1878), p. 463-464</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
@@ -2950,7 +3013,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_add26767" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_add26767" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -2970,12 +3033,13 @@
                   <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 341, f. 9 [1391], <title>Mss datés</title>, t. I, pl. 63)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophia</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_royal20aXIX" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_royal20aXIX" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -3002,6 +3066,7 @@
                   <provenance>possesseur : commentaires et « notae » marginaux d’au moins deux mains du XV<hi rend="sup">e</hi> siècle.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. F. Warner et J. P. Gilson, <title>British Museum, Catalogue of Western manuscripts in the old royal and King’s Collections</title>, Oxford, 1921, p. 359 [sujet des miniatures]</bibl>
                     <bibl>F. Saxl et H. Meier, <title>Catalogue of astrological and mythological illuminated manuscripts of the Latin Middle Ages</title>, t. III <title>Manuscripts in English Libraries</title>, Londres, 1953, p. 221</bibl>
@@ -3009,7 +3074,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="orleans_416" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="orleans_416" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Orléans</settlement>
                   <repository>bibl. mun.</repository>
@@ -3033,6 +3098,7 @@
                   <provenance>possesseur : <persName type="possesseur" key="Poille, Jean">Jean Poille</persName> (mention f. 2 ; ex libris f. 182v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                     <bibl>[Notice de S. Lefèvre à paraître dans le futur catalogue des manuscrits de la bibliothèque municipale d’Orléans]</bibl>
@@ -3119,7 +3185,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_2670" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="arsenal_2670" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -3143,13 +3209,14 @@
                   <provenance>possesseurs : <quote>« Ce livre contient XLIII caiers, lequel est a <persName type="possesseur" key="Pierre Chanscec">Pierre Chanscec</persName> »</quote>... (mention du XV<hi rend="sup">e</hi> s. f. 80v) ; f. 77 signature <quote>« <persName type="possesseur" key="P. Girard">P. Girard</persName> »</quote>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1887, t. III, p. 69-70</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="institutfrance_264" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="institutfrance_264" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Institut de France</repository>
@@ -3175,13 +3242,14 @@
                   <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 36-37</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_577" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_577" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3205,12 +3273,13 @@
                   <provenance>possesseur : <quote>« <persName type="possesseur" key="Claude Dufloc">Claude Dufloc</persName> »</quote> (mention du XV<hi rend="sup">e</hi> s., f. 89).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_812" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_812" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3239,12 +3308,13 @@
                   <provenance>possesseur : loyaument et liement, <persName type="possesseur" key="Louis le Bourgehier">Louis le Bourgehier</persName> (mention XV<hi rend="sup">e</hi> s.) ; armes de France f. 1.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_813" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_813" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3266,12 +3336,13 @@
                   <provenance>Possesseur : <quote>« Iste liber pertinet domino <persName type="possesseur" key="Suphon Jonglatoris">Suphon Jonglatoris</persName> »</quote> (mention XV<hi rend="sup">e</hi> s., f. 78a).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1094" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1094" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3293,12 +3364,13 @@
                   <provenance>Possesseur : armes non identifiées f. 1.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12237" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12237" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3318,12 +3390,13 @@
                   <origin notBefore="1395" notAfter="1420">début du XV<hi rend="sup">e</hi> s. (ms proche de Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12238"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12238" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3333,7 +3406,7 @@
                   <p>voir I.9.2</p>
                 </msContents>
               </msDesc>
-              <msDesc xml:id="fr_12239" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12239" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3353,12 +3426,13 @@
                   <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12239.2" sameAs="#fr_12239" n="vu ms"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12239.2" sameAs="#fr_12239" type="double"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3378,12 +3452,13 @@
                   <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12240" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12240" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3407,12 +3482,13 @@
                   <provenance>possesseurs : <persName type="possesseur" key="Guillaume de Canteleu">Guillaume de Canteleu</persName>, <persName type="possesseur" key="Boulecart, Guillaume">Guillaume Boulecart</persName> (1458), <persName type="possesseur" key="Jean Balay">Jean Balay</persName>, <persName type="possesseur" key="Nicole Tueleu">Nicole Tueleu</persName> (<quote>« Lequel maistre Nicole Tueleu a depuis achapté des heritiers Jehan Balay avecques aultres. N. Tueleu »</quote> f. 82b) ; devise <quote>« A une sans plus »</quote> f. 82b.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_24309" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_24309" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3433,6 +3509,7 @@
                   <provenance>Possesseurs : <quote>« Ce livre appartient a maistre <persName type="possesseur" key="Lamy, Guillaume">Guillaume Lamy</persName>, notaire et secretaire du roy »</quote> (f. 124, mention fin XV<hi rend="sup">e</hi> s.) ; <quote>« Ce livre est a <persName type="possesseur" key="Petit, Jean">Jehan Petit</persName>, bourgoys et conseiller de Nyort »</quote> (f. 124, mention ca 1500) ; <orgName type="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> (inventaire de Claude de Grandrue, 1514).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. Hasenohr-Esnos, <title>Le respit de la mort par Jean Lefèvre</title>, Paris, 1969 [notice] p. lxxxiv-lxxxvi</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
@@ -3440,7 +3517,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="nafr_1982" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="nafr_1982" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3465,8 +3542,11 @@
                 <history>
                   <origin notBefore="1380" notAfter="1405">fin XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2071, f. 215 [1382], <title>Mss datés</title>, t. I, pl. 58)</origin>
                 </history>
+                <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                </additional>
               </msDesc>
-              <msDesc xml:id="nafr_5094" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="nafr_5094" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3486,13 +3566,14 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche de Paris, Bibl. nat. de Fr., lat. 3205, f. 93v [1417], <title>Mss datés</title>, t. II, pl. 86)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français : nouvelles acquisitions françaises</title>, Paris, 1900, t. II, p. 283</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiv</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bsg_1132" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bsg_1132" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. Sainte-Geneviève</repository>
@@ -3515,6 +3596,7 @@
                   <origin notBefore="1401" notAfter="1415">1<hi rend="sup">er</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. Mazarine, 253, f. 44 [1417], pl. 84)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                     <bibl>notice IRHT</bibl>
@@ -3522,7 +3604,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="toulouse_822" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="toulouse_822" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Toulouse</settlement>
                   <repository>bibl. mun.</repository>
@@ -3550,13 +3632,14 @@
                   <origin notBefore="1390" notAfter="1410">vers 1400 (proche du ms Paris, bibl. de la Sorbonne, f. 248 [1388], <title>Mss datés</title>, t. I, pl. 60)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, p. 364-368</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bav_reglat_1689" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bav_reglat_1689" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -3580,6 +3663,7 @@
                   <provenance>possesseur : f. 1, deux oiseaux peints avec philactère dans lequel sont copiés ces deux mots <quote>« chante chante »</quote>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
@@ -3672,7 +3756,7 @@
             <head>Texte remanié</head>
             <listBibl type="msList">
               <head>Manuscrits</head>
-              <msDesc xml:id="fr_1946" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1946" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3691,6 +3775,7 @@
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 738, f. 160 [1432-1437], <title>Mss datés</title>, t. I, pl. 91)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
@@ -3728,7 +3813,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_25416" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_25416" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3752,6 +3837,7 @@
                   <provenance>possesseur : <persName type="possesseur" key="Pierre Odoard">Pierre Odoard</persName> (<quote>« Cest present livre appartien a moy Odoard Perlein demorrant a Saint Gengoul, leguué par moy »</quote> f. 113 ; <quote>« M. Odoard Pierre, presbtre »</quote> f. 210v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
                   </listBibl>
@@ -3765,7 +3851,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#arras_532" n="incipit"><!-- type="biblissima" -->
+              <msDesc corresp="#arras_532" n="incipit" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Arras</settlement>
                   <repository>bibl. mun.</repository>
@@ -3784,7 +3870,7 @@
             <div type="manuscrit">
               <head>Manuscrit</head>
               <listBibl type="msList">
-                <msDesc xml:id="arras_532" n="vu mf" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="arras_532" type="main"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Arras</settlement>
                     <repository>bibl. mun.</repository>
@@ -3810,6 +3896,7 @@
                     <provenance>possesseur : <persName type="possesseur" key="Queval, Cornille">Cornille Queval</persName> († 1596) (f. 1).</provenance>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in -4°, t. IV (1872), p. 211-213</bibl>
                       <bibl>E. Langlois, <title>Les manuscrits du Roman de la Rose</title>, Lille-Paris, 1910, p. 98-110</bibl>
@@ -3825,7 +3912,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d'après le ms</p>
-              <msDesc corresp="#fr_12459" n="incipit"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_12459" n="incipit" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3857,7 +3944,7 @@
             <div type="manuscrit">
               <head>Manuscrit</head>
               <listBibl type="msList">
-                <msDesc xml:id="fr_12459.2" sameAs="#fr_12459" n="vu ms"><!-- type="biblissima" -->
+                <msDesc xml:id="fr_12459.2" sameAs="#fr_12459" type="double"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -3884,6 +3971,7 @@
                     <origin notBefore="1414" notAfter="1414">1414 (f. 89v, colophon) (proche du ms Chantilly, Musée Condé, 653, f. 18v [1438-1456], <title>Mss datés</title>, t. I, pl. 94)</origin>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 222-224</bibl>
                       <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xiii</bibl>
@@ -3945,7 +4033,7 @@
                   </physDesc>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="toulouse_817" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="toulouse_817" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Toulouse</settlement>
                   <repository>bibl. mun.</repository>
@@ -3969,6 +4057,7 @@
                   <origin notBefore="1466" notAfter="1466">1466 (colophon, f. 106v) (<title>Mss datés</title>, t. VI, pl. 125)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1968, t. VI, p. 419, pl. 125</bibl>
                     <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 219</bibl>
@@ -4022,7 +4111,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l' édition G. M. Cropp</bibl>
-            <msDesc corresp="#auckland_greyms119" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#auckland_greyms119" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Auckland</settlement>
                 <repository>Public Libr.</repository>
@@ -4057,7 +4146,7 @@
           <div type="soustraduction" n="I.10.1">
             <head>Manuscrits de la version non glosée</head>
             <listBibl type="msList">
-              <msDesc xml:id="berlin_hamilton96" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="berlin_hamilton96" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Berlin</settlement>
                   <repository>Deutsche Staastbibliothek</repository>
@@ -4077,13 +4166,14 @@
                   <provenance>Possesseur : <quote>« <persName type="possesseur" key="P. de Begmas">P. de Begmas</persName> »</quote> (?) (f. 26 et 29 signature XVI<hi rend="sup">e</hi> s. d’une main maladroite).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 268-269</bibl>
                     <bibl>[notice de D. Stutzmann à paraître dans le catalogue des mss français de la Deutsche Staatsbibl. de Berlin]</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10180-10193" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10180-10193" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -4104,6 +4194,7 @@
                   <provenance>Possesseur : <quote>« <persName type="possesseur" key="Jérome Dennetieres">Jeromme Dennetieres</persName>. Che livre chy apartie[nt] a <persName type="possesseur" key="Jeanne Crassin">Jehenne Crassin</persName> vefve de feu Ser. Jherome Dentieres »</quote> (4e f. de garde).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Masai et M. Wittek, <title>Manuscrits datés conservé en Belgique</title>, Bruxelles-Gand, 1982, t. IV, p. 27, pl. 743</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 270</bibl>
@@ -4111,7 +4202,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="dijon_525.2" sameAs="#dijon_525"><!-- type="biblissima" -->
+              <msDesc xml:id="dijon_525.2" sameAs="#dijon_525" type="double"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Dijon</settlement>
                   <repository>bibl. mun.</repository>
@@ -4156,7 +4247,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="modena_α.Q.5.12" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="modena_α.Q.5.12" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Modena</settlement>
                   <repository>Bibl. Estense Universitaria</repository>
@@ -4177,13 +4268,14 @@
                   <provenance>Possesseur : correspond peut-être au ms français de Boèce signalé dans les inventaires de la <orgName type="possesseur" key="Este, bibliothèque d’">bibl. d’Este</orgName> en 1437 (n°40) et 1467 (n°42) (cf. 1).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>P. Rajna, « Ricordi di codici francesi posseduti dagli Estensi nel secolo XV », dans <title>Romania</title>, t. 2, 1873, p. 49-58</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 271</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="montpellier_h368" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="montpellier_h368" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Montpellier</settlement>
                   <repository>bibl. interuniversitaire, section Médecine</repository>
@@ -4204,13 +4296,14 @@
                   <provenance>Possesseur : <quote>« <persName type="possesseur" key="Emellianus Gadend">Emellianus Gadend</persName> »</quote> (f. 1, ex libris f. 84v, mentions du XV<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, sér. in 4°, t. I (1849), p. 434</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du Livre de <title>Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 282-283</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="morgan_m396" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="morgan_m396" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>New York</settlement>
                   <repository>Pierpont Morgan Libr.</repository>
@@ -4234,6 +4327,7 @@
                   <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 934, f. 1 [1396-1420], <title>Mss datés</title>, t. I, pl. 70)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Avril, « Les manuscrits enluminés de Guillaume de Machaut, Essai de chronologie », dans <title>Guillaume de Machaut poète et compositeur</title>, Paris, 1982, p. 129-130</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 284-285</bibl>
@@ -4241,7 +4335,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="arsenal_737" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="arsenal_737" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -4266,6 +4360,7 @@
                   <provenance>possesseur : armes non identifiées f. 2v.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1886, t. II, p. 70</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 271-272</bibl>
@@ -4273,7 +4368,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1541" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1541" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -4295,12 +4390,13 @@
                   <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6643, f. 366 [1497], <title>Mss datés</title>, t. II, pl. 172)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 272-273</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1728" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1728" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -4330,6 +4426,7 @@
                   <provenance>possesseur : pourrait avoir appartenu à la bibliothèque de <persName type="possesseur" key="Charles V">Charles V</persName>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 273-274</bibl>
                     <bibl>R. H. Rouse et M. A. Rouse, <title>Manuscripts and their Makers, Commercial book producers in medieval Paris 1200-1500</title>, Londres-Turnhout, 2000, t. I, p. 270-273 et t. II, p. 51-52</bibl>
@@ -4366,7 +4463,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_24231" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_24231" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -4385,12 +4482,13 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 1413, f. 82v [1409], <title>Mss datés</title>, t. I, pl. 78)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 275</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="nafr_20001"><!-- type="biblissima" -->
+              <msDesc xml:id="nafr_20001" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -4400,7 +4498,7 @@
                   <p>voir ms <ref target="#dijon_525">Dijon, bibl. mun. 525</ref></p>
                 </msContents>
               </msDesc>
-              <msDesc xml:id="rothschildIV2.67" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="rothschildIV2.67" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -4422,12 +4520,13 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 283-284</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="reims_879" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="reims_879" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Reims</settlement>
                   <repository>bibl. mun.</repository>
@@ -4451,6 +4550,7 @@
                   <provenance>possesseur : chapitre de la <orgName type="possesseur" key="Reims, chapitre cathédral">cathédrale de Reims</orgName> (f. 1, ex libris époque moderne).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 276</bibl>
                     <bibl>C. Jeudy, « Traductions françaises d’oeuvres latines et traductions médicales à la bibliothèque cathédrale de Reimes d’après l’inventaire de 1456/1479 », dans
@@ -4485,7 +4585,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bav_reglat_1492" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bav_reglat_1492" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -4512,13 +4612,14 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche de Paris, Bibl. nat. de Fr., lat. 432, f. 49 [1416], <title>Mss datés</title>, t. II, pl. 84)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans <title>Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>, t. 33, 1889, p. 159-166</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 277-278</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bav_reglat_1508" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bav_reglat_1508" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -4538,6 +4639,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Nicot, Jean">Jean Nicot</persName> († 1600) (ex libris et devise f. 1).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans <title>Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>, t. 33, 1889, p. 171-172</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 278-279</bibl>
@@ -4578,7 +4680,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="llgc_5039d" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="llgc_5039d" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Aberystwyth</settlement>
                   <repository>National Libr. of Wales</repository>
@@ -4601,6 +4703,7 @@
                   <origin notBefore="1375" notAfter="1450">dernier quart du XIV<hi rend="sup">e</hi> ou première moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 912, f. 256 [1390], Mss datés, t. I, pl. 64)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 287-288</bibl>
                   </listBibl>
@@ -4698,7 +4801,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bergues_27" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bergues_27" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bergues</settlement>
                   <repository>bibl. mun.</repository>
@@ -4719,13 +4822,14 @@
                   <origin notBefore="1492" notAfter="1492">1492 (cf. f. 145v) (proche du ms Paris, bibl. de l’Arsenal, 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 26 (1897), p. 665-666</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 290-291</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="kbr_10222-10223" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="kbr_10222-10223" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -4753,6 +4857,7 @@
                   <provenance>possesseurs : <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (inventaire de 1467-1469, n°1536).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservé en Belgique : 1401-1440</title>, Bruxelles-Gand, t. II, 1972, p. 51, pl. 361-365</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 292-293</bibl>
@@ -4760,7 +4865,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="ulb_714" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="ulb_714" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Darmstadt</settlement>
                   <repository>Hessische Landes-und Hochschulbibl.</repository>
@@ -4777,7 +4882,7 @@
                   <handDesc>
                     <p>Copié par <quote>« 
                       <persName type="copiste">P. Guienne</persName>
-                     »</quote> (colophon f. 106)</p>
+                       »</quote> (colophon f. 106)</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -4785,6 +4890,7 @@
                   <provenance>possesseur : dédicacé de la main du copiste à <persName type="possesseur" key="Jeanne de Beaucourt">Jeanne de Beaucourt</persName> : <quote>« Boece de Consolation texte et glose. Pour noble damoiselle Jehanne de Beaucours, dame de Montmartin et du Brossay »</quote> (verso du f. de garde préliminaire).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 293-294</bibl>
                   </listBibl>
@@ -4814,7 +4920,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="thulb_el.fol85" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="thulb_el.fol85" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Jena</settlement>
                   <repository>Thüringer Universitäts- und Landesbibl.</repository>
@@ -4842,6 +4948,7 @@
                   <provenance>possesseurs : <persName type="possesseur" key="Marguerite de Bourgogne">Marguerite de Bourgogne</persName> ; <persName type="possesseur" key="Nassau-Vianden, comte de">comte de Nassau-Vianden</persName> (armes f. 1v) ; prince électeur <persName type="possesseur" key="Frédéric le Magnanime, prince électeur">Frédéric le Magnanime</persName> qui donna la collection en 1538 à la <orgName type="possesseur" key="Wittenberger kurfürstliche Bibliothek">Wittenberger kurfürstliche Bibliothek</orgName>, d’où elle passa à l’<orgName type="possesseur" key="Iéna, université">université d’Iéna</orgName> à sa fondation en 1558.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 294-296</bibl>
                     <bibl>R. E. F. Straub, <title>David Aubert, escrivain et clerc</title>, Amsterdam, 1995 (Faux titre, 96), p. 49-50</bibl>
@@ -4898,7 +5005,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_add10341" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_add10341" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -4920,12 +5027,13 @@
                   <origin notBefore="1425" notAfter="1470">2<hi rend="sup">e</hi> quart ou milieu du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100]</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 300-301</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_add21602" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_add21602" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -4949,6 +5057,7 @@
                   <provenance>possesseur : écu bandé de six, or et sable (marge inf. de f. 2).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Saxl et H. Meier, <title>Catalogue of astrological and mythological illuminated manuscripts of the Latin Middle Ages</title>, t. III <title>Manuscripts in English Libraries</title>, Londres, 1953, p. 64-65</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 301-302</bibl>
@@ -4980,7 +5089,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="bl_harley4335-4339" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_harley4335-4339" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -5015,6 +5124,7 @@
                   <provenance>possesseur : <quote>«  A <persName type="possesseur" key="Hinselin, Gabriel">Gabriel Hinselin</persName> 1616 »</quote> (f. de garde de chaque volume) ; armes dessinées (peintes dans les mss 4335 et 4339) à l’époque moderne sur un f. de garde de fin de chaque volume (non identifiées).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Saxl et H. Meier, <title>Catalogue of astrological and mythological illuminated manuscripts of the Latin Middle Ages</title>, t. III <title>Manuscripts in English Libraries</title>, Londres, 1953, p. 165-168</bibl>
                     <bibl>C. Schaefer, « Les débuts de l’atelier de Jean Colombe : Jean Colombe et André Rousseau, prêtre, libraire et ‘escrivain’ », dans <title>Gazette des beaux arts</title>, n° 2, 1977, p. 144, fig. ii</bibl>
@@ -5108,7 +5218,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="nypl_spencer17" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="nypl_spencer17" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>New York</settlement>
                   <repository>Public libr.</repository>
@@ -5132,6 +5242,7 @@
                   <provenance>possesseurs : copié pour les <persName type="possesseur" key="Rohan-Visconti, famille">Rohan-Visconti</persName> (armes dans les initiales) ; <persName type="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles Ier de Bourbon, archevêque de Rouen</persName> († 1590).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 309-310</bibl>
                     <bibl>M. Walkley, « Jean Gerson’s ‘Exemplaire des petits enfants’, a ‘scripted object’ preserved in Spencer Ms. 17 », dans <title>Parergon</title>, t. 13, 1996, p. 151-163</bibl>
@@ -5139,7 +5250,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="orleans_415" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="orleans_415" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Orléans</settlement>
                   <repository>bibl. mun.</repository>
@@ -5161,6 +5272,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 1577A, f. 76v [1457], <title>Mss datés</title>, t. II, pl. 118)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 310-311</bibl>
                     <bibl>[Notice de S. Lefèvre à paraître dans le futur catalogue des manuscrits de la bibliothèque municipale d’Orléans]</bibl>
@@ -5221,7 +5333,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="mazarine_3861" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="mazarine_3861" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. Mazarine</repository>
@@ -5246,13 +5358,14 @@
                   <origin notBefore="1395" notAfter="1420">début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3795 f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1959, t. I, p. 423</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 313-314</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_575" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_575" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5272,12 +5385,13 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName>, seigneur de Gruthuyse († 1492) (armes f. 1 recouvertes par celles de Louis XII) ; <persName type="possesseur" key="Louis XII">Louis XII</persName>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 314-315</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1092" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1092" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5301,6 +5415,7 @@
                   <provenance>possesseur : <quote>« <persName type="possesseur" key="Mongison, de">De Mongison</persName> 1560  »</quote> (plat intérieur).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 315</bibl>
                     <bibl><title>Le Livre de Boece de Consolacion</title>, éd. G. M. Cropp, Genève, 2006, p. 39 [notice]</bibl>
@@ -5308,7 +5423,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1093" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1093" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5317,7 +5432,7 @@
                 </msIdentifier>
                 <msContents>
                   <p>f. de garde début verso : notes de lecture sur Boèce (XVIe s. ?) ; traduction VI glosée de la <title>Consolatio Philosophiae</title> de Boèce [titres : <title type="ancien">Cy commence le proheme ou prologue du livre de Boece de consolacion lequel maistre Jehan de Mehun translata de latin en françoys sicomme il se contient cy aprés en avant et l’envoya au roy Philipe le quart</title> f. 1 ; <title type="ancien">Incipit translacio primi libri Boecii de consolacione philozophie de latino in galicum qui liber incipit sic</title>... f. 5 ; <title type="ancien">Explicit le livre de Boece de consolacion translaté par maistre Jehan de Mehun de latin en françoys et aprés exposé et declairé en plusieurs parties moult souffisamment par grant estude et diligence</title> f. 105v] : prologue <persName type="ancien">Jean de Meun</persName> f. 1-4v ; traduction glosée f. 5-105v ; au bas du f. 105v : <quote>« Cestui Bo[e]ce fut envoyé en exil ou temps que le roy Clotaire filz du roy Clovis premier roy de France chrestian regnoit ou terrouer de Milan en la cité de Pavie et fut l’an de la nativité nostre Seigneur VCXXVI »</quote> (cf. ms Paris, Bibl. nat. de fr. 1949) ; f. 106 blanc ; <quote>«  Les noms des neuf preuz et le temps qu’ilz trespasserent avant ou aprés l’incarnation de Nostre Seigneur
-                   »</quote> f. 106v ; texte latin de la <title>Consolatio</title> f. 107-176 ; commentaire latin f. 176v-179v (inc. <seg type="incipit">Et sic finis est hujus laudabilis operis in quo opere quinque per ordinem sunt declarata et ostensa</seg>... ; expl. ...<seg type="explicit">ita quod velut ipse concludit summum bonum Deus et summa beatitudo sunt idem</seg>) ; prologue latin f. 180r-v (inc. <seg type="incipit">Hic est prologus libri de consolacione philosophie in quo ostenditur quo tempore sub quo principe Boecius regnavit</seg>...) ; table alphabétique des noms par une main plus récente f. 181r-v.</p>
+                     »</quote> f. 106v ; texte latin de la <title>Consolatio</title> f. 107-176 ; commentaire latin f. 176v-179v (inc. <seg type="incipit">Et sic finis est hujus laudabilis operis in quo opere quinque per ordinem sunt declarata et ostensa</seg>... ; expl. ...<seg type="explicit">ita quod velut ipse concludit summum bonum Deus et summa beatitudo sunt idem</seg>) ; prologue latin f. 180r-v (inc. <seg type="incipit">Hic est prologus libri de consolacione philosophie in quo ostenditur quo tempore sub quo principe Boecius regnavit</seg>...) ; table alphabétique des noms par une main plus récente f. 181r-v.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -5331,12 +5446,13 @@
                   <origin notBefore="1459" notAfter="1459">1459 (f. 176) (traduction française proche du ms Paris, Bibl. nat. de Fr., lat. 6714, f. 48v [1465], <title>Mss datés</title>, t. II, pl. 135)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 316-317</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1099" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1099" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5359,12 +5475,13 @@
                   <provenance>possesseurs : <persName type="possesseur" key="La Fay, de">De la Fay</persName> (mention XV<hi rend="sup">e</hi> s., f. de garde début).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 317-318</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1100-1101" n="vu ms et mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1100-1101" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5388,12 +5505,13 @@
                   <provenance>possesseur : devise <quote>« A vous sans plus »</quote> (XV<hi rend="sup">e</hi> s., fr. 1001, f. 48).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm et du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 318-320</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1652" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1652" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5415,13 +5533,14 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Pierre de Nesson">Pierre de Nesson</persName> (signature, f. 82v) († 1442) ; <persName type="possesseur" key="Jean Maillac">Jean Maillac</persName> (f. de garde parchemin début ; mention du XV<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 320-321</bibl>
                     <bibl><title>Le Livre de Boece de Consolacion</title>, éd. G. M. Cropp, Genève, 2006, p. 39-40 [notice]</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1947" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1947" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5441,12 +5560,13 @@
                   <provenance>Possesseur : peut-être <persName type="possesseur" key="Jean Noblet">Jean Noblet</persName> (mention de ce nom par une main du XV<hi rend="sup">e</hi> s., f. 27, 35).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 338</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_1949" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1949" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5470,12 +5590,13 @@
                   <provenance>possesseur : ms exécuté pour <persName type="ancien">Charles de France</persName> († 1472), duc de Guyenne et de Berry ; f. de garde début, mention de possesseur non déchiffrée.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 321-322</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12238.2" sameAs="#fr_12238" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12238.2" sameAs="#fr_12238" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5497,13 +5618,14 @@
                   <provenance>Possesseur : <quote>« Pardonné, si vous plais, car ne m’en scet que sela – en rendant grase a Dieu cui disent Ava Maria. <persName type="possesseur" key="Jean Rougemont">Jehan Rougemont</persName> »</quote> (f. 86v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 338-339</bibl>
                     <bibl>M. M. Noest, « A Critical Edition of a Late Fourteenth Century French Verse Translation of Boethius’ De consolatione Philosophiae : The Böece de Confort », dans <title>Carmina Philosophiae</title>, t. 8, 1999, p. xii</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_17080" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_17080" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5526,12 +5648,13 @@
                   <provenance>possesseur : <persName type="ancien">Philippe Desportes</persName> († 1606) (ex libris f. 1).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 322-323</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_17272" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_17272" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5554,13 +5677,14 @@
                   <provenance>Possesseur ou copiste : <quote>« frater <persName type="possesseur" key="Balduinus Gandesjoy" subtype="copiste">Balduinus Gandesjoy</persName> »</quote> (colophon f. 113v) [absent de Bouveret] et devises <quote>« povre et loyal »</quote> (2 fois), <quote>« De mel de pray  »</quote> (f. 113v).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Ancien Saint-Germain français</title>, Paris, 1898, t. II, p. 58</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 323-324</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_25417" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_25417" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5584,12 +5708,13 @@
                     <lb/>Acheté en l’an mil IIIIC LXXVIII a damp <persName>Denis Ravalle</persName>, relligieux de Froimont en Beauvoisis »</quote> f. 149v.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl> G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 324-325 </bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="lat_6643" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="lat_6643" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5613,13 +5738,14 @@
                   <provenance>possesseur : ms exécuté pour les <persName type="possesseur" key="Lallemant, famille">Lallemant</persName>, de Bourges, et peut-être plus précisément pour <persName type="possesseur" key="Jean Lallemant, receveur général en Normandie">Jean Lallemant, receveur général en Normandie</persName> (devise f. 1 et 24).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1962, t. II, p. 361</bibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 325-327</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="nafr_6535" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="nafr_6535" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5627,6 +5753,7 @@
                   <msName type="sigle" resp="Cropp">E19</msName>
                 </msIdentifier>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 327-328</bibl>
                   </listBibl>
@@ -5665,7 +5792,7 @@
                   </history>
                 </msPart>
               </msDesc>
-              <msDesc xml:id="nalat_2381" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="nalat_2381" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5683,6 +5810,7 @@
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 767, f. 2 [1424], <title>Mss datés</title>, t. I, pl. 85)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 340-341</bibl>
                   </listBibl>
@@ -5716,7 +5844,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="rouen_leber817" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="rouen_leber817" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Rouen</settlement>
                   <repository>bibl. mun.</repository>
@@ -5742,6 +5870,7 @@
                   <provenance>possesseurs : <persName type="possesseur" key="Charles V d’Anjou">Charles V d’Anjou</persName> († 1481, destinataire ?), comte du Maine, neveu et héritier du roi René, et sa femme <persName type="possesseur" key="Jeanne de Lorraine">Jeanne de Lorraine</persName> († 1480, destinataire ?), fille de Yolande d’Anjou et de Ferry II de Lorraine-Vaudémont (armes d’Anjou-Lorraine f. 1 postérieures au mariage de Charles et de Jeanne en 1473, monogramme KL dans la bordure f. 1, 3v) ; <persName type="possesseur" key="René II de Lorraine">René II de Lorraine</persName>.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 329-331</bibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1984, t. VII, p. 583</bibl>
@@ -5802,7 +5931,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="torino_1670" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="torino_1670" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Torino</settlement>
                   <repository>Bibl. nazionale universitaria</repository>
@@ -5822,12 +5951,13 @@
                   <provenance>Possesseur : figurent dans deux inventaires de la <persName type="possesseur" key="Savoie, famille">bibliothèque de la Maison de Savoie</persName>, datés de 1479 et de 1498.</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 331-332</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="onb_2595" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="onb_2595" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Wien</settlement>
                   <repository>Österreichische Nationalbibl.</repository>
@@ -5849,13 +5979,14 @@
                   <origin notBefore="1451" notAfter="1475">3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 3150, f. 9v [avant 1502], <title>Mss datés</title>, t. I, pl. 153)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 332-333</bibl>
                     <bibl>notice IRHT (1964)</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="onb_2653" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="onb_2653" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Wien</settlement>
                   <repository>Österreichische Nationalbibl.</repository>
@@ -5877,6 +6008,7 @@
                   <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 5196, f. 109 [1444-1474], <title>Mss datés</title>, t. I, pl. 99)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 333-334</bibl>
                     <bibl>notice IRHT</bibl>
@@ -6007,7 +6139,7 @@
           </listBibl>
           <div type="incipit">
             <head>Incipit</head>
-            <msDesc xml:id="impr_boece" type="imprime"><!-- type="biblissima" -->
+            <msDesc xml:id="impr_boece" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -6111,7 +6243,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition C. Schwarze</bibl>
-          <msDesc corresp="#orleans_444" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#orleans_444" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Orléans</settlement>
               <repository>bibl. mun.</repository>

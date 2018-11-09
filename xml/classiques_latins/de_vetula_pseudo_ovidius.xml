@@ -93,7 +93,7 @@
         <div type="edition epilogue">
           <head>Epilogue</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_881" n="epilogue"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_881" n="epilogue" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -116,7 +116,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_881" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_881" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -168,7 +168,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_2327" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_2327" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -195,7 +195,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_19138" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_19138" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -227,7 +227,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_881" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -252,6 +252,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName type="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName type="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName type="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName type="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName></provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 21-23</bibl>
                   <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, notice p. 342-345</bibl>
@@ -259,7 +260,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_2327" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_2327" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -277,8 +278,11 @@
                 <origin notBefore="1375" notAfter="1450">1375-1450 (proche du ms Paris, Bibl. nat. de Fr., lat. 3459 A, f. 304v [1382], <title>Mss datés</title>, t. II, pl. 162)</origin>
                 <provenance>Possesseur : f. 1 essais de plume avec mention du nom de <quote>« <persName type="possesseur" key="Robert Sirorost">Robert Sirorost</persName> »</quote></provenance>
               </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+              </additional>
             </msDesc>
-            <msDesc xml:id="fr_19138" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_19138" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -296,6 +300,7 @@
                 <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4028, f. 452 [1430], <title>Mss datés</title>, t. II, pl. 92)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien Saint-Germain français</title>, t. III, Paris, 1900, p. 236-237</bibl>
                 </listBibl>

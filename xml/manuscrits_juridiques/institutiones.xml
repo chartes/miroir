@@ -100,7 +100,7 @@
               <head>Conspectus siglorum</head>
               <witness xml:id="A">
                 <ref target="authenticum.xml#fr_498">
-                  <msDesc corresp="authenticum.xml#fr_498">
+                  <msDesc corresp="authenticum.xml#fr_498" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -115,7 +115,7 @@
               </witness>
               <witness xml:id="B">
                 <ref target="#fr_1063">
-                  <msDesc corresp="#fr_1063">
+                  <msDesc corresp="#fr_1063" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -130,7 +130,7 @@
               </witness>
               <witness xml:id="C">
                 <ref target="#fr_1064">
-                  <msDesc corresp="#fr_1064">
+                  <msDesc corresp="#fr_1064" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -145,7 +145,7 @@
               </witness>
               <witness xml:id="D">
                 <ref target="#fr_1065">
-                  <msDesc corresp="#fr_1065">
+                  <msDesc corresp="#fr_1065" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -160,7 +160,7 @@
               </witness>
               <witness xml:id="E">
                 <ref target="#fr_1928">
-                  <msDesc corresp="#fr_1928">
+                  <msDesc corresp="#fr_1928" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -175,7 +175,7 @@
               </witness>
               <witness xml:id="F">
                 <ref target="authenticum.xml#fr_22970">
-                  <msDesc corresp="authenticum.xml#fr_22970">
+                  <msDesc corresp="authenticum.xml#fr_22970" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -190,7 +190,7 @@
               </witness>
               <witness xml:id="G">
                 <ref target="#stomer_439">
-                  <msDesc corresp="#stomer_439">
+                  <msDesc corresp="#stomer_439" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Saint-Omer</settlement>
@@ -205,7 +205,7 @@
               </witness>
               <witness xml:id="H">
                 <ref target="#montpellier_h316">
-                  <msDesc corresp="#montpellier_h316">
+                  <msDesc corresp="#montpellier_h316" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Montpellier</settlement>
@@ -220,7 +220,7 @@
               </witness>
               <witness xml:id="I">
                 <ref target="#montpellier_h373">
-                  <msDesc corresp="#montpellier_h373">
+                  <msDesc corresp="#montpellier_h373" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Montpellier</settlement>
@@ -235,7 +235,7 @@
               </witness>
               <witness xml:id="K">
                 <ref target="#glasgow_hunter63">
-                  <msDesc corresp="#glasgow_hunter63">
+                  <msDesc corresp="#glasgow_hunter63" type="witList">
                     <msIdentifier>
                       <country>Ecosse</country>
                       <settlement>Glasgow</settlement>
@@ -250,7 +250,7 @@
               </witness>
               <witness xml:id="L">
                 <ref target="authenticum.xml#kbr_10467">
-                  <msDesc corresp="authenticum.xml#kbr_10467">
+                  <msDesc corresp="authenticum.xml#kbr_10467" type="witList">
                     <msIdentifier>
                       <country>Belgique</country>
                       <settlement>Bruxelles</settlement>
@@ -265,7 +265,7 @@
               </witness>
               <witness xml:id="M">
                 <ref target="#lat_1927">
-                  <msDesc corresp="#lat_1927">
+                  <msDesc corresp="#lat_1927" type="witList">
                     <msIdentifier>
                       <country>Vatican</country>
                       <settlement>Vaticano</settlement>
@@ -280,7 +280,7 @@
               </witness>
               <witness xml:id="N">
                 <ref target="#orleans_393">
-                  <msDesc corresp="#orleans_393">
+                  <msDesc corresp="#orleans_393" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Orléans</settlement>
@@ -295,7 +295,7 @@
               </witness>
               <witness xml:id="O">
                 <ref target="authenticum.xml#bl_royal20">
-                  <msDesc corresp="authenticum.xml#bl_royal20">
+                  <msDesc corresp="authenticum.xml#bl_royal20" type="witList">
                     <msIdentifier>
                       <country>Angleterre</country>
                       <settlement>London</settlement>
@@ -310,7 +310,7 @@
               </witness>
               <witness xml:id="P">
                 <ref target="#institutes_perdu13">
-                  <msDesc corresp="#institutes_perdu13">
+                  <msDesc corresp="#institutes_perdu13" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Poitiers</settlement>
@@ -325,7 +325,7 @@
               </witness>
               <witness xml:id="Q">
                 <ref target="#institutes_perdu12">
-                  <msDesc corresp="#institutes_perdu12">
+                  <msDesc corresp="#institutes_perdu12" type="witList">
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Strasbourg</settlement>
@@ -340,7 +340,7 @@
               </witness>
               <witness xml:id="R">
                 <ref target="#princeton_kane_ms49">
-                  <msDesc corresp="#princeton_kane_ms49">
+                  <msDesc corresp="#princeton_kane_ms49" type="witList">
                     <msIdentifier>
                       <country>Etats-Unis</country>
                       <settlement>Princeton</settlement>
@@ -356,7 +356,7 @@
               </witness>
               <witness xml:id="S">
                 <ref target="#washington_i71">
-                  <msDesc corresp="#washington_i71">
+                  <msDesc corresp="#washington_i71" type="witList">
                     <msIdentifier>
                       <country>Etats-Unis</country>
                       <settlement>Washington D. C.</settlement>
@@ -372,7 +372,7 @@
               </witness>
               <witness xml:id="T">
                 <ref target="#leiden_bpl3201">
-                  <msDesc corresp="#leiden_bpl3201">
+                  <msDesc corresp="#leiden_bpl3201" type="witList">
                     <msIdentifier>
                       <country>Pays-Bas</country>
                       <settlement>Leiden</settlement>
@@ -520,7 +520,7 @@
                 <head>Copies existantes</head>
                 <item xml:id="kbr_10467"><ref target="authenticum.xml#kbr_10467">Bruxelles, Bibl. royale de Belgique, 10467 (sigle L)</ref></item>
                 <item corresp="ARK_manuscrit"><!-- xml:id="glasgow_hunter63" -->
-                  <msDesc xml:id="glasgow_hunter63" type="manifestation_singleton">
+                  <msDesc xml:id="glasgow_hunter63" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Ecosse</country>
                       <settlement>Glasgow</settlement>
@@ -1261,7 +1261,7 @@
                 </item>
                 <item xml:id="bl_royal20"><ref target="authenticum.xml#bl_royal20">Londres, British Libr., Royal 20.D.IX (sigle O)</ref></item>
                 <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541"><!--  xml:id="montpellier_h316" -->
-                  <msDesc xml:id="montpellier_h316" type="manifestation_singleton">
+                  <msDesc xml:id="montpellier_h316" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Montpellier</settlement>
@@ -2129,7 +2129,7 @@
                   </div>
                 </item>
                 <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q"><!--  xml:id="montpellier_h373" -->
-                  <msDesc xml:id="montpellier_h373" type="manifestation_singleton">
+                  <msDesc xml:id="montpellier_h373" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Montpellier</settlement>
@@ -3017,7 +3017,7 @@
                   </div>
                 </item>
                 <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v"><!--  xml:id="orleans_393" -->
-                  <msDesc xml:id="orleans_393" type="manifestation_singleton">
+                  <msDesc xml:id="orleans_393" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Orléans</settlement>
@@ -4261,7 +4261,7 @@
                 </item>
                 <item xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s"><ref target="authenticum.xml#fr_498">Paris, Bibl. nat. de Fr., fr. 498 (sigle A)</ref></item>
                 <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v"><!--  xml:id="fr_1063" -->
-                  <msDesc xml:id="fr_1063" type="manifestation_singleton">
+                  <msDesc xml:id="fr_1063" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -5038,7 +5038,7 @@
                   </div>
                 </item>
                 <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q"><!-- xml:id="fr_1064" -->
-                  <msDesc xml:id="fr_1064" type="manifestation_singleton">
+                  <msDesc xml:id="fr_1064" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -5977,7 +5977,7 @@
                   </div>
                 </item>
                 <item corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188"><!--  xml:id="fr_1065" -->
-                  <msDesc xml:id="fr_1065" type="manifestation_singleton">
+                  <msDesc xml:id="fr_1065" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -6675,7 +6675,7 @@
                   </div>
                 </item>
                 <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899"><!--  xml:id="fr_1928" -->
-                  <msDesc xml:id="fr_1928" type="manifestation_singleton">
+                  <msDesc xml:id="fr_1928" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -7499,7 +7499,7 @@
                 </item>
                 <item xml:id="fr_22970"><ref target="authenticum.xml#fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref></item>
                 <item corresp="ARK_manuscrit"><!--  xml:id="princeton_kane_ms49" -->
-                  <msDesc xml:id="princeton_kane_ms49" type="manifestation_singleton">
+                  <msDesc xml:id="princeton_kane_ms49" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Etats-Unis</country>
                       <settlement>Princeton</settlement>
@@ -7650,7 +7650,7 @@
                   </div>
                 </item>
                 <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q"><!--  xml:id="stomer_439" -->
-                  <msDesc xml:id="stomer_439" type="manifestation_singleton">
+                  <msDesc xml:id="stomer_439" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Saint-Omer</settlement>
@@ -8511,7 +8511,7 @@
                   </div>
                 </item>
                 <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g"><!-- xml:id="bav_1927" -->
-                  <msDesc xml:id="bav_1927" type="manifestation_singleton">
+                  <msDesc xml:id="bav_1927" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Vatican</country>
                       <settlement>Vaticano</settlement>
@@ -9332,7 +9332,7 @@
                   </div>
                 </item>
                 <item corresp="ARK_manuscrit"><!--  xml:id="washington_i71" -->
-                  <msDesc xml:id="washington_i71" type="manifestation_singleton">
+                  <msDesc xml:id="washington_i71" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Etats-Unis</country>
                       <settlement>Washington D. C.</settlement>
@@ -9415,7 +9415,7 @@
               <head>Fragment</head>
               <list type="listMs">
                 <item corresp="ARK_manuscrit"><!--  xml:id="leiden_bpl3201" -->
-                  <msDesc xml:id="leiden_bpl3201" type="manifestation_singleton">
+                  <msDesc xml:id="leiden_bpl3201" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Pays-Bas</country>
                       <settlement>Leiden</settlement>
@@ -9710,7 +9710,7 @@
           <div type="manuscrit">
             <list type="listMs">
               <item corresp="ARK_manuscrit"><!--  xml:id="harley_4477" -->
-                <msDesc xml:id="harley_4477" type="manifestation_singleton">
+                <msDesc xml:id="harley_4477" type="main"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>Angleterre</country>
                     <settlement>London</settlement>
@@ -11564,7 +11564,7 @@
           <div type="imprime">
             <list type="listMs">
               <item><!--  xml:id="caillaut" -->
-                <msDesc xml:id="caillaut" type="manifestation_singleton"><!-- type="manifestation" -->
+                <msDesc xml:id="caillaut" type="main"><!-- type="manifestation_singleton" --><!-- type="manifestation" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>

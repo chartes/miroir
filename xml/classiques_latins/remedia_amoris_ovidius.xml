@@ -132,7 +132,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_12478" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_12478" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -165,7 +165,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_12478" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_12478" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -185,6 +185,7 @@
                 <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v [1414], <title>Mss datés</title>, t. II, pl. 83)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien supplément français</title>, t. II, Paris, 1896, p. 540</bibl>
                   <bibl><title>Le Facet en françois</title>, éd. J. Morawski, Poznan, 1923</bibl>
@@ -208,7 +209,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition G. Körting</bibl>
-          <msDesc corresp="#dresden_oc66" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#dresden_oc66" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Dresden</settlement>
               <repository>Sächsische Landesbibl.</repository>
@@ -256,7 +257,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="dresden_oc66" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="dresden_oc66" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Dresden</settlement>
                 <repository>Sächsische Landesbibl.</repository>
@@ -278,6 +279,7 @@
                 <origin notBefore="1380" notAfter="1420">origine bourguignonne (d’après 1 et 2) ; fin XIV<hi rend="sup">e</hi> ou début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 5196, f. 109 [1444-1474], <title>Mss datés</title> t. I, pl. 99)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>G. Körting, <title>Altfranzösische Übersetzung der Remedia amoris des Ovid (Ein Theildes allegorisch-didaktischen Epos Les echecs amoureux)</title>, Leipzig, 1871, p. iii-xi</bibl>
                   <bibl>R. Bruck, <title>Die Malereien in den Handschriften des Königreichs Sachsen</title>, Dresde, 1906, p. 319</bibl>
@@ -321,7 +323,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#lille_388" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#lille_388" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Lille</settlement>
               <repository>bibl. mun.</repository>
@@ -338,7 +340,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lille_388" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="lille_388" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Lille</settlement>
                 <repository>bibl. mun.</repository>
@@ -357,6 +359,7 @@
                 <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> siècle (f. 37 écriture de gros module proche du ms Paris, bibl. Arsenal 2570, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 26 (1897), p. 265-266</bibl>
                 </listBibl>

@@ -90,7 +90,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#lille_388" n="incipit">
+          <msDesc corresp="#lille_388" n="incipit" type="contents">
             <msIdentifier>
               <settlement>Lille</settlement>
               <repository>bibl. mun.</repository>
@@ -108,7 +108,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lille_388" n="vu mf" sameAs="remedia_amoris_ovidius.xml#lille_388" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="lille_388" sameAs="remedia_amoris_ovidius.xml#lille_388" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Lille</settlement>
                 <repository>bibl. mun.</repository>
@@ -128,6 +128,7 @@
                 <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> siècle (f. 37 écriture de gros module proche du ms Paris, bibl. Arsenal 2570, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 26 (1897), p. 265-266</bibl>
                 </listBibl>

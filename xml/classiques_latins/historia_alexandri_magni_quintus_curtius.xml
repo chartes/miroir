@@ -102,7 +102,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#fr_22547" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_22547" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -259,7 +259,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="chantilly_755" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="chantilly_755" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Chantilly</settlement>
                 <repository>Musée Condé</repository>
@@ -281,6 +281,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> et <persName type="ancien">Marie de Balzac</persName>, sa femme (armes f. 16), morte en 1503</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 155</bibl>
                   <bibl>J. Meurgey, <title>Les principaux manuscrits à peintures du Musée Condé à Chantilly</title>, Paris, 1930, p. 136-137 et pl. 94</bibl>
@@ -317,7 +318,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="geneve_eix2" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="geneve_eix2" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Genova</settlement>
                 <repository>Bibl. Universitaria</repository>
@@ -339,6 +340,7 @@
                 <provenance>possesseur : blason non identifié f. 19</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>D. Puncuh, « Un codice borgognone del secolo XV. Il ‘Curzio Rufo’ della Biblioteca Universitaria di Genova », dans <title>Atti della Società Ligure di Storia Patria</title>, n.s., t. 5 [89 fasc. II], 1965, p. 201-238</bibl>
                 </listBibl>
@@ -492,7 +494,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal15div" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal15div" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -515,6 +517,7 @@
                 <provenance>possesseur : offert par Marguerite d’York et Marie de Bourgogne à <persName type="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, chevalier d’honneur de Marguerite d’York (f. 219a) ; sir <persName type="possesseur" key="John Donne">John Donne</persName> (armes f. 219b) à partir de mai 1477 ; <persName type="possesseur" key="Henry VIII d'Angleterre">Henry VIII</persName> ?; pourrait être le ms attesté à <orgName type="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 20 C III</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of western manuscripts in the old royal and King’s collection</title>, t. II, 1921, p. 261</bibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans Bibliothèque d’<title>humanisme etrRenaissance</title>, t. 8, 1946, p. 208</bibl>
@@ -525,7 +528,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc n="vu ms" xml:id="bl_royal17fi" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal17fi" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -550,6 +553,7 @@
                 <provenance>possesseurs : réserve pour un écu dans l’encadrement du f. 14  ; acquis par <persName type="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (?)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of western manuscripts in the old royal and King’s collection</title>, t. II, p. 261 [sujet des miniatures]</bibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 208</bibl>
@@ -558,7 +562,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal20cIII" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal20cIII" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -580,6 +584,7 @@
                 <provenance>possesseur : réserve pour un écu dans l’encadrement f. 12 ; pourrait être le ms attesté à <orgName type="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 15 D IV</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of western manuscripts in the old royal and King’s collection</title>, t. II, 1921, p. 371</bibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 208</bibl>
@@ -675,7 +680,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_3687" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_3687" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -697,6 +702,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Van de Merrewe">Van de Merrewe</persName> (ex libris daté de 1521, f. 162c) ; armes non identifiées, f. 9 (d’or au sautoir de gueules chargé de cinq coquilles d’argent)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1887, t. III, p. 465-466</bibl>
                   <bibl>C. Lemaire, « Les manuscrits de Jean II, comte d’Oettingen, ou la fin d’une légende », dans A. Raman et E. Manning (éd.),
@@ -705,7 +711,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_47-49" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_47-49" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -727,6 +733,7 @@
                 <provenance>possesseur : diverses mentions <quote>« O altitudo divitiarum sapientie et scientie Dei. Quam incomprehensibilia sunt judicia ejus [...] <lb/> <foreign>[plus bas]</foreign> Peractio dat intellectum <lb/> <foreign>[plus bas]</foreign> Bon jour bon an bon temps bonne sepmaine m’amye m’amour ma joye souveraine »</quote> sur le f. de garde début</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 204</bibl>
                   <bibl>S. McKendrick, <title>The History of Alexander the Great : An Illuminated Manuscript of Vasco da Lucena’s French Translation of the Ancient Text of Quintus Curtius Rufus</title>, Malibu [Calif.] 1996, p. 18, 19, 50</bibl>
@@ -734,7 +741,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_257" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_257" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -756,6 +763,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName> ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. [1] recouvrant les armes de Louis de Bruges)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 204</bibl>
                   <bibl>M. P. J. Martens, <title>Lodewijk van Gruuthuse, mecenas en europees diplomaat ca. 1427-1492</title>, Bruges, 1992, p. 184-185</bibl>
@@ -764,7 +772,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_258" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_258" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -785,12 +793,13 @@
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4804, f. 11v [1485], <title>Mss datés</title>, t. II, pl. 165)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 204</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_708-711" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_708-711" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -812,13 +821,14 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Antoine de Clermont">Antoine de Clermont</persName>, chambellan de Louis XI et Françoise de Sassenage</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 204</bibl>
                   <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_6440" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_6440" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -840,6 +850,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Philibert de Veyré">Philibert de Veyré</persName>, chevalier de l’ordre de la toison d’or (armes f. 13, 15v, 149). Cette copie a peut-être pour modèle direct le manuscrit possédé par <persName type="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> (ms Oxford, Bodleian Libr., Laud. Misc. 751) (3)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien supplément français</title>, t. I, Paris, 1895, p. 32</bibl>
                   <bibl>P. Durrieu, <title>La miniature flamande au temps de la cour de Bourgogne (1415-1530)</title>, Paris-Bruxelles, 1921, p. 62, pl. LXXI</bibl>
@@ -849,7 +860,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_9738" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_9738" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -875,6 +886,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Jacques de Pons">Jacques de Pons</persName> (ex libris f. 1 ; armes f. 12), fils de François et de Marguerite de Coëtivy (XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> s.)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont et C. Couderc, <title>Catalogue général des manuscrits français, ancien supplément français</title>, t. II, Paris, 1896, p. 31-32</bibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 205</bibl>
@@ -884,7 +896,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_20311" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_20311" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -906,6 +918,7 @@
                 <provenance>possesseur : <orgName type="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (Navarre 23 [f. 1])</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, anciens petits fonds français</title>, Paris, 1898, t. I, p. 60</bibl>
                   <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 205</bibl>
@@ -914,7 +927,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_22547" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_22547" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -940,6 +953,7 @@
                 <provenance>destinataire : exemplaire de dédicace pour <persName type="dédicataire">Charles le Téméraire</persName> (armes de Charles le Téméraire f. 1 dans initiale ornée)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, anciens petits fonds français</title>, Paris, 1898, t. I, p. 521</bibl>
                   <bibl>P. Durrieu, <title>La miniature flamande au temps de la cour de Bourgogne</title>, Paris-Bruxelles, 1921, p. 48, pl. XXVI</bibl>
@@ -951,7 +965,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="nafr_11675" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_11675" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -968,8 +982,11 @@
               <history>
                 <origin notBefore="1468" notAfter="1500">XV<hi rend="sup">e</hi> s. (après 1468) (proche du ms Paris, Bibl. nat. de Fr., lat. 3459A, f. 304v [1482], <title>Mss datés</title>, t. II, pl. 162)</origin>
               </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+              </additional>
             </msDesc>
-            <msDesc xml:id="reims_1335" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="reims_1335" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Reims</settlement>
                 <repository>bibl. mun.</repository>
@@ -994,6 +1011,7 @@
                 <provenance>possesseur : mention <quote>« deux roys m’ont aymé et l’on ne me peut trop payer »</quote> (f. 1a sous la miniature)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 39 (1904), p. 480-482 [description sommaire des sujets des miniatures]</bibl>
                   <bibl>M. de Lemps et R. Lastrier, <title>Trésors de la Bibliothèque municipale de Reims</title>, catalogue d’exposition, Reims, 1976, n° 47</bibl>
@@ -1053,7 +1071,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bav_reglat_736" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bav_reglat_736" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -1075,6 +1093,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="La Baume, famille de">famille de la Baume</persName> (armes ajoutées au début du XVI<hi rend="sup">e</hi> s. f. 11)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Durrieu, « Notes sur quelques manuscrits à peintures d’origine française ou flamande conservés en Italie », dans
                     <title>Bulletin de la Société française de reproduction de manuscrits à peintures</title>, t. I, 1911, p. 102-103</bibl>
@@ -1120,7 +1139,7 @@
         <div type="manuscrit">
           <head>Collections privées</head>
           <listBibl type="msList">
-            <msDesc xml:id="historia_alexandri_ms33"><!-- type="biblissima" -->
+            <msDesc xml:id="historia_alexandri_ms33" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1147,7 +1166,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="historia_alexandri_ms34"><!-- type="biblissima" -->
+            <msDesc xml:id="historia_alexandri_ms34" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1165,7 +1184,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="historia_alexandri_ms35"><!-- type="biblissima" -->
+            <msDesc xml:id="historia_alexandri_ms35" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -1273,7 +1292,7 @@
           <div type="edition prologue">
             <head>Prologue du remanieur</head>
             <p>d’après le ms</p>
-            <msDesc corresp="#chantilly_756" n="prologue"><!-- type="biblissima" -->
+            <msDesc corresp="#chantilly_756" n="prologue" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Chantilly</settlement>
                 <repository>Musée Condé</repository>
@@ -1286,7 +1305,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d’après le ms</p>
-            <msDesc corresp="#abbeville_92" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#abbeville_92" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Abbeville</settlement>
                 <repository>bibl. mun.</repository>
@@ -1373,7 +1392,7 @@
           <div type="manuscrit">
             <head>Manuscrits</head>
             <listBibl type="msList">
-              <msDesc xml:id="abbeville_92" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="abbeville_92" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Abbeville</settlement>
                   <repository>bibl. mun.</repository>
@@ -1394,13 +1413,14 @@
                   <origin notBefore="1451" notAfter="1500">seconde moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 231, f. 23 [1459], <title>Mss datés</title>, t. I, pl. 116)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 9 (1888), p. 421-422</bibl>
                     <bibl>notice IRHT (1965)</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="chantilly_756" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="chantilly_756" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -1422,6 +1442,7 @@
                   <origin notBefore="1401" notAfter="1500">XVe s. (proche du ms Paris, bibl. Sainte-Geneviève, 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 155</bibl>
                     <bibl>R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 206</bibl>

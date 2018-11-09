@@ -6024,7 +6024,7 @@
                   <head>Conspectus siglorum</head>
                   <witness xml:id="A">
                     <ref target="#kbr_9234">
-                      <msDesc corresp="#kbr_9234">
+                      <msDesc corresp="#kbr_9234" type="witList">
                         <msIdentifier>
                           <country>Belgique</country>
                           <settlement>Bruxelles</settlement>
@@ -6039,7 +6039,7 @@
                   </witness>
                   <witness xml:id="B">
                     <ref target="#leiden_meijers_fr3">
-                      <msDesc corresp="#leiden_meijers_fr3">
+                      <msDesc corresp="#leiden_meijers_fr3" type="witList">
                         <msIdentifier>
                           <country>Pays-Bas</country>
                           <settlement>Leiden</settlement>
@@ -6054,7 +6054,7 @@
                   </witness>
                   <witness xml:id="E">
                     <ref target="#fr_495">
-                      <msDesc corresp="#fr_495">
+                      <msDesc corresp="#fr_495" type="witList">
                         <msIdentifier>
                           <country>France</country>
                           <settlement>Paris</settlement>
@@ -6069,7 +6069,7 @@
                   </witness>
                   <witness xml:id="F">
                     <ref target="#fr_20118">
-                      <msDesc corresp="#fr_20118">
+                      <msDesc corresp="#fr_20118" type="witList">
                         <msIdentifier>
                           <country>France</country>
                           <settlement>Paris</settlement>

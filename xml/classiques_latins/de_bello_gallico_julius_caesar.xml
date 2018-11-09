@@ -126,7 +126,7 @@
         <div type="edition epilogue">
           <head>Épilogue</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#fr_38"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_38" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -139,7 +139,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" corresp="#fr_38"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_38" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -290,7 +290,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="kb_thott544" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kb_thott544" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Kobenhavn</settlement>
                 <repository>Kongelige Bibl.</repository>
@@ -318,6 +318,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> (1459-1527) (armes f. 19 ; signature sous l’explicit).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>C. Bruun, <title>Die illuminerede Haandskrifer fra Middelalderen i Det Store Kongelige Bibliothek</title>, 1890, Copenhague, p. 240-242</bibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
@@ -329,7 +330,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_egerton1056" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_egerton1056" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -351,6 +352,7 @@
                 <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms London, British Libr., Royal 15 D I, f. 113 [Bruges, 1470], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, The British Library</title>, Londres, 1979, t. II, pl. 742)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
                     <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 258</bibl>
@@ -361,7 +363,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal16gVIII" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal16gVIII" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -387,6 +389,7 @@
                 <provenance>possesseur : dans l’encadrement du f. 14, au centre de la marge inférieure, la réserve ménagée par la copie d’un écu est restée vierge ; ms probablement acquis par <persName type="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (1442-1483) (ms conservé au <orgName type="possesseur" key="Richmond Palace">château de Richmond</orgName>, n° 72).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 1-13</bibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>British Museum, Catalogue of Western Manuscripts in the Old Royal and King’s Collections</title>, Londres, t. II, 1921, p. 213</bibl>
@@ -401,7 +404,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="beinecke_226" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="beinecke_226" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>New Haven</settlement>
                 <repository>Yale, University Library, Beinecke Rare Books &#38; Manuscripts Library</repository>
@@ -427,6 +430,7 @@
                 <provenance>commanditaire : <persName type="commanditaire">Jacques Douche</persName>, conseiller de Charles le Téméraire.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
                     <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 258</bibl>
@@ -436,7 +440,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bodleian_douce208" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bodleian_douce208" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Oxford</settlement>
                 <repository>Bodleian Libr.</repository>
@@ -463,6 +467,7 @@
                 <provenance>possesseur : aux armes de <persName type="possesseur" key="Saintré">Saintré</persName> avec devise <quote>« se je puis »</quote> (f. 4).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>F. Madan, <title>A Summary Catalogue of western manuscripts in the Bodleian Library at Oxford</title>, t. IV, Oxford, 1897, p. 555</bibl>
                   <bibl>O. Pächt et J. J. G. Alexander, <title>Illuminated manuscripts in the Bodleian Library Oxford</title>, Oxford, 1969, t. I, p. 26, n° 351 et pl. 28</bibl>
@@ -470,7 +475,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_38" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_38" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -494,6 +499,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (f. 312a) ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (f. 1v), armes de France (f. 26, 94, 117v, 130v...).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
                     <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 255-256</bibl>
@@ -560,7 +566,7 @@
           <div type="edition prologue">
             <head>Prologue</head>
             <p>d’après le ms</p>
-            <msDesc n="prologue" corresp="#fr_280"><!-- type="biblissima" -->
+            <msDesc n="prologue" corresp="#fr_280" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -573,7 +579,7 @@
             <head>Incipit</head>
             <p>d’après le ms</p>
             <p>Seuls sont donnés les incipit différents.</p>
-            <msDesc n="incipit" corresp="#fr_280"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_280" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -603,7 +609,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_280" n="vu ms" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_280" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -628,6 +634,7 @@
                   <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (f. 5 proche du ms Paris, Bibl. nat. de Fr., lat. 6966, f. 171v [1461], <title>Mss datés</title>, t. II, pl. 130)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
                       <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 256-257 et 259-263</bibl>
@@ -661,7 +668,7 @@
           <div type="dedicace">
             <head>Dédicace</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_728" n="dedicace"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_728" n="dedicace" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -669,7 +676,7 @@
               </msIdentifier>
               <p><pb n="f. 1"/>A tres chrestien et tres excellent prince, Charles, huitiesme de ce nom, roy de France, Robert, ministre general de l’ordre de Sainte Trinité et redemption des prisonniers chrestiens, dit et desire, en toute humilité, honneur, gloire et longue vie <foreign>(rubr.)</foreign></p>
             </msDesc>
-            <msDesc n="dedicace" corresp="#arsenal_5222"><!-- type="biblissima" -->
+            <msDesc n="dedicace" corresp="#arsenal_5222" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -688,13 +695,13 @@
             <head>Strophe de huit vers servant d’épilogue</head>
             <bibl><title>Les commentaires de Julius Cesar</title>, <publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1495-12-31" notAfter="1505">ca 1500</date></bibl>
             <p>Lisez, liseur attrait, et entendez<lb/>Et ne jugez a cerveau estourdy<lb/>Soit bien soit mal que avant regardez<lb/>L’euvre en latin dont ce livre est party.<lb/>Vous trouverez que je l’ay converty<lb/>Selon le sen des mos et de la lettre<lb/>Et mon françoys en latin assorty<lb/>Le plus brief que le tout se peut mettre.<lb/>
-           </p>
+            </p>
           </div>
           <div type="explicit">
             <head>Strophe de huit vers servant d’épilogue</head>
             <bibl><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] Antoine Vérard, Paris, <date notBefore="1488" notAfter="1488">1488</date></bibl>
             <p>Lisez, liseurs attrait et entendez<lb/>et ne jugez a cerveau estourdy,<lb/>soit bien soit mal, que avant regardez<lb/>l’euvre en latin dont ce livre est party :<lb/>vous trouverez que je l’ay converty<lb/>selon le sens des mos et de la lettre<lb/>et mon françoys au latin assorty<lb/>le plus au brief que le tout se peult mettre.<lb/>
-           </p>
+            </p>
           </div>
           <div type="dedicace">
             <head>Edition de la dédicace </head>
@@ -706,7 +713,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_728" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_728" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -765,7 +772,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="bml_plutLXIIcod8" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bml_plutLXIIcod8" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Firenze</settlement>
                 <repository>Bibl. Medicea Laurenziana</repository>
@@ -788,6 +795,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (armoirie dans la bordure sous les miniatures).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>A. Boinet, « Un bibliophile du XV<hi rend="sup">e</hi> siècle. Le Grand Bâtard de Bourgogne », dans <title>Bibliothèque de l’Ecole des chartes</title>, 1906, t. 67, p. 258</bibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
@@ -796,7 +804,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_5222" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_5222" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -819,6 +827,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Louis de Grolée">Louis de Grolée</persName>, abbé de Bonnevaux et de Saint-Pierre de Vienne (armes ajoutées postérieurement à la décoration du ms f. 1v, 3a, etc. ; armes et devise f. 2a) ; sur un feuillet de garde intérieur, gravure d’un cavalier présenté comme <quote>« <persName type="possesseur" key="Salvaing, Aymon de">Aymon de Salvaing</persName>, seigneur de Boissieu, surnommé le chevallier hardy, 1505 »</quote>.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, t. V (1889), p. 164-165</bibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
@@ -828,7 +837,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_728" n="vu ms" type="main">
+            <msDesc xml:id="fr_728" type="main">
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -851,13 +860,14 @@
                 <provenance>possesseur : <persName type="possesseur">rois de France</persName> (n°59 de l’inventaire du <orgName type="possesseur" key="Blois, bibliothèque de">château de Blois</orgName> en 1518 : <title>Commentaires Cesar translatez par maistre Robert Guaguyn feu general des Mathurins</title>).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Arnauldet, « Inventaire de la librairie du château de Blois en 1518 », dans <title>Le bibliographe moderne</title>, t. VI, 1902, p. 308-309</bibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 374-375</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1392" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1392" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -876,6 +886,7 @@
                 <origin notBefore="1480" notAfter="1510">fin du XV<hi rend="sup">e</hi> s. ou premières années du XVI<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 902, f. 101v [1502], <title>Mss datés</title>, t. II, pl. 173)                </origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Traductions françaises des Commentaires de César à la fin du XV<hi rend="sup">e</hi> siècle », dans
                     <title>Bibliothèque d’humanisme et renaissance</title>, t. 3, 1943, p. 375</bibl>
@@ -887,7 +898,7 @@
         <div type="manuscrit">
           <head>Collections privées</head>
           <listBibl type="msList">
-            <msDesc xml:id="ms13"><!-- type="biblissima" -->
+            <msDesc xml:id="ms13" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -909,7 +920,7 @@
                 <provenance>Vente Nicolay, 2 mai 1895, passé à la librairie D. Morgand</provenance>
               </history>
             </msDesc>
-            <msDesc xml:id="ms14"><!-- type="biblissima" -->
+            <msDesc xml:id="ms14" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>

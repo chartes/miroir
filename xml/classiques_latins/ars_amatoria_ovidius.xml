@@ -111,7 +111,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" corresp="#fr_19152"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_19152" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -130,7 +130,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_19152" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_19152" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -151,6 +151,7 @@
                 <provenance>Possesseur : <quote>« <persName type="possesseur" key="Philippe Alamande">Philippe Alamande</persName>, dame de Chassenaige »</quote> [= Sassenage près de Grenoble] (signature f. 8 et 127) († 1478)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Kühne et E. Stengel, <title>Maître Elie’s Überarbeitung der ältesten französichen Übertragung von Ovid’s Ars amatoria</title>, Marburg, 1886, p. 1</bibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien Saint-Germain français</title>, Paris, 1900, p. 247-251</bibl>
@@ -177,7 +178,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition B. Roy (p. 63-70)</bibl>
-          <msDesc n="incipit" corresp="#estense_γ.G.3.20"><!-- type="biblissima" -->
+          <msDesc corresp="#estense_γ.G.3.20" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Modena</settlement>
               <repository>Bibl. Estense Universitaria</repository>
@@ -219,7 +220,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_10988" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_10988" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -240,13 +241,14 @@
                 <provenance>Possesseur : <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> (inventaire de la librairie de Bourgogne vers 1467 [Barrois n° 1367] et inventaire de Bruxelles [Barrois, n° 2169]).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>A. Bayot, <title>Catalogue des manuscrits français de la Bibliothèque royale de Belgique</title>, Bruxelles, s.d., dactylographié</bibl>
                   <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 23-24</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="estense_γ.G.3.20" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="estense_γ.G.3.20" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Modena</settlement>
                 <repository>Bibl. Estense Universitaria</repository>
@@ -266,12 +268,13 @@
                 <provenance>Possesseur : <persName type="possesseur" key="France, rois de">bibliothèque royale de Blois</persName> (écu de France, f. 1 ; inventaire de Blois en 1518 (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque nationale</title>, Paris, 1881, t. III, p. 345).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 19</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2741" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2741" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -292,13 +295,14 @@
                 <provenance>Possesseur : <persName type="possesseur" key="Hostun, famille d’">famille d’Hostun</persName> (Dauphiné) de 1428 (au moins) à la fin du XV<hi rend="sup">e</hi> s.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, t. III, Paris, 1887, p. 90</bibl>
                   <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 19-21</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_881" sameAs="de_vetula_pseudo_ovidius.xml#fr_881" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_881" sameAs="de_vetula_pseudo_ovidius.xml#fr_881" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -324,6 +328,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName type="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName type="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName type="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName type="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName>.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 21-23</bibl>
                   <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, notice p. 342-345</bibl>
@@ -350,7 +355,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition D. Talsma</bibl>
-          <msDesc n="incipit" corresp="#dresden_oc64"><!-- type="biblissima" -->
+          <msDesc corresp="#dresden_oc64" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Dresden</settlement>
               <repository>Sächsische Landesbibl.</repository>
@@ -368,7 +373,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="chambery_27" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="chambery_27" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Chambéry</settlement>
                 <repository>bibl. mun.</repository>
@@ -390,6 +395,7 @@
                 <provenance>Possesseur : ms utilisé par <persName type="possesseur" key="Conrad de Lubech de Wolfhagen">Conrad de Lubech de Wolfhagen</persName> pour son baccalauréat à Paris (entre 1395 et 1402) ; <quote>« iste liber est magistro <persName type="possesseur" key="Bancard Rembout">Bancard Rembout</persName> »</quote> (f. 116v).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 21 (1893), p. 208-209</bibl>
                   <bibl>F. Perpéchon, « L’art d’amours, poème roman du XIII<hi rend="sup">e</hi> s. de Jakes d’Amiens, publié d’après un manuscrit de la bibliothèque de Chambéry », dans <title>Mémoires et documents publiés par la Société savoisienne d’histoire et d’archéologie</title>, t. 25, 1896, p. 273-277</bibl>
@@ -449,7 +455,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_12478" sameAs="remedia_amoris_ovidius.xml#fr_12478" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_12478" sameAs="remedia_amoris_ovidius.xml#fr_12478" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -470,6 +476,7 @@
                 <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v [1414], <title>Mss datés</title>, t. II, pl. 83)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien supplément français</title>, t. II, Paris, 1896, p. 540</bibl>
                   <bibl><title>Le Facet en françois</title>, éd. J. Morawski, Poznan, 1923</bibl>
@@ -477,7 +484,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_25545" n="vu ms" type="main"><!--type="biblissima"-->
+            <msDesc xml:id="fr_25545" type="main"><!--type="biblissima"-->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -493,6 +500,7 @@
                 </objectDesc>
               </physDesc>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. iii-v</bibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, anciens petits fonds français</title>, Paris, 1902, t. II, p. 629-633</bibl>
@@ -544,7 +552,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>]</bibl>
-            <msDesc xml:id="impr_ovide_1500" type="imprime"><!-- type="biblissima" -->
+            <msDesc xml:id="impr_ovide_1500" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement/>
                 <repository/>
@@ -646,7 +654,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition A. Doutrepont</bibl>
-          <msDesc n="incipit" corresp="#nafr_4531"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_4531" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -689,7 +697,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_add27308" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_add27308" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -712,6 +720,7 @@
                 <provenance>possesseur : possesseur anglais à la fin du Moyen Age, comme l’attestent l’écriture des notes en latin et en anglais sur le verso du deuxième f. de garde parchemin.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>La Clef d’amour, poème publié d’après un manuscrit du XIV<hi rend="sup">e</hi> siècle</title>, éd. E. Tross et H. Michelant, Lyon, 1866 [le manuscrit
                     <title>Additional</title>, acquis par le British Museum en 1866, appartenait antérieurement au libraire Tross et a servi de base à la première édition du poème en 1866]</bibl>
@@ -719,7 +728,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="nafr_4531" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_4531" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -742,6 +751,7 @@
                 <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5406, f. 24 [1329-1331], <title>Mss datés</title>, t. II, pl. 46)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxx-xxxi [manuscrit de base de l’édition]</bibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, nouvelles acquisitions françaises</title>, t. II, Paris, 1900, p. 207-208</bibl>
@@ -829,7 +839,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc n="incipit" corresp="#fr_1593"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1593" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>

@@ -98,7 +98,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml#fr_282"><!-- type="biblissima" -->
+          <msDesc corresp="factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml#fr_282" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -133,7 +133,7 @@
               <div type="incipit">
                 <head>Incipit</head>
                 <p>d'après le ms</p>
-                <msDesc corresp="#fr_1543"><!-- type="biblissima" -->
+                <msDesc corresp="#fr_1543" type="contents"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -192,7 +192,7 @@
               <div type="incipit">
                 <head>Incipit</head>
                 <p>d'après le ms</p>
-                <msDesc corresp="#br_add18179"><!-- type="biblissima" -->
+                <msDesc corresp="#br_add18179" type="contents"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>London</settlement>
                     <repository>British Libr.</repository>
@@ -217,7 +217,7 @@
               <div type="manuscrit">
                 <head>Manuscrit</head>
                 <listBibl type="msList">
-                  <msDesc  xml:id="br_add18179" n="vu ms" type="main"><!-- type="biblissima" -->
+                  <msDesc  xml:id="br_add18179" type="main"><!-- type="biblissima" -->
                     <msIdentifier>
                       <settlement>London</settlement>
                       <repository>British Libr.</repository>
@@ -243,6 +243,7 @@
                       <origin notBefore="1401" notAfter="1500">XVe s. (proche du ms Paris, bibl. Sainte-Geneviève 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133)</origin>
                     </history>
                     <additional>
+                      <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                       <listBibl>
                         <bibl>notice IRHT</bibl>
                       </listBibl>
@@ -261,7 +262,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition F. Desonay</bibl>
-            <msDesc xml:id="kbr_18210-5"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_18210-5" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -307,7 +308,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1233" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1233" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -366,7 +367,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_24257" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_24257" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -389,7 +390,7 @@
         <div type="incipit">
           <head>Glossaire</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1234"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1234" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -406,7 +407,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_10475" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_10475" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -432,6 +433,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Charles Quint">Charles Quint</persName> (inventaire de 1536).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 273-286, 469-489, p. 281-282</bibl>
                   <bibl>F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, 1982, t. IV, p. 60, pl. 852-855</bibl>
@@ -472,7 +474,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="br_add12028" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="br_add12028" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -491,12 +493,13 @@
                 <origin notAfter="1425-01-01" notBefore="1450-12-31">2<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 8158, f. 204 [1426], <title>Mss datés</title>, t. III, pl. 144)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue of additions to the manuscripts in the British Museum in the years MDCCCXLI-MDCCCXLV</title>, Londres, 1850, p. 26</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -515,13 +518,14 @@
                 <origin notAfter="1450-01-01" notBefore="1501-12-31">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, t. III (1887), p. 79</bibl>
                   <bibl> R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 280-281</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1233" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1233" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -540,6 +544,7 @@
                 <origin notAfter="1401-01-01" notBefore="1500-12-31">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 133, f. 130v [1426], <title>Mss datés</title>, t. I, pl. 87)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 278</bibl>
                   <bibl> Noël de Fribois, <title>Abrégé des croniques de France</title>, éd. K. Daly, avec la collaboration de G. Labory, Paris, 2006, p. 63-64 [notice]</bibl>
@@ -547,7 +552,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1234" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1234" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -570,12 +575,13 @@
                 <provenance>possesseur : signature grattée f. 138.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 278-279</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -596,13 +602,14 @@
                 <provenance>Possesseur : <persName type="possesseur" key="Louis de Bourbon, amiral de France">Louis de Bourbon</persName>, amiral de France (ex libris f. 1, ex libris et signature f. 158) ; <persName type="possesseur" key="Charles III de Bourbon, connétable de France">Charles III de Bourbon, connétable de France</persName> ; ms mentionné dans des inventaires de 1474 et 1527 : <title>Les stratagemes Julles Frontin</title> (1474) [n° 216 de l’inventaire de 1527 : en papier, couvert de cuir blanc].</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>A. de Boislisle, « Inventaire des bijoux, vêtements, manuscrits et objets précieux appartenant à la comtesse de Montpensier (1474) », dans <title>Annuaire-bulletin de la Société de l’histoire de France</title>, t. 17, 1880, p. 300</bibl>
                   <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 279</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_24257" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_24257" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -626,6 +633,7 @@
                 <provenance><persName type="possesseur" key="Charles VII">Charles VII</persName> (armes de France, f. 3) ; dans l’encadrement des f. 6, 55, 68v, réserve pour un écu.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 279-280</bibl>
                 </listBibl>
@@ -653,7 +661,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#s.Gravenhage73j22"><!-- type="biblissima" -->
+          <msDesc corresp="#s.Gravenhage73j22" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>s’Gravenhage</settlement>
               <repository>Koninklijke Bibl.</repository>
@@ -677,7 +685,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="s.Gravenhage73j22" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="s.Gravenhage73j22" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>s’Gravenhage</settlement>
                 <repository>Koninklijke Bibl.</repository>
@@ -695,6 +703,7 @@
                 <provenance>Possesseur : <persName type="possesseur" key="Waleran de Wavrin">Waleran de Wavrin</persName> (f. 93, armes de Wavrin)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 481-482</bibl>
                   <bibl><title>Schatten van de Koninklijke Bibliotheek, Acht eeuwen verluchte handschriften</title>, La Haye, 1980, p. 118 (f. 93) et 119</bibl>

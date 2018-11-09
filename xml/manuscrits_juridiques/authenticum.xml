@@ -97,7 +97,7 @@
           <head>Conspectus siglorum</head>
           <witness xml:id="A">
             <ref target="#fr_498">
-              <msDesc corresp="#fr_498">
+              <msDesc corresp="#fr_498" type="witList">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -110,7 +110,7 @@
           </witness>
           <witness xml:id="F">
             <ref target="#fr_22970">
-              <msDesc corresp="#fr_22970">
+              <msDesc corresp="#fr_22970" type="witList">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -125,7 +125,7 @@
           </witness>
           <witness xml:id="L">
             <ref target="#kbr_10467">
-              <msDesc corresp="#kbr_10467">
+              <msDesc corresp="#kbr_10467" type="witList">
                 <msIdentifier>
                   <country>Belgique</country>
                   <settlement>Bruxelles</settlement>
@@ -140,7 +140,7 @@
           </witness>
           <witness xml:id="O">
             <ref target="#bl_royal20">
-              <msDesc corresp="#bl_royal20">
+              <msDesc corresp="#bl_royal20" type="witList">
                 <msIdentifier>
                   <country>Angleterre</country>
                   <settlement>London</settlement>

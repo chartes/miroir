@@ -92,7 +92,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#bern_439"><!-- type="biblissima" -->
+          <msDesc corresp="#bern_439" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bern</settlement>
               <repository>Burgerbibl.</repository>
@@ -159,7 +159,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#lat_14095"><!-- type="biblissima" -->
+          <msDesc corresp="#lat_14095" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -177,7 +177,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lat_14095" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="lat_14095" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -198,6 +198,7 @@
                 <origin notBefore="1301" notAfter="1400">Nord-Est de la France d'après la graphie, XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève, 565, f. 17 [1329], <title>Mss datés</title>, t. I, pl. 40)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>M. Colombo Timelli, « Un rifacimento antico-francese dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. lat. 14095 », dans <title>Istituto Lombardo Accademia di Scienze et Lettere</title>, Milan, 1988, p. 35-42</bibl>
                   <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 92-97</bibl>
@@ -217,7 +218,7 @@
         </dateline>
         <p>
           <quote>« Cette version présente des points communs avec la version du manuscrit de Bern. Elle reste proche du texte latin, qu'elle complète par des additions que l'on retrouve dans les autres versions françaises. L'adaptation de l'<title>Ars minor</title> est suivie des développements habituels sur la déclinaison du nom et du pronom. »</quote>
-       </p>
+        </p>
         <listBibl>
           <bibl>S. Heiniman, « L’Ars minor de Donat traduit en ancien français », dans
             <title>Cahiers Ferdinand de Saussure</title>, t. 23, 1966, p. 46-59</bibl>
@@ -228,7 +229,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#mazarine3794"><!-- type="biblissima" -->
+          <msDesc corresp="#mazarine3794" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. Mazarine</repository>
@@ -246,7 +247,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="mazarine3794" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="mazarine3794" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. Mazarine</repository>
@@ -266,6 +267,7 @@
                 <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>A. Molinier, <title>Catalogue des manuscrits de la bibliothèque Mazarine</title>, Paris, 1890, p. 185</bibl>
                   <bibl>T. Städtler, <title>Zu den Anfängen der französischen Grammatiksprache, Textausgaben und Wortschatzstudien</title>, Tübingen, 1988 (Beihefte zur Zeitschrift für romanische Philologie, 223), p. 98-108</bibl>
@@ -293,7 +295,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#mazarine3794"><!-- type="biblissima" -->
+          <msDesc corresp="#mazarine3794" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. Mazarine</repository>
@@ -311,7 +313,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2"><!-- type="biblissima" -->
+            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2" type="double"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. Mazarine</repository>
@@ -358,7 +360,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#bav_lat1479"><!-- type="biblissima" -->
+          <msDesc corresp="#bav_lat1479" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Vaticano</settlement>
               <repository>Bibl. apostolica Vaticana</repository>
@@ -376,7 +378,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="bav_lat1479" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bav_lat1479" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -399,6 +401,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Salutati, Coluccio">Coluccio Salutati</persName> ? († 1406) (f. 245v) ; <persName type="possesseur" key="Nicolas V">Nicolas V</persName> († 1455) ; Bibliothèque vaticane.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>B. Merrilees et A. Dalzell, « L’<title>Art mineur</title> de Vatican, Bibliotheca Apostolica Vaticana, Vat. lat. MS 1479 », dans
                     <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 45-52</bibl>
@@ -426,7 +429,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#salins_44"><!-- type="biblissima" -->
+          <msDesc corresp="#salins_44" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Salins</settlement>
               <repository>bibl. mun.</repository>
@@ -520,7 +523,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#nafr_1120"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_1120" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -538,7 +541,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="nafr_1120" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_1120" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -562,6 +565,7 @@
                 <provenance>Possesseur : <orgName type="possesseur" key="Thuison-les-Abbeville, chartreuse Saint-Honoré">Chartreuse de Saint-Honoré</orgName> à Thuisson près d’Abbeville (ex libris f. 467a).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, nouvelles acquisitions françaises</title>, t. I, Paris, 1899, p. 149-150</bibl>
                   <bibl>M. Colombo Timelli, « Il rafacimento dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. n.a.f. 1120. Introduzione ed edizione », dans <title>Annali dell’Istituto Universitario Orientale-napoli, Sezione Romanza</title>, t. 32/1, 1990, p. 19-27</bibl>
@@ -589,7 +593,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc n="incipit" corresp="#nafr_4690"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_4690" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -607,7 +611,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="nafr_4690" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_4690" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -627,6 +631,7 @@
                 <provenance>Possesseur : <persName type="possesseur" key="Michel Clareti">Michel Clareti</persName> (XV<hi rend="sup">e</hi> s., cf. 10v).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, <title>Catalogue général des manuscrits français, nouvelles acquisitions françaises</title>, Paris, 1900, t. II, p. 235</bibl>
                   <bibl>M. Colombo, « La traduction-remaniement de l’<title>Ars minor</title> de Donat du ms. Paris B.N. n.a.f. 4690. Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 4, 1990, p. 2-3</bibl>
@@ -655,7 +660,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="timelli_1" n="incipit"><!-- type="biblissima" -->
+          <msDesc xml:id="timelli_1" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>
@@ -672,17 +677,17 @@
         <div type="imprime">
           <head>Imprimé</head>
           <listBibl type="poList">
-              <bibl xml:id="imprime1_ars-minor">[traduction de l’<title>Ars minor</title> de Donat], sans indication de lieu, d’imprimeur ni de date, [Utrecht ?, vers 1460-1470], 4°, 4 f. (f. 1-2, 7-8) : manquent les f. 3-6. Sigle : <hi rend="i">U</hi> Colombo Timelli. <note place="inline">Exemplaire : Utrecht, Bibl. der Rijkuniversiteit, incunable B.qu.66</note>
-                <note place="inline">
-                  <listBibl>
-                    <bibl>M.-F.-A.-G. Campbell, <title>Annales de la typographie néerlandaise au XV<hi rend="sup">e</hi> s.</title>, 3<hi rend="sup">e</hi> supplément, La Haye, 1889, p. 10-11, n° 615a</bibl>
-                    <bibl><title>Incunabula in Dutch Libraries</title>, t. I, 1983, n° 1628, p. 245</bibl>
-                    <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
-                    <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 218-224</bibl>
-                    <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
-                  </listBibl>
-                </note>
-              </bibl>
+            <bibl xml:id="imprime1_ars-minor">[traduction de l’<title>Ars minor</title> de Donat], sans indication de lieu, d’imprimeur ni de date, [Utrecht ?, vers 1460-1470], 4°, 4 f. (f. 1-2, 7-8) : manquent les f. 3-6. Sigle : <hi rend="i">U</hi> Colombo Timelli. <note place="inline">Exemplaire : Utrecht, Bibl. der Rijkuniversiteit, incunable B.qu.66</note>
+              <note place="inline">
+                <listBibl>
+                  <bibl>M.-F.-A.-G. Campbell, <title>Annales de la typographie néerlandaise au XV<hi rend="sup">e</hi> s.</title>, 3<hi rend="sup">e</hi> supplément, La Haye, 1889, p. 10-11, n° 615a</bibl>
+                  <bibl><title>Incunabula in Dutch Libraries</title>, t. I, 1983, n° 1628, p. 245</bibl>
+                  <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 218-224</bibl>
+                  <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                </listBibl>
+              </note>
+            </bibl>
           </listBibl>
         </div>
       </div>
@@ -702,7 +707,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="timelli_2" n="incipit"><!-- type="biblissima" -->
+          <msDesc xml:id="timelli_2" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>
@@ -720,17 +725,17 @@
         <div type="imprime">
           <head>Imprimé</head>
           <listBibl type="msList">
-              <bibl xml:id="imprime2_ars-minor">[<title>Ars minor</title> de Donat et traduction française de l’<title>Ars minor</title> de Donat], Paris, <publisher>Felix Baligault</publisher>, [<date notBefore="1490" notAfter="1500">vers 1495</date>], 4°, 16 f. Traduction de l’<title>Ars minor</title> de Donat f. b5-b8v. Sigle : <hi rend="i">A</hi> Colombo Timelli. <note place="inline">Aix-en-Provence, bibl. mun., incunable 47</note>
-                <note place="inline">
-                  <listBibl>
-                    <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VII, n°8906</bibl>
-                    <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, 1897-1909, n°4420</bibl>
-                    <bibl>M. Colombo Timelli, « Un <title>Ars minor</title> français publié à la fin du XV<hi rend="sup">e</hi> siècle (Paris, Felix Baligault, s.d.). Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 12, 1995, p. 95-111</bibl>
-                    <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 225-230</bibl>
-                    <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
-                  </listBibl>
-                </note>
-              </bibl>
+            <bibl xml:id="imprime2_ars-minor">[<title>Ars minor</title> de Donat et traduction française de l’<title>Ars minor</title> de Donat], Paris, <publisher>Felix Baligault</publisher>, [<date notBefore="1490" notAfter="1500">vers 1495</date>], 4°, 16 f. Traduction de l’<title>Ars minor</title> de Donat f. b5-b8v. Sigle : <hi rend="i">A</hi> Colombo Timelli. <note place="inline">Aix-en-Provence, bibl. mun., incunable 47</note>
+              <note place="inline">
+                <listBibl>
+                  <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VII, n°8906</bibl>
+                  <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, 1897-1909, n°4420</bibl>
+                  <bibl>M. Colombo Timelli, « Un <title>Ars minor</title> français publié à la fin du XV<hi rend="sup">e</hi> siècle (Paris, Felix Baligault, s.d.). Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 12, 1995, p. 95-111</bibl>
+                  <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 225-230</bibl>
+                  <bibl>D. Coq, <title>Catalogue des incunables imprimés en français</title></bibl>
+                </listBibl>
+              </note>
+            </bibl>
           </listBibl>
         </div>
       </div>

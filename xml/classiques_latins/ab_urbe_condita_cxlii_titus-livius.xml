@@ -131,11 +131,11 @@
           <head>Incipit d’après le Paris, BnF, fr. 263</head>
           <!--<bibl type="ms">
             <msIdentifier source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b">
-              <settlement>Paris</settlement>
-              <repository>Bibl. nat. de Fr.</repository>
-              <idno>fr. 263</idno>
+            <settlement>Paris</settlement>
+            <repository>Bibl. nat. de Fr.</repository>
+            <idno>fr. 263</idno>
             </msIdentifier>.
-          </bibl>-->
+            </bibl>-->
           <msDesc type="contents" corresp="#fr_263" source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
@@ -220,7 +220,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="kbr_9049-9050" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="kbr_9049-9050"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -242,6 +242,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Philippe le Bon">Philippe le Bon</persName> (inventaire de 1420, n° 241 et 242 : <quote>« Item, ung autre grant livre nommé le premier livre de la premiere decade de Titus Livius, couvert de drap de soye, a fermouers de cuivre dorez, commençant ou IIe fueillet : <quote>« secret rivages de la mer »</quote>, et ou derrenier : <quote>« furent mors IIm »</quote> ; Item, ung autre livre nommé la seconde decade de Titus Livius, couvert et garni de fermouers comme dessus, commençant ou IIe fueillet : <quote>« et avoient ensemble »</quote>, et ou derrenier : <quote>« maintenant vous certiffie »</quote> »</quote>). On peut hésiter à l’identifier avec le volume offert par Dyne Raponde à <persName type="possesseur" key="Philippe le Hardi">Philippe le Hardi</persName>. A la suite de l’explicit (f. 359c), de la même main : <quote>« Explicit iste liber. Qui scripsit sit crimine liber. Non est silva pejus animal quam mala lingua »</quote> [absent de Bouveret]</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Lyna, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Bruxelles, 1989, t. I, p. 430, n° 179 et t. II, pl. 100</bibl>
                     <bibl><title>La librairie de Philippe le Bon, catalogue de l’exposition organisée à l’occasion du 500e anniversaire de la mort du duc</title>, Bruxelles, 1967, n° 224, p. 144-145</bibl>
@@ -251,7 +252,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="kbr_9051-9053" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="kbr_9051-9053"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -273,13 +274,14 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Charles de Saveuse">Charles de Saveuse</persName>, seigneur de Robeque et de Souverain-Moulin (f. de garde des mss 9052-9053), donna ces manuscrits en 1497 à <persName type="possesseur" key="François de Busleiden">François de Busleiden</persName>, archevêque de Besançon (f. de garde des mss 9052-9053) ; <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (plats intérieurs des reliures)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Lyna, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Bruxelles, 1989, t. III, 1989, n° 248, p. 33-37 et 413-414, pl. 8-10</bibl>
                     <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, n°135-137, p. 227-231</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="chantilly_758" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="chantilly_758"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -301,6 +303,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours [† 1477] (ex libris f. 365d) ; saisi avec les biens de Jacques d’Armagnac en 1476 ; <persName type="possesseur" key="Jean du Mas">Jean du Mas</persName> (signature et ex libris f. 365d ; armes ajoutées f. 1, 137 et 260v)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. Meurgey, <title>Les principaux manuscrits à peintures du musée Condé à Chantilly</title>, Paris, 1930, p. 121-122 et pl. 82</bibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 155-156</bibl>
@@ -310,7 +313,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="chantilly_759-761" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="chantilly_759-761"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -332,6 +335,7 @@
                   <provenance>Possesseurs et commanditaires : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> [mort en 1484] et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et chiffres dans encadrements et peintures 759, f. 1 et <foreign>passim</foreign>)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. Meurgey, <title>Les principaux manuscrits à peintures du Musée Condé à Chantilly</title>, Paris, 1930, p. 118-120 et pl. 79-81</bibl>
                     <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Paris, Bibliothèque de l’Institut, Musée Condé à Chantilly</title>, Paris, 1928, p. 156</bibl>
@@ -437,7 +441,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bl_royal15dVI" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bl_royal15dVI"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -459,6 +463,7 @@
                   <provenance>Possesseur : ce volume est probablement celui qui porte le n° 54 dans l’inventaire des livres des <persName type="possesseur" key="Angleterre, rois d’">rois d’Angleterre</persName> au château de Richmond</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 8</bibl>
                     <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of western manuscripts in the old royal and King’s collection</title>, t. II, 1921, p. 175</bibl>
@@ -467,7 +472,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="ngv_felton3" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="ngv_felton3"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Melbourne</settlement>
                   <repository>National Gallery of Victoria</repository>
@@ -492,6 +497,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (devise et signature, f. 510v)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>K. V. Sinclair, <title>The Melbourne Livy, a study of Bersuire’s Translation based on the ms. in the collection of the national gallery of Victoria</title>, Melbourne, [1961]</bibl>
                     <bibl>F. Lyna, « A propos du Tite-Live de Melbourne », dans <title>Scriptorium</title>, t. 16, 1962, p. 359-361</bibl>
@@ -566,7 +572,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_30" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_30"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -587,6 +593,7 @@
                   <origin notBefore="1415" notAfter="1425">début du XV<hi rend="sup">e</hi> s. (vers 1420) (proche des mss Paris, Bibl. nat. de Fr., fr. 246, f. 74v et 306v [1364], fr. 762, f. 65 [1340], fr. 823, f. 233 [1393], fr. 1565, f. 142 [1352])</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. Porcher, <title>Les manuscrits à peintures en France du XIII<hi rend="sup">e</hi> au XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1955, p. 76, n° 153</bibl>
                     <bibl>notice J. Monfrin</bibl>
@@ -594,7 +601,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_31-32" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_31-32"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -615,13 +622,14 @@
                   <origin notBefore="1370" notAfter="1390">vers 1380 (proche du ms Paris, bibl. de l’Arsenal 2071, f. 105 [1382], <title>Mss datés</title> t. I, pl. 58)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice J. Monfrin</bibl>
                     <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_33" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_33"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -645,13 +653,14 @@
                   <origin notBefore="1455" notAfter="1465">vers 1460 (proche du ms Paris, Bibl. nat. de Fr., lat. 6643, f. 366 [1497], <title>Mss datés</title>, t. II, pl. 172)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice J. Monfrin</bibl>
                     <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_259" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_259"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -672,6 +681,7 @@
                   <origin notBefore="1415" notAfter="1425">vers 1420 (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v [1414], <title>Mss datés</title>, t. II, pl. 83 et Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. Porcher, <title>Les manuscrits à peintures en France du XIII<hi rend="sup">e</hi> au XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1955, p. 97, n° 200, pl. 77</bibl>
                     <bibl>M. Meiss, <title>French painting in the time of Jean de Berry</title>, Londres-New York, 1968, p. 115-116, fig. 431, 432, 434, 435, 441</bibl>
@@ -680,7 +690,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_260-262" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_260-262"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -702,6 +712,7 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Villequier, famille de">famille de Villequier</persName> (armes sur f. de garde en tête de chaque volume)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. M. Manion et V. F. Vines, <title>Medieval and Renaissance illuminated manuscripts in Australian collections</title>, Melbourne, London, New York, 1984, p. 180</bibl>
                     <bibl>notice J. Monfrin</bibl>
@@ -709,7 +720,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_263" source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_263" source="http://archivesetmanuscrits.bnf.fr/ark:/12148/cc78552b"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -731,6 +742,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Jean de Berry">Jean de Berry</persName> (ex libris f. 1v ; ex libris et signature f. 480v). L’inventaire indique que cet exemplaire a été « baillé a <persName type="possesseur" key="Bourdonnais, duchesse de">la duchesse de Bourdonnais</persName> »</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, n° 261, p. 233 et 310</bibl>
                     <bibl>M. Meiss, <title>French painting in the time of Jean de Berry</title>, Londres-New York, 1969, p. 313</bibl>
@@ -739,7 +751,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_269-272" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_269-272"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -761,6 +773,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Jeanne de Navarre">Jeanne de Navarre</persName>, femme d'Henri IV d'Angleterre (« signature <quote>« Jahanne royne »</quote> » ms fr. 272, f. 134b)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. Manion et V. Vines, <title>Medieval and Renaissance Illuminated Manuscripts in Australian Collections</title>, Londres, 1984, p. 178-179, pl. 183-186</bibl>
                     <bibl>M. Camille, <title>Master of Death : the lifeless art of Pierre Remiet, Illuminator</title>, New Haven et Londres, 1996, p. 252, pl. 66</bibl>
@@ -768,7 +781,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_716-719" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_716-719"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -789,6 +802,7 @@
                   <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 3357, f. 339v [1488], <title>Mss datés</title>, t. I, pl. 145)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français</title>, Anciens petits fonds français, t. I, Paris, 1898, p. 61</bibl>
                     <bibl>notice J. Monfrin</bibl>
@@ -796,7 +810,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_20313-20314" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_20313-20314"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -818,6 +832,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Yvon du Fou">Yvon du Fou</persName>, grand veneur de France, sénéchal de Poitou (armes ms fr. 20313, f. 5a, 28a, 85a, 110c, 134c, etc. ; ms fr. 20314, f. 199v et 352a)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Anciens petits fonds français</title>, t. I, Paris, 1898, p. 61</bibl>
                     <bibl>F. Avril et N. Reynaud, <title>Les manuscrits à peintures en France</title>, 1440-1520, Paris, 1995, p. 409</bibl>
@@ -825,7 +840,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_20315" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_20315"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -849,13 +864,14 @@
                   <origin notBefore="1395" notAfter="1420">début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Anciens petits fonds français</title>, t. I, Paris, 1898, p. 61</bibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bsg_777" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bsg_777"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. Sainte-Geneviève</repository>
@@ -881,6 +897,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Charles V">Charles V</persName> (<quote>« Cest livre de Titus Livieus est a nous, Charles, le Ve de notre nom, roy de France, et le fismes escrire et enluminer et parfere »</quote>, f. 433c) ; prêté à <persName type="possesseur" key="Louis de Guyenne">Louis de Guyenne</persName>, fils aîné de Charles VI et rendu par lui en 1410 ; <persName type="possesseur" key="Jean de Lancastre, duc de Bedford">duc de Bedford</persName> (f. 433c) ; Humphrey de Gloucester (note au f. 433c) ; séjourna ensuite dans la bibliothèque des ducs de Bourgogne (cf. 1, 4)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 283-284 et n° 981, p. 161</bibl>
                     <bibl>H. Martin, <title>La miniature française du XIII<hi rend="sup">e</hi> au XV<hi rend="sup">e</hi> siècle</title>, Paris-Bruxelles, 1923, p. 47 et pl. 51-54</bibl>
@@ -893,7 +910,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="troyes_178" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="troyes_178"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Troyes</settlement>
                   <repository>bibl. mun.</repository>
@@ -915,6 +932,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Hangest, famille de">famille de Hangest</persName> (armes ajoutées postérieurement vol. I, f. 11 et vol. II, f. 1 et 203)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, t. V, Paris, 1965, p. 663</bibl>
                     <bibl>notice J. Monfrin</bibl>
@@ -922,7 +940,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bav_reglat_719-721" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bav_reglat_719-721"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -944,6 +962,7 @@
                   <provenance>Possesseurs : dans les peintures, un blason fascé d’argent et d’azur de 10 pièces et, à certains endroits, le même, à bande d’azur brochant ; au début du ms Reg. lat. 721, dans la bordure, blason palé d’argent et d’azur de 10 pièces, à la bande de gueules brochant sur le tout</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans <title>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques</title>, t. 33/2, 1889, p. 30</bibl>
                     <bibl>M. Buonocore (éd.), <title>Vedere i Classici, L’illustrazione libraria dei testi antichi dall’età romana al tardo medioevo</title>, Rome, 1996, p. 516-524 [notice de F. Manzari]</bibl>
@@ -957,7 +976,7 @@
           <div>
             <head>I<hi rend="sup">re</hi> et III<hi rend="sup">e</hi> décades</head>
             <listBibl type="msList">
-              <msDesc type="main" xml:id="harvard_richardson32" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="harvard_richardson32"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Cambridge (Mass.)</settlement>
                   <repository>Harvard University Libr.</repository>
@@ -978,13 +997,14 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., fr. 311, f. 486v [1455])</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. Meiss, <title>French painting in the time of Jean de Berry</title>, Londres-New York, 1968, p. 80-81, fig. 433, 437</bibl>
                     <bibl>M. M. Manion et V. F. Vines, <title>Medieval and Renaissance illuminated manuscripts in Australian collections</title>, Melbourne-Londres-New York, 1984, p. 180</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_273-274" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_273-274"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1006,6 +1026,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Charles III de Bourbon-Vendôme, archevêque de Rouen">cardinal Charles III de Bourbon-Vendôme</persName>, archevêque de Rouen</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Histoire romaine de Tite-Live, traduction française de Pierre Bersuire, reproduction des 63 miniatures des mss français 273-274 de la Bibl. nat.</title>, Paris, 1922</bibl>
                     <bibl>J. Porcher, <title>Les manuscrits à peintures en France du XIII<hi rend="sup">e</hi> au XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1955, p. 127, n° 263</bibl>
@@ -1015,7 +1036,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_277-278" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_277-278"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1036,12 +1057,13 @@
                   <origin notBefore="1401" notAfter="1450">première moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3524, f. 4v [1427], <title>Mss datés</title>, t. I, pl. 90)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>Mandragore <ref target="http://mandragore.bnf.fr">http://mandragore.bnf.fr</ref></bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_20071-20072" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_20071-20072"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1063,6 +1085,7 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Charles IV d’Anjou">Charles IV d'Anjou</persName> († 1472) et sa femme <persName type="possesseur" key="Isabelle de Luxembourg">Isabelle de Luxembourg</persName> (?) ; <persName type="possesseur" key="Guillaume d’Harcourt">Guillaume d’Harcourt</persName>, comte de Tancarville († 1487) ; <persName type="possesseur" key="François de Rochechouart">François de Rochechouart</persName>, conseiller et chambellan de Louis XII, gouverneur de Gênes (armes fr. 20071, f. 5)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>F. Avril et N. Reynaud, <title>Les manuscrits à peintures en France, 1440-1520</title>, Paris, 1995, p. 419</bibl>
                     <bibl>F. Avril (dir.), <title>Jean Fouquet, peintre et enlumineur du XV<hi rend="sup">e</hi> siècle</title>, Paris, 2003, p. 339-344 [reproduction de miniatures]</bibl>
@@ -1075,7 +1098,7 @@
           <div>
             <head>Ire et IVe décades</head>
             <listBibl type="msList">
-              <msDesc type="main" xml:id="kbr_14621-14622" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="kbr_14621-14622"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
@@ -1099,6 +1122,7 @@
                   <origin notBefore="1455" notAfter="1456">1455-1456 (ms 14622, f. 199c ; cf. 2) ; Saint-Georges-d’Espéranche (Isère) (ms 14622, f. 199c)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>A. Bayot, <title>Catalogue des manuscrits français de la Bibliothèque royale de Belgique</title>, Bruxelles, s.d., dactylographié</bibl>
                     <bibl>F. Masai et M. Wittek (éd.), <title>Manuscrits datés conservés en Belgique</title>, Bruxelles, t. III, 1978, p. 76, n° 348, pl. 622-624</bibl>
@@ -1106,7 +1130,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="nafr_27401" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="nafr_27401"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1131,6 +1155,7 @@
                   <provenance>Possesseur : peut-être <persName type="possesseur" key="Jean II le Bon">Jean le Bon</persName>, d’après M.-H. Tesnière</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl><title>Vente... Pierre Bergé et associés</title>, Drouot Richelieu Paris, mardi 7 décembre 2004, n° 60</bibl>
                     <bibl>M.-H. Tesnière, « Une traduction des <title>Décades</title> de Tite-Live pour Jean le Bon  », dans <title>Revue de la Bibliothèque nationale de France</title>, n° 23, 2006, p. 81-85 [contient l’édition du prologue et la reproduction du f. 159]</bibl>
@@ -1143,7 +1168,7 @@
           <div>
             <head>IIIe et IVe décades</head>
             <listBibl type="msList">
-              <msDesc type="main" xml:id="bodleian_canon.misc438" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bodleian_canon.misc438"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Oxford</settlement>
                   <repository>Bodleian Libr.</repository>
@@ -1169,13 +1194,14 @@
                   <origin notBefore="1390" notAfter="1410">ca 1400 (proche du ms Paris, Bibl. nat. de Fr., fr. 5635, f. 65 [1402]) ; France</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>O. Pächt et J. J. G. Alexander, <title>Illuminated manuscripts in the Bodleian Library Oxford</title>, Oxford, 1969, t. I, p. 50, n° 636</bibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="arsenal_3694" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="arsenal_3694"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -1197,13 +1223,14 @@
                   <provenance>Possesseur : au f. 310v : <quote>« Anno Christi 1585 »</quote> suivi d’une note en latin contre les huguenots</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, t. III, 1887, p. 469</bibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_36-37" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_36-37"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1228,12 +1255,13 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours (ex libris effacés : fr. 36, f. 376b ; fr. 37, f. 236b)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>S. A. Blackman, <title>The manuscripts and patronage of Jacques d’Armagnac Duke of Nemours (1433-1477)</title>, PHD University of Pittsburgh, 1993, t. I, p. 327-328 [notice]</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_267" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_267"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1255,13 +1283,14 @@
                   <provenance>Possesseurs : au bas de la 1re miniature, écu de France avec 3 fleurs de lys recouvrant les armes de <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName> ; conservé à la bibliothèque du <orgName type="possesseur" key="Blois, bibliothèque de">château de Blois</orgName> : <quote>« Tite Live second volume contenant la tierce et quarte decade »</quote> (inventaire de 1518)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>P. Arnauldet, « Inventaire de la librairie du château de Blois en 1518 », dans <title>Le bibliographe moderne</title>, t. VIII, 1904, n° 226, p. 131</bibl>
                     <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_268" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_268"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1283,6 +1312,7 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Jacques II de Bourbon, comte de la Marche">Jacques II de Bourbon, comte de la Marche</persName> (ex libris f. de garde début) ; <persName type="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours (ex libris f. de garde début) ; <persName type="possesseur" key="Pierre II de Bourbon">Pierre de Beaujeu</persName>, comte de la Marche, duc de Bourbon à partir de 1488 (ex libris partiellement effacé f. 578d)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>S. A. Blackman, <title>The manuscripts and patronage of Jacques d’Armagnac Duke of Nemours (1433-1477)</title>, PHD University of Pittsburgh, 1993, t. I, p. 263</bibl>
                     <bibl>M. Camille, <title>Master of Death : the lifeless art of Pierre Remiet, Illuminator</title>, New Haven et Londres, 1996, p. 252, pl. 67-131</bibl>
@@ -1295,7 +1325,7 @@
           <div>
             <head>Ire décade</head>
             <listBibl type="msList">
-              <msDesc type="main" xml:id="bl_add16622" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bl_add16622"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -1316,12 +1346,13 @@
                   <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> s. (proche du ms London, British Libr., 18 E V, f. 54v [Flandre, 1473], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II t. II, pl. 772)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bl_harley4427" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bl_harley4427"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -1342,12 +1373,13 @@
                   <origin notBefore="1401" notAfter="1500">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche des mss Paris, Bibl. nat. de Fr., fr. 541, f. 203 [1441] ; fr. 926, f. 16 [1406])</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice IRHT</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bl_lansdowne1178" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bl_lansdowne1178"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -1369,6 +1401,7 @@
                   <provenance>Possesseurs: <persName type="possesseur" key="Béraud de Clermont et de Sancerre">Béraud de Clermont et de Sancerre</persName> ; <persName type="possesseur" key="Charles III de Bourbon, connétable de France">Charles III de Bourbon, connétable de France</persName> (f. 1, 19, 248 blason : écartelé de Dauphiné et de Champagne) ; peut-être s’agit-il du ms décrit dans l’inventaire de la bibliothèque de <persName type="possesseur" key="Gabrielle de la Tour d’Auvergne, comtesse de Montpensier">Gabrielle de la Tour</persName> († 1474), ép. de Louis de Bourbon, et que l’on retrouve dans l’inventaire de la bibliothèque de Charles de Bourbon en 1527 : <title>La premiere decade de Thitus Livius, contenant dix livres, et est couvert de drapt d’or, noir et rouge</title> (1474) [n°130 de l’inventaire de 1527, qui précise : <quote>« sur parchemin »</quote>]. Ces bibliothèques renfermaient également la suite de la traduction : <title>La segonde decade de Thitus Livius, couvert comme dessus</title> (1474) [n°131 de l’inventaire de 1527 : <title>La segonde et tierce partie decade Titulivius, reliure de velours cramoisi et noir</title>]</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>A. de Boislisle, « Inventaire des bijoux, vêtements, manuscrits et objets précieux appartenant à la comtesse de Montpensier (1474) », dans <title>Annuaire-bulletin de la Société de l’histoire de France</title>, t. 17, 1880, p. 298</bibl>
                     <bibl>F. Saxl et H. Meier, <title>Catalogue of astrological and mythological illuminated manuscripts of the Latin Middle Ages</title>, t. III <title>Manuscripts in English Libraries</title>, Londres, 1953, p. 195</bibl>
@@ -1376,7 +1409,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bodleian_rawlinsonc447" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bodleian_rawlinsonc447"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Oxford</settlement>
                   <repository>Bodleian Libr.</repository>
@@ -1398,13 +1431,14 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Charles IV de Bourbon-Vendôme, archevêque de Rouen">Charles IV de Bourbon, duc de Vendôme</persName> (1489-1537) (reliure armoriée disparue aujourd’hui, mais décrite dans le catalogue de Guyon de Sardière, p. xxxi (cf. 1)) ; <persName type="possesseur" key="Marie de Luxembourg">Marie de Luxembourg</persName> (signature f. 211d) ; <persName type="possesseur" key="Le Loup, Laurent">Laurent Le Loup</persName>, sieur de Couleurs, qui le donna à son fils <persName type="possesseur" key="Le Loup, Nicolas">Nicolas Le Loup</persName>, sieur de Couleurs en 1596 (ex libris, f. 212v)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, t. III, 1887, p. 468-469</bibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_34" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_34"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1426,13 +1460,14 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName>, seigneur de la Gruthuyse ; rois de France</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>P. Arnauldet, « Inventaire du château de Blois en 1518  », dans <title>Le bibliographe moderne</title>, t. 8, 1904, p. 131, n° 225</bibl>
                     <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_35" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_35"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1452,8 +1487,11 @@
                 <history>
                   <origin notBefore="1425" notAfter="1475">2<hi rend="sup">e</hi> ou 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche de Paris, bibl. de l’Arsenal 5196, f. 109 [1444-1474], <title>Mss datés</title>, t. I, pl. 99)</origin>
                 </history>
+                <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_276" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_276"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1474,8 +1512,11 @@
                   <origin notBefore="1451" notAfter="1500">seconde moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4930, f. 78v [1476], pl. 155)</origin>
                   <provenance>Possesseur : <quote>« <persName type="possesseur" key="La Fleur, capitaine">cappitaine La Fleur</persName> »</quote> (ex libris daté de 1592, f. de garde)</provenance>
                 </history>
+                <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_6441" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_6441"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1493,12 +1534,13 @@
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 3129, f. 218 [1457], <title>Mss datés</title>, t. II, pl. 118)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Ancien supplément français</title>, Paris, 1893, p. 32</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_15469" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_15469"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1520,12 +1562,13 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Laye">Antoine de Laye</persName> (<quote>« pertinet michi Anthonio de Laye decano Matisconensi »</quote> f. 337), <persName type="possesseur" key="Claude de Laye">Claude de Laye</persName> (<quote>« Ledit doient a donné cest livre a son trespas a Claude de Laye son neveu »</quote> f. 337)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Ancien Saint-Germain français</title>, Paris, 1898, p. 18</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_20312ter" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_20312ter"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1547,12 +1590,13 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Charles V">Charles V</persName> (généralement identifié, sans garantie, avec <quote>« Titus Livius, en un grant volume, couvert de soie, a deux grans fermoers d'argent esmaillés de France »</quote>, (<bibl>L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, n° 981, p. 161*</bibl>).</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Anciens petits fonds français</title>, t. I, Paris, 1898, p. 61</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bav_reglat_722" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bav_reglat_722"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -1572,6 +1616,7 @@
                   <provenance>Possesseur : a appartenu à <persName type="possesseur" key="Jean Le Bègue">Jean Le Bègue</persName> d'après G. Ouy</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> siècle », dans <title>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques</title>, t. 33/2, 1889, p. 31</bibl>
                     <bibl>G. Ouy, « Jean Lebègue (1368-1457), auteur, copiste et bibliophile », dans G. Croenen et P. Ainsworth (éd.),
@@ -1613,7 +1658,7 @@
           <div>
             <head>IIIe décade</head>
             <listBibl type="msList">
-              <msDesc type="main" xml:id="chantilly_757" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="chantilly_757"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Chantilly</settlement>
                   <repository>Musée Condé</repository>
@@ -1635,6 +1680,7 @@
                   <provenance>Possesseur : acheté à Baude de Guy en 1405 par <persName type="possesseur" key="Jean de Berry">Jean de Berry</persName> (ex libris de Jean de Berry : <quote>« Ce livre est du duc de Berry »</quote> f. 316c ; <quote>« Ce livre de la seconde decade de Titus Livius est a Jehan filz de roy de France, duc de Berry et d’Auvergne, conte de Poitou, d’Estampes, de Bouloingne et d’Auvergne <foreign>[signé]</foreign> Flamel »</quote>, f. de garde fin). C’est le second volume de l’exemplaire décrit dans l’inventaire de Jean de Berry : <quote>« Un livre de Titus Livius en trois volumes, en françois, de lettre courant, lequel monseigneur retint pour lui de la grant quantité de livres achetee par Baude de Guy, le 16 dec. 1405 »</quote></provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>J. Guiffrey, <title>Les inventaires de Jean duc de Berry (1401-1416)</title>, Paris, 1896, t. II</bibl>
                     <bibl>L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. *261, n° 234, et p. *311</bibl>
@@ -1645,7 +1691,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="mazarine_1590" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="mazarine_1590"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. Mazarine</repository>
@@ -1667,6 +1713,7 @@
                   <provenance>Possesseurs : <orgName type="possesseur" key="Chaillot, Minimes">Minimes de Chaillot </orgName></provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>A. Molinier, <title>Catalogue des manuscrits de la bibliothèque Mazarine</title>, Paris, 1886, t. II, p. 125-126</bibl>
                     <bibl>notice J. Monfrin</bibl>
@@ -1674,7 +1721,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="kb_va21" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="kb_va21"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Stockholm</settlement>
                   <repository>Kungliga Biblioteket</repository>
@@ -1695,12 +1742,13 @@
                   <origin notBefore="1380" notAfter="1420">fin du XIV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, f. 199 [vers 1396-1405], <title>Mss datés</title>, t. I, pl. 68)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="troyes_179" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="troyes_179"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Troyes</settlement>
                   <repository>bibl. mun.</repository>
@@ -1722,6 +1770,7 @@
                   <provenance>Possesseur : <persName type="possesseur" key="Damas, Georges">Georges Damas</persName>, seigneur de Marcilly et de Thianges (ex libris daté de 1512, f. 306)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice J. Monfrin</bibl>
                     <bibl>notice IRHT (1953)</bibl>
@@ -1791,7 +1840,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="arsenal_5085" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="arsenal_5085"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -1812,13 +1861,14 @@
                   <origin notBefore="1425" notAfter="1475">2<hi rend="sup">e</hi> ou 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1889, t. V, p. 46-47</bibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="mazarine_1589" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="mazarine_1589"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. Mazarine</repository>
@@ -1837,6 +1887,7 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Guillaume de Sévigné">Guillaume de Sévigné</persName> et <persName type="possesseur" key="Jacqueline de Montmorency">Jacqueline de Montmorency</persName> (milieu du XV<hi rend="sup">e</hi> s. ; armes nettement postérieures au ms, f. 1)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>A. Molinier, <title>Catalogue des manuscrits de la bibliothèque Mazarine</title>, Paris, 1886, t. II, p. 125</bibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1959, t. I, p. 442</bibl>
@@ -1845,7 +1896,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_275" n="vu mf"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_275"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1865,8 +1916,9 @@
                 <history>
                   <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5859, f. 116v [1406], <title>Mss datés</title>, t. II, pl. 78)</origin>
                 </history>
+                <additional><adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo></additional>
               </msDesc>
-              <msDesc type="main" xml:id="fr_15470" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="fr_15470"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1889,12 +1941,13 @@
                   <origin notBefore="1445" notAfter="1500">XV<hi rend="sup">e</hi> s., après 1445 (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title> t. II, pl. 157)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Ancien Saint-Germain français</title>, Paris, 1898, p. 19</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="nafr_15987" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="nafr_15987"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1919,6 +1972,7 @@
                   <provenance>Possesseur : copié pour <persName type="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> († 1414) ou pour son fils naturel légitimé <persName type="possesseur" key="Philippe, fils d’Arnaud de Corbie">Philippe</persName></provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>M. Meiss, <title>French Painting in the Time of Jean de Berry, III : The Boucicaut Master</title>, New York, 1968, p. 56-58, 75 ; fig. 43, 439, 442-446 [sous la cote Aachen, collection Peter Ludwig]</bibl>
                     <bibl>Bibliothèque nationale, département des manuscrits,
@@ -1929,7 +1983,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="nafr_21471" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="nafr_21471"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1951,12 +2005,13 @@
                   <provenance>Possesseurs : <persName type="possesseur" key="Jean de Procsy">Jean de Procsy</persName> (ex libris f. 234b) ; le comte de Nassau et de Vianne, seigneur de Bréda (ex libris f. 234b)</provenance>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Nouvelles acquisitions françaises</title>, Paris, 1918, t. IV, p. 290</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="bav_reglat723" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="bav_reglat723"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
@@ -1974,6 +2029,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3524, f. 4v [1427], <title>Mss datés</title>, t. I, pl. 90)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans
                       <title>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques</title>, t. 33/2, 1889, p. 33</bibl>
@@ -2025,7 +2081,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc type="main" xml:id="nafr_11198" n="vu ms"><!-- type="biblissima" -->
+              <msDesc type="main" xml:id="nafr_11198"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2043,6 +2099,7 @@
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms bibl. de l’Arsenal 5196, f. 109 [1444-1474], <title>Mss datés</title> t. I, pl. 99)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>H. Omont, <title>Catalogue général des manuscrits français, Nouvelles acquisitions françaises</title>, Paris, 1918, t. IV, p. 149</bibl>
                   </listBibl>
@@ -2317,7 +2374,7 @@
             <div type="manuscrit">
               <head>Manuscrit</head>
               <listBibl type="msList">
-                <msDesc type="main" xml:id="fr_264-266" n="vu mf"><!-- type="biblissima" -->
+                <msDesc type="main" xml:id="fr_264-266"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -2341,6 +2398,7 @@
                     <origin notBefore="1390" notAfter="1410">XIV-XV<hi rend="sup">e</hi> s. (vers 1400)</origin>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl>M.-H. Tesnière, « Un remaniement du <title>Tite-Live</title> de Pierre Bersuire par Laurent de Premierfait », dans
                         <title>Romania</title>, t. 107, 1986, p. 231-281</bibl>
@@ -2408,7 +2466,7 @@
             <div type="manuscrit">
               <head>Manuscrit</head>
               <listBibl type="msList">
-                <msDesc type="main" xml:id="arsenal_5087-5088" n="vu mf"><!-- type="biblissima" -->
+                <msDesc type="main" xml:id="arsenal_5087-5088"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>bibl. de l’Arsenal</repository>
@@ -2430,6 +2488,7 @@
                     <provenance>Possesseur : <persName type="possesseur" key="Philippe le Bon">Philippe le Bon</persName>, duc de Bourgogne de 1419 à 1467 (armes dans encadrements : ms 5087, f. 144v, 268v, 370 ; ms 5088, f. 22 et 175v)</provenance>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1889, t. V, p. 47-49</bibl>
                       <bibl>H. Martin, <title>Les joyaux de l’Arsenal III. Les histoires romaines de Jean Mansel illustrées par Loyset Lyedet</title>, Paris, s.d. [1914]</bibl>
@@ -2486,7 +2545,7 @@
                 <div type="manuscrit">
                   <head>Manuscrits</head>
                   <listBibl type="msList">
-                    <msDesc type="main" xml:id="brugge_397" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="brugge_397"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Brugge</settlement>
                         <repository>Stadsbibl.</repository>
@@ -2508,13 +2567,14 @@
                         <provenance>Possesseurs : <persName type="possesseur" key="Jean Vasseur">Jean Vasseur</persName> (f. 301v) ; <orgName type="possesseur" key="Coxyde, abbaye Notre-Dame des Dunes">abbaye Notre-Dame des Dunes</orgName> (estampille f. 1 et 301).</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>A. De Poorter, <title>Catalogue des manuscrits de la bibliothèque de la ville de Bruges</title>, Gembloux-Paris, 1934, p. 445</bibl>
                           <bibl>N. Borel, <title>La version en trois livres de la <title>Fleur des histoires</title> (Etude de la tradition manuscrite et édition partielle du livre III)</title>, thèse pour l'obtention du diplôme d'archiviste paléographe, 1991, t. I, p. 16-19</bibl>
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="kbr_9231-9232" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="kbr_9231-9232"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
@@ -2541,6 +2601,7 @@
                         <provenance>Possesseur : acquis par <persName type="possesseur" key="Philippe le Bon">Philippe le Bon</persName> avant 1462 (le ms 9231 serait le n° 715 de l’inventaire de 1467 et le ms 9232 le n° 714).</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>L. M. J. Delaissé, <title>Miniatures médiévales : de la librairie de Bourgogne au Cabinet des manuscrits de la Bibliothèque royale de Belgique</title>, Bruxelles, 1958, p. 144-151, à la p. 147</bibl>
                           <bibl>F. Lyna, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Bruxelles, 1989, t. III, p. 215-225, 447-448, pl. 67</bibl>
@@ -2552,7 +2613,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="kbr_10515" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="kbr_10515"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
@@ -2579,6 +2640,7 @@
                         <provenance>Possesseurs : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ</persName> († 1482) (f. 6) ; <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (f. 220v) ; <persName type="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquisition en 1511) ; <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (1530).</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>F. Lyna, <title>Les principaux manuscrits à peintures de la bibliothèque royale de Belgique</title>, t. III (1re partie), Bruxelles, 1989, p. 238-240, 452, pl. 71 (n° 305)</bibl>
                           <bibl>N. Borel, <title>La version en trois livres de la
@@ -2590,7 +2652,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="geneve_fr64" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="geneve_fr64"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Genève</settlement>
                         <repository>Bibl. publique et universitaire</repository>
@@ -2614,6 +2676,7 @@
                         <origin notBefore="1470" notAfter="1490">vers 1480 (proche du ms Chantilly, Musée Condé, 724, f. 58 [1444-1471], <title>Mss datés</title>, t. I, pl. 100)</origin>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>B. Gagnebin, « L’enluminure de Charlemagne à François Ier, manuscrits de la Bibliothèque publique et universitaire de Genève », dans <title>Genava</title>, nouv. sér., t. 24, 1976, p. 163-164</bibl>
                           <bibl>N. Borel, <title>La version en trois livres de la
@@ -2623,7 +2686,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="kortrijk_cod3" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="kortrijk_cod3"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Kortrijk</settlement>
                         <repository>Stadsbibl.</repository>
@@ -2644,6 +2707,7 @@
                         <provenance>Possesseur : <persName type="possesseur" key="Jacques de Luxembourg">Jacques de Luxembourg</persName>, bâtard de Saint-Pol, fils de Louis de Luxembourg, comte de Saint-Pol et connétable de France (ex libris f. 5v).</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>P. Faider, <title>Catalogue des manuscrits de la bibliothèque publique de la ville de Courtrai</title>, Gambloux-Paris, 1936, p. 15</bibl>
                           <bibl>N. Borel, <title>La version en trois livres de la
@@ -2651,7 +2715,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="mazarine_1559-1560" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="mazarine_1559-1560"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>bibl. Mazarine</repository>
@@ -2674,6 +2738,7 @@
                         <origin notBefore="1450" notAfter="1500">2e moitié du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>A. Molinier, <title>Catalogue des manuscrits de la bibliothèque Mazarine</title>, t. II, Paris, 1886, p. 119</bibl>
                           <bibl>E. Golenistcheff-Koutouzoff, <title>L’histoire de Griseldis en France au XIV<hi rend="sup">e</hi> et au XV<hi rend="sup">e</hi> siècle</title>, Paris, 1933, p. 94, 87-102</bibl>
@@ -2683,7 +2748,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_55-57" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_55-57"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -2711,6 +2776,7 @@
                         <provenance>Possesseurs : ces trois manuscrits furent peut-être réalisés pour <persName type="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours († 1477) (devise fr. 55, f. 6 ; fr. 56, f. 6 ; fr. 57, f. 9 ; armes fr. 56, f. 90v) ; <persName type="possesseur" key="Pierre II de Bourbon">Pierre II de Bourbon</persName>, duc de Bourbon de 1488 à 1503 (ex libris fr. 55 f. de garde fin ; armes de Bourbon fr. 55, f. 6 et f. 122v ; fr. 56, f. 6-74v ; fr. 57, f. 9).</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>N. Borel, <title>La version en trois livres de la
                             <title>Fleur des histoires</title> (Etude de la tradition manuscrite et édition partielle du livre III)</title>, thèse pour l'obtention du diplôme d'archiviste paléographe, 1991, t. I, p. 86-98</bibl>
@@ -2751,7 +2817,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc xml:id="schotten_139-140" type="main" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc xml:id="schotten_139-140" type="main"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Wien</settlement>
                         <repository>Schottenstift</repository>
@@ -2775,6 +2841,7 @@
                         <provenance>Possesseurs : armes d’or à trois chevrons de gueules (ms 139, f. 14 et 99v ; ms 140, f. 1) qui ne correspondent pas à celles de la <persName type="possesseur" key="Crèvecoeur, famille de">famille de Crèvecoeur</persName>, souvent présentée comme destinataire de ce manuscrit ; <persName type="possesseur" key="Pierre Le Roy">Pierre Le Roy</persName>, bibliophile du XVI<hi rend="sup">e</hi> s. (ms 140, f. 133) cf. R. Bossuat, « Jean Miélot traducteur de Cicéron », dans <title>Bibliothèque de l’Ecole des chartes</title>, t. 99, 1938, p. 85, n. 3.</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>L. M. J. Delaissé, <title>Le siècle d’or de la miniature flamande : le mécénat de Philippe le Bon</title>, Bruxelles, 1959, p. 63 (n° 55 et 56)</bibl>
                           <bibl>E. Warren Hoffman, « Simon Marmion or « the Master of the altarpiece of Saint-Bertin » : a problem in attribution », dans <title>Scriptorium</title>, t. 27, 1973, p. 273, 278</bibl>
@@ -2899,7 +2966,7 @@
                 <div type="manuscrit">
                   <head>Manuscrits</head>
                   <listBibl type="msList">
-                    <msDesc type="main" xml:id="kbr_9268-9269" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="kbr_9268-9269"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
@@ -2924,13 +2991,14 @@
                         <provenance>Possesseurs : <persName type="possesseur" key="Philippe II de Savoie, dit Sans Terre">Philippe II de Savoie</persName> dit Sans Terre (1438-1497 ; armes ms 9268) ; <persName type="possesseur" key="Philibert le Beau">Philibert le Beau</persName> (fils du précédent) ; <persName type="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (inventaire de 1523), <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (1530). Les mss Bruxelles, Bibl. royale 9268-69, 9255-7, 9260 faisaient jadis partie d’un même exemplaire</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>F. Lyna, <title>Les principaux manuscrits à peintures</title>, t. III, 1989, n° 248, p. 386-390, 475, pl. 115</bibl>
                           <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, p. 241-244, n° 141, p. 292 et 293, n° 171 et n° 173</bibl>
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="besancon_851-852" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="besancon_851-852"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Besançon</settlement>
                         <repository>bibl. mun.</repository>
@@ -2957,6 +3025,7 @@
                         <provenance>Possesseurs : <persName type="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> (armes et ancres ajoutés ms 851, f. 1 ; ms 852, f. 2) ; <persName type="possesseur" key="Granvelle, Antoine Perrenot de">Antoine Perrenot de Granvelle</persName></provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 32 (1897), p. 536-540</bibl>
                           <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, t. V, Paris, 1965, p. 641</bibl>
@@ -2964,7 +3033,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="bl_royal16fVI-VII" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="bl_royal16fVI-VII"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>London</settlement>
                         <repository>British Libr.</repository>
@@ -2991,6 +3060,7 @@
                         <provenance>Possesseur : <persName type="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> (signature ms 16 F VII, f. 314)</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, Oxford, 1921, t. II, p. 205</bibl>
                         </listBibl>
@@ -3089,7 +3159,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_53" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_53"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3115,13 +3185,14 @@
                         <provenance>Possesseurs : réalisé pour <persName type="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> (armes de Graville, f. 47) ; armes de France ajoutées au XVI<hi rend="sup">e</hi> s. (f. 9)</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>F. Avril et N. Reynaud, <title>Les manuscrits à peintures en France, 1440-1520</title>, Paris, 1995, p. 327</bibl>
                           <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_54" n="vu mf"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_54"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3149,6 +3220,7 @@
                         <provenance>Possesseur : <persName type="possesseur" key="Georges d’Amboise">Georges d’Amboise</persName> (armes, f. 1)</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>F. Avril et N. Reynaud, <title>Les manuscrits à peintures en France, 1440-1520</title>, Paris, 1995, p. 278, 282</bibl>
                           <bibl>C. Zöhl, <title>Jean Pichore, Buchmaler, Graphiker und Verleger in Paris um 1500</title>, Turnhout, 2004 (Ars nova, 8), p. 189</bibl>
@@ -3156,7 +3228,7 @@
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_302" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_302"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3178,12 +3250,13 @@
                         <provenance>Possesseur : armoiries non identifiées (f. 1)</provenance>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_681-683" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_681-683"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3203,8 +3276,11 @@
                       <history>
                         <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 1347, f. 260 [1475], <title>Mss datés</title>, t. II, pl. 165)</origin>
                       </history>
+                      <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                      </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_720-721" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_720-721"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3226,12 +3302,13 @@
                           <lb/>(proche du ms Paris, Bibl. nat. de Fr., lat. 1347, f. 366 [1497], <title>Mss datés</title>, t. II, pl. 172)</origin>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>Mandragore <ref target="http://mandragore.bnf.fr">mandragore.bnf.fr</ref></bibl>
                         </listBibl>
                       </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_727" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_727"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3256,8 +3333,11 @@
                         <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
                         <provenance>Possesseur : armes f. 1 (chevron d’or accompagné de 3 coquilles sur fond de gueule)</provenance>
                       </history>
+                      <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                      </additional>
                     </msDesc>
-                    <msDesc type="main" xml:id="fr_20316" n="vu ms"><!-- type="biblissima" -->
+                    <msDesc type="main" xml:id="fr_20316"><!-- type="biblissima" -->
                       <msIdentifier>
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
@@ -3285,6 +3365,7 @@
                         <origin notBefore="1451" notAfter="1500">2e moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6966, f. 171v [1461], <title>Mss datés</title>, t. II, pl. 130]</origin>
                       </history>
                       <additional>
+                        <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                         <listBibl>
                           <bibl>H. Omont, <title>Catalogue général des manuscrits français, Anciens petits fonds français</title>, t. I, Paris, 1898, p. 61-62</bibl>
                           <bibl>notice IRHT</bibl>
@@ -3419,7 +3500,7 @@
                     </listBibl>
                   </additional>
                 </msDesc>
-                <msDesc type="main" xml:id="arsenal_3695" n="vu ms"><!-- type="biblissima" -->
+                <msDesc type="main" xml:id="arsenal_3695"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>bibl. de l’Arsenal</repository>
@@ -3441,12 +3522,13 @@
                     <provenance>Possesseurs : <orgName type="possesseur" key="Paris, Célestins de Notre-Dame de Paris">Célestins de Notre-Dame de Paris</orgName> ; <persName type="possesseur" key="Romain, Guillaume">Guillaume Romain</persName>, frère d’Henri Romain (<quote>« Des Celestins de Nostre Dame de Paris, signé par 166. Acquis audit monastere par reverent pere frere Guillaume Roumain, prieur dudit lieu, des biens de maistre Henri Roumain, son frere germain »</quote> f. 173 (note semblable en latin f. 189v)  ; <persName type="possesseur" key="Fauvelet, Bernard">Bernard Fauvelet</persName> ? (d’après le catalogue des mss de l’Arsenal, nom inscrit à l’intérieur du dernier plat ; disparu lors de la restauration de la reliure en 1949). Nombreux ajouts et compléments en marge f. 1v-2</provenance>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl>H. Martin, <title>Catalogue des manuscrits des bibliothèques publiques de France, Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1887, t. III, p. 470</bibl>
                     </listBibl>
                   </additional>
                 </msDesc>
-                <msDesc type="main" xml:id="fr_9186" n="vu mf"><!-- type="biblissima" -->
+                <msDesc type="main" xml:id="fr_9186"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -3468,6 +3550,7 @@
                     <provenance>Possesseur : ms exécuté pour <persName type="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d’Armagnac</persName> (armes, f. 298v, 301, 304) ; en 1476, passe à <persName type="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> († 1477) et à sa femme <persName type="possesseur" key="Jeanne Raguenel de Malestroit">Jeanne Raguenel</persName> de Malestroit (armes, f. 252)</provenance>
                   </history>
                   <additional>
+                    <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                     <listBibl>
                       <bibl>P. M. Gathercole, « Illuminations on French manuscripts of Cicero, Seneca and Aristotle », dans <title>Romance notes</title>, t. 7, 1965-1966, p. 187</bibl>
                       <bibl>L. Dupré La Tour, « La tradition manuscrite du « Compendium historial » d’Henri Romain », dans <title>Revue d’histoire des textes</title>, t. 5, 1975, notice p. 144-146</bibl>
@@ -3517,7 +3600,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <bibl><title type="ancien">Les gestes romaines, nouvellement imprimez</title>, Paris, <publisher>Antoine Vérard</publisher>, <date notBefore="1500" notAfter="1515">ca 1508</date></bibl>
-              <msDesc xml:id="impr_titeLive_verard" type="imprime"><!-- type="biblissima" -->
+              <msDesc xml:id="impr_titeLive_verard" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement/>
                   <repository/>

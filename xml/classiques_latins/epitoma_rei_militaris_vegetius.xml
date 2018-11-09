@@ -132,7 +132,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#cambridge_ms1_marlay" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#cambridge_ms1_marlay" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Cambridge</settlement>
               <repository>Fitzwilliam Museum</repository>
@@ -189,7 +189,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="cambridge_ms1_marlay" n="vu mf" type="main">
+            <msDesc xml:id="cambridge_ms1_marlay" type="main">
               <msIdentifier>
                 <settlement>Cambridge</settlement>
                 <repository>Fitzwilliam Museum</repository>
@@ -213,6 +213,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Edouard Ier d’Angleterre">Edouard Ier</persName> ou <persName type="possesseur" key="Edouard II d’Angleterre">Edouard II</persName></provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>L. Thorpe, « Master Richard, a thirteenth century translator of the “De re militari” of Vegetius », dans
                     <title>Scriptorium</title>, t. 6, 1952, p. 39-50 [présentation du ms, édition d’extraits] et t. 7, 1953, p. 120-121 [revient sur un ajout du traducteur]</bibl>
@@ -258,7 +259,7 @@
         <div type="edition">
           <head>Prologue de Végèce très remanié</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#arsenal_2916"><!-- type="biblissima" -->
+          <msDesc corresp="#arsenal_2916" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. de l’Arsenal</repository>
@@ -271,7 +272,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc corresp="#carpentras_332" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#carpentras_332" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Carpentras</settlement>
               <repository>bibl. mun.</repository>
@@ -346,7 +347,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="bern_a280" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bern_a280" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bern</settlement>
                 <repository>Burgerbibl.</repository>
@@ -357,6 +358,7 @@
                 <p>vol. formé de deux mss juxtaposés</p>
               </msContents>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Hagen, <title>Catalogus codicum Bernensium (Bibliotheca Bongarsiana), pars prior</title>, Berne, 1874, p. 305-307</bibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
@@ -400,7 +402,7 @@
                 </history>
               </msPart>
             </msDesc>
-            <msDesc xml:id="bern_a607" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bern_a607" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bern</settlement>
                 <repository>Burgerbibl.</repository>
@@ -450,8 +452,11 @@
                   <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 5059, f. 2v [1317], <title>Mss datés</title>, t. I, pl. 32)</origin>
                 </history>
               </msPart>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+              </additional>
             </msDesc>
-            <msDesc xml:id="kbr_ii4847" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_ii4847" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -473,12 +478,13 @@
                 <origin notBefore="1280" notAfter="1320">fin du XIII<hi rend="sup">e</hi> ou début du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>notice IRHT (1953)</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="carpentras_332" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="carpentras_332" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Carpentras</settlement>
                 <repository>bibl. mun.</repository>
@@ -500,6 +506,7 @@
                 <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche des mss Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés </title>, t. I, pl. 35 et Paris, bibl. Mazarine, 398, f. 1 [1342], <title>Mss datés</title>, t. I, pl. 45)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, <title>Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai</title>, Romania, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 34 (1901), p. 163</bibl>
@@ -507,7 +514,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="chantilly_344" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="chantilly_344" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Chantilly</settlement>
                 <repository>Musée Condé</repository>
@@ -527,6 +534,7 @@
                 <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes ajoutés f. 1a), probablement acheté avant 1494 par Catherine pour l’éducation de son fils Antoine mort en 1494 (2).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France, Bibliothèques de l’Institut</title> (1928), p. 77</bibl>
                   <bibl>R. Harrouët, <title>Une famille de bibliophiles au XV<hi rend="sup">e</hi> siècle : les Coëtivy</title>, thèse pour l'obtention du diplôme d'archiviste paléographe, 1999, t. II/1, p. 334-336</bibl>
@@ -631,7 +639,7 @@
                 </history>
               </msPart>
             </msDesc>
-            <msDesc xml:id="bl_royal20bxi" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal20bxi" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -653,13 +661,14 @@
                 <origin notBefore="1301" notAfter="1350">première moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 51, f. 155v [après 1325], <title>Mss datés</title>, t. I, pl. 35)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 364</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal20bxv" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal20bxv" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -682,6 +691,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="John Shirley">John Shirley</persName> († 1456), copiste de textes anglais [Bouveret 11445-11446], a inscrit son ex-libris sur le f. de garde ainsi que 8 vers moraux en anglais (f. 1v) ; on trouve de la main de Shirley une pièce de parchemin collée sur le f. de garde (f. 1) portant le titre « <title>Vegece of Chyvalrye in frenche</title>  » ; au verso du f. de garde de fin, devise « <quote>« Puis qu’il vous plaist »</quote> » d’une main du XV<hi rend="sup">e</hi> siècle.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 367</bibl>
@@ -689,7 +699,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_sloane2430" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_sloane2430" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -711,6 +721,7 @@
                 <origin notBefore="1301" notAfter="1400">XIVe s. (proche du ms Paris, bibl. de l’Arsenal 5059, f. 2v [1317], <title>Mss datés</title>, t. I, pl. 32)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>notice J. Monfrin</bibl>
@@ -744,7 +755,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2551" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2551" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -767,6 +778,7 @@
                 <provenance>possesseur : <quote>« A <persName type="possesseur" key="Montagu, de">monseigneur de Montagu</persName> »</quote> f. 2.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1886, t. III, p. 38</bibl>
@@ -774,7 +786,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2915" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2915" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -797,6 +809,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName> (armes ajoutées f. 1, 35).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title>, Paris, 1885, t. III, p. 160-161</bibl>
@@ -805,7 +818,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2916" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2916" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -828,6 +841,7 @@
                 <provenance>possesseur : trois écus ajoutés au bas du f. 1 : au milieu, d’azur, à la bande d’or, accompagnée de six besants du même, trois en chef et trois en pointe posés en orle (<persName type="possesseur" key="Chandée, famille de">famille de Chandée</persName>, Bresse et Bugey) ; de chaque côté : écu parti de Chandée et écartelé d’or et de gueules (<persName type="possesseur" key="Saix, famille de">famille Du Saix, Bresse</persName>) ; la réunion de ces armes sur ce même volume s’explique par le mariage en 1451 de <persName type="possesseur" key="Hugonin de Chandée">Hugonin de Chandée</persName> et de <persName type="possesseur" key="Jeanne de Saix">Jeanne de Saix</persName> (cf. S. Guichenon, <title>Histoire de Bresse et de Bugey</title>, Lyon, 1650, 3e partie, p. 108). Le ms a donc appartenu soit à Hugonin lui-même, soit à l’un de ses deux fils, <persName type="possesseur" key="Jean de Chandée">Jean</persName> († 1509) ou <persName type="possesseur" key="Philibert de Chandée, gouverneur de Mâcon">Philibert</persName>, gouverneur de Mâcon, puis de Parme, mort avant son frère.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>H. Martin, <title>Catalogue des manuscrits de la bibliothèque de l’Arsenal</title> Paris, 1885, t. III, p. 161</bibl>
@@ -836,7 +850,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1230" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1230" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -859,13 +873,14 @@
                 <origin notBefore="1301" notAfter="1400">milieu du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5434, f. 13 [1358], <title>Mss datés</title>, t. II, pl. 54)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1231" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1231" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -887,13 +902,14 @@
                 <origin notBefore="1425" notAfter="1475">2<hi rend="sup">e</hi> ou 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche des mss Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93 et Paris, bibl. Sainte-Geneviève 544, f. 1 [1454], <title>Mss datés</title>, t. I, pl. 108), en tout cas postérieur à 1425, car un document daté de 1426 sert de f. de garde de début</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1232" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1232" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -913,6 +929,7 @@
                 <origin notBefore="1330" notAfter="1370">milieu du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2247, f. 87v [1368], <title>Mss datés</title>, t. I, pl. 52)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>notice J. Monfrin</bibl>
@@ -983,7 +1000,7 @@
                 </history>
               </msPart>
             </msDesc>
-            <msDesc xml:id="fr_12360" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_12360" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1002,12 +1019,13 @@
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève, 545, f. 303 [1454], <title>Mss datés</title>, t. I, pl. 110)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401-402</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_19104" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_19104" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1029,13 +1047,14 @@
                 <origin notBefore="1401" notAfter="1425">1<hi rend="sup">er</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="torino_arch_jbvi11" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="torino_arch_jbvi11" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Torino</settlement>
                 <repository>Archivio di Stato</repository>
@@ -1059,6 +1078,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Pingon, famille">famille Pingon, barons de Cousey en Savoie</persName> (armes f. 1) ; monogramme B Y (f. 1) ; colophon <quote>« un pot d’or »</quote> (f. 85c).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Richardot, <title>Végèce et la culture militaire au Moyen Age, V<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles</title>, Paris, 1998, p. 62-63 [présente ce ms comme un remaniement de la traduction de Jean de Meun]</bibl>
                   <bibl>notice J. Monfrin</bibl>
@@ -1093,7 +1113,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bav_reglat_1628" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bav_reglat_1628" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -1118,6 +1138,7 @@
                 <provenance>possesseur : <persName type="possesseur" key="Nicolas Jorne">Nicolas Jorne</persName> (<quote>« Ci fenist li livres Vegece del art de chevalerie apartenant a sire Nicolas Jorne lequel fut translaté de latin en françois par mestre Jehan de Meun. Qui le trouvera luy raporte bon vin ara »</quote> f. 99a, main du début du XIV<hi rend="sup">e</hi> siècle).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 401, n. 1</bibl>
                   <bibl>notice brève IRHT (1947)</bibl>
@@ -1159,7 +1180,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition U. Robert</bibl>
-            <msDesc corresp="#fr_1604"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_1604" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1192,7 +1213,7 @@
           <div type="manuscrit">
             <head>Manuscrit</head>
             <listBibl type="msList">
-              <msDesc xml:id="fr_1604" n="vu mf" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1604" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1215,6 +1236,7 @@
                   <origin notBefore="1290" notAfter="1310">vers 1300 (proche du ms Paris, bibl. de l’Arsenal, 534, f. 97 [1296], <title>Mss datés</title>, t. I, pl. 25)</origin>
                 </history>
                 <additional>
+                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                   <listBibl>
                     <bibl>notice J. Monfrin</bibl>
                   </listBibl>
@@ -1236,7 +1258,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#hab_blankenburg111" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#hab_blankenburg111" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Wolfenbüttel</settlement>
               <repository>Herzog August Bibl.</repository>
@@ -1315,7 +1337,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="nlr_frfvix1" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nlr_frfvix1" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Sankt-Peterburg</settlement>
                 <repository>Bibl. nat. de Russie</repository>
@@ -1336,12 +1358,13 @@
                 <origin notBefore="1275" notAfter="1285">vers 1280 (proche du ms Chantilly, Musée Condé, 476, f. 2 [1270], <title>Mss datés</title>, t. I, pl. 15) ; Saint-Jean-d’Acre (?)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Les manuscrits enluminés français du XIII<hi rend="sup">e</hi> siècle dans les collections soviétiques</title>, t. II <title>1270-1300</title>, Moscou, 1984, p. 94-97 [notice en russe p. 94 et reproductions, p. 95-97]</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="hab_blankenburg111" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="hab_blankenburg111" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Wolfenbüttel</settlement>
                 <repository>Herzog August Bibl.</repository>
@@ -1362,6 +1385,7 @@
                 <origin notBefore="1280" notAfter="1320">fin du XIII<hi rend="sup">e</hi> s. ou début XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 870, f. 98v et 191 [1295], <title>Mss datés</title>, t. I, pl. 24)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Butzmann, <title>Die Blankenburger Handschriften</title>, Frankfurt am Main, 1966 (Kataloge der Herzog-August-Bibliothek Wolfenbüttel), p. 118</bibl>
                 </listBibl>
@@ -1386,7 +1410,7 @@
           <div type="prologue">
             <head>Prologue du traducteur</head>
             <p>d’après le ms</p>
-            <msDesc corresp="#bl_royal20bi"><!-- type="biblissima" -->
+            <msDesc corresp="#bl_royal20bi" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -1399,7 +1423,7 @@
           <div corresp="#bl_royal20bi" type="prologue">
             <head>Prologue de Végèce</head>
             <p>d’après le ms</p>
-            <msDesc corresp="#bl_royal20bi"><!-- type="biblissima" -->
+            <msDesc corresp="#bl_royal20bi" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -1413,7 +1437,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc corresp="#cambridge_gonville424-448" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#cambridge_gonville424-448" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Cambridge</settlement>
               <repository>Gonville and Caius College Libr.</repository>
@@ -1487,7 +1511,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11048" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11048" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -1507,6 +1531,7 @@
                 <provenance>Possesseurs : <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 419-420</bibl>
                   <bibl><title>La librairie de Philippe le Bon, catalogue de l’exposition organisée à l’occasion du 500e anniversaire de la mort du duc</title>, Bruxelles, 1967, n° 231, p. 148</bibl>
@@ -1514,7 +1539,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="kbr_11195" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11195" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -1537,6 +1562,7 @@
                 <provenance>possesseurs : exécuté pour le <persName type="possesseur" key="Flandre, comte de">comte de Flandre</persName> ou pour l’un de ses vassaux (écu aux armes de Flandre f. 4) ; <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>C. Gaspar, F. Lyna <foreign>et alii</foreign>, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Paris, 1937, p. 331 et pl. LXXb ; 2e partie, Paris, 1984, p. 70</bibl>
                   <bibl><title>La librairie de Philippe le Bon, catalogue de l’exposition organisée à l’occasion du 500e anniversaire de la mort du duc</title>, Bruxelles, 1967, n° 230, p. 147-148</bibl>
@@ -1681,7 +1707,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal17ev" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal17ev" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -1704,6 +1730,7 @@
                 <provenance>possesseurs : le baron écossais <persName type="possesseur" key="Sydney Colvin">Sydney Colvin</persName> (armes et devise dans la brodure du f. 7) ; <persName type="possesseur" key="Angleterre, rois d’">rois d’Angleterre</persName> (n° 68 du catalogue des mss conservés à <orgName type="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535).</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 1-13</bibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 259-260 [f. et sujets des miniatures]</bibl>
@@ -1713,7 +1740,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bl_royal20bi" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bl_royal20bi" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -1737,6 +1764,7 @@
                 <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 5218, f. 91v [1351], <title>Mss datés</title>, t. I, pl. 47)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai, <title>Romania</title>, t. 25, 1896, p. 420</bibl>
                   <bibl>G. F. Warner et J. P. Gilson, <title>Catalogue of Western manuscripts in the Royal and King’s collections</title>, t. II, Oxford, 1921, p. 359 [f. et sujets de miniatures]</bibl>
@@ -1745,7 +1773,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1229" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1229" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1768,6 +1796,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Jean de Berry">Jean duc de Berry</persName> (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque impériale</title>, Paris, 1868-1881, t. III, p. 186 ; Id., <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 253 et 305 (avant 1402)) ; <persName type="possesseur" key="Marie de Berry, duchesse de Bourbonnais">Marie, duchesse de Bourbonnais</persName>, fille du duc de Berry, femme de Jean Ier duc de Bourbon ; <persName type="possesseur" key="Jean II, duc de Bourbon">Jean II duc de Bourbon</persName> († 1484) (<quote>« Ce livre est au duc de Bourbon <foreign>[sign. <foreign>infra</foreign>]</foreign> Jehan »</quote> f. 4a) qui le conservait au château de Moulins, où il fut confisqué, après la condamnation de Bourbon, en 1523, par François Ier.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>P. Meyer, « Les anciens traducteurs français de Végèce, et en particulier Jean de Vignai », dans <title>Romania</title>, t. 25, 1896, p. 409-414</bibl>
                   <bibl>M. Meiss, <title>French painting in the time of Jean de Berry</title>, New-York, 1964, p. 314</bibl>
@@ -1775,7 +1804,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="rouen_997" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="rouen_997" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Rouen</settlement>
                 <repository>bibl. mun.</repository>
@@ -1794,6 +1823,7 @@
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v, <title>Mss datés</title>, t. II, pl. 83)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 1 (1886), p. 251</bibl>
                   <bibl>notice J. Monfrin</bibl>
@@ -1801,7 +1831,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="bav_rossianus457" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bav_rossianus457" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -1824,6 +1854,7 @@
                 <origin notBefore="1325" notAfter="1350-01-01">2<hi rend="sup">e</hi> quart du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 169, f. 209v [1330], <title>Mss datés</title>, t. I, pl. 39)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>H. Tietze, <title>Die illuminierten Handschriften der Rossiana in Wien-Lainz</title>, Leipzig, 1911, p. 36-37, n°60</bibl>
                   <bibl>S. Vitte, « Les manuscrits français du fonds Rossi à la Bibliothèque Vaticane », dans <title>Mélanges d’archéologie et d’histoire</title>, t. 47, 1930, p. 107-110</bibl>
@@ -1867,7 +1898,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition A. Piaget</bibl>
-            <msDesc corresp="#fr_926" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_926" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1886,7 +1917,7 @@
             <head>Manuscrits</head>
             <p>Le <title>Chapel des fleurs de lis</title> est conservé dans les manuscrits suivants :</p>
             <listBibl type="msList">
-              <msDesc xml:id="bern_217"><!-- type="biblissima" -->
+              <msDesc xml:id="bern_217" type="witList"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Bern</settlement>
                   <repository>Burgerbibl.</repository>
@@ -1894,7 +1925,7 @@
                   <msName type="sigle" resp="Piaget">E</msName>
                 </msIdentifier>
               </msDesc>
-              <msDesc xml:id="bl_harley4878"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_harley4878" type="witList"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -1902,7 +1933,7 @@
                   <msName type="sigle" resp="Piaget">C</msName>
                 </msIdentifier>
               </msDesc>
-              <msDesc xml:id="bl_royal19cxi"><!-- type="biblissima" -->
+              <msDesc xml:id="bl_royal19cxi" type="witList"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
@@ -1910,7 +1941,7 @@
                   <msName type="sigle" resp="Piaget">D</msName>
                 </msIdentifier>
               </msDesc>
-              <msDesc xml:id="fr_926"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_926" type="witList"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1918,7 +1949,7 @@
                   <msName type="sigle" resp="Piaget">A</msName>
                 </msIdentifier>
               </msDesc>
-              <msDesc xml:id="fr_12787"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12787" type="witList"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -1943,7 +1974,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
-            <msDesc corresp="#kbr_11046" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#kbr_11046" n="incipit" type="contents"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -1978,7 +2009,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
-          <msDesc corresp="#kbr_11046" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11046" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -2028,7 +2059,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11046" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11046" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -2051,13 +2082,14 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armes peintes f. 1), <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (<quote>« Cest livre nommé l’art de chevalerie ou il n’y a que une histoire et est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote> f. 75), <persName type="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName>.</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, n°165, p. 283-285</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="torino_saluzzo188" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="torino_saluzzo188" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Torino</settlement>
                 <repository>Bibl. Reale</repository>
@@ -2083,6 +2115,7 @@
                 <origin notBefore="1405" notAfter="1415">ca 1410-1415</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236), p. 8-11 [notice d'O. Merisalo]</bibl>
                   <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, p. 282-368, notice p. 361-364</bibl>
@@ -2107,7 +2140,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc corresp="#fr_1563" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1563" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -2126,7 +2159,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_1563" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1563" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -2147,6 +2180,7 @@
                 <provenance>Possesseur : frère <persName type="possesseur" key="Jean de Merville, O.P.">Jean de Merville</persName> (?) de l’ordre des frères prêcheurs (mention XV<hi rend="sup">e</hi> s. f. 1)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>E. Langlois, <title>Les manuscrits du Roman de la Rose</title>, p. 20-22</bibl>
                   <bibl>Christine de Pisan, Jean Gerson, Jean de Montreuil, Gontier et Pierre Col, <title>Le débat sur le Roman de la rose</title>, éd. critique, intr., trad., notes par E. Hicks, Paris, 1977 (<title>Bibliothèque du XV<hi rend="sup">e</hi> siècle</title>, 43), p. LXXXI-LXXXIII [notice du ms]</bibl>
@@ -2170,7 +2204,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>éd. Löfstedt</bibl>
-          <msDesc corresp="#bl_add12028" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#bl_add12028" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>London</settlement>
               <repository>British Libr.</repository>

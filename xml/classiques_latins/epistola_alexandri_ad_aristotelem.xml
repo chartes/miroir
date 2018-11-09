@@ -90,7 +90,7 @@
         <div type="edition">
           <head>Transcription du début du texte</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#kbr_14561-4"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_14561-4" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -105,7 +105,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_14561-4" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_14561-4" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -125,7 +125,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_14561-4" n="vu ms" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_14561-4" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -147,6 +147,7 @@
                 <origin notBefore="1304" notAfter="1335">Belgique, après 1304, ca 1330 (proche du ms Tournai, bibl. de la ville, 101, f. 34 [1330], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservé en Belgique : 819-1400</title>, t. I, Bruxelles-Gand, 1968, pl. 115)</origin>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>D. J. A. Ross, <title>Alexander historiatus, A Guide to medieval illustrated Alexander Literature</title>, London, 1963, p. 29</bibl>
                   <bibl>C. Gaspar et F. Lyna, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, t. I/1, Paris, 1937, p. 288-289 ; t. I/2, p. 59-60</bibl>
@@ -168,7 +169,7 @@
         <div type="edition">
           <head>Transcription du début du texte</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#kbr_11104-05"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -186,7 +187,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_11104-05" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -210,7 +211,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" sameAs="epitome_julius_valerius_polemius.xml#kbr_11104-05" n="vu mf" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11104-05" sameAs="epitome_julius_valerius_polemius.xml#kbr_11104-05" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -233,6 +234,7 @@
                 <provenance>possesseurs : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armoiries f. 10) († 1482) ; <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> († 1527) (ex libris f. 90v : <quote>« C’est le livre du roy Alixandre ou yl y a deux histoires, lequel est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote>) ; <persName type="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquis en 1511) ; <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (passe en 1530 ; ex libris à l’intérieur du plat antérieur de la relieur) ; <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (1559)</provenance>
               </history>
               <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
                   <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, p. 168-169, n° 104, pl. 43</bibl>
                   <bibl>M. Smeyers, <title>L’art de la miniature flamande du VIIIe au XVIe siècle</title>, trad. M. Verboomen, Tournai, 1998, p. 328 et 333</bibl>
