@@ -4261,7 +4261,7 @@
                 </item>
                 <item xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s"><ref target="authenticum.xml#fr_498">Paris, Bibl. nat. de Fr., fr. 498 (sigle A)</ref></item>
                 <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v"><!--  xml:id="fr_1063" -->
-                  <msDesc xml:id="fr_1063" type="main"><!-- type="manifestation_singleton" -->
+                  <msDesc xml:id="fr_1063" source="https://gallica.bnf.fr/ark:/12148/btv1b9059651v?rk=42918;4" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -5038,7 +5038,7 @@
                   </div>
                 </item>
                 <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q"><!-- xml:id="fr_1064" -->
-                  <msDesc xml:id="fr_1064" type="main"><!-- type="manifestation_singleton" -->
+                  <msDesc xml:id="fr_1064" source="https://gallica.bnf.fr/ark:/12148/btv1b8452541q" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>
@@ -6675,7 +6675,7 @@
                   </div>
                 </item>
                 <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899"><!--  xml:id="fr_1928" -->
-                  <msDesc xml:id="fr_1928" type="main"><!-- type="manifestation_singleton" -->
+                  <msDesc xml:id="fr_1928" source="https://gallica.bnf.fr/ark:/12148/btv1b90596899" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>

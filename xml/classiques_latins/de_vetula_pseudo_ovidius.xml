@@ -227,7 +227,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_881" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_881" source="http://gallica.bnf.fr/ark:/12148/btv1b8449041w" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

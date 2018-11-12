@@ -2972,7 +2972,7 @@
               </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596684"><!-- xml:id="fr_1073" -->
-              <msDesc xml:id="fr_1073" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_1073" source="https://gallica.bnf.fr/ark:/12148/btv1b90596684" type="main"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -3519,7 +3519,7 @@
               </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059667q"><!-- xml:id="fr_1074" -->
-              <msDesc xml:id="fr_1074" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_1074" source="https://gallica.bnf.fr/ark:/12148/btv1b9059667q" type="main"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -4248,7 +4248,7 @@
               </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596936"><!-- xml:id="fr_1075" -->
-              <msDesc xml:id="fr_1075" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_1075" source="https://gallica.bnf.fr/ark:/12148/btv1b90596936" type="main"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -5023,8 +5023,8 @@
                   <expan>p<ex>ar</ex></expan> devant le juge ou qui juridion il est alez que <expan>p<ex>ar</ex></expan> devant celi ou il a son maners.</p>
               </div>
             </item>
-            <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162"><!-- xml:id="fr_25546" -->
-              <msDesc xml:id="fr_25546" type="main"><!-- type="manifestation_singleton" -->
+            <item><!-- xml:id="fr_25546" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162"" -->
+              <msDesc xml:id="fr_25546" source="http://gallica.bnf.fr/ark:/12148/btv1b90075162" type="main"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>

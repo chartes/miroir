@@ -130,7 +130,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_19152" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_19152" source="https://gallica.bnf.fr/ark:/12148/btv1b9062193k" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -484,7 +484,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_25545" type="main"><!--type="biblissima"-->
+            <msDesc xml:id="fr_25545" source="http://gallica.bnf.fr/ark:/12148/btv1b9063357q" type="main"><!--type="biblissima"-->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -857,7 +857,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_1593" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1593" source="http://gallica.bnf.fr/ark:/12148/btv1b6000803p" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

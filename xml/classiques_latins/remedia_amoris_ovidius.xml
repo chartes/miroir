@@ -165,7 +165,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_12478" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_12478" source="https://gallica.bnf.fr/ark:/12148/btv1b10720679d" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
