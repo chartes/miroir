@@ -159,8 +159,8 @@
           <head>Tradition directe</head>
           <div type="manuscrit">
             <list type="listMs">
-              <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300"><!-- xml:id="bordeaux_354" -->
-                <msDesc xml:id="bordeaux_354" type="main"><!-- type="manifestation_singleton" -->
+              <item><!-- xml:id="bordeaux_354" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" -->
+                <msDesc xml:id="bordeaux_354" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" type="main"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Bordeaux</settlement>
@@ -1174,8 +1174,8 @@
                   </div>
                 </div>
               </item>
-              <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32">
-                <msDesc xml:id="rouen_794" type="main"><!-- type="manifestation_singleton" -->
+              <item><!--  corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32" -->
+                <msDesc xml:id="rouen_794" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32" type="main"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Rouen</settlement>

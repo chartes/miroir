@@ -109,7 +109,7 @@
             <title>La traduction vers le moyen français</title>, Turnhout, 2007, p. 353-365 [présentation générale]</bibl>
           <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V004-005</bibl>
         </listBibl>
-        <div type="edition epilogue">
+        <div type="edition_epilogue">
           <head>Épilogue du traducteur</head>
           <p>d’après le ms</p>
           <msDesc corresp="#fr_282" n="epilogue" type="contents"><!-- type="biblissima" -->
@@ -2347,7 +2347,7 @@
             <bibl>J. Monfrin, « La connaissance de l’Antiquité et le problème de l’humanisme en langue vulgaire dans la France du XV<hi rend="sup">e</hi> siècle », dans <title>The Late Middle Ages and the Dawn of Humanism outside Italy</title>, Louvain, 1972 (Mediaevalia Lovaniensia, Series I/ Studia I), p. 131-170 [réimpr. dans J. Monfrin, <title>Etudes de philologie romane</title>, Genève, 2001 (Publications romanes et françaises, 230), p. 803-837 ; édition du prologue p. 837]</bibl>
             <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V006</bibl>
           </listBibl>
-          <div type="edition prologue">
+          <div type="edition_prologue">
             <head>Prologue</head>
             <p>d'après le ms</p>
             <msDesc corresp="#fr_2118" type="contents"><!-- type="biblissima" -->

@@ -519,7 +519,7 @@
               <list type="listMs">
                 <head>Copies existantes</head>
                 <item xml:id="kbr_10467"><ref target="authenticum.xml#kbr_10467">Bruxelles, Bibl. royale de Belgique, 10467 (sigle L)</ref></item>
-                <item corresp="ARK_manuscrit"><!-- xml:id="glasgow_hunter63" -->
+                <item><!-- xml:id="glasgow_hunter63" -->
                   <msDesc xml:id="glasgow_hunter63" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Ecosse</country>
@@ -9414,7 +9414,7 @@
             <div type="manuscrit">
               <head>Fragment</head>
               <list type="listMs">
-                <item corresp="ARK_manuscrit"><!--  xml:id="leiden_bpl3201" -->
+                <item><!--  xml:id="leiden_bpl3201" -->
                   <msDesc xml:id="leiden_bpl3201" type="main"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Pays-Bas</country>

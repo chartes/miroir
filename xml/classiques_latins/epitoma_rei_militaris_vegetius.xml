@@ -125,7 +125,7 @@
           <bibl>L. K. Carley, <title>The anglo-norman Vegetius. A Thirteenth Century Translation of the "De re militari" of Flavius Vegetius Renatus</title>, University of Nottingham, 1962 [édition dactylographiée]</bibl>
           <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V021</bibl>
         </listBibl>
-        <div type="edition prologue">
+        <div type="edition_prologue">
           <head>Prologue</head>
           <p>Le prologue de Végèce sert de prologue à la traduction. Il a été édité par L. Thorpe (« Master Richard, a thirteenth century translator of the “De re militari” of Vegetius », dans <title>Scriptorium</title>, t. 6, 1952, p. 46) suivant le ms Cambridge, Fitzwilliam Museum, Add. Ms. I Marlay Coll., f. 3r-v.</p>
         </div>
@@ -2360,48 +2360,52 @@
       <div type="deperdita">
         <head>Manuscrits perdus, détruits ou non identifiés</head>
         <list type="deperdita">
-          <msDesc xml:id="metz_1437" type="main"><!-- type="biblissima" -->
-            <msIdentifier>
-              <settlement>Metz</settlement>
-              <repository>bibl. mun.</repository>
-              <idno>1437</idno>
-            </msIdentifier>
-            <msContents>
-              <p><title>Arbre des batailles</title> (Paris, Vérard, 1493) ;
-                <title>L’art de chevalerie selon Vegece</title> f. 151 ; traité d’héraldique f. 255v ; <title>Instruction de chevalerie et exercice de guerre</title> f. 286-293v.</p>
-            </msContents>
-            <physDesc>
-              <objectDesc>
-                <p>[détruit]</p>
-              </objectDesc>
-              <handDesc>
-                <p>Copiste : <persName type="copiste">Jean d'Aucy</persName> [(Bouveret 8745 : <quote>« Iohannes d’Auchy »</quote> (Paris, bibl. Mazarine, 592, cf. <title>Mss datés</title>, t. I, p. 416)]</p>
-              </handDesc>
-            </physDesc>
-            <history>
-              <provenance>possesseur : <persName type="possesseur" key="Jacques d’Esch">Jacques d’Esch</persName> (f. 2v)</provenance>
-            </history>
-            <additional>
-              <listBibl>
-                <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 48 (1933), p. 446-447</bibl>
-              </listBibl>
-            </additional>
-          </msDesc>
-          <msDesc xml:id="sorbonne_1223" type="main"><!-- type="biblissima" -->
-            <msIdentifier>
-              <settlement>Paris</settlement>
-              <repository>bibl. de la Sorbonne</repository>
-              <idno>1223</idno>
-            </msIdentifier>
-            <msContents>
-              <p>le <title>Catalogue général des manuscrits</title> signale le fragment d’une traduction de Végèce sur un f. de garde XV<hi rend="sup">e</hi> s. Lors de la restauration de la reliure (dans les années 1990), les gardes ont disparu.</p>
-            </msContents>
-            <additional>
-              <listBibl>
-                <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France : Université de Paris et universités des départements</title>, 1918, p. 280-281</bibl>
-              </listBibl>
-            </additional>
-          </msDesc>
+          <item>
+            <msDesc xml:id="metz_1437" type="main"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Metz</settlement>
+                <repository>bibl. mun.</repository>
+                <idno>1437</idno>
+              </msIdentifier>
+              <msContents>
+                <p><title>Arbre des batailles</title> (Paris, Vérard, 1493) ;
+                  <title>L’art de chevalerie selon Vegece</title> f. 151 ; traité d’héraldique f. 255v ; <title>Instruction de chevalerie et exercice de guerre</title> f. 286-293v.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>[détruit]</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : <persName type="copiste">Jean d'Aucy</persName> [(Bouveret 8745 : <quote>« Iohannes d’Auchy »</quote> (Paris, bibl. Mazarine, 592, cf. <title>Mss datés</title>, t. I, p. 416)]</p>
+                </handDesc>
+              </physDesc>
+              <history>
+                <provenance>possesseur : <persName type="possesseur" key="Jacques d’Esch">Jacques d’Esch</persName> (f. 2v)</provenance>
+              </history>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 48 (1933), p. 446-447</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </item>
+          <item>
+            <msDesc xml:id="sorbonne_1223" type="main"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>bibl. de la Sorbonne</repository>
+                <idno>1223</idno>
+              </msIdentifier>
+              <msContents>
+                <p>le <title>Catalogue général des manuscrits</title> signale le fragment d’une traduction de Végèce sur un f. de garde XV<hi rend="sup">e</hi> s. Lors de la restauration de la reliure (dans les années 1990), les gardes ont disparu.</p>
+              </msContents>
+              <additional>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France : Université de Paris et universités des départements</title>, 1918, p. 280-281</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </item>
           <item xml:id="ms_charles5">
             <p>Librairie de <persName type="possesseur" key="Charles V">Charles V</persName> (manuscrits dont la version n’est pas identifiée)</p>
             <p>857. <title>Vegece, de chevallerie, en prose, en aiz. - baillé a mons. d’Anjou, 22 de Nov. 1380</title> (L. Delisle, <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 140)</p>

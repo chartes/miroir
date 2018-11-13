@@ -1123,7 +1123,7 @@
               <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 23-32 [présentation la plus complète à ce jour]</bibl>
             <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B251</bibl>
           </listBibl>
-          <div type="edition prologue">
+          <div type="edition_prologue">
             <head>Prologue</head>
             <p>Edition partielle du prologue dans E. Langlois, « Notices des manuscrits français et provençaux de Rome antérieurs au XVI<hi rend="sup">e</hi> s. », dans <title>Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>, t. 33, 1889, p. 263-264 — édition intégrale du prologue et de l’épilogue dans A. Thomas, « Notice sur le manuscrit 4788 du Vatican », dans <title>Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>, t. 41, 1917, p. 35-40 et 81</p>
           </div>
@@ -1215,7 +1215,7 @@
             <bibl>J. K. Atkinson, « Le Boece de confort », dans <title>L’Orphée de Boèce au Moyen Age, Traductions françaises et commentaires latins (XIIe-XVe siècles)</title>, Vérone, 2000 (Medioevi Testi, 2), p. 45-91</bibl>
             <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B247</bibl>
           </listBibl>
-          <div type="edition epilogue">
+          <div type="edition_epilogue">
             <head>Epilogue</head>
             <p>d'après le ms</p>
             <msDesc corresp="#fr_576" n="epilogue" type="contents"><!-- type="biblissima" -->
@@ -2611,7 +2611,7 @@
               <bibl>J. K. Atkinson, « A Dit contre Fortune : the Medieval French Boethian Consolatio contained in MS. Paris, Bibl. nat., fr. 25418 », dans
                 <title>Carmina Philosophiae</title>, t. 7, 1998, p. 67-80</bibl>
             </listBibl>
-            <div type="edition prologue">
+            <div type="edition_prologue">
               <head>Prologue</head>
               <msDesc corresp="#fr_25418" n="prologue" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>

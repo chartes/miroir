@@ -95,7 +95,7 @@
           <bibl>O. Bleskina, « A propos de la datation de la version française des « Faitz d’Alexandre » de Quinte Curce », dans <title>Scriptorium</title>, t. 53, 1999, p. 342-347</bibl>
           <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, Q004</bibl>
         </listBibl>
-        <div type="edition prologue">
+        <div type="edition_prologue">
           <head>Prologue</head>
           <p>Edition du prologue du traducteur dans R. Bossuat, « Vasque de Lucène, traducteur de Quinte-Curce (1468) », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 8, 1946, p. 210-213, suivant le ms Paris, Bibl. Nat. de Fr., fr. 47, avec les variantes du ms Paris, Bibl. nat. de Fr., fr. 9738.</p>
         </div>
@@ -1289,7 +1289,7 @@
             <bibl>S. McKendrick, « Illustrated Manuscripts of Vasco da Lucena’s Translation of Curtius’s <title>Historiae Alexandri Magni</title> : Nature Corrupted by Fortune ? », dans C. A. Chavannes-Mazel et M. M. Smith (éd.), <title>Medieval Manuscripts of the Latin Classics : Production and Use</title>, Anderson-Lovelace, 1996, p. 131-149</bibl>
             <bibl>S. McKendrick, <title>The History of Alexander the Great : An Illuminated Manuscript of Vasco da Lucena’s French Translation of the Ancient Text of Quintus Curtius Rufus</title>, Malibu [Calif.] 1996</bibl>
           </listBibl>
-          <div type="edition prologue">
+          <div type="edition_prologue">
             <head>Prologue du remanieur</head>
             <p>d’après le ms</p>
             <msDesc corresp="#chantilly_756" n="prologue" type="contents"><!-- type="biblissima" -->

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_bello_gallico_julius_caesar" xml:lang="fr">
@@ -123,7 +123,7 @@
           <bibl>S. Montigny, <title>Edition partielle de l’oeuvre de Jean du Quesne, traducteur de César et chroniqueur à la cour de Charles le Téméraire</title>, thèse pour l'obtention du diplôme d’archiviste paléographe, 2006, t. I : <title>Première partie : Edition partielle de la traduction de <title>La Guerre des Gaules</title> par Jean du Quesne (1473-1474)</title> [édition critique des deux premiers livres ; cf. <title>Positions des thèses soutenues par les élèves de la promotion de 2006 pour obtenir le diplôme d’archiviste paléographe</title>, Paris, 2006, p. 161-165]</bibl>
           <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, C111</bibl>
         </listBibl>
-        <div type="edition epilogue">
+        <div type="edition_epilogue">
           <head>Épilogue</head>
           <p>d’après le ms</p>
           <msDesc corresp="#fr_38" type="contents"><!-- type="biblissima" -->
@@ -563,7 +563,7 @@
         <div type="soustraduction" n="Ia" xml:id="version_abrégée">
           <head>Version abrégée et remaniée de la traduction de Jean Duchesne</head>
           <p>Version d’où l’on a cherché à exclure tous les éloges et toutes les flatteries adressées au duc de Bourgogne.</p>
-          <div type="edition prologue">
+          <div type="edition_prologue">
             <head>Prologue</head>
             <p>d’après le ms</p>
             <msDesc n="prologue" corresp="#fr_280" type="contents"><!-- type="biblissima" -->
