@@ -127,37 +127,32 @@
                   <title>Prologues</title>
                   <incipit><locus>f. 1a</locus>Bonne chose et proufitable est de la translacion des langaiges pour congnoistre et entre les fais des anciens... </incipit>
                   <incipit>
-                    <locus>f. 1c</locus>Ci parle des causes pour lesqueles Ovide fist cest livre<foreign>(rubr.)</foreign>
+                    <locus>f. 1c</locus><seg type="rubric">Ci parle des causes pour lesqueles Ovide fist cest livre</seg>
                     <lb/>Es commencemens des livres on a acoustume a demander sept choses qui sont ramenees a quatre causes dont je parleray en brief pource que la longue distincion en seroit de petit proufit.<lb/>
                   </incipit>
                   <incipit>
-                    <locus>f. 1c</locus>Cy commence le prologue de l’acteur et dont vint Eneas <foreign>(rubr.)</foreign>
+                    <locus>f. 1c</locus><seg type="rubric">Cy commence le prologue de l’acteur et dont vint Eneas</seg>
                     <lb/>Aprés ce que Troye la Grant fut prise et descructe sicomme les hystoires le baillent et dient vint de Frige ou Troye avecques Eneas un vaillant et solennel seigneur...<lb/>
                   </incipit>
                   <incipit>
-                    <locus>f. 2c</locus>Comment cest livre fu trouvé
-                    <foreign>(rubr.)</foreign>
+                    <locus>f. 2c</locus><seg type="rubric">Comment cest livre fu trouvé</seg>
                     <lb/>Toutesvoies avint il que ou forbourc de la cité de Dyoscore qui est le chief du royaume de la terre de Colcos...<lb/>
                   </incipit>
                   <incipit>
-                    <locus>f. 2d</locus>De la maniere du vivre d’Ovide
-                    <foreign>(rubr.)</foreign>
+                    <locus>f. 2d</locus><seg type="rubric">De la maniere du vivre d’Ovide</seg>
                     <lb/>Et ainsi appert il qui fut l’acteur du livre et par ce avons nous la cause efficient...<lb/>
                   </incipit>
                   <incipit>
-                    <locus>f. 3a</locus>Pourquoy Ovide fu nommez Nazon
-                    <foreign>(rubr.)</foreign>
+                    <locus>f. 3a</locus><seg type="rubric">Pourquoy Ovide fu nommez Nazon</seg>
                     <lb/>Ovide Nazon fut nommez <lb/>Le pouete bien renommez <lb/>Nazon pour quantité du nez...<lb/>
                   </incipit>
                   <incipit>
-                    <locus>f. 3b</locus>Comment Ovide fut deceu par la vielle matronne
-                    <foreign>(rubr.)</foreign>
+                    <locus>f. 3b</locus><seg type="rubric">Comment Ovide fut deceu par la vielle matronne</seg>
                     <lb/>Par la vielle fut il deceu <lb/>Sicom cy aprés sera sceu <lb/>Pour quoy il mua son propos...</incipit>
                 </msItem>
                 <msItem>
                   <title>Texte</title>
-                  <incipit><locus>f. 3c</locus>Comment Ovide ama par amours
-                    <foreign>(rubr.)</foreign><lb/>Et que j’amoie chïerement<lb/>Et desiroie entierement,<lb/>Ce tresdoulz sexe femenin<lb/>Qui n’i cuïdoy mal ne venin...<lb/>
+                  <incipit><locus>f. 3c</locus><seg type="rubric">Comment Ovide ama par amours</seg><lb/>Et que j’amoie chïerement<lb/>Et desiroie entierement,<lb/>Ce tresdoulz sexe femenin<lb/>Qui n’i cuïdoy mal ne venin...<lb/>
                   </incipit>
                   <explicit><locus>f. 48c</locus>...De nous soit a lui los et gloire<lb/>Honneur, reverance et victoire,<lb/>Et de lui aions grace estable<lb/>Et sanz fin vie pardurable<lb/>Amen.<lb/>
                   </explicit>
@@ -205,20 +200,14 @@
                 <msItem>
                   <title>Prologues</title>
                   <incipit><locus>f. 1</locus>Bonne chose et prouffitable est de la translacion des langages pour congnoistre et entendre les fais des anciens...</incipit>
-                  <incipit><locus>f. 2</locus>Autre prologue fait par maistre Leon prothonotaire du saint palaiz de Constantinoble sus ledit livre de Ovide <foreign>(rubr.)</foreign>
-                    <lb/>Au commencement des livres on seult demander sept choses qui sont ramenees a quatre causes dont je parleray briefment...</incipit>
-                  <incipit><locus>f. 3</locus>Comment la sepulture de Ovide et son livre furent trouvez <foreign>(rubr.)</foreign>
-                    <lb/>Toutesvoyes advint il que ou forbourg de la cité Dyoscore qui est le chief du royaulme de la terre de Colcos...</incipit>
-                  <incipit><locus>f. 3v</locus>Du proheme de l’acteur
-                    <foreign>(rubr.)</foreign>
-                    <lb/>Et ainsy appert il donques qui fu l’acteur du livre et par ce avons nous la cause efficient...</incipit>
-                  <incipit>Cy commence la rime Comment Ovide fut nommé Nason pour la quantité de son nez et comment il fut nez en un chasteau qui avoit <pb n="4v"/> nom Peliges, et cetera <foreign>(rubr.)</foreign>
-                    <lb/>Ovide Nason fut nommez <lb/>le poete bien renommez <lb/>Nason pour quantité du nez <lb/>du chasteau Peliges fu nez...</incipit>
+                  <incipit><locus>f. 2</locus><seg type="rubric">Autre prologue fait par maistre Leon prothonotaire du saint palaiz de Constantinoble sus ledit livre de Ovide</seg> <lb/>Au commencement des livres on seult demander sept choses qui sont ramenees a quatre causes dont je parleray briefment...</incipit>
+                  <incipit><locus>f. 3</locus><seg type="rubric">Comment la sepulture de Ovide et son livre furent trouvez</seg> <lb/>Toutesvoyes advint il que ou forbourg de la cité Dyoscore qui est le chief du royaulme de la terre de Colcos...</incipit>
+                  <incipit><locus>f. 3v</locus><seg type="rubric">Du proheme de l’acteur</seg> <lb/>Et ainsy appert il donques qui fu l’acteur du livre et par ce avons nous la cause efficient...</incipit>
+                  <incipit><seg type="rubric">Cy commence la rime Comment Ovide fut nommé Nason pour la quantité de son nez et comment il fut nez en un chasteau qui avoit <pb n="4v"/> nom Peliges, et cetera</seg> <lb/>Ovide Nason fut nommez <lb/>le poete bien renommez <lb/>Nason pour quantité du nez <lb/>du chasteau Peliges fu nez...</incipit>
                 </msItem>
                 <msItem>
                   <title>Texte</title>
-                  <incipit>Comment Ovide ama le sexe femenin <foreign>(rubr.)</foreign>
-                    <lb/>Et que j’amoie chierement et desiroye entierement <lb/>ce tresdoulz sexe femenin...</incipit>
+                  <incipit><seg type="rubric">Comment Ovide ama le sexe femenin</seg> <lb/>Et que j’amoie chierement et desiroye entierement <lb/>ce tresdoulz sexe femenin...</incipit>
                 </msItem>
               </msContents>
             </msDesc>

@@ -93,6 +93,7 @@
         </dateline>
         <p>L’<title xml:lang="lat">Authenticum</title> a fait l’objet d’au moins une traduction, peut-être deux, dont l’une a été révisée à plusieurs reprises. Le ms <hi rend="i">O</hi> (London, British Libr., Royal 20.D.IX) juxtapose ainsi trois états traductifs d’une même traduction et peut-être quelques passages tirées d’une traduction différente. Les autres témoins transmettent l’état traductif le plus récent de <hi rend="i">O</hi>, reçu comme définitif.</p>
         <p>Le manuscrit <hi rend="i">O</hi> nous donne un <foreign xml:lang="lat">terminus ad quem</foreign> (troisième quart du 13<hi rend="sup">e</hi> s.) qui ne demande qu’à être précisé. Le témoignage du ms du <title xml:lang="lat">Parvum volumen</title>, aujourd’hui perdu, cité par <bibl>Ménage</bibl> (cf. <foreign xml:lang="lat"><ref target="#ménage">infra</ref></foreign>) confirme que le <foreign xml:lang="lat">terminus ad quem</foreign> ne peut être postérieur à 1292.</p>
+        <!-- Est-ce que ce <listWit> ne pourrait pas être transformé en listRef utilisant l'@corresp ? -->        
         <listWit>
           <head>Conspectus siglorum</head>
           <witness xml:id="A">

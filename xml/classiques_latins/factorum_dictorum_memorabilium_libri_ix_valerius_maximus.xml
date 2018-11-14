@@ -118,7 +118,7 @@
               <repository>Bibl. nat. de Fr.</repository>
               <idno>fr. 282</idno>
             </msIdentifier>
-            <p>Par l’aide divine sans laquelle nulle chose n’est droitement commencee ne profitablement continuee ne menee a.ffin, est la translation de Valere le Grant terminee, laquelle commence tres reverent maistre Symon de Haydin, maistre en theologie, re(i)ligieulx des Hospitaliers de Saint Jehan de Jherusalem, qui poursuivi jusques au VIIe livre ou chapitre des Stratagemes et la laissa des la en avant jusques a la fin du livre. Je, Nicholas de Gonesse, maistre es ars et en theologie, ay poursuivi la dicte translation au mains mal que ay peu, du commendement et ordennance de tres excellent et puissent prince, mon seigneur le duc de Berri et d’Auvergne, conte de Poitou, de Bouloingne et d’Auvergne, et a la requeste de Jaquemin Courau son tresorier. Et ne doubte point que mon stile de translater n’est ne si bel ne si parfait comme est celui devant. Mais je prie a ceulx qui la liront qu’il le me pardonnent, car je ne suiz mie si expert es histoires comme il estoit. Et fut finee l’an mil CCCC et I, la veille saint Michiel l’archange.</p>
+            <msContents><p>Par l’aide divine sans laquelle nulle chose n’est droitement commencee ne profitablement continuee ne menee a.ffin, est la translation de Valere le Grant terminee, laquelle commence tres reverent maistre Symon de Haydin, maistre en theologie, re(i)ligieulx des Hospitaliers de Saint Jehan de Jherusalem, qui poursuivi jusques au VIIe livre ou chapitre des Stratagemes et la laissa des la en avant jusques a la fin du livre. Je, Nicholas de Gonesse, maistre es ars et en theologie, ay poursuivi la dicte translation au mains mal que ay peu, du commendement et ordennance de tres excellent et puissent prince, mon seigneur le duc de Berri et d’Auvergne, conte de Poitou, de Bouloingne et d’Auvergne, et a la requeste de Jaquemin Courau son tresorier. Et ne doubte point que mon stile de translater n’est ne si bel ne si parfait comme est celui devant. Mais je prie a ceulx qui la liront qu’il le me pardonnent, car je ne suiz mie si expert es histoires comme il estoit. Et fut finee l’an mil CCCC et I, la veille saint Michiel l’archange.</p></msContents>
           </msDesc>
         </div>
         <div type="incipit">
@@ -139,14 +139,13 @@
               <msItem>
                 <locus>f. 2a</locus>
                 <title>Prologue de l’auteur</title>
-                <incipit><foreign>Urbis Rome etc.</foreign> <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric" xml:lang="lat">Urbis Rome etc.</seg>
                   <lb/>C’est le commencement du proheme de ce livre pour l’entendement duquel avoir, il est asavoir que Vince[n]s en Mirouer hystorial et plusieurs autres dient que...</incipit>
               </msItem>
               <msItem>
                 <locus>f. 3d</locus>
                 <title>Livre I</title>
-                <incipit><foreign>Majores statas etc.</foreign>
-                  <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric" xml:lang="lat">Majores statas etc.</seg>
                   <lb/>Cy commence Valerius son livre qui est devisez communement en IX livres particuliers comment que on treuve en aucuns volumes le Xe livre...</incipit>
                 <explicit>...qui estoit navree en la teste, laquelle avoit cinquante coustes de long et avoit afeublé un mantel de pourpre et yci fine de ceste <pb n="f. 71a"/> de <sic>ceste</sic> matiere et par consequent du premier livre.</explicit>
               </msItem>
@@ -171,7 +170,7 @@
               <msItem>
                 <locus>f. 208b-242a</locus>
                 <title>Livre V</title>
-                <incipit>Translateur <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Translateur</seg>
                   <lb/><foreign>Liberalitati etc.</foreign>
                   <lb/>Icy commence Valerius son quint livre lequel a dix chappitres selon ce que il appert en la poursuite. Le premier chappitre est de l’umanité et de clemence et dit Valerius qu’il ne scet donner a liberalité de laquelle il parle en la fin du quart livre</incipit>
                 <explicit>...en un meismes momment nature leur donna loy de recevoir l’esperit de vie et de laissier aussi qu’il ne muert nul qu’il n’ait vescu aussi ne puet il nulz vivre qu’il n’ait a mourir et icy fine le chapitre de tout le quint livre.</explicit>
@@ -2356,7 +2355,7 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>fr. 2118</idno>
               </msIdentifier>
-              <p>Comme ainsi soit que Valere, le tresnoble hystoriograffe, ait composé son livre du fait des Romains et ycelluy parti en dix livres, et que la translacion de <sic>seu</sic> dit livre ait esté commencé par maistre Symon de Hedin, maistre en theologie et <pb n="f. 1v"/> religieux des hospitaliers de Saint Jehan, et mené jusques au septiesme livre, au chapitre des stratagemes, et despuis par Nicolas de Gounesse, maistre en ars et en theologie ; et pour ce que ladicte translacion estoit longue et prolixe, mesmement que les sentences de Valere l’acteur soient troubles et peu entendues en fransois, par quoy lesdis translacteurs aient en leur dicte translacion aclercy plussieurs des fais des Romains et autres estranges au long et avec ce allegué plussieurs choses servans a ladicte matiere ; pour voir ladicte translacion, qui est ung grant livre, je me suis advisé de prendre la substance des chapitres et racompter plussieurs chouses notables, dignes de memoire, tant de hystoires come de chouses servans au bien de chascun. Or est asavoir que des dix livres n’en a translatés que neufz qui contiennent IIIIxx quatre chapitres, et sont les huit livres fondés en vertus et en chouses appartenans a vertus, et les neufz traictent de vices et des despendances d’iceulx, et le Xe n’est point translaté, par ce qu’i ne parle que de nons et surnons.</p>
+              <msContents><p>Comme ainsi soit que Valere, le tresnoble hystoriograffe, ait composé son livre du fait des Romains et ycelluy parti en dix livres, et que la translacion de <sic>seu</sic> dit livre ait esté commencé par maistre Symon de Hedin, maistre en theologie et <pb n="f. 1v"/> religieux des hospitaliers de Saint Jehan, et mené jusques au septiesme livre, au chapitre des stratagemes, et despuis par Nicolas de Gounesse, maistre en ars et en theologie ; et pour ce que ladicte translacion estoit longue et prolixe, mesmement que les sentences de Valere l’acteur soient troubles et peu entendues en fransois, par quoy lesdis translacteurs aient en leur dicte translacion aclercy plussieurs des fais des Romains et autres estranges au long et avec ce allegué plussieurs choses servans a ladicte matiere ; pour voir ladicte translacion, qui est ung grant livre, je me suis advisé de prendre la substance des chapitres et racompter plussieurs chouses notables, dignes de memoire, tant de hystoires come de chouses servans au bien de chascun. Or est asavoir que des dix livres n’en a translatés que neufz qui contiennent IIIIxx quatre chapitres, et sont les huit livres fondés en vertus et en chouses appartenans a vertus, et les neufz traictent de vices et des despendances d’iceulx, et le Xe n’est point translaté, par ce qu’i ne parle que de nons et surnons.</p></msContents>
             </msDesc>
           </div>
           <div type="incipit">

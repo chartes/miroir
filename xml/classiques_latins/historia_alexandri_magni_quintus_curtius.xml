@@ -118,8 +118,8 @@
               <msItem>
                 <locus>f. 3c-29c</locus>
                 <title>Livre I</title>
-                <incipit>Comment es histoires d’Alexandre puet apparoir que les royaumes croiscent par vertu et diligence et declinent par vicieuse lachaté et illec se preuve que Alexandre a esté et conquist tout Orient <foreign>(rubr.)</foreign>
-                  <lb/>premier chapitre <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Comment es histoires d’Alexandre puet apparoir que les royaumes croiscent par vertu et diligence et declinent par vicieuse lachaté et illec se preuve que Alexandre a esté et conquist tout Orient
+                  <lb/>premier chapitre</seg>
                   <lb/>Regardant les discors et infelicités des seigneuries et royaumes et vueillant monstrer que en leurs maleurtés a tort s’excusent les roys...</incipit>
                 <explicit>...doubtant se morir le faisoit que a cause de sa mort aulcune mutacion ne sourdist en Macedone.</explicit>
               </msItem>
@@ -128,14 +128,13 @@
                 <msItem>
                   <locus>f. 29d</locus>
                   <title>Prologue du traducteur</title>
-                  <incipit>Commence le prologue du translateur en la translation de Quinte Curce Rufe <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Commence le prologue du translateur en la translation de Quinte Curce Rufe</seg>
                     <lb/>Ainsi mettrons fin a ce premier livre lequel est assemblé de Justin Plutharque Valere et pluseurs aultres...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 30d-53c</locus>
                   <title>Texte</title>
-                  <incipit>Le premier chapitre de la description des fleuves Marse et Licus et de la redition du chasteau de Celene
-                    <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Le premier chapitre de la description des fleuves Marse et Licus et de la redition du chasteau de Celene</seg>
                     <lb/><pb n="f. 31a"/>Entre ces choses depuis que Alexandre eut envoyé Cleander a grant somme d’argent pour lever gens d’armes...</incipit>
                   <explicit>...et si parceut que la memoire de sa majesté n’estoit point tarie es cuers de tous les aultres.</explicit>
                 </msItem>
@@ -143,14 +142,14 @@
               <msItem>
                 <locus>f. 53b-99b</locus>
                 <title>Livre III</title>
-                <incipit>De la fuyte du roy Daire et en effect du contenu des lettres qu’il envoya a Alexandre premier chapitre <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">De la fuyte du roy Daire et en effect du contenu des lettres qu’il envoya a Alexandre premier chapitre</seg>
                   <lb/><pb n="f. 53c"/>Daire roy de si grant ost qui estoit descendu en la bataille eslevé en chariot...</incipit>
                 <explicit>...Et se nous voulons vrayement estimer et prisier les Macedons qui alors furent nous confesserons le roy de telz sergens et eulx de tel roy estre bien dignes.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 99b-127b</locus>
                 <title>Livre IV</title>
-                <incipit>Du conseil que le roy Daire tint La reddition d’Arbelle et la description des rivieres du Tigre et d’Eufrates et de la province de Mesopotanie gisant entre elles deux Premier chapitre <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Du conseil que le roy Daire tint La reddition d’Arbelle et la description des rivieres du Tigre et d’Eufrates et de la province de Mesopotanie gisant entre elles deux Premier chapitre</seg>
                   <lb/><pb n="f. 99c"/>Se je vouloye racompter les choses faictes soubz la souveraineté de Alexandre durant le temps dessusdit...</incipit>
                 <explicit>...si commanda ensevelir le corps selon l’usage des Persans et enfermer ses reliques es sepulcres de ses ancestres.</explicit>
               </msItem>
@@ -159,37 +158,35 @@
                 <msItem>
                   <locus>f. 127b</locus>
                   <title>Prologue du traducteur</title>
-                  <incipit>Commence le prologue du translateur sur le Ve <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Commence le prologue du translateur sur le Ve</seg>
                     <lb/>J’ay emprunté de Justin et de Orose la fin de ce quart livre depuis le lieu ou il dit le roy Daire dedens une charrette...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 127d-154c</locus>
                   <title>Texte</title>
-                  <incipit>Comment Alexandre roy de Epire cousin du grant Alexandre passa en Ytalie et fut tué de ceulx de Luques Premier chapitre <foreign>(rubr.)</foreign>
-                    <lb/>
-                    <pb n="f. 128a"/> Alexandre fist sumptueusement mettre en sepulture les gens de guerre qu’il avoit perduz en chassant le roy Daire.</incipit>
+                  <incipit><seg type="rubric">Comment Alexandre roy de Epire cousin du grant Alexandre passa en Ytalie et fut tué de ceulx de Luques Premier chapitre</seg>
+                    <lb/><pb n="f. 128a"/>Alexandre fist sumptueusement mettre en sepulture les gens de guerre qu’il avoit perduz en chassant le roy Daire.</incipit>
                   <explicit>...mais aprés sa confession il ne deservit ne pitié ne misericorde mesmement de ses amis.</explicit>
                 </msItem>
               </msItem>
               <msItem>
                 <locus>f. 154d-184d</locus>
                 <title>Livre VI</title>
-                <incipit>La pitié que on avoit de Philotés et de son pere et comment Alexandre des <sic>l'incestes</sic> fut tué pour aultre conspiration Premier chapitre <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">La pitié que on avoit de Philotés et de son pere et comment Alexandre des <sic>l'incestes</sic> fut tué pour aultre conspiration Premier chapitre</seg>
                   <lb/><pb n="f. 155a"/>Les capitaines et gens d’armes decreterent Philotés a la mort comme dit est et leur sembloit que ce fut a bonne cause...</incipit>
                 <explicit>Si fut laissié Arthabaze pour tutele ou garde de la roche et des aultres regions appartenans et appendans a icelle.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 184d-220d</locus>
                 <title>Livre VII</title>
-                <incipit>De pluseurs rebelles reduitz a obeÿssance et illec deux ambassades Premier chapitre <foreign>(rubr.)</foreign>
-                  <lb/>
-                  <pb n="f. 185a"/> Alexandre ayant reduite en sa puissance la roche dessusdicte dont il acquist moins de gloire que renom...</incipit>
+                <incipit><seg type="rubric">De pluseurs rebelles reduitz a obeÿssance et illec deux ambassades Premier chapitre</seg>
+                  <lb/><pb n="f. 185a"/> Alexandre ayant reduite en sa puissance la roche dessusdicte dont il acquist moins de gloire que renom...</incipit>
                 <explicit>...et qu’elle seroit plus clere et plus noble de tant que ceulx qu’il auroit vaincus feussent plus grans.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 220d-246b</locus>
                 <title>Livre VIII</title>
-                <incipit>Remonstrances d’Alexandre a ses gens que le vueillent encore suivir et de bestes inusitees et d’aulcunes cités a lui rendues Premier chapitre <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Remonstrances d’Alexandre a ses gens que le vueillent encore suivir et de bestes inusitees et d’aulcunes cités a lui rendues Premier chapitre</seg>
                   <pb n="f. 220d"/>
                   <lb/>
                   <pb n="f. 221a"/> Alexandre joyeux de tant memorable victoire par laquele il pensoit avoir ouverture aux fins de tout Orient fist sacrefice au soleil...</incipit>
@@ -200,14 +197,13 @@
                 <msItem>
                   <locus>f. 246b</locus>
                   <title>Prologue du traducteur</title>
-                  <incipit>Commence le IXe d’icellui et premierement le prologue <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Commence le IXe d’icellui et premierement le prologue</seg>
                     <lb/>En ce IX et derrenier livre deffault en Quinte Curce grant part de l’istoire asçavoir depuis le chapitre qui commence...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 246d-269a</locus>
                   <title>Texte</title>
-                  <incipit>Comment Alexandre fait executer aulcuns seneschaulx des provinces pour leurs grans extorsions Nearque et Onesecrite raportent qu’ilz virent en la mer Premier chapitre
-                    <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Comment Alexandre fait executer aulcuns seneschaulx des provinces pour leurs grans extorsions Nearque et Onesecrite raportent qu’ilz virent en la mer Premier chapitre</seg>
                     <lb/>
                     <pb n="f. 245a"/> En ce temps pendant Cleander Heracon Agathon avec Sitalcés qui par le commandement du roy avoient tué le duc Parmenion...</incipit>
                   <explicit>...et d’illec pou de temps ensuyvant le fist transporter en Alexandrie duquel est eue en honneur sa memoire et son nom a tousjours mais.</explicit>
@@ -216,8 +212,7 @@
               <msItem>
                 <locus>f. 269b-269d</locus>
                 <title>Conclusion du traducteur</title>
-                <incipit>Conclusion du translateur
-                  <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Conclusion du translateur</seg>
                   <lb/>Puis que Alexandre conquist tout Orient sans grant nombre de gens d’armes sans geans sans enchantamens sans miracles...</incipit>
                 <explicit>...d’autant que avez surmontez les commencemens d’icellui Alexandre d’autant et de plus puissiez surpasser le plushault comble de sa gloire.</explicit>
               </msItem>
@@ -1298,8 +1293,10 @@
                 <repository>Musée Condé</repository>
                 <idno>756</idno>
               </msIdentifier>
-              <p>Autre proheme <foreign>(rubr.)</foreign></p>
-              <p>C’est icy l’extret prins sur la translacion de Quintus Cursius traittant l’istoire du puissant et victorieux roy Alixandre le Grant, roy de Macedoine, icelle translation faitte et compilee par honnourable et saige personne maistre Vasque de Lucenne Portugalois, pour la donner et offrir a tresexellent puissant prince Charles par la grace de Dieu duc de Bourgonne, de Lotrich, de Brabant, de Lembourg et de Luxembourg. Et ja soit ce que icelle translation soit mise en moult beau stille et eloquence de parler mais difficile a entendre par simples <pb n="f. 3b"/> gens, neantmoins saulvé l’onneur du translateur je me suis ingeré non pas par presumption ne pour derroguier a son stille, mais seullement pour faire cest extrait plus aiesiet a entendre par moy mesmes et par les samblables a moy en simplesse d’entendement, de recueiller icy tout le sens de l’istore en ma maniere de parler le plus prez que je pourray a l’aide de Dieu mon createur ; qu’il le me doint si bien commencier et parfaire qu’il soit a sa loenge et au plaisir des lisans et commence ainsi :</p>
+              <msContents>
+                <p>Autre proheme <foreign>(rubr.)</foreign></p>
+                <p>C’est icy l’extret prins sur la translacion de Quintus Cursius traittant l’istoire du puissant et victorieux roy Alixandre le Grant, roy de Macedoine, icelle translation faitte et compilee par honnourable et saige personne maistre Vasque de Lucenne Portugalois, pour la donner et offrir a tresexellent puissant prince Charles par la grace de Dieu duc de Bourgonne, de Lotrich, de Brabant, de Lembourg et de Luxembourg. Et ja soit ce que icelle translation soit mise en moult beau stille et eloquence de parler mais difficile a entendre par simples <pb n="f. 3b"/> gens, neantmoins saulvé l’onneur du translateur je me suis ingeré non pas par presumption ne pour derroguier a son stille, mais seullement pour faire cest extrait plus aiesiet a entendre par moy mesmes et par les samblables a moy en simplesse d’entendement, de recueiller icy tout le sens de l’istore en ma maniere de parler le plus prez que je pourray a l’aide de Dieu mon createur ; qu’il le me doint si bien commencier et parfaire qu’il soit a sa loenge et au plaisir des lisans et commence ainsi :</p>
+              </msContents>
             </msDesc>
           </div>
           <div type="incipit">

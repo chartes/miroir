@@ -151,21 +151,21 @@
               <msItem>
                 <locus>f. 2b</locus>
                 <title>Glossaire</title>
-                <incipit>C’est li chappitres de la declaration des moz qui n’ont point de propre françois ou qui anciennement ont mestier d’estre desclairiez en ceste translation Augur auguremens <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">C’est li chappitres de la declaration des moz qui n’ont point de propre françois ou qui anciennement ont mestier d’estre desclairiez en ceste translation Augur auguremens</seg>
                   <lb/>Augur auguremens inauguracion auspice, auspique sont moz apartenans a divinacions...</incipit>
               </msItem>
               <msItem>
                 <locus>f. 4c</locus>
                 <title>Table</title>
-                <incipit>C’est la table des chapitres du premier livre de la premiere decade de Tytus Livius <foreign>(rubr.)</foreign>
-                  <lb/>Premierement <foreign>(rubr.)</foreign> De la magnificence de Rome.
+                <incipit><seg type="rubric">C’est la table des chapitres du premier livre de la premiere decade de Tytus Livius
+                  <lb/>Premierement</seg> De la magnificence de Rome.
                   <lb/>Comment Enneez vint en Ytalie et comment il fut roys et aprés fait hoirs I
                   <lb/>Comment Ascanius regna aprés la mort Enee son pere II</incipit>
               </msItem>
               <msItem>
                 <locus>f. 10a-f. 192a</locus>
                 <title>1re décade (abrégé D1)</title>
-                <incipit>Cy commence le premier livre de la premiere decade de Titus Livius <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Cy commence le premier livre de la premiere decade de Titus Livius</seg>
                   <lb/>Se je me prens a escripre les choses faittes par les Rommains des le commencement que Rome fut fondee je ne sçay pas se ce sera chose convenable...</incipit>
                 <explicit>...mais neantmoins en cestui an n’en pot estre riens fait pour ce que li consul furent occupé es guerres mais que toutefois l’en fist supplicacion seulement a Esculapius.
                   <lb/>Cy fenist le Xe livre de la premiere decade de Titus Livius.</explicit>
@@ -2305,27 +2305,24 @@
                   <msItem>
                     <locus>fr. 264, f. 5a</locus>
                     <title>Glossaire</title>
-                    <incipit>C’est le chapitre de la declaracion des moz qui n’ont point de propre françois ou autrement qui ont bien mestier de declaracion Et premier de Augur <foreign>(rubr.)</foreign>.
+                    <incipit><seg type="rubric">C’est le chapitre de la declaracion des moz qui n’ont point de propre françois ou autrement qui ont bien mestier de declaracion Et premier de Augur.</seg>
                       <lb/>Augur, Augurement, Inauguracion, Auspice et Auspique sont moz appartenens a divinacions selon les chans ou mouvemens des oiseaulx...</incipit>
                   </msItem>
                   <msItem>
                     <locus>fr. 264, f. 9a</locus>
                     <title>Prologue</title>
-                    <incipit>Ci commence le prologue ou livre de Titus Livius de l’istoire roumaine lequel livre frere Pierre Bertheure prieur de Saint Eloy de Paris a translaté de latin en françois
-                      <foreign>(rubr.)</foreign>
-                      <lb/>A prince de tres souveraine excellence Jehan roy de France par la grace divine frere Jehan Bertheure apresent prieur de Saint Eloy de Paris...</incipit>
+                    <incipit><seg type="rubric">Ci commence le prologue ou livre de Titus Livius de l’istoire roumaine lequel livre frere Pierre Bertheure prieur de Saint Eloy de Paris a translaté de latin en françois</seg><lb/>A prince de tres souveraine excellence Jehan roy de France par la grace divine frere Jehan Bertheure apresent prieur de Saint Eloy de Paris...</incipit>
                   </msItem>
                   <msItem>
                     <locus>fr. 264, f. 9c</locus>
                     <title>Glossaire</title>
-                    <incipit>C’est le chapitre de la declaracion des mos qui n’ont point de propre françois ou qui autrement ont mestier de declaracion, si comme vous pourrez veoir cy aprés
-                      <foreign>(rubr.)</foreign>.
+                    <incipit><seg type="rubric">C’est le chapitre de la declaracion des mos qui n’ont point de propre françois ou qui autrement ont mestier de declaracion, si comme vous pourrez veoir cy aprés.</seg>
                       <lb/>Augur, Augurement, Inauguracion, Auspice et Auspique sont moz appartenens a divinacions selon les chans ou mouvemens des oiseaux...</incipit>
                   </msItem>
                   <msItem>
                     <locus>fr. 264, f. 13a - fr. 264, f. 280d</locus>
                     <title>1re décade</title>
-                    <incipit>Ci commence le premier livre de la premiere decade de Titus Livius <foreign>(rubr.)</foreign>.
+                    <incipit><seg type="rubric">Ci commence le premier livre de la premiere decade de Titus Livius.</seg>
                       <lb/>Si je me prans a escripre les choses faittes par les Rommains des le commencement que Romme fut fondee...</incipit>
                     <explicit>...pour ce que les consulz furent occupez es guerres, mais que toutefois on fist supplicacion par un jour seulement a Esculapius.
                       <lb/>Ci fine le Xe livre de la premiere decade de Titus Livius laquele est appellee de la cité fondee
@@ -2336,13 +2333,13 @@
                     <msItem>
                       <locus>fr. 265, f. 1a</locus>
                       <title>Table</title>
-                      <incipit>Ci commence la table des chapitres ou rubriches de la seconde et tierce decades de Titus Livius Et commence au premier livre de la seconde decade dessus ditte Et premierement <foreign>(rubr.)</foreign>
+                      <incipit><seg type="rubric">Ci commence la table des chapitres ou rubriches de la seconde et tierce decades de Titus Livius Et commence au premier livre de la seconde decade dessus ditte Et premierement</seg>
                         <lb/>Ci commence le premier livre de la seconde decade de Titus Livius Et comment Hanibal en l’aage de IX ans promist a son pere Amilcar que toute sa vie il feroit guerre aux Romains I.</incipit>
                     </msItem>
                     <msItem>
                       <locus>fr. 265, f. 7a - fr. 265, f. 272b</locus>
                       <title>Texte</title>
-                      <incipit>Ci commence la seconde decade de Titus Livius laquele parle de la guerre punique des Cartageis diz penois contre les Rommains Et prologue <foreign>(rubr.)</foreign>
+                      <incipit><seg type="rubric">Ci commence la seconde decade de Titus Livius laquele parle de la guerre punique des Cartageis diz penois contre les Rommains Et prologue</seg>
                         <lb/>Il me plaist a parler en une partie de mon oeuvre de ce dont pluseurs autres escriptures et scripteurs ont parlé au commencement de la leur...</incipit>
                       <explicit>...et a l’exemple de cestui pluseurs aultres combien que non mie egaulz en vittoires ont puis aprés fait notables tiltres de ymages et ont imposé clers seurnoms a eulx et a leurs familles
                         <lb/>Ci fine le Xe et derrenier livre de la seconde decade de Titus Livius translaté de latin en françois du commandement de tres excellent prince Jehan roy de France par frere Pierre Bertheure jadis prieur de Saint Eloy de Paris et sont tous les livres de ceste seconde decade intitulez de la guerre punique <foreign>(rubr.)</foreign></explicit>
@@ -2353,16 +2350,15 @@
                     <msItem>
                       <locus>fr. 266, f. 2a</locus>
                       <title>Table</title>
-                      <incipit>Ci commence la table de la tierce decade de Titus Livius qui est ditte de la guerre macedonienne <foreign>(rubr.)</foreign>
-                        <lb/>Ci commence le premier livre <foreign>(rubr.)</foreign>
-                        <lb/>Et premierement <foreign>(rubr.)</foreign>
+                      <incipit><seg type="rubric">Ci commence la table de la tierce decade de Titus Livius qui est ditte de la guerre macedonienne
+                        <lb/>Ci commence le premier livre
+                        <lb/>Et premierement</seg>
                         <lb/><pb n="fr. 266, f. 2a"/>Comment les Rommains reprindrent armes contre le roy Philippe I.</incipit>
                     </msItem>
                     <msItem>
                       <locus>fr. 266, f. 5a - fr. 266, f. 208a</locus>
                       <title>Texte</title>
-                      <incipit>Ci commence le premier livre de la tierce decade de Titus Livius Et comment les Rommains reprindrent armes en[contre le roy] Philippe de Macedoine
-                        <foreign>(rubr.)</foreign>
+                      <incipit><seg type="rubric">Ci commence le premier livre de la tierce decade de Titus Livius Et comment les Rommains reprindrent armes en[contre le roy] Philippe de Macedoine</seg>
                         <lb/>Tout aussi comme se je en ma propre personne eusse esté pour ma partie en labours et...</incipit>
                       <explicit>...et les dihommes manderent supplicacions par II jours pour cause de celles maladies par touz marchiez et par tous lieux publiques
                         <lb/>Ci fine le IXe livre de la tierce decade de Titus Livius.</explicit>
@@ -2454,7 +2450,7 @@
                     <msItem>
                       <locus>ms 5088, f. 12a-b - ms 5088, f. 345c</locus>
                       <title>Texte</title>
-                      <incipit>Comment aprez la mort du roy Phelippe Perseus son filz fist guerre aux Rommains comment il les vainqui puis en fu vaincu et prins et menez a Romme ou il fina sa vie miserablement <foreign>(rubr.)</foreign>
+                      <incipit><seg type="rubric">Comment aprez la mort du roy Phelippe Perseus son filz fist guerre aux Rommains comment il les vainqui puis en fu vaincu et prins et menez a Romme ou il fina sa vie miserablement</seg>
                         <lb/>Comme en nostre premier volume nous aions expediees et redigees compendieusement les histores rommaines depuis le commencment et fondation de la noble cité de Romme...</incipit>
                       <explicit>... elle puisse avec tout son ost parvenir a la seignourie triumphant de la glore de paradis laquelle vueille ottroier a tous leaulz crestiens le Pere et le Fils et le Saint Esperit. Amen.
                         <lb/>Cy finent les hystores rommaines abregies, prinses sur Titus Livius, sur Lucan, Orose, sur Suetoine et sur aultres pluseurs aucteurs, depuis la fondation de Romme jusques au temps de Constantin le Grant, empereur d’icelle, ainsi abregies et achevees a Hesdin le XIXe jour de novembre l’an de grace mil IIIIC LIIII.</explicit>
@@ -3451,15 +3447,14 @@
                   <msItem>
                     <locus>f. 72v - f. 133</locus>
                     <title>III<hi rend="sup">e</hi> décade</title>
-                    <incipit>De la cause de la IIe guerre punique premier chapitre <foreign>(rubr.)</foreign>
+                    <incipit><seg type="rubric">De la cause de la IIe guerre punique premier chapitre</seg>
                       <lb/>Cartaige estoit une cité tres noble et tres puissant assise en Affrique sur la mer la ou orendroit est la cité de...</incipit>
                     <explicit>...et fut lors Scipion nommé Scipion l’Affriquan et fut le premier qui print nom de province par lui conquise ou final et XXVIIe chapitre du Xe livre de la IIe decade de Thiti Livi.</explicit>
                   </msItem>
                   <msItem>
                     <locus>f. 133-173</locus>
                     <title>IV<hi rend="sup">e</hi> décade</title>
-                    <incipit>Comment li Rommain prindrent les armes contre le roy Phelippe de Macedoine et furent par les Gaules desconfiz premier chapitre
-                      <foreign>(rubr.)</foreign>. <pb n="f. 133v"/> Aprés la paix punique sourdy la guerre macedonique qui grande estoit pour cause de la grandeur de leur empire...</incipit>
+                    <incipit><seg type="rubric">Comment li Rommain prindrent les armes contre le roy Phelippe de Macedoine et furent par les Gaules desconfiz premier chapitre.</seg> <pb n="f. 133v"/> Aprés la paix punique sourdy la guerre macedonique qui grande estoit pour cause de la grandeur de leur empire...</incipit>
                     <explicit>...la province des Liguriens et en aprés furent aux autres magistras a chascun baillee sa province es XVI, XVIIes et final chapitre du IXe et derrenier livre de la IIIe decade de Thiti Livi. <foreign>Et sic finis huius operis, etc.</foreign></explicit>
                   </msItem>
                 </msContents>
@@ -3574,7 +3569,7 @@
             </listBibl>
             <div type="edition">
               <head>Édition</head>
-              <div type="dedicade prologue">
+              <div type="dedicade_prologue">
                 <head>Dédicace et prologue</head>
                 <bibl>Paris, Bibl. nat. de Fr., Rés. J. 365</bibl>
                 <p>Au treschrestien roy de France, Robert Guaguin, ministre general de l’ordre de saincte Trinité et redemption des prisonniers chrestiens, dit et desire en toute humilité honneur, gloire et longue vie.</p>

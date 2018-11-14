@@ -16217,8 +16217,12 @@
                   </div>
                 </div>
               </div>
-              <!-- TODO: FD, on fait quoi de cette mention ? -->
-              <item><ref target="#kbr_9234">Bruxelles, Bibl. royale de Belgique, 9234 (de D. 3.1 à D. 4.6)</ref></item>
+              <!-- TODO: FD, on fait quoi de cette mention ? - <item> = 2e objet d'une liste théorique dont la div[not(@*)] précédente est le premier item théorique. J'ai ajouté div et list pour coller à la structure suivante. -->
+              <div>
+                <list type="listMs">
+                  <item><ref target="#kbr_9234">Bruxelles, Bibl. royale de Belgique, 9234 (de D. 3.1 à D. 4.6)</ref></item>
+                </list>
+              </div>
             </div>
           </div>
         </div>

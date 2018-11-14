@@ -149,14 +149,13 @@
                 <msItem>
                   <locus>f. 3</locus>
                   <title>Prologue de l’auteur au livre I</title>
-                  <incipit>Issi comence le proeme de Vegece le philesophe de Rome al emperere Trajan du livre ke il fist de choses ke apartenent a chivalerie e de tute maneres de batailles auncienes lequel livre chescun prince de tere devereit aver
-                    <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Issi comence le proeme de Vegece le philesophe de Rome al emperere Trajan du livre ke il fist de choses ke apartenent a chivalerie e de tute maneres de batailles auncienes lequel livre chescun prince de tere devereit aver</seg>
                     <lb/>Al ancian tens fu la custume de philosophes de mettre en escrit les bones ars e quant il aveient fet lur livres si les presentayent as princes Kar ren n’est a droyt comencé si premerement aprés Deu ki la science done si l’emperere ou li prince de la tere nel otreye...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 3v-19</locus>
                   <title>Texte</title>
-                  <incipit>Ici comence li auctor de la chivalerie de Rome <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Ici comence li auctor de la chivalerie de Rome</seg>
                     <lb/>Isci comence Vegece sun livre e dit ki les Romeyns conquirent tot le munde e totes les terres solement par usage de armes e par mestrie de ost e par us de chevalerie.</incipit>
                   <explicit>...kar plus profitable chose de aprendre les soens des armes ke allower autres trop cher.</explicit>
                 </msItem>
@@ -165,7 +164,7 @@
                 <locus>f. 19-36v</locus>
                 <title>Livre II</title>
                 <incipit>Si commence le second livre de Flavian e Vexare e Renate de epitome de comentaries et des institucions de chose ke apent a chivalerie e ensement de Trajan e de Adrian e de Frontin augmentatus
-                  <lb/>Les establissemenz <foreign>(rubr.)</foreign>
+                  <lb/><seg type="rubric">Les establissemenz</seg>
                   <lb/>En cest premer chapitre del second livre dist li auctor ke l’em deit retenir les establissemenz...</incipit>
                 <explicit>...en quel leu ke il viengnet la ou hebergerie est fait k’il facent cité armee.</explicit>
               </msItem>
@@ -178,8 +177,7 @@
               <msItem>
                 <locus>f. 73-90</locus>
                 <title>Livre IV</title>
-                <incipit>Les chapitres del quart livre
-                  <foreign>(rubr.)</foreign>
+                <incipit><seg type="rubric">Les chapitres del quart livre</seg>
                   <lb/>Ci finist le tiers livre e comence le premer chapitre del quart livre Touz citez e touz chastels ou il sunt garniz par nature ou par mein ovre ou par l’un e l’autre...</incipit>
                 <explicit>...les sages chivalers ki combatent en nef usent de cel arme chescun jour.</explicit>
               </msItem>
@@ -266,7 +264,7 @@
               <idno>2916</idno>
               <msName type="sigle" resp="Löfstedt">N</msName>
             </msIdentifier>
-            <p>Es temps anciens l’usaige et coustume des saiges clers et grans philosophes et autres gens labourieux fut de eulx applicquer et donner a investiguer, cerchier <pb n="f. 1v"/> et de tout leur pouoir estudier a trouver ars et sciences qui fussent bonnes, valables et prouffitables a l’usaige et utillité du bien commun et de la chose publicque ; et quant ilz avoyent quelque art ou autre chose trouvee, ilz le mectoient en escript et en fasoient livres ou traictez, lesquelz ilz presentoient ou faisoient presenter aux empereurs, roys, princes et autres grans seigneurs, car nulle chose n’est bien ne deuement et ordonneement faicte ce, aprés ce qu’on a rendu et exibé a Dieu louenges et devoirs en quoy nature humaine est tenue et obligee, se on ne baille honneurs et reverances a l’empereur, roys et autres princes, et leur doit on favouriser du tout en tout ; et aussi a eulx mieulx appartient et doit appartenir que a nulx autres sçavoir sciences et autres subtillités honnestes. Et pareillement n’est rien plus sinistre, pire ne mauvais que d’empereur, roy ou prince plain de mal art et remply d’iniquité ou mauvaistié, car l’exemple ou les exemples et doctrines d’eulx peult prouffiter aux sages quant elle est bien conduite et riglee et aussi nuyre quant elle est mauvaise, car le peuple se conduit a l’exemple d’eulx. Et pour ung singulier exemple et mirouer de doctrine te baille le grant et famé empereur Octovien qui fut si actrempé et si bien se conduit qu’il fut seul empereur et souverain de tout le monde et acquist ce nom auguste, qui est a dire conquerant ou acroissant, car tout le monde lui fist hommaige et paya treu, et aussi pluseurs autres empereurs et princes tresvertueus qui durant leurs regnes et imperiaultez les <pb n="f. 2"/> subjects et peuples se conduisoi[en]t treshonnorablement. Et doncques pour ces choses ja alleguees et dictes, je suis constraint et aussi quant je considere ta clemence et debonnaireté me suis enhardy de mectre par escript au mains mal que faire je pourray selon les ditz des anciens, et aussi pource que je suis plus bas ou mendres qu’ilz ne furent, me suis entremis de parler du fait des armes par livres et par chappitres au plus briefvement que je pourray selon les faiz anciens et les aucteurs de chevalerie. Si ne convient il pas en ceste oeuvre seulement user de beauté de parolles, mais y convient travail ententif, pource que les choses celees es hystoires de divers acteurs qui enseignent la science des armes puissent estre mises en estat pour le commun prouffit des gens. Pour ce nous efforcerons nous a mectre par tiltres et par chappitres et monstrer la coustume que les anciens avoient a eslire et a eslever nouveaulx chevaliers, non pas pour ce, empereur, que tu fusses oncques deceu et que tu ne saches bien ces choses, car ainsi comme tu les ordonnes de ta bonté pour le saulvement du commun, ainsi les tindrent et garderent jadis ceulx qui firent l’empire de Romme, mais pource que tu puisses trouver en ce petit livret ce que tu croiz, quant doiz querre des choses tresgrans et qui tousjours ont mestier.</p>
+            <msContents><p>Es temps anciens l’usaige et coustume des saiges clers et grans philosophes et autres gens labourieux fut de eulx applicquer et donner a investiguer, cerchier <pb n="f. 1v"/> et de tout leur pouoir estudier a trouver ars et sciences qui fussent bonnes, valables et prouffitables a l’usaige et utillité du bien commun et de la chose publicque ; et quant ilz avoyent quelque art ou autre chose trouvee, ilz le mectoient en escript et en fasoient livres ou traictez, lesquelz ilz presentoient ou faisoient presenter aux empereurs, roys, princes et autres grans seigneurs, car nulle chose n’est bien ne deuement et ordonneement faicte ce, aprés ce qu’on a rendu et exibé a Dieu louenges et devoirs en quoy nature humaine est tenue et obligee, se on ne baille honneurs et reverances a l’empereur, roys et autres princes, et leur doit on favouriser du tout en tout ; et aussi a eulx mieulx appartient et doit appartenir que a nulx autres sçavoir sciences et autres subtillités honnestes. Et pareillement n’est rien plus sinistre, pire ne mauvais que d’empereur, roy ou prince plain de mal art et remply d’iniquité ou mauvaistié, car l’exemple ou les exemples et doctrines d’eulx peult prouffiter aux sages quant elle est bien conduite et riglee et aussi nuyre quant elle est mauvaise, car le peuple se conduit a l’exemple d’eulx. Et pour ung singulier exemple et mirouer de doctrine te baille le grant et famé empereur Octovien qui fut si actrempé et si bien se conduit qu’il fut seul empereur et souverain de tout le monde et acquist ce nom auguste, qui est a dire conquerant ou acroissant, car tout le monde lui fist hommaige et paya treu, et aussi pluseurs autres empereurs et princes tresvertueus qui durant leurs regnes et imperiaultez les <pb n="f. 2"/> subjects et peuples se conduisoi[en]t treshonnorablement. Et doncques pour ces choses ja alleguees et dictes, je suis constraint et aussi quant je considere ta clemence et debonnaireté me suis enhardy de mectre par escript au mains mal que faire je pourray selon les ditz des anciens, et aussi pource que je suis plus bas ou mendres qu’ilz ne furent, me suis entremis de parler du fait des armes par livres et par chappitres au plus briefvement que je pourray selon les faiz anciens et les aucteurs de chevalerie. Si ne convient il pas en ceste oeuvre seulement user de beauté de parolles, mais y convient travail ententif, pource que les choses celees es hystoires de divers acteurs qui enseignent la science des armes puissent estre mises en estat pour le commun prouffit des gens. Pour ce nous efforcerons nous a mectre par tiltres et par chappitres et monstrer la coustume que les anciens avoient a eslire et a eslever nouveaulx chevaliers, non pas pour ce, empereur, que tu fusses oncques deceu et que tu ne saches bien ces choses, car ainsi comme tu les ordonnes de ta bonté pour le saulvement du commun, ainsi les tindrent et garderent jadis ceulx qui firent l’empire de Romme, mais pource que tu puisses trouver en ce petit livret ce que tu croiz, quant doiz querre des choses tresgrans et qui tousjours ont mestier.</p></msContents>
           </msDesc>
         </div>
         <div type="incipit">
@@ -1303,15 +1301,13 @@
                 <msItem>
                   <title>Prologue du livre III</title>
                   <locus>f. 19c</locus>
-                  <incipit>Ci comence le prologue dou tiers livre qui nos enseigne l’estre et la faire de l’ost et des batailles.
-                    <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Ci comence le prologue dou tiers livre qui nos enseigne l’estre et la faire de l’ost et des batailles.</seg>
                     <lb/>Les anciens livres qui se noment annali demostrent que ceaus de Athenes et de Macedoine estoient sages de toutes choses sur ceaus de Gresse...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 20a-38c</locus>
                   <title>Texte</title>
-                  <incipit>En quel maniere doit estre d’ost.
-                    <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">En quel maniere doit estre d’ost.</seg>
                     <lb/>Le premier livre nos promist le eslisement et l’euvrement des tirons et li segons livre qui nos enseigne l’ordenement de la legion et la descipline des homes d’armes...</incipit>
                   <explicit>Come ce soit chose que elles soient creus d’estre proufitable a tous <lb/>Ci comensent les chapistres dou quart livre et parollent premierement coment les cités doivent estre garnies. <foreign>(rubr.)</foreign></explicit>
                 </msItem>
@@ -1326,7 +1322,7 @@
                 <msItem>
                   <locus>f. 38c-47a</locus>
                   <title>Texte</title>
-                  <incipit>Les cités doivent estre garnies par nature ou par euvre. <foreign>(rubr.)</foreign>
+                  <incipit><seg type="rubric">Les cités doivent estre garnies par nature ou par euvre.</seg>
                     <lb/>Bien sachiés que les cités et les chastiaus sont garnis par nature ou par la main de l’ome...</incipit>
                   <explicit>...car en celle assiduel usance y trova plus d’art que l’anciene doctrine ne demostra.</explicit>
                 </msItem>
@@ -1417,7 +1413,7 @@
                 <idno>Royal 20 B I</idno>
                 <msName type="sigle" resp="Löfstedt">L</msName>
               </msIdentifier>
-              <p><locus>f. 3b-d</locus>Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier mostre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes. Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont.</p>
+              <msContents><p><locus>f. 3b-d</locus>Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier mostre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes. Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont.</p></msContents>
             </msDesc>
           </div>
           <div corresp="#bl_royal20bi" type="prologue">
@@ -1430,7 +1426,7 @@
                 <idno>Royal 20 B I</idno>
                 <msName type="sigle" resp="Löfstedt">L</msName>
               </msIdentifier>
-              <p><locus>f. 4a-b</locus>Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace, c’est Dieu, et apele ce livre le livre de l’excercitation, c’est a dire le livre de l’usage, d’armes.</p>
+              <msContents><p><locus>f. 4a-b</locus>Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace, c’est Dieu, et apele ce livre le livre de l’excercitation, c’est a dire le livre de l’usage, d’armes.</p></msContents>
             </msDesc>
           </div>
         </div>
@@ -1949,7 +1945,7 @@
                   <msName type="sigle" resp="Piaget">A</msName>
                 </msIdentifier>
               </msDesc>
-              <msDesc xml:id="fr_12787" source="https://gallica.bnf.fr/ark:/12148/btv1b9061778n" type="witList"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12787" source="https://gallica.bnf.fr/ark:/12148/btv1b9061778n" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>

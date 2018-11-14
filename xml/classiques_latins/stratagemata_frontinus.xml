@@ -207,7 +207,7 @@
                     <msItem>
                       <locus>f. 62v-73v</locus>
                       <title>Texte</title>
-                      <incipit>L’acteur <foreign>(rubr.)</foreign>
+                      <incipit><seg type="rubric">L’acteur</seg>
                         <lb/>Frontin dist en son premier livre que Scipion l’Auffrican envoya en l’ost du roy Sciphas ung <sic>luy</sic> et avec ce des plus subtilz espices qui avec luy fussent pour mieux regarder et considerer la force et l’estat de celui roy et de son host...</incipit>
                       <explicit>Scipio l’Auffricant disoit que on ne devoit pas sans plus donner voye a son ennemy de fouyr mais luy aydier a le faire et a che trouver accoison. <lb/>Explicit de Frontin.</explicit>
                     </msItem>
@@ -341,8 +341,8 @@
                 <msItem>
                   <locus>f. 26c-55d</locus>
                   <title>Texte</title>
-                  <incipit>Le premier cappittre est de savoir eslire temps couvenable pour une bataille <foreign>(rubr.)</foreign>
-                    <lb/>Publius Cornelius <foreign>(rubr.)</foreign> [Q]uant Publius Cornelius Scipion l’Affrican en Espaigne voult combatre Hastrubal des le matin estoit entré ou champ sans avoir fait desjeuner son ost...</incipit>
+                  <incipit><seg type="rubric">Le premier cappittre est de savoir eslire temps couvenable pour une bataille
+                    <lb/>Publius Cornelius</seg> [Q]uant Publius Cornelius Scipion l’Affrican en Espaigne voult combatre Hastrubal des le matin estoit entré ou champ sans avoir fait desjeuner son ost...</incipit>
                   <explicit>Il cuida que la bonne fortune lui ostast son ennemy et qu’elle l’emportast Si s’en retourna sans plus le poursuir.</explicit>
                 </msItem>
               </msItem>
@@ -356,8 +356,8 @@
                 <msItem>
                   <locus>f. 56b-83a</locus>
                   <title>Texte</title>
-                  <incipit>Le premier chappitre parle des manieres de aler <sic>soudaniement</sic> donner l’assault <foreign>(rubr.)</foreign>
-                    <lb/><foreign>Titus Quintus</foreign> (rubr.) Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
+                  <incipit><seg type="rubric">Le premier chappitre parle des manieres de aler <sic>soudaniement</sic> donner l’assault
+                    <lb/><foreign>Titus Quintus</foreign></seg> Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
                   <explicit>...et furent soudainement ruez jus et desconfiz tous en ung jour et par mer et par terre.</explicit>
                 </msItem>
               </msItem>
