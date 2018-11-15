@@ -649,18 +649,16 @@
         <dateline>
           <date notBefore="1460" notAfter="1470">vers 1460-1470</date>
         </dateline>
-        <p>« Version fragmentaire suite à la perte d'un double feuillet qui devait contenir la présentation presque complète des accidents du pronom et la première partie de l'exposé sur le verbe » (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 217). On y retrouve les ajouts habituels, parfois enrichis. Cette version « est rédigée uniquement en français (sauf naturellement pour la plupart des exemples et les
-          <foreign>versus</foreign>), ce qui la différencie des versions manuscrites et la rapproche plutôt de l'autre version imprimée » (<foreign>ibidem</foreign>).</p>
+        <p>« Version fragmentaire suite à la perte d'un double feuillet qui devait contenir la présentation presque complète des accidents du pronom et la première partie de l'exposé sur le verbe » (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 217). On y retrouve les ajouts habituels, parfois enrichis. Cette version « est rédigée uniquement en français (sauf naturellement pour la plupart des exemples et les <foreign>versus</foreign>), ce qui la différencie des versions manuscrites et la rapproche plutôt de l'autre version imprimée » (<foreign>ibidem</foreign>).</p>
         <listBibl>
-          <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans
-            <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
+          <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
           <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 218-224</bibl>
           <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
         </listBibl>
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="timelli_1" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc xml:id="impr_timelli_1" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>
@@ -707,7 +705,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="timelli_2" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc xml:id="impr_timelli_2" n="incipit" type="contents"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>

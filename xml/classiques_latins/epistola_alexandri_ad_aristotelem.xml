@@ -214,7 +214,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" sameAs="epitome_julius_valerius_polemius.xml#kbr_11104-05" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11104-05" sameAs="epitome_julius_valerius_polemius.xml#kbr_11104-05" type="double"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>

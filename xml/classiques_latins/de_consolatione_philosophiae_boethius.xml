@@ -1281,7 +1281,7 @@
                 </history>
                 <additional><adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo></additional>
               </msDesc>
-              <msDesc xml:id="fr_1543" sameAs="stratagemata_frontinus.xml#fr_1543" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_1543" sameAs="stratagemata_frontinus.xml#fr_1543" type="double"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -3399,7 +3399,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12238" source="https://gallica.bnf.fr/ark:/12148/btv1b9061667h" type="contents"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_12238" type="contents"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -4491,7 +4491,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="nafr_20001" source="http://gallica.bnf.fr/ark:/12148/btv1b60003741" type="contents"><!-- type="biblissima" -->
+              <msDesc xml:id="nafr_20001" source="http://gallica.bnf.fr/ark:/12148/btv1b60003741" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -5599,7 +5599,7 @@
                   </listBibl>
                 </additional>
               </msDesc>
-              <msDesc xml:id="fr_12238.2" sameAs="#fr_12238" type="main"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_12238" source="https://gallica.bnf.fr/ark:/12148/btv1b9061667h" type="main"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>

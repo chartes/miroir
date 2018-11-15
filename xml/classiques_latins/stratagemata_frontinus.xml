@@ -262,7 +262,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition F. Desonay</bibl>
-            <msDesc xml:id="kbr_18210-5" type="contents"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_18210-5" type="main"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -281,12 +281,13 @@
                   <explicit>... Et quant Vesasius vist son avantaige il yssy a toute sa force et ochist Hasdrubal et desconffit tout son ost Et cy finent les strantegemens que j’ay trais de Frontin ouquel livre en a pluiseurs sy les porra la veoir qui vouldra car je n’ay peu tout extraire voir est qu’il y a aucunes tresnotables parolles que je ne vueil pas laissier ou tous les princes et gouverneurs de guerre se ilz les retiennent y porront moult prouffiter.</explicit>
                 </msItem>
               </msContents>
+              <additional>
+                <listBibl>
+                  <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 483-485</bibl>
+                  <bibl>M. Lecourt, « Une source d’Antoine de La Sale : Simon de Hesdin », dans <title>Romania</title>, t. 76, 1955, p. 39-83, 183-211</bibl>
+                </listBibl>
+              </additional>
             </msDesc>
-            <listBibl>
-              <bibl>R. Bossuat, « Jean de Rouvroy, traducteur des Stratagèmes de Frontin », dans <title>Bibliothèque d’humanisme et renaissance</title>, t. 22, 1960, p. 483-485</bibl>
-              <bibl>M. Lecourt, « Une source d’Antoine de La Sale : Simon de Hesdin », dans
-                <title>Romania</title>, t. 76, 1955, p. 39-83, 183-211</bibl>
-            </listBibl>
           </div>
         </div>
       </div>
@@ -499,7 +500,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693" type="double"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -581,7 +582,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235" type="double"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

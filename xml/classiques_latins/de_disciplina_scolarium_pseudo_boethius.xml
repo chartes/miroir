@@ -108,7 +108,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lille_388" sameAs="remedia_amoris_ovidius.xml#lille_388" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="lille_388" sameAs="remedia_amoris_ovidius.xml#lille_388" type="double"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Lille</settlement>
                 <repository>bibl. mun.</repository>
