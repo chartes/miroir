@@ -88,7 +88,7 @@
         <div type="edition">
           <head>Transcription des deux premiers chapitres</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_11104-05" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -112,7 +112,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_11104-05" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -130,7 +130,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11104-05"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>

@@ -98,7 +98,7 @@
           <head>Conspectus siglorum</head>
           <witness xml:id="A">
             <ref target="#fr_498">
-              <msDesc corresp="#fr_498" type="listWit">
+              <msDesc corresp="#fr_498">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -111,7 +111,7 @@
           </witness>
           <witness xml:id="F">
             <ref target="#fr_22970">
-              <msDesc corresp="#fr_22970" type="listWit">
+              <msDesc corresp="#fr_22970">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -126,7 +126,7 @@
           </witness>
           <witness xml:id="L">
             <ref target="#kbr_10467">
-              <msDesc corresp="#kbr_10467" type="listWit">
+              <msDesc corresp="#kbr_10467">
                 <msIdentifier>
                   <country>Belgique</country>
                   <settlement>Bruxelles</settlement>
@@ -141,7 +141,7 @@
           </witness>
           <witness xml:id="O">
             <ref target="#bl_royal20">
-              <msDesc corresp="#bl_royal20" type="listWit">
+              <msDesc corresp="#bl_royal20">
                 <msIdentifier>
                   <country>Angleterre</country>
                   <settlement>London</settlement>
@@ -366,7 +366,7 @@
               <head>Manuscrits</head>
               <div>
                 <head>Bruxelles, Bibl. royale de Belgique, 10467</head>
-                <msDesc xml:id="kbr_10467" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="kbr_10467"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>Belgique</country>
                     <settlement>Bruxelles</settlement>
@@ -1412,7 +1412,7 @@
               </div>
               <div>
                 <head>London, British Libr., Royal 20.D.IX</head>
-                <msDesc  xml:id="bl_royal20" type="main"><!--type="biblissima"-->
+                <msDesc  xml:id="bl_royal20"><!--type="biblissima"-->
                   <msIdentifier>
                     <country>Angleterre</country>
                     <settlement>London</settlement>
@@ -3653,7 +3653,7 @@
               </div>
               <div>
                 <head>Paris, Bibl. nat. de Fr., fr. 498</head>
-                <msDesc xml:id="fr_498" source="http://gallica.bnf.fr/ark:/12148/btv1b8447185s" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="fr_498" source="http://gallica.bnf.fr/ark:/12148/btv1b8447185s"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -5991,7 +5991,7 @@
               </div>
               <div>
                 <head>Paris, Bibl. nat. de Fr., fr. 22970</head>
-                <msDesc xml:id="fr_22970" source="http://gallica.bnf.fr/ark:/12148/btv1b8447870r" type="main"><!-- type="biblissima" -->
+                <msDesc xml:id="fr_22970" source="http://gallica.bnf.fr/ark:/12148/btv1b8447870r"><!-- type="biblissima" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>

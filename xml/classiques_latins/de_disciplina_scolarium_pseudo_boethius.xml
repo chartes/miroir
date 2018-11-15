@@ -90,7 +90,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#lille_388" n="incipit" type="contents">
+          <msDesc corresp="#lille_388" n="incipit">
             <msIdentifier>
               <settlement>Lille</settlement>
               <repository>bibl. mun.</repository>
@@ -108,7 +108,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lille_388" sameAs="remedia_amoris_ovidius.xml#lille_388" type="double"><!-- type="biblissima" -->
+            <msDesc xml:id="lille_388" sameAs="remedia_amoris_ovidius.xml#lille_388"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Lille</settlement>
                 <repository>bibl. mun.</repository>

@@ -90,7 +90,7 @@
         <div type="edition">
           <head>Transcription du début du texte</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#kbr_14561-4" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_14561-4"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -107,7 +107,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_14561-4" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_14561-4" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -126,7 +126,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_14561-4" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_14561-4"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -170,7 +170,7 @@
         <div type="edition">
           <head>Transcription du début du texte</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#kbr_11104-05" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -190,7 +190,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_11104-05" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -214,7 +214,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_11104-05" sameAs="epitome_julius_valerius_polemius.xml#kbr_11104-05" type="double"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_11104-05" sameAs="epitome_julius_valerius_polemius.xml#kbr_11104-05"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>

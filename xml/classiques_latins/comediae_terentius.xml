@@ -100,7 +100,7 @@
           <head>Incipit</head>
           <bibl>le manuscrit et l’édition d’Antoine Vérard</bibl>
           <p>Les titres français donnés à la suite des titres latins sont tirés de l’édition Vérard. Les titres donnés par le manuscrit apparaissent à la suite de l’argument.</p>
-          <msDesc corresp="#nafr_4804" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_4804" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -268,7 +268,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="nafr_4804" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_4804"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -342,7 +342,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl><publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1490" notAfter="1510">vers 1500</date></bibl>
-          <msDesc xml:id="impr_comediae_verard" type="contents">
+          <msDesc xml:id="impr_comediae_verard" type="incunabulum">
             <msIdentifier>
               <settlement/>
               <repository/>

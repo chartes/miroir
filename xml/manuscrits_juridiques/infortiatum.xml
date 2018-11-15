@@ -84,7 +84,7 @@
         <p>Cette traduction anonyme nous est transmise par deux témoins: <listWit>
           <witness xml:id="B">
             <ref target="#bordeaux_354">
-              <msDesc corresp="#bordeaux_354" type="listWit">
+              <msDesc corresp="#bordeaux_354">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Bordeaux</settlement>
@@ -99,7 +99,7 @@
           </witness>
           <witness xml:id="R">
             <ref target="#rouen_794">
-              <msDesc corresp="#rouen_794" type="listWit">
+              <msDesc corresp="#rouen_794">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Rouen</settlement>
@@ -160,7 +160,7 @@
           <div type="manuscrit">
             <list type="listMs">
               <item><!-- xml:id="bordeaux_354" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" -->
-                <msDesc xml:id="bordeaux_354" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" type="main"><!-- type="manifestation_singleton" -->
+                <msDesc xml:id="bordeaux_354" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Bordeaux</settlement>
@@ -914,7 +914,7 @@
                 </div>
               </item>
               <item><!--  corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32" -->
-                <msDesc xml:id="rouen_794" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32" type="main"><!-- type="manifestation_singleton" -->
+                <msDesc xml:id="rouen_794" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Rouen</settlement>

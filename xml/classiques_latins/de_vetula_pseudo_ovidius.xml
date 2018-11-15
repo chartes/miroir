@@ -93,7 +93,7 @@
         <div type="edition_epilogue">
           <head>Epilogue</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_881" n="epilogue" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_881" n="epilogue"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -116,7 +116,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_881" n="incipit" type="contents"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_881" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -163,7 +163,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_2327" n="incipit" type="contents"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_2327" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -190,7 +190,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <p>d'après le ms</p>
-            <msDesc corresp="#fr_19138" n="incipit" type="contents"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_19138" n="incipit"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -216,7 +216,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="fr_881" source="http://gallica.bnf.fr/ark:/12148/btv1b8449041w" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_881" source="http://gallica.bnf.fr/ark:/12148/btv1b8449041w"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -249,7 +249,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_2327" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_2327"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -271,7 +271,7 @@
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_19138" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_19138"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>

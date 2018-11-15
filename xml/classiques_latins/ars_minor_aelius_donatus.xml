@@ -92,7 +92,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#bern_439" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#bern_439" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bern</settlement>
               <repository>Burgerbibl.</repository>
@@ -110,7 +110,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="bern_439" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bern_439"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bern</settlement>
                 <repository>Burgerbibl.</repository>
@@ -159,7 +159,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#lat_14095" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#lat_14095" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -177,7 +177,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="lat_14095" source="https://gallica.bnf.fr/ark:/12148/btv1b10034660q" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="lat_14095" source="https://gallica.bnf.fr/ark:/12148/btv1b10034660q"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -229,7 +229,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#mazarine3794" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#mazarine3794" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. Mazarine</repository>
@@ -247,7 +247,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="mazarine3794" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="mazarine3794"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. Mazarine</repository>
@@ -295,7 +295,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#mazarine3794" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#mazarine3794" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>bibl. Mazarine</repository>
@@ -313,7 +313,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2" type="double"><!-- type="biblissima" -->
+            <msDesc sameAs="#mazarine3794" xml:id="mazarine3794.2"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. Mazarine</repository>
@@ -360,7 +360,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#bav_lat1479" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#bav_lat1479" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Vaticano</settlement>
               <repository>Bibl. apostolica Vaticana</repository>
@@ -378,7 +378,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="bav_lat1479" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="bav_lat1479"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
@@ -429,7 +429,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#salins_44" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#salins_44" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Salins</settlement>
               <repository>bibl. mun.</repository>
@@ -447,7 +447,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="salins_44" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="salins_44"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Salins</settlement>
                 <repository>bibl. mun.</repository>
@@ -523,7 +523,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#nafr_1120" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_1120" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -541,7 +541,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="nafr_1120" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_1120"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -593,7 +593,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc corresp="#nafr_4690" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_4690" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -611,7 +611,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="nafr_4690" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="nafr_4690"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -658,7 +658,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="impr_timelli_1" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc xml:id="impr_timelli_1" n="incipit" type="incunabulum"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>
@@ -705,7 +705,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition M. Colombo Timelli</bibl>
-          <msDesc xml:id="impr_timelli_2" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc xml:id="impr_timelli_2" n="incipit" type="incunabulum"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement/>
               <repository/>

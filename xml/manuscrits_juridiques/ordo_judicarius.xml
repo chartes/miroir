@@ -88,7 +88,7 @@
             <head>Conspectus siglorum</head>
             <witness xml:id="A">
               <ref target="#kbr_21227"><!-- Pour renvoyer à la notice -->
-                <msDesc corresp="#kbr_21227" type="listWit">
+                <msDesc corresp="#kbr_21227">
                   <msIdentifier>
                     <country>Belgique</country>
                     <settlement>Bruxelles</settlement>
@@ -103,7 +103,7 @@
             </witness>
             <witness xml:id="B">
               <ref target="#metz_1196">
-                <msDesc corresp="#metz_1196" type="listWit">
+                <msDesc corresp="#metz_1196">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Metz</settlement>
@@ -118,7 +118,7 @@
             </witness>
             <witness xml:id="C">
               <ref target="#marston_228">
-                <msDesc corresp="#marston_228" type="listWit">
+                <msDesc corresp="#marston_228">
                   <msIdentifier>
                     <country>Etats-Unis</country>
                     <settlement>New Haven</settlement>
@@ -132,7 +132,7 @@
             </witness>
             <witness xml:id="D">
               <ref target="#fr_1073">
-                <msDesc corresp="#fr_1073" type="listWit">
+                <msDesc corresp="#fr_1073">
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -146,7 +146,7 @@
             </witness>
             <witness xml:id="E">
               <ref target="#fr_1074">
-                <msDesc corresp="#fr_1074" type="listWit">
+                <msDesc corresp="#fr_1074">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -161,7 +161,7 @@
             </witness>
             <witness xml:id="F">
               <ref target="#fr_1075">
-                <msDesc corresp="#fr_1075" type="listWit">
+                <msDesc corresp="#fr_1075">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -176,7 +176,7 @@
             </witness>
             <witness xml:id="G">
               <ref target="#fr_25546">
-                <msDesc corresp="#fr_25546" type="listWit">
+                <msDesc corresp="#fr_25546">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -191,7 +191,7 @@
             </witness>
             <witness xml:id="H">
               <ref target="#nafr_10046">
-                <msDesc corresp="#nafr_10046" type="listWit">
+                <msDesc corresp="#nafr_10046">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Paris</settlement>
@@ -206,7 +206,7 @@
             </witness>
             <witness xml:id="I">
               <ref target="#stomer_545">
-                <msDesc corresp="#stomer_545" type="listWit">
+                <msDesc corresp="#stomer_545">
                   <msIdentifier>
                     <country>France</country>
                     <settlement>Saint-Omer</settlement>
@@ -640,7 +640,7 @@
           <list type="listMs">
             <head>Copies existantes</head>
             <item corresp="ARK_manuscrit"><!-- xml:id="kbr_21227" -->
-              <msDesc xml:id="kbr_21227" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="kbr_21227"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>Belgique</country>
                   <settlement>Bruxelles</settlement>
@@ -1079,7 +1079,7 @@
               </div>
             </item>
             <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md38jd475j5s"><!-- xml:id="metz_1196" -->
-              <msDesc xml:id="metz_1196" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="metz_1196"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Metz</settlement>
@@ -1695,7 +1695,7 @@
               </div>
             </item>
             <item corresp="ARK_manuscrit"><!-- xml:id="marston_228" -->
-              <msDesc xml:id="marston_228" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="marston_228"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>Etats-Unis</country>
                   <settlement>New Haven</settlement>
@@ -2135,7 +2135,7 @@
               </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596684"><!-- xml:id="fr_1073" -->
-              <msDesc xml:id="fr_1073" source="https://gallica.bnf.fr/ark:/12148/btv1b90596684" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_1073" source="https://gallica.bnf.fr/ark:/12148/btv1b90596684"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -2569,7 +2569,7 @@
               </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059667q"><!-- xml:id="fr_1074" -->
-              <msDesc xml:id="fr_1074" source="https://gallica.bnf.fr/ark:/12148/btv1b9059667q" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_1074" source="https://gallica.bnf.fr/ark:/12148/btv1b9059667q"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -3001,7 +3001,7 @@
               </div>
             </item>
             <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596936"><!-- xml:id="fr_1075" -->
-              <msDesc xml:id="fr_1075" source="https://gallica.bnf.fr/ark:/12148/btv1b90596936" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_1075" source="https://gallica.bnf.fr/ark:/12148/btv1b90596936"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -3499,7 +3499,7 @@
               </div>
             </item>
             <item><!-- xml:id="fr_25546" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162"" -->
-              <msDesc xml:id="fr_25546" source="http://gallica.bnf.fr/ark:/12148/btv1b90075162" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="fr_25546" source="http://gallica.bnf.fr/ark:/12148/btv1b90075162"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -3978,7 +3978,7 @@
               </div>
             </item>
             <item corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000004652"><!--  xml:id="nafr_10046" -->
-              <msDesc xml:id="nafr_10046" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="nafr_10046"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -4441,7 +4441,7 @@
               </div>
             </item>
             <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md150g355d33"><!-- xml:id="stomer_545" -->
-              <msDesc xml:id="stomer_545" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="stomer_545"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Saint-Omer</settlement>
@@ -4887,7 +4887,7 @@
           <list type="deperdita">
             <head>Manuscrits détruits</head>
             <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md945q47v99n"><!-- xml:id="chartres_212" -->
-              <msDesc xml:id="chartres_212" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="chartres_212"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Chartres</settlement>
@@ -4951,7 +4951,7 @@
               </msDesc>
             </item>
             <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md72b8518b0w"><!-- xml:id="tours_658" -->
-              <msDesc xml:id="tours_658" type="main"><!-- type="manifestation_singleton" -->
+              <msDesc xml:id="tours_658"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Tours</settlement>

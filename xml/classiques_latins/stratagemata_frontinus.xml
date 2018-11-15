@@ -98,7 +98,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml#fr_282" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml#fr_282"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -133,7 +133,7 @@
               <div type="incipit">
                 <head>Incipit</head>
                 <p>d'après le ms</p>
-                <msDesc corresp="#fr_1543" type="contents"><!-- type="biblissima" -->
+                <msDesc corresp="#fr_1543"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>Paris</settlement>
                     <repository>Bibl. nat. de Fr.</repository>
@@ -156,7 +156,7 @@
               <div type="manuscrit">
                 <head>Manuscrit</head>
                 <listBibl type="msList">
-                  <msDesc xml:id="fr_1543" source="http://gallica.bnf.fr/ark:/12148/btv1b90096858" type="main"><!-- type="biblissima" -->
+                  <msDesc xml:id="fr_1543" source="http://gallica.bnf.fr/ark:/12148/btv1b90096858"><!-- type="biblissima" -->
                     <msIdentifier>
                       <settlement>Paris</settlement>
                       <repository>Bibl. nat. de Fr.</repository>
@@ -192,7 +192,7 @@
               <div type="incipit">
                 <head>Incipit</head>
                 <p>d'après le ms</p>
-                <msDesc corresp="#br_add18179" type="contents"><!-- type="biblissima" -->
+                <msDesc corresp="#br_add18179"><!-- type="biblissima" -->
                   <msIdentifier>
                     <settlement>London</settlement>
                     <repository>British Libr.</repository>
@@ -217,7 +217,7 @@
               <div type="manuscrit">
                 <head>Manuscrit</head>
                 <listBibl type="msList">
-                  <msDesc  xml:id="br_add18179" type="main"><!-- type="biblissima" -->
+                  <msDesc  xml:id="br_add18179"><!-- type="biblissima" -->
                     <msIdentifier>
                       <settlement>London</settlement>
                       <repository>British Libr.</repository>
@@ -262,7 +262,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition F. Desonay</bibl>
-            <msDesc xml:id="kbr_18210-5" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_18210-5"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -309,7 +309,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1233" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1233" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -368,7 +368,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_24257" n="incipit" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_24257" n="incipit"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -391,7 +391,7 @@
         <div type="incipit">
           <head>Glossaire</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1234" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1234"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -408,7 +408,7 @@
         <div type="manuscrit">
           <head>Manuscrits</head>
           <listBibl type="msList">
-            <msDesc xml:id="kbr_10475" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="kbr_10475"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -444,7 +444,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="geneve_fr_171" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="geneve_fr_171"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Genève</settlement>
                 <repository>Bibl. publique et universitaire</repository>
@@ -475,7 +475,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="br_add12028" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="br_add12028"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>London</settlement>
                 <repository>British Libr.</repository>
@@ -500,7 +500,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693" type="double"><!-- type="biblissima" -->
+            <msDesc xml:id="arsenal_2693" sameAs="epitoma_rei_militaris_vegetius.xml#arsenal_2693"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>bibl. de l’Arsenal</repository>
@@ -526,7 +526,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1233" source="http://gallica.bnf.fr/ark:/12148/btv1b90591017" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1233" source="http://gallica.bnf.fr/ark:/12148/btv1b90591017"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -553,7 +553,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1234" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1234"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -582,7 +582,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235" type="double"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_1235" sameAs="epitoma_rei_militaris_vegetius.xml#fr_1235"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -610,7 +610,7 @@
                 </listBibl>
               </additional>
             </msDesc>
-            <msDesc xml:id="fr_24257" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="fr_24257"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -662,7 +662,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#s.Gravenhage73j22" type="contents"><!-- type="biblissima" -->
+          <msDesc corresp="#s.Gravenhage73j22"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>s’Gravenhage</settlement>
               <repository>Koninklijke Bibl.</repository>
@@ -686,7 +686,7 @@
         <div type="manuscrit">
           <head>Manuscrit</head>
           <listBibl type="msList">
-            <msDesc xml:id="s.Gravenhage73j22" type="main"><!-- type="biblissima" -->
+            <msDesc xml:id="s.Gravenhage73j22"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>s’Gravenhage</settlement>
                 <repository>Koninklijke Bibl.</repository>
