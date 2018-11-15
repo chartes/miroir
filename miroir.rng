@@ -17,45 +17,39 @@
   
   <!--
     JBC: questions générales:
-      
-      quels sont les champs OBLIGATOIRES ? mapping avec les notices EAD
-      
-      comment identifie-t-on un manuscrit (@ref ecodice, gallica, biblissima, etc.) ?
-      comment identifie-t-on une notice ? -> plusieurs notices pour un même manuscrit
-      
-      Établir le mapping des notices avec les principaux opérateurs
-        BnF: notices EAD (A. Tur)
-        BnF: http://archivesetmanuscrits.bnf.fr/
-        IRHT: http://bibale.irht.cnrs.fr/index.html
-      
-      Problème du linking entre notices redondantes: par ex. <idno>fr. 881</idno>
-        Réfléchir au modèle avec des notices décentralisées => notamment la place des msItem (incipit, explicit)
-        Quelles sont les parties de la notice qui ont vocation à être commentées ?
-      
-      Revoir le contenu de msContents => des choses différentes: summary|incipit|explicit|div + l’annotation (note ?)
-      
-      CCRR
-      http://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?failure=%2Fjsp%2Fpublic%2Ffailure.jsp&success=%2Fjsp%2Fpublic%2Findex.jsp&profile=public
-      ECODICES
-      http://www.e-codices.unifr.ch/xml/tei_published/bbb-0027.xml
+    
+    quels sont les champs OBLIGATOIRES ? mapping avec les notices EAD
+    
+    comment identifie-t-on un manuscrit (@ref ecodice, gallica, biblissima, etc.) ?
+    comment identifie-t-on une notice ? -> plusieurs notices pour un même manuscrit
+    
+    Établir le mapping des notices avec les principaux opérateurs
+    BnF: notices EAD (A. Tur)
+    BnF: http://archivesetmanuscrits.bnf.fr/
+    IRHT: http://bibale.irht.cnrs.fr/index.html
+    
+    Problème du linking entre notices redondantes: par ex. <idno>fr. 881</idno>
+    Réfléchir au modèle avec des notices décentralisées => notamment la place des msItem (incipit, explicit)
+    Quelles sont les parties de la notice qui ont vocation à être commentées ?
+    
+    Revoir le contenu de msContents => des choses différentes: summary|incipit|explicit|div + l’annotation (note ?)
+    
+    CCRR
+    http://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp?failure=%2Fjsp%2Fpublic%2Ffailure.jsp&success=%2Fjsp%2Fpublic%2Findex.jsp&profile=public
+    ECODICES
+    http://www.e-codices.unifr.ch/xml/tei_published/bbb-0027.xml
   -->
   
   <define name="msDesc">
     <!--
       les descriptions des mansucrits sont éparpillées dans les fichiers.
-      les lisBibl recensent les manuscrits avec leur description codicologique (physDesc).
-      les éditions (incipit, etc.) listent les contenus (msContents).
       Il faut pouvoir rétablir les notices dans leur intégralité ; y agréger d’autres contenus (BnF, etc.)
-      @type="main" : la notice maître
-      @type="contents": les contenus dispersés à agréger
+      msDesc[@xml:id] : la notice maître
+      msDesc[@corresp]: les éléments de notices à agréger à la notice maître
     -->
     <element name="msDesc">
       <a:documentation>Description d’un manuscrit</a:documentation>
-      <choice>
-        <a:documentation>Il s’agit soit du msDesc maître, soit de la notice complémentaire.</a:documentation>
-        <ref name="msDesc.main.atts"/>
-        <ref name="msDesc.contents.atts"/>
-      </choice>
+      <ref name="msDesc.atts"/>
       <ref name="msIdentifier"/>
       <optional>
         <ref name="msContents"/>
@@ -81,17 +75,23 @@
   <!--
     on cherche à distinguer les notices principales (maître) des notices secondaires
     les notices principales = //msDesc[@xml:id and not(sameAs)]
-      càd les notices identifiées comme maître dans un fichier et qui ne sont pas reproduites (@sameAs) dans un second fichier
-      TODO: réfléchir à la normalisation des atts (biblissima, singleton, main, etc.) -> @type est-il bien utile (préciser la sémantique : notice maître ou exhasutive ?) ?
+    càd les notices identifiées comme maître dans un fichier et qui ne sont pas reproduites (@sameAs) dans un second fichier
+    TODO: réfléchir à la normalisation des atts (biblissima, singleton, main, etc.) -> @type est-il bien utile (préciser la sémantique : notice maître ou exhasutive ?) ?
   -->
-  <define name="msDesc.main.atts">
-    <attribute name="type">
-      <a:documentation>Noter qu’il s’agit du msDesc maître</a:documentation>
-      <!-- sans doute l’équivalent dans l’intention de l’@ biblissima ("manifestation_singleton", puis "biblissima", déporté en commentaire en l’état. -->
-      <value>main</value>
-    </attribute>
-    <!-- Identifiant du manuscrit -->
-    <ref name="id-att"/>
+  <define name="msDesc.atts">
+    <choice>
+      <a:documentation>Obligatoire pour distinguer les notices maître (@xml:id) des notices à agréger (@corresp)</a:documentation>
+      <ref name="id-att"/>
+      <attribute name="corresp">
+        <data type="anyURI"/>
+      </attribute>
+    </choice>
+    <optional>
+      <attribute name="sameAs">
+        <a:documentation>Doublon de notice : lien vers la notice équivalente retenue comme notice de référence pour le projet</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
+    </optional>
     <optional>
       <attribute name="source">
         <a:documentation>Si possible, lien vers une notice d’autorité (BnF, eCodices, IRHT, ?)</a:documentation>
@@ -102,39 +102,19 @@
       <ref name="msDesc.n.att"/>
     </optional>
   </define>
-  <define name="msDesc.contents.atts">
-    <attribute name="type">
-      <a:documentation>Noter qu’il s’agit d’un msDesc complémentaire: description du contenu du manuscrit en général.</a:documentation>
-      <value>contents</value>
-    </attribute>
-    <attribute name="corresp">
-      <a:documentation>Un msDesc complémentaire doit nécessairement être lié à un msDesc maître.</a:documentation>
-      <data type="anyURI"/>
-    </attribute>
-    <optional>
-      <attribute name="source">
-        <a:documentation>Si possible, lien vers une notice d’autorité (BnF, eCodices, ?)</a:documentation>
-        <data type="anyURI"/>
-      </attribute>
-    </optional>
-    <optional>
-      <ref name="msDesc.n.att"/>
-    </optional>
-  </define>
+  
   <define name="msDesc.n.att">
-    <a:documentation>Temporaire. Tag abuse – stocker l’information initiale</a:documentation>
+    <a:documentation>TEMPORAIRE. Tag abuse – stocker l’information initiale</a:documentation>
     <attribute name="n">
       <choice>
+        <value>incunabulum</value>
+        <a:documentation>Temporaire: identifier les notices d’incunables</a:documentation>
         <value>incipit</value>
         <a:documentation>Définit la source de l'édition d'un ou plusieurs incipit.</a:documentation>
         <value>prologue</value>
         <a:documentation>Définit la source de l'édition d'un prologue.</a:documentation>
-        <!-- on trouve @n='vu mf' et @n='vu ms' or @n est de type teidata.text (= string) => pas de valeur multiple... on normalise en vu_mf et vu_ms ? -->
-        <!-- "vu mf" = vu microfilm  //  "vu ms" = vu manuscrit -->
-        <value>vu mf</value>
-        <a:documentation>Source consultée via son microfilm.</a:documentation>
-        <value>vu ms</value>
-        <a:documentation>Source consultée directement sur le manuscrit.</a:documentation>
+        <value>sommaire</value>
+        <a:documentation>????.</a:documentation>
       </choice>
     </attribute>
   </define>
@@ -165,13 +145,13 @@
       <!-- prévoir d’ajouter une URI optionnelle -->
       <!--
         <optional>
-          <element name="idno">
-            <a:documentation>URI manuscrit dans le catalogue en ligne</a:documentation>
-            <attribute name="type">
-              <value>URI</value>
-            </attribute>
-            <text/>
-          </element>
+        <element name="idno">
+        <a:documentation>URI manuscrit dans le catalogue en ligne</a:documentation>
+        <attribute name="type">
+        <value>URI</value>
+        </attribute>
+        <text/>
+        </element>
         </optional>
       -->
       <!-- NB: <msName> n’est même pas utilisé dans les XSLT! -->
@@ -329,7 +309,7 @@
       </optional>
     </element>
   </define>
-   
+  
   
   <define name="cipit.cont">
     <a:documentation>Contenu d’un incipit ou d’un explicit. NB: les guidelines n’autorisent pas les éléments p et lg</a:documentation>
@@ -707,9 +687,9 @@
             <value>commanditaire</value>
             <a:documentation>(2/1139 occs) ?????????</a:documentation>
             <!-- 
-            <value>relieur</value>
-            <a:documentation>(1/1139 occs) ?????????</a:documentation>
-             -->
+              <value>relieur</value>
+              <a:documentation>(1/1139 occs) ?????????</a:documentation>
+            -->
           </choice>
         </attribute>
       </optional>
@@ -807,22 +787,22 @@
     ** très appareillé mais aucun template associé
     ** 1139 persName balisés
     ** @type : 1100 attributes posés
-        413 ancien
-        1 auteur
-        2 commanditaire
-        66 copiste
-        2 dedicataire
-        2 dédicataire
-        102 illustrateur
-        1 posseseur
-        403 possesseur
-        1 possesseurs
-        1 relieur
-        1 remainieur
-        4 remanieur
-        100 traducteur
-        1 traduction
-      => reprise des valeurs (cf fautes de frappes) ; on supprime les valeurs rares (ie auteur, commanditaire, dédicataire, relieur, remanieur) ???
+    413 ancien
+    1 auteur
+    2 commanditaire
+    66 copiste
+    2 dedicataire
+    2 dédicataire
+    102 illustrateur
+    1 posseseur
+    403 possesseur
+    1 possesseurs
+    1 relieur
+    1 remainieur
+    4 remanieur
+    100 traducteur
+    1 traduction
+    => reprise des valeurs (cf fautes de frappes) ; on supprime les valeurs rares (ie auteur, commanditaire, dédicataire, relieur, remanieur) ???
     ** @role : 4 @role (traducteur...) => on bascule en @type [NB: @role n’est pas même convoqué dans les XSLT !)
     ** @key :  403 @key (sur 1139...) => on fait quoi ? Analyser les clés ; campagne d’annotation
     ** @n :    372 @n => pour les tris ?
@@ -849,27 +829,27 @@
     ** utilisation très flou dans les <p> de origDate => je remplace par date ; on organisera une campagne d’annotation si besoin
     ** choix: placer les history/origin/p/origDate/@* in history/origin/@*
     ** mauvais usage des @notBefore et @notAfter => normalisation souvent en @when, exemple:
-        <date notAfter="1556-01-01" notBefore="1556-12-31">1556</date> => <date when="1556">1556</date>
-        on a même :
-        <date notBefore="1505-03-06" notAfter="1505-03-06">6 mars 1505</date>
+    <date notAfter="1556-01-01" notBefore="1556-12-31">1556</date> => <date when="1556">1556</date>
+    on a même :
+    <date notBefore="1505-03-06" notAfter="1505-03-06">6 mars 1505</date>
     ** trouver une manière de normaliser les dates des bibl pour les imprimés (@precision ?, @notBefore ?, @notAfter ?) -> on fait quoi ce ces attributs
     
     **TODO: revoir la structure dédiée pour la liste des imprimés
     <ref target="./miroir.rng#VJ_memo"/>
     un item par imprimé, un bibl pour la référence, un p pour commenter (le manuscrit consulté), un listBibl pour la biblio relative à l’imprimé
     => COMMENT inscrit-on les référence de l’exemplaire consulté (id http://gallica.bnf.fr/ark:/12148/bpt6k71507f) ????
-  
-  
-  ab_urbe_condita_cxlii_titus-livius.xml
-  A-t-on vraiment besoin de msPart ? 42 occs pour l’ensemble des fichiers du projet En principe pour les manuscrits composites (à voir avec FD)...
-  S’agit-il bien à chaque fois de parties d’un ms composite ? où s’agit-il de décrire des items => dans ce cas voir msItem
-  
-  de_vetula_pseudo_ovidius.xml
-  C’est le bordel total pour les msItem...
-  
-  origDate: on a des //p/origDate => c’est autorisé, valable sémantiquement mais on en fait quoi ? cf ab_urbe_condita...
-  
-  
+    
+    
+    ab_urbe_condita_cxlii_titus-livius.xml
+    A-t-on vraiment besoin de msPart ? 42 occs pour l’ensemble des fichiers du projet En principe pour les manuscrits composites (à voir avec FD)...
+    S’agit-il bien à chaque fois de parties d’un ms composite ? où s’agit-il de décrire des items => dans ce cas voir msItem
+    
+    de_vetula_pseudo_ovidius.xml
+    C’est le bordel total pour les msItem...
+    
+    origDate: on a des //p/origDate => c’est autorisé, valable sémantiquement mais on en fait quoi ? cf ab_urbe_condita...
+    
+    
   -->
   
 </grammar>

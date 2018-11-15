@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_consolatione_philosophiae_boethius" xml:lang="fr">
@@ -1548,7 +1548,11 @@
                   <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 777 [1364-1373], <title>Mss datés</title>, t. I, pl. 51)</origin>
                 </history>
                 <additional>
-                  <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
+                  <adminInfo>
+                    <recordHist>
+                      <source>Notice établie à partir du microfilm.</source>
+                    </recordHist>
+                  </adminInfo>
                   <listBibl>
                     <bibl>J. K. Atkinson, <title>« Boeces : De Consolacion. » Edition critique d’après le manuscrit Paris, Bibl. nationale, fr. 1096, avec Introduction, Variantes, Notes et Glossaires</title>, Tübingen, 1996, p. 10</bibl>
                     <bibl>notice IRHT</bibl>
