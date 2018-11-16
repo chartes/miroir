@@ -111,7 +111,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_19152" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_19152"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -178,7 +178,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition B. Roy (p. 63-70)</bibl>
-          <msDesc corresp="#estense_γ.G.3.20" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#estense_γ.G.3.20"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Modena</settlement>
               <repository>Bibl. Estense Universitaria</repository>
@@ -355,7 +355,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition D. Talsma</bibl>
-          <msDesc corresp="#dresden_oc64" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#dresden_oc64"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Dresden</settlement>
               <repository>Sächsische Landesbibl.</repository>
@@ -654,7 +654,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition A. Doutrepont</bibl>
-          <msDesc corresp="#nafr_4531" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#nafr_4531"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -839,7 +839,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_1593" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1593"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>

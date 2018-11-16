@@ -136,7 +136,7 @@
             <idno>fr. 263</idno>
             </msIdentifier>.
             </bibl>-->
-          <msDesc corresp="#fr_263" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_263"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -2290,7 +2290,7 @@
             </listBibl>
             <div type="incipit">
               <head>Incipit</head>
-              <msDesc corresp="#fr_264-266" n="incipit"><!-- type="biblissima" -->
+              <msDesc corresp="#fr_264-266"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
@@ -2423,7 +2423,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d’après le ms</p>
-              <msDesc corresp="#arsenal_5087-5088" n="incipit"><!-- type="biblissima" -->
+              <msDesc corresp="#arsenal_5087-5088"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>
@@ -2513,7 +2513,7 @@
                 <div type="incipit">
                   <head>Incipit</head>
                   <p>d’après le ms</p>
-                  <msDesc corresp="#kbr_9231-9232" n="incipit"><!-- type="biblissima" -->
+                  <msDesc corresp="#kbr_9231-9232"><!-- type="biblissima" -->
                     <msIdentifier>
                       <settlement>Bruxelles</settlement>
                       <repository>Bibl. royale de Belgique</repository>
@@ -2888,7 +2888,7 @@
                 <div type="incipit">
                   <head>Incipit</head>
                   <p>d’après le ms</p>
-                  <msDesc corresp="#kbr_9268-9269" n="incipit"><!-- type="biblissima" -->
+                  <msDesc corresp="#kbr_9268-9269"><!-- type="biblissima" -->
                     <msIdentifier>
                       <settlement>Bruxelles</settlement>
                       <repository>Bibl. royale de Belgique</repository>
@@ -3424,7 +3424,7 @@
             <div type="incipit">
               <head>Incipit</head>
               <p>d’après le ms</p>
-              <msDesc corresp="#arsenal_3695" n="incipit"><!-- type="biblissima" -->
+              <msDesc corresp="#arsenal_3695"><!-- type="biblissima" -->
                 <msIdentifier>
                   <settlement>Paris</settlement>
                   <repository>bibl. de l’Arsenal</repository>

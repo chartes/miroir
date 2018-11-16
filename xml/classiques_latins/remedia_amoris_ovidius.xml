@@ -132,7 +132,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#fr_12478" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_12478"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -209,7 +209,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition G. Körting</bibl>
-          <msDesc corresp="#dresden_oc66" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#dresden_oc66"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Dresden</settlement>
               <repository>Sächsische Landesbibl.</repository>
@@ -323,7 +323,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#lille_388" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#lille_388"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Lille</settlement>
               <repository>bibl. mun.</repository>

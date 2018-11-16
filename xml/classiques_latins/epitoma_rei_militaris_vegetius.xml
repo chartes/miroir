@@ -132,7 +132,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d’après le ms</p>
-          <msDesc corresp="#cambridge_ms1_marlay" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#cambridge_ms1_marlay"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Cambridge</settlement>
               <repository>Fitzwilliam Museum</repository>
@@ -270,7 +270,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc corresp="#carpentras_332" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#carpentras_332"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Carpentras</settlement>
               <repository>bibl. mun.</repository>
@@ -1256,7 +1256,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#hab_blankenburg111" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#hab_blankenburg111"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Wolfenbüttel</settlement>
               <repository>Herzog August Bibl.</repository>
@@ -1433,7 +1433,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc corresp="#cambridge_gonville424-448" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#cambridge_gonville424-448"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Cambridge</settlement>
               <repository>Gonville and Caius College Libr.</repository>
@@ -1894,7 +1894,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition A. Piaget</bibl>
-            <msDesc corresp="#fr_926" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#fr_926"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
@@ -1970,7 +1970,7 @@
           <div type="incipit">
             <head>Incipit</head>
             <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
-            <msDesc corresp="#kbr_11046" n="incipit"><!-- type="biblissima" -->
+            <msDesc corresp="#kbr_11046"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
                 <repository>Bibl. royale de Belgique</repository>
@@ -2005,7 +2005,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
-          <msDesc corresp="#kbr_11046" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11046"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
@@ -2136,7 +2136,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>l'édition L. Löfstedt</bibl>
-          <msDesc corresp="#fr_1563" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#fr_1563"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Paris</settlement>
               <repository>Bibl. nat. de Fr.</repository>
@@ -2200,7 +2200,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <bibl>éd. Löfstedt</bibl>
-          <msDesc corresp="#bl_add12028" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#bl_add12028"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>London</settlement>
               <repository>British Libr.</repository>

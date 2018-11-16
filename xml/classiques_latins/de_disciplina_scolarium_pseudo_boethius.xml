@@ -90,7 +90,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#lille_388" n="incipit">
+          <msDesc corresp="#lille_388">
             <msIdentifier>
               <settlement>Lille</settlement>
               <repository>bibl. mun.</repository>

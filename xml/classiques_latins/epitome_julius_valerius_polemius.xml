@@ -112,7 +112,7 @@
         <div type="incipit">
           <head>Incipit</head>
           <p>d'après le ms</p>
-          <msDesc corresp="#kbr_11104-05" n="incipit"><!-- type="biblissima" -->
+          <msDesc corresp="#kbr_11104-05"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
               <repository>Bibl. royale de Belgique</repository>
