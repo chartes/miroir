@@ -300,6 +300,9 @@
         <ref name="cipit.cont"/>
       </element>
       <optional>
+        <ref name="msItem"/>
+      </optional>
+      <optional>
         <element name="explicit">
           <ref name="cipit.cont"/>
         </element>
@@ -357,7 +360,12 @@
   <define name="additional">
     <element name="additional">
       <a:documentation>Bibliographie consacrée au manuscrit</a:documentation>
-      <ref name="listBibl"/>
+      <optional>
+        <ref name="adminInfo"/>
+      </optional>
+      <optional>
+        <ref name="listBibl"/>
+      </optional>
     </element>
   </define>
   
@@ -383,10 +391,11 @@
       <!-- classiques latins: pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
       <!-- TODO: voir les champs obligatoires dans l’EAD => les métadonnées de dimensions sont sans doute obligatoires et bien normalisées => pas le cas sur Gallica, revoir avec A. Tur-->
       <!-- manuscrits juridiques: notices structurées et détaillées à outrance, extent ne va pas du tout, il faut restructurer : champs DB / champs libres -->
-      <choice>
+      <!-- Aucune occurrence d'un //objectDesc/supportDesc et la combinaison actuelle demande deux éléments dans l'objectDesc. On enlève le choice ? -->
+      <!--<choice>
         <ref name="p"/>
         <ref name="supportDesc"/>
-      </choice>
+      </choice>-->
       <element name="p">
         <text/>
       </element>
@@ -492,6 +501,30 @@
     </element>
   </define>
   
+  
+  <define name="adminInfo">
+    <element name="adminInfo">
+      <a:documentation>Contient des informations sur les modalités de la description.</a:documentation>
+      <element name="recordHist">
+        <a:documentation>Contient des informations sur la source de la description.</a:documentation>
+        <ref name="source"/>
+      </element>
+    </element>
+  </define>
+  
+  <define name="source">
+    <element name="source">
+      <a:documentation>Donne le medium à partir duquel la notice a été établie : soit à partir du manuscrit original, soit à partir d'une reproduction (préciser laquelle).</a:documentation>
+      <optional>
+        <attribute name="source">
+          <a:documentation>Contient un lien vers la reproduction concernée s'il existe.</a:documentation>
+          <value type="anyURI"/>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+    
   <!-- dans l’include on surcharge les définitions -->
   <include
     href="../teibook/teibook.rng"
@@ -574,6 +607,8 @@
               <a:documentation>?????????????????????????? – peu de cas, on garde ?</a:documentation>
               <value>explicit</value>
               <a:documentation>?????????????????????????? – UN SEUL CAS, on garde ?</a:documentation>
+              <value>rubric</value>
+              <a:documentation>Représente un partie de texte rubriquée.</a:documentation>
             </choice>
           </attribute>
         </optional>

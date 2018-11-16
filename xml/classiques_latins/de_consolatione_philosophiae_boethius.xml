@@ -189,8 +189,7 @@
             <bibl>J. K. Atkinson, <title>A Critical Edition of the Medieval French Prose Translation of ‘De Consolatione Philosophiae’ of Boethius Contained in MS. 898 of the Bibliotheque Municipale, Troyes</title>, 3 vol., diss., The University of Queensland, 1976</bibl>
             <bibl>R. Schroth, <title>Eine altfranzösische Übersetzung der Consolatio Philosophiae des Boethius (Handschrift Troyes Nr. 898), Edition und Kommentar</title>, Frankfurt/M., 1976 (Europäische Hochschulschriften, série XIII, Langue et littérature française, 36) [voir le compte rendu de K. Baldinger dans <title>Zeitschrift für Romanische Philologie</title>, t. 94, 1978, p. 181-185</bibl>
             <bibl>M. M. L. Bolton-Hall, « <title>Del Confortement de Philosophie</title>  », dans <title>L’Orphée de Boèce au Moyen Âge, Traductions françaises et commentaires latins (XII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Vérone, 2000 (Medioevi Testi, 2), p. 13-15</bibl>
-            <bibl>G. Roques, « Les régionalismes dans les traductions françaises de la
-              <foreign>Consolatio Philosophiae</foreign> de Boèce  », dans C. Galderisi et C. Pignatelli (éd.), <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 187-203 (part. p. 192-194)</bibl>
+            <bibl>G. Roques, « Les régionalismes dans les traductions françaises de la <foreign>Consolatio Philosophiae</foreign> de Boèce  », dans C. Galderisi et C. Pignatelli (éd.), <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 187-203 (part. p. 192-194)</bibl>
             <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B255</bibl>
           </listBibl>
           <div type="incipit">
@@ -429,9 +428,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>fragment de la traduction V de la <title>Consolatio Philosophiae</title> de Boèce (du prologue au début de IV, I.5) f. 1-39v (f. 39v expl. ...<seg type="explicit">sueffre tormens en lieu des mesfais et que che</seg>...) ; fragment de la traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun (de V, I.8 à la fin) f. 40-53 [= éd. Dedeck-Héry, l. 20-275] ; <persName type="ancien">Jean de Meun</persName>, <title>Testament</title> f. 54-91.</p>
                   </msContents>
@@ -446,9 +443,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p>recueil de 27 textes dévots et religieux</p>
                   </msContents>
@@ -650,9 +645,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>traduction des <title>Disticha</title> du <persName type="ancien">Pseudo-Caton</persName> par <persName type="traducteur">Jean Le Fèvre</persName> [titre : <title type="ancien">Explicit Catho dans castigamina nato</title> f. 19] ; f. 19v blanc</p>
                   </msContents>
@@ -666,9 +659,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p>traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun f. 20-115 : texte latin (colonne de gauche) et traduction (colonne de droite), sans commentaire ; f. 115v blanc</p>
                   </msContents>
@@ -682,9 +673,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>III</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>III</idno></msIdentifier>
                   <msContents>
                     <p>Pseudo-Boèce, <title>De disciplina scolarium</title> (latin) f. 116-139v ; f. 140-140v blanc.</p>
                   </msContents>
@@ -1377,9 +1366,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>fragment de la traduction V de la <title>Consolatio Philosophiae</title> de Boèce (du prologue au début de IV, I.5) f. 1-39v (f. 39v expl. ...<seg type="explicit">sueffre tormens en lieu des mesfais et que che</seg>...) ; fragment de la traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun (de V, I.8 à la fin) f. 40-53 [= éd. Dedeck-Héry, l. 20-275] ; <persName type="ancien">Jean de Meun</persName>, <title>Testament</title> f. 54-91.</p>
                   </msContents>
@@ -1394,9 +1381,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p>recueil de 27 textes dévots et religieux.</p>
                   </msContents>
@@ -1869,9 +1854,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Explicit les V livrez Boesce de consolation</title> (rubr.) f. 53a] f. 1a-53a ; f. 53b-54b blancs ; Ballade sur la confession f. 54c (ajoutée au XV<hi rend="sup">e</hi> s.) (inc. <seg type="incipit">Rens toy a qui tu le saras</seg>...) ; f. 54d blanc ; Poème en l’honneur de Notre Dame f. 55-56v (inc. <seg type="incipit">Salmon fist un trosne, la matere estoit d’ivoire <lb/>De fin or le vestit, si comme dist l’istoire</seg>...) ; Ballade à Notre Dame f. 57 (ajoutée au XV<hi rend="sup">e</hi> s.) (inc. <seg type="incipit">Onques dolour ne fu si grant <lb/>Que tu sentis vierge Marie</seg>...) ; Ballade à Notre Dame f. 57v (ajoutée au XV<hi rend="sup">e</hi> s.) (inc. <seg type="incipit">[On ?]c pour plorer et duel souffrir <lb/>puet nulz cuers martir endurer</seg>...) ; f. 58-59v blancs ; <persName type="ancien">Guillaume de Digulleville</persName>,
                       <title>Pèlerinage de Jésus Christ</title> [titre : <title type="ancien">Chi commenche le pelrinage de Jhesucrist</title> f. 60] f. 60a-130c ; f. 130d-132d blancs ;
@@ -1888,9 +1871,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p><title>Chronique en vers de l’abbaye de Floreffe</title> f. 187v-238v</p>
                   </msContents>
@@ -2014,9 +1995,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>introduction générale et table des matières f. 1-2 ; Préceptes moraux à l’usage des religieux f. 2-101v ; Collations des pères f. 102-104 ; f. 105-108 blancs</p>
                   </msContents>
@@ -2027,9 +2006,7 @@
                   </physDesc>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Livre de consolacion de Boece</title> f. 109] f. 109-253v  ; prière à saint Sébastien (en latin) f. 254 ; <persName type="ancien">Renaut de Louhans</persName>, <title>Roman de Melibee et de Prudence</title> f. 255-281 ; <title>Epistola beati Bernardi</title> en latin (<title>Patrologia Latina</title>, t. 182, ep. 456)</p>
                   </msContents>
@@ -2924,9 +2901,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p><title>Böece de Confort</title>, traduction X de la
                       <title>Consolatio Philosophiae</title> de Boèce [titre :
@@ -2945,9 +2920,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p>f. 173 : <title>Speculum peccatoris. <lb/>Iste caternus est Guillelmi Souleti</title> (mention XV<hi rend="sup">e</hi> s.) ; f. 173v blanc ; <title>Le miroir des pécheurs</title> [titre : <title type="ancien">Cy commence un moult prouffitable ensengnement a l’ame qui est appellé le Mirouer des pescheurs pris en la sainte Escripture</title> (rubr.)] f. 174-182 (inc. <seg type="incipit">Mon tres chier frere, nous sommes en ce monde finans et passans noz jours comme ombre</seg>... ; expl. ...<seg type="explicit">tu puisses echiever la dampnacion pardurable et sans fin avoir joye avec nostre seigneur Jhesucrist, laquelle nous vueille octroyer cellui qui est benedictus in secula seculorum Amen</seg>)</p>
                   </msContents>
@@ -3540,7 +3513,7 @@
                     <p>86 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Raoulet d’Orléans</persName> [Bouveret 16286-16290 ; actif 1360-1371] pour <persName type="dédicataire">Jean de Langres</persName> (acrostiche f. 86v : <quote>« IEHAN DE LANGRES ESMAJLLEUR »</quote>) f. 86c</p>
+                    <p>Copiste : <persName type="copiste">Raoulet d’Orléans</persName> [Bouveret 16286-16290 ; actif 1360-1371] pour <persName type="dedicataire">Jean de Langres</persName> (acrostiche f. 86v : <quote>« IEHAN DE LANGRES ESMAJLLEUR »</quote>) f. 86c</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 1 miniature sur deux colonnes d’un tiers de la justification (f. 1) ; 1 miniature sur une colonne d’un tiers de la justification (f. 70c)</p>
@@ -4010,9 +3983,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier>
-                    <idno>I</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>remaniement de <persName>Renaut de Louhans</persName>,
                       <title>Le Roman de Fortune et de Felicité</title> avec emprunts à <title>Böece de Confort</title>, traduction X de la <title>Consolatio Philosophiae</title> de Boèce f. 4-35a (texte acéphale, qui commence avec le huitain XI du prologue de l’éd.) ; <persName type="ancien">Gervais du Bus</persName>, <title>Roman de Fauvel</title> (128 premiers vers) f. 35r-v</p>
@@ -4027,9 +3998,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier>
-                    <idno>II</idno>
-                  </altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p><persName type="ancien">Jacques Legrand</persName>, <title>Le livre des bonnes moeurs</title> f. 36-92v</p>
                   </msContents>
@@ -5446,7 +5415,7 @@
                     <p>184 f. papier (filigrane sim. Briquet, att. 1452, sim. 1460)</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié en 1459 à Grenoble par <persName type="copiste">George de Sulliaco</persName> [Bouveret 5025] pour <persName type="dédicataire">Jean Jopitre, secretaire du roi et du dauphin</persName> (colophon f. 176) ; donné avec 11 autres livres à une église dont le nom n’est pas précisé par Jean Jopitre (f. 180v) ; mention <quote>« Herve Delespine »</quote> (f. de garde début recto).</p>
+                    <p>Copié en 1459 à Grenoble par <persName type="copiste">George de Sulliaco</persName> [Bouveret 5025] pour <persName type="dedicataire">Jean Jopitre, secretaire du roi et du dauphin</persName> (colophon f. 176) ; donné avec 11 autres livres à une église dont le nom n’est pas précisé par Jean Jopitre (f. 180v) ; mention <quote>« Herve Delespine »</quote> (f. de garde début recto).</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -5766,7 +5735,7 @@
                   </listBibl>
                 </additional>
                 <msPart>
-                  <altIdentifier><idno>I</idno></altIdentifier>
+                  <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
                     <p>traduction VI glosée de la <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Explicit Boece de consolacion</title> (rubr.) f. 116v] : prologue de <persName>Jean de Meun</persName> f. 1-7, traduction glosée f. 7-116v</p>
                   </msContents>
@@ -5780,7 +5749,7 @@
                   </history>
                 </msPart>
                 <msPart>
-                  <altIdentifier><idno>II</idno></altIdentifier>
+                  <msIdentifier><idno>II</idno></msIdentifier>
                   <msContents>
                     <p><persName type="ancien">Alain Chartier</persName>, <title>Livre de l’Esperance</title>.</p>
                   </msContents>
