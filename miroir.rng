@@ -48,13 +48,13 @@
       msDesc[@corresp]: les éléments de notices à agréger à la notice maître
     -->
     <element name="msDesc">
-      <a:documentation>Description d’un manuscrit</a:documentation>
+      <a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>TODO MP: (très) courte documentation du modèle : comment on dresse la liste des manuscrits décrits et comment on lie les notices éparpillées ?</p>
+        </div>
+      </a:documentation>
       <ref name="msDesc.atts"/>
       <ref name="msIdentifier"/>
-      <optional>
-        <ref name="msContents"/>
-      </optional>
-      <!-- Problème de l’ordre de ces éléments: on normalise ? -->
       <optional>
         <ref name="physDesc"/>
       </optional>
@@ -62,12 +62,15 @@
         <ref name="history"/>
       </optional>
       <optional>
-        <ref name="additional"/>
+        <ref name="msContents"/>
       </optional>
       <optional>
         <oneOrMore>
           <ref name="msPart"/>
         </oneOrMore>
+      </optional>
+      <optional>
+        <ref name="additional"/>
       </optional>
     </element>
   </define>
@@ -359,7 +362,7 @@
   
   <define name="additional">
     <element name="additional">
-      <a:documentation>Bibliographie consacrée au manuscrit</a:documentation>
+      <a:documentation>Modalités d’établissement de la notice et bibliographie consacrée au manuscrit</a:documentation>
       <optional>
         <ref name="adminInfo"/>
       </optional>
@@ -388,15 +391,16 @@
   <define name="objectDesc">
     <element name="objectDesc">
       <a:documentation>Description libre des composants matériels</a:documentation>
-      <!-- classiques latins: pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
       <!-- TODO: voir les champs obligatoires dans l’EAD => les métadonnées de dimensions sont sans doute obligatoires et bien normalisées => pas le cas sur Gallica, revoir avec A. Tur-->
       <!-- manuscrits juridiques: notices structurées et détaillées à outrance, extent ne va pas du tout, il faut restructurer : champs DB / champs libres -->
-      <!-- Aucune occurrence d'un //objectDesc/supportDesc et la combinaison actuelle demande deux éléments dans l'objectDesc. On enlève le choice ? -->
-      <!--<choice>
+      <!--
+      <choice>
         <ref name="p"/>
         <ref name="supportDesc"/>
-      </choice>-->
+      </choice>
+      -->
       <element name="p">
+        <!-- classiques latins: pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
         <text/>
       </element>
     </element>
@@ -501,30 +505,20 @@
     </element>
   </define>
   
-  
   <define name="adminInfo">
     <element name="adminInfo">
-      <a:documentation>Contient des informations sur les modalités de la description.</a:documentation>
+      <a:documentation>Modalités de la description.</a:documentation>
       <element name="recordHist">
-        <a:documentation>Contient des informations sur la source de la description.</a:documentation>
-        <ref name="source"/>
+        <a:documentation>Source(s) de la description.</a:documentation>
+        <element name="source">
+          <a:documentation>Donne le medium à partir duquel la notice a été établie : soit à partir du manuscrit original, soit à partir d'une reproduction (préciser laquelle).</a:documentation>
+          <text/>
+        </element>
       </element>
     </element>
   </define>
   
-  <define name="source">
-    <element name="source">
-      <a:documentation>Donne le medium à partir duquel la notice a été établie : soit à partir du manuscrit original, soit à partir d'une reproduction (préciser laquelle).</a:documentation>
-      <optional>
-        <attribute name="source">
-          <a:documentation>Contient un lien vers la reproduction concernée s'il existe.</a:documentation>
-          <value type="anyURI"/>
-        </attribute>
-      </optional>
-      <text/>
-    </element>
-  </define>
-    
+  
   <!-- dans l’include on surcharge les définitions -->
   <include
     href="../teibook/teibook.rng"
