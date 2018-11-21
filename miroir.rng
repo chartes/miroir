@@ -41,12 +41,6 @@
   -->
   
   <define name="msDesc">
-    <!--
-      les descriptions des mansucrits sont éparpillées dans les fichiers.
-      Il faut pouvoir rétablir les notices dans leur intégralité ; y agréger d’autres contenus (BnF, etc.)
-      msDesc[@xml:id] : la notice maître
-      msDesc[@corresp]: les éléments de notices à agréger à la notice maître
-    -->
     <element name="msDesc">
       <a:documentation>
         <div xmlns="http://www.w3.org/1999/xhtml">
@@ -355,6 +349,7 @@
         <ref name="point"/>
         <ref name="foreign"/>
         <ref name="seg"/>
+        <ref name="expan"/>
       </choice>
     </oneOrMore>
   </define>
@@ -377,22 +372,23 @@
     </element>
   </define>
   
-  
   <define name="expan">
     <element name="expan">
-      <a:documentation>un mot dont on résout l'abréviation</a:documentation>
+      <a:documentation>Contient l'expansion d'une abréviation</a:documentation>
       <oneOrMore>
         <choice>
           <text/>
-          <element name="ex">
-            <a:documentation>la résolution de l'abréviation</a:documentation>
-            <text/>
-          </element>
+          <ref name="ex"/>
         </choice>
       </oneOrMore>
     </element>
   </define>
-  
+  <define name="ex">
+    <element name="ex">
+      <a:documentation>Résolution de l'abréviation par l’éditeur</a:documentation>
+      <text/>
+    </element>
+  </define>
   
   <define name="msItem.note">
     <a:documentation>Commentaire libre portant sur l’item et affiché dans le corps de la notice. Cette note NE DOIT PAS être déportée.</a:documentation>
@@ -889,6 +885,30 @@
             </choice>
           </zeroOrMore>
         </interleave>
+      </element>
+    </define>
+    
+    <define name="item">
+      <element name="item">
+        <optional>
+          <ref name="n-att"/>
+        </optional>
+        <ref name="xml-atts"/>
+        <choice>
+          <oneOrMore>
+            <choice>
+              <text/>
+              <ref name="typo"/>
+              <ref name="function"/>
+              <ref name="indexable"/>
+              <ref name="label"/>
+              <ref name="expan"/>
+            </choice>
+            <optional>
+              <ref name="point"/>
+            </optional>
+          </oneOrMore>
+        </choice>
       </element>
     </define>
     
