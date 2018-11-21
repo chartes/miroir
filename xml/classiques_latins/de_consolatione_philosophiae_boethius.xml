@@ -276,7 +276,12 @@
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 821</idno>
                 </msIdentifier>
-                <msContents><p><locus>f. 27a</locus>L’umaine generacions et les gens de cist monde desirent moult naturalment a oïr noves choses et a entendre noves manieres et novelles contes, et n’en est mie chose reprensibles se la novitez est de choses utiles et bones, et se elle est sobriement et utielment ordenee, porce que la nature se delite en la utiel et bone et sobrie novité, et a present moult ententivement et dilitosement la utilice de aucune escriture qant elle est novement ordenee. Et porce ge, considerant a ce, si ai pensé de doner novelle maniere de conte a une mout utiele escriture, laquele estoit por letrés et en latin en la phylosophyce livres de Boeces soutilment et oscurement descrite, au meinz a cil qi ne sievient letres. Et porce l’ai ge translaté en vulgar françois, si come autres fois l’ai mis en vulgar latin, car utiel chose me semble que a toutes genz soit clare dou douror [<foreign>sic ?</foreign>], et si sache chascun que ceste complainte et ceste oevre est coment Boeces se complaingnoit et dementoit de ses mesaventures et aversitez qi sorvenue li estoient et coment la vertus phylosophye le confortoit en semblance d’une dame. Or veons coment.</p></msContents>
+                <msContents>
+                  <msItem>
+                    <locus>f. 27a</locus>
+                    <p>L’umaine generacions et les gens de cist monde desirent moult naturalment a oïr noves choses et a entendre noves manieres et novelles contes, et n’en est mie chose reprensibles se la novitez est de choses utiles et bones, et se elle est sobriement et utielment ordenee, porce que la nature se delite en la utiel et bone et sobrie novité, et a present moult ententivement et dilitosement la utilice de aucune escriture qant elle est novement ordenee. Et porce ge, considerant a ce, si ai pensé de doner novelle maniere de conte a une mout utiele escriture, laquele estoit por letrés et en latin en la phylosophyce livres de Boeces soutilment et oscurement descrite, au meinz a cil qi ne sievient letres. Et porce l’ai ge translaté en vulgar françois, si come autres fois l’ai mis en vulgar latin, car utiel chose me semble que a toutes genz soit clare dou douror [<foreign>sic ?</foreign>], et si sache chascun que ceste complainte et ceste oevre est coment Boeces se complaingnoit et dementoit de ses mesaventures et aversitez qi sorvenue li estoient et coment la vertus phylosophye le confortoit en semblance d’une dame. Or veons coment.</p>
+                  </msItem>
+                </msContents>
               </msDesc>
             </div>
             <div type="epilogue">
@@ -288,7 +293,12 @@
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 821</idno>
                 </msIdentifier>
-                <msContents><p><locus>f. 52a</locus>Ceste si est la conclusions de l'oevre tiele com la fist la phylosophie a Boece. Voirs est que le translateor de Boece avant la dite conclusions nos dit qe enci en plusors leus de cist vulgar non mutent la sentence dou Boece nos a dit aucune foiz plus ou meins paroules qe ne sont su le livre dou Boece et nos tant raisons por qoi il a ce feit, ce est por fere plus alumenee sa translacions et l’entelligence de la phylosophye doctrine de Boeces ; et a present ce nos conte la conclusions. <foreign>(rubr.)</foreign> <lb/>Por aventure je t’ai dit ici et en plusors leus de ceste translacions pluisors paroules, les qieles ne sont en livre de Boece et por aventure auchunes n’ai je laisies qe sus le livres de Boece sont, mais ce ai je fait en poi leus et non mutant la sentence dou livre, et ancore l’ai je fait porce qe en ce n'i est giere plus aluminee et entellective ma translations et l’entelligence de la doctrine phylosophyce de cil mirable phylosofe qi fist le livre, leqiel, selonc qe il meisme estoit clamé, apella il Boece, leqiel phylosophe por excelence doyt bien estre clamez filosophe des phylosophes et a leqiel la phylosophye en la fins de son livre fist tiele conclusions com je te ferai icic, car elle comence sa conclusions et dist en ceste mainiere pois que nos avons dist, elle prove qe la providence divine ne nos done necessitez de faire le bien et le maus et pois qe nos avons liber arbitre de faire ou de laisier le maus ou le bien, <pb n="f. 52b"/> donc est just le merit dou bien et la poine dou maus qe nos faisons, donc sont autresi utiles les petites [<foreign>sic ?</foreign>] et les merciz qerrir que nos faisons au seignor Diex et est bone la sperance et le remors divins, car se droitement nos tornons a Diex il nos est utiels, et au l'arme et au cors. Or donc est por le mielz et por le meilors consoil qe nos laisons la voie des vices et sevions la voie des vertuz et qe nos humblement prions Diex qe il en bien oevrer nos doint la soufrance et porseverance, car bien poons veoir se nos ne nos enseignons qe grant mestier nos est d’avoir convoisiment de bien et de metre nostre antentions en fere le plaisir de Diex. Certes, bien nos est mestier qe fere ce qe dit est de bien et de garder com nos ovrons, car ja ne faisons auchune chose qe ne soit toust davant les oilz de cil haut juge, leqiel conoist et voit toutes les choses et il nos dont si bien ovrer qe nos alons au suen beneoit regne en leqiel est vie durable sanz nulle fin <foreign>in secula seculorum</foreign>. Amen.</p></msContents>
+                <msContents>
+                  <msItem>
+                    <locus>f. 52a</locus>
+                    <p>Ceste si est la conclusions de l'oevre tiele com la fist la phylosophie a Boece. Voirs est que le translateor de Boece avant la dite conclusions nos dit qe enci en plusors leus de cist vulgar non mutent la sentence dou Boece nos a dit aucune foiz plus ou meins paroules qe ne sont su le livre dou Boece et nos tant raisons por qoi il a ce feit, ce est por fere plus alumenee sa translacions et l’entelligence de la phylosophye doctrine de Boeces ; et a present ce nos conte la conclusions. <foreign>(rubr.)</foreign> <lb/>Por aventure je t’ai dit ici et en plusors leus de ceste translacions pluisors paroules, les qieles ne sont en livre de Boece et por aventure auchunes n’ai je laisies qe sus le livres de Boece sont, mais ce ai je fait en poi leus et non mutant la sentence dou livre, et ancore l’ai je fait porce qe en ce n'i est giere plus aluminee et entellective ma translations et l’entelligence de la doctrine phylosophyce de cil mirable phylosofe qi fist le livre, leqiel, selonc qe il meisme estoit clamé, apella il Boece, leqiel phylosophe por excelence doyt bien estre clamez filosophe des phylosophes et a leqiel la phylosophye en la fins de son livre fist tiele conclusions com je te ferai icic, car elle comence sa conclusions et dist en ceste mainiere pois que nos avons dist, elle prove qe la providence divine ne nos done necessitez de faire le bien et le maus et pois qe nos avons liber arbitre de faire ou de laisier le maus ou le bien, <pb n="f. 52b"/> donc est just le merit dou bien et la poine dou maus qe nos faisons, donc sont autresi utiles les petites [<foreign>sic ?</foreign>] et les merciz qerrir que nos faisons au seignor Diex et est bone la sperance et le remors divins, car se droitement nos tornons a Diex il nos est utiels, et au l'arme et au cors. Or donc est por le mielz et por le meilors consoil qe nos laisons la voie des vices et sevions la voie des vertuz et qe nos humblement prions Diex qe il en bien oevrer nos doint la soufrance et porseverance, car bien poons veoir se nos ne nos enseignons qe grant mestier nos est d’avoir convoisiment de bien et de metre nostre antentions en fere le plaisir de Diex. Certes, bien nos est mestier qe fere ce qe dit est de bien et de garder com nos ovrons, car ja ne faisons auchune chose qe ne soit toust davant les oilz de cil haut juge, leqiel conoist et voit toutes les choses et il nos dont si bien ovrer qe nos alons au suen beneoit regne en leqiel est vie durable sanz nulle fin <foreign>in secula seculorum</foreign>. Amen.</p>
+                  </msItem>
+                </msContents>
               </msDesc>
             </div>
           </div>
@@ -1212,7 +1222,13 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>fr. 576</idno>
               </msIdentifier>
-              <msContents><p><locus>f. 82a</locus>Atant fay fin atant soufisse<lb/>De l’oevre que j’ay entreprise<lb/>Quant a Boece rommanchier<lb/>Dont se sont volu avanchier<lb/>Pluseurs aultres et boin me plaist<lb/>Je n’en fay action ne plaist<lb/>Lise cascuns que boin li samble<lb/>Mais cascun pri que il assamble<lb/>Mes dis avoec leur exemplaire<lb/>Le latin si li devra plaire<lb/>Car mot a mot a poy ce faut<lb/>L’expose et construis sans deffaut<lb/>Adjouste que jou y expose<lb/>Tout ce que Boeces suppose<lb/>Si m’escuse de mon langage<lb/>Rude malostru et sauvage<lb/>Car nes ne sui pas de Paris<lb/>Ne si cointes com fu Paris<lb/>Mais me raporte et me compere<lb/>Au parler que m’aprist ma mere<lb/>A Meun quant je l’alaitoie<lb/>Dont mes parlers ne s’en desvoie<lb/>Ne n’ay nul parler plus habile<lb/>Que cellui qui keurt a no ville<lb/>Si m’en poeent bien escuser<lb/>Qui de plus bel vuelent user<lb/>Si me repos et lays mon oevre<lb/>Et men cornet cloc et recoevre.<lb/></p></msContents>
+              <msContents>
+                <msItem>
+                  <locus>f. 82a</locus>
+                  <p>Atant fay fin atant soufisse<lb/>De l’oevre que j’ay entreprise<lb/>Quant a Boece rommanchier<lb/>Dont se sont volu avanchier<lb/>Pluseurs aultres et boin me plaist<lb/>Je n’en fay action ne plaist<lb/>Lise cascuns que boin li samble<lb/>Mais cascun pri que il assamble<lb/>Mes dis avoec leur exemplaire<lb/>Le latin si li devra plaire<lb/>Car mot a mot a poy ce faut<lb/>L’expose et construis sans deffaut<lb/>Adjouste que jou y expose<lb/>Tout ce que Boeces suppose<lb/>Si m’escuse de mon langage<lb/>Rude malostru et sauvage<lb/>Car nes ne sui pas de Paris<lb/>Ne si cointes com fu Paris<lb/>Mais me raporte et me compere<lb/>Au parler que m’aprist ma mere<lb/>A Meun quant je l’alaitoie<lb/>Dont mes parlers ne s’en desvoie<lb/>Ne n’ay nul parler plus habile<lb/>Que cellui qui keurt a no ville<lb/>Si m’en poeent bien escuser<lb/>Qui de plus bel vuelent user<lb/>Si me repos et lays mon oevre<lb/>Et men cornet cloc et recoevre.<lb/>
+                  </p>
+                </msItem>
+              </msContents>
             </msDesc>
           </div>
           <div type="incipit">
@@ -1572,9 +1588,12 @@
                 <idno>fr. 24307</idno>
               </msIdentifier>
               <msContents>
-                <p>Ens ou livre par chi devant<lb/>Dont la matere est avenant<lb/>Est contenu et devisé<lb/>Et tresbien dictet et rimet<lb/>Uns romans de moult grand haultece<lb/>chou est le livre de Boesce<lb/>C’on dist de consolacion<lb/>Liquelx romans fait mencion<lb/>De Fortune et Felicité<lb/>Ensi que bien est declaré<lb/>Par chieucq biaus livres qui l’compoent<lb/>Et affin que legierement<lb/>En puist la matere trouver<lb/>Dont on volra oÿr parler<lb/>S’on ne voet mettre son engin<lb/>Du commencement jusqu’en fin<lb/>Il en sera assés briefment<lb/>Fait chi apriés ensseignement.<lb/>[f. 81a]</p>
-                <p>[f. 81b blanc]</p>
-                <p>Au premier fuellet est li prologues del acteur qui mist en rime le dit romant qui avoit non frere Renault de Louuens. [f. 81c]</p>
+                <msItem>
+                  <locus>f. 81a-81c</locus>
+                  <p>Ens ou livre par chi devant<lb/>Dont la matere est avenant<lb/>Est contenu et devisé<lb/>Et tresbien dictet et rimet<lb/>Uns romans de moult grand haultece<lb/>chou est le livre de Boesce<lb/>C’on dist de consolacion<lb/>Liquelx romans fait mencion<lb/>De Fortune et Felicité<lb/>Ensi que bien est declaré<lb/>Par chieucq biaus livres qui l’compoent<lb/>Et affin que legierement<lb/>En puist la matere trouver<lb/>Dont on volra oÿr parler<lb/>S’on ne voet mettre son engin<lb/>Du commencement jusqu’en fin<lb/>Il en sera assés briefment<lb/>Fait chi apriés ensseignement.<lb/>[f. 81a]</p>
+                  <p>[f. 81b blanc]</p>
+                  <p>Au premier fuellet est li prologues del acteur qui mist en rime le dit romant qui avoit non frere Renault de Louuens. [f. 81c]</p>
+                </msItem>
               </msContents>
             </msDesc>
           </div>
@@ -2601,15 +2620,18 @@
                   <idno>fr. 25418</idno>
                 </msIdentifier>
                 <msContents>
-                  <p>Pour le tout poissant honnourer<lb/>Et magnifier son haut nom<lb/>Et pour cuer humain conforter<lb/>Et hoster de toute turbacion,<lb/>Contre fortune au cuer amer,<lb/>Mere de toute affliccion,<lb/>Dez dis Boece vueil conter<lb/>Com dit de consolacion.<lb/></p>
-                  <p>Cilz qui bien estudieroit<lb/>Cestui livre a grant diligence,<lb/>Fortune point ne priseroit<lb/>N’en en luy ne mettroit son esperance<lb/>Quant du mains bien habunderoit ;<lb/>Tous diz vivroit en grant doubtance<lb/>Et quant souffreteux en seroit,<lb/>Tout porteroit en pacience.<lb/></p>
-                  <p>Son cuer en Dieu reposeroit<lb/>En qui ne puet estre muance<lb/>Et teus diz en luy trouveroit<lb/>Planté de biens et habundance<lb/>Ainssi que mestier luy seroit<lb/>Selon la divine ordonnance,<lb/>Et ja de biens ne defaulroit<lb/>Mais en auroit grant pourveance.<lb/></p>
-                  <p>De Boece est rayson que die<lb/>Aucune chose a sa gloire<lb/>Selon que dit l’ystoire :<lb/>Philozophe plain de clergie<lb/>Et tout conseil deigne de croyre,<lb/>Sage, honneste et de bonne vie, <pb n="f. 1v"/><lb/>Tousjours avoit Dieu en memoyre.<lb/></p>
-                  <p>Loer devons Dieu et cest homme<lb/>Qui nous a fait telle escripture<lb/>Ou de vertus avons la somme<lb/>Et de bien vivre la mesure,<lb/>Loer devonz le lieu de Romme<lb/>Ou il aprins sa noureture,<lb/>Qui fist present d’un tel preudomme<lb/>A toute humaine creature.<lb/></p>
-                  <p>Avint quant par grant excellence<lb/>De prudence et de bonté<lb/>Dieu les preudommes avance,<lb/>L’ot en ce monde haut monté,<lb/>Ot moult sez voisins seurmonté<lb/>Et en richesse et en puissance,<lb/>Mes Fortune par sa muance<lb/>A bien po ne l'a ahonté.<lb/></p>
-                  <p>Elle qui tout son tempz se paine<lb/>Comment ce qu’elle a fait defface,<lb/>A Boece tourna sa resne<lb/>Qui tant forment avoit en grace.<lb/>Tant le mena par son demaine<lb/>Que luy moustra sa noire face<lb/>Par envie qui tousjours regne<lb/>Et qui les preudommes menace.<lb/></p>
-                  <p>Cest homme, ou monde tant soit fort,<lb/>Sage, soutil, malicieux<lb/>Qui trovast souffisant emport<lb/>Contre la langue d’envieux,<lb/>Tant fu le message de mort<lb/>Contre Boece inniquiteux,<lb/>De Romme fu banny a tort <pb n="f. 2"/><lb/>Et devint povre et souffreteux.<lb/></p>
-                  <p>La fortune qui fu muee<lb/>Le desconforta durement,<lb/>Mais sa raison enluminee<lb/>Le reconforta doucement.<lb/>Lors proposa en sa penssee<lb/>Faire a nostre ensaignement<lb/>Aucune chose de duree ;<lb/>Or oyés le commencement.<lb/></p>
+                  <msItem>
+                    <locus>f. 1r-2r</locus>
+                    <p>Pour le tout poissant honnourer<lb/>Et magnifier son haut nom<lb/>Et pour cuer humain conforter<lb/>Et hoster de toute turbacion,<lb/>Contre fortune au cuer amer,<lb/>Mere de toute affliccion,<lb/>Dez dis Boece vueil conter<lb/>Com dit de consolacion.<lb/></p>
+                    <p>Cilz qui bien estudieroit<lb/>Cestui livre a grant diligence,<lb/>Fortune point ne priseroit<lb/>N’en en luy ne mettroit son esperance<lb/>Quant du mains bien habunderoit ;<lb/>Tous diz vivroit en grant doubtance<lb/>Et quant souffreteux en seroit,<lb/>Tout porteroit en pacience.<lb/></p>
+                    <p>Son cuer en Dieu reposeroit<lb/>En qui ne puet estre muance<lb/>Et teus diz en luy trouveroit<lb/>Planté de biens et habundance<lb/>Ainssi que mestier luy seroit<lb/>Selon la divine ordonnance,<lb/>Et ja de biens ne defaulroit<lb/>Mais en auroit grant pourveance.<lb/></p>
+                    <p>De Boece est rayson que die<lb/>Aucune chose a sa gloire<lb/>Selon que dit l’ystoire :<lb/>Philozophe plain de clergie<lb/>Et tout conseil deigne de croyre,<lb/>Sage, honneste et de bonne vie, <pb n="f. 1v"/><lb/>Tousjours avoit Dieu en memoyre.<lb/></p>
+                    <p>Loer devons Dieu et cest homme<lb/>Qui nous a fait telle escripture<lb/>Ou de vertus avons la somme<lb/>Et de bien vivre la mesure,<lb/>Loer devonz le lieu de Romme<lb/>Ou il aprins sa noureture,<lb/>Qui fist present d’un tel preudomme<lb/>A toute humaine creature.<lb/></p>
+                    <p>Avint quant par grant excellence<lb/>De prudence et de bonté<lb/>Dieu les preudommes avance,<lb/>L’ot en ce monde haut monté,<lb/>Ot moult sez voisins seurmonté<lb/>Et en richesse et en puissance,<lb/>Mes Fortune par sa muance<lb/>A bien po ne l'a ahonté.<lb/></p>
+                    <p>Elle qui tout son tempz se paine<lb/>Comment ce qu’elle a fait defface,<lb/>A Boece tourna sa resne<lb/>Qui tant forment avoit en grace.<lb/>Tant le mena par son demaine<lb/>Que luy moustra sa noire face<lb/>Par envie qui tousjours regne<lb/>Et qui les preudommes menace.<lb/></p>
+                    <p>Cest homme, ou monde tant soit fort,<lb/>Sage, soutil, malicieux<lb/>Qui trovast souffisant emport<lb/>Contre la langue d’envieux,<lb/>Tant fu le message de mort<lb/>Contre Boece inniquiteux,<lb/>De Romme fu banny a tort <pb n="f. 2"/><lb/>Et devint povre et souffreteux.<lb/></p>
+                    <p>La fortune qui fu muee<lb/>Le desconforta durement,<lb/>Mais sa raison enluminee<lb/>Le reconforta doucement.<lb/>Lors proposa en sa penssee<lb/>Faire a nostre ensaignement<lb/>Aucune chose de duree ;<lb/>Or oyés le commencement.<lb/></p>
+                  </msItem>
                 </msContents>
               </msDesc>
             </div>
@@ -2688,7 +2710,12 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>nouv. acq. fr. 1982</idno>
               </msIdentifier>
-              <msContents><p><locus>f. 86v</locus>C’est le congié de l’escrivain <foreign>(rubr)</foreign><lb/>Icy endroit fine Boece<lb/>En qui peuent trouver l’adresce<lb/>homs et femmes par ses recors<lb/>A sauver leurs ames et corps,<lb/>Non pas eulz laissier tourmenter<lb/>De desespoir ne seurmonter<lb/>En orgueil, l’ort pechié terrible,<lb/>Le plus grief de tous et horrible,<lb/>Ainçois est d’avoir pacience<lb/>Nuit et jour et querre science<lb/>Glorieuse pour Dieu amer,<lb/>Requerir, servir, honnorer<lb/>Et la doulce vierge Marie<lb/>Sur tous les cielx d’anges chierie<lb/>En qui divine pourveance<lb/>Se mist et ot double substance<lb/>merveilleuse pour nostre amour<lb/>aus quelx prierons sans demour<lb/>jointes mains que ilz gardent d’yre<lb/>li vaillans homs qui fist escrire<lb/>le livre assez bien compassez<lb/>et les ames des trespassez<lb/>vueillent garder de maulx liens<lb/>R. dit amen d’Orliens.<lb/>Qui cest escript a droit verra,<lb/>Nom et seurnom y trouvera <foreign>(rubr.)</foreign></p></msContents>
+              <msContents>
+                <msItem>
+                  <locus>f. 86v</locus>
+                  <p>C’est le congié de l’escrivain <foreign>(rubr)</foreign><lb/>Icy endroit fine Boece<lb/>En qui peuent trouver l’adresce<lb/>homs et femmes par ses recors<lb/>A sauver leurs ames et corps,<lb/>Non pas eulz laissier tourmenter<lb/>De desespoir ne seurmonter<lb/>En orgueil, l’ort pechié terrible,<lb/>Le plus grief de tous et horrible,<lb/>Ainçois est d’avoir pacience<lb/>Nuit et jour et querre science<lb/>Glorieuse pour Dieu amer,<lb/>Requerir, servir, honnorer<lb/>Et la doulce vierge Marie<lb/>Sur tous les cielx d’anges chierie<lb/>En qui divine pourveance<lb/>Se mist et ot double substance<lb/>merveilleuse pour nostre amour<lb/>aus quelx prierons sans demour<lb/>jointes mains que ilz gardent d’yre<lb/>li vaillans homs qui fist escrire<lb/>le livre assez bien compassez<lb/>et les ames des trespassez<lb/>vueillent garder de maulx liens<lb/>R. dit amen d’Orliens.<lb/>Qui cest escript a droit verra,<lb/>Nom et seurnom y trouvera <foreign>(rubr.)</foreign></p>
+                </msItem>
+              </msContents>
             </msDesc>
           </div>
           <div type="incipit">
@@ -3683,7 +3710,13 @@
           <div type="imprime">
             <head>Imprimé</head>
             <listBibl type="poList">
-              <bibl xml:id="imprime1_de_consolatione_philosophiae">[<title type="ancien">Boece de consolacion</title>], Genf, <publisher>Jean Croquet</publisher>, <date notBefore="1450" notAfter="1481">[pas après 1481]</date>, 2°, 88 f. : prologue en prose ; <title>Böece de Confort</title>, traduction X de la <title>Consolatio Philosophiae</title> de Boèce, avec épilogue [titres : <title type="ancien">Prologue sur Boece de consolacion</title> ; <title>Cy finist le prologue sur Boece de consolacion</title> ; <title>Cy finist Boece de consolacion</title>]. Prologue inc. <seg type="incipit">Prologue sur Boece de consolacion <lb/>Boece estant en exil composa ung livre lequel est appellé Boece de consolacion pourtant car l’entencion de l’acteur est de donner a son semblable ou pareil et aussi a tous desolez et desconfortez qui le liroient ou lire orroient confort et consolacion, lequel Boece fonda son entencion sus une telle fiction</seg>... ; expl. ...<seg type="explicit">et ceulx qui tendent a m’avoir honneur leur pourchace et seignourie et les jecte de serve vie <lb/>Cy finist le prologue
+              <bibl xml:id="imprime1_de_consolatione_philosophiae">[
+                <title type="ancien">Boece de consolacion</title>], Genf, 
+                <publisher>Jean Croquet</publisher>, 
+                <date notBefore="1450" notAfter="1481">[pas après 1481]</date>, 2°, 88 f. : prologue en prose ; 
+                <title>Böece de Confort</title>, traduction X de la 
+                <title>Consolatio Philosophiae</title> de Boèce, avec épilogue [titres : <title type="ancien">Prologue sur Boece de consolacion</title> ; <title>Cy finist le prologue sur Boece de consolacion</title> ; <title>Cy finist Boece de consolacion</title>]. Prologue inc. 
+                <seg type="incipit">Prologue sur Boece de consolacion <lb/>Boece estant en exil composa ung livre lequel est appellé Boece de consolacion pourtant car l’entencion de l’acteur est de donner a son semblable ou pareil et aussi a tous desolez et desconfortez qui le liroient ou lire orroient confort et consolacion, lequel Boece fonda son entencion sus une telle fiction</seg>... ; expl. ...<seg type="explicit">et ceulx qui tendent a m’avoir honneur leur pourchace et seignourie et les jecte de serve vie <lb/>Cy finist le prologue
                 <lb/>sur Boece de consolacion</seg>.
                 <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. R. 89
                   <listBibl>
@@ -5093,10 +5126,7 @@
                   </decoDesc>
                 </physDesc>
                 <history>
-                  <origin notBefore="1476" notAfter="1476">1476 (<quote>« Explicit Boecius de consolacione
-                    <lb/>Prima mensis februarii
-                    <lb/>Anno Domini millesimo
-                    <lb/>quadringentesimo septuagesimo sexto »</quote> f. 80v ; cf. A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 791)</origin>
+                  <origin notBefore="1476" notAfter="1476">1476 (<quote>« Explicit Boecius de consolacione<lb/>Prima mensis februarii<lb/>Anno Domini millesimo<lb/>quadringentesimo septuagesimo sexto »</quote> f. 80v ; cf. A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 791)</origin>
                   <provenance>possesseur : <quote>«  A <persName type="possesseur" key="Hinselin, Gabriel">Gabriel Hinselin</persName> 1616 »</quote> (f. de garde de chaque volume) ; armes dessinées (peintes dans les mss 4335 et 4339) à l’époque moderne sur un f. de garde de fin de chaque volume (non identifiées).</provenance>
                 </history>
                 <additional>
@@ -6116,7 +6146,6 @@
                 <settlement/>
                 <repository/>
                 <idno/>
-                <msName/>
               </msIdentifier>
               <msContents>
                 <msItem>

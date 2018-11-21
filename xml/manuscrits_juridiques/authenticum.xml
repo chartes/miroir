@@ -824,7 +824,7 @@
                       </msItem>
                       <msItem xml:id="kbr_10467_institutiones_livre4">
                         <locus from="107" to="141"/>
-                        <title type="setion" xml:lang="fr">Livre IV</title>
+                        <title type="section" xml:lang="fr">Livre IV</title>
                         <incipit xml:lang="fro"><seg type="rubric">De obligacionibus que ex delicto nascuntur</seg><lb/><supplied resp="#FD">P</supplied>ource que nous avons traittié ou livre qui est devant cestuy des obligemenz qui sont faiz de <expan>m<ex>ar</ex>chié</expan>...</incipit>
                         <explicit xml:lang="fro">C’est que vous en puissiez avoir aucun peu de la congnoissance mais plus diligens <expan>enseignem<ex>en</ex>s</expan> vous en seront donnez es livres des Digestez se Dieu plaist.</explicit>
                         <msItem>

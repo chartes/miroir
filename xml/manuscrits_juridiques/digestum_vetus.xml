@@ -153,7 +153,7 @@
             </listBibl>
             <div type="manuscrit">
               <head>Paris, Bibl. nat. de Fr., fr. 2844</head>
-              <msDesc xml:id="fr_2844" source="http://gallica.bnf.fr/ark:/12148/btv1b9059006z" resp="#GP"><!-- type="biblissima" -->
+              <msDesc xml:id="fr_2844" source="http://gallica.bnf.fr/ark:/12148/btv1b9059006z"><!-- type="biblissima" -->
                 <msIdentifier>
                   <country>France</country>
                   <settlement>Paris</settlement>
@@ -7914,7 +7914,7 @@
                 </listBibl>
                 <div type="manuscrit">
                   <head>Paris, Bibl. nat. de Fr., fr. 5245</head>
-                  <msDesc xml:id="fr_5245" source="https://gallica.bnf.fr/ark:/12148/btv1b10724336n http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000090869" resp="#LM"><!-- type="biblissima" -->
+                  <msDesc xml:id="fr_5245" source="https://gallica.bnf.fr/ark:/12148/btv1b10724336n http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000090869"><!-- type="biblissima" -->
                     <msIdentifier>
                       <country>France</country>
                       <settlement>Paris</settlement>

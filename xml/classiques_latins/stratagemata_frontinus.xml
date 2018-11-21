@@ -719,9 +719,7 @@
                 </listBibl>
               </additional>
               <msPart>
-                <altIdentifier>
-                  <idno>I</idno>
-                </altIdentifier>
+                <msIdentifier><idno>I</idno></msIdentifier>
                 <msContents>
                   <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titre : <title type="ancien">Li abregemenz noble homme Vegece Flave et Regné des establissemens apartenanz a chevalerie</title> f. 1a] f. 1a-89b : f. 89 contemporain de la 2e partie du ms.</p>
                 </msContents>
@@ -735,9 +733,7 @@
                 </history>
               </msPart>
               <msPart>
-                <altIdentifier>
-                  <idno>II</idno>
-                </altIdentifier>
+                <msIdentifier><idno>II</idno></msIdentifier>
                 <msContents>
                   <p>traduction des <title>Stratagemata</title> de Frontin [titre :
                     <title type="ancien">livre de Frontin</title> f. 90a, 92d, 93a, 134c] f. 90a-134c.</p>

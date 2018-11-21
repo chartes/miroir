@@ -50,11 +50,20 @@
     <element name="msDesc">
       <a:documentation>
         <div xmlns="http://www.w3.org/1999/xhtml">
-          <p>TODO MP: (très) courte documentation du modèle : comment on dresse la liste des manuscrits décrits et comment on lie les notices éparpillées ?</p>
+          <p>On distingue quatre types de notices :</p>
+          <ul>
+            <li>Les <em>notices maîtresses</em> portent un @xml:id mais pas de @sameAs. Pour dresser la liste des manuscrits du corpus, rechercher : //msDesc[@xml:id and not(@sameAs)].</li>
+            <li>Les <em>notices non maîtresses contenant un passage édité</em> contiennent un @corresp avec la référence à leur notice maîtresse. Rechercher : //msDesc[@corresp and not(ancestor::witness)]/msContents dont le contenu peut être agrégé à la notice maîtresse. Si besoin est, on peut savoir quelle partie est éditée dans ce msContents en récupérant : //msDesc/parent::div/@type . Attention, une notice maîtresse peut aussi contenir un élément msContents.</li>
+            <li>Les <em>notices doublons</em> portent un @xml:id et un @sameAs renvoyant à leur notice maîtresse. Le contenu est strictement identique à la notice maîtresse (ou à 1-2 caractères près).</li>
+            <li>Les notices des <em>listes de témoins</em> servant à l'apparat critique peuvent être trouvées ainsi : //msDesc[@corresp and ancestor::witness].</li>
+          </ul>
         </div>
       </a:documentation>
       <ref name="msDesc.atts"/>
       <ref name="msIdentifier"/>
+      <optional>
+        <ref name="msContents"/>
+      </optional>
       <optional>
         <ref name="physDesc"/>
       </optional>
@@ -62,15 +71,12 @@
         <ref name="history"/>
       </optional>
       <optional>
-        <ref name="msContents"/>
+        <ref name="additional"/>
       </optional>
       <optional>
         <oneOrMore>
           <ref name="msPart"/>
         </oneOrMore>
-      </optional>
-      <optional>
-        <ref name="additional"/>
       </optional>
     </element>
   </define>
@@ -102,24 +108,11 @@
       </attribute>
     </optional>
     <optional>
-      <ref name="msDesc.n.att"/>
-    </optional>
-  </define>
-  
-  <define name="msDesc.n.att">
-    <a:documentation>TEMPORAIRE. Tag abuse – stocker l’information initiale</a:documentation>
-    <attribute name="n">
-      <choice>
+      <attribute name="type">
         <value>incunabulum</value>
         <a:documentation>Temporaire: identifier les notices d’incunables</a:documentation>
-        <value>incipit</value>
-        <a:documentation>Définit la source de l'édition d'un ou plusieurs incipit.</a:documentation>
-        <value>prologue</value>
-        <a:documentation>Définit la source de l'édition d'un prologue.</a:documentation>
-        <value>sommaire</value>
-        <a:documentation>????.</a:documentation>
-      </choice>
-    </attribute>
+      </attribute>
+    </optional>
   </define>
   
   <define name="msIdentifier">
@@ -135,16 +128,7 @@
         <a:documentation>Institution de conservation du manuscrit</a:documentation>
         <text/>
       </element>
-      <element name="idno">
-        <a:documentation>Cote du manuscrit</a:documentation>
-        <optional>
-          <attribute name="source">
-            <a:documentation>URI de référence pour un manuscrit (par exemple l’ARK Gallica)</a:documentation>
-            <data type="anyURI"/>
-          </attribute>
-        </optional>
-        <text/>
-      </element>
+      <ref name="idno"/>
       <!-- prévoir d’ajouter une URI optionnelle -->
       <!--
         <optional>
@@ -161,6 +145,25 @@
       <zeroOrMore>
         <ref name="msName"/>
       </zeroOrMore>
+      <optional>
+        <element name="altIdentifier">
+          <ref name="idno"/>
+        </element>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="idno">
+    <element name="idno">
+      <!--<a:documentation>Cote du manuscrit</a:documentation>-->
+      <a:documentation>Identifiant du manuscrit (cote, sigle, numéro d'un msPart)</a:documentation>
+      <optional>
+        <attribute name="source">
+          <a:documentation>URI de référence pour un manuscrit (par exemple l’ARK Gallica)</a:documentation>
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
+      <text/>
     </element>
   </define>
   
@@ -292,18 +295,38 @@
   <define name="msItem">
     <element name="msItem">
       <a:documentation>Un item du contenu intellectuel du manuscrit</a:documentation>
+      <optional>
+        <attribute name="n">
+          <data type="string"/>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="xml:id">
+          <data type="ID"/>
+        </attribute>
+      </optional>
       <!-- locus doit apparaître en tête de div, cf guidelines -->
-      <ref name="locus"/>
-      <!-- obligatoire ? Les crochets typo devrait être inférés par une valeur d’@: title[@subtype='forge'] -->
+      <optional>
+        <ref name="locus"/>
+      </optional>
+      <optional>
+        <ref name="title"/>
+      </optional>
+      <!-- obligatoire ? Les crochets typo devraient être inférés par une valeur d’@: title[@subtype='forge'] -->
       <a:documentation>Titre forgé de l’item</a:documentation>
-      <ref name="title"/>
+      <!-- TITLE : On a sorti les titres latins originaux des <incipit> pour la cohérence interne du contenu. -->
+      <zeroOrMore>
+        <ref name="msItem"/>
+      </zeroOrMore>
+      <zeroOrMore>
+        <ref name="p"/>
+      </zeroOrMore>
       <!-- LOCUS on a sorti les <locus> des <incipit> et <explicit> pour rétablir la séquence et les liens-->
       <!-- incipit OBLIGATOIRE -->
-      <element name="incipit">
-        <ref name="cipit.cont"/>
-      </element>
       <optional>
-        <ref name="msItem"/>
+        <element name="incipit">
+          <ref name="cipit.cont"/>
+        </element>
       </optional>
       <optional>
         <element name="explicit">
@@ -320,12 +343,18 @@
   <define name="cipit.cont">
     <a:documentation>Contenu d’un incipit ou d’un explicit. NB: les guidelines n’autorisent pas les éléments p et lg</a:documentation>
     <!-- On limite pour l’instant le contenu (par rapport à la macro flow pour les p -->
+    <optional>
+      <attribute name="xml:lang">
+        <data type="language"/>
+      </attribute>
+    </optional>
     <oneOrMore>
       <choice>
         <text/>
         <ref name="typo"/>
         <ref name="point"/>
         <ref name="foreign"/>
+        <ref name="seg"/>
       </choice>
     </oneOrMore>
   </define>
@@ -334,7 +363,10 @@
     <element name="locus">
       <a:documentation>Foliotation de l’item du manuscrit (séquence continue ou discontinue avec liens optionnels aux images).</a:documentation>
       <!-- Pour une séquence, voir si on peut inscrire un manifest IIIF en lien -->
-      <attribute name="from"/>
+      <!-- @FROM : 40/395 <locus> portent un @from. Bien que l'attribut soit utile dans l'absolu, je le rend optionnel pour l'instant. -->
+      <optional>
+        <attribute name="from"/>
+      </optional>
       <optional>
         <attribute name="to"/>
       </optional>
@@ -344,6 +376,23 @@
       <text/>
     </element>
   </define>
+  
+  
+  <define name="expan">
+    <element name="expan">
+      <a:documentation>un mot dont on résout l'abréviation</a:documentation>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <element name="ex">
+            <a:documentation>la résolution de l'abréviation</a:documentation>
+            <text/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
   
   <define name="msItem.note">
     <a:documentation>Commentaire libre portant sur l’item et affiché dans le corps de la notice. Cette note NE DOIT PAS être déportée.</a:documentation>
@@ -393,16 +442,14 @@
       <a:documentation>Description libre des composants matériels</a:documentation>
       <!-- TODO: voir les champs obligatoires dans l’EAD => les métadonnées de dimensions sont sans doute obligatoires et bien normalisées => pas le cas sur Gallica, revoir avec A. Tur-->
       <!-- manuscrits juridiques: notices structurées et détaillées à outrance, extent ne va pas du tout, il faut restructurer : champs DB / champs libres -->
-      <!--
       <choice>
         <ref name="p"/>
         <ref name="supportDesc"/>
       </choice>
-      -->
-      <element name="p">
-        <!-- classiques latins: pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -->
+      <!--<element name="p">
+        <!-\- classiques latins: pour l’instant un unique <p> sans typo ; on peut typer plus finement le contenu. Pas nécessaire pour FD à priori \ voir avec JBC, notamment pour les dimensions: supportDesc/extent/dimensions -\->
         <text/>
-      </element>
+        </element>-->
     </element>
   </define>
   
@@ -476,6 +523,9 @@
               <ref name="textual"/>
               <ref name="persName"/>
               <ref name="orgName"/>
+              <element name="quote">
+                <text/>
+              </element>
             </choice>
           </oneOrMore>
         </element>
@@ -485,6 +535,7 @@
   
   <define name="msPart">
     <element name="msPart">
+      <a:documentation>Une unité dans un recueil factice ou postérieur à la composition.</a:documentation>
       <!-- beaucoup moins détaillé que msDesc/msIdentifier -->
       <element name="msIdentifier">
         <!-- NB reprise dans les fichiers du contenu de idno. La simple numérotation ("I", "II") est incorrecte sémantiquement. On identifie la partie du manuscrit grâce à la foliotation-->
@@ -493,12 +544,15 @@
           <text/>
         </element>
       </element>
-      <!-- moins structuré que msContents/mItem => revoir cette logique. Idéalement appeler ici le pattern msItem -->
+      <!-- moins structuré que msContents/msItem => revoir cette logique. Idéalement appeler ici le pattern msItem -->
       <!-- voir surtout ars_amatoria_ovidius.xml -->
       <!-- des msPart parfois sans description de contenu... on garde ? on passe msContents en optionnel ? -->
       <element name="msContents">
         <ref name="p"/>
       </element>
+      <optional>
+        <ref name="physDesc"></ref>
+      </optional>
       <optional>
         <ref name="history"/>
       </optional>
@@ -518,6 +572,36 @@
     </element>
   </define>
   
+  <define name="listWit">
+    <element name="listWit">
+      <a:documentation>liste de témoins</a:documentation>
+      <optional>
+        <element name="head">
+          <text/>
+        </element>
+      </optional>
+      <oneOrMore>
+        <element name="witness">
+          <choice>
+            <attribute name="xml:id">
+              <data type="ID"/>
+            </attribute>
+            <attribute name="corresp">
+              <data type="anyURI"/>
+            </attribute>
+          </choice>
+          <element name="ref">
+            <attribute name="ref">
+              <data type="anyURI"/>
+            </attribute>
+            <oneOrMore>
+              <ref name="msDesc"/>
+            </oneOrMore>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </define>
   
   <!-- dans l’include on surcharge les définitions -->
   <include
@@ -562,6 +646,10 @@
               <a:documentation>liste de manuscrits</a:documentation>
               <value>poList</value>
               <a:documentation>liste d’imprimés (printout list)</a:documentation>
+              <value>editions</value>
+              <a:documentation>liste d'éditions d'une oeuvre</a:documentation>
+              <value>deperdita</value>
+              <a:documentation>liste de manuscrits perdus</a:documentation>
             </choice>
           </attribute>
         </optional>
@@ -613,6 +701,7 @@
             <text/>
             <ref name="typo"/>
             <ref name="point"/>
+            <ref name="expan"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -627,6 +716,9 @@
           <ref name="hi"/>
           <ref name="num"/>
           <ref name="title"/>
+          <element name="quote">
+            <text/>
+          </element>
         </choice>
       </zeroOrMore>
     </define>
@@ -690,6 +782,12 @@
         </attribute>
       </optional>
       <optional>
+        <attribute name="source">
+          <data type="anyURI"/>
+          <a:documentation>Référence à la notice du manuscrit utilisé pour produire l'édition.</a:documentation>
+        </attribute>
+      </optional>
+      <optional>
         <ref name="n-att"/>
       </optional>
       <ref name="xml-atts"/>
@@ -699,6 +797,8 @@
       <optional>
         <attribute name="type">
           <choice>
+            <value>auteur</value>
+            <a:documentation>(1 occ) - l'auteur d'une oeuvre mentionnée hors d'un élément author.</a:documentation>
             <value>ancien</value>
             <a:documentation>(413/1139 occs) TRÈS MAL DÉFINI, À REVOIR</a:documentation>
             <value>possesseur</value>
@@ -758,6 +858,16 @@
       <choice>
         <value>ancien</value>
         <a:documentation>titre donné par un témoin ancien (différent du titre normalisé moderne)</a:documentation>
+        <value>sub</value>
+        <a:documentation>sous-titre</a:documentation>
+        <value>section</value>
+        <a:documentation>titre d'une section d'une oeuvre intellectuelle</a:documentation>
+        <value>partie</value>
+        <a:documentation>titre d'une partie d'un manuscrit</a:documentation>
+        <value>nom_ms</value>
+        <a:documentation>nom d'un manuscrit perdu</a:documentation>
+        <value>oeuvre</value>
+        <a:documentation>titre d'une oeuvre intellectuelle</a:documentation>
       </choice>      
     </define>
     
