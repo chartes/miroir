@@ -1098,7 +1098,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="2">
-                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">Hybrida libraria</term>. Changement de main mais écriture très proche f. 67a-70d. Coefficient d’abréviation : 7,8% (7,8% sans
+                        <p><label>Ecriture</label><term xml:lang="lat">Hybrida libraria</term>. Changement de main mais écriture très proche f. 67a-70d. Coefficient d’abréviation : 7,8% (7,8% sans
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label>scripta composite en grande partie standardisée, laissant affleurer des diatopismes orientant vers le Nord-Est de la Picardie linguistique et la Wallonie. Aucun des traits « typiquement picards » recensés par Gossen (<bibl><title>Grammaire de l’ancien picard</title>, Paris, 1970, p. 153</bibl>) ou opposant très régulièrement la scripta picarde à la scripta administrative exportée de Paris (cf. <bibl>Wüest dans <title>LRL</title>, t. II/2, p. 313</bibl>) ne se rencontre dans les passages transcrits.
                           <list rend="circle">
@@ -1755,14 +1755,14 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">semitextualis libraria</term> par une seule main. Coefficient d’abréviation : 20,7% (17,6% sans <quote>et</quote>).</p>
+                        <p><label>Ecriture</label><term xml:lang="lat">semitextualis libraria</term> par une seule main. Coefficient d’abréviation : 20,7% (17,6% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>les extraits transcrits orientent largement vers l’aire centrale du domaine d’oïl, en particulier vers l’Orléanais, qui présente certains traits occidentaux. Parmi eux notons la désinence de la P4 en -<hi rend="i">on</hi> (<bibl>Dees 1980, c. 219</bibl>) ou les graphies <quote>eir</quote>, <quote>heir</quote> (<bibl>Dees 1980, c. 158</bibl>). L’absence de trace de palatalisation normanno-picarde exclut la Normandie, de même que les graphies <quote>leu</quote> (<bibl>Dees 1980, c. 168</bibl>), <quote>dou</quote> (enclise de <hi rend="i">de</hi> + <hi rend="i">le</hi>) (<bibl>Dees 1980, c. 42</bibl>), <quote>meniere</quote> et non <quote>maniere</quote> (<bibl>Dees 1980, c. 174</bibl>), tout comme les occurrences de <quote>tuit</quote> en fonction de sujet masc. plur. (<bibl>Dees 1980, c. 91</bibl>). La
                           <foreign xml:lang="lat">scripta</foreign> du manuscrit est clairement étrangère au sud-est, au nord et au nord-est du domaine d’oïl. On relève toutefois quelques traits caractéristiques que la Champagne partage avec le picard méridional et le bourguignon septentrional, comme
                           <quote>viaut</quote> et <quote>siaut</quote>, indicatifs présents P3 de <hi rend="i">voloir</hi> et de <hi rend="i">soloir</hi> (cf. <bibl><title>Nouveau corpus d’Amsterdam</title></bibl>) ou bien la graphie
                           <quote>oroille</quote> (occurrences champenoises dans le
                           <bibl><title>Nouveau corpus d’Amsterdam</title></bibl>).</p>
                         <p><label>Traces de lecture</label>notes de lecture en <lang xml:lang="fro">français</lang> de la 2<hi rend="sup">e</hi> moitié du 14<hi rend="sup">e</hi> s. en
-                          <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term> de très petit module par un même lecteur : ex. f. 19v, 20, 24v, 25, 25v, 41, 41v. Ces gloses, parfois assez fournies, courent tout le long du texte et commencent souvent par <quote xml:lang="lat">nota</quote>. Nombreux manicules (f. 2, 2v, 17, 22, 45v...) ; <q>nota</q> simples
+                          <term xml:lang="lat">cursiva currens</term> de très petit module par un même lecteur : ex. f. 19v, 20, 24v, 25, 25v, 41, 41v. Ces gloses, parfois assez fournies, courent tout le long du texte et commencent souvent par <quote xml:lang="lat">nota</quote>. Nombreux manicules (f. 2, 2v, 17, 22, 45v...) ; <q>nota</q> simples
                           <foreign xml:lang="lat">passim</foreign>.</p>
                         <p><label>Corrections</label>très rares corrections.</p>
                       </handDesc>
@@ -2403,7 +2403,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label> écriture intermédiaire entre la <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> et la <term xml:lang="lat" cRef="URI_terme_thesaurus">semitextualis libraria</term>, les <hi rend="i">a</hi> à double compartiment alternant avec des <hi rend="i">a</hi> à compartiment simple. Coefficient d’abréviation : 9,8% (9,6% sans <quote>et</quote>).</p>
+                        <p><label>Ecriture</label> écriture intermédiaire entre la <term xml:lang="lat">textualis libraria</term> et la <term xml:lang="lat">semitextualis libraria</term>, les <hi rend="i">a</hi> à double compartiment alternant avec des <hi rend="i">a</hi> à compartiment simple. Coefficient d’abréviation : 9,8% (9,6% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>le ms. présente une <foreign xml:lang="lat">scripta</foreign> assurément normande, combinant à la fois des traits communs aux <foreign xml:lang="lat">scriptae</foreign> occidentales et d’autres à l’aire normanno-picarde. Parmi les traits les plus fréquents attestés dans les rubriques, incipit et titres édités, retenons :<list rend="circle">
                           <item>le graphème régional <hi rend="i">ei</hi>, résultant de l’évolution de [a] tonique libre :
                             <quote>quasseiz</quote> (f. 28d, part. passé),
@@ -3058,7 +3058,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term>. Texte et rubrique semblent copiés par une seule main, assez régulière. Quelques changements d’encre. Coefficient d’abréviation : 20,7% (17,9% sans <quote>et</quote>).</p>
+                        <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term>. Texte et rubrique semblent copiés par une seule main, assez régulière. Quelques changements d’encre. Coefficient d’abréviation : 20,7% (17,9% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la scripta est nettement picarde : palatalisations normanno-picardes (<quote>souspecheneus</quote>, <quote>chi</quote>,
                           <quote>couvenenches</quote>, <quote>franchois</quote>,
                           <quote>recheu</quote>), yod + ATA &gt; -<hi rend="i">ie</hi> (participes passés
@@ -3691,7 +3691,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label> de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> dont le soin varie au cours de la copie. Régulière et serrée dans les premiers feuillets, elle devient beaucoup plus ample (ex. f. 69) avant de retrouver le module et la régularité du début à la fin de la copie. – Le copiste a copié le texte et les rubriques. Coefficient d’abréviation : 7,1% (4,4% sans
+                        <p><label>Ecriture</label> de type <term xml:lang="lat">textualis libraria</term> dont le soin varie au cours de la copie. Régulière et serrée dans les premiers feuillets, elle devient beaucoup plus ample (ex. f. 69) avant de retrouver le module et la régularité du début à la fin de la copie. – Le copiste a copié le texte et les rubriques. Coefficient d’abréviation : 7,1% (4,4% sans
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label> la <foreign xml:lang="lat">scripta</foreign> du manuscrit est celle de l’Ile-de-France. On ne relève pas dans les extraits édités (rubriques et titres) d’éléments caractéristiques de l’Ouest, susceptibles d’orienter vers l’Orléanais. Les <foreign xml:lang="lat">scriptae</foreign> du Nord et du Nord-Est sont également exclues.</p>
                       </handDesc>
@@ -4304,7 +4304,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> très régulière avec hastes montantes fourchues. Coefficient d’abréviation : 14,4% (14,3% sans <quote>et</quote>).</p>
+                        <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term> très régulière avec hastes montantes fourchues. Coefficient d’abréviation : 14,4% (14,3% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> appartient à l’aire centrale du domaine d’oïl, Champagne comprise. Les diatopismes relevés dans les extraits transcrits ne permettent pas de préciser sa localisation. En effet, la forme <quote>sunt</quote> (ind. prés. P6 de <hi rend="i">estre</hi>) est attestée dans le Nord et le Nord-Est (picard, champenois), mais aussi en Normandie et en Angleterre (cf. <bibl>J. Chaurand,
                           <title>Introduction à la dialectologie</title>, p. 79</bibl>). <hi rend="i">Aubre</hi> &lt; <hi rend="sc">ARBORE</hi>, d’après le
                           <bibl><title>Nouveau Corpus d’Amsterdam</title></bibl>, est surtout attesté en Champagne occidentale.</p>
@@ -4896,7 +4896,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="2">
-                        <p><label>Ecriture</label> de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> − au moins deux copistes se sont succédés (changement de main net au f. 9, plus douteux au f. 79v). Irrégulière dès les premiers f., la <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> accroît son irrégularité après le f. 9 et devient plus rapide. L’écriture allongée à la fin du huitième quaternion vise sans doute à assurer la soudure avec le 9<hi rend="sup">e</hi> cahier, pourtant copiée de la même main. Ce phénomène pourrait indiquer que les cahiers n’ont pas tous été copiés à la suite. Coefficient d’abréviation : 7,5% (4,2% sans <quote>et</quote>).</p>
+                        <p><label>Ecriture</label> de type <term xml:lang="lat">textualis libraria</term> − au moins deux copistes se sont succédés (changement de main net au f. 9, plus douteux au f. 79v). Irrégulière dès les premiers f., la <term xml:lang="lat">textualis libraria</term> accroît son irrégularité après le f. 9 et devient plus rapide. L’écriture allongée à la fin du huitième quaternion vise sans doute à assurer la soudure avec le 9<hi rend="sup">e</hi> cahier, pourtant copiée de la même main. Ce phénomène pourrait indiquer que les cahiers n’ont pas tous été copiés à la suite. Coefficient d’abréviation : 7,5% (4,2% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> semble être conforme à la <foreign xml:lang="lat">scripta</foreign> exportée depuis Paris, sans que l’on puisse exclure une zone occidentale plus large.</p>
                         <p><label>Corrections</label>le ms a été corrigé par grattages (f. 9a), par exponctuations, par de rares insertions intralinéaires.</p>
                         <p><label>Traces de lecture</label>notes effacées en cursive du 14<hi rend="sup">e</hi> s. (?) (f. 43).</p>
@@ -4905,7 +4905,7 @@
                         <decoNote>
                           <label>Structure</label>
                           <p>Le texte s’ouvre par une rubrique effacée et par une miniature de 5 UR.</p>
-                          <p>La division en <hi rend="b">livres</hi> est marquée par : 1. l’annonce de l’achèvement ou du début d’un livre, rubriquée sauf entre le livre 1 et le livre 2 où elle est notée en <term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis formata</term> à l’encre noire ; 2. une initiale émanchée bleue et rouge filigranée. En subsiste une seule en tête du livre 2 (9 UR). Celles qui ouvraient les livres 3 (f. 50a) et 4 (f. 78a) ont été découpées ; 3. un titre courant (<quote>L</quote> en rouge au verso ; numéro de livre au recto en chiffres romains rouges et bleus).</p>
+                          <p>La division en <hi rend="b">livres</hi> est marquée par : 1. l’annonce de l’achèvement ou du début d’un livre, rubriquée sauf entre le livre 1 et le livre 2 où elle est notée en <term xml:lang="lat">littera textualis formata</term> à l’encre noire ; 2. une initiale émanchée bleue et rouge filigranée. En subsiste une seule en tête du livre 2 (9 UR). Celles qui ouvraient les livres 3 (f. 50a) et 4 (f. 78a) ont été découpées ; 3. un titre courant (<quote>L</quote> en rouge au verso ; numéro de livre au recto en chiffres romains rouges et bleus).</p>
                           <p>La division en <hi rend="b">titres</hi> est marquée par : 1. une rubrique ; 2. des festons émanchés rouges et bleus occupant, sur toute la hauteur de la col., l’intérieur de la double ligne à droite de la colonne où commence le nouveau titre ; 3. une initiale filigranée rouge ou bleue de 2 ou 3 UR.</p>
                           <p>Les titres sont divisés par des pieds-de-mouche alternativement rouges et bleus. A un niveau inférieur, initiales rehaussées de rouge uniquement dans le premier cahier (f. 1a-8d).</p>
                         </decoNote>
@@ -5607,12 +5607,12 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" key="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &amp; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
-                          <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis formata</term>. Coefficient d’abréviation : 9,05% (7,5 % sans <quote>et</quote>).</p>
+                        <p><label>Ecriture</label><term xml:lang="lat">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" key="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &amp; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
+                          <term xml:lang="lat">textualis formata</term>. Coefficient d’abréviation : 9,05% (7,5 % sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la graphie du manuscrit correspond à la
                           <foreign xml:lang="lat">scripta</foreign> de l’Ile-de-France. Les <foreign xml:lang="lat">scriptae</foreign> de l’Est et du Nord-Est sont totalement exclues et les traits partagés avec l’Ouest uniquement sont trop rares pour conclure à une <foreign xml:lang="lat">scripta</foreign> orléanaise.</p>
                         <p><label>Corrections</label>corrections peu nombreuses et surtout concentrées au début du texte (ex. corrections interlinéaires après grattage f. 3d ; ajouts de pieds-de-mouche à l’encre noire f. 3v-4).</p>
-                        <p><label>Traces de lecture</label> en <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term> du 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s., ajout en latin des intitulés de titres manquants dans les deux premiers cahiers ; manicule f. 73c.</p>
+                        <p><label>Traces de lecture</label> en <term xml:lang="lat">cursiva currens</term> du 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s., ajout en latin des intitulés de titres manquants dans les deux premiers cahiers ; manicule f. 73c.</p>
                       </handDesc>
                       <decoDesc>
                         <decoNote>
@@ -5720,11 +5720,11 @@
                             <height quantity="310">310</height>
                             <width quantity="215">215</width>
                           </dimensions> (justification : 190 x 132 mm.). Réglure à la mine de plomb (1-1-11/0/1-1/J), à l’exception de 3 f. remplacés (f. 75, 79 et 81) réglés à l’encre brune. Copié sur 2 col., le ms. compte 38 l. par col. soit une UR de 5 mm. – Foliotation moderne ; titre courant : justifié dans l’entrecolonne : « L » rubriqué sur le f. verso ; numéro du livre en chiffres rouges et bleus au recto.</note></extent>
-                          <collation>1<hi rend="sup">8</hi> (f. 1-8v), 2<hi rend="sup">8</hi> (f. 9-16v), 3<hi rend="sup">8</hi> (f. 17-24v), 4<hi rend="sup">8</hi> (f. 25-32v), 5<hi rend="sup">8</hi> (f. 33-40v), 6<hi rend="sup">8</hi> (f. 41-48v), 7<hi rend="sup">8</hi> (f. 49-56v), 8<hi rend="sup">8</hi> (f. 57-64v [réclame en <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term> au bas du f. 64v]), 9<hi rend="sup">8</hi> (f. 65-72v [réclame en <term xml:lang="lat" cRef="URI_terme_thesaurus">cursiva currens</term> au bas du f. 72v]), 10<hi rend="sup">10-1</hi>(f. 73-80v [les f. 75, 78 et 81 sont des f. de remplacement]).</collation>
+                          <collation>1<hi rend="sup">8</hi> (f. 1-8v), 2<hi rend="sup">8</hi> (f. 9-16v), 3<hi rend="sup">8</hi> (f. 17-24v), 4<hi rend="sup">8</hi> (f. 25-32v), 5<hi rend="sup">8</hi> (f. 33-40v), 6<hi rend="sup">8</hi> (f. 41-48v), 7<hi rend="sup">8</hi> (f. 49-56v), 8<hi rend="sup">8</hi> (f. 57-64v [réclame en <term xml:lang="lat">cursiva currens</term> au bas du f. 64v]), 9<hi rend="sup">8</hi> (f. 65-72v [réclame en <term xml:lang="lat">cursiva currens</term> au bas du f. 72v]), 10<hi rend="sup">10-1</hi>(f. 73-80v [les f. 75, 78 et 81 sont des f. de remplacement]).</collation>
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> de la main d’un seul copiste, excepté pour les trois feuillets de remplacement. - Coefficient d’abréviation : 5,3% (1,1 % sans
+                        <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term> de la main d’un seul copiste, excepté pour les trois feuillets de remplacement. - Coefficient d’abréviation : 5,3% (1,1 % sans
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label>d’après les extraits transcrits, la
                           <foreign xml:lang="lat">scripta</foreign> du manuscrit semble être celle qui a été exportée depuis l’Ile-de-France.</p>
@@ -6419,7 +6419,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term>. Lettres montantes avec hastes dentelées et têtes d’hommes fantaisistes aux premières lignes de chaque colonne. D’après F. Olivier-Martin (éd., p. XII), le ms. aurait été copié par
+                        <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term>. Lettres montantes avec hastes dentelées et têtes d’hommes fantaisistes aux premières lignes de chaque colonne. D’après F. Olivier-Martin (éd., p. XII), le ms. aurait été copié par
                           <persName role="copiste" key="Gilles de Langres">Gilles de Langres</persName>, mais le colophon (cf. <foreign xml:lang="lat">supra</foreign>) est d’interprétation difficile.</p>
                         <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> du ms. ne se distingue pas de la
                           <foreign xml:lang="lat">scripta</foreign> exportée à la fin du Moyen Âge depuis l’Ile-de-France.</p>
@@ -7038,7 +7038,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> régulière. Probablement un même copiste pour les deux textes. Hastes montantes de la première ligne de la col. parfois prolongées dans la traduction des <title>Institutes</title>, par ex. f. 39c proche du ms Paris, bibl. de l’Arsenal 1248, f. 52 [<bibl>1307, <title>Mss datés</title>, t. I, pl. 29</bibl>] ; Coefficient d’abréviation : 6,4% (3,7% sans
+                        <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term> régulière. Probablement un même copiste pour les deux textes. Hastes montantes de la première ligne de la col. parfois prolongées dans la traduction des <title>Institutes</title>, par ex. f. 39c proche du ms Paris, bibl. de l’Arsenal 1248, f. 52 [<bibl>1307, <title>Mss datés</title>, t. I, pl. 29</bibl>] ; Coefficient d’abréviation : 6,4% (3,7% sans
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label>même si leur <foreign xml:lang="lat">scripta</foreign> n’est pas très marquée, les extraits édités pointent vers le sud de la Haute-Marne, la Bourgogne et la Franche-Comté. Lorraine, Picardie et Wallonie sont exclues, de même que l’Ouest du domaine d’oïl. Parmi les traits relevés, notons : <list type="bulleted">
                           <item><quote>nuns</quote> (<bibl>cf. Dees 1987, c. 55</bibl>), attesté en Bourgogne et en Franche-Comté</item>
@@ -7228,7 +7228,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc>
-                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis</term>. Coefficient d'abréviation : 11,8% (7,6% sans les
+                        <p><label>Ecriture</label><term xml:lang="lat">littera textualis</term>. Coefficient d'abréviation : 11,8% (7,6% sans les
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> est délicate à analyser, étant donné le peu de texte que nous livre le fragment. Elle exclut l'est et le nord du domaine d'oïl (graphie <quote>her</quote>, cf.
                           <bibl>Dees 1983, c. 158-160</bibl>). Si l'on ne peut exclure l'Ile-de-France et donc Paris, certains éléments pointent vers l'Ouest du domaine (Orléanais, Anjou, Maine) : adjectif possessif <quote>lour</quote> (<bibl>Dees 1983, c. 87b</bibl>), <quote>nevouz</quote> (<bibl>Dees 1983, c. 194</bibl>), <quote>poi</quote> (<bibl>Dees 1987, c. 506</bibl>), <quote>leu</quote> (<bibl>Dees 1983, c. 168</bibl>).</p>
@@ -8033,8 +8033,8 @@
                       </supportDesc>
                     </objectDesc>
                     <handDesc hands="1">
-                      <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera cursiva currens</term> /
-                        <term xml:lang="lat" cRef="URI_terme_thesaurus">libraria</term> assez rapide et régulière. Une seule main pour l’ensemble du manuscrit. Coefficient d’abréviation : 11,8 % (11,2 sans <quote>et</quote>).</p>
+                      <p><label>Ecriture</label><term xml:lang="lat">littera cursiva currens</term> /
+                        <term xml:lang="lat">libraria</term> assez rapide et régulière. Une seule main pour l’ensemble du manuscrit. Coefficient d’abréviation : 11,8 % (11,2 sans <quote>et</quote>).</p>
                       <p><label>Scripta</label>quelques traces de <foreign xml:lang="lat">scripta</foreign> normande à la rime comme à l’intérieur du vers.</p>
                       <p><label>Corrections</label>rares, par rature (f. 191c) ou surcharge (f. 174a, 176a).</p>
                     </handDesc>

@@ -1733,7 +1733,6 @@
     NOTES SUR L'ENCODAGE INITIAL
     
     *****STRUCTURE ET DIV
-    ** LA STRUCTURE DU TEXTE est fautive: table des matières pas logique (cf Traduction d’Octovien de Saint-Gelais)
     ** div/@type : voir la liste des valeurs autorisées et leur documentation
     ** div/@xml:id : revoir la logique d’identification => à quoi servent ces identifiants ?
     ** div/@n : pourquoi ? des tris
@@ -1741,15 +1740,6 @@
     ** toutes les div ne sont pas typées... toutes les div n’ont pas d’@xml:id... Qu’est-ce qui est obligatoire ????
     ** div[@type="expression"] ; ne sert à rien sinon dans l’XSLT à l’affichage de certains <title> : on supprime !
     ** div[@subtype="traduction"] DEVIENT div[@type="traduction"] => vraiment utile ? REVOIR XSLT
-    
-    *****MSDESC
-    ** gros problème de structure des notices. On a potentiellement plusieurs msDesc pour un même manuscrit
-    ** généralement pour le témoin principal des incipit => un msDesc dans la div dédiée aux incipit, et un msDesc pour le cataloguage
-    ** par exemple pour <idno>Royal 20 D I</idno>, 
-    ** 3 fois <idno>fr. 1641</idno>: 1 fois pour éd. du prologue, 1 fois pour incipit, 1 fois pour notice
-    ** Comment extraire la notice intégrale (regroupement des éléments dispersés) ? comment conserver cette éditorialisation (une partie consacrée à l’édition des incipit, une autre aux transcriptions, et une dernière au cataloguage) ???????
-    ** REGROUPER TOUT DANS UNE NOTICE ET FAIRE DES RENVOIS DANS LES PARTIES EDITO (incipit, édition) ????????
-    ** un tel regroupement complique aussi le processing...
     
     *****LES <TITLE>
     ** <title> problème des <title> dans les <title>. Quel objectif ? voir avec F. Duval.
@@ -1759,6 +1749,8 @@
     *****PERSNAME
     ** très appareillé mais aucun template associé
     ** 1139 persName balisés
+    ** <persName> à quoi sert @n (pas au tri manifestement! ; pas exploité dans XSLT) ? on ne trouve pas de référentiel... une référence ? => @corresp
+
     ** @type : 1100 attributes posés
     413 ancien
     1 auteur
@@ -1783,10 +1775,7 @@
     ** @subtype : 1 seul @corresp => le gars est copiste ET possesseur ; ce qui compte ici c’est de savoir à quel titre il est mentionné !!!
     
     
-    ** <emph> mauvais usage sémantique (cf les exposants) => hi[@rend="sup"]
-    ** <locus> problème de la définition d’UN ITEM (on extrait les <locus> des <incipit> et <explicit>
     
-    ** <persName> à quoi sert @n (pas au tri manifestement! ; pas exploité dans XSLT) ? on ne trouve pas de référentiel... une référence ? => @corresp
     ** <note> REVOIR LE MODÈLE POUR LES IMPRIMÉS... QUEL EST LE STATUT DE CES NOTES ? (bas de page ? NB ?)
     ** list[@type="listMs"] pas très conforme aux recommandations => listBibl[@type="msList"]
     ** <msName type="sigle" subtype="Barbieri"> => très complexe ET inutilisé (NB: des ERREURS dans la syntaxe du fichier d’origine). DEVIENT <msName type="sigle" resp="Barbieri">
