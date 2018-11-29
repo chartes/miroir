@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="institutiones" xml:lang="fr">
@@ -529,10 +529,10 @@
                       <msName type="sigle" resp="olivier-martin">K</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <persName ref="???" role="traducteur">anonyme</persName> des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="fr">Institutes</title> de <persName ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" role="auteur" n="Justinien">Justinien</persName> (f. 1a-66d) (sigle K, éd. Olivier-Martin) ; notes historiques anonymes (f. 67a-70d)</summary>
+                      <summary>traduction <persName ref="???" role="traducteur">anonyme</persName> des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="fr">Institutes</title> de <persName ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" role="auteur" key="Justinien">Justinien</persName> (f. 1a-66d) (sigle K, éd. Olivier-Martin) ; notes historiques anonymes (f. 67a-70d)</summary>
                       <msItem n="1" xml:id="glasgow_hunter63_institutiones">
                         <locus from="1a" to="66d"/>
-                        <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                        <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                           <persName ref="???" role="traducteur">anonyme</persName> en prose des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> (f. 1a-66d) (titres anciens :
                           <title type="ancien">Institutes</title> f. 1a ; <title type="ancien">lez Institutez a l’empereeur Justinien</title> f. 66d)</title>
                         <msItem xml:id="glasgow_hunter63_institutiones_livre1">
@@ -1101,7 +1101,7 @@
                         <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">Hybrida libraria</term>. Changement de main mais écriture très proche f. 67a-70d. Coefficient d’abréviation : 7,8% (7,8% sans
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label>scripta composite en grande partie standardisée, laissant affleurer des diatopismes orientant vers le Nord-Est de la Picardie linguistique et la Wallonie. Aucun des traits « typiquement picards » recensés par Gossen (<bibl><title>Grammaire de l’ancien picard</title>, Paris, 1970, p. 153</bibl>) ou opposant très régulièrement la scripta picarde à la scripta administrative exportée de Paris (cf. <bibl>Wüest dans <title>LRL</title>, t. II/2, p. 313</bibl>) ne se rencontre dans les passages transcrits.
-                          <list rend="bulleted">
+                          <list rend="circle">
                             <head>Traits communs aux scriptae picardes et wallonnes</head>
                             <item><hi rend="i">ch</hi>, aboutissement graphique de [k] en position forte (initiale ou appuyée) + [e], [i] ou [k], [t] + [y] :
                               <quote>differenche</quote> &lt; <hi rend="sc">DIFFERENTIA</hi> (2.17.2),
@@ -1113,7 +1113,7 @@
                               <title>Travaux de linguistique et de littérature</title>, t. 9, 1971, p. 197-207</bibl>) a montré la résistance du système à deux cas en picard et en Champagne. Cf. aussi
                               <bibl>Dees 1980, c. 122, 123, 206-208</bibl>.</item>
                           </list>
-                          <list rend="bulleted">
+                          <list rend="circle">
                             <head>Traits plus spécifiquement picards</head>
                             <item><quote>cose</quote> (2.17.3 et <foreign xml:lang="lat">passim</foreign>) : employé en concurrence avec <quote>chose</quote>,
                               <quote>cose</quote> note la conservation de [k] initial suivi de [a] (cf. <bibl>Gossen 1970, p. 95</bibl>). D’après <bibl>Dees 1980</bibl> (c. 135
@@ -1121,7 +1121,7 @@
                               <hi rend="i">chose, chousses</hi>), le groupe 1 n’est représenté avec une certaine fréquence qu’en Somme-Pas-de-Calais 37%, dans le Nord 77% et dans le Hainaut 53%. Aux marges de ces zones, les fréquences tombent entre 3% et 6%.</item>
                             <item><quote>sen</quote>, déterminant possessif (2.17.8) : forme particulièrement fréquente dans la scripta administrative du 13<hi rend="sup">e</hi> s. dans le nord-est de la scripta picarde, mais ce type se rencontre dans toute la Picardie linguistique ainsi qu’en Normandie. En revanche, il semble quasiment absent de la Wallonie (cf. <bibl>Dees 1980 c. 78 <hi rend="i">me, men</hi> / <hi rend="i">mon, mon, mont, moun, mum, mun</hi></bibl> : groupe 1 attesté uniquement dans la zone normanno-picarde avec 14% en Normandie et fréquences plus élevées en Somme-Pas-de-Calais 51%, Nord 43% et Hainaut 35%, moindres dans l’Oise 39% et l’Aisne 14%). Voir aussi <bibl>Gossen 1970, § 66</bibl>.</item>
                           </list>
-                          <list rend="bulleted">
+                          <list rend="circle">
                             <head>Traits caractéristiques du wallon</head>
                             <item><quote>ihl</quote> (2.17.1) et <quote>cihl</quote>. Pour <quote>ihl</quote>, cf. <bibl>Dees 1980 c. 8 <hi rend="i">ihl, ilh</hi> / <hi rend="i">il, yl, jl</hi></bibl> : 58% Wallonie vs 0% ailleurs sauf en Lorraine 1%.
                               <quote>Cihl</quote> (2.17.1) : 4 occurrences dans le
@@ -1131,7 +1131,7 @@
                                 <foreign xml:lang="lat">ca</foreign> 1275)</bibl>.</item>
                             <item>diphtongaison de [e] fermé tonique libre + nasale : cf. <quote>poine</quote> (4.18.4) à côté de
                               <quote>paine</quote> (4.18.6). Cf. <bibl>M.-G. Boutier dans <title>LRL</title>, t. II/2, p. 294</bibl> et <bibl>Gossen 1970, p. 69</bibl>.</item>
-                          </list> La présence de traits assez peu fréquents dans la scripta administrative picarde du 13<hi rend="sup">e</hi> s. n’a rien pour surprendre dans une copie littéraire du 15<hi rend="sup">e</hi> s. Ainsi : <list rend="bulleted">
+                          </list> La présence de traits assez peu fréquents dans la scripta administrative picarde du 13<hi rend="sup">e</hi> s. n’a rien pour surprendre dans une copie littéraire du 15<hi rend="sup">e</hi> s. Ainsi : <list rend="circle">
                             <item>le résultat de [a] + [y] a tendance à être graphié
                               <hi rend="i">e</hi>, comme dans
                               <quote>parfet</quote> (2.17.3), <quote>reson</quote> (2.17.8), <quote>contrere</quote> (2.17.8). Cf.
@@ -1220,8 +1220,8 @@
                       <msName type="sigle" resp="olivier-martin">H</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 1a-63d)</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (f. 1a-63d)</summary>
                       <msItem xml:id="montpellier_h316_institutiones">
                         <msItem xml:id="montpellier_h316_institutiones_livre1">
                           <locus from="1a" to="14a"/>
@@ -1855,8 +1855,8 @@
                       <msName type="sigle" resp="olivier-martin">I</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 1a-78b) (titres anciens : <title type="ancien">les Institutes a l’empereor Justinin</title> f. 1a ; <title type="ancien">Institude</title> f. 59b)</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (f. 1a-78b) (titres anciens : <title type="ancien">les Institutes a l’empereor Justinin</title> f. 1a ; <title type="ancien">Institude</title> f. 59b)</summary>
                       <msItem xml:id="montpellier_h373_institutiones">
                         <msItem xml:id="montpellier_h373_institutiones_preface">
                           <locus from="1a" to="1c"/>
@@ -2223,8 +2223,7 @@
                           <msItem>
                             <locus from="51a"/>
                             <title type="sub">[Inst. 3.16]</title>
-                            <incipit><seg type="rubric">De ceus a <expan>q<ex>ui</ex></expan> une chose est <expan><ex>com</ex>m<ex>en</ex>cie</expan></seg>
-                              <supplied resp="#FD"><title xml:lang="lat">De duobus reis stipulandi et promittendi</title> , la rubrique d’attente donne la variante <quote>est convenancie</quote> ;<seg type="incipit">Une chose puet <expan>est<ex>re</ex></expan> <expan><ex>con</ex>venancie</expan> a .ii. ou a plusors ou dui ou plusors la puent prameitre...</seg></supplied></incipit>
+                            <incipit><seg type="rubric">De ceus a <expan>q<ex>ui</ex></expan> une chose est <expan><ex>com</ex>m<ex>en</ex>cie</expan></seg><supplied resp="#FD"><title xml:lang="lat">De duobus reis stipulandi et promittendi</title> , la rubrique d’attente donne la variante <quote>est convenancie</quote> ;<seg type="incipit">Une chose puet <expan>est<ex>re</ex></expan> <expan><ex>con</ex>venancie</expan> a .ii. ou a plusors ou dui ou plusors la puent prameitre...</seg></supplied></incipit>
                           </msItem>
                           <msItem>
                             <locus from="51b"/>
@@ -2405,7 +2404,7 @@
                       </objectDesc>
                       <handDesc hands="1">
                         <p><label>Ecriture</label> écriture intermédiaire entre la <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term> et la <term xml:lang="lat" cRef="URI_terme_thesaurus">semitextualis libraria</term>, les <hi rend="i">a</hi> à double compartiment alternant avec des <hi rend="i">a</hi> à compartiment simple. Coefficient d’abréviation : 9,8% (9,6% sans <quote>et</quote>).</p>
-                        <p><label>Scripta</label>le ms. présente une <foreign xml:lang="lat">scripta</foreign> assurément normande, combinant à la fois des traits communs aux <foreign xml:lang="lat">scriptae</foreign> occidentales et d’autres à l’aire normanno-picarde. Parmi les traits les plus fréquents attestés dans les rubriques, incipit et titres édités, retenons :<list rend="bulleted">
+                        <p><label>Scripta</label>le ms. présente une <foreign xml:lang="lat">scripta</foreign> assurément normande, combinant à la fois des traits communs aux <foreign xml:lang="lat">scriptae</foreign> occidentales et d’autres à l’aire normanno-picarde. Parmi les traits les plus fréquents attestés dans les rubriques, incipit et titres édités, retenons :<list rend="circle">
                           <item>le graphème régional <hi rend="i">ei</hi>, résultant de l’évolution de [a] tonique libre :
                             <quote>quasseiz</quote> (f. 28d, part. passé),
                             <quote>gardeir</quote> (f. 48c),
@@ -2516,8 +2515,8 @@
                       <msName type="sigle" resp="olivier-martin">N</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="fr">Institutes</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 1a-91b) (sigle N, éd. Olivier-Martin) ; note sur la famille de Jean Aucoste, de Boulogne (f. 91v).</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="fr">Institutes</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (f. 1a-91b) (sigle N, éd. Olivier-Martin) ; note sur la famille de Jean Aucoste, de Boulogne (f. 91v).</summary>
                       <msItem n="1" xml:id="orleans_393_institutiones">
                         <locus from="1a" to="91b"/>
                         <title type="partie" xml:lang="fr">traduction française anonyme en prose des <title>Institutes</title> de <persName role="auteur">Justinien</persName> (f. 1a-91b) (titres anciens : <title type="ancien">les Institutes a l’<expan>emp<ex>er</ex>eur</expan> <expan>Justinie<ex>n</ex></expan></title> f. 1a ; <title type="ancien">les Institutes a l’<expan>emp<ex>er</ex>eur</expan> Justinien en <expan>f<ex>ra</ex>nchois</expan></title> f. 91b)</title>
@@ -3152,8 +3151,8 @@
                       <msName type="sigle" resp="olivier-martin">B</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (titres anciens : <title type="ancien">les Institutes a l’empereeur Justinian</title> f. 1a ; <title type="ancien">les Institutes a l’empereeur Justinian an françois</title> f. 102a) </summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (titres anciens : <title type="ancien">les Institutes a l’empereeur Justinian</title> f. 1a ; <title type="ancien">les Institutes a l’empereeur Justinian an françois</title> f. 102a) </summary>
                       <msItem xml:id="fr_1063_institutiones">
                         <msItem xml:id="fr_1063_institutiones_livre1">
                           <locus from="1a" to="16d"/>
@@ -3767,7 +3766,7 @@
                       <msName type="sigle" resp="olivier-martin">C</msName><!-- ms. de base de l’éd. Olivier-Martin -->
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur">Justinien</persName> (titres anciens : <title type="ancien">les Institutes au saint empereor Justinian</title> f. 1a ; <title type="ancien">Institutes a l’empereur Justinian</title> f. 14d ; <title type="ancien">Institutes</title> f. 43b ; <title type="ancien">Institutez</title> f. 64d)</summary>
                       <msItem xml:id="fr_1064_institutiones">
                         <msItem xml:id="fr_1064_institutiones_livre1">
@@ -4379,8 +4378,8 @@
                       <msName type="sigle" resp="olivier-martin">D</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName>, incomplète de la fin</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName>, incomplète de la fin</summary>
                       <msItem xml:id="fr_1065_institutiones">
                         <msItem xml:id="fr_1065_institutiones_livre1">
                           <locus from="1a" to="18a"/>
@@ -4970,8 +4969,8 @@
                       <msName type="sigle" resp="olivier-martin">E</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (titre ancien : <title type="ancien">Institute en roumans</title> f. 149d) et partie des <title>Etablissements de saint Louis</title>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (titre ancien : <title type="ancien">Institute en roumans</title> f. 149d) et partie des <title>Etablissements de saint Louis</title>
                       </summary>
                       <msItem xml:id="fr_1928_institutiones">
                         <msItem xml:id="fr_1928_institutiones_livre1">
@@ -5608,7 +5607,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" n="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &amp; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
+                        <p><label>Ecriture</label><term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" key="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &amp; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
                           <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis formata</term>. Coefficient d’abréviation : 9,05% (7,5 % sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la graphie du manuscrit correspond à la
                           <foreign xml:lang="lat">scripta</foreign> de l’Ile-de-France. Les <foreign xml:lang="lat">scriptae</foreign> de l’Est et du Nord-Est sont totalement exclues et les traits partagés avec l’Ouest uniquement sont trop rares pour conclure à une <foreign xml:lang="lat">scripta</foreign> orléanaise.</p>
@@ -5626,7 +5625,7 @@
                         </decoNote>
                         <decoNote>
                           <label>Iconographie</label>
-                          <p>Enluminé par le <persName role="illustrateur" n="maître de Thomas de Maubeuge">maître de Thomas de Maubeuge</persName> (1303-1342) (cf. <bibl>Rouse &amp; Rouse, 2000, t. II, p. 178</bibl>).</p>
+                          <p>Enluminé par le <persName role="illustrateur" key="maître de Thomas de Maubeuge">maître de Thomas de Maubeuge</persName> (1303-1342) (cf. <bibl>Rouse &amp; Rouse, 2000, t. II, p. 178</bibl>).</p>
                           <p><locus from="1">Début du manuscrit (f. 1)</locus> [miniature abimée de la largeur de la justification et haute de la moitié de la justification], sur la droite, assis de trois quarts sur un siège placé en hauteur, un juge, les jambes croisées, discute avec six hommes qui lui font face. A ses côtés, au second plan, deux hommes debout dont l’un au moins est tonsuré. Parmi les six hommes qui font face au juge, trois sont assis sur un banc au premier plan, trois autres se tiennent debout derrière eux. Fond d’or. Encadrement simple : bords verticaux bleus à filets blancs et bords horizontaux bordeaux à filets blancs.</p>
                         </decoNote>
                       </decoDesc>
@@ -5679,8 +5678,8 @@
                       <msName type="sigle" resp="duval">R</msName><!-- éd. Olivier-Martin = ms. perdu 10 ; nous lui attribuons le sigle R -->
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (titres anciens : <title type="ancien">les Institutes a l’<expan>e<ex>m</ex>pereeur</expan> Justinian</title> f. 1a ; <title type="ancien">Institutes au <expan>s<ex>eint</ex></expan> empereeur Justinian</title> f. 14a, 40c, 62c)</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (titres anciens : <title type="ancien">les Institutes a l’<expan>e<ex>m</ex>pereeur</expan> Justinian</title> f. 1a ; <title type="ancien">Institutes au <expan>s<ex>eint</ex></expan> empereeur Justinian</title> f. 14a, 40c, 62c)</summary>
                       <msItem xml:id="princeton_kane_ms49_institutiones">
                         <msItem xml:id="princeton_kane_ms49_institutiones_livre1">
                           <locus from="1a" to="14a"/>
@@ -5740,7 +5739,7 @@
                         </decoNote>
                         <decoNote>
                           <label>Iconographie</label>
-                          <p>Par l'<orgName role="illustrateur" n="atelier Duprat">atelier Duprat</orgName> (<bibl>Akiko Komada</bibl>).</p>
+                          <p>Par l'<orgName role="illustrateur" key="atelier Duprat">atelier Duprat</orgName> (<bibl>Akiko Komada</bibl>).</p>
                           <p><locus from="1a">Livre I (f. 1a)</locus> [miniature de 10 UR], Justinien siégeant de trois quarts, l’épée dressée à la main droite, parle à un clerc debout devant lui. Un second clerc, assis, est en train de prendre des notes, tandis qu’un homme d’armes se tient à l’extrémité droite de l’image. Fond d’or. Encadrement simple, bleu (bandes verticales) et rose (bandes horizontales), orné de dessins géométriques blancs.</p>
                           <p><locus from="14a">Livre II (f. 14a)</locus> [lettre ornée « N » 6 UR], Justinien siégeant de face, l’épée dressée à la main gauche, discute avec un clerc, lui-même placé devant un homme revêtu d’une cote de maille. Fond d’or, lettre champie avec une bordure d’or et corps de la lettre en bleu et rose à liserés et figures géométriques blancs.</p>
                           <p><locus from="40c">Livre III (f. 40c)</locus> [lettre ornée « C » 8 UR], Justinien siégeant de face discute avec un clerc présentant la requête d’un enfant, sans doute un héritier. Fond d’or, lettre champie avec une bordure d’or et corps de la lettre en bleu et rose à liserés et figures géométriques blancs.</p>
@@ -5796,8 +5795,8 @@
                       <msName type="sigle" resp="olivier-martin">G</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (titre ancien : <title type="ancien">les Institudes l’<expan>emp<ex>er</ex>eeur</expan> Justinian</title> f. 53v)</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (titre ancien : <title type="ancien">les Institudes l’<expan>emp<ex>er</ex>eeur</expan> Justinian</title> f. 53v)</summary>
                       <msItem xml:id="stomer_439_institutiones">
                         <msItem xml:id="stomer_439_institutiones_proemium">
                           <locus from="1a" to="1c"/>
@@ -6421,7 +6420,7 @@
                       </objectDesc>
                       <handDesc hands="1">
                         <p><label>Ecriture</label>de type <term xml:lang="lat" cRef="URI_terme_thesaurus">textualis libraria</term>. Lettres montantes avec hastes dentelées et têtes d’hommes fantaisistes aux premières lignes de chaque colonne. D’après F. Olivier-Martin (éd., p. XII), le ms. aurait été copié par
-                          <persName role="copiste" n="Gilles de Langres">Gilles de Langres</persName>, mais le colophon (cf. <foreign xml:lang="lat">supra</foreign>) est d’interprétation difficile.</p>
+                          <persName role="copiste" key="Gilles de Langres">Gilles de Langres</persName>, mais le colophon (cf. <foreign xml:lang="lat">supra</foreign>) est d’interprétation difficile.</p>
                         <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> du ms. ne se distingue pas de la
                           <foreign xml:lang="lat">scripta</foreign> exportée à la fin du Moyen Âge depuis l’Ile-de-France.</p>
                         <p><label>Corrections</label>au moins deux correcteurs : ajouts en marge, de la même main et de la même encre que le corps du texte, mais d’une écriture plus cursive (f. 1d, 5c, 9a, 9d, 11c, 12d, 14a, 14c...) ou dans l’interligne (f. 13b, 19b...) ; correction d’une seconde main, du 14<hi rend="sup">e</hi> s., en marge (f. 21c), dans l’interligne (f. 21d). Seul le début du texte semble avoir été corrigé.</p>
@@ -6490,8 +6489,8 @@
                       <msName type="sigle" resp="olivier-martin">M</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary><title type="oeuvre">Etablissements de saint Louis</title> (f. 1a-36b) ; traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 29a-107d)</summary>
+                      <summary><title type="oeuvre">Etablissements de saint Louis</title> (f. 1a-36b) ; traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (f. 29a-107d)</summary>
                       <msItem n="1" xml:id="bav_1927_etablissements">
                         <locus from="1a" to="36b"/>
                         <title type="partie" xml:lang="fr"><title type="oeuvre">Etablissements de saint Louis</title></title>
@@ -6499,8 +6498,8 @@
                         <explicit xml:lang="fro">...mesires li rois desfent les armes <expan><ex>et</ex></expan> les chevauchiees en ses <expan>establissem<ex>en</ex>z</expan>.<lb/>Ci fenissent li establissemant le roi de France selonc l’usage de cort de baronnie. Explicit.</explicit>
                       </msItem>
                       <msItem n="2" xml:id="bav_1927_institutiones">
-                        <title type="partie" xml:lang="fr">Traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                          <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (pas de titre ancien)</title>
+                        <title type="partie" xml:lang="fr">Traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                          <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (pas de titre ancien)</title>
                         <msItem xml:id="bav_1927_institutiones_livre1">
                           <locus from="39a" to="49b"/>
                           <title type="section" xml:lang="fr">[Prooemium et livre I]</title>
@@ -7119,8 +7118,8 @@
                       <msName type="sigle" resp="duval">S</msName><!-- témoin non référencé dans l'éd. Olivier-Martin -->
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (titre ancien : <title type="ancien">les Institutes</title> f. 212)</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (titre ancien : <title type="ancien">les Institutes</title> f. 212)</summary>
                       <msItem xml:id="washingtion_i71">
                         <msItem xml:id="washington_i71_table">
                           <locus from="1" to="4"/>
@@ -7147,7 +7146,7 @@
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
-                        <p><label>Ecriture</label> copié par <quote>Nicolaus de Cathalano</quote> (= <persName role="copiste" n="Nicolas de Châlons">Nicolas de Châlons</persName> [auj. Châlons-en-Champagne] ?) ; <q xml:lang="lat">Nicolaus de Cathalano scripxit librum <choice><sic>istu</sic><corr>istum</corr></choice>’</q> (f. 212r).</p>
+                        <p><label>Ecriture</label> copié par <quote>Nicolaus de Cathalano</quote> (= <persName role="copiste" key="Nicolas de Châlons">Nicolas de Châlons</persName> [auj. Châlons-en-Champagne] ?) ; <q xml:lang="lat">Nicolaus de Cathalano scripxit librum <choice><sic>istu</sic><corr>istum</corr></choice>’</q> (f. 212r).</p>
                       </handDesc>
                       <decoDesc>
                         <decoNote>
@@ -7201,8 +7200,8 @@
                       <msName type="sigle" resp="duval">T</msName><!-- ms inconnu d'Olivier-Martin; nous lui attribuons le sigle T -->
                     </msIdentifier>
                     <msContents>
-                      <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
-                        <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (3.3.4-3.5.1).</summary>
+                      <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
+                        <persName ref="???" role="traducteur">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (3.3.4-3.5.1).</summary>
                       <msItem xml:id="leiden_bpl3201_institutiones">
                         <msItem>
                           <locus from="1a"/>
@@ -7382,7 +7381,7 @@
               <item><label>Collation des intitulés des titres</label>
                 <list>
                   <item><label>Remarques générales</label>
-                    <list rend="bulleted">
+                    <list rend="circle">
                       <item><p>Intitulés des titres rimés de manière homogène dans le ms.</p></item>
                       <item>
                         <p>Dans l’imprimé, plusieurs solutions successivement adoptées: de Inst. 1.1 à Inst. 1.11, les intitulés français traduisent littéralement les intitulés latins; de Inst. 1.12 à Inst. 3.2, les intitulés reprennent la présentation versifiée (à l’exception de Inst. 2.1 : <quote>De la division des choses</quote>); de Inst. 3.3 à la fin, les intitulés versifiés sont accompagnés de l’intitulé latin, qui les précède généralement.</p>
@@ -7391,7 +7390,7 @@
                     </list>
                   </item>
                   <item><label>Remarques ponctuelles</label>
-                    <list rend="bulleted">
+                    <list rend="circle">
                       <item><label>Structure</label>
                         <p>l’imprimé rétablit la structure du texte latin : ainsi, par ex., Inst. 1.2, divisé en deux dans le ms, est présenté d’un seul tenant dans l’incunable.</p>
                         <p>Inst. 1.18 manque dans le manuscrit, mais se trouve dans l’imprimé : <quote>Ce tiltre la garde contiene Qui par loy au pere appartient R. xviii</quote> (f. B4d)</p>
@@ -7458,7 +7457,7 @@
                     </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                    <summary>calendrier (f. 1a-3d) ; traduction en vers de la <title xml:lang="lat">Summa de legibus Normannie in curia laicali</title> par <persName>Guillaume Chapu</persName>, également appelée <title>Grand coutumier de Normandie en vers</title> (f. 4a-69b) ; traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> en vers des <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> par <persName role="traducteur" n="Richard d'Annebault">Richard d’Annebault</persName> (f. 70a-217d) (sigle L).</summary>
+                    <summary>calendrier (f. 1a-3d) ; traduction en vers de la <title xml:lang="lat">Summa de legibus Normannie in curia laicali</title> par <persName>Guillaume Chapu</persName>, également appelée <title>Grand coutumier de Normandie en vers</title> (f. 4a-69b) ; traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> en vers des <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> par <persName role="traducteur" key="Richard d'Annebault">Richard d’Annebault</persName> (f. 70a-217d) (sigle L).</summary>
                     <msItem n="1" xml:id="harley_4477_calendrier">
                       <locus from="1a" to="3d"/>
                       <title type="partie" xml:lang="fr">calendrier</title>
@@ -7473,7 +7472,7 @@
                     </msItem>
                     <msItem n="3" xml:id="harley_4477_institutiones">
                       <locus from="70a" to="217d"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> en vers des <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> par <persName role="traducteur" n="Richard d'Annebault">Richard d’Annebault</persName> (titres anciens : <title type="ancien">Institutes</title> f. 70c ; <title type="ancien">Institutes rymees</title> f. 215a)</title>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> en vers des <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> par <persName role="traducteur" key="Richard d'Annebault">Richard d’Annebault</persName> (titres anciens : <title type="ancien">Institutes</title> f. 70c ; <title type="ancien">Institutes rymees</title> f. 215a)</title>
                       <msItem xml:id="harley_4477_institutiones_prologuetraducteur">
                         <locus from="70a" to="70c"/>
                         <title type="section" xml:lang="fr">Prologue du traducteur</title>
@@ -8062,12 +8061,7 @@
                     </origin>
                     <provenance>
                       <p><label>Lecture</label>Etant donné la composition des cahiers, et notamment l’utilisation d’un quaternion comme cahier final à la suite d’une série de cahiers de 12 f., il n’est pas impossible que la copie du <title>Grand coutumier</title> en vers ait constitué pendant une brève période une unité codicologique ou d’usage distincte, avant que ne soit entreprise la copie de la traduction des <title>Institutes</title>. Aucune trace de lecture.</p>
-                      <p><label>Provenance</label>le ms. vient de la collection de
-                        <persName role="possesseur" key="Nicolas-Joseph Foucault">Nicolas-Joseph Foucault</persName> (1643-1721) (ex libris imprimé collé sur la contre-garde supérieure : <quote xml:lang="lat">Ex bibliotheca Nicolaei Joseph Foucault comitis consistoriani</quote>) comme les mss Harley 4474 et 4475. Ces trois mss, depuis leur confection, n’ont sans doute jamais été séparés et ont dû connaître une même histoire. Le ms. Harley 4475 renferme une traduction d’un traité de droit canon et civil, réalisée en 1477 en Normandie (cf. mention ajouté au verso du f. de garde parchemin début d’une main contemporaine de la copie : <quote>Ce present livre de droit fut translaté par Mestre Silvestre Guerin, mestre en ars, chapellain du collage de Nostre Dame de Matignon, et <expan>p<ex>er</ex>sonne</expan> de Thyermulle, a la requeste de mon tres honoré seigneur Monsgr de Matignon et de Thorigny en la ville de Caen, l’an 1477</quote>). Les similitudes avec le Harley 4477 sont nombreuses, à commencer par l’utilisation du même papier (filigranes licorne f. 177 ; armoiries aux trois fleurs de lys f. 16) ; même type d’écriture cursive ; même mise en texte : lettres nues rouges de 2 UR au début de chaque chapitre ; intitulés des chapitres copiés au fil de la copie et soulignés de rouge. Copie à longues lignes sans linéation apparente, comme dans la copie des
-                        <title>Institutes</title>. Le copiste est toutefois différent. L’existence de ce manuscrit pointe vers un commanditaire de manuscrits intéressé par les livres de droit en français. A noter que le ms. Harley 4475 mentionne plusieurs noms sur les gardes : f. de garde parchemin début verso
-                        <q>Reverend pere en Dieu monseigneur monseigneur le cardinal de Bourbon</q>. D’après l’écriture, il s’agirait plutôt de
-                        <persName role="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles I<hi rend="sup">er</hi> de Bourbon</persName>,
-                        <persName>Charles II de Bourbon</persName>, cardinal archevêque de Rouen de 1590 à 1594 ; f. de garde parchemin fin verso : <q>Monsr de Rouen</q>.</p>
+                      <p><label>Provenance</label>le ms. vient de la collection de <persName role="possesseur" key="Nicolas-Joseph Foucault">Nicolas-Joseph Foucault</persName> (1643-1721) (ex libris imprimé collé sur la contre-garde supérieure : <quote xml:lang="lat">Ex bibliotheca Nicolaei Joseph Foucault comitis consistoriani</quote>) comme les mss Harley 4474 et 4475. Ces trois mss, depuis leur confection, n’ont sans doute jamais été séparés et ont dû connaître une même histoire. Le ms. Harley 4475 renferme une traduction d’un traité de droit canon et civil, réalisée en 1477 en Normandie (cf. mention ajouté au verso du f. de garde parchemin début d’une main contemporaine de la copie : <quote>Ce present livre de droit fut translaté par Mestre Silvestre Guerin, mestre en ars, chapellain du collage de Nostre Dame de Matignon, et <expan>p<ex>er</ex>sonne</expan> de Thyermulle, a la requeste de mon tres honoré seigneur Monsgr de Matignon et de Thorigny en la ville de Caen, l’an 1477</quote>). Les similitudes avec le Harley 4477 sont nombreuses, à commencer par l’utilisation du même papier (filigranes licorne f. 177 ; armoiries aux trois fleurs de lys f. 16) ; même type d’écriture cursive ; même mise en texte : lettres nues rouges de 2 UR au début de chaque chapitre ; intitulés des chapitres copiés au fil de la copie et soulignés de rouge. Copie à longues lignes sans linéation apparente, comme dans la copie des <title>Institutes</title>. Le copiste est toutefois différent. L’existence de ce manuscrit pointe vers un commanditaire de manuscrits intéressé par les livres de droit en français. A noter que le ms. Harley 4475 mentionne plusieurs noms sur les gardes : f. de garde parchemin début verso <q>Reverend pere en Dieu monseigneur monseigneur le cardinal de Bourbon</q>. D’après l’écriture, il s’agirait plutôt de <persName role="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles I<hi rend="sup">er</hi> de Bourbon</persName>, <persName>Charles II de Bourbon</persName>, cardinal archevêque de Rouen de 1590 à 1594 ; f. de garde parchemin fin verso : <q>Monsr de Rouen</q>.</p>
                     </provenance>
                   </history>
                   <additional>
@@ -9117,7 +9111,7 @@
                     </bibl>
                   </head>
                   <msContents>
-                    <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> en vers des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> par <persName role="traducteur" n="Richard d'Annebault">Richard d’Annebault</persName> (f. 70a-217d) (titre complet :
+                    <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> en vers des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> par <persName role="traducteur" key="Richard d'Annebault">Richard d’Annebault</persName> (f. 70a-217d) (titre complet :
                       <title>C’est le livre des institutions des drois appellé Institute translaté de latim en françois et corrigé en diligence par plusieurs docteurs et souverains legistes</title> f. A2a)</summary>
                     <msItem xml:id="caillaut_institutiones">
                       <msItem xml:id="caillaut_institutiones_prologuetraducteur">

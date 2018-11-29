@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ars_amatoria_ovidius" xml:lang="fr">
@@ -97,7 +97,7 @@
         </listBibl>
       </div>
       <div type="traduction" xml:id="elie">
-        <head>Traduction de maître <persName type="traducteur">Élie</persName></head>
+        <head>Traduction de maître <persName role="traducteur">Élie</persName></head>
         <dateline>
           <date notBefore="1175" notAfter="1214">fin du XII<hi rend="sup">e</hi> siècle-début du XIII<hi rend="sup">e</hi> siècle</date>
         </dateline>
@@ -148,7 +148,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 7677, f. 24 [1317], <title>Mss datés</title>, t. II, pl. 43)</origin>
-                <provenance>Possesseur : <quote>« <persName type="possesseur" key="Philippe Alamande">Philippe Alamande</persName>, dame de Chassenaige »</quote> [= Sassenage près de Grenoble] (signature f. 8 et 127) († 1478)</provenance>
+                <provenance>Possesseur : <quote>« <persName role="possesseur" key="Philippe Alamande">Philippe Alamande</persName>, dame de Chassenaige »</quote> [= Sassenage près de Grenoble] (signature f. 8 et 127) († 1478)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -238,7 +238,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale, 2748-2749, f. 56 [1449], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique</title>, Bruxelles-Gand, 1978, t. III, pl. 537)</origin>
-                <provenance>Possesseur : <persName type="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> (inventaire de la librairie de Bourgogne vers 1467 [Barrois n° 1367] et inventaire de Bruxelles [Barrois, n° 2169]).</provenance>
+                <provenance>Possesseur : <persName role="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> (inventaire de la librairie de Bourgogne vers 1467 [Barrois n° 1367] et inventaire de Bruxelles [Barrois, n° 2169]).</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -265,7 +265,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>Possesseur : <persName type="possesseur" key="France, rois de">bibliothèque royale de Blois</persName> (écu de France, f. 1 ; inventaire de Blois en 1518 (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque nationale</title>, Paris, 1881, t. III, p. 345).</provenance>
+                <provenance>Possesseur : <persName role="possesseur" key="France, rois de">bibliothèque royale de Blois</persName> (écu de France, f. 1 ; inventaire de Blois en 1518 (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque nationale</title>, Paris, 1881, t. III, p. 345).</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -292,7 +292,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
-                <provenance>Possesseur : <persName type="possesseur" key="Hostun, famille d’">famille d’Hostun</persName> (Dauphiné) de 1428 (au moins) à la fin du XV<hi rend="sup">e</hi> s.</provenance>
+                <provenance>Possesseur : <persName role="possesseur" key="Hostun, famille d’">famille d’Hostun</persName> (Dauphiné) de 1428 (au moins) à la fin du XV<hi rend="sup">e</hi> s.</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -310,14 +310,14 @@
                 <msName type="sigle" resp="Roy">C</msName>
               </msIdentifier>
               <msContents>
-                <p>Traduction de <persName type="traducteur">Richard de Fournival</persName>, <title>De vetula</title> par <persName type="ancien">Jean Le Fèvre</persName> [titre : <title type="ancien">Ci commence Ovide « De la Vielle », translaté de latin en françois par maistre Jehan Le Fevre, procureur en Parlement, et fut trouvé ce livre en un petit cofret d’ivoire en la sepulture dudit Ovide IIIIc ans aprés sa mort tout frais et entier ouquel livre sont contenuz moult nobles diz et enseignemens et au commencement il traicte de la maniere de son vivre</title> (rubr) f. 1a] f. 1a-48c ; traduction en prose de l’<title>Ars amatoria</title> d’Ovide f. 49a-96c : manque le livre III ; ballades et rondeaux non notés de <persName type="ancien">Guillaume de Machaut</persName> f. 97a-112d.</p>
+                <p>Traduction de <persName role="traducteur">Richard de Fournival</persName>, <title>De vetula</title> par <persName type="ancien">Jean Le Fèvre</persName> [titre : <title type="ancien">Ci commence Ovide « De la Vielle », translaté de latin en françois par maistre Jehan Le Fevre, procureur en Parlement, et fut trouvé ce livre en un petit cofret d’ivoire en la sepulture dudit Ovide IIIIc ans aprés sa mort tout frais et entier ouquel livre sont contenuz moult nobles diz et enseignemens et au commencement il traicte de la maniere de son vivre</title> (rubr) f. 1a] f. 1a-48c ; traduction en prose de l’<title>Ars amatoria</title> d’Ovide f. 49a-96c : manque le livre III ; ballades et rondeaux non notés de <persName type="ancien">Guillaume de Machaut</persName> f. 97a-112d.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
                   <p>112 f. parchemin</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Copiste : <persName type="copiste">Raoul Tainguy</persName> (signature f. 48v et 96v)</p>
+                  <p>Copiste : <persName role="copiste">Raoul Tainguy</persName> (signature f. 48v et 96v)</p>
                 </handDesc>
                 <decoDesc>
                   <p>illustration : miniature d’un tiers de la justification (f. 1a) représentant Ovide écrivant à une vieille femme</p>
@@ -325,7 +325,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1420">fin XIV<hi rend="sup">e</hi> s.-début XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName type="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName type="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName type="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName type="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName>.</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName role="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName role="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName role="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName role="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName>.</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -340,7 +340,7 @@
         </div>
       </div>
       <div type="traduction" xml:id="jacques">
-        <head><title>L’art d’Amours</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName></head>
+        <head><title>L’art d’Amours</title>, traduction de <persName role="traducteur">Jacques d’Amiens</persName></head>
         <dateline>
           <date notBefore="1200" notAfter="1299">XIII<hi rend="sup">e</hi> siècle</date>
         </dateline>
@@ -392,7 +392,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1265" notAfter="1300">dernier tiers du XIII<hi rend="sup">e</hi> s. (cf. 3) (traduction de l’<title>Ars amatoria</title> proche du ms Paris, bibl. de l’Arsenal 854, f. 214 [1289], <title>Mss datés</title>, t. I, pl. 22) ; Angleterre</origin>
-                <provenance>Possesseur : ms utilisé par <persName type="possesseur" key="Conrad de Lubech de Wolfhagen">Conrad de Lubech de Wolfhagen</persName> pour son baccalauréat à Paris (entre 1395 et 1402) ; <quote>« iste liber est magistro <persName type="possesseur" key="Bancard Rembout">Bancard Rembout</persName> »</quote> (f. 116v).</provenance>
+                <provenance>Possesseur : ms utilisé par <persName role="possesseur" key="Conrad de Lubech de Wolfhagen">Conrad de Lubech de Wolfhagen</persName> pour son baccalauréat à Paris (entre 1395 et 1402) ; <quote>« iste liber est magistro <persName role="possesseur" key="Bancard Rembout">Bancard Rembout</persName> »</quote> (f. 116v).</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -464,8 +464,8 @@
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Remedia amoris</title> d’<persName type="ancien">Ovide</persName> [titre : <title type="ancien">Chi s’enssieut Ovide du remede d’amours</title> (rubr.) f. 1] f. 1-40v ; f. 41 blanc ; <title>Art d’Amours</title> de <persName type="ancien">Jakes d’Amiens</persName> f. 42-75v  : le texte s’interrompt au vers 2192 (expl. ...<seg type="explicit">et il aura son delit <lb/>et sa volonté tant de fois <lb/>que bien aprevisié serois <lb/>or pense de bien retenir <lb/>par ce que je te voeil gehir</seg>...) ; f. 76 blanc ;
-                  <title>Li puissanche d’amours, dialogue entre le maître et le disciple</title> f. 77-90 ; <persName type="ancien">Theodolet</persName>, traduction de l’<title>Ecloga Theoduli</title> par <persName type="traducteur">Jean Le Fèvre</persName> f. 90v-248 avec glose et traduction en vers français (inc. <seg type="incipit">Ch'est grand pourfit quant on recorde <lb/>aucuns biens et on s’i acorde</seg>...) ; 248v blanc ; traduction en vers français par <persName type="traducteur">Thomas Maillet</persName> des <title>Parabolae</title> d’<persName type="ancien">Alain de Lille</persName> f. 249-268 ; f. 268v blanc ; traduction en vers anonyme du premier <title>Facetus</title> par <persName type="traducteur">Thomas Maillet</persName> f. 269-277v (inc. <seg type="incipit">Mieulx vault assambler un tresor</seg>  ; éd. Morawski, p. 60-81) ; traduction en vers du second
-                  <title>Facetus</title> par <persName type="traducteur">Thomas Maillet</persName> f. 278-291v (inc. <seg type="incipit">Chieulx qui volet faitis devenir</seg>... ; éd. Morawski, p. 81-112) ; f. 292-294 blancs.</p>
+                  <title>Li puissanche d’amours, dialogue entre le maître et le disciple</title> f. 77-90 ; <persName type="ancien">Theodolet</persName>, traduction de l’<title>Ecloga Theoduli</title> par <persName role="traducteur">Jean Le Fèvre</persName> f. 90v-248 avec glose et traduction en vers français (inc. <seg type="incipit">Ch'est grand pourfit quant on recorde <lb/>aucuns biens et on s’i acorde</seg>...) ; 248v blanc ; traduction en vers français par <persName role="traducteur">Thomas Maillet</persName> des <title>Parabolae</title> d’<persName type="ancien">Alain de Lille</persName> f. 249-268 ; f. 268v blanc ; traduction en vers anonyme du premier <title>Facetus</title> par <persName role="traducteur">Thomas Maillet</persName> f. 269-277v (inc. <seg type="incipit">Mieulx vault assambler un tresor</seg>  ; éd. Morawski, p. 60-81) ; traduction en vers du second
+                  <title>Facetus</title> par <persName role="traducteur">Thomas Maillet</persName> f. 278-291v (inc. <seg type="incipit">Chieulx qui volet faitis devenir</seg>... ; éd. Morawski, p. 81-112) ; f. 292-294 blancs.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -570,7 +570,7 @@
           <div type="imprime">
             <head>Imprimés</head>
             <listBibl type="poList">
-              <bibl xml:id="imprime1_ars-amatoria"><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 42 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Si commence Ovide de l’art d’aymer</title> f. A2 ; <title type="ancien">Cy fine Ovide de l’art d’aymer</title> f. G4v  ; <title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaulx nouvellement imprimé a Genefve</title> f. K6b] f. A2-f. G4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres : <title type="ancien">Cy commence le chef d’Amours</title> f. G4v ; <title type="ancien">Cy finist le chef d’Amours</title> f. K5b] f. G4v-f. K5b ; <title>Les sept arts d’Amour</title> f. K5b-f. K6b (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">E</hi> Talsma [qui ne distingue pas les deux éditions genevoises]
+              <bibl xml:id="imprime1_ars-amatoria"><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 42 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName role="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Si commence Ovide de l’art d’aymer</title> f. A2 ; <title type="ancien">Cy fine Ovide de l’art d’aymer</title> f. G4v  ; <title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaulx nouvellement imprimé a Genefve</title> f. K6b] f. A2-f. G4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres : <title type="ancien">Cy commence le chef d’Amours</title> f. G4v ; <title type="ancien">Cy finist le chef d’Amours</title> f. K5b] f. G4v-f. K5b ; <title>Les sept arts d’Amour</title> f. K5b-f. K6b (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">E</hi> Talsma [qui ne distingue pas les deux éditions genevoises]
                 <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. m. Yc 533 (1)
                   <listBibl>
                     <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vii</bibl>
@@ -578,7 +578,7 @@
                   </listBibl>
                 </note>
               </bibl>
-              <bibl xml:id="imprime2_ars-amatoria"><title type="ancien">Ovide de arte amandi translaté de latin en françois</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 54 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Cy commence Ovide de l’art d’aymer</title> f. a2 ; <title type="ancien">Cy fine Ovide de l'art d'aymer</title> f. g4v ;<title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaux nouvellement imprimé a Genefve</title> f. n6v] f. a2-f. g4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres  : <title type="ancien">Cy commence le chief d’Amours</title> f. g4v ; <title type="ancien">Cy finie la chef d’amours</title> f. n5] f.  g4v-f. n5 ; <title>Les sept arts d’Amour</title> f. n5-f. n6v (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">E</hi> Talsma [qui ne distingue pas les deux éditions genevoises]
+              <bibl xml:id="imprime2_ars-amatoria"><title type="ancien">Ovide de arte amandi translaté de latin en françois</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 54 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName role="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Cy commence Ovide de l’art d’aymer</title> f. a2 ; <title type="ancien">Cy fine Ovide de l'art d'aymer</title> f. g4v ;<title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaux nouvellement imprimé a Genefve</title> f. n6v] f. a2-f. g4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres  : <title type="ancien">Cy commence le chief d’Amours</title> f. g4v ; <title type="ancien">Cy finie la chef d’amours</title> f. n5] f.  g4v-f. n5 ; <title>Les sept arts d’Amour</title> f. n5-f. n6v (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">E</hi> Talsma [qui ne distingue pas les deux éditions genevoises]
                 <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Y2 929
                   <listBibl>
                     <bibl>D. Talsma, <title>L’art d’amours van Jakes d’Amiens (XIII eeuw)</title>, Leiden, 1925, p. vii</bibl>
@@ -608,7 +608,7 @@
                 </note>
               </bibl>
               <bibl xml:id="imprime6_ars-amatoria"><title type="ancien">Ovide, de l’art d’aymer, translaté de latin en françoys, avec plusieurs autres petitz oeuvres, dont le contenu est en la page suyvante. Le tout mieux que par cy devant reveu &amp; corrigé</title>, Paris, <publisher>Etienne Groulleau</publisher>,
-                <date when="1556">1556</date>, in-16, ill. Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> [titre : <title type="ancien">Ovide de l’art d’aymer</title>] f. A2-f. F1v ; <title>La clef d’Amours</title> [titres : <title type="ancien">Ensuyt la Clef d’amour</title> f. F2 ; <title type="ancien">Fin de la Clef d’Amours</title>] f. K6v-f. F2-K6v ; <title type="ancien">Sept arts liberaux</title> f. K7-f. L1v ; <title type="ancien">Le remede d’amour, composé par Aeneas Sylvius, autrement dit pape Pie second, translaté de latin en françoys par maistre Albin des Avenelles, chanoyne de l’Eglise de Soyssons</title> f. L2-N2 ; <title type="ancien">La complainte dudit Enee, sur la description des deux amans, Eurialus &amp; Lucresse</title> f. N2v-N3v ; <title type="ancien">Description de Cupido, dieu d’amours</title> f. N4-N5v ;
+                <date when="1556">1556</date>, in-16, ill. Ovide, <title>De l’art d’aimer</title>, traduction de <persName role="traducteur">Jacques d’Amiens</persName> [titre : <title type="ancien">Ovide de l’art d’aymer</title>] f. A2-f. F1v ; <title>La clef d’Amours</title> [titres : <title type="ancien">Ensuyt la Clef d’amour</title> f. F2 ; <title type="ancien">Fin de la Clef d’Amours</title>] f. K6v-f. F2-K6v ; <title type="ancien">Sept arts liberaux</title> f. K7-f. L1v ; <title type="ancien">Le remede d’amour, composé par Aeneas Sylvius, autrement dit pape Pie second, translaté de latin en françoys par maistre Albin des Avenelles, chanoyne de l’Eglise de Soyssons</title> f. L2-N2 ; <title type="ancien">La complainte dudit Enee, sur la description des deux amans, Eurialus &amp; Lucresse</title> f. N2v-N3v ; <title type="ancien">Description de Cupido, dieu d’amours</title> f. N4-N5v ;
                 <title type="ancien">Declamation morale de l’amant renonçant à la fole amour</title> f. N6-O8v
                 <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. p. Yc. 59 (2)
                   <listBibl>
@@ -629,7 +629,7 @@
                 </listBibl>
                 </note>
               </bibl>
-              <bibl xml:id="imprime9_ars-amatoria"><title type="ancien">De l’art d’aymer avec la clef d’amours, et les sept arts libéraux ; Le remède d’Amours, etc.</title>, Paris, <publisher>Nicolas Bonfons</publisher>, <date notBefore="1579" notAfter="1579">1579</date>, in-16, ill., f. non chiffrés. 1re partie : Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> ; <title type="ancien">La Clef d’Amours</title> f. E8v-K 3v ; <title type="ancien">Sept arts liberaux</title> ; <title type="ancien">Le remede d’amours composé par Aeneas Silvius, autrement dit pape Pie second, translaté de latin en françois par Maistre Albin des Avenelles, chanoine de l’Eglise de Soissons</title> ; <title type="ancien">La complaincte dudit Enée sur la description des deux amans, Eurialus &amp; Lucresse</title> ; 2e partie : <title type="ancien">Les traicts et attraicts de l’Amour</title>. Reprend l’édition E. Groulleau de 1556
+              <bibl xml:id="imprime9_ars-amatoria"><title type="ancien">De l’art d’aymer avec la clef d’amours, et les sept arts libéraux ; Le remède d’Amours, etc.</title>, Paris, <publisher>Nicolas Bonfons</publisher>, <date notBefore="1579" notAfter="1579">1579</date>, in-16, ill., f. non chiffrés. 1re partie : Ovide, <title>De l’art d’aimer</title>, traduction de <persName role="traducteur">Jacques d’Amiens</persName> ; <title type="ancien">La Clef d’Amours</title> f. E8v-K 3v ; <title type="ancien">Sept arts liberaux</title> ; <title type="ancien">Le remede d’amours composé par Aeneas Silvius, autrement dit pape Pie second, translaté de latin en françois par Maistre Albin des Avenelles, chanoine de l’Eglise de Soissons</title> ; <title type="ancien">La complaincte dudit Enée sur la description des deux amans, Eurialus &amp; Lucresse</title> ; 2e partie : <title type="ancien">Les traicts et attraicts de l’Amour</title>. Reprend l’édition E. Groulleau de 1556
                 <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. pYc 1844 (1-2)<listBibl>
                   <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 40241</bibl>
                 </listBibl></note></bibl>
@@ -644,7 +644,7 @@
         <dateline>
           <date notBefore="1250" notAfter="1299">fin du XIII<hi rend="sup">e</hi> siècle</date>
         </dateline>
-        <p>Le traducteur a indiqué son nom, celui de sa dame et la date de son œuvre dans une énigme qui n’a pas été résolue avec certitude. D’après K. Heisig, le poète se nommerait <persName type="traducteur">Viviens de Nogent</persName> et sa dame Lucienne de Freinet ; il vivait vraisemblablement à la fin du XIII<hi rend="sup">e</hi> siècle et était originaire de Normandie. <title>La clef d’Amour</title> est une réécriture courtoise de l’<title>Ars amatoria</title>, un remaniement largement personnel, qui adopte la structure-cadre du songe et compte plus de 3400 vers.</p>
+        <p>Le traducteur a indiqué son nom, celui de sa dame et la date de son œuvre dans une énigme qui n’a pas été résolue avec certitude. D’après K. Heisig, le poète se nommerait <persName role="traducteur">Viviens de Nogent</persName> et sa dame Lucienne de Freinet ; il vivait vraisemblablement à la fin du XIII<hi rend="sup">e</hi> siècle et était originaire de Normandie. <title>La clef d’Amour</title> est une réécriture courtoise de l’<title>Ars amatoria</title>, un remaniement largement personnel, qui adopte la structure-cadre du songe et compte plus de 3400 vers.</p>
         <listBibl>
           <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890 (Bibliotheca Normannica, 5)</bibl>
           <bibl>K. Heisig, « Über den Verfasser der Clef d’amors und den Namen seiner Dame », dans <title>Zeitschrift für romanische Philologie</title>, t. 66, 1956, p. 109-114</bibl>
@@ -770,7 +770,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime11_ars-amatoria"><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 42 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Si commence Ovide de l’art d’aymer</title> f. A2 ; <title type="ancien">Cy fine Ovide de l’art d’aymer</title> f. G4v  ; <title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaulx nouvellement imprimé a Genefve</title> f. K6b] f. A2-f. G4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres : <title type="ancien">Cy commence le chef d’Amours</title> f. G4v ; <title type="ancien">Cy finist le chef d’Amours</title> f. K5b] f. G4v-f. K5b ; <title>Les sept arts d’Amour</title> f. K5b-f. K6b (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">D</hi> Doutrepont [qui ne distingue pas les deux éditions genevoises]
+            <bibl xml:id="imprime11_ars-amatoria"><title type="ancien">Ovide De arte amandi translaté de latin en françoys imprimé nouvellement</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 42 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName role="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Si commence Ovide de l’art d’aymer</title> f. A2 ; <title type="ancien">Cy fine Ovide de l’art d’aymer</title> f. G4v  ; <title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaulx nouvellement imprimé a Genefve</title> f. K6b] f. A2-f. G4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres : <title type="ancien">Cy commence le chef d’Amours</title> f. G4v ; <title type="ancien">Cy finist le chef d’Amours</title> f. K5b] f. G4v-f. K5b ; <title>Les sept arts d’Amour</title> f. K5b-f. K6b (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">D</hi> Doutrepont [qui ne distingue pas les deux éditions genevoises]
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. m. Yc 533 (1)
                 <listBibl>
                   <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxxii-xxxiii</bibl>
@@ -779,7 +779,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime12_ars-amatoria"><title type="ancien">Ovide de arte amandi translaté de latin en françois</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 54 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName type="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Cy commence Ovide de l’art d’aymer</title> f. a2 ; <title type="ancien">Cy fine Ovide de l'art d'aymer</title> f. g4v ;<title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaux nouvellement imprimé a Genefve</title> f. n6v] f. a2-f. g4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres  : <title type="ancien">Cy commence le chief d’Amours</title> f. g4v ; <title type="ancien">Cy finie la chef d’amours</title> f. n5] f.  g4v-f. n5 ; <title>Les sept arts d’Amour</title> f. n5-f. n6v (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">D</hi> Doutrepont [qui ne distingue pas les deux éditions genevoises]
+            <bibl xml:id="imprime12_ars-amatoria"><title type="ancien">Ovide de arte amandi translaté de latin en françois</title>, Genève, [<date notBefore="1495" notAfter="1505">vers 1500</date>], 54 f., 4°, ill. Remaniement de la traduction de l’<title>Ars amatoria</title> d’<persName type="ancien">Ovide</persName> par <persName role="remanieur">Jacques d’Amiens</persName> [titres : <title type="ancien">Cy commence Ovide de l’art d’aymer</title> f. a2 ; <title type="ancien">Cy fine Ovide de l'art d'aymer</title> f. g4v ;<title type="ancien">Cy finist Ovide de l’art d’aymer avecques les sept ars liberaux nouvellement imprimé a Genefve</title> f. n6v] f. a2-f. g4v : le texte latin figure en marge ; <title>La clef d’Amour</title> [titres  : <title type="ancien">Cy commence le chief d’Amours</title> f. g4v ; <title type="ancien">Cy finie la chef d’amours</title> f. n5] f.  g4v-f. n5 ; <title>Les sept arts d’Amour</title> f. n5-f. n6v (inc. <seg type="incipit">Qui veult faire paix et entendre <lb/>Et les sept ars d’Amours comprendre</seg>...). Sigle : <hi rend="i">D</hi> Doutrepont [qui ne distingue pas les deux éditions genevoises]
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Y2 929
                 <listBibl>
                   <bibl>A. Doutrepont, <title>La clef d’Amors</title>, Halle, 1890, p. xxxii-xxxiii</bibl>
@@ -815,20 +815,20 @@
             <bibl xml:id="imprime15_ars-amatoria"><title type="ancien">Ovide, De l’art d’aymer, translaté de latin en françois. Avec plusieurs autres petitz oeuvres</title>, Paris, <publisher>Etienne Groulleau</publisher>, <date notBefore="1548" notAfter="1548">1548</date>.
               <note place="inline">Exemplaire signalé à Peterborough Cathedral [d’après Hand Press Book].</note>
             </bibl>
-            <bibl xml:id="imprime16_ars-amatoria"><title type="ancien">Ovide, de l’art d’aymer, translaté de latin en françoys, avec plusieurs autres petitz oeuvres, dont le contenu est en la page suyvante. Le tout mieux que par cy devant reveu &amp; corrigé</title>, Paris, <publisher>Etienne Groulleau</publisher>, <date notBefore="1556" notAfter="1556">1556</date>, in-16, ill. Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> [titre : <title type="ancien">Ovide de l’art d’aymer</title>] f. A2-f. F1v ; <title>La clef d’Amours</title> [titres : <title type="ancien">Ensuyt la Clef d’amour</title> f. F2 ; <title type="ancien">Fin de la Clef d’Amours</title>] f. K6v-f. F2-K6v ; <title type="ancien">Sept arts liberaux</title> f. K7-f. L1v ; <title type="ancien">Le remede d’amour, composé par Aeneas Sylvius, autrement dit pape Pie second, translaté de latin en françoys par maistre Albin des Avenelles, chanoyne de l’Eglise de Soyssons</title> f. L2-N2 ; <title type="ancien">La complainte dudit Enee, sur la description des deux amans, Eurialus &amp; Lucresse</title> f. N2v-N3v ; <title type="ancien">Description de Cupido, dieu d’amours</title> f. N4-N5v ; <title type="ancien">Declamation morale de l’amant renonçant à la fole amour</title> f. N6-O8v
+            <bibl xml:id="imprime16_ars-amatoria"><title type="ancien">Ovide, de l’art d’aymer, translaté de latin en françoys, avec plusieurs autres petitz oeuvres, dont le contenu est en la page suyvante. Le tout mieux que par cy devant reveu &amp; corrigé</title>, Paris, <publisher>Etienne Groulleau</publisher>, <date notBefore="1556" notAfter="1556">1556</date>, in-16, ill. Ovide, <title>De l’art d’aimer</title>, traduction de <persName role="traducteur">Jacques d’Amiens</persName> [titre : <title type="ancien">Ovide de l’art d’aymer</title>] f. A2-f. F1v ; <title>La clef d’Amours</title> [titres : <title type="ancien">Ensuyt la Clef d’amour</title> f. F2 ; <title type="ancien">Fin de la Clef d’Amours</title>] f. K6v-f. F2-K6v ; <title type="ancien">Sept arts liberaux</title> f. K7-f. L1v ; <title type="ancien">Le remede d’amour, composé par Aeneas Sylvius, autrement dit pape Pie second, translaté de latin en françoys par maistre Albin des Avenelles, chanoyne de l’Eglise de Soyssons</title> f. L2-N2 ; <title type="ancien">La complainte dudit Enee, sur la description des deux amans, Eurialus &amp; Lucresse</title> f. N2v-N3v ; <title type="ancien">Description de Cupido, dieu d’amours</title> f. N4-N5v ; <title type="ancien">Declamation morale de l’amant renonçant à la fole amour</title> f. N6-O8v
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. p. Yc. 59 (2)</note>
             </bibl>
-            <bibl xml:id="imprime17_ars-amatoria"><title type="ancien">De l’art d’aymer avec la clef d’amours, et les sept arts libéraux ; Le remède d’Amours, etc.</title>, Paris, <publisher>Nicolas Bonfons</publisher>, <date notBefore="1579" notAfter="1579">1579</date>, in-16, ill., f. non chiffrés. 1re partie : Ovide, <title>De l’art d’aimer</title>, traduction de <persName type="traducteur">Jacques d’Amiens</persName> ; <title type="ancien">La Clef d’Amours</title> f. E8v-K 3v ; <title type="ancien">Sept arts liberaux</title> ; <title type="ancien">Le remede d’amours composé par Aeneas Silvius, autrement dit pape Pie second, translaté de latin en françois par Maistre Albin des Avenelles, chanoine de l’Eglise de Soissons</title> ; <title type="ancien">La complaincte dudit Enée sur la description des deux amans, Eurialus &amp; Lucresse</title> ; 2e partie : <title type="ancien">Les traicts et attraicts de l’Amour</title>. Reprend l’édition E. Groulleau de 1556.
+            <bibl xml:id="imprime17_ars-amatoria"><title type="ancien">De l’art d’aymer avec la clef d’amours, et les sept arts libéraux ; Le remède d’Amours, etc.</title>, Paris, <publisher>Nicolas Bonfons</publisher>, <date notBefore="1579" notAfter="1579">1579</date>, in-16, ill., f. non chiffrés. 1re partie : Ovide, <title>De l’art d’aimer</title>, traduction de <persName role="traducteur">Jacques d’Amiens</persName> ; <title type="ancien">La Clef d’Amours</title> f. E8v-K 3v ; <title type="ancien">Sept arts liberaux</title> ; <title type="ancien">Le remede d’amours composé par Aeneas Silvius, autrement dit pape Pie second, translaté de latin en françois par Maistre Albin des Avenelles, chanoine de l’Eglise de Soissons</title> ; <title type="ancien">La complaincte dudit Enée sur la description des deux amans, Eurialus &amp; Lucresse</title> ; 2e partie : <title type="ancien">Les traicts et attraicts de l’Amour</title>. Reprend l’édition E. Groulleau de 1556.
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. pYc 1844 (1-2)</note></bibl>
           </listBibl>
         </div>
       </div>
       <div type="traduction" xml:id="guiart">
-        <head><title>L’art d’amours</title> de <persName type="traducteur">Guiart</persName></head>
+        <head><title>L’art d’amours</title> de <persName role="traducteur">Guiart</persName></head>
         <dateline>
           <date notBefore="1275" notAfter="1314">fin du XIII<hi rend="sup">e</hi> siècle-début du XIV<hi rend="sup">e</hi> siècle</date>
         </dateline>
-        <p>Petit poème en 64 quatrains d’alexandrins monorimes qui a dû être composé dans les dernières années du XIII<hi rend="sup">e</hi> siècle ou dans les premières du XIV<hi rend="sup">e</hi> siècle par un écrivain originaire d’Ile-de-France du nom de <persName type="traducteur">Guiart</persName>. Il s’est inspiré de l’<title>Ars amatoria</title> dont il traduit quelques vers. Certains de ces quatrains sont repris dans un poème pieux intitulé <title>Des cinq vigiles</title> et conservé dans le manuscrit Paris, Bibl. nat. de Fr., fr. 12483.</p>
+        <p>Petit poème en 64 quatrains d’alexandrins monorimes qui a dû être composé dans les dernières années du XIII<hi rend="sup">e</hi> siècle ou dans les premières du XIV<hi rend="sup">e</hi> siècle par un écrivain originaire d’Ile-de-France du nom de <persName role="traducteur">Guiart</persName>. Il s’est inspiré de l’<title>Ars amatoria</title> dont il traduit quelques vers. Certains de ces quatrains sont repris dans un poème pieux intitulé <title>Des cinq vigiles</title> et conservé dans le manuscrit Paris, Bibl. nat. de Fr., fr. 12483.</p>
         <listBibl>
           <bibl>A. Langfors, « Notice du manuscrit français 12483 de la Bibliothèque nationale », dans <title>Notices et extraits des manuscrits de la Bibliothèque nationale et autres bibliothèques</title>, t. 39/2, 1916, p. 545-553 [contient l’édition du poème]</bibl>
           <bibl>L. Karl, « L’art d’amours de Guiart », dans <title>Zeitschrift für romanische Philologie</title>, t. 44, 1924, [introduction] p. 66-80 et [édition] p. 181-188</bibl>

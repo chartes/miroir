@@ -88,7 +88,7 @@
       </div>
       <div type="presentation">
         <head>Texte français non retenu</head>
-        <head type="sub"><persName type="auteur">Simon de Freine</persName>, <title>Roman de philosophie</title></head>
+        <head type="sub"><persName role="auteur">Simon de Freine</persName>, <title>Roman de philosophie</title></head>
         <p>Cette adaptation du <title>De consolatione</title>, intitulée <title>Roman de philosophie</title> ou <title>Roman de Fortune</title>, est un libre remaniement en 1658 vers, qui abrège fortement l’original latin.</p>
         <listBibl>
           <bibl><title>Les oeuvres de Simund de Freine</title>, éd. J. F. Matzke, Paris, 1909 (SATF), p. 1-60</bibl>
@@ -189,7 +189,7 @@
             <bibl>J. K. Atkinson, <title>A Critical Edition of the Medieval French Prose Translation of ‘De Consolatione Philosophiae’ of Boethius Contained in MS. 898 of the Bibliotheque Municipale, Troyes</title>, 3 vol., diss., The University of Queensland, 1976</bibl>
             <bibl>R. Schroth, <title>Eine altfranzösische Übersetzung der Consolatio Philosophiae des Boethius (Handschrift Troyes Nr. 898), Edition und Kommentar</title>, Frankfurt/M., 1976 (Europäische Hochschulschriften, série XIII, Langue et littérature française, 36) [voir le compte rendu de K. Baldinger dans <title>Zeitschrift für Romanische Philologie</title>, t. 94, 1978, p. 181-185</bibl>
             <bibl>M. M. L. Bolton-Hall, « <title>Del Confortement de Philosophie</title>  », dans <title>L’Orphée de Boèce au Moyen Âge, Traductions françaises et commentaires latins (XII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Vérone, 2000 (Medioevi Testi, 2), p. 13-15</bibl>
-            <bibl>G. Roques, « Les régionalismes dans les traductions françaises de la <foreign>Consolatio Philosophiae</foreign> de Boèce  », dans C. Galderisi et C. Pignatelli (éd.), <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 187-203 (part. p. 192-194)</bibl>
+            <bibl>G. Roques, « Les régionalismes dans les traductions françaises de la <title type="oeuvre">Consolatio Philosophiae</title> de Boèce  », dans C. Galderisi et C. Pignatelli (éd.), <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 187-203 (part. p. 192-194)</bibl>
             <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B255</bibl>
           </listBibl>
           <div type="incipit">
@@ -226,7 +226,7 @@
                   <idno>898</idno>
                 </msIdentifier>
                 <msContents>
-                  <p>traduction du <title>De regimine principium</title> de <persName type="ancien">Gilles de Rome</persName> par <persName type="traducteur">Henri de Gauchi</persName> f. 97a-217d ; traduction II de la <title>Consolatio Philosophiae</title> de Boèce [titres : <title type="ancien">Ci commence Boesces de consolation</title> f. 218a ; <title type="ancien">Explicit Boesses de consolation</title> f. 252d] f. 218a-252d ; recueil de sentences morales f. 253a-271b (inc. <seg type="incipit">Reverence est une vertus de liberalité qui nous fait honnourer les nobles personnes...</seg>).</p>
+                  <p>traduction du <title>De regimine principium</title> de <persName type="ancien">Gilles de Rome</persName> par <persName role="traducteur">Henri de Gauchi</persName> f. 97a-217d ; traduction II de la <title>Consolatio Philosophiae</title> de Boèce [titres : <title type="ancien">Ci commence Boesces de consolation</title> f. 218a ; <title type="ancien">Explicit Boesses de consolation</title> f. 252d] f. 218a-252d ; recueil de sentences morales f. 253a-271b (inc. <seg type="incipit">Reverence est une vertus de liberalité qui nous fait honnourer les nobles personnes...</seg>).</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -238,7 +238,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 565, f. 17 [1329], <title>Mss datés</title>, t. I, pl. 40)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ, comte de Chimay</persName> († 1482) ou <persName type="possesseur" key="Philippe II de Croÿ, comte de Porcéan">Philippe II de Croÿ, comte de Porcéan</persName> († 1549) (<quote>« Ce livre appartient a Mons Phe de Croÿ comte de Porchien »</quote> f. 271v, mention de la 1re moitié du XVI<hi rend="sup">e</hi> s.)</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ, comte de Chimay</persName> († 1482) ou <persName role="possesseur" key="Philippe II de Croÿ, comte de Porcéan">Philippe II de Croÿ, comte de Porcéan</persName> († 1549) (<quote>« Ce livre appartient a Mons Phe de Croÿ comte de Porchien »</quote> f. 271v, mention de la 1re moitié du XVI<hi rend="sup">e</hi> s.)</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -252,12 +252,12 @@
           </div>
         </div>
         <div type="soustraduction" n="I.3" xml:id="boeces_consolation_demena">
-          <head><title>Boeces de la Consolation de la Phylosophye</title> par <persName type="traducteur">Bonaventura de Demena</persName> (VIII)</head>
+          <head><title>Boeces de la Consolation de la Phylosophye</title> par <persName role="traducteur">Bonaventura de Demena</persName> (VIII)</head>
           <dateline>
             <date notBefore="1250" notAfter="1319">XIII<hi rend="sup">e</hi> siècle ou début du XIV<hi rend="sup">e</hi> siècle</date>
           </dateline>
           <p>Traduction en prose qui christianise la <title>Consolation</title> en y introduisant par exemple le décalogue ou des préceptes tirés des
-            <title>Evangiles</title>. <persName type="traducteur">Bonaventura de Demena</persName> avait précédemment traduit la <title>Consolation</title> en vénitien.</p>
+            <title>Evangiles</title>. <persName role="traducteur">Bonaventura de Demena</persName> avait précédemment traduit la <title>Consolation</title> en vénitien.</p>
           <listBibl>
             <bibl>G. Peron, « Cultura e pubblico del « Boèce » franco-italiano (Paris, B.N. ms. fr. 821) », dans <title>Testi, cotesti e contesti del franco-italiano</title>, Tübingen, 1989, p. 143-160</bibl>
             <bibl><title>« Consolatio Philosophiae », una versione veneta</title>, éd. A. M. Babbi, Milan, 1995 [édition de la traduction vénitienne de la version de Demena]</bibl>
@@ -371,11 +371,11 @@
           </div>
         </div>
         <div type="soustraduction" n="I.4" xml:id="livres_confort">
-          <head><title>Li Livres de Confort de Philosophie</title> par <persName type="traducteur">Jean de Meun</persName> (III)</head>
+          <head><title>Li Livres de Confort de Philosophie</title> par <persName role="traducteur">Jean de Meun</persName> (III)</head>
           <dateline>
             <date notBefore="1300" notAfter="1314">premier quart du XIV<hi rend="sup">e</hi> siècle</date>
           </dateline>
-          <p>Traduction en prose du début du XIV<hi rend="sup">e</hi> siècle, fidèle au texte latin et dédiée à Philippe le Bel. Le prologue de <persName type="traducteur">Jean de Meun</persName> a été emprunté par la version VI. Abondamment diffusée, cette traduction a été utilisée par <persName type="ancien">Chaucer</persName> pour sa propre traduction de la
+          <p>Traduction en prose du début du XIV<hi rend="sup">e</hi> siècle, fidèle au texte latin et dédiée à Philippe le Bel. Le prologue de <persName role="traducteur">Jean de Meun</persName> a été emprunté par la version VI. Abondamment diffusée, cette traduction a été utilisée par <persName type="ancien">Chaucer</persName> pour sa propre traduction de la
             <title>Consolatio</title>.</p>
           <listBibl>
             <bibl>V. L. Dedeck-Héry, « Un fragment inédit de la traduction de la ‘Consolatio’ de Boèce par Jean de Meun », dans <title>Romanic Review</title>, t. 27, 1936, p. 110-124</bibl>
@@ -449,7 +449,7 @@
                   </physDesc>
                   <history>
                     <origin notBefore="1351" notAfter="1400">seconde moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de la Sorbonne 126, f. 27 [1379], <title>Mss datés</title>, t. I, pl. 57)</origin>
-                    <provenance>Possesseur : armes de <persName type="possesseur" key="Séricourt">Séricourt</persName> (lettre ornée f. 1) ; armes de <persName type="possesseur" key="Lannoy d’Ameraucourt">Lannoy d’Ameraucourt</persName> (lettre ornée f. 39v)</provenance>
+                    <provenance>Possesseur : armes de <persName role="possesseur" key="Séricourt">Séricourt</persName> (lettre ornée f. 1) ; armes de <persName role="possesseur" key="Lannoy d’Ameraucourt">Lannoy d’Ameraucourt</persName> (lettre ornée f. 39v)</provenance>
                   </history>
                 </msPart>
                 <msPart>
@@ -482,7 +482,7 @@
                     <title type="ancien">Ci fenist le livre de l’erudicion des princes</title> f. 102a] f. 10a-102a ; f. 102b-d blanc ; traduction anonyme du <title>De regimine principum</title> de
                     <persName type="ancien">Gilles de Rome</persName> [titres  :
                     <title type="ancien">le gouvernement des princes selon frere Giles de l’ordre saint Augustin</title> f. 1a de la table ;
-                    <title type="ancien">Cy commence le livre du vouvernement des roys et des princes</title> f. 103a] f. 103a-244d ; traduction du <title>Liber de moribus hominum et officiis nobilium ac popularium sive super ludum scacchorum</title> de <persName type="ancien">Jacques de Cessoles</persName> par <persName type="traducteur">Jean de Vignay</persName> [titre : <title type="ancien">le livre des moralitez des eschiez</title> f. 1a de la table] f. 245a-290a blancs ; f. 290b-292d ; traduction de la
+                    <title type="ancien">Cy commence le livre du vouvernement des roys et des princes</title> f. 103a] f. 103a-244d ; traduction du <title>Liber de moribus hominum et officiis nobilium ac popularium sive super ludum scacchorum</title> de <persName type="ancien">Jacques de Cessoles</persName> par <persName role="traducteur">Jean de Vignay</persName> [titre : <title type="ancien">le livre des moralitez des eschiez</title> f. 1a de la table] f. 245a-290a blancs ; f. 290b-292d ; traduction de la
                     <title>Consolatio Philosophiae de Boèce</title> par Jean de Meun [titres : <title type="ancien">le livre de Boece de consolacion</title> f. 1a de la table ; <title type="ancien">Ci emprés s’ensuit le livre des Boece de consolacion de philosophie et contient V livres lequel ne procede pas par chapitres</title> (rubr.) f. [VII]c de la table ; <title type="ancien">Ci commence Boeces de consolacion et fontaine de philosophie translaté de latin en françois par maistre Jehan de Meun</title> (rubr.) f. 293a ; <title type="ancien">Explicit Boece de consolacion</title> f. 338d] f. 293a-338b ; f. 338c-d blanc ; <title>Moralités des philosophes</title> [titre : <title type="ancien">le livre de moralitez des philosophes</title> f. [I]a de la table] f. 339a-351c ; f. 351d-352d blancs ; <title>Livre de l’établissement de sainte Eglise</title> [titres : <title type="ancien">le livre de l’establissement de sainte Eglise, c’est le mirouer de l’Eglise</title> f. [I]a de la table ; <title type="ancien">Ci fenist le livret de l’establissement de sainte Yglise</title> f. 357b] f. 353a-357b ; f. 357c-358b blancs ; traduction du
                     <title>Speculum de mysteriis Ecclesiae</title> du <persName type="ancien">du pseudo-Hugues</persName> [titres : <title type="ancien">le livre du Mirouer de la messe fait et composé par maistre Hue de Saint Victor</title> f. [I]a de la table  ;
                     <title type="ancien">Ci fenist le mirooir de la messe de l’Eglise</title> f. 371a] f. 358c-371a ; traduction d’<persName type="ancien">Esope</persName> [titres : <title type="ancien">Aprés s’ensuient les fables faites du livre de Esopet</title> (rubr.) f. [VIII]c de la table ; <title type="ancien">Ci fenist le livret Esope</title> f. 375b] f. 371c-375b ; f. 375c-376d blancs ; traduction du <title>De misere conditionis humanae</title> d’<persName type="ancien">Innocent III</persName> par le diacre Lohier [titre : <title type="ancien">le livre de la misere de l’omme, c’est a savoir le livre de la vilté de la condicion hu<pb n="f.[I]b de la table" />maine</title> ; <title type="ancien">Ci fenist le livre de la misere de l’omme</title> f. 400a], f. 377a-400a.</p>
@@ -497,7 +497,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (1372)</origin>
-                  <provenance>possesseur : recueil confectionné pour <persName type="possesseur" key="Charles V">Charles V</persName>.</provenance>
+                  <provenance>possesseur : recueil confectionné pour <persName role="possesseur" key="Charles V">Charles V</persName>.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -517,7 +517,7 @@
                   <idno>10394-10414</idno>
                 </msIdentifier>
                 <msContents>
-                  <p>2 fragments de la traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun sur 4 f. de garde parchemin (2 f. de garde début et f. 184-185) encadrant la traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par <persName type="traducteur">Henri de Gauchy</persName> (les gardes de couleur sont contrecollées sur les f. 1 et 185) : f. de garde verso : fragment du mètre I du livre I (l. 16-20 de l’éd. Dedeck-Hery) suivi du début de la prose I du Livre I (lignes 1-23) (inc. ...<seg type="incipit">fust mon chief plungier et noier</seg> ; expl. ...<seg type="explicit">elle portoit en sa main des</seg>...) ; f. 1 : fragment de la prose IV du livre I (lignes 7-38) (inc. ...<seg type="incipit">ses apparant part mismes l’aspresce de Fortune</seg>... ; expl. ...<seg type="explicit">au desous ou par privees rapines ou par</seg>...) ; f. 184r-v : fragment du prologue (l. 57-122 de l’éd. Dedeck-Héry : inc. ...<seg type="incipit">cion vient de ce que li bien d’omme est bien entendables</seg>... ; expl. ...<seg type="explicit">et ainsiut les biens entendables. Si que en la partie</seg>) ; f. 185 : fragment de la prose 4 du livre I (l. 70-103 ; inc. ...<seg type="incipit">droituriers iceus accuseurs N’ot donques ici fortune</seg>... ; expl. ...<seg type="explicit">et a monestre et a merveille comment on present regart de Dieu peust estre</seg>).</p>
+                  <p>2 fragments de la traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun sur 4 f. de garde parchemin (2 f. de garde début et f. 184-185) encadrant la traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par <persName role="traducteur">Henri de Gauchy</persName> (les gardes de couleur sont contrecollées sur les f. 1 et 185) : f. de garde verso : fragment du mètre I du livre I (l. 16-20 de l’éd. Dedeck-Hery) suivi du début de la prose I du Livre I (lignes 1-23) (inc. ...<seg type="incipit">fust mon chief plungier et noier</seg> ; expl. ...<seg type="explicit">elle portoit en sa main des</seg>...) ; f. 1 : fragment de la prose IV du livre I (lignes 7-38) (inc. ...<seg type="incipit">ses apparant part mismes l’aspresce de Fortune</seg>... ; expl. ...<seg type="explicit">au desous ou par privees rapines ou par</seg>...) ; f. 184r-v : fragment du prologue (l. 57-122 de l’éd. Dedeck-Héry : inc. ...<seg type="incipit">cion vient de ce que li bien d’omme est bien entendables</seg>... ; expl. ...<seg type="explicit">et ainsiut les biens entendables. Si que en la partie</seg>) ; f. 185 : fragment de la prose 4 du livre I (l. 70-103 ; inc. ...<seg type="incipit">droituriers iceus accuseurs N’ot donques ici fortune</seg>... ; expl. ...<seg type="explicit">et a monestre et a merveille comment on present regart de Dieu peust estre</seg>).</p>
                 </msContents>
                 <history>
                   <origin notBefore="1280" notAfter="1305">fin du XIII<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2899, f. 172v [1297 (?)], <title>Mss datés</title>, t. I, pl. 26)</origin>
@@ -548,7 +548,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1350" notAfter="1400">2<hi rend="sup">e</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de la Sorbonne, 126, f. 27 [1379], <title>Mss datés</title>, t. I, pl. 57)</origin>
-                  <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes, f. 1a, peints après 1485, date de la mort d’Antoine de Chourses).</provenance>
+                  <provenance>Possesseurs : <persName role="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName role="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes, f. 1a, peints après 1485, date de la mort d’Antoine de Chourses).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -577,7 +577,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 415, f. 7 [1407], <title>Mss datés</title>, t. I, pl. 76)</origin>
-                  <provenance>Possesseurs : <persName type="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName type="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes, monogramme et devise f. 1a).</provenance>
+                  <provenance>Possesseurs : <persName role="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName role="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes, monogramme et devise f. 1a).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -598,7 +598,7 @@
                 </msIdentifier>
                 <msContents>
                   <p>recueil de 16 textes, dont le <title>Roman de la Rose</title>, le <title>Testament</title> et le <title>Codicille</title> de
-                    <persName type="ancien">Jean de Meun</persName>, ainsi que les deux « romans » du <persName type="ancien">Reclus de Molliens</persName> ; <persName type="traducteur">Adam de Suel</persName>, traduction française des
+                    <persName type="ancien">Jean de Meun</persName>, ainsi que les deux « romans » du <persName type="ancien">Reclus de Molliens</persName> ; <persName role="traducteur">Adam de Suel</persName>, traduction française des
                     <title>Distiques</title> de <persName type="ancien">Caton</persName> [titre : <title type="ancien">Chaton en françoys</title> f. 125c] f. 125c-128d ; traduction VI de la
                     <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Boesce de consolacion</title> (rubr.) f. 201a ; <title type="ancien">Cy finent les livres de Boesce <lb/>que j’ay escript a grant angoesce</title> (rubr.) f. 221b] sans prologue (début-V, m. 2) f. 201a-217b (inc.
                     <seg type="incipit">Je qui sueil diter et escrire <lb/>Les livres de haute matire <lb/>Et d’estuide avoie la flour <lb/>Fais or diz de duel et de plour</seg> ; expl. ...
@@ -609,7 +609,7 @@
                     <p>223 f. parchemin (le ms comptait à l’origine 252 f. ; 11 des f. perdus se trouvent dans le ms Paris, Bibl. nat. de Fr., nouv. acq. fr. 20001, f. 5-15 ; 2 f. situés primitivement entre les f. 201 et 202 du ms conservé à Dijon et contenant une partie de la traduction de Boèce se retrouvent aujourd'hui dans le ms de Paris)</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié par <persName type="copiste">Mathias du Rivau</persName>, originaire du Poitou (nouv acq. fr. 20001, f. 12)</p>
+                    <p>Copié par <persName role="copiste">Mathias du Rivau</persName>, originaire du Poitou (nouv acq. fr. 20001, f. 12)</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 1 miniature découpée en tête de la traduction des <title>Distiques</title> (f. 125c) ; 1 autre conservée d’1/4 de la justification (f. 125d).</p>
@@ -617,7 +617,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1350" notAfter="1365">ca 1355-ca 1362 (cf. colophon f. 221b) (proche du ms Paris, bibl. Sainte-Geneviève 777, f. 11v [1364-1373], <title>Mss datés</title>, t. I, pl. 51)</origin>
-                  <provenance>Possesseur : <persName type="possesseur" key="Louis de Luxembourg, comte de Saint-Pol">Louis de Luxembourg</persName>, comte de Saint-Pol, exécuté en 1475 (signature effacée f. 221) ; <persName type="possesseur" key="Regnault, Jean">Jehan Regnault</persName> (ex libris contreplat sup. XVI<hi rend="sup">e</hi> s. : avocat au Parlement de Bourgogne, identif. incertaine proposée par Y. Zaluska, marié en 1597).</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Louis de Luxembourg, comte de Saint-Pol">Louis de Luxembourg</persName>, comte de Saint-Pol, exécuté en 1475 (signature effacée f. 221) ; <persName role="possesseur" key="Regnault, Jean">Jehan Regnault</persName> (ex libris contreplat sup. XVI<hi rend="sup">e</hi> s. : avocat au Parlement de Bourgogne, identif. incertaine proposée par Y. Zaluska, marié en 1597).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -644,7 +644,7 @@
                   <p>recueil factice</p>
                 </msContents>
                 <history>
-                  <provenance>Possesseur : <persName type="possesseur" key="Chrétien, abbé de Marchiennes">Chrétien, abbé de Marchiennes</persName> de 1389 à 1412  : mention <quote>« Apporté par l’abbé Chrétien au XIVe siècle »</quote> (f. 1)</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Chrétien, abbé de Marchiennes">Chrétien, abbé de Marchiennes</persName> de 1389 à 1412  : mention <quote>« Apporté par l’abbé Chrétien au XIVe siècle »</quote> (f. 1)</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -657,7 +657,7 @@
                 <msPart>
                   <msIdentifier><idno>I</idno></msIdentifier>
                   <msContents>
-                    <p>traduction des <title>Disticha</title> du <persName type="ancien">Pseudo-Caton</persName> par <persName type="traducteur">Jean Le Fèvre</persName> [titre : <title type="ancien">Explicit Catho dans castigamina nato</title> f. 19] ; f. 19v blanc</p>
+                    <p>traduction des <title>Disticha</title> du <persName type="ancien">Pseudo-Caton</persName> par <persName role="traducteur">Jean Le Fèvre</persName> [titre : <title type="ancien">Explicit Catho dans castigamina nato</title> f. 19] ; f. 19v blanc</p>
                   </msContents>
                   <physDesc>
                     <objectDesc>
@@ -739,7 +739,7 @@
                     <p>161 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Jean Boutefeue</persName> (<quote>« Joh. Boutefeue scrip. ist. lib. »</quote> f. 161)</p>
+                    <p>Copiste : <persName role="copiste">Jean Boutefeue</persName> (<quote>« Joh. Boutefeue scrip. ist. lib. »</quote> f. 161)</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : enluminé en France ca 1410-1415 par le maître de Boucicault (?) ; 1 miniature sur 1 colonne d’1/3 de la justification (f. 1a) ; lettres historiées (f. 1a, 4, 29, 58, 100, 134v)</p>
@@ -747,7 +747,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">première moitié du XV<hi rend="sup">e</hi> s. (corps du texte proche du ms Paris, bibl. Mazarine, 415, f. 7 [1407], <title>Mss datés</title>, t. I, pl. 76)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 4 ; devise f. 1, 4 ; signature f. 161 et 162).</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 4 ; devise f. 1, 4 ; signature f. 161 et 162).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -776,7 +776,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1101" notAfter="1200">XII<hi rend="sup">e</hi> s.</origin>
-                  <provenance>Possesseurs : <orgName type="possesseur" key="Louvain, abbaye du Val Saint-Martin">abbaye du Val Saint-Martin de Louvain</orgName> (2 mentions effacées du XIV<hi rend="sup">e</hi> s. : <quote>« Liber monasterii.......... Sancti Martini in Lovania »</quote> ; <quote>« Est liber hic Sancti Martini Lovaniensis »</quote>).</provenance>
+                  <provenance>Possesseurs : <orgName role="possesseur" key="Louvain, abbaye du Val Saint-Martin">abbaye du Val Saint-Martin de Louvain</orgName> (2 mentions effacées du XIV<hi rend="sup">e</hi> s. : <quote>« Liber monasterii.......... Sancti Martini in Lovania »</quote> ; <quote>« Est liber hic Sancti Martini Lovaniensis »</quote>).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -801,7 +801,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 734, f. 102 [1312], <title>Mss datés</title>, t. I, pl. 30)</origin>
-                  <provenance>Possesseur : <quote>« <persName type="possesseur" key="Marguerite">Margueryte</persName> »</quote> (f. 59) ; devise <quote>« laz ...lite moy quel de plaisir soufre »</quote> par une main du XV<hi rend="sup">e</hi> s. (f. 59).</provenance>
+                  <provenance>Possesseur : <quote>« <persName role="possesseur" key="Marguerite">Margueryte</persName> »</quote> (f. 59) ; devise <quote>« laz ...lite moy quel de plaisir soufre »</quote> par une main du XV<hi rend="sup">e</hi> s. (f. 59).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -822,12 +822,12 @@
                     <p>116 f. parchemin</p>
                   </objectDesc>
                   <decoDesc>
-                    <p>Illustration : réalisée par le <persName type="illustrateur">maître de Coëtivy</persName> (1), 1 miniature de la moitié de la justification (f. 1) ; 1 miniature d’1/3 de la justification sur 1 colonne (f. 2v) ; 4 miniatures d’1/3 de la justification (f. 20v, 40v, 71v, 96v) en début de livre</p>
+                    <p>Illustration : réalisée par le <persName role="illustrateur">maître de Coëtivy</persName> (1), 1 miniature de la moitié de la justification (f. 1) ; 1 miniature d’1/3 de la justification sur 1 colonne (f. 2v) ; 4 miniatures d’1/3 de la justification (f. 20v, 40v, 71v, 96v) en début de livre</p>
                   </decoDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4915, f. 249 [1448], <title>Mss datés</title>, t. II, pl. 106)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="Budé, Guillaume">Guillaume Budé</persName> ; <persName type="possesseur" key="Budé, Jean">Jean Budé</persName> ; <persName type="possesseur" key="Le Tellier, Charles Maurice">Charles Maurice Le Tellier</persName>.</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Budé, Guillaume">Guillaume Budé</persName> ; <persName role="possesseur" key="Budé, Jean">Jean Budé</persName> ; <persName role="possesseur" key="Le Tellier, Charles Maurice">Charles Maurice Le Tellier</persName>.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -964,7 +964,7 @@
                     <p>538 f. parchemin à 3 colonnes</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste des f. 43-538 : <persName type="copiste">Robin Boutemont</persName> (f. 284a) [Bouveret 16677]</p>
+                    <p>Copiste des f. 43-538 : <persName role="copiste">Robin Boutemont</persName> (f. 284a) [Bouveret 16677]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 83 miniatures dont 4 pour Boèce</p>
@@ -1026,7 +1026,7 @@
                   </decoDesc>
                 </physDesc>
                 <history>
-                  <provenance>possesseurs : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> ; collection du <persName type="possesseur" key="Troussure, comte de">comte de Troussure</persName></provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> ; collection du <persName role="possesseur" key="Troussure, comte de">comte de Troussure</persName></provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -1059,7 +1059,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1472" notAfter="1472">1472 (f. 99v)</origin>
-                  <provenance>Possesseurs : <quote>« Ex dono <persName type="possesseur" key="Guerin">Guerin</persName> »</quote> (f. de garde verso) ; A... Jacques [<persName type="possesseur" key="Girardon, Jacques">Girardon</persName> ?] (mention du XVI<hi rend="sup">e</hi> s. f. 47). Ce manuscrit est devenu illisible : du fait d’une réaction chimique, la partie écrite est entièrement noircie.</provenance>
+                  <provenance>Possesseurs : <quote>« Ex dono <persName role="possesseur" key="Guerin">Guerin</persName> »</quote> (f. de garde verso) ; A... Jacques [<persName role="possesseur" key="Girardon, Jacques">Girardon</persName> ?] (mention du XVI<hi rend="sup">e</hi> s. f. 47). Ce manuscrit est devenu illisible : du fait d’une réaction chimique, la partie écrite est entièrement noircie.</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -1086,12 +1086,12 @@
                     <p>96 f. parchemin</p>
                   </objectDesc>
                   <decoDesc>
-                    <p>Illustration : par le <persName type="illustrateur">maître du Boèce de Paris</persName> (ms éponyme) ; 5 miniatures des 2/3 de la justification (f. 27, 40, 51, 67, 82) en tête du prologue et des livres II à V  ; 1 miniature sur 1 colonne d’1/3 de la justification (f. 29d)</p>
+                    <p>Illustration : par le <persName role="illustrateur">maître du Boèce de Paris</persName> (ms éponyme) ; 5 miniatures des 2/3 de la justification (f. 27, 40, 51, 67, 82) en tête du prologue et des livres II à V  ; 1 miniature sur 1 colonne d’1/3 de la justification (f. 29d)</p>
                   </decoDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1450" notAfter="1475">3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche des ms Paris, Bibl. nat. de Fr., lat. 6482, f. 163 [1465-1470] et Paris, Bibl. nat. de Fr., lat. 1179, f. 4 [1475], <title>Mss datés</title>, t. II, pl. 137 et 157)</origin>
-                  <provenance>possesseur : signature effacée <quote>« <persName type="possesseur" key="Françoise">Françoyse</persName> »</quote> (XV<hi rend="sup">e</hi>-XVI<hi rend="sup">e</hi> s.).</provenance>
+                  <provenance>possesseur : signature effacée <quote>« <persName role="possesseur" key="Françoise">Françoyse</persName> »</quote> (XV<hi rend="sup">e</hi>-XVI<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1107,7 +1107,7 @@
         </div>
         <div type="soustraduction" n="I.5" xml:id="pierre_paris">
           <head><title>Le livre de Boece De Consolation</title>, traduction en prose par
-            <persName type="traducteur">Pierre de Paris</persName> (IV)</head>
+            <persName role="traducteur">Pierre de Paris</persName> (IV)</head>
           <dateline>
             <date notBefore="1250" notAfter="1308">avant 1309</date>
           </dateline>
@@ -1117,7 +1117,7 @@
             <bibl>A. Thomas, « Notice sur le manuscrit 4788 du Vatican », dans <title>Notices et extraits des manuscrits de la Bibliothèque Nationale et autres bibliothèques</title>, t. 41, 1917, p. 29-90</bibl>
             <bibl>J. K. Atkinson, « Le Boece de Consolation de Pierre de Paris », dans
               <title>L’Orphée de Boèce au Moyen Âge, Traductions françaises et commentaires latins (XII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Vérone, 2000 (Medioevi Testi, 2), p. 25-30</bibl>
-            <bibl> A. M. Babbi, « Pierre de Paris traducteur de la <foreign>Consolatio Philosophiae</foreign> », dans C. Galderisi et C. Pignatelli (éd.),
+            <bibl> A. M. Babbi, « Pierre de Paris traducteur de la <title type="oeuvre">Consolatio Philosophiae</title> », dans C. Galderisi et C. Pignatelli (éd.),
               <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 23-32 [présentation la plus complète à ce jour]</bibl>
             <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B251</bibl>
           </listBibl>
@@ -1170,14 +1170,14 @@
                   <idno>Vat. lat. 4788</idno>
                 </msIdentifier>
                 <msContents>
-                  <p>traduction de la <title>Consolatio Philosophiae</title> de Boèce par <persName type="traducteur">Pierre de Paris</persName> [titres : <title type="ancien">Ci comense le livre de Boece de consolation, translaté de latin en franceis par maistre Pierre de Paris</title> f. 1a ; <title type="ancien">Ici commense le livre de Boece de Consolation et commense Boece son livre per une maniere de complaire et dit ensi</title> (rubr.) f. 4c] f. 1a-88a.</p>
+                  <p>traduction de la <title>Consolatio Philosophiae</title> de Boèce par <persName role="traducteur">Pierre de Paris</persName> [titres : <title type="ancien">Ci comense le livre de Boece de consolation, translaté de latin en franceis par maistre Pierre de Paris</title> f. 1a ; <title type="ancien">Ici commense le livre de Boece de Consolation et commense Boece son livre per une maniere de complaire et dit ensi</title> (rubr.) f. 4c] f. 1a-88a.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
                     <p>88 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : maistre <persName type="copiste">Ogier</persName> (f. 1a) (corrections en marge)</p>
+                    <p>Copiste : maistre <persName role="copiste">Ogier</persName> (f. 1a) (corrections en marge)</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : lettre historiée (f. 1a, 3c, 23b, 44a, 68d, 81a), partiellement en marge</p>
@@ -1185,7 +1185,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1309" notAfter="1309">Chypre, 20 septembre 1309 (f. 1a) (proche du ms Padova, bibl. Sem. vesc., cod. 542, f. 3v [1297], <title>I manoscritti datati di Padova</title>, Florence, 2003 (Manoscritti datati d'Italia, 7), pl. 1)</origin>
-                  <provenance>commanditaire : <persName type="commanditaire">Jean Coqueriau</persName> (<quote>« Ci comense le livre de Boece de consolation, translaté de latin en franceis par maistre Pierre de Paris. Et a ce que la maniere dou translat soit coneue, le devant dit maistre si a ordené une epistle en cest comensement, laquel epistle est, auci come le prologue, dou translator, a laquel il demoustre tote la maniere selonc laquel il entent a porsuivre sa translation. Et comense ensi, lequel susdit livre je, maistre Ogier, ay contrescrit a vos, mesire Johan Coqueriau, en l’aun de grace M° CCC° VIIII°, a XX jors de setembre »</quote> f. 1a)</provenance>
+                  <provenance>commanditaire : <persName role="commanditaire">Jean Coqueriau</persName> (<quote>« Ci comense le livre de Boece de consolation, translaté de latin en franceis par maistre Pierre de Paris. Et a ce que la maniere dou translat soit coneue, le devant dit maistre si a ordené une epistle en cest comensement, laquel epistle est, auci come le prologue, dou translator, a laquel il demoustre tote la maniere selonc laquel il entent a porsuivre sa translation. Et comense ensi, lequel susdit livre je, maistre Ogier, ay contrescrit a vos, mesire Johan Coqueriau, en l’aun de grace M° CCC° VIIII°, a XX jors de setembre »</quote> f. 1a)</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1278,7 +1278,7 @@
                     <p>161 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié par <persName type="copiste">Pierre de Palude</persName>.</p>
+                    <p>Copié par <persName role="copiste">Pierre de Palude</persName>.</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -1302,12 +1302,12 @@
                     <p>266 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : plusieurs mains, mais <persName type="copiste">A. Dannes</persName> [Bouveret 416 : 1406 (Paris, Bibl. nat. de Fr., fr. 615 pour Jean de Hangest)] a copié notamment la traduction de Boèce et les extraits du <title>Secret des secrets</title> (<title type="ancien">Expliciunt les livres du Renclus de Moylains et de nature, lesquels furent escrips en le ville de Maigny es Armentières, au commandement de noble et redoubté seigneur mons. Mahieu de Hangest, chevalier, seigneur de Genly et de Maigny, de la main Alixandre Dannes, l’endemain du jour du saint sacrement nostre seigneur Jhesu Crist, XXVIIe jour de may, l’an de grace nostre seigneur mil IIIIcc et deux. Tesmoing son sing manuel : DANNES.</title> f. 238v)</p>
+                    <p>Copiste : plusieurs mains, mais <persName role="copiste">A. Dannes</persName> [Bouveret 416 : 1406 (Paris, Bibl. nat. de Fr., fr. 615 pour Jean de Hangest)] a copié notamment la traduction de Boèce et les extraits du <title>Secret des secrets</title> (<title type="ancien">Expliciunt les livres du Renclus de Moylains et de nature, lesquels furent escrips en le ville de Maigny es Armentières, au commandement de noble et redoubté seigneur mons. Mahieu de Hangest, chevalier, seigneur de Genly et de Maigny, de la main Alixandre Dannes, l’endemain du jour du saint sacrement nostre seigneur Jhesu Crist, XXVIIe jour de may, l’an de grace nostre seigneur mil IIIIcc et deux. Tesmoing son sing manuel : DANNES.</title> f. 238v)</p>
                   </handDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1395" notAfter="1405">ca 1400 (f. 238v) (f. 5 proche de Paris, Bibl. nat. de Fr., lat. 4914, f. 53 [1381], <title>Mss datés</title>, t. II, pl. 63 ; f. 77 proche du ms Paris, Mazarine, 1413, f. 82v [1409], <title>Mss datés</title>, t. I, pl. 78)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Mahieu de Hangest">Mahieu de Hangest</persName> († 1402-1404), 3e fils de Jean I de Hangest et de Marie de Vignemont.</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Mahieu de Hangest">Mahieu de Hangest</persName> († 1402-1404), 3e fils de Jean I de Hangest et de Marie de Vignemont.</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -1393,7 +1393,7 @@
                   </physDesc>
                   <history>
                     <origin notBefore="1351" notAfter="1400">seconde moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de la Sorbonne 126, f. 27 [1379], <title>Mss datés</title>, t. I, pl. 57)</origin>
-                    <provenance>Possesseur : armes de <persName type="possesseur" key="Séricourt">Séricourt</persName> (lettre ornée f. 1) ; armes de <persName type="possesseur" key="Lannoy d’Ameraucourt">Lannoy d’Ameraucourt</persName> (lettre ornée f. 39v)</provenance>
+                    <provenance>Possesseur : armes de <persName role="possesseur" key="Séricourt">Séricourt</persName> (lettre ornée f. 1) ; armes de <persName role="possesseur" key="Lannoy d’Ameraucourt">Lannoy d’Ameraucourt</persName> (lettre ornée f. 39v)</provenance>
                   </history>
                 </msPart>
                 <msPart>
@@ -1434,7 +1434,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1301" notAfter="1335">Lorraine, 1<hi rend="sup">er</hi> tiers du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 1031, f. 74 [1323], <title>Mss datés</title>, t. I, pl. 34)</origin>
-                  <provenance>possesseur : <orgName type="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. 5).</provenance>
+                  <provenance>possesseur : <orgName role="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. 5).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1453,7 +1453,7 @@
                   <msName type="sigle" resp="Atkinson">Br.</msName>
                 </msIdentifier>
                 <msContents>
-                  <p>2 fragments de la traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun sur 4 f. de garde parchemin (2 f. de garde début et f. 184-185) encadrant la traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par <persName type="traducteur">Henri de Gauchy</persName> (les gardes de couleur sont contrecollées sur les f. 1 et 185) : f. de garde verso : fragment du mètre I du livre I (l. 16-20 de l’éd. Dedeck-Hery) suivi du début de la prose I du Livre I (lignes 1-23) (inc. ...<seg type="incipit">fust mon chief plungier et noier</seg> ; expl. <seg type="explicit">elle portoit en sa main des</seg>...) ; f. 1 : fragment de la prose IV du livre I (lignes 7-38) (inc. ...<seg type="incipit">ses apparant part mismes l’aspresce de Fortune</seg>... ; expl. ...<seg type="explicit">au desous ou par privees rapines ou par</seg>...) ; f. 184r-v : fragment du prologue (l. 57-122 de l’éd. Dedeck-Héry : inc. ...<seg type="incipit">cion vient de ce que li bien d’omme est bien entendables</seg>... ; expl. ...<seg type="explicit">et ainsiut les biens entendables. Si que en la partie</seg>...) ; f. 185 : fragment de la prose 4 du livre I (l. 70-103 ; inc. ...<seg type="incipit">droituriers iceus accuseurs N’ot donques ici fortune</seg>... ; expl. ...<seg type="explicit">et a monestre et a merveille comment on present regart de Dieu peust estre</seg>...)</p>
+                  <p>2 fragments de la traduction de la <title>Consolatio Philosophiae</title> de Boèce par Jean de Meun sur 4 f. de garde parchemin (2 f. de garde début et f. 184-185) encadrant la traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par <persName role="traducteur">Henri de Gauchy</persName> (les gardes de couleur sont contrecollées sur les f. 1 et 185) : f. de garde verso : fragment du mètre I du livre I (l. 16-20 de l’éd. Dedeck-Hery) suivi du début de la prose I du Livre I (lignes 1-23) (inc. ...<seg type="incipit">fust mon chief plungier et noier</seg> ; expl. <seg type="explicit">elle portoit en sa main des</seg>...) ; f. 1 : fragment de la prose IV du livre I (lignes 7-38) (inc. ...<seg type="incipit">ses apparant part mismes l’aspresce de Fortune</seg>... ; expl. ...<seg type="explicit">au desous ou par privees rapines ou par</seg>...) ; f. 184r-v : fragment du prologue (l. 57-122 de l’éd. Dedeck-Héry : inc. ...<seg type="incipit">cion vient de ce que li bien d’omme est bien entendables</seg>... ; expl. ...<seg type="explicit">et ainsiut les biens entendables. Si que en la partie</seg>...) ; f. 185 : fragment de la prose 4 du livre I (l. 70-103 ; inc. ...<seg type="incipit">droituriers iceus accuseurs N’ot donques ici fortune</seg>... ; expl. ...<seg type="explicit">et a monestre et a merveille comment on present regart de Dieu peust estre</seg>...)</p>
                 </msContents>
                 <history>
                   <origin notBefore="1280" notAfter="1305">fin du XIII<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2899, f. 172v [1297 (?)], <title>Mss datés</title>, t. I, pl. 26)</origin>
@@ -1487,7 +1487,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1301" notAfter="1335">Metz ; 1<hi rend="sup">er</hi> tiers du XIV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 734, f. 102 [1312], <title>Mss datés</title>, t. I, pl. 30)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="Gournay, famille de">famille de Gournay</persName> (XVI<hi rend="sup">e</hi> s.) : <quote>« Ce livre est a dame Anne de Gournay, fille signeur Regnault de Gournay »</quote> (f. 1).</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Gournay, famille de">famille de Gournay</persName> (XVI<hi rend="sup">e</hi> s.) : <quote>« Ce livre est a dame Anne de Gournay, fille signeur Regnault de Gournay »</quote> (f. 1).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1514,7 +1514,7 @@
                   </objectDesc>
                   <handDesc>
                     <p>Copiste : <quote>« 
-                      <persName type="copiste">Gm Guidomari Venetensis diocesis</persName>
+                      <persName role="copiste">Gm Guidomari Venetensis diocesis</persName>
                        »</quote> [Bouveret 4657] (f. 87)</p>
                   </handDesc>
                   <decoDesc>
@@ -1564,7 +1564,7 @@
           </div>
         </div>
         <div type="soustraduction" n="I.8" xml:id="renaut_louhans">
-          <head><persName type="traducteur">Renaut de Louhans</persName>, <title>Le Roman de Fortune et de Felicité</title> (IX)</head>
+          <head><persName role="traducteur">Renaut de Louhans</persName>, <title>Le Roman de Fortune et de Felicité</title> (IX)</head>
           <dateline>
             <date notBefore="1300" notAfter="1333">1337</date>
           </dateline>
@@ -1642,7 +1642,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                  <provenance>Possesseur : <quote>« Ce livre est <persName type="possesseur" key="Nicolas aquar... clerc des monn...">Nicolas aquar... clerc des monn</persName>. »</quote> (f. 35).</provenance>
+                  <provenance>Possesseur : <quote>« Ce livre est <persName role="possesseur" key="Nicolas aquar... clerc des monn...">Nicolas aquar... clerc des monn</persName>. »</quote> (f. 35).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -1694,7 +1694,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6643, f. 366 [1497], <title>Mss datés</title>, t. II, pl. 172)</origin>
-                  <provenance>Possesseurs : <orgName type="possesseur" key="Chaalis, abbaye de">abbaye de Chaalis</orgName> (<quote>« Ce livre est de Notre Dame de Chaliz »</quote>, mention du XV<hi rend="sup">e</hi> s. f. 5v) ; au-dessous signatures par paire : <quote>« Jamet »</quote> (?) <quote>« A.-J. Gaboys »</quote> ; <quote>« Denise Crestaille J. Barono »</quote></provenance>
+                  <provenance>Possesseurs : <orgName role="possesseur" key="Chaalis, abbaye de">abbaye de Chaalis</orgName> (<quote>« Ce livre est de Notre Dame de Chaliz »</quote>, mention du XV<hi rend="sup">e</hi> s. f. 5v) ; au-dessous signatures par paire : <quote>« Jamet »</quote> (?) <quote>« A.-J. Gaboys »</quote> ; <quote>« Denise Crestaille J. Barono »</quote></provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1718,7 +1718,7 @@
                     <p>65 f. parchemin [f. 1-20, 31-32] et papier [f. 21-30, 33-65] (filigrane sim. Briquet 4082 [Cologne, 1417 ; sim. 1417-1436])</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Jean Vachet de Saint-Aubin</persName> (Jura) (f. 64v) [Bouveret 11735].</p>
+                    <p>Copiste : <persName role="copiste">Jean Vachet de Saint-Aubin</persName> (Jura) (f. 64v) [Bouveret 11735].</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -1776,7 +1776,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1390" notAfter="1410">vers 1400 (proche du ms Paris, bibl. Mazarine, 3476, f. 1 [1390], <title>Mss datés</title>, t. I, pl. 61)</origin>
-                  <provenance>possesseur : <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque des ducs de Bourgogne</orgName> (n°165 de l’inventaire 1404-1405 [P. M. De Winter, <title>La bibliothèque de Philippe le Hardi, duc de Bourgogne (1364-1404)</title>, Paris, 1985] ; n° 182 de l’inventaire de 1420).</provenance>
+                  <provenance>possesseur : <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque des ducs de Bourgogne</orgName> (n°165 de l’inventaire 1404-1405 [P. M. De Winter, <title>La bibliothèque de Philippe le Hardi, duc de Bourgogne (1364-1404)</title>, Paris, 1985] ; n° 182 de l’inventaire de 1420).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1803,7 +1803,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1425" notAfter="1450">Pays-Bas méridionaux (Bruges ?) ; 2<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 767, f. 2 [1424], <title>Mss datés</title>, t. I, pl. 85)</origin>
-                  <provenance>Possesseur : <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque des ducs de Bourgogne</orgName> (inventaire de 1467-1469 : n° 1539).</provenance>
+                  <provenance>Possesseur : <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque des ducs de Bourgogne</orgName> (inventaire de 1467-1469 : n° 1539).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1831,12 +1831,12 @@
                     <p>385 f. papier (filigranes sim. Briquet 371 [Douai, 1421], Briquet 3556-3557 [1417-1425], Briquet 3619 [1415-1427] et Briquet 5820 [1430])</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Jean Wagis</persName> [absent de Bouveret qui mentionne un <persName type="copiste">Jean Wag’</persName> 11824 (année 1428)]</p>
+                    <p>Copiste : <persName role="copiste">Jean Wagis</persName> [absent de Bouveret qui mentionne un <persName role="copiste">Jean Wag’</persName> 11824 (année 1428)]</p>
                   </handDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1428" notAfter="1429">1428/1429 (f. 103, 124, 158, 230v) (1)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName>, comte de Chimay (<quote>« En ce livre sont contenues pluiseurs vyes de sains et de saintes en rime et en prose, lequel est a monseigneur Charles de Croÿ, comte de Chimay »</quote> [signature] <quote>« Charles »</quote> f. 386) ; Marguerite d’Autriche (acquis avant 1511) ; <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (ex-libris collé sur le verso du dernier f. de garde) ; <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (à partir de 1559).</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName>, comte de Chimay (<quote>« En ce livre sont contenues pluiseurs vyes de sains et de saintes en rime et en prose, lequel est a monseigneur Charles de Croÿ, comte de Chimay »</quote> [signature] <quote>« Charles »</quote> f. 386) ; Marguerite d’Autriche (acquis avant 1511) ; <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (ex-libris collé sur le verso du dernier f. de garde) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (à partir de 1559).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1864,7 +1864,7 @@
                   </objectDesc>
                 </physDesc>
                 <history>
-                  <provenance>Possesseur : <orgName type="possesseur" key="Floreffe, abbaye des Prémontrés">abbaye de Prémontrés de Floreffe</orgName> (fin du XV<hi rend="sup">e</hi> s.) (f. 187v, armes de Luc d’Eyck, premier abbé de Floreffe) ; <persName type="possesseur" key="Henri d’Opprebais, régulier de Floreffe et abbé de Beaurepart">Henri d’Opprebais, régulier de Floreffe et abbé de Beaurepart</persName> (<quote>« Liber Henrici d’Opprebays et regularorum floreffusi ordinis premonstratensis. Abbas Belli reditus Leodiensis »</quote> f. 1).</provenance>
+                  <provenance>Possesseur : <orgName role="possesseur" key="Floreffe, abbaye des Prémontrés">abbaye de Prémontrés de Floreffe</orgName> (fin du XV<hi rend="sup">e</hi> s.) (f. 187v, armes de Luc d’Eyck, premier abbé de Floreffe) ; <persName role="possesseur" key="Henri d’Opprebais, régulier de Floreffe et abbé de Beaurepart">Henri d’Opprebais, régulier de Floreffe et abbé de Beaurepart</persName> (<quote>« Liber Henrici d’Opprebays et regularorum floreffusi ordinis premonstratensis. Abbas Belli reditus Leodiensis »</quote> f. 1).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1922,7 +1922,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4941, f. 312 [1484], <title>Mss datés</title>, t. II, pl. 164)</origin>
-                  <provenance>Possesseur : <quote>« <persName type="possesseur" key="Nicolas Huron">Nicolas Huron</persName> demeurant a Gonesse »</quote> (XV<hi rend="sup">e</hi> s.) (f. 59v).</provenance>
+                  <provenance>Possesseur : <quote>« <persName role="possesseur" key="Nicolas Huron">Nicolas Huron</persName> demeurant a Gonesse »</quote> (XV<hi rend="sup">e</hi> s.) (f. 59v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1940,19 +1940,19 @@
                   <msName type="sigle" resp="Atherton-Atkinson">D1</msName>
                 </msIdentifier>
                 <msContents>
-                  <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-164 (f. 1 déchiré partiellement ; f. 2 inc. ...<seg type="incipit">Car il s’en passe trop briefment <lb/>Elles en sunt mains agreables</seg>...) ; 10 vers du prologue du livre II de la <title>Consolatio Philosophiae</title> de Boèce f. 164 ; traduction des <title>Disticha</title> du <persName type="ancien">Pseudo-Caton</persName> par <persName type="traducteur">Jean Le Fèvre</persName> [titre : <title type="ancien">Cathon ly sage</title> f. 164v] f. 164v-184 ; testament en allemand daté de 1530 f. 188v-189 ; pièce amoureuse f. 190v (inc. <seg type="incipit">Marry requier doulce dame</seg>...).</p>
+                  <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-164 (f. 1 déchiré partiellement ; f. 2 inc. ...<seg type="incipit">Car il s’en passe trop briefment <lb/>Elles en sunt mains agreables</seg>...) ; 10 vers du prologue du livre II de la <title>Consolatio Philosophiae</title> de Boèce f. 164 ; traduction des <title>Disticha</title> du <persName type="ancien">Pseudo-Caton</persName> par <persName role="traducteur">Jean Le Fèvre</persName> [titre : <title type="ancien">Cathon ly sage</title> f. 164v] f. 164v-184 ; testament en allemand daté de 1530 f. 188v-189 ; pièce amoureuse f. 190v (inc. <seg type="incipit">Marry requier doulce dame</seg>...).</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
                     <p>186 f. [la foliotation passe de 184 à 188] papier (filigranes Briquet 15052-15053 [Savoie, 1433 ; sim. 1439-1453] ; Briquet 13041 [Bourg, 1473 ; sim. 1482-1502])</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : mention <quote>« framuz rugne »</quote> (?) avec signature formée d’un C ou d’un G (f. 25v) ; <persName type="copiste">Franz Rugine</persName> (signature de 1563, f. 190v).</p>
+                    <p>Copiste : mention <quote>« framuz rugne »</quote> (?) avec signature formée d’un C ou d’un G (f. 25v) ; <persName role="copiste">Franz Rugine</persName> (signature de 1563, f. 190v).</p>
                   </handDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5653, f. 43 [1466-1469], <title>Mss datés</title>, t. II, pl. 139)</origin>
-                  <provenance>mention <quote>« framuz rugne »</quote> (?) avec signature formée d’un C ou d’un G (f. 25v) ; <persName type="possesseur" key="Rugine, Franz">Franz Rugine</persName> (signature de 1563, f. 190v).</provenance>
+                  <provenance>mention <quote>« framuz rugne »</quote> (?) avec signature formée d’un C ou d’un G (f. 25v) ; <persName role="possesseur" key="Rugine, Franz">Franz Rugine</persName> (signature de 1563, f. 190v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -2001,11 +2001,11 @@
                     <p>284 f. papier</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Henri de (la) Crose</persName> (<persName type="possesseur">Henricus de Crosa</persName>, f. 281) [absent de Bouveret]</p>
+                    <p>Copiste : <persName role="copiste">Henri de (la) Crose</persName> (<persName role="possesseur">Henricus de Crosa</persName>, f. 281) [absent de Bouveret]</p>
                   </handDesc>
                 </physDesc>
                 <history>
-                  <provenance>Possesseur : <persName type="copiste">Jean Joly</persName> (<quote>« Liber fratris Johannis Joly ordinis minorum quondam custos et gardianus filius huius conventus »</quote> f. 1).</provenance>
+                  <provenance>Possesseur : <persName role="copiste">Jean Joly</persName> (<quote>« Liber fratris Johannis Joly ordinis minorum quondam custos et gardianus filius huius conventus »</quote> f. 1).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -2084,12 +2084,12 @@
                     <p>144 f. papier (filigranes : f. 1-125 Briquet 2420 [Soleure, 1462] ; f. 126-144 Briquet 7805 [Augbourg ? 1454])</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Guichard Philippe</persName> (f. 107v, colophon) [absent de Bouveret] à Evian en 1471 (f. 107v)</p>
+                    <p>Copiste : <persName role="copiste">Guichard Philippe</persName> (f. 107v, colophon) [absent de Bouveret] à Evian en 1471 (f. 107v)</p>
                   </handDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1471-08-01" notAfter="1471-08-31">août 1471 (proche du ms Paris, Bibl. nat. de Fr., lat. 7282, f. 62 [1466-1468], <title>Mss datés</title>, t. II, pl. 139)</origin>
-                  <provenance>possesseurs : peut-être <persName type="possesseur" key="Jean de Montchenu-Ternier">Jean de Montchenu-Ternier, dit le Commandeur de Genève</persName> (vécut à Genève de 1473 à 1475) (revers du plat supérieur, f. 1) ; <persName type="possesseur" key="Jean Brogny">Jean Brogny</persName> (XVI<hi rend="sup">e</hi> s., nom et blason f. 144v) ; <quote>« Iste liber est michi Johanni Philippi Burgen. Gebenarum quid sibi fu abattu per collu seusqueti suspendetur si sit Johannes Philippi supra Philippi bonno est quem Deus ipsum benedicat »</quote> (f. 144v) [XV<hi rend="sup">e</hi> s.] ; <quote>«  Sans faire bruit [paraphe] Bruyant  »</quote> suivi de la date 1508 (f. 144v).</provenance>
+                  <provenance>possesseurs : peut-être <persName role="possesseur" key="Jean de Montchenu-Ternier">Jean de Montchenu-Ternier, dit le Commandeur de Genève</persName> (vécut à Genève de 1473 à 1475) (revers du plat supérieur, f. 1) ; <persName role="possesseur" key="Jean Brogny">Jean Brogny</persName> (XVI<hi rend="sup">e</hi> s., nom et blason f. 144v) ; <quote>« Iste liber est michi Johanni Philippi Burgen. Gebenarum quid sibi fu abattu per collu seusqueti suspendetur si sit Johannes Philippi supra Philippi bonno est quem Deus ipsum benedicat »</quote> (f. 144v) [XV<hi rend="sup">e</hi> s.] ; <quote>«  Sans faire bruit [paraphe] Bruyant  »</quote> suivi de la date 1508 (f. 144v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -2273,7 +2273,7 @@
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Cy commence Boece de consolacion</title> f. 1a] f. 1a-54c ; f. 54d-55d blancs ;
-                    <title>Livre de Mellibee et Prudence</title> de <persName type="ancien">Renaut de Louhans</persName> [titre : <title type="ancien">Cy commence le livre de Mellibee et prudence</title> f. 56a] f. 56a-70d ; traduction du <title>Liber de moribus hominum et officiis nobilium ac popularium sive super ludum scacchorum</title> de <persName type="ancien">Jacques de Cessoles</persName> par <persName type="traducteur">Jean Ferron</persName> f. 71a-101a ; <title>Epistola beati Bernardi</title> en latin (<title>Patrologia Latina</title>, t. 182, ep. 456) f. 101b-103d ; <title>Testament</title> de <persName type="ancien">Jean de Meun</persName>, f. 104ra-120vb ; f. 121rv blanc ; <title>Vigiles des Morts</title> de <persName type="ancien">Pierre de Nesson</persName>, f. 122ra-129vc.</p>
+                    <title>Livre de Mellibee et Prudence</title> de <persName type="ancien">Renaut de Louhans</persName> [titre : <title type="ancien">Cy commence le livre de Mellibee et prudence</title> f. 56a] f. 56a-70d ; traduction du <title>Liber de moribus hominum et officiis nobilium ac popularium sive super ludum scacchorum</title> de <persName type="ancien">Jacques de Cessoles</persName> par <persName role="traducteur">Jean Ferron</persName> f. 71a-101a ; <title>Epistola beati Bernardi</title> en latin (<title>Patrologia Latina</title>, t. 182, ep. 456) f. 101b-103d ; <title>Testament</title> de <persName type="ancien">Jean de Meun</persName>, f. 104ra-120vb ; f. 121rv blanc ; <title>Vigiles des Morts</title> de <persName type="ancien">Pierre de Nesson</persName>, f. 122ra-129vc.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -2367,7 +2367,7 @@
                     <p>108 f. papier (filigrane Briquet 5607 [Genève, 1411 ; sim. 1413-1428], Italie du nord, début du XV<hi rend="sup">e</hi> s.)</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : bas du f. 107 <quote>« Qui scrisit stabat semper cum Domino vivat [signé] <persName type="copiste">Delormoy</persName> (?) »</quote></p>
+                    <p>Copiste : bas du f. 107 <quote>« Qui scrisit stabat semper cum Domino vivat [signé] <persName role="copiste">Delormoy</persName> (?) »</quote></p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -2536,7 +2536,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6493, f. 77v [1469], <title>Mss datés</title>, t. II, pl. 144)</origin>
-                  <provenance>possesseur : <quote>« <persName type="possesseur" key="Rasoir, Nicolas">Nicolas Rasoir</persName> »</quote> (XVI<hi rend="sup">e</hi> s.).</provenance>
+                  <provenance>possesseur : <quote>« <persName role="possesseur" key="Rasoir, Nicolas">Nicolas Rasoir</persName> »</quote> (XVI<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -2563,7 +2563,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche des mss Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84 et Paris, Bibl. nat. de Fr., lat. 6708, f. 105v [vers 1425], <title>Mss datés</title>, t. II, pl. 89)</origin>
-                  <provenance>Possesseur : <persName type="possesseur" key="Sauve, Philippe">Philippe Saulve</persName> (XVI<hi rend="sup">e</hi> s. d’après (1) : <quote>« C’est a moy Sauve »</quote> f. de garde début verso) ; note sur le mariage de <quote>« <persName type="possesseur" key="Hurtault, Guillaume">Guillaume Hurtault</persName> »</quote> avec <quote>« <persName type="possesseur" key="Marie Guegues">Marie Guegues</persName> »</quote> (9 nov. 1473), f. 68v.</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Sauve, Philippe">Philippe Saulve</persName> (XVI<hi rend="sup">e</hi> s. d’après (1) : <quote>« C’est a moy Sauve »</quote> f. de garde début verso) ; note sur le mariage de <quote>« <persName role="possesseur" key="Hurtault, Guillaume">Guillaume Hurtault</persName> »</quote> avec <quote>« <persName role="possesseur" key="Marie Guegues">Marie Guegues</persName> »</quote> (9 nov. 1473), f. 68v.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -2679,7 +2679,7 @@
                   </physDesc>
                   <history>
                     <origin notBefore="1380" notAfter="1420">fin du XIV<hi rend="sup">e</hi> s.-début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de la Sorbonne, 216, f. 248 [1388], <title>Mss datés</title>, t. I, pl. 60)</origin>
-                    <provenance>Possesseurs : f. de garde début, signature de deux possesseurs : <quote>« <persName type="possesseur" key="Derellis">Derellis</persName> »</quote> ( ?), <quote>«  Guinguant  »</quote> (peut-être l’un des <persName type="possesseur" key="Guinguant, Hugues ou Louis">frères Guinguant (Hugues et Louis, notaires-secrétaires du roi au début du XVe s.</persName>) ; <orgName type="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> [n° 1479] (ex libris f. 1)</provenance>
+                    <provenance>Possesseurs : f. de garde début, signature de deux possesseurs : <quote>« <persName role="possesseur" key="Derellis">Derellis</persName> »</quote> ( ?), <quote>«  Guinguant  »</quote> (peut-être l’un des <persName role="possesseur" key="Guinguant, Hugues ou Louis">frères Guinguant (Hugues et Louis, notaires-secrétaires du roi au début du XVe s.</persName>) ; <orgName role="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> [n° 1479] (ex libris f. 1)</provenance>
                   </history>
                   <additional>
                     <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -2775,7 +2775,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1466" notAfter="1500">troisième tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="Trencart, Jean">Jean Trencart d’Amiens</persName> et <persName type="possesseur" key="Vismes, Anne de">Anne de Vismes</persName>, sa femme (fin XVI<hi rend="sup">e</hi> s.-début XVII<hi rend="sup">e</hi> s., f. 97 ; 141v et 147).</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Trencart, Jean">Jean Trencart d’Amiens</persName> et <persName role="possesseur" key="Vismes, Anne de">Anne de Vismes</persName>, sa femme (fin XVI<hi rend="sup">e</hi> s.-début XVII<hi rend="sup">e</hi> s., f. 97 ; 141v et 147).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -2856,7 +2856,7 @@
                     <p>185 f. papier (Briquet n° 13853 [Namur, 1426 ; sim. 1426-1427])</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">J. Vittoul</persName> (signature f. 80a) [absent de Bouveret]</p>
+                    <p>Copiste : <persName role="copiste">J. Vittoul</persName> (signature f. 80a) [absent de Bouveret]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : réserve f. 1a.</p>
@@ -2890,7 +2890,7 @@
                   </objectDesc>
                   <handDesc>
                     <p>Copiste : <quote>« 
-                      <persName type="copiste">G. dictus Lanielle</persName>
+                      <persName role="copiste">G. dictus Lanielle</persName>
                        »</quote>, f. 13 (signature « G », f. 52, 74, 96v) [Bouveret 4665]</p>
                   </handDesc>
                   <decoDesc>
@@ -2899,7 +2899,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1406" notAfter="1406">1406 (expl. f. 143) (3)</origin>
-                  <provenance>possesseurs : <quote>« Ce livre appartient a noble damoyselle mademoiselle de Quiercheville »</quote> [<persName type="possesseur" key="Durevie de Querqueville, mademoiselle">Durevie de Querqueville</persName>, Normandie] <quote>« qui le trouvera cy luy rende »</quote> (f. 145v, fin du XVe s.) ; f. 1 : <quote>« <persName type="possesseur" key="Robert Hare">Roberti Hare</persName> 1551  »</quote>.</provenance>
+                  <provenance>possesseurs : <quote>« Ce livre appartient a noble damoyselle mademoiselle de Quiercheville »</quote> [<persName role="possesseur" key="Durevie de Querqueville, mademoiselle">Durevie de Querqueville</persName>, Normandie] <quote>« qui le trouvera cy luy rende »</quote> (f. 145v, fin du XVe s.) ; f. 1 : <quote>« <persName role="possesseur" key="Robert Hare">Roberti Hare</persName> 1551  »</quote>.</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -3009,7 +3009,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Despierres">Despierres</persName> ( ?) (f. de garde et sous l’explicit, f. 80b : <quote>« Y prouvera encores. Despierrez »</quote>) XVI<hi rend="sup">e</hi> s.</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Despierres">Despierres</persName> ( ?) (f. de garde et sous l’explicit, f. 80b : <quote>« Y prouvera encores. Despierrez »</quote>) XVI<hi rend="sup">e</hi> s.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -3102,7 +3102,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1451" notAfter="1475">3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Poille, Jean">Jean Poille</persName> (mention f. 2 ; ex libris f. 182v).</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Poille, Jean">Jean Poille</persName> (mention f. 2 ; ex libris f. 182v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -3213,7 +3213,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
-                  <provenance>possesseurs : <quote>« Ce livre contient XLIII caiers, lequel est a <persName type="possesseur" key="Pierre Chanscec">Pierre Chanscec</persName> »</quote>... (mention du XV<hi rend="sup">e</hi> s. f. 80v) ; f. 77 signature <quote>« <persName type="possesseur" key="P. Girard">P. Girard</persName> »</quote>.</provenance>
+                  <provenance>possesseurs : <quote>« Ce livre contient XLIII caiers, lequel est a <persName role="possesseur" key="Pierre Chanscec">Pierre Chanscec</persName> »</quote>... (mention du XV<hi rend="sup">e</hi> s. f. 80v) ; f. 77 signature <quote>« <persName role="possesseur" key="P. Girard">P. Girard</persName> »</quote>.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -3277,7 +3277,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1395" notAfter="1420">début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 767, f. 2 [1424], <title>Mss datés</title>, t. I, pl. 85)</origin>
-                  <provenance>possesseur : <quote>« <persName type="possesseur" key="Claude Dufloc">Claude Dufloc</persName> »</quote> (mention du XV<hi rend="sup">e</hi> s., f. 89).</provenance>
+                  <provenance>possesseur : <quote>« <persName role="possesseur" key="Claude Dufloc">Claude Dufloc</persName> »</quote> (mention du XV<hi rend="sup">e</hi> s., f. 89).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3304,7 +3304,7 @@
                     <p>320 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <quote>« nomen scriptoris <persName type="copiste">Galfridus Waryn</persName> plenus »</quote></p>
+                    <p>Copiste : <quote>« nomen scriptoris <persName role="copiste">Galfridus Waryn</persName> plenus »</quote></p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 3 miniatures sur une colonne d’un tiers de la justification (f. 76a, 120c, 266a) ; 1 miniature sur une colonne de la moitié de la justification (f. 1a)</p>
@@ -3312,7 +3312,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1435">1<hi rend="sup">er</hi> tiers du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 646, f. 164 [1399], <title>Mss datés</title>, t. I, pl. 71)</origin>
-                  <provenance>possesseur : loyaument et liement, <persName type="possesseur" key="Louis le Bourgehier">Louis le Bourgehier</persName> (mention XV<hi rend="sup">e</hi> s.) ; armes de France f. 1.</provenance>
+                  <provenance>possesseur : loyaument et liement, <persName role="possesseur" key="Louis le Bourgehier">Louis le Bourgehier</persName> (mention XV<hi rend="sup">e</hi> s.) ; armes de France f. 1.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3340,7 +3340,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Mazarine, 253, f. 44 [1417], <title>Mss datés</title> , t. I pl. 84)</origin>
-                  <provenance>Possesseur : <quote>« Iste liber pertinet domino <persName type="possesseur" key="Suphon Jonglatoris">Suphon Jonglatoris</persName> »</quote> (mention XV<hi rend="sup">e</hi> s., f. 78a).</provenance>
+                  <provenance>Possesseur : <quote>« Iste liber pertinet domino <persName role="possesseur" key="Suphon Jonglatoris">Suphon Jonglatoris</persName> »</quote> (mention XV<hi rend="sup">e</hi> s., f. 78a).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3486,7 +3486,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="Guillaume de Canteleu">Guillaume de Canteleu</persName>, <persName type="possesseur" key="Boulecart, Guillaume">Guillaume Boulecart</persName> (1458), <persName type="possesseur" key="Jean Balay">Jean Balay</persName>, <persName type="possesseur" key="Nicole Tueleu">Nicole Tueleu</persName> (<quote>« Lequel maistre Nicole Tueleu a depuis achapté des heritiers Jehan Balay avecques aultres. N. Tueleu »</quote> f. 82b) ; devise <quote>« A une sans plus »</quote> f. 82b.</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Guillaume de Canteleu">Guillaume de Canteleu</persName>, <persName role="possesseur" key="Boulecart, Guillaume">Guillaume Boulecart</persName> (1458), <persName role="possesseur" key="Jean Balay">Jean Balay</persName>, <persName role="possesseur" key="Nicole Tueleu">Nicole Tueleu</persName> (<quote>« Lequel maistre Nicole Tueleu a depuis achapté des heritiers Jehan Balay avecques aultres. N. Tueleu »</quote> f. 82b) ; devise <quote>« A une sans plus »</quote> f. 82b.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3513,7 +3513,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1390" notAfter="1410">ca 1400 (proche du ms Paris, Bibl. nat. de Fr., lat. 6708, f. 105v [vers 1425], <title>Mss datés</title>, t. II, pl. 89)</origin>
-                  <provenance>Possesseurs : <quote>« Ce livre appartient a maistre <persName type="possesseur" key="Lamy, Guillaume">Guillaume Lamy</persName>, notaire et secretaire du roy »</quote> (f. 124, mention fin XV<hi rend="sup">e</hi> s.) ; <quote>« Ce livre est a <persName type="possesseur" key="Petit, Jean">Jehan Petit</persName>, bourgoys et conseiller de Nyort »</quote> (f. 124, mention ca 1500) ; <orgName type="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> (inventaire de Claude de Grandrue, 1514).</provenance>
+                  <provenance>Possesseurs : <quote>« Ce livre appartient a maistre <persName role="possesseur" key="Lamy, Guillaume">Guillaume Lamy</persName>, notaire et secretaire du roy »</quote> (f. 124, mention fin XV<hi rend="sup">e</hi> s.) ; <quote>« Ce livre est a <persName role="possesseur" key="Petit, Jean">Jehan Petit</persName>, bourgoys et conseiller de Nyort »</quote> (f. 124, mention ca 1500) ; <orgName role="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> (inventaire de Claude de Grandrue, 1514).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3540,7 +3540,7 @@
                     <p>86 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Raoulet d’Orléans</persName> [Bouveret 16286-16290 ; actif 1360-1371] pour <persName type="dedicataire">Jean de Langres</persName> (acrostiche f. 86v : <quote>« IEHAN DE LANGRES ESMAJLLEUR »</quote>) f. 86c</p>
+                    <p>Copiste : <persName role="copiste">Raoulet d’Orléans</persName> [Bouveret 16286-16290 ; actif 1360-1371] pour <persName role="dedicataire">Jean de Langres</persName> (acrostiche f. 86v : <quote>« IEHAN DE LANGRES ESMAJLLEUR »</quote>) f. 86c</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 1 miniature sur deux colonnes d’un tiers de la justification (f. 1) ; 1 miniature sur une colonne d’un tiers de la justification (f. 70c)</p>
@@ -3694,7 +3694,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
-                  <provenance>Possesseur : <quote>« Je <persName type="possesseur" key="Tilly, Jean de">Jehan de Tilly</persName> esscuier alant a pié par defaulte de cheval »</quote> (possesseur ?) (mention de la fin du XV<hi rend="sup">e</hi> s. au verso du dernier f. blanc ; Ker (2) date cette mention de la fin XVI<hi rend="sup">e</hi> s.).</provenance>
+                  <provenance>Possesseur : <quote>« Je <persName role="possesseur" key="Tilly, Jean de">Jehan de Tilly</persName> esscuier alant a pié par defaulte de cheval »</quote> (possesseur ?) (mention de la fin du XV<hi rend="sup">e</hi> s. au verso du dernier f. blanc ; Ker (2) date cette mention de la fin XVI<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -3810,7 +3810,7 @@
                     <p>142 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Jean de Langres</persName>, clerc (f. 89v, colophon) [absent de Bouveret ; M. M. Noest ne pense pas que Jean de Langres soit le copiste]</p>
+                    <p>Copiste : <persName role="copiste">Jean de Langres</persName>, clerc (f. 89v, colophon) [absent de Bouveret ; M. M. Noest ne pense pas que Jean de Langres soit le copiste]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 50 miniatures sur une colonne d’un tiers de la justification pour le <title>Roman</title></p>
@@ -3847,7 +3847,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XVe s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6073, f. 2 [1458], <title>Mss datés</title>, t. II, pl. 122)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Pierre Odoard">Pierre Odoard</persName> (<quote>« Cest present livre appartien a moy Odoard Perlein demorrant a Saint Gengoul, leguué par moy »</quote> f. 113 ; <quote>« M. Odoard Pierre, presbtre »</quote> f. 210v).</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Pierre Odoard">Pierre Odoard</persName> (<quote>« Cest present livre appartien a moy Odoard Perlein demorrant a Saint Gengoul, leguué par moy »</quote> f. 113 ; <quote>« M. Odoard Pierre, presbtre »</quote> f. 210v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3906,7 +3906,7 @@
                   </physDesc>
                   <history>
                     <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (f. 230 proche du ms Paris, bibl. Sainte-Geneviève 369, f. 2 [1380], <title>Mss datés</title>, t. I, pl. 55)</origin>
-                    <provenance>possesseur : <persName type="possesseur" key="Queval, Cornille">Cornille Queval</persName> († 1596) (f. 1).</provenance>
+                    <provenance>possesseur : <persName role="possesseur" key="Queval, Cornille">Cornille Queval</persName> († 1596) (f. 1).</provenance>
                   </history>
                   <additional>
                     <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -3974,7 +3974,7 @@
                       <p>142 f. parchemin</p>
                     </objectDesc>
                     <handDesc>
-                      <p>Copiste : <persName type="copiste">Jean de Langres</persName>, clerc (f. 89v colophon) [absent de Bouveret ; M. M. Noest (2) ne pense pas que Jean de Langres soit le copiste]</p>
+                      <p>Copiste : <persName role="copiste">Jean de Langres</persName>, clerc (f. 89v colophon) [absent de Bouveret ; M. M. Noest (2) ne pense pas que Jean de Langres soit le copiste]</p>
                     </handDesc>
                     <decoDesc>
                       <p>illustration : 50 miniatures sur une colonne d’un tiers de la justification pour le <title>Roman</title></p>
@@ -4059,7 +4059,7 @@
                     <p>106 f. papier</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">P. Languille</persName> [Bouveret 14917]</p>
+                    <p>Copiste : <persName role="copiste">P. Languille</persName> [Bouveret 14917]</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -4079,7 +4079,7 @@
           </div>
         </div>
         <div type="soustraduction" n="I.10" xml:id="traduction_cis">
-          <head>Traduction non identifiée par <persName type="traducteur">Jean de Cis</persName> (?)</head>
+          <head>Traduction non identifiée par <persName role="traducteur">Jean de Cis</persName> (?)</head>
           <dateline>
             <date notBefore="1350" notAfter="1379">avant 1380</date>
           </dateline>
@@ -4172,7 +4172,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1390" notAfter="1410">Paris, vers 1400 (proche du ms Paris, bibl. de l’Arsenal, 522, f. 100 [après 395], <title>Mss datés</title>, t. I, pl. 67)</origin>
-                  <provenance>Possesseur : <quote>« <persName type="possesseur" key="P. de Begmas">P. de Begmas</persName> »</quote> (?) (f. 26 et 29 signature XVI<hi rend="sup">e</hi> s. d’une main maladroite).</provenance>
+                  <provenance>Possesseur : <quote>« <persName role="possesseur" key="P. de Begmas">P. de Begmas</persName> »</quote> (?) (f. 26 et 29 signature XVI<hi rend="sup">e</hi> s. d’une main maladroite).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4200,7 +4200,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1463" notAfter="1463">1463 (f. 33c, cf. 1)</origin>
-                  <provenance>Possesseur : <quote>« <persName type="possesseur" key="Jérome Dennetieres">Jeromme Dennetieres</persName>. Che livre chy apartie[nt] a <persName type="possesseur" key="Jeanne Crassin">Jehenne Crassin</persName> vefve de feu Ser. Jherome Dentieres »</quote> (4e f. de garde).</provenance>
+                  <provenance>Possesseur : <quote>« <persName role="possesseur" key="Jérome Dennetieres">Jeromme Dennetieres</persName>. Che livre chy apartie[nt] a <persName role="possesseur" key="Jeanne Crassin">Jehenne Crassin</persName> vefve de feu Ser. Jherome Dentieres »</quote> (4e f. de garde).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4222,7 +4222,7 @@
                 </msIdentifier>
                 <msContents>
                   <p>recueil de 16 textes, dont le <title>Roman de la Rose</title>, le <title>Testament</title> et le <title>Codicille</title> de
-                    <persName type="ancien">Jean de Meun</persName>, ainsi que les deux « romans » du <persName type="ancien">Reclus de Molliens</persName> ; <persName type="traducteur">Adam de Suel</persName>, traduction française des
+                    <persName type="ancien">Jean de Meun</persName>, ainsi que les deux « romans » du <persName type="ancien">Reclus de Molliens</persName> ; <persName role="traducteur">Adam de Suel</persName>, traduction française des
                     <title>Distiques</title> de <persName type="ancien">Caton</persName> [titre : <title type="ancien">Chaton en françoys</title> f. 125c] f. 125c-128d ; traduction VI de la
                     <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Boesce de consolacion</title> (rubr.) f. 201a ; <title type="ancien">Cy finent les livres de Boesce <lb/>que j’ay escript a grant angoesce</title> (rubr.) f. 221b] sans prologue (début-V, m. 2) f. 201a-217b (inc.
                     <seg type="incipit">Je qui sueil diter et escrire <lb/>Les livres de haute matire <lb/>Et d’estuide avoie la flour <lb/>Fais or diz de duel et de plour</seg>... ; expl. ...
@@ -4233,7 +4233,7 @@
                     <p>223 f. parchemin (le ms comptait à l’origine 252 f. ; 11 des f. perdus se trouvent dans le ms Paris, Bibl. nat. de Fr., nouv. acq. fr. 20001, f. 5-15 ; 2 f. situés entre les f. 201 et 202 appartiennent à la traduction de Boèce)</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié par <persName type="copiste">Mathias du Rivau</persName>, originaire du Poitou (fr. 20001, f. 12).</p>
+                    <p>Copié par <persName role="copiste">Mathias du Rivau</persName>, originaire du Poitou (fr. 20001, f. 12).</p>
                   </handDesc>
                   <decoDesc>
                     <p>Illustration : 1 miniature découpée en tête de la traduction des Distiques, f. 125c ; 1 autre conservée d’1/4 de la justification (f. 125d).</p>
@@ -4241,7 +4241,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1350" notAfter="1365">ca 1355-ca 1362 (cf. colophon f. 221b) (proche du ms Paris, bibl. Sainte-Geneviève 777, f. 11v [1364-1373], <title>Mss datés</title>, t. I, pl. 51)</origin>
-                  <provenance>Possesseur : <persName type="possesseur" key="Louis de Luxembourg, comte de Saint-Pol">Louis de Luxembourg</persName>, comte de Saint-Pol, exécuté en 1475 (signature effacée f. 221) ; <persName type="possesseur" key="Regnault, Jean">Jehan Regnault</persName> (ex libris contreplat sup. XVI<hi rend="sup">e</hi> s. : avocat au Parlement de Bourgogne, identif. incertaine proposée par Y. Zaluska, marié en 1597).</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Louis de Luxembourg, comte de Saint-Pol">Louis de Luxembourg</persName>, comte de Saint-Pol, exécuté en 1475 (signature effacée f. 221) ; <persName role="possesseur" key="Regnault, Jean">Jehan Regnault</persName> (ex libris contreplat sup. XVI<hi rend="sup">e</hi> s. : avocat au Parlement de Bourgogne, identif. incertaine proposée par Y. Zaluska, marié en 1597).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -4274,7 +4274,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1301" notAfter="1400">Italie ; XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5694, f. 130 [1334], <title>Mss datés</title>, t. II, pl. 48)</origin>
-                  <provenance>Possesseur : correspond peut-être au ms français de Boèce signalé dans les inventaires de la <orgName type="possesseur" key="Este, bibliothèque d’">bibl. d’Este</orgName> en 1437 (n°40) et 1467 (n°42) (cf. 1).</provenance>
+                  <provenance>Possesseur : correspond peut-être au ms français de Boèce signalé dans les inventaires de la <orgName role="possesseur" key="Este, bibliothèque d’">bibl. d’Este</orgName> en 1437 (n°40) et 1467 (n°42) (cf. 1).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4302,7 +4302,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133)</origin>
-                  <provenance>Possesseur : <quote>« <persName type="possesseur" key="Emellianus Gadend">Emellianus Gadend</persName> »</quote> (f. 1, ex libris f. 84v, mentions du XV<hi rend="sup">e</hi> s.).</provenance>
+                  <provenance>Possesseur : <quote>« <persName role="possesseur" key="Emellianus Gadend">Emellianus Gadend</persName> »</quote> (f. 1, ex libris f. 84v, mentions du XV<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4414,7 +4414,7 @@
                   <msName type="sigle" resp="édition_Cropp">Q</msName>
                 </msIdentifier>
                 <msContents>
-                  <p><title>Le livre du gouvernement des roys et des princes</title>, traduction du <title>De eruditione principum</title> f. 1a-156c ; traduction du <title>Liber de moribus hominum et officiis nobilium ac popularium sive super ludum scacchorum</title> de <persName type="ancien">Jacques de Cessoles</persName> par <persName type="traducteur">Jean de Vignay</persName> f. 157a-220a ; traduction VI de la
+                  <p><title>Le livre du gouvernement des roys et des princes</title>, traduction du <title>De eruditione principum</title> f. 1a-156c ; traduction du <title>Liber de moribus hominum et officiis nobilium ac popularium sive super ludum scacchorum</title> de <persName type="ancien">Jacques de Cessoles</persName> par <persName role="traducteur">Jean de Vignay</persName> f. 157a-220a ; traduction VI de la
                     <title>Consolatio Philosophiae</title> de Boèce : prologue
                     <persName type="ancien">Jean de Meun</persName> f. 221-223, prologue latin f. 223-223v, traduction f. 223v-270v ; Poème des
                     <title>Douze mois figurez</title> f. 271-273.</p>
@@ -4424,7 +4424,7 @@
                     <p>273 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">Henri de Trévou</persName> (f. 270v) [Bouveret 6535-6539, actif dans les années 1372-1379]</p>
+                    <p>Copiste : <persName role="copiste">Henri de Trévou</persName> (f. 270v) [Bouveret 6535-6539, actif dans les années 1372-1379]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 2 miniatures des deux tiers de la justification (f. 1 [4 compartiments quadrilobés], f. 157), 1 miniature d’un tiers de la justification sur une colonne f. 147b, 1 lettre historiée d’un tiers de la justification</p>
@@ -4432,7 +4432,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1365" notAfter="1400">dernier tiers du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2071, f. 105 [1382], t. I, pl. 58) vers 1370 (éd. Cropp, p. 43)</origin>
-                  <provenance>possesseur : pourrait avoir appartenu à la bibliothèque de <persName type="possesseur" key="Charles V">Charles V</persName>.</provenance>
+                  <provenance>possesseur : pourrait avoir appartenu à la bibliothèque de <persName role="possesseur" key="Charles V">Charles V</persName>.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -4461,7 +4461,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1350" notAfter="1400">2<hi rend="sup">e</hi> moitié du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 3184, f. 126 [1396], <title>Mss datés</title>, t. II, pl. 71)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Jean d’Angoulême">Jean d'Angoulême</persName> (inventaire d'après l'éd. G. Ouy :<title>Boece, en françois et parchemin, commançant ou second fueillet <quote>« Regnabit rex »</quote> et ou second feuillet <quote>« experience »</quote> et finissant ou final <quote>« en sa voye ne il »</quote></title> C63).</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Jean d’Angoulême">Jean d'Angoulême</persName> (inventaire d'après l'éd. G. Ouy :<title>Boece, en françois et parchemin, commançant ou second fueillet <quote>« Regnabit rex »</quote> et ou second feuillet <quote>« experience »</quote> et finissant ou final <quote>« en sa voye ne il »</quote></title> C63).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -4556,7 +4556,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, p. 93)</origin>
-                  <provenance>possesseur : chapitre de la <orgName type="possesseur" key="Reims, chapitre cathédral">cathédrale de Reims</orgName> (f. 1, ex libris époque moderne).</provenance>
+                  <provenance>possesseur : chapitre de la <orgName role="possesseur" key="Reims, chapitre cathédral">cathédrale de Reims</orgName> (f. 1, ex libris époque moderne).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4585,7 +4585,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
-                  <provenance>Possesseur : <persName type="possesseur" key="Alexandre, abbé">abbé Alexandre</persName> (ex dono du XV<hi rend="sup">e</hi> s. f. 83v).</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Alexandre, abbé">abbé Alexandre</persName> (ex dono du XV<hi rend="sup">e</hi> s. f. 83v).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -4645,7 +4645,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2886, f. 305v [1472], <title>Mss datés</title> I, pl. 131)</origin>
-                  <provenance>Possesseur : <persName type="possesseur" key="Nicot, Jean">Jean Nicot</persName> († 1600) (ex libris et devise f. 1).</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Nicot, Jean">Jean Nicot</persName> († 1600) (ex libris et devise f. 1).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -4676,7 +4676,7 @@
                     <p>101 f. papier</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <quote>«  Frater Octo Lamelin sacri ordinis Hospitalis Sancti Johannis Jerusalem preceptor Castilionis  »</quote> [Bouveret 14768], peut-être <persName type="copiste">Otte Lancelin</persName>, hospitalier, qui en 1469 était précepteur de Puisieux-sous-Laon</p>
+                    <p>Copiste : <quote>«  Frater Octo Lamelin sacri ordinis Hospitalis Sancti Johannis Jerusalem preceptor Castilionis  »</quote> [Bouveret 14768], peut-être <persName role="copiste">Otte Lancelin</persName>, hospitalier, qui en 1469 était précepteur de Puisieux-sous-Laon</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -4732,12 +4732,12 @@
                     <p>11 (non foliotés) + 134 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copie attribuée par certains à <persName type="copiste">David Aubert</persName> (4)</p>
+                    <p>Copie attribuée par certains à <persName role="copiste">David Aubert</persName> (4)</p>
                   </handDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1455" notAfter="1475">ca 1460-1470</origin>
-                  <provenance>possesseur : armes de <persName type="possesseur" key="Charles-Alexandre de Croÿ">Charles-Alexandre de Croÿ</persName>, comte de Fontenoy et duc de Croÿ (1573-1624).</provenance>
+                  <provenance>possesseur : armes de <persName role="possesseur" key="Charles-Alexandre de Croÿ">Charles-Alexandre de Croÿ</persName>, comte de Fontenoy et duc de Croÿ (1573-1624).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -4772,7 +4772,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (ca 1425-1430 (2)) (proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
-                  <provenance>possesseur : <persName type="possesseur" key="Sebastienne de Cambrai">Sebastienne de Cambrai</persName>, d’après les vers suivants  : <quote>« Sebastienne de Cambray <lb/>Remors de mort retarde Joye <lb/>Cueur en vertus dite fortune <lb/>Encore »</quote> (f. 1).</provenance>
+                  <provenance>possesseur : <persName role="possesseur" key="Sebastienne de Cambrai">Sebastienne de Cambrai</persName>, d’après les vers suivants  : <quote>« Sebastienne de Cambray <lb/>Remors de mort retarde Joye <lb/>Cueur en vertus dite fortune <lb/>Encore »</quote> (f. 1).</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -4854,8 +4854,8 @@
                     <p>93 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié à Bruges par <persName type="copiste">Jean Donna</persName> et révisé par <persName type="copiste">Jean de Rodes</persName> (f. 91) pour <quote>«  Martin Francisco »</quote>, Portugais (<foreign>ibid.</foreign>) ;
-                      <persName type="possesseur" key="Ferando dela Curuña">Ferando dela Curuña</persName> (f. 91)</p>
+                    <p>Copié à Bruges par <persName role="copiste">Jean Donna</persName> et révisé par <persName role="copiste">Jean de Rodes</persName> (f. 91) pour <quote>«  Martin Francisco »</quote>, Portugais (<foreign>ibid.</foreign>) ;
+                      <persName role="possesseur" key="Ferando dela Curuña">Ferando dela Curuña</persName> (f. 91)</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 14 initiales historiées</p>
@@ -4863,7 +4863,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1435" notAfter="1435">Bruges, 1435 (1)</origin>
-                  <provenance>possesseurs : <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (inventaire de 1467-1469, n°1536).</provenance>
+                  <provenance>possesseurs : <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (inventaire de 1467-1469, n°1536).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4890,13 +4890,13 @@
                   </objectDesc>
                   <handDesc>
                     <p>Copié par <quote>« 
-                      <persName type="copiste">P. Guienne</persName>
+                      <persName role="copiste">P. Guienne</persName>
                        »</quote> (colophon f. 106)</p>
                   </handDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1425" notAfter="1475">2<hi rend="sup">e</hi> ou 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6708, f. 105v [vers 1425], <title>Mss datés</title>, t. II, pl. 89)</origin>
-                  <provenance>possesseur : dédicacé de la main du copiste à <persName type="possesseur" key="Jeanne de Beaucourt">Jeanne de Beaucourt</persName> : <quote>« Boece de Consolation texte et glose. Pour noble damoiselle Jehanne de Beaucours, dame de Montmartin et du Brossay »</quote> (verso du f. de garde préliminaire).</provenance>
+                  <provenance>possesseur : dédicacé de la main du copiste à <persName role="possesseur" key="Jeanne de Beaucourt">Jeanne de Beaucourt</persName> : <quote>« Boece de Consolation texte et glose. Pour noble damoiselle Jehanne de Beaucours, dame de Montmartin et du Brossay »</quote> (verso du f. de garde préliminaire).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -4946,15 +4946,15 @@
                     <p>148 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié à Gand par <persName type="copiste">David Aubert</persName> pour Marguerite de Bourgogne (colophon, f. 148v)</p>
+                    <p>Copié à Gand par <persName role="copiste">David Aubert</persName> pour Marguerite de Bourgogne (colophon, f. 148v)</p>
                   </handDesc>
                   <decoDesc>
-                    <p>illustration : miniature pleine page en grisaille attribuée au <persName type="illustrateur">maître de Marie de Bourgogne</persName> (f. 13v)</p>
+                    <p>illustration : miniature pleine page en grisaille attribuée au <persName role="illustrateur">maître de Marie de Bourgogne</persName> (f. 13v)</p>
                   </decoDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1476" notAfter="1476">1476 (f. 148v)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="Marguerite de Bourgogne">Marguerite de Bourgogne</persName> ; <persName type="possesseur" key="Nassau-Vianden, comte de">comte de Nassau-Vianden</persName> (armes f. 1v) ; prince électeur <persName type="possesseur" key="Frédéric le Magnanime, prince électeur">Frédéric le Magnanime</persName> qui donna la collection en 1538 à la <orgName type="possesseur" key="Wittenberger kurfürstliche Bibliothek">Wittenberger kurfürstliche Bibliothek</orgName>, d’où elle passa à l’<orgName type="possesseur" key="Iéna, université">université d’Iéna</orgName> à sa fondation en 1558.</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Marguerite de Bourgogne">Marguerite de Bourgogne</persName> ; <persName role="possesseur" key="Nassau-Vianden, comte de">comte de Nassau-Vianden</persName> (armes f. 1v) ; prince électeur <persName role="possesseur" key="Frédéric le Magnanime, prince électeur">Frédéric le Magnanime</persName> qui donna la collection en 1538 à la <orgName role="possesseur" key="Wittenberger kurfürstliche Bibliothek">Wittenberger kurfürstliche Bibliothek</orgName>, d’où elle passa à l’<orgName role="possesseur" key="Iéna, université">université d’Iéna</orgName> à sa fondation en 1558.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -5119,7 +5119,7 @@
                     <p>90 + 79 + 110 + 97 + 81 f. parchemin en 5 volumes qui à l’origine n’en formaient sans doute qu’un seul, comme le suggèrent la foliotiation continue ancienne et la coupure imparfaite des livres d’un volume à l’autre</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié à Bourges par <persName type="copiste">André Rousseau</persName> (signature 4339, f. 80v)</p>
+                    <p>Copié à Bourges par <persName role="copiste">André Rousseau</persName> (signature 4339, f. 80v)</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : par Jean Colombe ou par son atelier ; 7 miniatures : ms 4335 f. 1 (pleine page sauf 8 lignes), 10 (pleine page sauf 4 lignes), 27 (pleine page sauf 3 lignes) ; ms 4336 f. 1v (pleine page sauf 6 lignes) ; ms 4337 f. 2 (pleine page sauf 5 lignes) ; ms 4338 f. 1v (pleine page sauf 7 lignes) ; ms 4339 f. 2 (pleine page sauf 7 lignes)</p>
@@ -5127,7 +5127,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1476" notAfter="1476">1476 (<quote>« Explicit Boecius de consolacione<lb/>Prima mensis februarii<lb/>Anno Domini millesimo<lb/>quadringentesimo septuagesimo sexto »</quote> f. 80v ; cf. A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 791)</origin>
-                  <provenance>possesseur : <quote>«  A <persName type="possesseur" key="Hinselin, Gabriel">Gabriel Hinselin</persName> 1616 »</quote> (f. de garde de chaque volume) ; armes dessinées (peintes dans les mss 4335 et 4339) à l’époque moderne sur un f. de garde de fin de chaque volume (non identifiées).</provenance>
+                  <provenance>possesseur : <quote>«  A <persName role="possesseur" key="Hinselin, Gabriel">Gabriel Hinselin</persName> 1616 »</quote> (f. de garde de chaque volume) ; armes dessinées (peintes dans les mss 4335 et 4339) à l’époque moderne sur un f. de garde de fin de chaque volume (non identifiées).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -5156,7 +5156,7 @@
                     <p>2 f. parchemin</p>
                   </objectDesc>
                   <decoDesc>
-                    <p>Illustration : 2 miniatures presque à pleine page, attribuées au <persName type="illustrateur">maître de Coëtivy</persName></p>
+                    <p>Illustration : 2 miniatures presque à pleine page, attribuées au <persName role="illustrateur">maître de Coëtivy</persName></p>
                   </decoDesc>
                 </physDesc>
                 <history>
@@ -5210,12 +5210,12 @@
                     <p>103 f. parchemin</p>
                   </objectDesc>
                   <decoDesc>
-                    <p>Illustration : 6 miniatures de la moitié de la justification dont une (f. 21) refaite au XVII<hi rend="sup">e</hi> ou XVIII<hi rend="sup">e</hi> s. pour remplacer un feuillet perdu (f. 1, 4, 21, 39, 66, 87), réalisée dans la vallée de la Loire ou à Bourges, ca 1465, par le <persName type="illustrateur">maître de Coëtivy</persName></p>
+                    <p>Illustration : 6 miniatures de la moitié de la justification dont une (f. 21) refaite au XVII<hi rend="sup">e</hi> ou XVIII<hi rend="sup">e</hi> s. pour remplacer un feuillet perdu (f. 1, 4, 21, 39, 66, 87), réalisée dans la vallée de la Loire ou à Bourges, ca 1465, par le <persName role="illustrateur">maître de Coëtivy</persName></p>
                   </decoDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                  <provenance>possesseur : exécuté pour la <persName type="possesseur" key="Bissari de Vicenza, famille">famille Bissari de Vicenza</persName> (armes f. 1, 4, 39, 66, 87)</provenance>
+                  <provenance>possesseur : exécuté pour la <persName role="possesseur" key="Bissari de Vicenza, famille">famille Bissari de Vicenza</persName> (armes f. 1, 4, 39, 66, 87)</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -5245,7 +5245,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1445" notAfter="1455">ca 1450 (proche du ms Paris, Bibl. nat. de Fr., lat. 5422, f. 1 [1462], <title>Mss datés</title>, t. II, pl. 133)</origin>
-                  <provenance>possesseurs : copié pour les <persName type="possesseur" key="Rohan-Visconti, famille">Rohan-Visconti</persName> (armes dans les initiales) ; <persName type="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles Ier de Bourbon, archevêque de Rouen</persName> († 1590).</provenance>
+                  <provenance>possesseurs : copié pour les <persName role="possesseur" key="Rohan-Visconti, famille">Rohan-Visconti</persName> (armes dans les initiales) ; <persName role="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles Ier de Bourbon, archevêque de Rouen</persName> († 1590).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -5305,7 +5305,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                  <provenance>possesseur : armes de <persName type="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> († 1477) et de <persName type="possesseur" key="Jeanne Raguenel de Malestroit">Jeanne Raguenel de Malestroit</persName>, son épouse, au début de chaque livre.</provenance>
+                  <provenance>possesseur : armes de <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> († 1477) et de <persName role="possesseur" key="Jeanne Raguenel de Malestroit">Jeanne Raguenel de Malestroit</persName>, son épouse, au début de chaque livre.</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -5354,7 +5354,7 @@
                     <p>99 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copiste : <persName type="copiste">J. André</persName> (signature f. 99v) [Bouveret 7404]</p>
+                    <p>Copiste : <persName role="copiste">J. André</persName> (signature f. 99v) [Bouveret 7404]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : réserves d’un tiers de la justification aux f. 20 et 80v ; nombreuses marques de lecture</p>
@@ -5388,7 +5388,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                  <provenance>Possesseurs : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName>, seigneur de Gruthuyse († 1492) (armes f. 1 recouvertes par celles de Louis XII) ; <persName type="possesseur" key="Louis XII">Louis XII</persName>.</provenance>
+                  <provenance>Possesseurs : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName>, seigneur de Gruthuyse († 1492) (armes f. 1 recouvertes par celles de Louis XII) ; <persName role="possesseur" key="Louis XII">Louis XII</persName>.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -5418,7 +5418,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3880, f. 153 [1431], <title>Mss datés</title>, t. I, pl. 91)</origin>
-                  <provenance>possesseur : <quote>« <persName type="possesseur" key="Mongison, de">De Mongison</persName> 1560  »</quote> (plat intérieur).</provenance>
+                  <provenance>possesseur : <quote>« <persName role="possesseur" key="Mongison, de">De Mongison</persName> 1560  »</quote> (plat intérieur).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -5445,7 +5445,7 @@
                     <p>184 f. papier (filigrane sim. Briquet, att. 1452, sim. 1460)</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié en 1459 à Grenoble par <persName type="copiste">George de Sulliaco</persName> [Bouveret 5025] pour <persName type="dedicataire">Jean Jopitre, secretaire du roi et du dauphin</persName> (colophon f. 176) ; donné avec 11 autres livres à une église dont le nom n’est pas précisé par Jean Jopitre (f. 180v) ; mention <quote>« Herve Delespine »</quote> (f. de garde début recto).</p>
+                    <p>Copié en 1459 à Grenoble par <persName role="copiste">George de Sulliaco</persName> [Bouveret 5025] pour <persName role="dedicataire">Jean Jopitre, secretaire du roi et du dauphin</persName> (colophon f. 176) ; donné avec 11 autres livres à une église dont le nom n’est pas précisé par Jean Jopitre (f. 180v) ; mention <quote>« Herve Delespine »</quote> (f. de garde début recto).</p>
                   </handDesc>
                 </physDesc>
                 <history>
@@ -5478,7 +5478,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève, 545, f. 303 [1454], <title>Mss datés</title>, t. I, pl. 110)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="La Fay, de">De la Fay</persName> (mention XV<hi rend="sup">e</hi> s., f. de garde début).</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="La Fay, de">De la Fay</persName> (mention XV<hi rend="sup">e</hi> s., f. de garde début).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -5536,7 +5536,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1442">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (avant 1442) (proche du ms Paris, bibl. Mazarine, 934, f. 154v [1396-1420], <title>Mss datés</title>, t. I, pl. 70)</origin>
-                  <provenance>Possesseur : <persName type="possesseur" key="Pierre de Nesson">Pierre de Nesson</persName> (signature, f. 82v) († 1442) ; <persName type="possesseur" key="Jean Maillac">Jean Maillac</persName> (f. de garde parchemin début ; mention du XV<hi rend="sup">e</hi> s.).</provenance>
+                  <provenance>Possesseur : <persName role="possesseur" key="Pierre de Nesson">Pierre de Nesson</persName> (signature, f. 82v) († 1442) ; <persName role="possesseur" key="Jean Maillac">Jean Maillac</persName> (f. de garde parchemin début ; mention du XV<hi rend="sup">e</hi> s.).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -5563,7 +5563,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 1651 [vers 1396-1405], <title>Mss datés</title>, t. I, pl. 68)</origin>
-                  <provenance>Possesseur : peut-être <persName type="possesseur" key="Jean Noblet">Jean Noblet</persName> (mention de ce nom par une main du XV<hi rend="sup">e</hi> s., f. 27, 35).</provenance>
+                  <provenance>Possesseur : peut-être <persName role="possesseur" key="Jean Noblet">Jean Noblet</persName> (mention de ce nom par une main du XV<hi rend="sup">e</hi> s., f. 27, 35).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -5621,7 +5621,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 1100, f. 1 [1418], <title>Mss datés</title>, t. I, pl. 84)</origin>
-                  <provenance>Possesseur : <quote>« Pardonné, si vous plais, car ne m’en scet que sela – en rendant grase a Dieu cui disent Ava Maria. <persName type="possesseur" key="Jean Rougemont">Jehan Rougemont</persName> »</quote> (f. 86v).</provenance>
+                  <provenance>Possesseur : <quote>« Pardonné, si vous plais, car ne m’en scet que sela – en rendant grase a Dieu cui disent Ava Maria. <persName role="possesseur" key="Jean Rougemont">Jehan Rougemont</persName> »</quote> (f. 86v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -5680,7 +5680,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1425" notAfter="1475">2<hi rend="sup">e</hi> ou 3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (f. 48 proche du ms Paris, bibl. Mazarine, 3880, f. 153 [1431], <title>Mss datés</title>, t. I, pl. 91 ; f. 80 proche du ms Paris, Bibl. nat. de Fr., lat. 6708, f. 105v [vers 1425], <title>Mss datés</title>, t. II, pl. 89)</origin>
-                  <provenance>Possesseur ou copiste : <quote>« frater <persName type="possesseur" key="Balduinus Gandesjoy" subtype="copiste">Balduinus Gandesjoy</persName> »</quote> (colophon f. 113v) [absent de Bouveret] et devises <quote>« povre et loyal »</quote> (2 fois), <quote>« De mel de pray  »</quote> (f. 113v).</provenance>
+                  <provenance>Possesseur ou copiste : <quote>« frater <persName role="possesseur" key="Balduinus Gandesjoy" type="copiste">Balduinus Gandesjoy</persName> »</quote> (colophon f. 113v) [absent de Bouveret] et devises <quote>« povre et loyal »</quote> (2 fois), <quote>« De mel de pray  »</quote> (f. 113v).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -5736,12 +5736,12 @@
                     <p>366 f. parchemin</p>
                   </objectDesc>
                   <decoDesc>
-                    <p>Illustration : <orgName type="illustrateur">atelier des Colombe</orgName>, 7 miniatures à pleine page (f. 1, 9, 24, 76, 140, 227, 303)</p>
+                    <p>Illustration : <orgName role="illustrateur">atelier des Colombe</orgName>, 7 miniatures à pleine page (f. 1, 9, 24, 76, 140, 227, 303)</p>
                   </decoDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1497" notAfter="1497">1497 (<quote>« Explicit Boecius de Consolatione die decima quinta mensis marcii, anno Domini millesimo quadringentesimo nonagesimo septimo »</quote> (rubr.) f. 366)</origin>
-                  <provenance>possesseur : ms exécuté pour les <persName type="possesseur" key="Lallemant, famille">Lallemant</persName>, de Bourges, et peut-être plus précisément pour <persName type="possesseur" key="Jean Lallemant, receveur général en Normandie">Jean Lallemant, receveur général en Normandie</persName> (devise f. 1 et 24).</provenance>
+                  <provenance>possesseur : ms exécuté pour les <persName role="possesseur" key="Lallemant, famille">Lallemant</persName>, de Bourges, et peut-être plus précisément pour <persName role="possesseur" key="Jean Lallemant, receveur général en Normandie">Jean Lallemant, receveur général en Normandie</persName> (devise f. 1 et 24).</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -5790,7 +5790,7 @@
                   </physDesc>
                   <history>
                     <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                    <provenance>Commanditaire : <quote>« Guerard »</quote> à l’encre rouge aux f. 116v et 79 (<quote>« explicit Guerard l’exil de mestre Alain Chartier <foreign>(rubr.)</foreign> »</quote> II. f. 79). Au f. 79 de II., signature de <persName type="possesseur" key="Marie de Luxembourg">Marie de Luxembourg</persName>, peut-être <persName type="possesseur" key="Marie de Savoie, belle-soeur de Louis XI">Marie de Savoie</persName>, belle-soeur de Louis XI ou sa fille, épouse de François de Bourbon, comte de Vendôme.</provenance>
+                    <provenance>Commanditaire : <quote>« Guerard »</quote> à l’encre rouge aux f. 116v et 79 (<quote>« explicit Guerard l’exil de mestre Alain Chartier <foreign>(rubr.)</foreign> »</quote> II. f. 79). Au f. 79 de II., signature de <persName role="possesseur" key="Marie de Luxembourg">Marie de Luxembourg</persName>, peut-être <persName role="possesseur" key="Marie de Savoie, belle-soeur de Louis XI">Marie de Savoie</persName>, belle-soeur de Louis XI ou sa fille, épouse de François de Bourbon, comte de Vendôme.</provenance>
                   </history>
                 </msPart>
               </msDesc>
@@ -5838,7 +5838,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                  <provenance>possesseurs : <quote>« Ce livre est a <persName type="possesseur" key="Bertrand de Bouthion">Bertran de Bouthion</persName>, escuier trenchant de madame de Bourbon »</quote> (f. 1, 94v) ; <quote>« Cest livre est de frere <persName type="possesseur" key="Rolet de Moncat">Rolet de Moncat</persName>, de l’ordre des freres menours et du couvent de Mascon »</quote> (f. 94v) ; <quote>« Ex manuscriptis <orgName type="possesseur" key="Rouen, Minimes">Bibliothecae Conventus Roannensis PP Minimorum</orgName> »</quote> (f. 94v) ; au recto du f. de garde parchemin : <quote>« Ce livre est a noble homme <persName type="possesseur" key="Philibert de Bothion">Philibert de Bothion</persName> »</quote>.</provenance>
+                  <provenance>possesseurs : <quote>« Ce livre est a <persName role="possesseur" key="Bertrand de Bouthion">Bertran de Bouthion</persName>, escuier trenchant de madame de Bourbon »</quote> (f. 1, 94v) ; <quote>« Cest livre est de frere <persName role="possesseur" key="Rolet de Moncat">Rolet de Moncat</persName>, de l’ordre des freres menours et du couvent de Mascon »</quote> (f. 94v) ; <quote>« Ex manuscriptis <orgName role="possesseur" key="Rouen, Minimes">Bibliothecae Conventus Roannensis PP Minimorum</orgName> »</quote> (f. 94v) ; au recto du f. de garde parchemin : <quote>« Ce livre est a noble homme <persName role="possesseur" key="Philibert de Bothion">Philibert de Bothion</persName> »</quote>.</provenance>
                 </history>
                 <additional>
                   <listBibl>
@@ -5851,10 +5851,10 @@
                   <settlement>Rouen</settlement>
                   <repository>bibl. mun.</repository>
                   <idno>Leber 817</idno>
+                  <msName type="sigle" resp="Cropp">E21</msName>
                   <altIdentifier>
                     <idno>3045</idno>
                   </altIdentifier>
-                  <msName type="sigle" resp="Cropp">E21</msName>
                 </msIdentifier>
                 <msContents>
                   <p>traduction VI glosée de la <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy commance le prologue ou proheme du livre de Boece de consolacion lequel maistre Jehan de Meun translata de latin en françois sicomme il se contient sy aprés en avant</title> (rubr.) f. 1] prologue de <persName type="ancien">Jean de Meun</persName> f. 1-3 (incomplet, manquent ca 5 p. ; expl. ...<seg type="explicit">et tous autres aussi qui mestier en auroyent</seg>...) ; textes latin (colonnes a et c) et français glosé (colonnes b et d) f. 3v-116v.</p>
@@ -5864,12 +5864,12 @@
                     <p>119 f. parchemin</p>
                   </objectDesc>
                   <decoDesc>
-                    <p>Illustration : attribuée à <persName type="illustrateur">Guillaume Hugueniot</persName> (1) ; 6 miniatures, 4 de la moitié de la justification (f. 1, 22v, 40v, 94v) et 2 d’un tiers (f. 3v, 68v)</p>
+                    <p>Illustration : attribuée à <persName role="illustrateur">Guillaume Hugueniot</persName> (1) ; 6 miniatures, 4 de la moitié de la justification (f. 1, 22v, 40v, 94v) et 2 d’un tiers (f. 3v, 68v)</p>
                   </decoDesc>
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1480">XV<hi rend="sup">e</hi> s. avant 1480  ? (proche du ms Paris, bibl. de l’Arsenal, 5196, f. 109 [1444-1474], <title>Mss datés</title>, t. I, pl. 99), XIVe s. d’après (3)</origin>
-                  <provenance>possesseurs : <persName type="possesseur" key="Charles V d’Anjou">Charles V d’Anjou</persName> († 1481, destinataire ?), comte du Maine, neveu et héritier du roi René, et sa femme <persName type="possesseur" key="Jeanne de Lorraine">Jeanne de Lorraine</persName> († 1480, destinataire ?), fille de Yolande d’Anjou et de Ferry II de Lorraine-Vaudémont (armes d’Anjou-Lorraine f. 1 postérieures au mariage de Charles et de Jeanne en 1473, monogramme KL dans la bordure f. 1, 3v) ; <persName type="possesseur" key="René II de Lorraine">René II de Lorraine</persName>.</provenance>
+                  <provenance>possesseurs : <persName role="possesseur" key="Charles V d’Anjou">Charles V d’Anjou</persName> († 1481, destinataire ?), comte du Maine, neveu et héritier du roi René, et sa femme <persName role="possesseur" key="Jeanne de Lorraine">Jeanne de Lorraine</persName> († 1480, destinataire ?), fille de Yolande d’Anjou et de Ferry II de Lorraine-Vaudémont (armes d’Anjou-Lorraine f. 1 postérieures au mariage de Charles et de Jeanne en 1473, monogramme KL dans la bordure f. 1, 3v) ; <persName role="possesseur" key="René II de Lorraine">René II de Lorraine</persName>.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -5950,7 +5950,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 2204, f. 82v [1474], <title>Mss datés</title>, t. I, pl. 133)</origin>
-                  <provenance>Possesseur : figurent dans deux inventaires de la <persName type="possesseur" key="Savoie, famille">bibliothèque de la Maison de Savoie</persName>, datés de 1479 et de 1498.</provenance>
+                  <provenance>Possesseur : figurent dans deux inventaires de la <persName role="possesseur" key="Savoie, famille">bibliothèque de la Maison de Savoie</persName>, datés de 1479 et de 1498.</provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -6094,7 +6094,7 @@
               <head>Imprimés</head>
               <listBibl type="poList">
                 <bibl xml:id="imprime2_de_consolatione_philosophiae"><title type="ancien">Cy commance Boece de Consolation en françois, jouxte et au plus pres du latin pour consoler les entendemens de ceulx qui prennent soulas et plaisir au latin et au roman qui fut translaté par maistre Jehan de Meun a la requeste de tresexcellent crestien jadis roy de France, Philippe le quart</title>, [Lyon, <publisher>Guillaume Le Roy</publisher>, <date notBefore="1480" notAfter="1485">ca 1482-1483</date>], 2°, ill., 70 f. Traduction VI glosée de la <title>Consolatio Philosophiae</title> de Boèce : prologue de Jean de Meun f. a2-a4v ; traduction f. a4v-h8 (f. a4v inc. <seg type="incipit">Je souloie ditter et escripre <lb/>les livres de haulte matiere <lb/>Et d’estude avoie la fleur</seg>... ; f. h8 expl. ...<seg type="explicit">vie ou mort quant vous ouvres devant les yeulx de celluy qui tout voit</seg>) ; analyse au début de chaque mètre et de chaque prose. Analyse du mètre I du livre I : « Boece en ce premier metre fait quatre choses. Premierement se complaint de son estat plain de misere pour la muance de son estude. Secondement pour la foiblesse de son corps. Tiercement pour la duree de la vie douloreuse. Quartement fait une exclamation contre ses amys lesquelz aultresfois pour beneuré l’avoient reputé. » (f. a4v)
-                  <note place="inline"> Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. R. 87 (possesseur : <persName type="possesseur" key="Guillaume de Moulins">Guillaume de Moulins</persName>, élu pour les aides à Orléans, XV<hi rend="sup">e</hi> s. : <quote>« Des livres appartenants à Guillaume de Moulins esleu pour le roy nostre sire a Orleans. Qui le trouvera si lui rende et il paiera voulentiers le vin. <foreign>[signé]</foreign> Guillaume de Moulins »</quote> f. h8)
+                  <note place="inline"> Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. R. 87 (possesseur : <persName role="possesseur" key="Guillaume de Moulins">Guillaume de Moulins</persName>, élu pour les aides à Orléans, XV<hi rend="sup">e</hi> s. : <quote>« Des livres appartenants à Guillaume de Moulins esleu pour le roy nostre sire a Orleans. Qui le trouvera si lui rende et il paiera voulentiers le vin. <foreign>[signé]</foreign> Guillaume de Moulins »</quote> f. h8)
                     <listBibl>
                       <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, t. II, Paris, 1905, n°2546</bibl>
                       <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. IV, n°4577</bibl>
@@ -6190,7 +6190,7 @@
                 </note>
               </bibl>
               <bibl xml:id="imprime5_de_consolatione_philosophiae"><title>Le grant Boece de consolacion nouvellement imprimé a Paris</title>, Paris, <publisher>Antoine Vérard</publisher>, <date notBefore="1494" notAfter="1494">1494</date>, 2°, ill., 156 f. Suit l’édition de 1477. Prologue d’Antoine Vérard (édité dans M. B. Winn, p. 314-315 ; f. A2-A2v) inc. <seg type="incipit">Au roy treschristien <lb/>Charles VIII de ce nom <lb/>Aprés que en mon mediocre entendement ay speculé et gousté le dict et auctorité de Vegece</seg>... ; épilogue d’Antoine Vérard (identique à l’éd. Mansion de 1477, f. 262v-263, à l’exception de quelques graphies) inc. f. t3 <seg type="incipit">translateur <lb/>Au nom de Dieu et par son ayde sans laquelle aucune chose n’est droittement commencee ne glorieusement demenee a prouffitable fin</seg>... ; expl. ...<seg type="explicit">qu’ilz me pardonnent et l’amendent benignement sans me trop aigrement reprendre</seg>
-                <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Vélins 488 [= Macfarlane, 37 ; les 6 grandes gravures sur bois n’ont pas été tirées pour laisser place à des peintures ; provenance : <persName type="possesseur" key="Charles d’Orléans, comte d’Angoulême">Charles d’Orléans</persName>, comte d’Angoulême, <persName type="possesseur" key="François Ier">François Ier</persName>)
+                <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Vélins 488 [= Macfarlane, 37 ; les 6 grandes gravures sur bois n’ont pas été tirées pour laisser place à des peintures ; provenance : <persName role="possesseur" key="Charles d’Orléans, comte d’Angoulême">Charles d’Orléans</persName>, comte d’Angoulême, <persName role="possesseur" key="François Ier">François Ier</persName>)
                   <listBibl>
                     <bibl>J. Macfarlane, <title>Antoine Vérard</title>, Londres, 1900, n°37</bibl>
                     <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, 1897-1909, n°2550</bibl>
@@ -6209,14 +6209,14 @@
           <head>Témoins non identifiés</head>
           <list type="deperdita">
             <item xml:id="ms_gdelatour">
-              <p>Bibliothèque de <persName type="possesseur" key="Gabrielle de la Tour d’Auvergne, comtesse de Montpensier">Gabrielle de la Tour</persName> († 1474), ép. de Louis de Bourbon ; bibliothèque de <persName type="possesseur" key="Charles de Bourbon">Charles de Bourbon</persName> en 1527</p>
+              <p>Bibliothèque de <persName role="possesseur" key="Gabrielle de la Tour d’Auvergne, comtesse de Montpensier">Gabrielle de la Tour</persName> († 1474), ép. de Louis de Bourbon ; bibliothèque de <persName role="possesseur" key="Charles de Bourbon">Charles de Bourbon</persName> en 1527</p>
               <p>Boisse, <title>de Consolation, tout en ryme</title> [n° 177 de l’inventaire de 1527 : <title type="ancien">le prologue de Boysse, Royal consolacion, en rime, escript a la main, en papier, couvert de cuir tasné</title>]</p>
               <listBibl>
                 <bibl>A. de Boislisle, « Inventaire des bijoux, vêtements, manuscrits et objets précieux appartenant à la comtesse de Montpensier (1474) », dans <title>Annuaire-bulletin de la Société de l’histoire de France</title>, t. 17, 1880, p. 301</bibl>
               </listBibl>
             </item>
             <item xml:id="ms_jdangouleme">
-              <p>Bibliothèque de <persName type="possesseur" key="Jean d’Angoulême">Jean d’Angoulême</persName> († 1467)</p>
+              <p>Bibliothèque de <persName role="possesseur" key="Jean d’Angoulême">Jean d’Angoulême</persName> († 1467)</p>
               <p>
                 <title>Boece, De consolacion, en françois, rime et papier et lettre commune, commençant, ou tiers fueillet, <quote>« pour le pleurer »</quote> et finissant, ou penultime <quote>« vision presente »</quote>
                 </title>

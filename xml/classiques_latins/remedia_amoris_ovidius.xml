@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="remedia_amoris_ovidius" xml:lang="fr">
@@ -173,8 +173,8 @@
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Remedia amoris</title> d’<persName type="ancien">Ovide</persName> [titre : <title type="ancien">Chi s’enssieut Ovide du remede d’amours</title> (rubr.) f. 1] f. 1-40v ; f. 41 blanc ; <title>Art d’Amours</title> de <persName type="ancien">Jakes d’Amiens</persName> f. 42-75v  : le texte s’interrompt au vers 2192 (expl. <seg type="explicit">et il aura son delit <lb/>et sa volonté tant de fois <lb/>que bien aprevisié serois <lb/>or pense de bien retenir <lb/>par ce que je te voeil gehir</seg>) ; f. 76 blanc ;
-                  <title>Li puissanche d’amours, dialogue entre le maître et le disciple</title> f. 77-90 ; <persName type="ancien">Theodolet</persName>, traduction de l’<title>Ecloga Theoduli</title> par <persName type="traducteur">Jean Le Fèvre</persName> f. 90v-248 avec glose et traduction en vers français (inc. <seg type="incipit">Ch'est grand pourfit quant on recorde <lb/>aucuns biens et on s’i acorde</seg>...) ; 248v blanc ; traduction en vers français par <persName type="traducteur">Thomas Maillet</persName> des <title>Parabolae</title> d’<persName type="ancien">Alain de Lille</persName> f. 249-268 ; f. 268v blanc ; traduction en vers anonyme du premier <title>Facetus</title> par <persName type="traducteur">Thomas Maillet</persName> f. 269-277v (inc. <seg type="incipit">Mieulx vault assambler un tresor</seg>...  ; éd. Morawski, p. 60-81) ; traduction en vers du second
-                  <title>Facetus</title> par <persName type="traducteur">Thomas Maillet</persName> f. 278-291v (inc. <seg type="incipit">Chieulx qui volet faitis devenir</seg>... ; éd. Morawski, p. 81-112) ; f. 292-294 blancs</p>
+                  <title>Li puissanche d’amours, dialogue entre le maître et le disciple</title> f. 77-90 ; <persName type="ancien">Theodolet</persName>, traduction de l’<title>Ecloga Theoduli</title> par <persName role="traducteur">Jean Le Fèvre</persName> f. 90v-248 avec glose et traduction en vers français (inc. <seg type="incipit">Ch'est grand pourfit quant on recorde <lb/>aucuns biens et on s’i acorde</seg>...) ; 248v blanc ; traduction en vers français par <persName role="traducteur">Thomas Maillet</persName> des <title>Parabolae</title> d’<persName type="ancien">Alain de Lille</persName> f. 249-268 ; f. 268v blanc ; traduction en vers anonyme du premier <title>Facetus</title> par <persName role="traducteur">Thomas Maillet</persName> f. 269-277v (inc. <seg type="incipit">Mieulx vault assambler un tresor</seg>...  ; éd. Morawski, p. 60-81) ; traduction en vers du second
+                  <title>Facetus</title> par <persName role="traducteur">Thomas Maillet</persName> f. 278-291v (inc. <seg type="incipit">Chieulx qui volet faitis devenir</seg>... ; éd. Morawski, p. 81-112) ; f. 292-294 blancs</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -303,7 +303,7 @@
                 </objectDesc>
               </physDesc>
               <history>
-                <provenance>Possesseur : <persName type="possesseur" key="Contarini, Giacomo">Giacomo Contarini</persName> (XVI<hi rend="sup">e</hi> s.).</provenance>
+                <provenance>Possesseur : <persName role="possesseur" key="Contarini, Giacomo">Giacomo Contarini</persName> (XVI<hi rend="sup">e</hi> s.).</provenance>
               </history>
               <additional>
                 <listBibl>

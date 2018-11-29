@@ -2341,7 +2341,7 @@
                   </altIdentifier>
                 </msIdentifier>
                 <msContents>
-                  <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> 2 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 1-24.2) en partie accompagnée de gloses (titre ancien : <title type="ancien">Ci finist la<lb/> Vielle Digeste<lb/>De coi legistre<lb/>Font grant feste</title> f. 413d)</summary>
+                  <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> 2 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 1-24.2) en partie accompagnée de gloses (titre ancien : <title type="ancien">Ci finist la<lb/> Vielle Digeste<lb/>De coi legistre<lb/>Font grant feste</title> f. 413d)</summary>
                   <msItem xml:id="fr_197_digestumvetus">
                     <msItem xml:id="fr_197_digestumvetus_prologue">
                       <locus from="1a" to="3b"/>
@@ -3467,8 +3467,7 @@
                       <p><locus from="183d">Livre X (f. 183d)</locus> [initiale historiée de 10 UR], <q>la délimitation : dans un paysage évoqué par deux arbres, un homme s’apprête à tracer à l’aide d’une baguette la limite d’une propriété en présence de Justinien et d’un personnage accompagné de deux magistrats</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
                       <p><locus from="201d">Livre XI (f. 201d)</locus> initiale historiée de 10 UR, <q>les interrogatoires : trois magistrats devant Justinien</q> (<bibl>Avril-Gousset</bibl>).</p>
                       <p><locus from="213a">Livre XII (f. 213a)</locus> [miniature de 10 UR sur les deux tiers de la colonne (50 x 40 mm.)] : Justinien de trois quarts, siégeant, un sceptre à la main, au milieu de la composition, a devant lui un clerc. L’empereur tourne la tête vers l’arrière où se trouve un homme que lui présente deux autres, les mains posées sur son épaule. Fond d’or, pieds dépassant dans l’encadrement. Double encadrement : bordure extérieure or ; bordure intérieure : supérieure et inférieure vieux rose ; latérales bleues avec ligne verticale en pointillés or. [France (Paris ?), dernier quart du 13<hi rend="sup">e</hi> s. ; artiste proche de celui des mss Paris, Bibl. nat. de Fr., fr. 495 et fr. 1074].</p>
-                      <p><locus from="233b">Livre XIII (f. 233b)</locus> [initiale ornée (<q>I</q>) de 19 UR. Dans la marge de queue, sous la col. 233b une miniature fond or correspondant à 11 UR],
-                        <q>la condition : un magistrat expose à Justinien le cas d’un prisonnier qui se tient devant lui, bras liés derrière le dos et gardé par deux soldats</q> (<bibl>Avril-Gousset</bibl>).</p>
+                      <p><locus from="233b">Livre XIII (f. 233b)</locus> [initiale ornée (<q>I</q>) de 19 UR. Dans la marge de queue, sous la col. 233b une miniature fond or correspondant à 11 UR], <q>la condition : un magistrat expose à Justinien le cas d’un prisonnier qui se tient devant lui, bras liés derrière le dos et gardé par deux soldats</q> (<bibl>Avril-Gousset</bibl>).</p>
                       <p><locus from="248a">Livre XIV (f. 248a)</locus> [initiale historiée de 10 UR], <q>le commerce maritime : près de son bateau, un navigateur accompagné de deux magistrats écoute Justinien</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
                       <p><locus from="260c">Livre XV (f. 260c)</locus> [initiale historiée de 10 UR], <q>le pécule : magistrat remettant un pécule à un homme devant Justinien</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
                       <p><locus from="273d">Livre XVI (f. 273d)</locus> [miniature de 10 UR (55 x 50 mm.)], <q>les cautions : en présence de magistrats et d’une femme, Justinien écoute un homme qui tient un rouleau écrit et partiellement déployé</q> (<bibl>Avril-Gousset</bibl>) ; fond or.</p>
@@ -3688,7 +3687,7 @@
                     </item>
                     <item>
                       <label>Relations des témoins au sein de la famille <hi rend="i">ABE</hi></label>
-                      <list rend="bulleted">
+                      <list rend="circle">
                         <item><label><hi rend="i">AB</hi> ne peuvent descendre de <hi rend="i">E</hi>.</label>
                           <p>Leçons fautives de <hi rend="i">E</hi> absentes de <hi rend="i">AB</hi> : [9.2.41] <app>
                             <rdg wit="#E">se il descouvri les degrez del testament</rdg>
@@ -3794,7 +3793,7 @@
                         </altIdentifier>
                       </msIdentifier>
                       <msContents>
-                        <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> 3 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (D. 1.1 à D. 2.7 et de D. 4.7 à D. 24.3), traduction <lang xml:lang="fro">française</lang> 5 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (D. 2.8 à D. 2.15), traduction <lang xml:lang="fro">française</lang> 4
+                        <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> 3 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (D. 1.1 à D. 2.7 et de D. 4.7 à D. 24.3), traduction <lang xml:lang="fro">française</lang> 5 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (D. 2.8 à D. 2.15), traduction <lang xml:lang="fro">française</lang> 4
                           <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (D. 3.1 à D. 4.6) (titres anciens : <title type="ancien">Disgeste vieille au tres glorieus enpereor Justinians</title> f. 1ra ;
                           <title type="ancien">Digestes au glorieux empereor Justiniens</title> f. 3a ; <title type="ancien">la Digeste vielle en françois</title> f. 330a) </summary>
                         <msItem xml:id="kbr_9234_digestumvetus">
@@ -4573,7 +4572,7 @@
                             <msItem>
                               <locus from="242a"/>
                               <title type="sub">[D. 18.1]</title>
-                              <incipit><supplied resp="#FD"><title xml:lang="lat">De contrahenda emptione et de pactis inter emptorem et venditorem compositis et quae res venire non possunt</title> ; sans rubrique ni réserve (sans doute sur le f. précédent, aujourd’hui perdu)</supplied></incipit>
+                              <incipit><supplied resp="#FD"><title xml:lang="lat">De contrahenda emptione et de pactis inter emptorem et venditorem compositis et quae res venire non possunt</title><note> ; sans rubrique ni réserve (sans doute sur le f. précédent, aujourd’hui perdu)</note></supplied></incipit>
                             </msItem>
                             <msItem>
                               <locus from="247c"/>
@@ -4834,7 +4833,7 @@
                           </decoNote>
                           <decoNote>
                             <label>Iconographie</label>
-                            <p>D’après A. Stones, les illustrations sont de la main du <persName role="illustrateur" n="maître du ms Paris, Bibl. nat. de Fr., fr. 1453">maître du ms Paris, Bibl. nat. de Fr., fr. 1453</persName>, actif à Paris au début du 14<hi rend="sup">e</hi> s. Cet enlumineur a illustré comme assistant ou à titre principal un grand nombre de manuscrits en français.</p>
+                            <p>D’après A. Stones, les illustrations sont de la main du <persName role="illustrateur" key="maître du ms Paris, Bibl. nat. de Fr., fr. 1453">maître du ms Paris, Bibl. nat. de Fr., fr. 1453</persName>, actif à Paris au début du 14<hi rend="sup">e</hi> s. Cet enlumineur a illustré comme assistant ou à titre principal un grand nombre de manuscrits en français.</p>
                             <p><locus from="3a">Livre I (f. 3a)</locus> [miniature de 12 UR], un empereur ou juge tenant une baguette fait brûler des livres. Fond échiqueté.</p>
                             <p><locus from="18b">Livre II (f. 18b)</locus> [miniature de 12 UR], juge siégeant, un livre à la main, entouré de laïcs s’adressant à lui de part et d’autre. Fond bleu réticulé.</p>
                             <p><locus from="40b">Livre III (f. 40b)</locus> [miniature de 12 UR], avocats plaidant devant un juge siégeant à droite. Le juge tient un document scellé. Fond quadrillé.</p>
@@ -4999,7 +4998,7 @@
                         </altIdentifier>
                       </msIdentifier>
                       <msContents>
-                        <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> 3 <persName role="traducteur" ref="???">anonyme</persName> du <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 9.2.40-51 ; D. 9.3.5-9.4.8)</summary>
+                        <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> 3 <persName role="traducteur" ref="???">anonyme</persName> du <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 9.2.40-51 ; D. 9.3.5-9.4.8)</summary>
                         <msItem xml:id="leiden_meijers_fr3_digestumvetus">
                           <msItem>
                             <locus from="1"/>
@@ -5161,7 +5160,7 @@
                         </altIdentifier>
                       </msIdentifier>
                       <msContents>
-                        <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> 3 anonyme du <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 1-24.2) (titres anciens :
+                        <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> 3 anonyme du <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 1-24.2) (titres anciens :
                           <title type="ancien">Digeste vielle</title> f. 1a ;
                           <title type="ancien">la Digeste vielle en françois</title> f. 282c)</summary>
                         <msItem xml:id="fr_495_digestumvetus">
@@ -5318,12 +5317,12 @@
                             <msItem>
                               <locus from="17a"/>
                               <title type="sub">[D. 2.6]</title>
-                              <incipit><seg type="rubric">a Que aucuns ne retiengne par force celui qui est apelez en droit</seg><supplied resp="#FD">la rubrique correspond à D. 2.7, mais précède bien le texte de D. 2.6.</supplied></incipit>
+                              <incipit><seg type="rubric">a Que aucuns ne retiengne par force celui qui est apelez en droit</seg><note>La rubrique correspond à D. 2.7, mais précède bien le texte de D. 2.6.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="17b"/>
                               <title type="sub">[D. 2.7]</title>
-                              <incipit><seg type="rubric">b Que cil qui sont apelé en droit i aillent ou il doingnent caucion</seg><supplied resp="#FD">la rubrique correspond à D. 2.6, mais précède bien le texte de D. 2.7.</supplied></incipit>
+                              <incipit><seg type="rubric">b Que cil qui sont apelé en droit i aillent ou il doingnent caucion</seg><note>La rubrique correspond à D. 2.6, mais précède bien le texte de D. 2.7.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="17d"/>
@@ -6153,14 +6152,14 @@
                             <quote>fet</quote>, <quote>fere</quote>, cf.
                             <bibl>Dees 1980, c. 248</bibl> ;
                             <quote>meson</quote>, cf. <bibl><foreign xml:lang="lat">ibid.</foreign>, c. 171</bibl>), de même que le poitevin-saintongeais et l’anglo-normand dans l’aire occidentale. Les extraits édités ne livrent aucun des traits suivants, caractéristiques du normand : absence de palatalisation de /ka-/, /ga-/, palatalisation en chuintante de /ki-/ ou /ke-/, absence de l’effet de Bartsch, désinence de la P4 en –<hi rend="i">on</hi> ou –<hi rend="i">um</hi>). Une localisation dans une aire centrale semble s’imposer et on serait tenté de proposer une
-                            <foreign xml:lang="lat">scripta</foreign> de l’Ile-de-France, puisque l’on note certains traits majoritairement représentés à l’Est, comme d’autres surtout représentés à l’Ouest. Il semblerait très hasardeux de conclure à une <foreign xml:lang="lat">scripta</foreign> orléanaise, tant les traits occidentaux sont épars et en concurrence avec des traits orientaux : <list rend="bulleted">
+                            <foreign xml:lang="lat">scripta</foreign> de l’Ile-de-France, puisque l’on note certains traits majoritairement représentés à l’Est, comme d’autres surtout représentés à l’Ouest. Il semblerait très hasardeux de conclure à une <foreign xml:lang="lat">scripta</foreign> orléanaise, tant les traits occidentaux sont épars et en concurrence avec des traits orientaux : <list rend="circle">
                               <head>Traits orientaux</head>
                               <item>emploi du suffixe –<hi rend="i">aige</hi> : cf. <bibl>Dees 1980, c. 204 : <hi rend="i">heritaige, usaiges / heritage, usages</hi></bibl> : la forme –<hi rend="i">aige</hi> est attestée avec la plus grande fréquence en Bourgogne (72%) et en Lorraine (61%), mais on la rencontre dans toutes les <foreign xml:lang="lat">scriptae</foreign> de l’Est. Elle est rare en Picardie linguistique, et quasiment absente de Normandie et de l’aire angevine (Mayenne-Sarthe-Maine-et-Loire) ainsi que de Paris. En revanche, l’Orléanais y recourt largement (38%).</item>
                               <item>emploi de la forme <quote>tuit</quote> en fonction de cas sujet masculin pluriel : cf.
                                 <bibl>Dees 1980, c. 91</bibl> :
                                 <quote>tuit</quote> est peu utilisé en Normandie, en Mayenne et en Sarthe ainsi qu’en Bretagne et au Nord du domaine d’oïl. Son aire d’emploi s’étend du Nord-Est au Sud-Est du domaine.</item>
                             </list>
-                            <list rend="bulleted">
+                            <list rend="circle">
                               <head>Traits occidentaux</head>
                               <item><quote>feire</quote> : cf. <bibl>Dees 1980, c. 248 : <hi rend="i">fere, feire, feyre / faire, faere, faiere</hi></bibl>. La forme
                                 <quote>feire</quote> exclut l’est et le nord du domaine d’oïl. La densité du premier groupe est maximale en Bretagne, Anjou et Normandie, légèrement moindre en Orléanais (70 %) et en région parisienne (61 %). Elle baisse sensiblement dans l’Oise et au sud-ouest du domaine d’oïl.</item>
@@ -6743,7 +6742,7 @@
                         </altIdentifier>
                       </msIdentifier>
                       <msContents>
-                        <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> 3 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 1-24.2) (titres anciens :
+                        <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> 3 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" xml:lang="lat" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title> (D. 1-24.2) (titres anciens :
                           <title type="ancien">Digestes au gloriex <expan>emp<ex>er</ex>eor</expan> Justinian</title> f. 3a ; <title type="ancien">Digeste vielle</title> f. 42’a ; <title type="ancien">Digeste vielle en françois</title> f. 73’’b)</summary>
                         <msItem xml:id="fr_20118_digestumvetus">
                           <msItem xml:id="fr_20118_digestumvetus_table">
@@ -7079,14 +7078,12 @@
                             <msItem>
                               <locus>jadis f. 87</locus>
                               <title type="sub">[D. 5.5]</title>
-                              <incipit><supplied resp="#FD">manque à la suite du découpage du f. ; rubrique d’après la table :
-                                <quote>Coument li prosiverres des biens doit chalengier hiretage</quote></supplied></incipit>
+                              <incipit><supplied resp="#FD">Coument li prosiverres des biens doit chalengier hiretage</supplied><note>Manque à la suite du découpage du f. ; rubrique d’après la table.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus>jadis f. 87</locus>
                               <title type="sub">[D. 5.6]</title>
-                              <incipit><supplied resp="#FD">manque à la suite du découpage du f. ; rubrique d’après la table :
-                                <quote>e demander hiretage qui est bailliez par foi de conmission</quote></supplied></incipit>
+                              <incipit><supplied resp="#FD">e demander hiretage qui est bailliez par foi de conmission</supplied><note>Manque à la suite du découpage du f. ; rubrique d’après la table.</note></incipit>
                             </msItem>
                           </msItem>
                           <msItem xml:id="fr_20118_digestumvetus_livre6">
@@ -7097,7 +7094,7 @@
                             <explicit xml:lang="fro">Ulpians dit : En tel maniere <expan>neporq<ex>ua</ex>nt</expan> se il en a paié la ferme, autresi est il se li chans fu loez a certain terme <expan><ex>et</ex></expan> li termes n’est pas encore failliz.</explicit>
                             <msItem>
                               <title type="sub">[D. 6.1]</title>
-                              <incipit><supplied resp="#FD">acéphale ; rubrique d’après la table : <quote>Cist tytres est de chalengement des choses</quote></supplied></incipit>
+                              <incipit><supplied resp="#FD">Cist tytres est de chalengement des choses</supplied><note>Acéphale ; rubrique d’après la table.</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="92c"/>
@@ -7232,8 +7229,7 @@
                             </msItem>
                             <msItem>
                               <title type="sub">[D. 10.2]</title>
-                              <incipit><supplied resp="#FD">incomplet du début par manque du f. 24r-v ; rubrique d’après la table :
-                                <quote>De departir hiretage a la mesniee conmune</quote> ;<seg type="incipit">...ra il covient <expan>q<ex>ue</ex></expan> il gietent sort ou <expan>q<ex>ue</ex></expan> uns amis soit esleuz par <expan><ex>com</ex>mun</expan> <expan>assentem<ex>en</ex>t</expan> a qui eles soient bailliees en garde</seg> [D. 10.2.5]</supplied></incipit>
+                              <incipit><supplied resp="#FD"><seg type="rubric">De departir hiretage a la mesniee conmune</seg> ;...ra il covient <expan>q<ex>ue</ex></expan> il gietent sort ou <expan>q<ex>ue</ex></expan> uns amis soit esleuz par <expan><ex>com</ex>mun</expan> <expan>assentem<ex>en</ex>t</expan> a qui eles soient bailliees en garde</supplied><note>Incomplet du début par manque du f. 24r-v ; rubrique d’après la table. [D. 10.2.5].</note></incipit>
                             </msItem>
                             <msItem>
                               <locus from="29'd"/>
@@ -7483,8 +7479,7 @@
                             <msItem>
                               <locus from="99'b"/>
                               <title type="sub">[D. 18.1]</title>
-                              <incipit><supplied resp="#FD">réserve et rubrique d’attente dans la marge de queue, à l’encre brune : <quote>Ci commence li disehuitiesme livre. Cist titres est d’achat et de vendte des <supplied resp="#FD">suite rognée par la reliure</supplied></quote> ; d’après la table (f. Ca) : <quote><seg type="rubric">Cist tytes est d’achat et de vente <expan><ex>et</ex></expan> des couvenences entre le <expan>ve<ex>n</ex>deeur</expan> <expan><ex>et</ex></expan> l’achateeur <expan><ex>et</ex></expan> lesquex choses ne pueent pas estre vendues</seg></quote>
-                              </supplied></incipit>
+                              <incipit><supplied resp="#FD">réserve et rubrique d’attente dans la marge de queue, à l’encre brune : <quote>Ci commence li disehuitiesme livre. Cist titres est d’achat et de vendte des <supplied resp="#FD">suite rognée par la reliure</supplied></quote> ; d’après la table (f. Ca) : <quote><seg type="rubric">Cist tytes est d’achat et de vente <expan><ex>et</ex></expan> des couvenences entre le <expan>ve<ex>n</ex>deeur</expan> <expan><ex>et</ex></expan> l’achateeur <expan><ex>et</ex></expan> lesquex choses ne pueent pas estre vendues</seg></quote></supplied></incipit>
                             </msItem>
                             <msItem>
                               <locus from="4''b"/>
@@ -7739,7 +7734,7 @@
                           </decoNote>
                           <decoNote>
                             <label>Iconographie</label>
-                            <p>D’après <bibl>Robert Branner 1977, p. 106</bibl>, la décoration est l’œuvre d’un atelier parisien réputé qu’il a baptisé <orgName role="illustrateur" n="atelier de Bari">atelier de <hi rend="i">Bari</hi></orgName>. Cet atelier a produit plusieurs manuscrits juridiques en français (<bibl><title>Décrétales</title>, ms Paris, Bibl. nat. de Fr., nouv. acq. fr. 5120</bibl> ;
+                            <p>D’après <bibl>Robert Branner 1977, p. 106</bibl>, la décoration est l’œuvre d’un atelier parisien réputé qu’il a baptisé <orgName role="illustrateur" key="atelier de Bari">atelier de <hi rend="i">Bari</hi></orgName>. Cet atelier a produit plusieurs manuscrits juridiques en français (<bibl><title>Décrétales</title>, ms Paris, Bibl. nat. de Fr., nouv. acq. fr. 5120</bibl> ;
                               <bibl><title>Décret</title> de Gratien, ms Bruxelles, Bibl. royale de Belgique, 9084</bibl> ;
                               <bibl><title>Code</title>, ms Giessen, Universitätsbibliothek, 945</bibl>). Cet atelier est en particulier remarquable par ses initiales. Les miniatures sont encadrées par une bande rose relevée d’un filet blanc, lorsque leur fond est bleu. Lorsque le fond de la miniature est rose, l’encadrement présente une une bande bleue.</p>
                             <p><locus from="1a">Prologue (f. 1a)</locus> réserve de 9 UR pour miniature après la rubrique</p>
@@ -7923,13 +7918,13 @@
                       <msName type="sigle" resp="marnier">R</msName>
                     </msIdentifier>
                     <msContents>
-                      <summary><title>Livre la Roine</title> (= Livre I, <persName role="auteur" n="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title type="oeuvre" xml:lang="fr" corresp="ARK_oeuvre">Conseil à un ami</title>; Livre II, compilation juridique d'après la traduction <persName role="traducteur" ref="???">anonyme</persName> en prose des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> en <lang xml:lang="fro" n="lang_arrivée">français</lang> et des extraits du
-                        <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digeste vieux</title> en <lang xml:lang="fro" n="lang_arrivée">français</lang>; Livre III,
+                      <summary><title>Livre la Roine</title> (= Livre I, <persName role="auteur" key="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title type="oeuvre" xml:lang="fr" corresp="ARK_oeuvre">Conseil à un ami</title>; Livre II, compilation juridique d'après la traduction <persName role="traducteur" ref="???">anonyme</persName> en prose des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> en <lang xml:lang="fro" n="lang_arrivee">français</lang> et des extraits du
+                        <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digeste vieux</title> en <lang xml:lang="fro" n="lang_arrivee">français</lang>; Livre III,
                         <title>Grand coutumier de Normandie</title>; Livre IV, suite de la compilation des <title>Institutes</title> et du <title>Digeste vieux</title>). Il est à noter que deux manuscrits du <title>Conseil</title> de Pierre des Fontaines, interpolés entre les chapitres 2 et 3 par des extraits français du <title xml:lang="lat">Corpus juris civilis</title> et du droit canonique, sont intitulés per leurs rédacteurs <title>Livre la Roine Blanche</title> et <title>Livre la Reigne</title> : il s'agit respectivement du ms Paris, Bibl. nat. de Fr., fr. 1279 et du ms Cité du Vatican, BAV, Reg. lat. 1451. Un troisième manuscrit du <title>Conseil</title> (ms Honfleur, bibl. mun., 1), dont la rubrique initiale est aujourd'hui peu lisible, porte en tête du premier feuillet une enluminure représentant une reine qui reçoit un livre.</summary>
                       <msItem xml:id="fr_5245_livre-la-roine">
                         <msItem xml:id="fr_5245_livre-la-roine_livre1_conseil" corresp="conseil_ami">
                           <locus from="1" to="51"/>
-                          <title type="partie" xml:lang="fr">Livre I, <persName role="auteur" n="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title>Conseil à un ami</title> (titres anciens : <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie... et <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine</title> f. 1; <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li consuelz <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</title> f. 1v)</title>
+                          <title type="partie" xml:lang="fr">Livre I, <persName role="auteur" key="Pierre de Fontaines" ref="http://catalogue.bnf.fr/ark:/12148/cb16695307b">Pierre de Fontaines</persName>, <title>Conseil à un ami</title> (titres anciens : <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie... et <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine</title> f. 1; <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li consuelz <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</title> f. 1v)</title>
                           <incipit xml:lang="fro"><seg type="rubric">Ci <expan><ex>com</ex>mence</expan> li livres des usages et des coutumes de France et de Vermendois selonc court laie, et fu fez por une roine de <expan>Fra<ex>n</ex>ce</expan> tres gentil et tres noble, et le fist a sa <expan>req<ex>ue</ex>ste</expan> li plus sages hons qui a son tans vesquist selonc les lois, et <expan>p<ex>or</ex></expan> ce est il apelez le livre la roine.</seg> <lb/>
                             <hi rend="b">A</hi> l’enprendre de ce ce <expan>q<ex>ue</ex></expan> vos m’avez tantes foiz proié et requis en apel ge joingtes mains... <pb n="f. 1"/><lb/>
                             <seg type="rubric">Ci <expan><ex>com</ex>mence</expan> li conseulz <expan>q<ex>ue</ex></expan> messires Pierres de Fonteinnes donne a son ami</seg> <lb/>
@@ -8073,7 +8068,7 @@
                         <msItem xml:id="fr_5245_livre-la-roine_livre2">
                           <locus from="53v" to="94v"/>
                           <title type="section" xml:lang="fr">Livre II, Compilation juridique d’après la traduction
-                            <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title> en <lang xml:lang="fro" n="lang_arrivée">français</lang> et des extraits de la traduction 3 du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digeste vieux</title> en <lang xml:lang="fro" n="lang_arrivée">français</lang>(titre ancien :
+                            <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title> en <lang xml:lang="fro" n="lang_arrivee">français</lang> et des extraits de la traduction 3 du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digeste vieux</title> en <lang xml:lang="fro" n="lang_arrivee">français</lang>(titre ancien :
                             <title type="ancien">Ci <expan><ex>com</ex>mence</expan> li <expan>se<ex>con</ex>z</expan> livres la roine</title> f. 53v)</title>
                           <note>Le texte des extraits des
                             <title>Institutes</title> présente parfois des différences par rapport à l'édition donnée par F. Olivier-Martin. Le texte des extraits du
@@ -8656,7 +8651,7 @@
                     </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                    <summary>traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> 4 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (titre ancien : <title type="ancien">Explicit Digeste vieille</title> f. 302b)</summary>
+                    <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> 4 <persName role="traducteur" ref="???">anonyme</persName> du <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w" xml:lang="lat">Digestum vetus</title> (titre ancien : <title type="ancien">Explicit Digeste vieille</title> f. 302b)</summary>
                     <msItem xml:id="montpellier_h47_digestumvetus">
                       <msItem xml:id="montpellier_h47_digestumvetus_livre1">
                         <locus from="3a" to="13d"/>
@@ -9636,7 +9631,7 @@
                         <quote>convenanche</quote> (f. 160c),
                         <quote>fianchie</quote> à côté de <quote>fiancé</quote> (f. 160d) ou bien l’absence de consonne épenthétique dans certaines formes de futur : <quote>apartenra</quote> (f. 124d), <quote>vaura</quote> (f. 125b), <quote>voura</quote> (f. 125c), <quote>avenra</quote> (f. 126a). La 3<hi rend="sup">e</hi> main recourt d’ordinaire au <hi rend="i">d</hi> épenthétique :
                         <quote>remandra</quote> (f. 160d). <lb/>Plusieurs graphies orientent vers les parties méridionales de l’aire picarde :
-                        <list rend="bulleted">
+                        <list rend="circle">
                           <item><quote>çaus</quote> &lt; *<hi rend="sc">ecce illos</hi> et <quote>aus</quote> &lt; <hi rend="sc">ILLOS</hi> : Champagne, Hainaut, Lorraine (<bibl>Gossen, <title>Grammaire de l’ancien picard</title>, § 74</bibl>) : plus commun en Artois et dans les parties occidentales et méridionales de l’aire picarde. (mains 1 et 3
                             <quote>aus</quote>)</item>
                           <item>emploi de <quote>tuit</quote> au cas sujet masc. plur (cf. <bibl>Dees 1980, c. 91</bibl>)</item>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="historia_alexandri_magni_quintus_curtius" xml:lang="fr">
@@ -78,7 +78,7 @@
         </listBibl>
       </div>
       <div type="traduction" xml:id="Vasque">
-        <head>Traduction par <persName type="traducteur">Vasque de Lucène</persName></head>
+        <head>Traduction par <persName role="traducteur">Vasque de Lucène</persName></head>
         <dateline>
           <date notBefore="1467" notAfter="1467">1467</date>
         </dateline>
@@ -244,7 +244,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1469" notAfter="1469">1469  ? (colophon f. 200)</origin>
-                <provenance>possesseur : le destinataire fut <persName type="possesseur" key="Claude Bergier">Claude Bergier</persName>, écuyer d’écurie du roi de France, maître d’hôtel de François de Savoie, protonotaire apostolique. D’après (3), ce ms pourrait être identique à celui attesté dans la <persName type="possesseur" key="Savoie, famille">librairie ducale de Chambery</persName> en 1498 (P. Vayra, <title>Le lettere e le arti alla corte di Savoia nel secolo XV. Inventari dei castelli di Ciamberi, di Torino e di Ponte d’Ain</title>, Turin, 1883, p. 70, n° 258)</provenance>
+                <provenance>possesseur : le destinataire fut <persName role="possesseur" key="Claude Bergier">Claude Bergier</persName>, écuyer d’écurie du roi de France, maître d’hôtel de François de Savoie, protonotaire apostolique. D’après (3), ce ms pourrait être identique à celui attesté dans la <persName role="possesseur" key="Savoie, famille">librairie ducale de Chambery</persName> en 1498 (P. Vayra, <title>Le lettere e le arti alla corte di Savoia nel secolo XV. Inventari dei castelli di Ciamberi, di Torino e di Ponte d’Ain</title>, Turin, 1883, p. 70, n° 258)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -273,7 +273,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1503">1468-1503 (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> et <persName type="ancien">Marie de Balzac</persName>, sa femme (armes f. 16), morte en 1503</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> et <persName type="ancien">Marie de Balzac</persName>, sa femme (armes f. 16), morte en 1503</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -355,12 +355,12 @@
                   <p>XII + 265 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : par le <persName type="illustrateur">maître d'Edouard IV</persName> (6 grandes peintures et une douzaine de plus petites dimensions) et d’un second artiste (10 peintures en pleine page et 30 peintures occupant la moitié supérieure de la page)</p>
+                  <p>Illustration : par le <persName role="illustrateur">maître d'Edouard IV</persName> (6 grandes peintures et une douzaine de plus petites dimensions) et d’un second artiste (10 peintures en pleine page et 30 peintures occupant la moitié supérieure de la page)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1474" notAfter="1477">1474/1475-1477 (<title>Katalog der datierten Handschriften in der Schweiz in lateinischer Schrift vom Anfang des Mittelalters bis 1550</title>, Zurich, 1983, t. II, pl. 517)</origin>
-                <provenance>possesseur : probablement exécuté pour <persName type="possesseur" key="Charles le Téméraire">Charles le Téméraire</persName> (1, 4)  ; maison d’<persName type="possesseur" key="Oettingen, famille d’">Oettingen</persName> (blason sur p. de frontispice)</provenance>
+                <provenance>possesseur : probablement exécuté pour <persName role="possesseur" key="Charles le Téméraire">Charles le Téméraire</persName> (1, 4)  ; maison d’<persName role="possesseur" key="Oettingen, famille d’">Oettingen</persName> (blason sur p. de frontispice)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -389,7 +389,7 @@
                   <p>168 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : par le cercle du <persName type="illustrateur">maître de Marguerite d'York</persName>, ca 1470-1475 ; 9 miniatures sur 2 colonnes en tête de livre (215 x 170 mm.) ; 12 miniatures sur 1 colonne (env. 90 x 70 mm.)</p>
+                  <p>Illustration : par le cercle du <persName role="illustrateur">maître de Marguerite d'York</persName>, ca 1470-1475 ; 9 miniatures sur 2 colonnes en tête de livre (215 x 170 mm.) ; 12 miniatures sur 1 colonne (env. 90 x 70 mm.)</p>
                 </decoDesc>
               </physDesc>
               <history>
@@ -416,12 +416,12 @@
                   <p>189 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : par le cercle du <persName type="illustrateur">maître de Marguerite d'York</persName>, ca 1470-1475</p>
+                  <p>Illustration : par le cercle du <persName role="illustrateur">maître de Marguerite d'York</persName>, ca 1470-1475</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s., vers 1480 (1) (proche du ms Bruxelles, Bibl. royale, 10475 [1471], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, t. IV, pl. 852)</origin>
-                <provenance>possesseur : <persName type="ancien">Philippe de Clèves</persName> ; ajout postérieur des armes de <persName type="possesseur" key="Nassau-Vianden, famille">Nassau-Vianden</persName></provenance>
+                <provenance>possesseur : <persName type="ancien">Philippe de Clèves</persName> ; ajout postérieur des armes de <persName role="possesseur" key="Nassau-Vianden, famille">Nassau-Vianden</persName></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -450,7 +450,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1470">ca 1469 (2)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 13, 38, 58, 124, 151, 179, 211, 235 ; signature, devise)</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 13, 38, 58, 124, 151, 179, 211, 235 ; signature, devise)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -473,12 +473,12 @@
                   <p>202 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 50 miniatures, entièrement peintes en demi-grisaille, attribuées au <persName type="illustrateur">maître des <title>Chroniques d’Angleterre</title></persName> et à son atelier</p>
+                  <p>Illustration : 50 miniatures, entièrement peintes en demi-grisaille, attribuées au <persName role="illustrateur">maître des <title>Chroniques d’Angleterre</title></persName> et à son atelier</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1475">1468-1475 (proche du ms Bruxelles, Bibl. royale 10475, f. 1 [1471], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, t. IV, pl. 853)</origin>
-                <provenance>possesseur : acheté en 1475 par <persName type="possesseur" key="Philippe de Cluys, chevalier de Saint-Jean de Jérusalem">Philippe de Cluys, chevalier de Saint-Jean de Jérusalem</persName> (mention, f. 13 ; armes f. 11)</provenance>
+                <provenance>possesseur : acheté en 1475 par <persName role="possesseur" key="Philippe de Cluys, chevalier de Saint-Jean de Jérusalem">Philippe de Cluys, chevalier de Saint-Jean de Jérusalem</persName> (mention, f. 13 ; armes f. 11)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -504,12 +504,12 @@
                   <p>219 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 17 miniatures des 2/3 de la justification et 32 sur 1 colonne d’1/3 de la justification ; peint entièrement en demi-grisaille par le <persName type="illustrateur">maître de Rambures</persName></p>
+                  <p>Illustration : 17 miniatures des 2/3 de la justification et 32 sur 1 colonne d’1/3 de la justification ; peint entièrement en demi-grisaille par le <persName role="illustrateur">maître de Rambures</persName></p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1476">vers 1470-1475 (avant 1477, voir <foreign>infra</foreign>) (proche du ms Paris, Bibl. nat. de Fr., lat. 1179, f. 4 [1475], <title>Mss datés</title>, t. II, pl. 157)</origin>
-                <provenance>possesseur : offert par Marguerite d’York et Marie de Bourgogne à <persName type="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, chevalier d’honneur de Marguerite d’York (f. 219a) ; sir <persName type="possesseur" key="John Donne">John Donne</persName> (armes f. 219b) à partir de mai 1477 ; <persName type="possesseur" key="Henry VIII d'Angleterre">Henry VIII</persName> ?; pourrait être le ms attesté à <orgName type="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 20 C III</provenance>
+                <provenance>possesseur : offert par Marguerite d’York et Marie de Bourgogne à <persName role="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, chevalier d’honneur de Marguerite d’York (f. 219a) ; sir <persName role="possesseur" key="John Donne">John Donne</persName> (armes f. 219b) à partir de mai 1477 ; <persName role="possesseur" key="Henry VIII d'Angleterre">Henry VIII</persName> ?; pourrait être le ms attesté à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 20 C III</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -537,7 +537,7 @@
                   <p>268 f. parchemin</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Copié à Lille par <persName type="copiste">Jean Duchesne</persName> [Bouveret 9521-9526 (attesté 1466-1474)] : <quote>« escript par la main de Jehan du Chesne a Lille »</quote> (f. 238b)</p>
+                  <p>Copié à Lille par <persName role="copiste">Jean Duchesne</persName> [Bouveret 9521-9526 (attesté 1466-1474)] : <quote>« escript par la main de Jehan du Chesne a Lille »</quote> (f. 238b)</p>
                 </handDesc>
                 <decoDesc>
                   <p>illustration : réalisée en Flandre, ca 1470-1480 ; 9 miniatures des 2/3 de la justification en tête de livre ; 11 miniatures d’un tiers de la justification sur 1 colonne en tête de certains chapitres</p>
@@ -545,7 +545,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1475">Lille, ca 1470 (proche du ms London, British Libr., Royal 15 D I, f. 113 [Bruges, 1470], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 742)</origin>
-                <provenance>possesseurs : réserve pour un écu dans l’encadrement du f. 14  ; acquis par <persName type="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (?)</provenance>
+                <provenance>possesseurs : réserve pour un écu dans l’encadrement du f. 14  ; acquis par <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (?)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -571,12 +571,12 @@
                   <p>257 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : par le <persName type="illustrateur">maître d'Edouard IV</persName> (selon S. McKendrick, mais ne figure pas dans la liste de (4)) ; 2 grandes miniatures avec encadrement des 2/3 de la justification (scène de dédicace f. 12 et f. 15), 8 miniatures de la moitié de la justification sur une colonne en tête des livres II à IX (f. 42b, 63b, 104b, 129b, 156a, 183a, 214d, 238b) (pour les sujets, voir 5)</p>
+                  <p>Illustration : par le <persName role="illustrateur">maître d'Edouard IV</persName> (selon S. McKendrick, mais ne figure pas dans la liste de (4)) ; 2 grandes miniatures avec encadrement des 2/3 de la justification (scène de dédicace f. 12 et f. 15), 8 miniatures de la moitié de la justification sur une colonne en tête des livres II à IX (f. 42b, 63b, 104b, 129b, 156a, 183a, 214d, 238b) (pour les sujets, voir 5)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1475" notAfter="1500">Flandre, dernier quart du XV<hi rend="sup">e</hi> s. (proche du ms London, British Libr., Royal 18 D X, f. 9 [Bruges ?, 1479], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 815)</origin>
-                <provenance>possesseur : réserve pour un écu dans l’encadrement f. 12 ; pourrait être le ms attesté à <orgName type="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 15 D IV</provenance>
+                <provenance>possesseur : réserve pour un écu dans l’encadrement f. 12 ; pourrait être le ms attesté à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 15 D IV</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -604,15 +604,15 @@
                   <p>237 f. parchemin</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Copiste : <persName type="copiste">Jean Duchesne</persName> à Lille (f. 12d)</p>
+                  <p>Copiste : <persName role="copiste">Jean Duchesne</persName> à Lille (f. 12d)</p>
                 </handDesc>
                 <decoDesc>
-                  <p>illustration : 24 miniatures sur 2 colonnes des 2/3 aux 4/5e de la justification ; 3 miniatures sur 1 colonne entre 1/3 et la moitié de la justification par le <persName type="illustrateur">maître de Marguerite d'York</persName> (3)</p>
+                  <p>illustration : 24 miniatures sur 2 colonnes des 2/3 aux 4/5e de la justification ; 3 miniatures sur 1 colonne entre 1/3 et la moitié de la justification par le <persName role="illustrateur">maître de Marguerite d'York</persName> (3)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1475">Lille, ca 1470 (proche du ms Paris, bibl. de l’Arsenal, 6328, f. 112 [1449-1459], <title>Mss datés</title>, t. I, pl. 105)</origin>
-                <provenance>possesseur : d’après (2), peut-être <persName type="possesseur" key="Charles-Alexandre de Croÿ">Charles-Alexandre de Croÿ</persName>, marquis de Havré et comte de Fontenoy (1581-1624)</provenance>
+                <provenance>possesseur : d’après (2), peut-être <persName role="possesseur" key="Charles-Alexandre de Croÿ">Charles-Alexandre de Croÿ</persName>, marquis de Havré et comte de Fontenoy (1581-1624)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -639,7 +639,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1450" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Sardière, Guyon de">Guyon de Sardière</persName> (XVI<hi rend="sup">e</hi> s.)</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Sardière, Guyon de">Guyon de Sardière</persName> (XVI<hi rend="sup">e</hi> s.)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -661,12 +661,12 @@
                   <p>249 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : miniatures par le <persName type="illustrateur">maître de la <title>Chronique d’Angleterre</title></persName> et d’autres ; 14 miniatures de la largeur de la justification ; 5 miniatures de la largeur d’une colonne</p>
+                  <p>Illustration : miniatures par le <persName role="illustrateur">maître de la <title>Chronique d’Angleterre</title></persName> et d’autres ; 14 miniatures de la largeur de la justification ; 5 miniatures de la largeur d’une colonne</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1485">Bruges (?), ca 1470-1480</origin>
-                <provenance>possesseurs : exécuté pour <persName type="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> ; <persName type="possesseur" key="Marie de Bourgogne">Marie de Bourgogne</persName> et <persName type="possesseur" key="Maximilien d’Autriche">Maximilien d'Autriche</persName></provenance>
+                <provenance>possesseurs : exécuté pour <persName role="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> ; <persName role="possesseur" key="Marie de Bourgogne">Marie de Bourgogne</persName> et <persName role="possesseur" key="Maximilien d’Autriche">Maximilien d'Autriche</persName></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -694,7 +694,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Beaux-Arts, coll. Masson 33, p. 124 [1471], <title>Mss datés</title>, t. I, pl. 128)</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Van de Merrewe">Van de Merrewe</persName> (ex libris daté de 1521, f. 162c) ; armes non identifiées, f. 9 (d’or au sautoir de gueules chargé de cinq coquilles d’argent)</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Van de Merrewe">Van de Merrewe</persName> (ex libris daté de 1521, f. 162c) ; armes non identifiées, f. 9 (d’or au sautoir de gueules chargé de cinq coquilles d’argent)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -750,12 +750,12 @@
                   <p>218 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : réalisée par le cercle du <persName type="illustrateur">maître de Marguerite d'York</persName> ca 1475  ; 10 miniatures en tête du prologue et en début de livre, des 3/4 de la justification ; 36 miniatures sur 1 colonne d’1/3 de la justification</p>
+                  <p>Illustration : réalisée par le cercle du <persName role="illustrateur">maître de Marguerite d'York</persName> ca 1475  ; 10 miniatures en tête du prologue et en début de livre, des 3/4 de la justification ; 36 miniatures sur 1 colonne d’1/3 de la justification</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1473" notAfter="1479">ca 1475-1477 (proche du ms Paris, Bibl. nat. de Fr., lat. 6351, f. 168 [1467], <title>Mss datés</title>, t. II, pl. 139)</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Louis de Bruges">Louis de Bruges</persName> ; <orgName type="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. [1] recouvrant les armes de Louis de Bruges)</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. [1] recouvrant les armes de Louis de Bruges)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -808,12 +808,12 @@
                   <p>32 + 41+ 44 + 42 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 291 miniatures de différents formats par <persName type="illustrateur">Jean Pichore</persName> (XV<hi rend="sup">e</hi>-XVI<hi rend="sup">e</hi> s.) à Paris</p>
+                  <p>Illustration : 291 miniatures de différents formats par <persName role="illustrateur">Jean Pichore</persName> (XV<hi rend="sup">e</hi>-XVI<hi rend="sup">e</hi> s.) à Paris</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Antoine de Clermont">Antoine de Clermont</persName>, chambellan de Louis XI et Françoise de Sassenage</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Antoine de Clermont">Antoine de Clermont</persName>, chambellan de Louis XI et Françoise de Sassenage</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -842,7 +842,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1501">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 902, f. 101v [1502], <title>Mss datés</title>, t. II, pl. 173)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Philibert de Veyré">Philibert de Veyré</persName>, chevalier de l’ordre de la toison d’or (armes f. 13, 15v, 149). Cette copie a peut-être pour modèle direct le manuscrit possédé par <persName type="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> (ms Oxford, Bodleian Libr., Laud. Misc. 751) (3)</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Philibert de Veyré">Philibert de Veyré</persName>, chevalier de l’ordre de la toison d’or (armes f. 13, 15v, 149). Cette copie a peut-être pour modèle direct le manuscrit possédé par <persName role="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> (ms Oxford, Bodleian Libr., Laud. Misc. 751) (3)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -878,7 +878,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Jacques de Pons">Jacques de Pons</persName> (ex libris f. 1 ; armes f. 12), fils de François et de Marguerite de Coëtivy (XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> s.)</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Jacques de Pons">Jacques de Pons</persName> (ex libris f. 1 ; armes f. 12), fils de François et de Marguerite de Coëtivy (XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> s.)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -910,7 +910,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6351, f. 168 [1467], <title>Mss datés</title>, t. II, pl. 139)</origin>
-                <provenance>possesseur : <orgName type="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (Navarre 23 [f. 1])</provenance>
+                <provenance>possesseur : <orgName role="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (Navarre 23 [f. 1])</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -937,15 +937,15 @@
                   <p>269 f. parchemin</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Achevé de copier en janvier 1470 par <persName type="copiste">Yvonnet le Jeune</persName> [Bouveret 12124] (d’après documents comptables, cf. 4)</p>
+                  <p>Achevé de copier en janvier 1470 par <persName role="copiste">Yvonnet le Jeune</persName> [Bouveret 12124] (d’après documents comptables, cf. 4)</p>
                 </handDesc>
                 <decoDesc>
-                  <p>illustration : 12 miniatures sur 1 colonne (entre 1/3 et la moitié de la justification), 74 miniatures sur 2 colonnes (entre la moitié et les 2/3 de la justification) réalisées à Bruges par <persName type="ancien">Loyset Liédet</persName>, sauf 10 dues à un second enlumineur (peut-être le <persName type="illustrateur">maître de Vienne de Marie de Bourgogne</persName> (5)</p>
+                  <p>illustration : 12 miniatures sur 1 colonne (entre 1/3 et la moitié de la justification), 74 miniatures sur 2 colonnes (entre la moitié et les 2/3 de la justification) réalisées à Bruges par <persName type="ancien">Loyset Liédet</persName>, sauf 10 dues à un second enlumineur (peut-être le <persName role="illustrateur">maître de Vienne de Marie de Bourgogne</persName> (5)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1466" notAfter="1470">(proche du ms Paris, Bibl. nat. de Fr., lat. 1294, f. 415v [1472], <title>Mss datés</title>, t. II, pl. 152) ; ca 1468 ; Bruges</origin>
-                <provenance>destinataire : exemplaire de dédicace pour <persName type="dédicataire">Charles le Téméraire</persName> (armes de Charles le Téméraire f. 1 dans initiale ornée)</provenance>
+                <provenance>destinataire : exemplaire de dédicace pour <persName role="dedicataire">Charles le Téméraire</persName> (armes de Charles le Téméraire f. 1 dans initiale ornée)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1056,7 +1056,7 @@
               </msContents>
               <history>
                 <origin notBefore="1401" notAfter="1500">Bruges ; XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>Possesseur : serait le ms possédé à Gand en 1528 par <persName type="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> († 1527), seigneur de Ravenstein (armes de Clèves ajoutées postérieurement)</provenance>
+                <provenance>Possesseur : serait le ms possédé à Gand en 1528 par <persName role="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> († 1527), seigneur de Ravenstein (armes de Clèves ajoutées postérieurement)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1080,12 +1080,12 @@
                   <p>259 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : par l’<orgName type="illustrateur">atelier de Loyset Liédet</orgName>, 1 miniature d’une demie page de la moitié aux 2/3 de la justification (f. 11) ; 2 miniatures de la largeur d’une colonne (f. 63a et 184a) et d’1/3 de la justification</p>
+                  <p>Illustration : par l’<orgName role="illustrateur">atelier de Loyset Liédet</orgName>, 1 miniature d’une demie page de la moitié aux 2/3 de la justification (f. 11) ; 2 miniatures de la largeur d’une colonne (f. 63a et 184a) et d’1/3 de la justification</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1470" notAfter="1480">1470-1480 (proche du ms Bruxelles, Bibl. royale 10475, f. 1 [1471], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, t. IV, pl. 853)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="La Baume, famille de">famille de la Baume</persName> (armes ajoutées au début du XVI<hi rend="sup">e</hi> s. f. 11)</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="La Baume, famille de">famille de la Baume</persName> (armes ajoutées au début du XVI<hi rend="sup">e</hi> s. f. 11)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1112,12 +1112,12 @@
                   <p>166 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : réalisée en Normandie (Rouen) dans les années 1470, par deux maîtres, l’un français et l’autre flamand (<persName type="illustrateur">maître de Marguerite d'York</persName> et son atelier) ; 293 miniatures, une à la largeur de la justification, les autres de la largeur d’une colonne</p>
+                  <p>Illustration : réalisée en Normandie (Rouen) dans les années 1470, par deux maîtres, l’un français et l’autre flamand (<persName role="illustrateur">maître de Marguerite d'York</persName> et son atelier) ; 293 miniatures, une à la largeur de la justification, les autres de la largeur d’une colonne</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1481">1468-1481 (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
-                <provenance>possesseurs : ms confectionné pour <persName type="possesseur" key="Louis, bâtard de Bourbon">Louis, bâtard de Bourbon</persName>, lieutenant général de Normandie (mort en 1488) (armes f. 1, 41v, 111v) ; <persName type="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName>, sans doute <persName type="possesseur" key="François de Rochechouart">François de Rochechouart</persName>, chambellan du duc Louis d’Orléans (futur Louis XII) et sénéchal de Toulouse († 1530)</provenance>
+                <provenance>possesseurs : ms confectionné pour <persName role="possesseur" key="Louis, bâtard de Bourbon">Louis, bâtard de Bourbon</persName>, lieutenant général de Normandie (mort en 1488) (armes f. 1, 41v, 111v) ; <persName role="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName>, sans doute <persName role="possesseur" key="François de Rochechouart">François de Rochechouart</persName>, chambellan du duc Louis d’Orléans (futur Louis XII) et sénéchal de Toulouse († 1530)</provenance>
               </history>
               <additional>
                 <listBibl>

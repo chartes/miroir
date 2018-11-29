@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="comediae_terentius" xml:lang="fr">
@@ -80,7 +80,7 @@
         <dateline>
           <date notBefore="1441" notAfter="1465">avant 1466</date>
         </dateline>
-        <p>Traduction exécutée avant 1466, probablement vers le milieu du XV<hi rend="sup">e</hi> siècle d’après sa langue. Elle a été attribuée à <persName type="copiste">Guillaume Rippe</persName>, copiste et possesseur du seul manuscrit conservé. Malgré quelques erreurs, le texte français est à la fois fidèle au latin et vivant.</p>
+        <p>Traduction exécutée avant 1466, probablement vers le milieu du XV<hi rend="sup">e</hi> siècle d’après sa langue. Elle a été attribuée à <persName role="copiste">Guillaume Rippe</persName>, copiste et possesseur du seul manuscrit conservé. Malgré quelques erreurs, le texte français est à la fois fidèle au latin et vivant.</p>
         <listBibl>
           <bibl>H. W. Lawton, <title>Térence en France au XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1926, p. 350-425, part. 391-425</bibl>
           <bibl>H. Bardon, « La première traduction de Térence en français », dans
@@ -284,7 +284,7 @@
                   <p>137 f. papier [pas de filigranes]</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Copié par <persName type="copiste">Guillaume Rippe</persName> (<quote>« Explicit Therence en françois au Mans le XXVIIIme jour de may l’an mil CCCC soixante six par les mains de maistre Guillaume Rippe, notaire et secretaire du roy nostre sire, auquel il appartient. <foreign>[Signé]</foreign> G. Rippe »</quote> f. 136v)</p>
+                  <p>Copié par <persName role="copiste">Guillaume Rippe</persName> (<quote>« Explicit Therence en françois au Mans le XXVIIIme jour de may l’an mil CCCC soixante six par les mains de maistre Guillaume Rippe, notaire et secretaire du roy nostre sire, auquel il appartient. <foreign>[Signé]</foreign> G. Rippe »</quote> f. 136v)</p>
                 </handDesc>
               </physDesc>
               <history>
@@ -318,11 +318,11 @@
         </div>
       </div>
       <div type="traduction" xml:id="sibille">
-        <head>Traduction en vers attribuée à <persName type="traducteur">Gilles Sibille</persName></head>
+        <head>Traduction en vers attribuée à <persName role="traducteur">Gilles Sibille</persName></head>
         <dateline>
           <date notBefore="1401" notAfter="1450">première moitié du XV<hi rend="sup">e</hi> siècle</date>
         </dateline>
-        <p>Traduction en vers exécutée dans les dernières années du XV<hi rend="sup">e</hi> siècle, probablement par <persName type="traducteur">Gilles Sibille</persName>. Cette traduction, qui s’éloigne très souvent et délibérément du texte, est versifiée à la manière des mystères. <title>L’Andrienne</title> est hétérométrique, les autres comédies sont en octosyllabes.</p>
+        <p>Traduction en vers exécutée dans les dernières années du XV<hi rend="sup">e</hi> siècle, probablement par <persName role="traducteur">Gilles Sibille</persName>. Cette traduction, qui s’éloigne très souvent et délibérément du texte, est versifiée à la manière des mystères. <title>L’Andrienne</title> est hétérométrique, les autres comédies sont en octosyllabes.</p>
         <listBibl>
           <bibl>H. W. Lawton, <title>Térence en France au XVI<hi rend="sup">e</hi> siècle</title>, Paris, 1926, p. 350-425, part. 391-425</bibl>
           <bibl>L. Evdokimova, « La traduction en vers des comédies de Térence dans l’édition d’Antoine Vérard : le choix du style et du destinataire », dans M. Colombo Timelli et C. Galderisi (éd.), <title>Pour acquerir honneur et pris : Mélanges de moyen français offerts à Giuseppe Di Stefano</title>, Montréal, 2004, p. 111-121</bibl>

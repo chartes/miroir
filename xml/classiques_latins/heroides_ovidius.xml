@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="heroides_ovidius" xml:lang="fr">
@@ -472,13 +472,13 @@
         </div>
         <div type="deperdita">
           <head>Manuscrit perdu ou non identifié</head>
-          <p>Inventaire de la bibliothèque de <persName type="possesseur" key="Gabrielle de la Tour d’Auvergne, comtesse de Montpensier">Gabrielle de la Tour</persName>, comtesse de Montpensier <date when="1474">1474</date> = inventaire de <date when="1507">1507</date>, n° 190 = Chazaud 63, p. 220</p>
+          <p>Inventaire de la bibliothèque de <persName role="possesseur" key="Gabrielle de la Tour d’Auvergne, comtesse de Montpensier">Gabrielle de la Tour</persName>, comtesse de Montpensier <date when="1474">1474</date> = inventaire de <date when="1507">1507</date>, n° 190 = Chazaud 63, p. 220</p>
         </div>
       </div>
       <div type="traduction">
         <head>Traduction d’Octovien de Saint-Gelais</head>
         <dateline><date notBefore="1490" notAfter="1493">1490-1493</date></dateline>
-        <p><persName type="traducteur">Octovien de Saint-Gelais</persName> traduisit pour Charles VIII entre 1490 et 1493 les 21 <title>Heroides</title> d’Ovide en décasyllabes à rimes plates. Ne comportant ni additions ni suppressions importantes, cette traduction connut une ample diffusion, attestée par les 13 manuscrits complets qui nous sont parvenus. Très vite, l’imprimerie s’empara du texte dont elle produisit de nombreuses rééditions pendant la première moitié du XVI<hi rend="sup">e</hi> siècle.</p>
+        <p><persName role="traducteur">Octovien de Saint-Gelais</persName> traduisit pour Charles VIII entre 1490 et 1493 les 21 <title>Heroides</title> d’Ovide en décasyllabes à rimes plates. Ne comportant ni additions ni suppressions importantes, cette traduction connut une ample diffusion, attestée par les 13 manuscrits complets qui nous sont parvenus. Très vite, l’imprimerie s’empara du texte dont elle produisit de nombreuses rééditions pendant la première moitié du XVI<hi rend="sup">e</hi> siècle.</p>
         <listBibl>
           <bibl>P. Durrieu et J. J. Marguet de Vasselot, « Les manuscrits à miniatures des Héroïdes d’Ovide traduites par Saint-Gelais et un grand miniaturiste français du XVI<hi rend="sup">e</hi> siècle », dans <title>L’Artiste</title>, mai-juin 1894, p. 331-347, 433-453.</bibl>
           <bibl>T. Brückner, « Octovien de Saint-Gelais’ Ovide-Übersetzung : Der Pariser Codex fr. 874 (B.N.) », dans <title>Wolfenbütteler Renaissance Mitteilungen</title>, t. 13, 1989, p. 93-101.</bibl>
@@ -942,7 +942,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1481" notAfter="1505">dernières années du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 3686, f. 1 [1489], <title>Mss datés</title>, t. I, pl. 146)</origin>
-                <provenance>possesseur : par deux fois, mention « <persName type="possesseur" key="Michel Commain">Michel Commain</persName> » suivi d’un paraphe (fin XV<hi rend="sup">e</hi> s. ou début du XVI<hi rend="sup">e</hi> s.) f. 189 (= 1<hi rend="sup">r</hi> f. de garde de fin)</provenance>
+                <provenance>possesseur : par deux fois, mention « <persName role="possesseur" key="Michel Commain">Michel Commain</persName> » suivi d’un paraphe (fin XV<hi rend="sup">e</hi> s. ou début du XVI<hi rend="sup">e</hi> s.) f. 189 (= 1<hi rend="sup">r</hi> f. de garde de fin)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -970,7 +970,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1490" notAfter="1503">1490-1503</origin>
-                <provenance>possesseur : copié pour <persName type="possesseur" key="Jean de Chabannes, comte de Dammartin">Jean de Chabannes</persName>, comte de Dammartin († 1503) qui épousa en secondes noces (ca 1491) <persName type="possesseur" key="Suzanne de Bourbon-Roussillon">Suzanne de Bourbon-Roussillon</persName> (armes de Chabannes, Dammartin, Chatillon, f. 3v, 6v, 59, 64, écartelées aux armes de Bourbon aux f. 103, 161)</provenance>
+                <provenance>possesseur : copié pour <persName role="possesseur" key="Jean de Chabannes, comte de Dammartin">Jean de Chabannes</persName>, comte de Dammartin († 1503) qui épousa en secondes noces (ca 1491) <persName role="possesseur" key="Suzanne de Bourbon-Roussillon">Suzanne de Bourbon-Roussillon</persName> (armes de Chabannes, Dammartin, Chatillon, f. 3v, 6v, 59, 64, écartelées aux armes de Bourbon aux f. 103, 161)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -998,7 +998,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1494" notAfter="1500">Vers 1497 (proche du ms Chantilly, Musée Condé, 74, f. 27v [après 1483], <title>Mss datés</title>, t. I, pl. 141)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Louis XII">Louis XII</persName></provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Louis XII">Louis XII</persName></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1118,7 +1118,7 @@
                   <p>197 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 42 miniatures à pleine page, attribuables à l’<orgName type="illustrateur">atelier de Jean Pichore</orgName> (5)</p>
+                  <p>Illustration : 42 miniatures à pleine page, attribuables à l’<orgName role="illustrateur">atelier de Jean Pichore</orgName> (5)</p>
                 </decoDesc>
               </physDesc>
               <history>
@@ -1150,12 +1150,12 @@
                   <p>137 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 20 miniatures des 4/5e de la justification en tête de chaque épître par <persName type="illustrateur">Robinet Testard</persName> (Cognac)</p>
+                  <p>Illustration : 20 miniatures des 4/5e de la justification en tête de chaque épître par <persName role="illustrateur">Robinet Testard</persName> (Cognac)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1490" notAfter="1500">1490-1500 (proche du ms Chantilly, Musée Condé, 74, f. 27v [après 1483], <title>Mss datés</title>, t. I, pl. 141)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Louise de Savoie">Louise de Savoie</persName></provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Louise de Savoie">Louise de Savoie</persName></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1186,7 +1186,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1520">Fin XV<hi rend="sup">e</hi> s. ou début XVI<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 3150, f. 9v [avant 1502], <title>Mss datés</title>, t. I, p. 153)</origin>
-                <provenance>possesseur : manuscrit de dédicace à l’intention de <persName type="possesseur" key="Charles VIII">Charles VIII</persName> (1)</provenance>
+                <provenance>possesseur : manuscrit de dédicace à l’intention de <persName role="possesseur" key="Charles VIII">Charles VIII</persName> (1)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1242,7 +1242,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1520">Fin du XV<hi rend="sup">e</hi> s. ou début du XVI<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 3686, f. 1 [1489], <title>Mss datés</title>, t. I, pl. 146)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Armagnac, sénéchale d'">sénéchale d’Armagnac</persName> (f. 112v <quote>« Les espitres Ovide, pour madame la senechalle d’Armygnac »</quote>)</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Armagnac, sénéchale d'">sénéchale d’Armagnac</persName> (f. 112v <quote>« Les espitres Ovide, pour madame la senechalle d’Armygnac »</quote>)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1270,7 +1270,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1485" notAfter="1505">ca 1490-1500 (proche du ms Paris, Bibl. nat. de Fr., lat. 6202, f. 7 [1502], t. II, pl. 174)</origin>
-                <provenance>possesseurs : <orgName type="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor</orgName> après 1514 [absent du répertoire de Claude de Grandrue] ; f. garde fin gratté : « Seullement mors ligiers... »</provenance>
+                <provenance>possesseurs : <orgName role="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor</orgName> après 1514 [absent du répertoire de Claude de Grandrue] ; f. garde fin gratté : « Seullement mors ligiers... »</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1326,7 +1326,7 @@
                   <p>135 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 15 miniatures en tête des épîtres, peintes par <persName type="illustrateur">Jean Pichore</persName> et son atelier (1) (manquent les miniatures des épîtres 12, 13, 14, 15, 19 et 20)</p>
+                  <p>Illustration : 15 miniatures en tête des épîtres, peintes par <persName role="illustrateur">Jean Pichore</persName> et son atelier (1) (manquent les miniatures des épîtres 12, 13, 14, 15, 19 et 20)</p>
                 </decoDesc>
               </physDesc>
               <history>
@@ -1355,12 +1355,12 @@
                   <p>131 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 21 miniatures des 3/4 de la justification attribuées à <persName type="illustrateur">Robinet Testard</persName> (d’après Nicole Reynaud remerciée dans (1))</p>
+                  <p>Illustration : 21 miniatures des 3/4 de la justification attribuées à <persName role="illustrateur">Robinet Testard</persName> (d’après Nicole Reynaud remerciée dans (1))</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1490" notAfter="1510">Vers 1500 (proche du ms Paris, Bibl. nat. de Fr., lat. 902, f. 101v [1502], <title>Mss datés</title>, t. II, pl. 173)</origin>
-                <provenance>possesseur : passe pour avoir été offert à <persName type="possesseur" key="Louis XII">Louis XII</persName> (1)</provenance>
+                <provenance>possesseur : passe pour avoir été offert à <persName role="possesseur" key="Louis XII">Louis XII</persName> (1)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1382,12 +1382,12 @@
                   <p>139 f. parchemin</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 22 miniatures (1 frontispice et une miniature en tête de chaque épître) de l’<orgName type="illustrateur">école de Rouen</orgName> (1), exécutées par <persName type="illustrateur">Jean Pichore</persName> (2)</p>
+                  <p>Illustration : 22 miniatures (1 frontispice et une miniature en tête de chaque épître) de l’<orgName role="illustrateur">école de Rouen</orgName> (1), exécutées par <persName role="illustrateur">Jean Pichore</persName> (2)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1495" notAfter="1520">Début du XVI<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseurs : membre de la famille des Coligny : sans doute <persName type="possesseur" key="Gaspard I de Coligny">Gaspard I de Coligny</persName> (mort en 1522) (armes f. 1) ; <quote>« <persName type="possesseur" key="Antoine Duprat">Anthoine Duprat</persName>, cinquiesme du nom et quatriesme seigneur de Nantoillet »</quote> (f. 139)</provenance>
+                <provenance>possesseurs : membre de la famille des Coligny : sans doute <persName role="possesseur" key="Gaspard I de Coligny">Gaspard I de Coligny</persName> (mort en 1522) (armes f. 1) ; <quote>« <persName role="possesseur" key="Antoine Duprat">Anthoine Duprat</persName>, cinquiesme du nom et quatriesme seigneur de Nantoillet »</quote> (f. 139)</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1443,7 +1443,7 @@
                 <p>traduction des <title>Heroides</title> d’Ovide par Octovien de Saint-Gelais.</p>
               </msContents>
               <history>
-                <provenance>Manuscrit ayant probablement appartenu à <persName type="possesseur" key="Anne de Bretagne">Anne de Bretagne</persName> ; vendu avec la « Hoe collection » en 1911, puis en 1988 par Martin Breslauer</provenance>
+                <provenance>Manuscrit ayant probablement appartenu à <persName role="possesseur" key="Anne de Bretagne">Anne de Bretagne</persName> ; vendu avec la « Hoe collection » en 1911, puis en 1988 par Martin Breslauer</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1476,7 +1476,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1525" notAfter="1545">Vers 1530-1540 (1)</origin>
-                <provenance>possesseur : <persName type="possesseur" key="Antoine le Bon, duc de Lorraine">Antoine le Bon</persName>, duc de Lorraine († 1544) ou sa fille <persName type="possesseur" key="Anne de Lorraine">Anne de Lorraine</persName> (monogramme, f. 1) (proposés par 1 sans certitude). Manuscrit perdu lors de la seconde guerre mondiale</provenance>
+                <provenance>possesseur : <persName role="possesseur" key="Antoine le Bon, duc de Lorraine">Antoine le Bon</persName>, duc de Lorraine († 1544) ou sa fille <persName role="possesseur" key="Anne de Lorraine">Anne de Lorraine</persName> (monogramme, f. 1) (proposés par 1 sans certitude). Manuscrit perdu lors de la seconde guerre mondiale</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1649,7 +1649,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime20_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveus et corrigés oultre les precedentes impressions</title>, [<title type="ancien">S’ensuivent quatre epistres d’Ovide nouvellement faictes et composees oultre les premieres, par maistre André de la Vigne</title>], Paris, <publisher>Arnoul Langelier</publisher> et <publisher>Charles Langelier</publisher>, <date when="1538">1538</date>, 8°. Prologue, 21 épîtres traduites par Octovien de Saint-Gelais suivies de la table, texte latin en manchette f. 2-155 ; traduction de 4 <title>Héroïdes</title> par <persName type="traducteur">André de La Vigne</persName>. Suit l’édition <publisher>Guillaume de Bossozel</publisher> de 1534. Brunet mentionne à la même date une édition sans nom ni lieu et le supplément du <title>Manuel du libraire et de l'amateur de livres</title> une édition de <publisher>Galliot Du Pré</publisher>, qui pourraient être des éditions partagées.
+            <bibl xml:id="imprime20_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveus et corrigés oultre les precedentes impressions</title>, [<title type="ancien">S’ensuivent quatre epistres d’Ovide nouvellement faictes et composees oultre les premieres, par maistre André de la Vigne</title>], Paris, <publisher>Arnoul Langelier</publisher> et <publisher>Charles Langelier</publisher>, <date when="1538">1538</date>, 8°. Prologue, 21 épîtres traduites par Octovien de Saint-Gelais suivies de la table, texte latin en manchette f. 2-155 ; traduction de 4 <title>Héroïdes</title> par <persName role="traducteur">André de La Vigne</persName>. Suit l’édition <publisher>Guillaume de Bossozel</publisher> de 1534. Brunet mentionne à la même date une édition sans nom ni lieu et le supplément du <title>Manuel du libraire et de l'amateur de livres</title> une édition de <publisher>Galliot Du Pré</publisher>, qui pourraient être des éditions partagées.
               <note place="inline">
                 <p>Exemplaire à consulter : Paris, bibl. Mazarine, 21075 A Rés.</p>
                 <listBibl>
@@ -1666,7 +1666,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime22_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveues &amp; corrigees oultre les precedentes impressions. M.D.XLI. On les vend a Paris en la rue neufve Nostre Dame a l’enseigne sainct Iehan Baptiste pres sainct Geneviefve des Ardens par Denys Janot imprimeur</title>, Paris, <publisher>Denis Janot</publisher>, <date when="1541">1541</date>, in-16, 184 f. : traduction des <title>Heroides</title> par Octovien de Saint-Gelais ; traduction de 4 <title>Heroides</title> par <persName type="traducteur">André de La Vigne</persName> [titre : <title type="ancien">S’ensuyvent quatre epistres d’Ovide</title> f. v8].
+            <bibl xml:id="imprime22_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveues &amp; corrigees oultre les precedentes impressions. M.D.XLI. On les vend a Paris en la rue neufve Nostre Dame a l’enseigne sainct Iehan Baptiste pres sainct Geneviefve des Ardens par Denys Janot imprimeur</title>, Paris, <publisher>Denis Janot</publisher>, <date when="1541">1541</date>, in-16, 184 f. : traduction des <title>Heroides</title> par Octovien de Saint-Gelais ; traduction de 4 <title>Heroides</title> par <persName role="traducteur">André de La Vigne</persName> [titre : <title type="ancien">S’ensuyvent quatre epistres d’Ovide</title> f. v8].
               <note place="inline">
                 <listBibl>
                   <bibl>S. P. J. Rawles, <title>Denis Janot, Parisian printer &amp; bookseller (fl 1529-1544) : A bibliographical study</title>, PHD, University of Warwick, 1976, t. II, p. 156-157.</bibl>
@@ -1929,7 +1929,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime42_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveus et corrigés oultre les precedentes impressions</title>, [<title type="ancien">S’ensuivent quatre epistres d’Ovide nouvellement faictes et composees oultre les premieres, par maistre André de la Vigne</title>], Paris, <publisher>Arnoul Langelier</publisher> et <publisher>Charles Langelier</publisher>, <date when="1538">1538</date>, 8°. Prologue, 21 épîtres traduites par Octovien de Saint-Gelais suivies de la table, texte latin en manchette f. 2-155 ; traduction de 4 <title>Héroïdes</title> par <persName type="traducteur">André de La Vigne</persName>. Suit l’édition <publisher>Guillaume de Bossozel</publisher> de 1534. Brunet mentionne à la même date une édition sans nom ni lieu et le supplément du <title>Manuel du libraire et de l'amateur de livres</title> une édition de <publisher>Galliot Du Pré</publisher>, qui pourraient être des éditions partagées.
+            <bibl xml:id="imprime42_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveus et corrigés oultre les precedentes impressions</title>, [<title type="ancien">S’ensuivent quatre epistres d’Ovide nouvellement faictes et composees oultre les premieres, par maistre André de la Vigne</title>], Paris, <publisher>Arnoul Langelier</publisher> et <publisher>Charles Langelier</publisher>, <date when="1538">1538</date>, 8°. Prologue, 21 épîtres traduites par Octovien de Saint-Gelais suivies de la table, texte latin en manchette f. 2-155 ; traduction de 4 <title>Héroïdes</title> par <persName role="traducteur">André de La Vigne</persName>. Suit l’édition <publisher>Guillaume de Bossozel</publisher> de 1534. Brunet mentionne à la même date une édition sans nom ni lieu et le supplément du <title>Manuel du libraire et de l'amateur de livres</title> une édition de <publisher>Galliot Du Pré</publisher>, qui pourraient être des éditions partagées.
               <note place="inline">Exemplaire à consulter : Paris, bibl. Mazarine, 21075 A Rés
                 <listBibl>
                   <bibl>J. Renouard, <title>L’officine des Langelier, libraires parisiens, 1536-1562, Bibliographie de leurs éditions</title>, mémoire présenté en 1916 [déposé à la Réserve de la Bibl. nat. de Fr.], p. 188-189 [notice].</bibl>
@@ -1937,7 +1937,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime43_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveues &amp; corrigees oultre les precedentes impressions. M.D.XLI. On les vend a Paris en la rue neufve Nostre Dame a l’enseigne sainct Iehan Baptiste pres sainct Geneviefve des Ardens par Denys Janot imprimeur</title>, Paris, <publisher>Denis Janot</publisher>, <date when="1541">1541</date>, in-16, 184 f. : traduction des <title>Heroides</title> par Octovien de Saint-Gelais ; traduction de 4 <title>Heroides</title> par <persName type="traducteur">André de La Vigne</persName> [titre : <title type="ancien">S’ensuyvent quatre epistres d’Ovide</title> f. v8].
+            <bibl xml:id="imprime43_heroides"><title type="ancien">Les XXI epistres d’Ovide translatees de latin en françoys, par reverend pere en Dieu monseigneur l’evesque d’Angoulesme. Nouvellement reveues &amp; corrigees oultre les precedentes impressions. M.D.XLI. On les vend a Paris en la rue neufve Nostre Dame a l’enseigne sainct Iehan Baptiste pres sainct Geneviefve des Ardens par Denys Janot imprimeur</title>, Paris, <publisher>Denis Janot</publisher>, <date when="1541">1541</date>, in-16, 184 f. : traduction des <title>Heroides</title> par Octovien de Saint-Gelais ; traduction de 4 <title>Heroides</title> par <persName role="traducteur">André de La Vigne</persName> [titre : <title type="ancien">S’ensuyvent quatre epistres d’Ovide</title> f. v8].
               <note place="inline">Exemplaires : Munich, A.lat.a 1140 ; Vienne *35.L.90
                 <listBibl>
                   <bibl>S. P. J. Rawles, <title>Denis Janot, Parisian printer &amp; bookseller (fl 1529-1544) : A bibliographical study</title>, PHD, University of Warwick, 1976, t. II, p. 156-157.</bibl>

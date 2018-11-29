@@ -64,7 +64,7 @@
         <p>L’activité législative de Justinien n’a pas cessé avec la seconde édition du <title>Code</title> (534). Jusqu’à sa mort en 565, Justinien promulgua de nouvelles constitutions, des <title xml:lang="lat">Novellae</title> (<title>Novelles</title> en français), visant à compléter, voire à corriger les solutions apportées par le droit classique rapportées par le <title>Digeste</title> et les constitutions du <title>Codex</title>. Justinien prenait ainsi acte des mutations du droit et de la société.</p>
         <p>Concernant pour la plupart les régions orientales de l’empire, les <title xml:lang="lat">Novellae</title> ont généralement été rédigées en grec, même si quelques-unes l’ont été en latin ou ont connu une double rédaction. C’est sans doute suite à l’application du droit de l’empire à l’Italie reprise aux Goths (554) que des collections de <title xml:lang="lat">Novellae</title> furent confectionnées. Justinien avait en effet déclaré que les constitutions impériales promulguées depuis la seconde édition du <title>Code</title> devaient s’appliquer.</p>
         <p>Les <title xml:lang="lat">Novellae</title> nous sont parvenues dans trois compilations privées :
-          <list rend="bulleted">
+          <list rend="circle">
             <item>la plus ancienne est une compilation grecque de 168 novelles, appelée <title>collezione marciana</title>. Compilée sous le règne de Tibère II (578-582), elle compte 158 novelles de Justinien complétées de constitutions de Julien II et de Tibère II. Elle ne circula longtemps qu’en Orient avant d’être redécouverte en Occident au 15<hi rend="sup">e</hi> s.</item>
             <item>l’<title>Epitome Juliani</title>, ainsi nommé d’après le nom d’un professeur de droit de Constantinople, transmet 124 novelles sous forme abrégée et en latin. La date des constitutions (entre 535 à 555) suggère que la collection a été composée directement suite à la demande du pape Vigile à Justinien de rétablir le droit romain en Italie. L’Eglise utilisa cette collection pendant plusieurs siècles et les glossateurs la connurent, avant qu’elle ne devienne totalement obsolète au 14<hi rend="sup">e</hi> siècle. Si Irnerius et les premières écoles de droit dédaignèrent ce texte manifestement éloigné de l’original, on en trouve une cinquantaine de référence dans la glose ordinaire.</item>
             <item>Au 12<hi rend="sup">e</hi> s. l’<title>Epitome Juliani</title> perdit donc son statut d’édition de référence des <title>Novelles</title> au profit de la version latine plus complète connue sous le nom d’<title xml:lang="lat">Authenticum</title> (ou de <title xml:lang="lat">Liber authenticorum</title>), qui fit surface à Bologne vers 1100. Cette collection de 134 novelles promulguées entre 535 et 556 a reçu ce nom des glossateurs bolonais qui croyaient qu’il s’agissait d’une traduction officielle ou authentique ordonnée par Justinien. On s’accorde généralement à dater cette compilation du milieu du 6<hi rend="sup">e</hi> s. S’y trouvent les versions originales latines des quelques constitutions publiées originellement en latin, la version latine des constitutions ayant connu une double rédaction et la traduction latine des novelles grecques. L’<title>Authentique</title> s’est formé sur une compilation analogue mais pas tout à fait identique à celle des 168 novelles. Les novelles suivant 124 semblent avoir constitué une sorte d’appendice ajouté plus tard et ne répondant pas à un ordre précis, alors que les constitutions précédentes obéissent à un ordre alphabétique.</item>
@@ -377,10 +377,10 @@
                     </altIdentifier>
                   </msIdentifier>
                   <msContents>
-                    <summary>Traductions <lang xml:lang="fro" n="lang_arrivée">françaises</lang> anonymes des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" n="Justinien">Justinien</persName> (f. 1-141) et de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 141v-309).</summary>
+                    <summary>Traductions <lang xml:lang="fro" n="lang_arrivee">françaises</lang> anonymes des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> (f. 1-141) et de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 141v-309).</summary>
                     <msItem n="institutiones" xml:id="kbr_10467_institutiones">
                       <locus from="1" to="141"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> (titres anciens :
                         <title type="ancien">Cy comance Institute</title> f. 1 ;
                         <title type="ancien">Ysy est le lyvre des Ynstetytus Justetynyen l‘empereur augeuste</title> f. de garde v) (éd. Olivier-Martin, sigle L)</title>
@@ -923,7 +923,7 @@
                     </msItem>
                     <msItem n="authenticum" xml:id="kbr_10467_authenticum">
                       <locus from="141v" to="309"/>
-                      <title type="partie" xml:lang="fr">état traductif 3 modernisé de la traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (sigle L)</title>
+                      <title type="partie" xml:lang="fr">état traductif 3 modernisé de la traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (sigle L)</title>
                       <incipit xml:lang="fro">L’empereur Justinien escript a Jehan le prevost ou nom <expan>n<ex>ost</ex>re</expan> <expan>seign<ex>eu</ex>r</expan> <expan>Jh<ex>es</ex>ucrist</expan>. Ce tiltre est des heritages et de la loy qui retaille les lays. C’est la <expan>p<ex>re</ex>m<ex>ier</ex>e</expan> constitucion se les hoirs ne puevent payer les lays.<lb/><foreign xml:lang="lat" rend="u">Occupatis</foreign><lb/><supplied resp="#FD">L’</supplied>empereur Justinien dit : Pource que nous sommes enbesongné des cures de la chose <expan>co<ex>m</ex>mune</expan> et ne voulons penser a nulle petite chose...</incipit>
                       <explicit xml:lang="fro">...ne par personne de chevalerie ou d’autre dignité.</explicit>
                       <msItem>
@@ -1421,10 +1421,10 @@
                     <msName type="sigle" resp="olivier-martin">O</msName><!-- d’après l’éd. Olivier-Martin, p. xxx-xxxi -->
                   </msIdentifier>
                   <msContents>
-                    <summary>traductions <lang xml:lang="fro" n="lang_arrivée">françaises</lang> anonymes de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 6a-133b) et des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title> (f. 133b-184c) ; table des rubriques des traductions des <title corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" type="oeuvre">Institutes</title>, <title>Authentiques</title> et <title xml:lang="lat">Tres libri</title> (f. 185a-189d)</summary>
+                    <summary>traductions <lang xml:lang="fro" n="lang_arrivee">françaises</lang> anonymes de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (f. 6a-133b) et des <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title> (f. 133b-184c) ; table des rubriques des traductions des <title corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" type="oeuvre">Institutes</title>, <title>Authentiques</title> et <title xml:lang="lat">Tres libri</title> (f. 185a-189d)</summary>
                     <msItem n="authenticum" xml:id="bl_royal20_authenticum">
                       <locus from="6a" to="133b"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> composée de la juxtaposition de plusieurs états traductifs, voire de plusieurs traductions : premier état traductif (Auth. 86, peut-être également Auth. 11 et 66, f. 131c-133b) ; deuxième état traductif (Auth. 83.12-132) ; troisième état traductif (Auth. 1-17, 47-83.11). Les Auth. 34-36 voire 41 pourraient être tirées d’une traduction indépendante (titres anciens : <title type="ancien">livres des noviaus establissemenz a l’empereeur Justinian qui est apelez Autentiques</title> f. 6a ; <title type="ancien">les Autentiques a l’empereur Justinian en françois</title> f. 133b) (sigle O, d’après l’éd. Olivier-Martin, p. xxx-xxxi)</title>
                       <msItem xml:id="bl_royal20_authenticum_collection1">
                         <locus from="6a" to="15b"/>
@@ -1746,8 +1746,7 @@
                         <msItem>
                           <locus from="79a"/>
                           <title type="sub">[Auth. 84, Nov. 83]</title>
-                          <incipit><seg type="rubric">Cist tytres est que li clerc
-                            <supplied resp="#FD"><quote>clerc</quote> ajouté dans l’interligne supérieur en noir par une autre main</supplied> soient <expan>p<ex>re</ex>miereme<ex>n</ex>t</expan> tret en cause par devant leur <expan>esvesq<ex>ue</ex>s</expan> <expan><ex>et</ex></expan> puis par devant les juges citeains</seg></incipit>
+                          <incipit><seg type="rubric">Cist tytres est que li clerc<note><quote>clerc</quote> ajouté dans l’interligne supérieur en noir par une autre main</note> soient <expan>p<ex>re</ex>miereme<ex>n</ex>t</expan> tret en cause par devant leur <expan>esvesq<ex>ue</ex>s</expan> <expan><ex>et</ex></expan> puis par devant les juges citeains</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="79c"/>
@@ -1994,7 +1993,7 @@
                     </msItem>
                     <msItem n="tres_libri" xml:id="bl_royal20_treslibri">
                       <locus from="133b" to="184c"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> des
                         <title xml:lang="lat">Tres libri</title> (sigle O)</title>
                       <msItem xml:id="bl_royal20_treslibri_livre10">
@@ -2441,8 +2440,8 @@
                         <msItem>
                           <title type="sub">[C. 11.13]</title>
                           <title xml:lang="lat" resp="#FD">De classicis</title>
-                          <note>Rubrique et texte manquent.</note>
                           <incipit/>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="155a"/>
@@ -2476,7 +2475,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.20]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De honoratorum vehiculis</title> ; rubriques et textes manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De honoratorum vehiculis</title>
+                          <note type="msItem">Rubriques et textes manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="155d"/>
@@ -2605,7 +2605,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.46]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De maiuma</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De maiuma</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="159c"/>
@@ -2619,7 +2620,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.49]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De capitatione civium censibus eximenda</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De capitatione civium censibus eximenda</title>
+                          <note>Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="162a"/>
@@ -2653,7 +2655,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.56]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Non licere metrocomiae habitatoribus loca sua ad extraneum transferre</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Non licere metrocomiae habitatoribus loca sua ad extraneum transferre</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="162d"/>
@@ -2894,7 +2897,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.24]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De stratoribus</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De stratoribus</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="176c"/>
@@ -2930,12 +2934,13 @@
                         <msItem>
                           <locus from="178a"/>
                           <title type="sub">[C. 12.31]</title>
-                          <title xml:lang="lat">De equestri dignitate</title>
+                          <title xml:lang="lat" resp="#FD">De equestri dignitate</title>
                           <incipit><seg type="rubric"><expan>C<ex>ist</ex></expan> <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> del chatel <expan>q<ex>ue</ex></expan> li <expan>palazi<ex>n</ex></expan> <expan>aq<ex>ui</ex>erent</expan> <expan>p<ex>ar</ex></expan> <expan>ch<ex>evaler</ex>ie</expan></seg></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.32]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De perfectissimatus dignitate</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De perfectissimatus dignitate</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="178a"/>
@@ -3014,21 +3019,25 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.48]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De oblatione votorum</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De oblatione votorum</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="182a"/>
                           <title type="sub">[C. 12.49]</title>
-                          <incipit><seg type="rubric">Cist tytres est des <expan><ex>con</ex>teeurs</expan> <expan><ex>et</ex></expan> des notaires del siege l’<expan>e<ex>m</ex>p<ex>er</ex>eeur</expan> <expan><ex>et</ex></expan> de cex as autres juges</seg><supplied resp="#FD">omet C. 12.49.1</supplied></incipit>
+                          <incipit><seg type="rubric">Cist tytres est des <expan><ex>con</ex>teeurs</expan> <expan><ex>et</ex></expan> des notaires del siege l’<expan>e<ex>m</ex>p<ex>er</ex>eeur</expan> <expan><ex>et</ex></expan> de cex as autres juges</seg><note>Omet C. 12.49.1</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="182b"/>
                           <title type="sub">[C. 12.50]</title>
-                          <incipit><seg type="rubric">Cist <expan>t<ex>ytres</ex></expan> est del <expan><ex>com</ex>mun</expan> cors <expan><ex>et</ex></expan> des servises</seg><supplied resp="#FD">s’achève à la fin de C. 12.50.21.<seg type="explicit">... ne sainte iglise ne meson real n’ait <expan>exccusacio<ex>n</ex></expan> de servises en tens de guerre.</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Cist <expan>t<ex>ytres</ex></expan> est del <expan><ex>com</ex>mun</expan> cors <expan><ex>et</ex></expan> des servises</seg></incipit>
+                          <explicit>... ne sainte iglise ne meson real n’ait <expan>exccusacio<ex>n</ex></expan> de servises en tens de guerre.</explicit>
+                          <note type="msItem">S’achève à la fin de C. 12.50.21.</note>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.51]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De tractoriis et stativis</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De tractoriis et stativis</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="182c"/>
@@ -3083,7 +3092,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.62]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De primipilo</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De primipilo</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="184c"/>
@@ -3097,7 +3107,7 @@
                       <title type="partie" xml:lang="fr">table des rubriques du manuscrit : <title>Institutes</title>,
                         <title>Authentiques</title> et <title xml:lang="lat">Tres libri</title></title>
                       <incipit xml:lang="fro">En non de <expan>n<ex>ost</ex>re</expan> seignor <expan>Jh<ex>es</ex>ucrist</expan> ci <expan><ex>com</ex>m<ex>en</ex>ce</expan> les institutes a l’<expan>emp<ex>er</ex>eor</expan> <expan>Justinia<ex>n</ex></expan>. Li <expan>emp<ex>er</ex>eres</expan> Cesar Flavius Justinians <expan><ex>et</ex></expan> toz jorz augustus dist.</incipit>
-                      <note>La table forme une unité codicologique distincte du corps du texte et commence par les titres des
+                      <note type="msItem">La table forme une unité codicologique distincte du corps du texte et commence par les titres des
                         <title>Institutes</title> aujourd’hui disparus du manuscrit. Elle est copiée d’une main plus cursive et plus récente que les traductions (écriture très proche du ms Paris, bibl. Sainte-Geneviève 2387, f. 23v [1335] ;
                         <bibl><title>Mss datés</title>, t. I, pl. XLII</bibl>), qui a également procédé à une numérotation marginale des titres en chiffres arabes le long du manuscrit.</note>
                     </msItem>
@@ -3123,7 +3133,7 @@
                       <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> du manuscrit, où l’on retrouve quelques traits de l’est et de l’ouest à l’aréologie très vaste, est celle qui s’est exportée depuis l’Ile-de-France à la fin du Moyen Age.</p>
                       <p><label>Copie</label>un changement de copiste a sans doute été prévu au f. 133 (nouveau cahier), à l’extrême fin de la traduction des <title>Authentiques</title>, mais l’essai du nouveau copiste n’a pas été concluant, car il accumule les fautes. Le feuillet a été cancellé et utilisé comme f. de garde (f. 190), tandis que le copiste 1 a poursuivi la copie du modèle.</p>
                       <p><label>Corrections</label><foreign xml:lang="lat">passim</foreign>, notamment au moment de la copie, par exponctuation et ajouts marginaux (ex. f. 10, 29, 35v, 72v, 83v, 86, 96, 97,103, 106v, 164).</p>
-                      <p><label>Traces de lecture</label>plusieurs strates de lecteurs de superposent : <list rend="bulleted">
+                      <p><label>Traces de lecture</label>plusieurs strates de lecteurs de superposent : <list rend="circle">
                         <item>Ajout des incipit latin des constitutions pour les
                           <title>Authentiques</title> et de chaque loi pour les <title xml:lang="lat">Tres libri</title> dans une
                           <term xml:lang="lat" cRef="URI_terme_thesaurus">littera currens</term> par une main contemporaine du ms ou de peu postérieure. Cette même main a ajouté dans la même écriture, mais à un moment différent (autre encre) des manchettes en français indiquant le contenu de paragraphes f. 6-8v, 50v-51v, 110, 111, 122-124v et a pris quelques notes f. 1v.</item>
@@ -3662,10 +3672,10 @@
                     <msName type="sigle" resp="olivier-martin">A</msName>
                   </msIdentifier>
                   <msContents>
-                    <summary><title xml:lang="lat" type="oeuvre">Parvum volumen</title> (<title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title>, <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authentiques</title> et <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title>) en <lang xml:lang="fro" n="lang_arrivée">français</lang>.</summary>
+                    <summary><title xml:lang="lat" type="oeuvre">Parvum volumen</title> (<title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title>, <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authentiques</title> et <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title>) en <lang xml:lang="fro" n="lang_arrivee">français</lang>.</summary>
                     <msItem n="institutiones" xml:id="fr_498_institutiones">
                       <locus from="1a" to="47d"/>
-                      <title xml:lang="fr" type="partie">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title xml:lang="fr" type="partie">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" xml:lang="fr" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutiones</title> (aucun titre ancien) (éd. Olivier-Martin, sigle A)</title>
                       <msItem xml:id="fr_498_institutiones_livre1">
                         <locus from="1a" to="9b"/>
@@ -3751,7 +3761,8 @@
                           <locus from="6c"/>
                           <title type="sub">[Inst. 1.15]</title>
                           <title xml:lang="lat" resp="#FD">De legitima adgnatorum tutela</title>
-                          <incipit><seg type="rubric">De la garde qui est bailliee</seg><supplied resp="#FD"></supplied></incipit>
+                          <incipit><seg type="rubric">De la garde qui est bailliee</seg></incipit>
+                          <!-- <supplied resp="#FD"></supplied> in incipit -->
                         </msItem>
                         <msItem>
                           <locus from="6c"/>
@@ -4194,14 +4205,13 @@
                     </msItem>
                     <msItem n="authenticum" xml:id="fr_498_authenticum">
                       <locus from="48a" to="171a"/>
-                      <title type="partie" xml:lang="fr">état traductif 3 de la traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (titre : <title>Autentiques</title> f. 171a) (sigle A)</title>
+                      <title type="partie" xml:lang="fr">état traductif 3 de la traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> de l’<title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title> (titre : <title>Autentiques</title> f. 171a) (sigle A)</title>
                       <incipit xml:lang="fro">L’emperere Justinien escripst a Joh. le prevost el nom nostre segnor Jhesucrist. <seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <supplied resp="#FD">ne pueent</supplied> paier les lés.</seg><lb/>Li empereres Justinien dit : Por ce que nous somes embesongnié des cures de la chose commune et ne voulon penser a nule petite chose...</incipit>
                       <explicit xml:lang="fro">Tres chier pere et tres amé ta hautece coumant donc que ce que nous avon establi par ceste loi soit mené a effet et gardé.<lb/>Ci fenissent Autentiques.</explicit>
                       <msItem>
                         <locus from="48a"/>
                         <title type="sub">[Auth. 1, Nov. 1]</title>
-                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir
-                          <supplied resp="#FD">ne pueent</supplied> paier les lés</seg></incipit>
+                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <supplied resp="#FD">ne pueent</supplied> paier les lés</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="50c"/>
@@ -4236,11 +4246,8 @@
                       <msItem>
                         <locus from="65d"/>
                         <title type="sub">[Auth. 8, Nov. 8]</title>
-                        <incipit><seg type="rubric">Cist titres est la constitucion l’empereor et a Bitisaire le visconte qui n’est point profitable</seg><supplied resp="#FD">de <q>
-                          <foreign xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</foreign>
-                        </q> à <q>
-                          <foreign xml:lang="lat">...si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</foreign>
-                        </q>.<seg type="incipit">La loi que nous avon fet novelement que nous <expan>avo<ex>n</ex></expan> escripte a nos glorieus prevos moustre <expan><ex>com</ex>ment</expan>...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist titres est la constitucion l’empereor et a Bitisaire le visconte qui n’est point profitable</seg></incipit>
+                        <note type="msItem">de <q xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</q> à <q xml:lang="lat">...si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</q>.<seg type="incipit">La loi que nous avon fet novelement que nous <expan>avo<ex>n</ex></expan> escripte a nos glorieus prevos moustre <expan><ex>com</ex>ment</expan>...</seg></note>
                       </msItem>
                       <msItem>
                         <locus from="66b"/>
@@ -4691,7 +4698,7 @@
                     </msItem>
                     <msItem n="tres_libri" xml:id="fr_498_treslibri">
                       <locus from="171a" to="232a"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> des
                         <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title> (titres anciens : <title type="ancien">Code au saint emperour Justinian</title> f. 171a ; <title type="ancien">Code</title> f. 192d, 220c ; <title type="ancien">les trois livres du Code a l’empereor Justinien</title> f. 232a) (sigle A)</title>
                       <msItem xml:id="fr_498_treslibri_livre10">
@@ -5146,7 +5153,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.13]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De classicis</title> ; rubrique et texte manquent</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De classicis</title>
+                          <note type="msItem">Rubrique et texte manquent</note>
                         </msItem>
                         <msItem>
                           <locus from="196b"/>
@@ -5181,7 +5189,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.20]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De honoratorum vehiculis</title> ; rubriques et textes manquent</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De honoratorum vehiculis</title>
+                          <note type="msItem">Rubriques et textes manquent</note>
                         </msItem>
                         <msItem>
                           <locus from="197b"/>
@@ -5312,7 +5321,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.46]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De maiuma</title> ; rubrique et texte manquent</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De maiuma</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="201b"/>
@@ -5327,8 +5337,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.49]</title>
-                          <title xml:lang="lat">De capitatione civium censibus eximenda</title>
-                          <incipit><supplied resp="#FD"> ; rubrique et texte manquent</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De capitatione civium censibus eximenda</title>
+                          <note type="msItem">Rubrique et texte manquent</note>
                         </msItem>
                         <msItem>
                           <locus from="204a"/>
@@ -5362,7 +5372,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.56]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Non licere metrocomiae habitatoribus loca sua ad extraneum transferre</title> ; manquent rubrique et texte</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Non licere metrocomiae habitatoribus loca sua ad extraneum transferre</title>
+                          <note type="msItem">Manquent rubrique et texte</note>
                         </msItem>
                         <msItem>
                           <locus from="205b"/>
@@ -5436,7 +5447,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.24]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De stratoribus</title> ; rubrique et texte manquent</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De stratoribus</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="214b"/>
@@ -5476,7 +5488,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.32]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De perfectissimatus dignitate</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De perfectissimatus dignitate</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="216a"/>
@@ -5668,7 +5681,7 @@
                         <msItem>
                           <locus from="226a"/>
                           <title type="sub">[C. 12.37]</title>
-                          <incipit><seg type="rubric">Cist titrez est de departir les annonnes as chevalliers</seg><supplied resp="#FD">manque le début du titre (C.12.37.1-5).<seg type="incipit">Li emperieres Gracie dit : « Li fort <expan>ch<ex>evalie</ex>r</expan> et cil qui nous servent devotement...</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Cist titrez est de departir les annonnes as chevalliers</seg><note>manque le début du titre (C.12.37.1-5).<seg type="incipit">Li emperieres Gracie dit : « Li fort <expan>ch<ex>evalie</ex>r</expan> et cil qui nous servent devotement...</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="226d"/>
@@ -5722,21 +5735,23 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.48]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De oblatione votorum</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De oblatione votorum</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="228d"/>
                           <title type="sub">[C. 12.49]</title>
-                          <incipit><seg type="rubric">Cist titres est des conteours et des notaires du siege l’empereour</seg><supplied resp="#FD">omet C. 12.49.1.</supplied></incipit>
+                          <incipit><seg type="rubric">Cist titres est des conteours et des notaires du siege l’empereour</seg><note>Omet C. 12.49.1.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="229b"/>
                           <title type="sub">[C. 12.50]</title>
-                          <incipit><seg type="rubric">Du coumun cours et des servises</seg><supplied resp="#FD">s’achève à la fin de C. 12.50.21.<seg type="explicit">...ne sainte yglise ne meson roial n’ait excusacion de servises en temps de guerres.</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Du coumun cours et des servises</seg><note>S’achève à la fin de C. 12.50.21.<seg type="explicit">...ne sainte yglise ne meson roial n’ait excusacion de servises en temps de guerres.</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.51]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De tractoriis et stativis</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De tractoriis et stativis</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="229c"/>
@@ -5790,7 +5805,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.62]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De primipilo</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De primipilo</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="232a"/>
@@ -5812,9 +5828,9 @@
                       </supportDesc>
                     </objectDesc>
                     <handDesc hands="3">
-                      <p><label>Ecriture</label>corps du texte en <term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis</term> par trois mains. Copiste 1 : f. 1-184v, 201-208v et 217-232v ; copiste 2 : f. 185-200v ; copiste 3 : f. 209-216v. Le copiste 1 est <persName role="copiste" n="P. François">P. François</persName> (cf. colophon <quote>Ci fenissent les trois livres du Code a l’empereour Justinien. Et furent fés l’an mil .iii. cens quarante et .ii. le samedy aprés Quasimodo par P. le François. Qui l’emblera pendu sera.</quote> f. 232a) a sans doute copié les f. 1-184v, 201-208v et 217-232v. Pour R. H. et M. A. Rouse, la collaboration du copiste avec le Maître de Maubeuge qui travailla seulement à Paris semble prouver que P. François était parisien (cf. <bibl>notice de V. Véronique de Becdelièvre et Rouse 2000, t. II, p. 107</bibl>) — rubriques d’attente en marge en <term xml:lang="lat" cRef="URI_terme_thesaurus">littera notularia</term> (f. 89, 90v, 91v, 92v, 93, 118v, 130, 132, 178, 196v, 199v...) — coefficient d’abréviation de P. François : 25,9% ; 23,9% sans
+                      <p><label>Ecriture</label>corps du texte en <term xml:lang="lat" cRef="URI_terme_thesaurus">littera textualis</term> par trois mains. Copiste 1 : f. 1-184v, 201-208v et 217-232v ; copiste 2 : f. 185-200v ; copiste 3 : f. 209-216v. Le copiste 1 est <persName role="copiste" key="P. François">P. François</persName> (cf. colophon <quote>Ci fenissent les trois livres du Code a l’empereour Justinien. Et furent fés l’an mil .iii. cens quarante et .ii. le samedy aprés Quasimodo par P. le François. Qui l’emblera pendu sera.</quote> f. 232a) a sans doute copié les f. 1-184v, 201-208v et 217-232v. Pour R. H. et M. A. Rouse, la collaboration du copiste avec le Maître de Maubeuge qui travailla seulement à Paris semble prouver que P. François était parisien (cf. <bibl>notice de V. Véronique de Becdelièvre et Rouse 2000, t. II, p. 107</bibl>) — rubriques d’attente en marge en <term xml:lang="lat" cRef="URI_terme_thesaurus">littera notularia</term> (f. 89, 90v, 91v, 92v, 93, 118v, 130, 132, 178, 196v, 199v...) — coefficient d’abréviation de P. François : 25,9% ; 23,9% sans
                         <quote>et</quote>.</p>
-                      <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> des extraits copiés par le copiste 1 est peu marquée par rapport à la scripta parisienne. On y note toutefois plusieurs traits occidendaux bien représentés, en particulier :<list rend="bulleted">
+                      <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> des extraits copiés par le copiste 1 est peu marquée par rapport à la scripta parisienne. On y note toutefois plusieurs traits occidendaux bien représentés, en particulier :<list rend="circle">
                         <item>la désinence de P4 en –<hi rend="i">on</hi> : désinence généralisée, même si la désinence en –<hi rend="i">ons</hi> est utilisée sporadiquement. Ce trait morphologique est typique des <foreign xml:lang="lat">scriptae</foreign> de l’Ouest du domaine d’oïl. Cf. <bibl>Dees 1980, c. 219</bibl> et <bibl>Dees 1987, c. 440</bibl>, qui montre que cette désinence, centrée sur le Poitou et la Saintonge, s’étend en se raréfiant jusqu’en Normandie en passant par l’Orléanais et région parisienne (cf. <bibl>Goebl, <title>LRL</title> II/2, p. 335</bibl> ; <bibl>Goebl 1970, p. 307 sqq.</bibl>)</item>
                         <item><hi rend="i">o</hi> et <hi rend="i">ou</hi>, notations graphiques du résultat de l’évolution de /o/ fermé tonique libre :
                           <quote>meillor</quote> Auth. 34.2,
@@ -5825,7 +5841,7 @@
                           <quote>lour</quote> C. 12.1.4, C. 12.1.6, C. 12.1.17, <quote>aillours</quote> C. 12.1.15,
                           <quote>menours</quote> C. 12.1.18. Trait graphique caractéristique de l’Ouest du domaine d’oïl (cf.
                           <bibl>Dees 1980, c. 16, 87</bibl> et <bibl>Dees 1987, c. 40, 123, 205</bibl>). Ces cartes montrent que <hi rend="i">o</hi> et <hi rend="i">ou</hi> sont rares dans la <foreign xml:lang="lat">scripta</foreign> parisienne, qui utilise le digraphe <hi rend="i">eu</hi>.</item>
-                      </list>A ces deux traits, on peut ajouter les suivants, dont l’aréologie est encore moins nette : <list rend="bulleted">
+                      </list>A ces deux traits, on peut ajouter les suivants, dont l’aréologie est encore moins nette : <list rend="circle">
                         <item><quote>leittres</quote> (Auth. 34.1) : d’après
                           <bibl>Dees 1980 c. 164</bibl> : <hi rend="i">leitre, leittres, leytres, leictre / letre, lettres, lestre, lectres</hi>, les formes du premier groupe sont caractéristiques de <foreign xml:lang="lat">scriptae</foreign> de l’ouest (angevin, poitevin et normand) avec des attestations résiduelles en Touraine, Orléanais et Berry et une représentation assez forte dans l’Yonne.</item>
                         <item>forme enclitique <hi rend="i">as</hi> : dans les rubriques et extraits transcrits, <hi rend="i">aus</hi> n’est jamais utilisé. Seuls apparaissent <hi rend="i">as</hi> et dans une moindre mesure <hi rend="i">es</hi>. D’après
@@ -5861,9 +5877,9 @@
                       </decoNote>
                       <decoNote>
                         <label>Iconographie</label>
-                        <p>Le <persName role="illustrateur" n="maître de Grenoble">Maître de Grenoble</persName> (d’après le ms Grenoble, bibl. mun. 407 Réserve) a exécuté la peinture de frontispice (f. 1). Les autres miniatures sont l’oeuvre du
-                          <persName role="illustrateur" n="maître de Maubeuge">Maître de Maubeuge</persName> (principal illustrateur du ms Paris, Bibl. nat. de Fr., fr. 10132 ; cf.
-                          <bibl>Rouse et Rouse,<title> Manuscripts and their makers</title>, t. II, Appendix 7D et 7F, p. 173-179</bibl>). Toutes les miniatures du <persName role="illustrateur" n="maître de Maubeuge">Maître de Maubeuge</persName> présentent un encadrement double semblable : liseré beige à l’extérieur ; à l’intérieur, bande rose plus large avec décor géométrique blanc ; dans les coins carré or.</p>
+                        <p>Le <persName role="illustrateur" key="maître de Grenoble">Maître de Grenoble</persName> (d’après le ms Grenoble, bibl. mun. 407 Réserve) a exécuté la peinture de frontispice (f. 1). Les autres miniatures sont l’oeuvre du
+                          <persName role="illustrateur" key="maître de Maubeuge">Maître de Maubeuge</persName> (principal illustrateur du ms Paris, Bibl. nat. de Fr., fr. 10132 ; cf.
+                          <bibl>Rouse et Rouse,<title> Manuscripts and their makers</title>, t. II, Appendix 7D et 7F, p. 173-179</bibl>). Toutes les miniatures du <persName role="illustrateur" key="maître de Maubeuge">Maître de Maubeuge</persName> présentent un encadrement double semblable : liseré beige à l’extérieur ; à l’intérieur, bande rose plus large avec décor géométrique blanc ; dans les coins carré or.</p>
                       </decoNote>
                       <decoNote n="institutiones">
                         <label>Iconographie. <title>Institutes</title></label>
@@ -5934,8 +5950,7 @@
                       <label>[7]</label> ce <expan>q<ex>ui</ex></expan> est ajugié a <expan>aucu<ex>n</ex></expan> <expan>p<ex>ar</ex></expan> cest <expan>jugem<ex>en</ex>t</expan> est <expan>maintena<ex>n</ex>t</expan> a celui <expan>q<ex>u</ex>i</expan> est ajugié.</p>
                   </div>
                   <div type="edition" n="authenticum" resp="Catherine Koehl Anne-Sophie Lienhard">
-                    <head>Auth 34 (Nov. 105)<note>transcription de Catherine Koehl et Anne-Sophie Lienhard.</note>
-                      <supplied resp="#FD"><title xml:lang="lat">De consulibus</title></supplied></head>
+                    <head>Auth 34 (Nov. 105)<note>transcription de Catherine Koehl et Anne-Sophie Lienhard.</note> <supplied resp="#FD"><title xml:lang="lat">De consulibus</title></supplied></head>
                     <p xml:id="fr_498-auth.34"><supplied resp="#FD">C</supplied>il meismez dit a trage le conte dez <expan>sai<ex>n</ex>z</expan> dons <pb n="f. 87b"/>
                       <hi rend="b">L</hi>e non. et la cause de <expan><ex>con</ex>tee</expan> fu trovés par lez anciens romains <expan><ex>con</ex>tre</expan> le preu as anemis. et es jugemens que li <expan><ex>com</ex>mun</expan> ordenement de la chose <expan><ex>com</ex>mune</expan> lor <expan>do<ex>n</ex>noit</expan> il reçoivent soudeement lez <expan><ex>con</ex>trees</expan> en coi li romain avoient bataillez. <expan><ex>et</ex></expan> selon ce recevoient il lez <expan>ho<ex>n</ex>neurs</expan> le tens qui vint aprés mist sus lez empereors la poosté de <expan><ex>com</ex>ba<pb n="f. 87c" />tre</expan> et de fere pés. et bailla as <expan><ex>con</ex>seilliers</expan> les causez ordeneement et atempreement <expan><ex>et</ex></expan> <expan>sa<ex>n</ex>s</expan> passer mesure <expan><ex>et</ex></expan> il est venu petit <expan><ex>et</ex></expan> petit que aucun mainent lez causes a si <expan>g<ex>ra</ex>ns</expan> despenses que il moustrent lor hardement <expan><ex>et</ex></expan> ne se pourpensent pas que il n’ont point d’autre exemple. plusor sont qui n’ont pas <expan>g<ex>ra</ex>nt</expan> pas <expan>g<ex>ra</ex>nt</expan> chatel qui passe la <expan>g<ex>ra</ex>ndeur</expan> du corage. car ele ne vient pas de la mesure dez choses. mes de sa <expan>p<ex>ro</ex>pre</expan> grandeur. Pource que nous voion donc que le non de <expan>co<ex>n</ex>seillier</expan> est en peril qui a duré lonc tens <expan><ex>et</ex></expan> est venu jusqu’a pres de .m. ans <expan><ex>et</ex></expan> est creus o la chose <expan><ex>com</ex>mune</expan> des romains. pour ce nous semble il que il <expan><ex>con</ex>vient</expan> <expan><ex>com</ex>prendre</expan> la cause et oster en la desmesure <expan><ex>et</ex></expan> establir resnablez despenses as <expan><ex>con</ex>seilliers</expan> si que la chose soit <expan><ex>com</ex>mune</expan> as romains <expan><ex>et</ex></expan> acroisse a <expan>to<ex>us</ex></expan> les bons <expan>ho<ex>m</ex>mes</expan> que nous jujon qui sont digne de ceste <expan>ho<ex>n</ex>neur</expan>. Nous avon donc encerchié toutes lez chosez <expan><ex>et</ex></expan> avons veu <expan><ex>com</ex>bien</expan> il <expan><ex>con</ex>vient</expan> que lez despenses montent, marcians li emperere escrist donc une loi qui vouloit que li denier as <expan><ex>con</ex>seilliers</expan> ne fussent pas esparpillié. et ce fu la premiere de ses <expan><ex>con</ex>stitucions</expan>. et aprés la devant dite <expan><ex>con</ex>stitucion</expan> nous avon trové que cil qui l’<expan>e<ex>n</ex>sivoient</expan> ne soffroient que l’en esparpillast riens au pueple. li autre firent outre la loi, et orent ce que il requistrent <expan><ex>et</ex></expan> puis regarderent a la mesure de lor corage et donerent a aucuns plus que droit. Et li autre eslurent le moien <expan><ex>et</ex></expan> se tindrent <expan>b<ex>ie</ex>n</expan> a poié des moiennes chosez pour plusors choses. et pour ce que il nous semble que la chose qui sembla <expan>moie<ex>n</ex>ne</expan> a ceulz qui furent devant nous est trez bonne. et que li soverain estoient en peril de l’un et de l’autre <expan><ex>et</ex></expan> montoient maintenant a desmesure. pour ce nous plot il a establir de ce <expan>q<ex>ue</ex></expan> il n’i ait nule chose desmesuree ne desordenee, ne qui ne soit digne de nos <expan>te<ex>m</ex>s</expan>
                       <label>[1]</label> ce qui est donc avenant qui soit donné <pb n="f. 87d"/> par an per de <expan><ex>con</ex>seillier</expan> qui est esleu de nous par achoison de semonsez et de toutes <expan>aut<ex>re</ex>s</expan> departiez et de despensez. toutes ces choses avon nous <expan><ex>com</ex>mandeez</expan> que soient misezen ceste sainte loi soz avenant escripture et si metent en l’ordre de la loi que avenant pene soit enjointe a celui qui la trespassera. Nous voulon que toutes lez rentes soient gardees sans amenuisier se il a esté <expan><ex>con</ex>trové</expan> que lez musees soient fetez au pueple au delit du corage. Nous avon ce determiné es chosez qui sont fetes el theatre <expan><ex>et</ex></expan> es bataillez dez bestes. Nostre pueple ne sera estrangié de nule de ces choses ainz aura cil la premiere voie qui a receu l’office de <expan><ex>con</ex>seillier</expan> et qui en tient les leittres es kalendes de javier. aprez celui aura la seconde musee de l’estrif dez <expan>cheva<ex>us</ex></expan> cil qui est establis a ce et aprés celui cil qui est apelez de tout le jour qui saoulera le pueple de <expan>m<ex>ou</ex>lt</expan> <expan>g<ex>ra</ex>nt</expan> delit. et aprez celui qui est apelés en greu panparcon ce est en latin, biau regardes <expan><ex>et</ex></expan> o lui lez homez qui se <expan><ex>com</ex>batent</expan> as bestez et lez <expan>vainq<ex>ui</ex>sist</expan> par hardement <expan><ex>et</ex></expan> lez bestez occisez . La <expan>q<ex>ui</ex>nte</expan> voie aura cil qui maine au theatre en coi li lieus est fet a toutez manierez de musees et a toutez manierez d’estris cil qui a la siste voie lesse en cel aneur que il a eue par .I. an <expan><ex>et</ex></expan> au desposement il fet et .I. <expan>solle<ex>m</ex>pnel</expan> bannissement <expan><ex>et</ex></expan> ainsi est le cors <expan>a<ex>com</ex>pliz</expan> par .VII. voies et par .VII. jours <expan><ex>et</ex></expan> ne lesse nulez dez chosez qui furent establiez ancianement il est donc aperte chose <expan>q<ex>ue</ex></expan> une novele chose a esté trovee. et que .II. chosez sont <expan><ex>con</ex>tenuez</expan> en ce que l’en apele le theatre qui ne se tienent pas a paiés de ce qui fu premierement fet. l’en dira donc que la cause soffist. et que cez chosez <expan>so<ex>n</ex>t</expan> trovees clerement. et <expan>no<ex>n</ex></expan> pas si que le pueple ait les chosez en haine. car es choses qui poi avienent a merveille. nous avon donc ce escrit et determi<pb n="f. 88a"/>né des despensez as <expan><ex>con</ex>seilliers</expan>. <label>[2]</label> Et se li <expan><ex>con</ex>seillier</expan> a fame. la mesure de sez despenses est establie par nous. car il est drois que ele use de la hautece son mari. Se il n'a fame et il a mere qui soit digne de cel honeur <expan><ex>et</ex></expan> en ait esté avant honoree. et ele veult user o lui de cest <expan>ho<ex>n</ex>neur</expan>. ce otroion <expan>no<ex>us</ex></expan> a sa mere seule nule autre fame n'en sera honoree. fors sa fame et sa mere. la fame l’aura en toutez manieres. car ele par a l’onneur son mari si <expan><ex>com</ex>me</expan> la loi l’otroie. et la mere l’aura se le fils veult. car ne la fille ne l’aura ne la suer ne la fame au fil. et par meillor reson ne l’auront pas celes qui n’<expan>apartiene<ex>n</ex>t</expan> de riens a son linage. car ce estoit purement <expan><ex>con</ex>tre</expan> droit.
@@ -6003,7 +6018,7 @@
                     <summary><title xml:lang="lat">Parvum volumen</title> (<title xml:lang="fr" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z">Institutes</title>, <title xml:lang="fr" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authentiques</title> et <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c">Tres libri</title>) en <lang xml:lang="fro">français</lang>.</summary>
                     <msItem n="institutiones" xml:id="fr_22970_institutiones">
                       <locus from="2a" to="70b"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> en prose des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> (titres anciens :
                         <title type="ancien">les Institudes au saint empereur Justinian</title> f. 2a ; <title type="ancien">les Institutes l’empereur Justinian en françois</title> f. 70b) (éd. Olivier-Martin, sigle F)</title>
                       <msItem xml:id="fr_22970_institutiones_livre1">
@@ -6155,7 +6170,7 @@
                         <msItem>
                           <locus from="16c"/>
                           <title type="sub">[Inst. 2.2]</title>
-                          <incipit><seg type="rubric">Cest tytre <expan>p<ex>ar</ex>le</expan> de la division des choses</seg><supplied resp="#FD">reprise fautive de la rubrique de Inst. 2.1. Le texte est bien celui de Inst. 2.2.</supplied></incipit>
+                          <incipit><seg type="rubric">Cest tytre <expan>p<ex>ar</ex>le</expan> de la division des choses</seg><note>Reprise fautive de la rubrique de Inst. 2.1. Le texte est bien celui de Inst. 2.2.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="16d"/>
@@ -6306,7 +6321,7 @@
                         <msItem>
                           <locus from="39a"/>
                           <title type="sub">[Inst. 3.5]</title>
-                          <incipit><seg type="rubric">Cest tytre parole de la loy des .xii. tables</seg><supplied resp="#FD">la colonne f. 39a résulte d’une erreur de copie. Le texte de Inst. 3.5 se poursuit sans solution de continuité de f. 38d à f. 39b</supplied></incipit>
+                          <incipit><seg type="rubric">Cest tytre parole de la loy des .xii. tables</seg><note>la colonne f. 39a résulte d’une erreur de copie. Le texte de Inst. 3.5 se poursuit sans solution de continuité de f. 38d à f. 39b</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="39c"/>
@@ -6528,7 +6543,7 @@
                     </msItem>
                     <msItem n="authenticum" xml:id="fr_22970_authenticum">
                       <locus from="71a" to="222b"/>
-                      <title type="partie" xml:lang="fr">état traductif 3 de la traduction <lang xml:lang="fro" n="lang_arrivée">française</lang> de l’<title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496" xml:lang="lat">Authenticum</title> (titre ancien : <title type="ancien">Autentiques</title> f. 222b) (sigle F)</title>
+                      <title type="partie" xml:lang="fr">état traductif 3 de la traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> de l’<title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb137360496" xml:lang="lat">Authenticum</title> (titre ancien : <title type="ancien">Autentiques</title> f. 222b) (sigle F)</title>
                       <incipit xml:lang="fro"><seg type="rubric">L’empereres Justiniens escrit a Jehan le prevost el nom nostre seignor Jhesucrist. Cest tytrez est des heritages et de la loy qui retaille lez lés. Ce est la premiere constitucion se li hoir ne pueent paier les lés</seg><lb/>Li empereres Justiniens dit : Por ce que nous sommes embesoingniez des cures de la chose commune et ne voulons penser a nule petite chose</incipit>
                       <explicit xml:lang="fro">Tres chier pere et tres amez, ta hautece commant donc que ce que nous avons establi par ceste presente loy soit mené a effet et gardé.<lb/>Ci fenissent Autentiques.</explicit>
                       <msItem>
@@ -6569,17 +6584,17 @@
                       <msItem>
                         <locus from="94b"/>
                         <title type="sub">[Auth. 8, Nov. 8]</title>
-                        <incipit><seg type="rubric">Cest tytre est la constitucion l’<expan>emp<ex>er</ex>eur</expan> et a Bilisaire le visconte qui n’est point profitable</seg><supplied resp="#FD">de <q xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</q> à <q xml:lang="lat">... si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</q>.<seg type="incipit">La loy que nous avon faite <expan>nouvelem<ex>en</ex>t</expan> que nous <expan>avo<ex>n</ex>s</expan> escripte a nos glorieus <expan>p<ex>re</ex>voz</expan> moustre <expan>com<ex/>ment</expan>...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cest tytre est la constitucion l’<expan>emp<ex>er</ex>eur</expan> et a Bilisaire le visconte qui n’est point profitable</seg><note>de <q xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</q> à <q xml:lang="lat">... si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</q>.<seg type="incipit">La loy que nous avon faite <expan>nouvelem<ex>en</ex>t</expan> que nous <expan>avo<ex>n</ex>s</expan> escripte a nos glorieus <expan>p<ex>re</ex>voz</expan> moustre <expan>com<ex/>ment</expan>...</seg></note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="96a"/>
                         <title type="sub">[Auth. 8, Nov. 8]</title>
-                        <incipit><seg type="rubric">A celui meismes</seg><supplied resp="#FD">de <q xml:lang="lat">Scriptum est exemplar huiusmodi Dominico gloriosissimo praefecto apud Illyricum praetoriorum, sed ita quidem adiectionibus</q> jusqu’à <q xml:lang="lat">... prius eis plagis corporeis infligendis</q>.<seg type="incipit"><foreign xml:lang="lat" rend="u">Scriptum</foreign>. Cist essampleres a esté escriz au noble <expan>p<ex>re</ex>vost</expan> de la <expan>g<ex>ra</ex>nt</expan> <expan>p<ex>re</ex>vosté</expan> d’Illire...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">A celui meismes</seg><note>de <q xml:lang="lat">Scriptum est exemplar huiusmodi Dominico gloriosissimo praefecto apud Illyricum praetoriorum, sed ita quidem adiectionibus</q> jusqu’à <q xml:lang="lat">... prius eis plagis corporeis infligendis</q>.<seg type="incipit"><foreign xml:lang="lat" rend="u">Scriptum</foreign>. Cist essampleres a esté escriz au noble <expan>p<ex>re</ex>vost</expan> de la <expan>g<ex>ra</ex>nt</expan> <expan>p<ex>re</ex>vosté</expan> d’Illire...</seg></note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="96d"/>
                         <title type="sub">[Auth. 8, Nov. 8]</title>
-                        <incipit><seg type="rubric">Le <expan>sereme<ex>n</ex>t</expan> a ceux qui <expan>p<ex>re</ex>nnent</expan> aministracion</seg><supplied resp="#FD">de <q xml:lang="lat">Iusiurandum quod praestatur ab his qui administrationes accipiant</q> à la fin de Auth. 8.<seg type="incipit"><foreign xml:lang="lat" rend="u">Jusjurandum</foreign>. Ce est ci li seremens que cil font qui reçoivent les bailliees...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Le <expan>sereme<ex>n</ex>t</expan> a ceux qui <expan>p<ex>re</ex>nnent</expan> aministracion</seg><note>de <q xml:lang="lat">Iusiurandum quod praestatur ab his qui administrationes accipiant</q> à la fin de Auth. 8.<seg type="incipit"><foreign xml:lang="lat" rend="u">Jusjurandum</foreign>. Ce est ci li seremens que cil font qui reçoivent les bailliees...</seg></note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="97b"/>
@@ -7021,7 +7036,7 @@
                     </msItem>
                     <msItem n="tres_libri" xml:id="fr_22970_treslibri">
                       <locus from="223a" to="289b"/>
-                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivée">française</lang>
+                      <title type="partie" xml:lang="fr">traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
                         <persName role="traducteur" ref="???">anonyme</persName> des
                         <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb15916554c" xml:lang="lat">Tres libri</title> (titres anciens : <title type="ancien">Code au saint empereeur Justinien</title> f. 223a ; <title type="ancien">Code</title> f. 246c, 247a, 261a ; <title type="ancien">les .iii. livres du Code a l’empereur Justinien</title> f. 289b) (sigle F)</title>
                       <msItem xml:id="fr_22970_treslibri_livre10">
@@ -7471,7 +7486,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.13]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De classicis</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De classicis</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="250d"/>
@@ -7505,7 +7521,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.20]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De honoratorum vehiculis</title> ; rubriques et textes manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De honoratorum vehiculis</title>
+                          <note type="msItem">Rubriques et textes manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="251c"/>
@@ -7636,7 +7653,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.46]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De maiuma</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De maiuma</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="256a"/>
@@ -7651,7 +7669,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.49]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De capitatione civium censibus eximenda</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De capitatione civium censibus eximenda</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="259a"/>
@@ -7822,7 +7841,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.56]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">Non licere metrocomiae habitatoribus loca sua ad extraneum transferre</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">Non licere metrocomiae habitatoribus loca sua ad extraneum transferre</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="268c"/>
@@ -7927,7 +7947,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.24]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De stratoribus</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De stratoribus</title>
+                          <note type="msItem">Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="279a"/>
@@ -7966,7 +7987,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.32]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De perfectissimatus dignitate</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De perfectissimatus dignitate</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="281a"/>
@@ -7991,7 +8013,7 @@
                         <msItem>
                           <locus from="283a"/>
                           <title type="sub">[C. 12.37.6]</title>
-                          <incipit><seg type="rubric">Cest tytre est de departir les <expan>auno<ex>n</ex>nes</expan> as <expan>ch<ex>evalie</ex>rs</expan></seg><supplied resp="#FD">manque le début du titre ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Graciens dit : Les fors <expan>ch<ex>evalie</ex>rs</expan> et cil qui nous <expan>s<ex>er</ex>ve<ex>n</ex>t</expan> <expan>devotem<ex>en</ex>t</expan>...</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Cest tytre est de departir les <expan>auno<ex>n</ex>nes</expan> as <expan>ch<ex>evalie</ex>rs</expan></seg><note>manque le début du titre ;<seg type="incipit">Li <expan>emp<ex>er</ex>eres</expan> Graciens dit : Les fors <expan>ch<ex>evalie</ex>rs</expan> et cil qui nous <expan>s<ex>er</ex>ve<ex>n</ex>t</expan> <expan>devotem<ex>en</ex>t</expan>...</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="284a"/>
@@ -8045,21 +8067,24 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.48]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De oblatione votorum</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De oblatione votorum</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="286b"/>
                           <title type="sub">[C. 12.49]</title>
-                          <incipit><seg type="rubric">Cest tytre est des conteurs et des notaires du siege l’<expan>emp<ex>er</ex>eur</expan></seg><supplied resp="#FD">omet C. 12.49.1</supplied></incipit>
+                          <incipit><seg type="rubric">Cest tytre est des conteurs et des notaires du siege l’<expan>emp<ex>er</ex>eur</expan></seg><note>Omet C. 12.49.1</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="286c"/>
                           <title type="sub">[C. 12.50]</title>
-                          <incipit><seg type="rubric">Du <expan>co<ex>m</ex>mun</expan> cours et des <expan>s<ex>er</ex>vises</expan></seg><supplied resp="#FD">s’achève à la fin de C. 12.50.21 ;<seg type="explicit">... ne sainte yglise ne <expan>meso<ex>n</ex></expan> real n’ait excusacion de servises en temps de guerre.</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Du <expan>co<ex>m</ex>mun</expan> cours et des <expan>s<ex>er</ex>vises</expan></seg></incipit>
+                          <note type="msItem">s’achève à la fin de C. 12.50.21 ;<seg type="explicit">... ne sainte yglise ne <expan>meso<ex>n</ex></expan> real n’ait excusacion de servises en temps de guerre.</seg></note>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.51]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De tractoriis et stativis</title> ; rubrique et texte manquent.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De tractoriis et stativis</title>
+                          <note>Rubrique et texte manquent.</note>
                         </msItem>
                         <msItem>
                           <locus from="287a"/>
@@ -8113,7 +8138,8 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.62]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De primipilo</title> ; manquent rubrique et texte.</supplied></incipit>
+                          <title xml:lang="lat" resp="#FD">De primipilo</title>
+                          <note type="msItem">Manquent rubrique et texte.</note>
                         </msItem>
                         <msItem>
                           <locus from="289b"/>
@@ -8125,7 +8151,7 @@
                   </msContents>
                   <physDesc>
                     <objectDesc>
-                      <supportDesc material="parch">
+                      <supportDesc><!-- material="parch" supprimé car présent dans le <support> -->
                         <support><material>Parchemin</material> (de belle qualité, même si brisets f. 101, 102, 109, 155, 216, 245, 246, 275 ; couture f. 156)</support>
                         <extent>289 f.<note> précédés de 2 f. de garde papier et d’un f. de garde parchemin, suivis d’un f. de garde parchemin et de 2 f. de garde papier ; France (Ile-de-France), 1300-1325 (1300-1320 d’après la notice Bibl. nat. de Fr.) ; <dimensions unit="mm"><height quantity="325">325</height> <width quantity="220">220</width></dimensions> (justification : 240 x 150 mm.). Réglure à la mine de plomb (1-12-11/2-2/0/J [les deux lignes de la marge de tête, où s’inscrit le titre courant, ne sont généralement pas conservées. On note seulement la trace de la ligne immédiatement inférieure au titre courant]) : d’après le f. 103 : (21 + 240 + 59 mm. [de haut en bas]) x (25 + 70 + 10 + 70 + 45 mm. [de la reliure vers la gouttière]). Trace de piqûres pour le tracé des lignes verticales. Copié sur 2 col., le ms compte 40 lignes par col., soit une UR de 6 mm. La première ligne est copiée sous la ligne délimitant la partie supérieure de la justification. – Foliotation moderne ; titres courants contemporains de la confection du ms (cf. structuration et décor).</note></extent>
                         <collation>1<hi rend="sup">8</hi> (f. 2-9 [réclame encadrée à l’encre brune f. 9v]), 2<hi rend="sup">8</hi> (f. 10-17 [signature « <foreign xml:lang="lat">secundus</foreign> » et réclame encadrée à l’encre brune f. 17v]), 3<hi rend="sup">8</hi> (f. 18-25 [signature partiellement rognée et réclame encadrée à l’encre brune f. 25v]), 4<hi rend="sup">8</hi>(f. 26-33 [réclame encadrée à l’encre rouge f. 33v, f. 33d s’achevant au milieu d’une rubrique]), 5<hi rend="sup">8</hi> (f. 34-41 [réclame encadrée à l’encre brune f. 41v]), 6<hi rend="sup">8</hi> (f. 42-49[réclame à l’encre brune f. 49v]), 7<hi rend="sup">8</hi> (f. 50-57 [réclame encadrée à l’encre brune f. 57v]), 8<hi rend="sup">8</hi> (f. 58-65 [réclame encadrée à l’encre brune f. 57v]), 9<hi rend="sup">8</hi> (f. 66-73 [réclame encadrée à l’encre brune f. 73v]), 10<hi rend="sup">8</hi> (f. 74-81 [réclame encadrée à l’encre brune f. 81v]), 11<hi rend="sup">8</hi> (f. 82-89 [réclame encadrée à l’encre brune f. 89v]), 12<hi rend="sup">8</hi> (f. 90-97 [réclame encadrée à l’encre brune f. 97v]), 13<hi rend="sup">8</hi> (f. 98-105 [réclame encadrée à l’encre brune f. 105v]), 14<hi rend="sup">8</hi> (f. 106-113 [réclame encadrée à l’encre brune f. 113v]), 15<hi rend="sup">8</hi> (f. 114-121 [réclame encadrée à l’encre brune f. 121v]), 16<hi rend="sup">8</hi> (f. 122-129 [réclame encadrée à l’encre brune f. 129v]), 17<hi rend="sup">8</hi> (f. 130-137 [réclame encadrée à l’encre brune f. 137v]), 18<hi rend="sup">8</hi> (f. 138-145 [réclame encadrée à l’encre brune f. 145v]), 19<hi rend="sup">8</hi> (f. 146-153 [réclame encadrée à l’encre brune f. 153v]), 20<hi rend="sup">8</hi> (f. 154-161 [réclame à l’encre brune f. 161v), 21<hi rend="sup">8</hi> (f. 162-169 [réclame encadrée à l’encre brune f. 169v]), 22<hi rend="sup">8</hi> (f. 170-177 [réclame encadrée à l’encre brune f. 177v]), 23<hi rend="sup">8</hi> (f. 178-185 [réclame encadrée à l’encre brune f. 185v]), 24<hi rend="sup">8</hi> (f. 186-193 [réclame encadrée à l’encre brune f. 193v]), 25<hi rend="sup">8</hi> (f. 194-201 [réclame encadrée à l’encre brune f. 201v]), 26<hi rend="sup">8</hi> (f. 202-209 [réclame à l’encre brune encadrée à l’encre rouge f. 209v]), 27<hi rend="sup">8</hi> (f. 210-217 [réclame encadrée à l’encre brune f. 217v]), 28<hi rend="sup">8</hi> (f. 218-225 [réclame encadrée à l’encre brune f. 225v]), 29<hi rend="sup">8</hi> (f. 226-233 [réclame encadrée à l’encre brune f. 233v]), 30<hi rend="sup">8</hi> (f. 234-241 [réclame encadrée à l’encre brune f. 241v]), 31<hi rend="sup">8</hi> (f. 242-249 [réclame encadrée à l’encre brune f. 249v]), 32<hi rend="sup">8</hi> (f. 250-257 [réclame encadrée à l’encre brune f. 257v]), 33<hi rend="sup">8</hi> (f. 258-265), 34<hi rend="sup">8</hi> (f. 266-273 [réclame encadrée à l’encre brune f. 273v]), 35<hi rend="sup">8</hi> (f. 274-281 [réclame encadrée à l’encre brune f. 281v]), 36<hi rend="sup">8</hi> (f. 282-289). Signatures.</collation>

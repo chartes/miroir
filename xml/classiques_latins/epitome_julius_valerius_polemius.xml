@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="epitome_julius_valerius_polemius" xml:lang="fr">
@@ -145,12 +145,12 @@
                   <p>90 f. parch.</p>
                 </objectDesc>
                 <decoDesc>
-                  <p>Illustration : 2 miniatures des 3/4 de la justification en tête de chacun des deux textes réalisées par des successeurs de <persName type="illustrateur">Guillaume Vrelant</persName> (f. 10 et 66)</p>
+                  <p>Illustration : 2 miniatures des 3/4 de la justification en tête de chacun des deux textes réalisées par des successeurs de <persName role="illustrateur">Guillaume Vrelant</persName> (f. 10 et 66)</p>
                 </decoDesc>
               </physDesc>
               <history>
                 <origin notBefore="1445" notAfter="1465">Bruges, c . 1450-1460 (proche du ms Bruxelles, Bibl. royale, IV. 467, f. 1, f. 8 [1470], F. Masai et M. Wittek (dir.),<title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, 1982, t. IV, pl. 838)</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ, comte de Chimay</persName> (armoiries f. 10) († 1482) ; <persName type="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> († 1527) (ex libris f. 90v : <quote>« C’est le livre du roy Alixandre ou yl y a deux histoires, lequel est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote>) ; <persName type="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquis en 1511) ; <persName type="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (passe en 1530 ; ex libris à l’intérieur du plat antérieur de la relieur) ; <orgName type="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (1559)</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ, comte de Chimay</persName> (armoiries f. 10) († 1482) ; <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> († 1527) (ex libris f. 90v : <quote>« C’est le livre du roy Alixandre ou yl y a deux histoires, lequel est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote>) ; <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquis en 1511) ; <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (passe en 1530 ; ex libris à l’intérieur du plat antérieur de la relieur) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (1559)</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>

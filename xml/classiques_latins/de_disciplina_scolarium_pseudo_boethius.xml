@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_disciplina_scolarium_pseudo_boethius" xml:lang="fr">
@@ -75,8 +75,8 @@
           <quote>
             <p>Il y a six chapitres qui concernent 1. la matière de l’enseignement — 2. comment soumettre les élèves à l’autorité du maître et à la discipline — 3. comment punir leur arrogance et corriger celle-ci par des exemples — 4. le soin du bien-être des élèves et les différents niveaux de leur intelligence — 5. comment les élèves dévoués doivent se préparer à la fonction de maître — 6. les maîtres, leurs règles et leurs catégories, leur comportement envers les élèves et leur méthode d’enseignement.</p>
             <p>Dès son apparition, l’ouvrage a rencontré une large popularité. Le texte a été fréquemment copié jusqu’à la fin du Moyen Age. On conserve ainsi 23 mss du XIII<hi rend="sup">e</hi> s. Le texte s’est transmis sans changements importants, sans doute en raison de l’autorité de son auteur supposé. Il a surtout servi à l’étude et au travail, comme l’attestent les modestes témoins qui nous le conservent, souvent chargés de gloses et de commentaires.</p>
-            <bibl>(D'après Pseudo-Boèce, <title>De disciplina scolarium</title>, éd. O. Weijers, Leyde, 1976, p. 11 et 89)</bibl>
           </quote>
+          <bibl>(D'après Pseudo-Boèce, <title>De disciplina scolarium</title>, éd. O. Weijers, Leyde, 1976, p. 11 et 89)</bibl>
         </cit>
         <listBibl>
           <bibl>Pseudo-Boèce, <title>De disciplina scolarium</title>, éd. O. Weijers, Leyde, 1976</bibl>

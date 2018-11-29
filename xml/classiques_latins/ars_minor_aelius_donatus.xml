@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>-->
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ars_minor_aelius_donatus" xml:lang="fr">
@@ -129,7 +129,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1250" notAfter="1300">Nord-Est de la France d'après la graphie, 2e moitié du XIIIe s.</origin>
-                <provenance>Possesseur : <orgName type="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. de garde).</provenance>
+                <provenance>Possesseur : <orgName role="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. de garde).</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -398,7 +398,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. ; France méridionale ? (proche du ms Paris, Bibl. nat. de Fr., lat. 3893, f. 73 [1314], <title>Mss datés</title>, t. II, pl. 42)</origin>
-                <provenance>possesseurs : <persName type="possesseur" key="Salutati, Coluccio">Coluccio Salutati</persName> ? († 1406) (f. 245v) ; <persName type="possesseur" key="Nicolas V">Nicolas V</persName> († 1455) ; Bibliothèque vaticane.</provenance>
+                <provenance>possesseurs : <persName role="possesseur" key="Salutati, Coluccio">Coluccio Salutati</persName> ? († 1406) (f. 245v) ; <persName role="possesseur" key="Nicolas V">Nicolas V</persName> († 1455) ; Bibliothèque vaticane.</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -462,11 +462,11 @@
                   <p>198 f. papier</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Copiste : de la main de <persName type="copiste">Nicolas Colard</persName></p>
+                  <p>Copiste : de la main de <persName role="copiste">Nicolas Colard</persName></p>
                 </handDesc>
               </physDesc>
               <history>
-                <provenance>Possesseurs : <persName type="possesseur" key="Nicolas Colard">Nicolas Colard</persName>, <quote>« ordinis sancti Benedicti, <sic>capellanus</sic> honoris regine Sicilie, et emit anno Domini Jhesu 1436 »</quote> (f. 187v), <quote>« Iste liber est Nicolao Colardi de Metis... monasterii Sanctorum Andree et Sabine de Urbe »</quote> (f. 197v) ; acheté à un dénommé <persName type="possesseur" key="Porcher, habitant de Salins">Porcher, habitant de Salins</persName> par <persName type="possesseur" key="Jean Perrot">Jean Perrot</persName> en 1476 (f. 198v).</provenance>
+                <provenance>Possesseurs : <persName role="possesseur" key="Nicolas Colard">Nicolas Colard</persName>, <quote>« ordinis sancti Benedicti, <sic>capellanus</sic> honoris regine Sicilie, et emit anno Domini Jhesu 1436 »</quote> (f. 187v), <quote>« Iste liber est Nicolao Colardi de Metis... monasterii Sanctorum Andree et Sabine de Urbe »</quote> (f. 197v) ; acheté à un dénommé <persName role="possesseur" key="Porcher, habitant de Salins">Porcher, habitant de Salins</persName> par <persName role="possesseur" key="Jean Perrot">Jean Perrot</persName> en 1476 (f. 198v).</provenance>
               </history>
               <additional>
                 <listBibl>
@@ -562,7 +562,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1420" notAfter="1440">Nord-Est de la France d'après des traits picards-wallons (?), 1420-1440 (proche du ms Paris, Bibl. nat. de Fr., lat. 1299, f. 294v-295 [1436], <title>Mss datés</title>, t. II, pl. 95)</origin>
-                <provenance>Possesseur : <orgName type="possesseur" key="Thuison-les-Abbeville, chartreuse Saint-Honoré">Chartreuse de Saint-Honoré</orgName> à Thuisson près d’Abbeville (ex libris f. 467a).</provenance>
+                <provenance>Possesseur : <orgName role="possesseur" key="Thuison-les-Abbeville, chartreuse Saint-Honoré">Chartreuse de Saint-Honoré</orgName> à Thuisson près d’Abbeville (ex libris f. 467a).</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -628,7 +628,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1488">XV<hi rend="sup">e</hi> s. (avant 1488, cf. f. 10v)</origin>
-                <provenance>Possesseur : <persName type="possesseur" key="Michel Clareti">Michel Clareti</persName> (XV<hi rend="sup">e</hi> s., cf. 10v).</provenance>
+                <provenance>Possesseur : <persName role="possesseur" key="Michel Clareti">Michel Clareti</persName> (XV<hi rend="sup">e</hi> s., cf. 10v).</provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -692,7 +692,7 @@
       <div type="traduction" xml:id="aix">
         <head>Version de Aix-en-Provence, bibl. mun., incunable 47</head>
         <dateline>
-          <date notBefore="1490" notAfter="11500">vers 1495</date>
+          <date notBefore="1490" notAfter="1500">vers 1495</date>
         </dateline>
         <p>« Il s'agit sans doute de la version française antérieure au XVI<hi rend="sup">e</hi> siècle la plus fidèle à l'original latin. Les seuls ajouts ne consistent qu'en de brèves remarques concernant la distinction entre parties déclinables et indéclinables du discours, le régime du superlatif suivi de nom collectif, le nombre des pronoms et les quatre adverbes de lieu. A la fin du traité trouvent place les paragraphes sur les déclinaisons du nom et du pronom et sur les noms propres
           <foreign>Moyses</foreign> et <foreign>Ihesus</foreign> (M. Colombo Timelli,

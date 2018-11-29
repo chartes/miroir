@@ -112,6 +112,12 @@
   <define name="msIdentifier">
     <element name="msIdentifier">
       <a:documentation>Identification du manuscrit en cours de description</a:documentation>
+      <optional>
+        <element name="country">
+          <a:documentation>Pays de conservation du manuscrit.</a:documentation>
+          <text/>
+        </element>
+      </optional>
       <element name="settlement">
         <!-- poser un @ d’identification (@key/@ref) pour extraire tous les ms d’une ville, construire une carte -->
         <a:documentation>Ville de conservation du manuscrit</a:documentation>
@@ -122,6 +128,12 @@
         <a:documentation>Institution de conservation du manuscrit</a:documentation>
         <text/>
       </element>
+      <optional>
+        <element name="collection">
+          <a:documentation>Contient le nom d'une collection de manuscrits.</a:documentation>
+          <text/>
+        </element>
+      </optional>
       <ref name="idno"/>
       <!-- prévoir d’ajouter une URI optionnelle -->
       <!--
@@ -140,10 +152,263 @@
         <ref name="msName"/>
       </zeroOrMore>
       <optional>
-        <element name="altIdentifier">
-          <ref name="idno"/>
+        <ref name="altIdentifier"/>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="altIdentifier">
+    <element name="altIdentifier">
+      <zeroOrMore>
+        <choice>
+          <element name="settlement">
+            <a:documentation>Ville de conservation du manuscrit</a:documentation>
+            <text/>
+          </element>
+          <element name="repository">
+            <a:documentation>Institution de conservation du manuscrit</a:documentation>
+            <text/>
+          </element>
+        </choice>
+      </zeroOrMore>
+      <ref name="idno"/>
+    </element>
+  </define>
+  
+  <define name="msContents">
+    <element name="msContents">
+      <a:documentation>Contenu intellectuel du manuscrit</a:documentation>
+      <oneOrMore>
+        <choice>
+          <ref name="msItem"/>
+          <!-- description simple: un unique paragraphe -->
+          <ref name="p"/>
+          <element name="summary">
+            <a:documentation>Résumé du contenu</a:documentation>
+            <oneOrMore>
+              <choice>
+                <ref name="flow"/>
+                <ref name="lang"/>
+                <ref name="list"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="physDesc">
+    <element name="physDesc">
+      <a:documentation>Description physique du manuscrit</a:documentation>
+      <!-- les physDesc sans objectDesc sont TRÈS minoritaires => des oublis ? on considère que objectDesc est bien optionnel ? -->
+      <optional>
+        <ref name="objectDesc"/>
+      </optional>
+      <!-- 101 cas dans les classiques latins -->
+      <optional>
+        <ref name="handDesc"/>
+      </optional>
+      <!-- revoir à quel point decoDesc est optionnel -->
+      <optional>
+        <ref name="decoDesc"/>
+      </optional>
+      <optional>
+        <element name="bindingDesc">
+          <a:documentation>Décrit les reliures actuelles et anciennes d'un manuscrit</a:documentation>
+          <ref name="p"/>
+          <zeroOrMore>
+            <ref name="quote-p"/>
+          </zeroOrMore>
         </element>
       </optional>
+    </element>
+  </define>
+  
+  <define name="history">
+    <element name="history">
+      <a:documentation>Historique du manuscrit</a:documentation>
+      <!-- rendre obligatoire ? -->
+      <optional>
+        <element name="origin">
+          <a:documentation>Informations sur l’origine du manuscrit</a:documentation>
+          <optional>
+            <ref name="att.datable"/>
+          </optional>
+          <oneOrMore>
+            <choice>
+              <ref name="textual"/>
+              <!-- JBC: assez curieux, bcp de origin/title... on garde ? -->
+              <ref name="title"/>
+              <ref name="origDate"/>
+              <ref name="origPlace"/>
+              <ref name="quote-c"/>
+            </choice>
+          </oneOrMore>
+        </element>
+      </optional>
+      <optional>
+        <element name="provenance">
+          <a:documentation>UN épisode précis de l'histoire du manuscrit</a:documentation>
+          <!-- pour l’instant un unique <p> avec de la typo ; on devrait avoir 1 <p> par épisode... -->
+          <!-- utilisé ici pour lister les possesseurs. Revoir la saisie pour ces éléments. -->
+          <!--<ref name="p"/>-->
+          <oneOrMore>
+            <choice>
+              <ref name="p"/>
+              <ref name="textual"/>
+              <ref name="persName"/>
+              <ref name="orgName"/>
+              <ref name="quote-p"/>
+              <ref name="title"/>
+            </choice>
+          </oneOrMore>
+        </element>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="additional">
+    <element name="additional">
+      <a:documentation>Modalités d’établissement de la notice et bibliographie consacrée au manuscrit</a:documentation>
+      <optional>
+        <ref name="adminInfo"/>
+      </optional>
+      <optional>
+        <ref name="listBibl"/>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="msPart">
+    <element name="msPart">
+      <a:documentation>Une unité dans un recueil factice ou postérieur à la composition.</a:documentation>
+      <!-- beaucoup moins détaillé que msDesc/msIdentifier -->
+      <element name="msIdentifier">
+        <!-- NB reprise dans les fichiers du contenu de idno. La simple numérotation ("I", "II") est incorrecte sémantiquement. On identifie la partie du manuscrit grâce à la foliotation-->
+        <!-- À voir avec JBC: on garde objectDesc ? Voir de_consolatione_philosophiae_boethius.xml -->
+        <element name="idno">
+          <text/>
+        </element>
+      </element>
+      <!-- moins structuré que msContents/msItem => revoir cette logique. Idéalement appeler ici le pattern msItem -->
+      <!-- voir surtout ars_amatoria_ovidius.xml -->
+      <!-- des msPart parfois sans description de contenu... on garde ? on passe msContents en optionnel ? -->
+      <optional>
+        <element name="msContents">
+          <ref name="p"/>
+        </element>
+      </optional>
+      <optional>
+        <ref name="physDesc"></ref>
+      </optional>
+      <optional>
+        <ref name="history"/>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="msItem">
+    <a:documentation>Un item du contenu intellectuel du manuscrit</a:documentation>
+    <element name="msItem">
+      <ref name="msItem.atts"/>
+      <optional>
+        <ref name="msItem.cont"/>
+      </optional>
+      <optional>
+        <ref name="msItem.msItem"/>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="msItem.atts">
+    <optional>
+      <attribute name="n">
+        <data type="string"/>
+      </attribute>
+    </optional>
+    <optional>
+      <attribute name="xml:id">
+        <data type="ID"/>
+      </attribute>
+    </optional>
+  </define>
+  
+  <define name="msItem.cont">
+    <a:documentation>Contenu d'un msItem.</a:documentation>
+    <!-- locus doit apparaître en tête de div, cf guidelines -->
+    <optional>
+      <ref name="locus"/>
+    </optional>
+    <!-- obligatoire ? Les crochets typo devraient être inférés par une valeur d’@: title[@subtype='forge'] -->
+    <a:documentation>Titre forgé de l’item</a:documentation>
+    <!-- TITLE : On a sorti les titres latins originaux des <incipit> pour la cohérence interne du contenu. -->
+    <optional>
+      <ref name="title"/>
+    </optional>
+    <!-- Titre latin original. -->
+    <optional>
+      <ref name="title-orig"/>
+    </optional>
+    <zeroOrMore>
+      <ref name="p"/>
+    </zeroOrMore>
+    <!-- LOCUS on a sorti les <locus> des <incipit> et <explicit> pour rétablir la séquence et les liens-->
+    <!-- incipit OBLIGATOIRE -->
+    <optional>
+      <element name="incipit">
+        <ref name="cipit.cont"/>
+      </element>
+    </optional>
+    <optional>
+      <element name="explicit">
+        <ref name="cipit.cont"/>
+      </element>
+    </optional>
+    <optional>
+      <ref name="msItem.note"/>
+    </optional>
+  </define>
+  
+  <define name="msItem.msItem">
+    <oneOrMore>
+      <choice>
+        <element name="msItem">
+          <ref name="msItem.atts"/>
+          <ref name="msItem.cont"/>
+        </element>
+        <element name="msItem">
+          <ref name="msItem.atts"/>
+          <ref name="msItem.cont"/>
+          <oneOrMore>
+            <element name="msItem">
+              <ref name="msItem.atts"/>
+              <ref name="msItem.cont"/>
+            </element>
+          </oneOrMore>
+        </element>
+      </choice>
+    </oneOrMore>
+  </define>
+  
+  <define name="msItem.note">
+    <a:documentation>Commentaire libre portant sur l’item et affiché dans le corps de la notice. Cette note NE DOIT PAS être déportée.</a:documentation>
+    <element name="note">
+      <attribute name="type">
+        <value>msItem</value>
+      </attribute>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="typo"/>
+          <ref name="foreign"/>
+          <ref name="q"/>
+          <ref name="quote-c"/>
+          <ref name="term"/>
+          <ref name="persName"/>
+          <ref name="title"/>
+        </choice>
+      </oneOrMore>
     </element>
   </define>
   
@@ -156,6 +421,15 @@
           <a:documentation>URI de référence pour un manuscrit (par exemple l’ARK Gallica)</a:documentation>
           <data type="anyURI"/>
         </attribute>
+      </optional>
+      <optional>
+        <attribute name="type">
+          <a:documentation>Ancien identifiant du témoin.</a:documentation>
+          <value>old</value>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="resp"/>     
       </optional>
       <text/>
     </element>
@@ -267,73 +541,6 @@
     </element>
   </define>
   
-  <define name="msContents">
-    <element name="msContents">
-      <a:documentation>Contenu intellectuel du manuscrit</a:documentation>
-      <optional>
-        <element name="summary">
-          <a:documentation>Résumé du contenu</a:documentation>
-          <ref name="flow"/>
-        </element>
-      </optional>
-      <choice>
-        <oneOrMore>
-          <ref name="msItem"/>
-        </oneOrMore>
-        <!-- description simple: un unique paragraphe -->
-        <ref name="p"/>
-      </choice>
-    </element>
-  </define>
-  
-  <define name="msItem">
-    <element name="msItem">
-      <a:documentation>Un item du contenu intellectuel du manuscrit</a:documentation>
-      <optional>
-        <attribute name="n">
-          <data type="string"/>
-        </attribute>
-      </optional>
-      <optional>
-        <attribute name="xml:id">
-          <data type="ID"/>
-        </attribute>
-      </optional>
-      <!-- locus doit apparaître en tête de div, cf guidelines -->
-      <optional>
-        <ref name="locus"/>
-      </optional>
-      <optional>
-        <ref name="title"/>
-      </optional>
-      <!-- obligatoire ? Les crochets typo devraient être inférés par une valeur d’@: title[@subtype='forge'] -->
-      <a:documentation>Titre forgé de l’item</a:documentation>
-      <!-- TITLE : On a sorti les titres latins originaux des <incipit> pour la cohérence interne du contenu. -->
-      <zeroOrMore>
-        <ref name="msItem"/>
-      </zeroOrMore>
-      <zeroOrMore>
-        <ref name="p"/>
-      </zeroOrMore>
-      <!-- LOCUS on a sorti les <locus> des <incipit> et <explicit> pour rétablir la séquence et les liens-->
-      <!-- incipit OBLIGATOIRE -->
-      <optional>
-        <element name="incipit">
-          <ref name="cipit.cont"/>
-        </element>
-      </optional>
-      <optional>
-        <element name="explicit">
-          <ref name="cipit.cont"/>
-        </element>
-      </optional>
-      <optional>
-        <ref name="msItem.note"/>
-      </optional>
-    </element>
-  </define>
-  
-  
   <define name="cipit.cont">
     <a:documentation>Contenu d’un incipit ou d’un explicit. NB: les guidelines n’autorisent pas les éléments p et lg</a:documentation>
     <!-- On limite pour l’instant le contenu (par rapport à la macro flow pour les p -->
@@ -350,6 +557,12 @@
         <ref name="foreign"/>
         <ref name="seg"/>
         <ref name="expan"/>
+        <ref name="supplied"/>
+        <ref name="locus"/>
+        <ref name="sic"/>
+        <ref name="choice"/>
+        <ref name="quote-c"/>
+        <ref name="title"/>
       </choice>
     </oneOrMore>
   </define>
@@ -379,6 +592,8 @@
         <choice>
           <text/>
           <ref name="ex"/>
+          <ref name="hi"/>
+          <ref name="pb"/>
         </choice>
       </oneOrMore>
     </element>
@@ -390,48 +605,6 @@
     </element>
   </define>
   
-  <define name="msItem.note">
-    <a:documentation>Commentaire libre portant sur l’item et affiché dans le corps de la notice. Cette note NE DOIT PAS être déportée.</a:documentation>
-    <element name="note">
-      <attribute name="type">
-        <value>msItem</value>
-      </attribute>
-      <choice>
-        <oneOrMore>
-          <text/>
-          <ref name="typo"/>
-        </oneOrMore>
-      </choice>
-    </element>
-  </define>
-  
-  <define name="additional">
-    <element name="additional">
-      <a:documentation>Modalités d’établissement de la notice et bibliographie consacrée au manuscrit</a:documentation>
-      <optional>
-        <ref name="adminInfo"/>
-      </optional>
-      <optional>
-        <ref name="listBibl"/>
-      </optional>
-    </element>
-  </define>
-  
-  <define name="physDesc">
-    <element name="physDesc">
-      <a:documentation>Description physique du manuscrit</a:documentation>
-      <!-- les physDesc sans objectDesc sont TRÈS minoritaires => des oublis ? on considère que objectDesc est bien optionnel ? -->
-      <ref name="objectDesc"/>
-      <!-- 101 cas dans les classiques latins -->
-      <optional>
-        <ref name="handDesc"/>
-      </optional>
-      <!-- revoir à quel point decoDesc est optionnel -->
-      <optional>
-        <ref name="decoDesc"/>
-      </optional>
-    </element>
-  </define>
   
   <define name="objectDesc">
     <element name="objectDesc">
@@ -453,8 +626,16 @@
     <a:documentation>Description du support physique – structuration de objectDesc pour les manuscrits juridiques</a:documentation>
     <!-- à revoir complètement: distinguer supportDesc et layoutDesc ???? À penser en relation avec les notices EAD de la BnF -->
     <element name="supportDesc">
-      <!-- TODO -->
+      <!-- TODO : condition -->
       <text/>
+      <ref name="support"/>
+      <ref name="extent-element"/>
+      <zeroOrMore>
+        <choice>
+          <ref name="collation"/>
+          <ref name="condition"/>
+        </choice>
+      </zeroOrMore>
     </element>
   </define>
   
@@ -476,7 +657,12 @@
     <a:documentation>Rubrique non normalisée pour la description de la décoration d’un manuscrit</a:documentation>
     <!-- NB: div non autorisé. On remet tout à plat (flat), plutôt que de maintenir une hiérarchie de <note>s dans decoNote -->
     <element name="decoNote">
-      <ref name="label"/>
+      <optional>
+        <ref name="n-att"/>
+      </optional>
+      <optional>
+        <ref name="label"/>
+      </optional>
       <oneOrMore>
         <ref name="p"/>
       </oneOrMore>
@@ -486,72 +672,88 @@
   <define name="handDesc">
     <element name="handDesc">
       <a:documentation>Description des types d'écriture utilisés dans le manuscrit</a:documentation>
-      <!-- pour l’instant un unique <p> avec de la typo -->
-      <ref name="p"/>
-    </element>
-  </define>
-  
-  <define name="history">
-    <element name="history">
-      <a:documentation>Historique du manuscrit</a:documentation>
-      <!-- rendre obligatoire ? -->
+      <!-- [Plusieurs autorisés pour la validation.] pour l’instant un unique <p> avec de la typo -->
       <optional>
-        <element name="origin">
-          <a:documentation>Informations sur l’origine du manuscrit</a:documentation>
-          <ref name="att.datable"/>
-          <oneOrMore>
-            <choice>
-              <ref name="textual"/>
-              <!-- JBC: assez curieux, bcp de origin/title... on garde ? -->
-              <ref name="title"/>
-            </choice>
-          </oneOrMore>
-        </element>
+        <attribute name="hands">
+          <a:documentation>Nombre de mains différentes observées dans le témoin.</a:documentation>
+          <data type="int"/>
+        </attribute>
       </optional>
-      <optional>
-        <element name="provenance">
-          <a:documentation>UN épisode précis de l'histoire du manuscrit</a:documentation>
-          <!-- pour l’instant un unique <p> avec de la typo ; on devrait avoir 1 <p> par épisode... -->
-          <!-- utilisé ici pour lister les possesseurs. Revoir la saisie pour ces éléments. -->
-          <!--<ref name="p"/>-->
-          <oneOrMore>
-            <choice>
-              <ref name="textual"/>
-              <ref name="persName"/>
-              <ref name="orgName"/>
-              <element name="quote">
-                <text/>
-              </element>
-            </choice>
-          </oneOrMore>
-        </element>
-      </optional>
-    </element>
-  </define>
-  
-  <define name="msPart">
-    <element name="msPart">
-      <a:documentation>Une unité dans un recueil factice ou postérieur à la composition.</a:documentation>
-      <!-- beaucoup moins détaillé que msDesc/msIdentifier -->
-      <element name="msIdentifier">
-        <!-- NB reprise dans les fichiers du contenu de idno. La simple numérotation ("I", "II") est incorrecte sémantiquement. On identifie la partie du manuscrit grâce à la foliotation-->
-        <!-- À voir avec JBC: on garde objectDesc ? Voir de_consolatione_philosophiae_boethius.xml -->
-        <element name="idno">
-          <text/>
-        </element>
-      </element>
-      <!-- moins structuré que msContents/msItem => revoir cette logique. Idéalement appeler ici le pattern msItem -->
-      <!-- voir surtout ars_amatoria_ovidius.xml -->
-      <!-- des msPart parfois sans description de contenu... on garde ? on passe msContents en optionnel ? -->
-      <element name="msContents">
+      <oneOrMore>
         <ref name="p"/>
-      </element>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="origPlace">
+    <element name="origPlace">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="foreign"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="origDate">
+    <element name="origDate">
       <optional>
-        <ref name="physDesc"></ref>
+        <ref name="att.datable"/>
       </optional>
-      <optional>
-        <ref name="history"/>
-      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="foreign"/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="support">
+    <element name="support">
+      <a:documentation>Contient la description des matériaux, techniques, etc., qui ont servi à fabriquer le support physique du texte du manuscrit.</a:documentation>
+      <oneOrMore>
+        <choice>
+          <element name="material">
+            <a:documentation>Contient un mot ou une expression décrivant le ou les matériau(x) utilisé(s) pour fabriquer un manuscrit (ou une partie d'un manuscrit).</a:documentation>
+            <text/>
+          </element>
+          <text/>
+        </choice>
+      </oneOrMore>
+    </element>
+    <text/>
+  </define>
+  <define name="extent-element">
+    <element name="extent">
+      <a:documentation>Décrit la taille approximative d’un texte stocké sur son support.</a:documentation>
+      <oneOrMore>
+        <choice>
+          <ref name="note"/>
+          <text/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="collation">
+    <element name="collation">
+      <oneOrMore>
+        <choice>
+          <ref name="p"/>
+          <ref name="textual"/>
+          <ref name="quote-c"/>
+          <ref name="q"/>
+          <ref name="foreign"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="condition">
+    <element name="condition">
+      <a:documentation>Contient la description de l'état matériel du manuscrit.</a:documentation>
+      <text/>
     </element>
   </define>
   
@@ -568,35 +770,307 @@
     </element>
   </define>
   
+  <!--<define name="listWit">
+    <element name="listWit">
+    <a:documentation>liste de témoins</a:documentation>
+    <optional>
+    <element name="head">
+    <text/>
+    </element>
+    </optional>
+    <oneOrMore>
+    <element name="witness">
+    <choice>
+    <attribute name="xml:id">
+    <data type="ID"/>
+    </attribute>
+    <attribute name="corresp">
+    <data type="anyURI"/>
+    </attribute>
+    </choice>
+    <element name="ref">
+    <attribute name="ref">
+    <data type="anyURI"/>
+    </attribute>
+    <oneOrMore>
+    <ref name="msDesc"/>
+    </oneOrMore>
+    </element>
+    </element>
+    </oneOrMore>
+    </element>
+    </define>-->  
+  
   <define name="listWit">
     <element name="listWit">
-      <a:documentation>liste de témoins</a:documentation>
+      <a:documentation>Liste de définitions pour tous les témoignages cités dans un apparat critique.</a:documentation>
       <optional>
         <element name="head">
           <text/>
         </element>
       </optional>
       <oneOrMore>
-        <element name="witness">
-          <choice>
-            <attribute name="xml:id">
-              <data type="ID"/>
-            </attribute>
-            <attribute name="corresp">
-              <data type="anyURI"/>
-            </attribute>
-          </choice>
-          <element name="ref">
-            <attribute name="ref">
-              <data type="anyURI"/>
-            </attribute>
-            <oneOrMore>
-              <ref name="msDesc"/>
-            </oneOrMore>
-          </element>
-        </element>
+        <ref name="witness"/>
       </oneOrMore>
     </element>
+  </define>
+  
+  <define name="witness">
+    <element name="witness">
+      <a:documentation>La description d'un seul témoin auquel il est fait référence à l'intérieur de l'apparat critique.</a:documentation>
+      <attribute name="xml:id">
+        <a:documentation>Le sigle représentant le témoin décrit.</a:documentation>
+        <data type="ID"/>
+      </attribute>
+      <element name="ref">
+        <attribute name="target">
+          <a:documentation>Lien vers la notice principale du témoin décrit.</a:documentation>
+          <data type="anyURI"/>
+        </attribute>
+        <ref name="msDesc.listWit"/>
+      </element>
+    </element>
+  </define>
+  
+  <define name="msDesc.listWit">
+    <element name="msDesc">
+      <attribute name="corresp">
+        <a:documentation>Lien vers la notice principale du témoin décrit.</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
+      <ref name="msIdentifier"/>
+    </element>
+  </define>
+  
+  <define name="rdg">
+    <a:documentation>Leçon à l'intérieur d'une variante du texte.</a:documentation>
+    <element name="rdg">
+      <choice>
+        <attribute name="wit">
+          <a:documentation>Une liste comprenant un ou plusieurs pointeurs qui désignent les témoins attestant d'une leçon donnée.</a:documentation>
+        </attribute>
+        <attribute name="xml:lang">
+          <a:documentation>Le texte latin original auquel correspond la leçon.</a:documentation>
+        </attribute>
+      </choice>
+      <!-- Pas tout-à-fait compris l'utilité de cet @type (9/1948 occurrences), je l'ajoute pour l'instant quitte à le supprimer plus tard. -->
+      <optional>
+        <attribute name="type">
+          <a:documentation>??????? - variante ?</a:documentation>
+          <value>var</value>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="expan"/>
+          <ref name="hi"/>
+          <element name="supplied">
+            <a:documentation>Note éditoriale sur la leçon.</a:documentation>
+            <optional>
+              <attribute name="resp">
+                <data type="anyURI"/>
+              </attribute>
+            </optional>
+            <oneOrMore>
+              <choice>
+                <text/>
+                <ref name="expan"/>
+                <ref name="hi"/>
+              </choice>
+            </oneOrMore>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="rdgGrp">
+    <a:documentation>Regroupe deux leçons ou plus qui sont perçues comme ayant une relation génétique ou une autre affinité.</a:documentation>
+    <element name="rdgGrp">
+      <oneOrMore>
+        <choice>
+          <ref name="rdg"/>
+          <ref name="rdgGrp"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="supplied">
+    <element name="supplied">
+      <a:documentation>Texte restitué par l'auteur de la transcription ou par l'éditeur pour une raison quelconque, le plus souvent parce que le texte du document original ne peut être lu, par suite de dommages matériels ou de lacunes.</a:documentation>
+      <optional>
+        <attribute name="resp">
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>   
+          <ref name="flow"/>
+          <ref name="textual"/>
+          <ref name="expan"/>
+          <ref name="q"/>
+          <!-- Faute de trouver une solution acceptable pour le //supplied/list qui est en fait une légende. -->
+          <ref name="list"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="choice">
+    <element name="choice">
+      <a:documentation>Permet d'encoder à la fois la forme fautive originale du texte et la correction de l'éditeur.</a:documentation>
+      <ref name="sic"/>
+      <ref name="corr"/>
+    </element>
+  </define>
+  
+  <define name="sic">
+    <element name="sic">
+      <a:documentation>Contient du texte reproduit, quoiqu'il est apparemment incorrect ou inexact.</a:documentation>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="expan"/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="title-orig">
+    <oneOrMore>
+      <element name="title">
+        <a:documentation>Titre latin original de la partie.</a:documentation>
+        <attribute name="xml:lang">
+          <value>lat</value>
+          <a:documentation>Latin.</a:documentation>
+        </attribute>
+        <attribute name="resp">
+          <a:documentation>Identifiant de l'éditeur produisant le titre latin original.</a:documentation>
+          <data type="anyURI"/>
+        </attribute>
+        <text/>
+      </element>
+    </oneOrMore>
+  </define>
+    
+  <define name="dimensions">
+    <element name="dimensions">
+      <attribute name="unit"/>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <element name="height">
+            <attribute name="quantity"/>
+            <text/>
+          </element>
+          <element name="width">
+            <attribute name="quantity"/>
+            <text/>
+          </element>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="eTree">
+    <element name="eTree">
+      <ref name="eTree.atts"/>
+      <optional>
+        <ref name="label"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <ref name="eTree"/>
+          <ref name="eLeaf"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="eLeaf">
+    <element name="eLeaf">
+      <optional>
+        <ref name="eTree.atts"/>
+      </optional>
+      <ref name="label"/>
+      <optional>
+        <element name="ptr">
+          <attribute name="target">
+            <data type="anyURI"/>
+          </attribute>
+          <attribute name="type">
+            <value>contamination</value>
+          </attribute>
+        </element>
+      </optional>
+    </element>
+  </define>
+  
+  <define name="eTree.atts">
+    <attribute name="type">
+      <choice>
+        <a:documentation>??????? - avéré ?</a:documentation>
+        <value>extant</value>
+        <a:documentation>Hypothétique ?</a:documentation>
+        <value>hypothetical</value>
+      </choice>
+    </attribute>
+    <optional>
+      <attribute name="xml:id">
+        <data type="ID"/>
+      </attribute>
+    </optional>
+  </define>
+  
+  <define name="lang">
+    <element name="lang">
+      <ref name="xml-atts"/>
+      <optional>
+        <attribute name="n">
+          <choice>
+            <value>lang_depart</value>
+            <value>lang_arrivee</value>
+          </choice>
+        </attribute>
+      </optional>
+      <text/>
+    </element>
+  </define>
+  <define name="persName.role">
+    <optional>
+      <attribute name="role">
+        <a:documentation>Rôle de la personne ou organisation dans l'établissement du témoin.</a:documentation>
+        <choice>
+          <value>auteur</value>
+          <a:documentation>(1 occ) - l'auteur d'une oeuvre mentionnée hors d'un élément author.</a:documentation>
+          <value>ancien</value>
+          <a:documentation>(413/1139 occs) TRÈS MAL DÉFINI, À REVOIR</a:documentation>
+          <value>commanditaire</value>
+          <a:documentation>(2/1139 occs) Commanditaire du témoin.</a:documentation>
+          <value>copiste</value>
+          <a:documentation>(66/1139 occs) Un copiste de manuscrit</a:documentation>
+          <value>dedicataire</value>
+          <a:documentation>(4/1139 occs) Dédicataire de l'oeuvre matérielle ou intellectuelle.</a:documentation>
+          <value>illustrateur</value>
+          <a:documentation>(102/1139 occs) Un illustrateur ???</a:documentation>
+          <value>libraire</value>
+          <a:documentation>Libraire responsable de la vente initiale du témoin.</a:documentation>
+          <value>possesseur</value>
+          <a:documentation>(405/1139 occs) Le possesseur (d’un manuscrit, d’un imprimé, d’une collection ?)</a:documentation>
+          <value>relieur</value>
+          <value>remanieur</value>
+          <a:documentation>(5/1139 occs) ?????????</a:documentation>
+          <value>traducteur</value>
+          <a:documentation>(101/1139 occs) Un traducteur (de quoi ?)</a:documentation>
+          <!-- 
+            <value>relieur</value>
+            <a:documentation>(1/1139 occs) ?????????</a:documentation>
+          -->
+        </choice>
+      </attribute>
+    </optional>
   </define>
   
   <!-- dans l’include on surcharge les définitions -->
@@ -628,6 +1102,68 @@
         <!-- ON AJOUTE -->
         <ref name="msDesc"/>
       </choice>
+    </define>
+    
+    <define name="note">
+      <element name="note">
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="n-att"/>
+        </optional>
+        <optional>
+          <attribute name="resp">
+            <choice>
+              <value>author</value>
+              <a:documentation>note de l’auteur</a:documentation>
+              <value>editor</value>
+              <a:documentation>note de l’éditeur</a:documentation>
+              <value>translator</value>
+              <a:documentation>note du traducteur</a:documentation>
+              <value>©</value>
+              <a:documentation>note protégée par le droit d’auteur au moment de l’écriture du fichier</a:documentation>
+              <text/>
+            </choice>
+          </attribute>
+        </optional>
+        <!-- Quel genre de rendu attendu ?
+          <ref name="rendering-atts"/>
+        -->
+        <optional>
+          <ref name="type-att"/>
+        </optional>
+        <optional>
+          <ref name="place-att"/>
+        </optional>
+        <ref name="rendering-atts"/>
+        <choice>
+          <!-- Attention au déterminisme xsd pour <figure>, ne pas autoriser note dans note, ainsi que saut de page (ex: note de fin, ou note sur plus d'une page) -->
+          <oneOrMore>
+            <choice>
+              <text/>
+              <ref name="bibl"/>
+              <ref name="anchor"/>
+              <ref name="quote-c"/>
+              <ref name="function"/>
+              <ref name="indexable"/>
+              <ref name="lb"/>
+              <ref name="typo"/>
+              <!-- générique ? (rare quand même d’avoir une bibliographie dans une note...) voir si on déporte dans note.cont pour permettre la redéfinition -->
+              <ref name="listBibl"/>
+              <ref name="dimensions"/>
+              <ref name="title"/>
+              <ref name="term"/>
+              <ref name="foreign"/>
+              <ref name="q"/>
+              <ref name="expan"/>
+              <ref name="p"/>
+              <ref name="quote-c"/>
+            </choice>
+          </oneOrMore>
+          <oneOrMore>
+            <ref name="block"/>
+          </oneOrMore>
+        </choice>
+      </element>
     </define>
     
     <!-- autoriser <msDesc> in <listBibl> et ajouter @type -->
@@ -682,11 +1218,16 @@
               <value>tab</value>
               <!-- AJOUT POUR MIROIR -->
               <value>incipit</value>
-              <a:documentation>?????????????????????????? – peu de cas, on garde ?</a:documentation>
+              <a:documentation>Incipit du texte.</a:documentation>
               <value>explicit</value>
-              <a:documentation>?????????????????????????? – UN SEUL CAS, on garde ?</a:documentation>
+              <a:documentation>Explicit du texte.</a:documentation>
               <value>rubric</value>
               <a:documentation>Représente un partie de texte rubriquée.</a:documentation>
+              <!-- Ensuite, peu de cas : à résoudre autrement ? -->
+              <value>table</value>
+              <a:documentation>Entrée de table des matières originale.</a:documentation>
+              <value>title</value>
+              <a:documentation>Titre ajouté par une autre main a posteriori dans le manuscrit.</a:documentation>
             </choice>
           </attribute>
         </optional>
@@ -698,6 +1239,16 @@
             <ref name="typo"/>
             <ref name="point"/>
             <ref name="expan"/>
+            <ref name="foreign"/>
+            <ref name="supplied"/>
+            <ref name="sic"/>
+            <ref name="choice"/>
+            <ref name="title"/>
+            <ref name="seg"/>
+            <element name="del">
+              <text/>
+            </element>
+            <ref name="quote-c"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -712,6 +1263,7 @@
           <ref name="hi"/>
           <ref name="num"/>
           <ref name="title"/>
+          <ref name="foreign"/>
           <element name="quote">
             <text/>
           </element>
@@ -827,6 +1379,9 @@
         <ref name="index-atts"/>
         <ref name="xml-atts"/>
         <ref name="rendering.char"/>
+        <optional>
+          <ref name="persName.role"/>
+        </optional>
         <!-- on ajoute la liste des valeurs @type autorisées -->
         <!-- OBLIGATOIRE OU OPTIONNEL ? -->
         <optional>
@@ -894,6 +1449,12 @@
           <ref name="n-att"/>
         </optional>
         <ref name="xml-atts"/>
+        <optional>
+          <attribute name="corresp">
+            <a:documentation>Identifiant de l'institution de conservation pour le témoin.</a:documentation>
+            <data type="anyURI"/>
+          </attribute>
+        </optional>
         <choice>
           <oneOrMore>
             <choice>
@@ -903,6 +1464,14 @@
               <ref name="indexable"/>
               <ref name="label"/>
               <ref name="expan"/>
+              <ref name="quote-c"/>
+              <ref name="listBibl"/>
+              <ref name="bibl"/>
+              <ref name="p"/>
+              <ref name="eTree"/>
+              <ref name="lang"/>
+              <ref name="q"/>
+              <ref name="list"/>
             </choice>
             <optional>
               <ref name="point"/>
@@ -912,8 +1481,253 @@
       </element>
     </define>
     
+    <define name="p">
+      <element name="p">
+        <a:documentation>Paragraphe de texte, html5:p</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">  
+          <p><a href="http://www.w3.org/TR/html5/the-p-element.html#the-p-element">[html]</a> Pour les paragraphes numérotés, le numéro de l’édition imprimée est à inscrire dans l’attribut <a:att>n</a:att>.</p>
+        </div>
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="n-att"/>
+        </optional>
+        <ref name="rendering.block"/>
+        <oneOrMore>
+          <choice>
+            <ref name="s"/>
+            <ref name="flow"/>
+            <ref name="label"/>
+            <ref name="expan"/>
+            <ref name="app"/>
+            <ref name="locus"/>
+            <ref name="supplied"/>
+            <ref name="sic"/>
+            <ref name="choice"/>
+            <ref name="lang"/>
+            <ref name="idno"/>
+            <ref name="q"/>
+            <ref name="list"/>
+            <ref name="listWit"/>
+            <ref name="origDate"/>
+            <ref name="quote-c"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    
+    <define name="foreign">
+      <element name="foreign">
+        <a:documentation>Mot, expression, ou proposition dans une langue différente du contexte. Permet de spécifier une police particulière pour certains alphabets (grec, hébreu…).</a:documentation>
+        <ref name="xml-atts"/>
+        <zeroOrMore>
+          <choice>
+            <ref name="rend-att"/>
+            <ref name="expan"/>
+            <ref name="textual"/>
+            <ref name="choice"/>
+            <ref name="seg"/>
+            <ref name="sic"/>
+            <ref name="supplied"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    
+    <!-- Redéfinition de l'élément app en fonction du schéma de l'Ecole et des spécificités du corpus. -->
+    <define name="app">
+      <element name="app">
+        <a:documentation>Entrée d'apparat critique.</a:documentation>
+        <optional>
+          <attribute name="rend">
+            <ref name="rend.font"/>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="n">
+            <a:documentation>Numérotation pour appel de note.</a:documentation>
+            <data type="string"/>
+          </attribute>
+        </optional>
+        <optional>
+          <element name="lem">
+            <a:documentation>Lemme : leçon retenue pour l'édition du texte.</a:documentation>
+            <text/>
+          </element>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <ref name="rdg"/>
+            <ref name="rdgGrp"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    
+    <define name="gap">
+      <element name="gap">
+        <empty/>
+      </element>
+    </define>
+    
+    <define name="quote-c">
+      <element name="quote">
+        <a:documentation>Citation dans un paragraphe</a:documentation>
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="type-att"/>
+        </optional>
+        <!-- Maybe in italic and not in quotes -->
+        <ref name="rendering.char"/>
+        <oneOrMore>
+          <choice>
+            <ref name="flow"/>
+            <ref name="expan"/>
+            <ref name="choice"/>
+            <ref name="sic"/>
+            <ref name="idno"/>
+            <ref name="supplied"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    
+    <define name="q">
+      <element name="q">
+        <a:documentation>L’usage de cette balise est très déconseillé, sa sémantique étant particulièrement vague</a:documentation>
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="rend-att"/>
+        </optional>
+        <zeroOrMore>
+          <choice>
+            <ref name="textual"/>
+            <ref name="indexable"/>
+            <ref name="expan"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    
+    <define name="persName">
+      <element name="persName">
+        <a:documentation>Nom de personne, d’auteur, de personnage</a:documentation>
+        <ref name="xml-atts"/>
+        <ref name="index-atts"/>
+        <optional>
+          <ref name="persName.role"/>
+        </optional>
+        <!-- en cas de mise en forme -->
+        <ref name="rendering.char"/>
+        <optional>
+          <ref name="evidence-att"/>
+        </optional>
+        <ref name="persName.type"/>
+        <zeroOrMore>
+          <choice>
+            <text/>
+            <ref name="point"/>
+            <ref name="surname"/>
+            <ref name="forename"/>
+            <ref name="num"/>
+            <ref name="hi"/>
+          </choice>
+        </zeroOrMore>
+      </element>
+    </define>
+    
+    <define name="title">
+      <element name="title">
+        <a:documentation>Titre d'ouvrage</a:documentation>
+        <!-- permettre la redéfinition d’une liste @type -->
+        <optional>
+          <attribute name="type">
+            <ref name="title.type.v"/>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="level">
+            <choice>
+              <value>a</value>
+              <a:documentation>(analytic) titre analytique, partie d'un ensemble plus grand, par exemple un article, un poème…</a:documentation>
+              <value>m</value>
+              <a:documentation>(monographic) titre de monographie,  comme un livre, un recueil ou autre item publié séparément</a:documentation>
+              <value>j</value>
+              <a:documentation>(journal) titre de revue ou de périodique</a:documentation>
+              <value>s</value>
+              <a:documentation>(serial) titre de collection ou autre publication en série</a:documentation>
+              <value>u</value>
+              <a:documentation>(unpublished) titre de matériau non publié, par exemple des thèses, des dissertations, si elles n'ont pas été publiées par un éditeur commercial</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <ref name="index-atts"/>
+        <ref name="xml-atts"/>
+        <optional>
+          <attribute name="rend"/>
+        </optional>
+        <optional>
+          <attribute name="n-att"/>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <ref name="title.cont"/>
+            <ref name="lang"/>
+            <ref name="expan"/>
+            <ref name="q"/>
+            <ref name="persName"/>
+            <ref name="sic"/>
+            <ref name="seg"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    
+    <define name="head">
+      <element name="head">
+        <a:documentation>Titre, niveau déterminé par le contexte hiérarchique, html5 : h1, h2, h3, h4, h5, h6</a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+          <p>Pour la génération automatique d’interfaces de navigation telle qu’une table des matières, il est nécessaire de disposer des titres expurgés de leur numérotation (afin d’éviter la redondance entre la numérotation inscrite en dur et la numérotation générée). À cette fin, il convient d’encoder cette numérotation avec la balise <a:el>num</a:el>. Ex. : <a:example><head><num>III. — </num>La transmission des témoignages</head></a:example></p>
+          <p>L'attribut @xml:id est volontairement non autorisé à ce niveau pour encourager l'identification de la section enveloppante.</p>
+        </div>
+        <optional>
+          <ref name="lang-att"/>
+        </optional>
+        <ref name="rendering.block"/>
+        <optional>
+          <attribute name="type">
+            <choice>
+              <value>alt</value>
+              <a:documentation>Titre alternatif</a:documentation>
+              <value>desc</value>
+              <a:documentation>Description fonctionnant comme un titre</a:documentation>
+              <value>main</value>
+              <a:documentation>Titre principal</a:documentation>
+              <value>short</value>
+              <a:documentation>Titre abrégé</a:documentation>
+              <value>sub</value>
+              <a:documentation>Sous-titre</a:documentation>
+              <data type="token"/>
+            </choice>
+          </attribute>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <ref name="flow"/>
+            <ref name="lang"/>
+            <ref name="supplied"/>
+          </choice>
+        </oneOrMore>
+      </element>
+    </define>
+    
   </include>
-  
+  <!-- 
+    <include
+    href="../app.rng"
+    h:href="../app.rng"
+    h:title="Diple, apparat critique">
+    </include>
+  --> 
   
   <!--
     NOTES SUR L'ENCODAGE INITIAL
