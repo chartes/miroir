@@ -74,11 +74,11 @@
             <title>Ius Commune</title>, 1984, t. 11, p. 231-280</bibl>
         </listBibl>
       </div>
-      <div type="expression" subtype="traduction" xml:id="fr_anonyme">
+      <div type="traduction" xml:id="fr_anonyme">
         <head>Traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
           <persName ref="???" role="traducteur">anonyme</persName> de l’<bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl></head>
         <dateline>
-          <date notAfter="1269-12-31">au plus tard dans les années 1260</date>
+          <date notAfter="1269">au plus tard dans les années 1260</date>
         </dateline>
         <p>On ne connaît qu’une seule traduction du second volume du <title>Digeste</title>. Les sous-ensembles <title>Infortiat</title> (D. 24.3-35.2.81) et <title>Tres partes</title> sont à l’évidence le résultat d’une même entreprise, individuelle ou collective, de traduction et doivent donc être considérés comme une seule et même traduction : ils proposent en effet les mêmes équivalences lexicales françaises aux mots techniques latins et affectionnent les mêmes tours syntaxiques comme la locution prépositionnelle <quote>a ce que</quote> ou l’attaque par <quote>et</quote> des propositions principales.</p>
         <p>Cette traduction anonyme nous est transmise par deux témoins:
@@ -1623,7 +1623,8 @@
                     </origin>
                     <provenance>
                       <p><label>Provenance</label><orgName role="possesseur" key="Rouen, cathédrale">cathédrale de Rouen</orgName> (cf.
-                        <bibl>abbé Saas, <title>Notice des manuscrits de l’église métropolitaine de Rouen</title>, Rouen, 1746, n° 52, p. 23</bibl> : <quote>Second volume du Digeste, appellé Infortiat, qui commence au Titre III. du vingt-quatrième Livre du Digeste jusqu’au vingt-neuf exclusivement, in-folio en velin</quote>)</p>
+                        <bibl>abbé Saas, <title>Notice des manuscrits de l’église métropolitaine de Rouen</title>, Rouen, 1746, n° 52, p. 23</bibl> : <quote>Second volume du Digeste, appellé Infortiat, qui commence au Titre III. du vingt-quatrième Livre du Digeste jusqu’au vingt-neuf exclusivement, in-folio en velin</quote>)</p></provenance>
+                    <provenance>
                       <p><label>Anciennes cotes</label><idno type="old">E. 87</idno> (correspond au catalogue des manuscrits de la Bibliothèque de Rouen dressé par Th. Licquet et Hyacinthe Langlois (1819-1820) et publié par <bibl>Haenel, dans <title>Catalogi librorum manuscriptorum qui in bibliothecis Galliae, etc. asservantur</title>, col. 414-437, à la col. 427</bibl> :
                         <q>89. Le second volume de l’infortiat en français ; saec. XIV. membr. fol.</q>) ; cote ancienne « <idno type="old">K-148</idno> » f. 2. La cote actuelle « <idno>E 1</idno> », collée au dos de la reliure, est utilisée parallèlement au numéro d’ordre du <title>Catalogue général des manuscrits des bibliothèques publiques de France</title> (<idno>794</idno>).</p>
                     </provenance>

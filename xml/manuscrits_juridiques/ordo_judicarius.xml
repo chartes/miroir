@@ -74,7 +74,7 @@
             <title>Glossae</title> [à paraître en 2016]</bibl>
         </listBibl>
       </div>
-      <div type="expression" subtype="traduction" xml:id="fr_anonyme">
+      <div type="traduction" xml:id="fr_anonyme">
         <head>Traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
           <persName ref="???" role="traducteur">anonyme</persName> de l’<bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb10772918v"><title xml:lang="lat">Ordo judicarius</title> de <author>Tancrède</author></bibl></head>
         <dateline>
@@ -1467,6 +1467,7 @@
                   </decoDesc>
                   <bindingDesc>
                     <p>plat et dos couverts de parchemin. Sur les plats inférieur et supérieur sont collés sur toute la surface 2 feuillets recoupés d’un livre de la fin du 13<hi rend="sup">e</hi> s. ou du début du 14<hi rend="sup">e</hi> s. copié sur trois colonnes ?
+                      <!-- Créer un msPart pour contenir l'édition de ces vers ? -->
                       <quote>
                         <lg>
                           <l>Cilz qui la fontaine querroit</l>
@@ -2095,7 +2096,8 @@
                         <persName role="possesseur" key="Gilbert Chabrol">Gilbert Chabrol</persName>, notaire royal</quote> (second f. de garde parch. verso, d’une main du 16<hi rend="sup">e</hi> s.) ;
                       <quote><persName role="possesseur" key="J. N. de Murat">J. N. de Murat</persName></quote> (d’une main du 17<hi rend="sup">e</hi> s., qui a copié la table des matières ; d’après <bibl>Shailor</bibl>, peut-être un membre de la famille de magistrats du même nom à Carcassonne, cf. <bibl>Descadellas, <title level="a">La bibliothèque municipale de Carcassonne</title>, dans <title>Bulletin de la Société des Bibliophiles de Guyenne</title>, t. 39, 1970, p. 4-5</bibl>) ;
                       <quote><persName role="possesseur">Bruyere</persName></quote>, marge de queue, p. 1 (écriture 17-18<hi rend="sup">e</hi> s.) ; <persName role="possesseur">Prohest</persName>, mention datée de 1665, 1<hi rend="sup">er</hi> f. de garde de fin (cf.
-                      <bibl>Shailor</bibl>).</p>
+                      <bibl>Shailor</bibl>).</p></provenance>
+                  <provenance>
                     <p><label>Cotes anciennes non identifiées</label> « <idno type="old">no 332</idno> » (p. 241) ; « <idno type="old">C/Res.</idno> » sur le contreplat supérieur ; « <idno type="old">n° 17149</idno> » sur une étiquette collée sur le contreplat inférieur. Le ms a été acheté à <persName>Maurice Chamonal</persName> en 1955 par
                       <persName>L. C. Witten</persName> (inv. n° 845) qui l’a vendu en 1958 à <persName>Thomas E. Marston</persName> (cf. contreplat supérieur).</p>
                   </provenance>
@@ -2155,7 +2157,7 @@
                       <title type="section" xml:lang="fr">Table des rubriques</title>
                       <incipit><seg type="rubric">Cy commence la table des chappitres de ce present volume intitulé l’Ordinaire de maistre Tancrez qui traitte <expan>comme<ex>n</ex>t</expan> toute personne se doit avoir en justice et contient quatre livres dont les rubrices du premier s’ensuivent.</seg><lb/>Premierement le prologue i<lb/>De l’ordre des jugemens i</incipit>
                       <explicit>Fin de la table des quatre livres de l’Ordinaire maistre Tancrez.</explicit>
-                      <note type="msItem">La table renvoie à la foliotation du texte dans le manuscrit.</note>
+                      <note>La table renvoie à la foliotation du texte dans le manuscrit.</note>
                     </msItem>
                     <msItem xml:id="fr_1073_ordo_livre1">
                       <locus from="1a" to="23c"/>
@@ -2538,7 +2540,8 @@
                     <origPlace>France (Paris ?)</origPlace>
                   </origin>
                   <provenance>
-                    <p><label>Provenance</label>a appartenu à <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (blason recouvert par les armes de France f. 1) ; librairie de Blois (ex libris collé sur le contreplat supérieur du volume : <quote>Des hystoires et livres en françoys Pulpito 3° contre la muraille devers la court<lb/>L’ordinaire de maistre Tancrez</quote>).</p>
+                    <p><label>Provenance</label>a appartenu à <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (blason recouvert par les armes de France f. 1) ; librairie de Blois (ex libris collé sur le contreplat supérieur du volume : <quote>Des hystoires et livres en françoys Pulpito 3° contre la muraille devers la court<lb/>L’ordinaire de maistre Tancrez</quote>).</p></provenance>
+                  <provenance>
                     <p><label>Anciennes cotes</label>f. A de la table [Dupuy I (1645)]
                       <idno type="old">644</idno>, [Regius] <idno type="old">7347</idno>; f. 1 du texte <idno type="old">MDCCCVII</idno> [Rigault II].</p>
                   </provenance>
@@ -2592,7 +2595,7 @@
                       <title type="section" xml:lang="fr">Table des titres</title>
                       <incipit xml:lang="fro">Icist livres est devisés en quatres parties dont la permiere partie <expan><ex>con</ex>tient</expan> x chapitres<lb/>Li premiers <lb/>i. De l’ordre des jugemans</incipit>
                       <explicit xml:lang="lat">In hujus opere sit nomen Domini benedictum. Amen.</explicit>
-                      <note type="msItem">La table renvoie aux f. du ms. Des initiales nues bleues et rouges de 4 UR distinguent les livres ; des pieds-de-mouche alternativement bleus et rouges précèdent chaque titre.</note>
+                      <note>La table renvoie aux f. du ms. Des initiales nues bleues et rouges de 4 UR distinguent les livres ; des pieds-de-mouche alternativement bleus et rouges précèdent chaque titre.</note>
                     </msItem>
                     <msItem xml:id="fr_1074_ordo_livre1">
                       <locus from="1a" to="28d"/>
@@ -2932,7 +2935,7 @@
                     <title type="partie" xml:lang="lat">Versus de mola piperis</title>
                     <incipit xml:lang="lat">Militis uxorem clamidis mercede subegit clericus...</incipit>
                     <explicit xml:lang="lat">Sed magis ad nostram non molet ille molam</explicit>
-                    <note type="msItem">Ajoutés d’une main cursive aux 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. sur le verso blanc du dernier f.</note>
+                    <note>Ajoutés d’une main cursive aux 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. sur le verso blanc du dernier f.</note>
                   </msItem>
                 </msContents>
                 <physDesc>
@@ -2978,7 +2981,8 @@
                   </origin>
                   <provenance>
                     <p><label>Provenance</label>a appartenu à <persName role="possesseur" key="Martin Gilbert">Martin Gilbert</persName>, professeur de droit à Paris, puis conseiller au parlement de Toulouse, qui a
-                      <q>fait des notes et explications des decretales [insérées] dans l’édition du Droit canonique de 1561, Paris, Merlin. des Bois &amp; Nivelle</q> (<bibl>Denis Simon, <title>Nouvelle bibliothèque historique et chronologique des principaux auteurs et interpretes du droit civil, canonique et particulier de plusieurs états et provinces</title>, Paris, t. 2, 1695, p. 122</bibl>), ex-libris d’un main du 16e s. sur l’ancien contreplat inférieur (aujourd’hui f. de garde parch. fin) : <q>Mart. Gilbert. iuris professor Parisiens. 1560</q>.</p>
+                      <q>fait des notes et explications des decretales [insérées] dans l’édition du Droit canonique de 1561, Paris, Merlin. des Bois &amp; Nivelle</q> (<bibl>Denis Simon, <title>Nouvelle bibliothèque historique et chronologique des principaux auteurs et interpretes du droit civil, canonique et particulier de plusieurs états et provinces</title>, Paris, t. 2, 1695, p. 122</bibl>), ex-libris d’un main du 16e s. sur l’ancien contreplat inférieur (aujourd’hui f. de garde parch. fin) : <q>Mart. Gilbert. iuris professor Parisiens. 1560</q>.</p></provenance>
+                  <provenance>
                     <p><label>Anciennes cotes (f. 1)</label>[Baluze] <idno type="old">390</idno>, [Regius] <idno type="old">7347<hi rend="sup">2</hi></idno>.</p>
                   </provenance>
                 </history>
@@ -3021,7 +3025,7 @@
                       <locus from="1a" to="1b"/>
                       <title type="section" xml:lang="fr">Table</title>
                       <incipit xml:lang="fro"><seg type="rubric">Chi <expan><ex>com</ex>menche</expan> li <expan>p<ex>re</ex>mier</expan> titre de l’Ordinaeres maestre <expan>Ta<ex>n</ex>cré</expan> canoigne de Boloigne du <expan>p<ex>re</ex>mier</expan> livre</seg><lb/>De l’ordre des <expan>jugeme<ex>n</ex>s</expan>.<lb/>Des juges ordinaeres.</incipit>
-                      <note type="msItem">La fin de la table manque, parce que le quart supérieur du f. 1 a été arraché.</note>
+                      <note>La fin de la table manque, parce que le quart supérieur du f. 1 a été arraché.</note>
                     </msItem>
                     <msItem xml:id="fr_1075_ordo_livre1">
                       <locus from="1b" to="18d"/>
@@ -3524,7 +3528,7 @@
                       <explicit>
                         <seg type="rubric">De restitution viii<lb/>Ci finissent li tytre</seg>
                       </explicit>
-                      <note type="msItem">Initiale de chaque titre alternativement rouge et bleue. Numéro d’ordre des titres rubriqué. La main plus tardive (14e-15e s.) qui a folioté l’<title xml:lang="lat">Ordo</title> de <persName>Tancrède</persName> a ajouté aux numéros d’ordre les numéros de f. en cursive. La division en livres est signalée dans la table par des rubriques.</note>
+                      <note>Initiale de chaque titre alternativement rouge et bleue. Numéro d’ordre des titres rubriqué. La main plus tardive (14e-15e s.) qui a folioté l’<title xml:lang="lat">Ordo</title> de <persName>Tancrède</persName> a ajouté aux numéros d’ordre les numéros de f. en cursive. La division en livres est signalée dans la table par des rubriques.</note>
                     </msItem>
                     <msItem xml:id="fr_25546_ordo_livre1">
                       <locus from="1a" to="24b"/>
@@ -3857,7 +3861,7 @@
                   <msItem n="2" xml:id="fr_25546_coutumier_champagne">
                     <locus from="130a" to="139a"/>
                     <title type="partie" xml:lang="fr">ancien coutumier de Champagne (titres : <title><seg type="rubric">Ci commance li ordenemanz des coustumes de Champaingne</seg></title> f. 130a ; <title><seg type="rubric">Ci faillent les coustumes de Champaingne</seg></title> f. 139a).</title>
-                    <note type="msItem">Texte édité dans <bibl>P. Portejoie, <title>L’ancien coutumier de Champagne</title>, Poitiers, 1956</bibl>.</note>
+                    <note>Texte édité dans <bibl>P. Portejoie, <title>L’ancien coutumier de Champagne</title>, Poitiers, 1956</bibl>.</note>
                     <msItem xml:id="fr_25546_coutumier_champagne_table">
                       <locus from="130a" to="130d"/>
                       <title type="section" xml:lang="fr">Table</title>
@@ -3874,12 +3878,12 @@
                     <title type="partie" xml:lang="fr">Prognostics d’Ezéchiel (en vers) <note>titre : <title xml:lang="lat">Incipit liber Ezechie <expan>p<ex>ro</ex>ph<ex>et</ex>e</expan> de divisione annorum</title> f. 139b</note>.</title>
                     <incipit xml:lang="fro">[E]n terre de labour et de <expan>p<ex>ro</ex>mission</expan><lb/> Ot jadis .i. <expan>p<ex>ro</ex>dome</expan> Ezechiel ot <expan>no<ex>n</ex></expan>...</incipit>
                     <explicit xml:lang="fro">Les bestes morront l’<expan>a<ex>n</ex></expan> nou mettre en obliance<lb/>Garde bien ton <expan>froum<ex>en</ex>t</expan> <expan><ex>et</ex></expan> dou cuillir t’avance.</explicit>
-                    <note type="msItem">Texte édité par <bibl>Paul Meyer, <title level="a">Notice du ms A 454 de la Bibliothèque de Rouen</title>, dans <title>Bulletin de la Société des anciens textes</title>, t. 9, 1883, p. 89-91</bibl>.</note>
+                    <note>Texte édité par <bibl>Paul Meyer, <title level="a">Notice du ms A 454 de la Bibliothèque de Rouen</title>, dans <title>Bulletin de la Société des anciens textes</title>, t. 9, 1883, p. 89-91</bibl>.</note>
                   </msItem>
                   <msItem n="4" xml:id="fr_25546_autres">
                     <locus from="140a" to="150r"/>
                     <title type="partie" xml:lang="fr">lapidaire, flore et bestiaire (titre : <title>C’est li force <expan><ex>et</ex></expan> les <expan>v<ex>er</ex>tus</expan> des pierres precieuses <expan><ex>et</ex></expan> des herbes et des bestes que li royz Enaux <expan><ex>et</ex></expan> Aaron <expan><ex>et</ex></expan> li royz Foudreiz firent a l’onor <expan><ex>et</ex></expan> au secours de touz ceux qui aprés lour vendrient <expan><ex>et</ex></expan> <expan>p<ex>re</ex>mierema<ex>n</ex>t</expan> des pierres precieuses <expan>enco<ex>m</ex>ma<ex>n</ex>ce</expan> au saphir</title>).</title>
-                    <note type="msItem">Texte inédit.</note>
+                    <note>Texte inédit.</note>
                     <msItem xml:id="fr_25546_autres_lapidaire">
                       <locus from="140a" to="146b"/>
                       <title type="section" xml:lang="fr">Lapidaire</title>
@@ -3951,7 +3955,8 @@
                   </origin>
                   <provenance>
                     <p><label>Provenance</label>Le copiste, <persName role="copiste" key="Martin de Bordon">Martin de Bordon</persName>, est probablement originaire de l’actuel Bourdons-sur-Rognon [Haute-Marne ; arr. Chaumont ; cant. Bologne], au nord-est du diocèse de Langres, village tout proche de l’abbaye cistercienne de La Crête, florissante au 14e s. et protégée par les évêques de Langres. L’origine champenoise est confirmée par la
-                      <hi rend="i">scripta</hi> champenoise de la coutume et du bestiaire, ainsi que par les feuillets de garde A-B et f. 151, constitués de fragments des comptes de l'hôpital de Langres pour 1373 (f. 151). Le ms a dû demeurer en Champagne jusqu’en 1654, date à laquelle <persName role="possesseur" key="Claude Joly">Claude Joly</persName> en fait l’acquisition. Claude Joly est d’abord avocat, puis chanoine de Notre-Dame de Paris, chapitre dont il est official et grand chantre. Bibliothécaire du chapitre, il en enrichit la collection de manuscrits par de nombreuses acquisitions. Cf. Ex-libris : <q>Cl. Joly, en octobre 1654, achepté à Chaumont en Bassigni.</q>, verso du f. A.</p>
+                      <hi rend="i">scripta</hi> champenoise de la coutume et du bestiaire, ainsi que par les feuillets de garde A-B et f. 151, constitués de fragments des comptes de l'hôpital de Langres pour 1373 (f. 151). Le ms a dû demeurer en Champagne jusqu’en 1654, date à laquelle <persName role="possesseur" key="Claude Joly">Claude Joly</persName> en fait l’acquisition. Claude Joly est d’abord avocat, puis chanoine de Notre-Dame de Paris, chapitre dont il est official et grand chantre. Bibliothécaire du chapitre, il en enrichit la collection de manuscrits par de nombreuses acquisitions. Cf. Ex-libris : <q>Cl. Joly, en octobre 1654, achepté à Chaumont en Bassigni.</q>, verso du f. A.</p></provenance>
+                  <provenance>
                     <p><label>Anciennes cotes</label>
                       <idno type="old">F 17</idno> (cote de la bibl. de l’Eglise de Paris ; f. Av) ; <idno type="old">fonds Notre-Dame 120</idno> (f. A, f. 1).</p>
                   </provenance>
@@ -3995,7 +4000,7 @@
                       <locus from="1a" to="1b"/>
                       <title type="section" xml:lang="fr">Liste des titres</title>
                       <incipit xml:lang="fro">Des juges delegas. Des arbitres.</incipit>
-                      <note type="msItem">La liste est amputée du début, suite à une déchirure dans la partie supérieure du f. 1. Le f. 1a commençait par le titre du texte et le nom de l’auteur suivis de la liste des titres du premier livre. Les titres sont copiés à longues lignes les uns à la suite des autres, séparés par un point et par un rehaut de rouge sur la première lettre du titre.</note>
+                      <note>La liste est amputée du début, suite à une déchirure dans la partie supérieure du f. 1. Le f. 1a commençait par le titre du texte et le nom de l’auteur suivis de la liste des titres du premier livre. Les titres sont copiés à longues lignes les uns à la suite des autres, séparés par un point et par un rehaut de rouge sur la première lettre du titre.</note>
                     </msItem>
                     <msItem xml:id="nafr_10046_ordo_livre1">
                       <locus from="1b" to="18b"/>
@@ -4458,7 +4463,7 @@
                     <incipit xml:lang="fro"><seg type="rubric">Assavoir se le demandeur a fait en son adjournement ses demandes, se le deffenseur avra jour de conseil. .lx.</seg><lb/>Se partie fait mettre en son adjournement les demandes qu’elle entent a faire a son deffendeur...</incipit>
                     <explicit xml:lang="fro"><seg type="rubric">Question seur provision requise par Jehan de Praelles contre les religieus de saint Maard sur la maison de Ruigny. iii<hi rend="sup">xx</hi>xix.</seg><lb/>Memoire de Jean de Pourelles qui requeroit de l’eglise de saint Maard de Soissons que <expan><ex>com</ex>me</expan> une <expan>p<ex>er</ex>mission</expan>... <note>explicit de la main qui a copié le reste du texte</note></explicit>
                     <explicit>Par l’us et la coustume dou païs de Flandres dessusdit se aucuns des mainnés muert aprés la mort dou pere, sa portion vient par droit d’escheoite a tous ses frerez tant ainnez <expan><ex>com</ex>me</expan> mainnez par portion egalez soit mors <expan>civilem<ex>en</ex>t</expan>, c’est assavoir mis en religion ou naturelment. <note>pourrait être ajout d’une autre main, f. 9-9v</note></explicit>
-                    <note type="msItem">Amputé du début, puisque les chapitres sont numérotés de 60 à 99. Il ne s’agit pas d’une coutume du pays de Flandre, comme pourrait le faire croire l’explicit du f. 9v, puisque des allusions sont faites à de nombreux usages et coutumes (coutume de France, style du Parlement de Paris, rappel de jugements divers). Le texte a été complété par une main contemporaine différente (f. 9-9v), postérieure à la rubrication du manuscrit et à la confection des initiales du traité. C’est pourquoi nous donnons l’explicit primitif et l’explicit du texte complété.</note>
+                    <note>Amputé du début, puisque les chapitres sont numérotés de 60 à 99. Il ne s’agit pas d’une coutume du pays de Flandre, comme pourrait le faire croire l’explicit du f. 9v, puisque des allusions sont faites à de nombreux usages et coutumes (coutume de France, style du Parlement de Paris, rappel de jugements divers). Le texte a été complété par une main contemporaine différente (f. 9-9v), postérieure à la rubrication du manuscrit et à la confection des initiales du traité. C’est pourquoi nous donnons l’explicit primitif et l’explicit du texte complété.</note>
                   </msItem>
                   <msItem n="2" xml:id="stomer_545_ordo">
                     <locus from="10v" to="137v"/>

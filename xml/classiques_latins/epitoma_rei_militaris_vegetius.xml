@@ -208,7 +208,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1275" notAfter="1300">dernier 1/4 du XIII<hi rend="sup">e</hi> s.(proche de Paris, bibl. Mazarine, 347, f. 241 [avant 1292], <title>Mss datés</title>, t. I, pl. 23, et de Paris, Bibl. nat. de Fr., lat. 5592, f. 108 [1273], <title>Mss datés</title>, t. II, pl. 32)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Edouard Ier d’Angleterre">Edouard Ier</persName> ou <persName role="possesseur" key="Edouard II d’Angleterre">Edouard II</persName></provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Edouard Ier d’Angleterre">Edouard Ier</persName> ou <persName role="possesseur" key="Edouard II d’Angleterre">Edouard II</persName></p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -231,7 +231,7 @@
       <div type="traduction" xml:id="Jean_de_Meun">
         <head>Traduction de <persName role="traducteur">Jean de Meun</persName> : <title>Li abregemenz noble honme Vegesce Flave René des establissemenz appartenanz a chevalerie</title></head>
         <dateline>
-          <date notBefore="1284" notAfter="1284">1284</date>
+          <date when="1284">1284</date>
         </dateline>
         <p>Traduction exécutée en 1284 à la demande de Jean Ier, comte d’Eu. <title>Li abregemenz...</title> est la première traduction de Jean de Meun, qui rend très précisément le vocabulaire latin de sa source, cherchant le plus souvent des équivalents dans la langue militaire du Moyen Age, sans toutefois hésiter à recourir à des néologismes. Quelques brefs développements empruntés à l’histoire ancienne ou récente viennent enrichir le texte. Jean de Meun a utilisé un texte latin de la famille π. J. Monfrin, dans son mémoire inédit (p. 439-441), distinguait un remaniement de la traduction de Jean de Meun, conservé dans trois manuscrits du milieu du XV<hi rend="sup">e</hi> siècle (Paris, bibl. de l’Arsenal, 2916 ; Paris, Bibl. nat. de Fr., fr. 12360 ; Torino, Archivio di Stato, J.b.VI.11). Selon J. Monfrin, ces trois manuscrits se caractérisent :</p>
         <cit>
@@ -520,7 +520,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s.(proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>Possesseurs : <persName role="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName role="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes ajoutés f. 1a), probablement acheté avant 1494 par Catherine pour l’éducation de son fils Antoine mort en 1494 (2).</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> et <persName role="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et monogrammes ajoutés f. 1a), probablement acheté avant 1494 par Catherine pour l’éducation de son fils Antoine mort en 1494 (2).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -552,7 +552,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1301" notAfter="1350">1<hi rend="sup">re</hi> moitié du XIV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Esch, famille d’">famille d’Esch en Lorraine</persName> (armes au premier et au dernier f.).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Esch, famille d’">famille d’Esch en Lorraine</persName> (armes au premier et au dernier f.).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -577,7 +577,7 @@
                 </objectDesc>
               </physDesc>
               <history>
-                <provenance>Possesseur : <persName role="possesseur" key="Waleran de Wavrin">Waleran de Wavrin</persName> (f. 93, armes de Wavrin)</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Waleran de Wavrin">Waleran de Wavrin</persName> (f. 93, armes de Wavrin)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -673,7 +673,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1420">fin du XIV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> siècle (proche du ms Paris, bibl. Mazarine, 646, f. 164 [1399], <title>Mss datés</title>, t. I, pl. 71)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="John Shirley">John Shirley</persName> († 1456), copiste de textes anglais [Bouveret 11445-11446], a inscrit son ex-libris sur le f. de garde ainsi que 8 vers moraux en anglais (f. 1v) ; on trouve de la main de Shirley une pièce de parchemin collée sur le f. de garde (f. 1) portant le titre « <title>Vegece of Chyvalrye in frenche</title>  » ; au verso du f. de garde de fin, devise « <quote>« Puis qu’il vous plaist »</quote> » d’une main du XV<hi rend="sup">e</hi> siècle.</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="John Shirley">John Shirley</persName> († 1456), copiste de textes anglais [Bouveret 11445-11446], a inscrit son ex-libris sur le f. de garde ainsi que 8 vers moraux en anglais (f. 1v) ; on trouve de la main de Shirley une pièce de parchemin collée sur le f. de garde (f. 1) portant le titre « <title>Vegece of Chyvalrye in frenche</title>  » ; au verso du f. de garde de fin, devise « <quote>« Puis qu’il vous plaist »</quote> » d’une main du XV<hi rend="sup">e</hi> siècle.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -730,7 +730,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s.</origin>
-                <provenance>Possesseur : <quote>« Iste liber est <persName role="possesseur" key="Guillermus Brydus [ou Brydi]">Guillermi Brydi</persName> »</quote> (main du XV<hi rend="sup">e</hi> s.).</provenance>
+                <provenance><p>Possesseur : <quote>« Iste liber est <persName role="possesseur" key="Guillermus Brydus [ou Brydi]">Guillermi Brydi</persName> »</quote> (main du XV<hi rend="sup">e</hi> s.).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -760,7 +760,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1280" notAfter="1320">fin XIII<hi rend="sup">e</hi> s.-début XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 5059, f. 2v [1317], <title>Mss datés</title>, t. I, pl. 32)</origin>
-                <provenance>possesseur : <quote>« A <persName role="possesseur" key="Montagu, de">monseigneur de Montagu</persName> »</quote> f. 2.</provenance>
+                <provenance><p>Possesseur : <quote>« A <persName role="possesseur" key="Montagu, de">monseigneur de Montagu</persName> »</quote> f. 2.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -791,7 +791,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (ms proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName> (armes ajoutées f. 1, 35).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName> (armes ajoutées f. 1, 35).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -823,7 +823,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
-                <provenance>possesseur : trois écus ajoutés au bas du f. 1 : au milieu, d’azur, à la bande d’or, accompagnée de six besants du même, trois en chef et trois en pointe posés en orle (<persName role="possesseur" key="Chandée, famille de">famille de Chandée</persName>, Bresse et Bugey) ; de chaque côté : écu parti de Chandée et écartelé d’or et de gueules (<persName role="possesseur" key="Saix, famille de">famille Du Saix, Bresse</persName>) ; la réunion de ces armes sur ce même volume s’explique par le mariage en 1451 de <persName role="possesseur" key="Hugonin de Chandée">Hugonin de Chandée</persName> et de <persName role="possesseur" key="Jeanne de Saix">Jeanne de Saix</persName> (cf. S. Guichenon, <title>Histoire de Bresse et de Bugey</title>, Lyon, 1650, 3e partie, p. 108). Le ms a donc appartenu soit à Hugonin lui-même, soit à l’un de ses deux fils, <persName role="possesseur" key="Jean de Chandée">Jean</persName> († 1509) ou <persName role="possesseur" key="Philibert de Chandée, gouverneur de Mâcon">Philibert</persName>, gouverneur de Mâcon, puis de Parme, mort avant son frère.</provenance>
+                <provenance><p>Possesseur : trois écus ajoutés au bas du f. 1 : au milieu, d’azur, à la bande d’or, accompagnée de six besants du même, trois en chef et trois en pointe posés en orle (<persName role="possesseur" key="Chandée, famille de">famille de Chandée</persName>, Bresse et Bugey) ; de chaque côté : écu parti de Chandée et écartelé d’or et de gueules (<persName role="possesseur" key="Saix, famille de">famille Du Saix, Bresse</persName>) ; la réunion de ces armes sur ce même volume s’explique par le mariage en 1451 de <persName role="possesseur" key="Hugonin de Chandée">Hugonin de Chandée</persName> et de <persName role="possesseur" key="Jeanne de Saix">Jeanne de Saix</persName> (cf. S. Guichenon, <title>Histoire de Bresse et de Bugey</title>, Lyon, 1650, 3e partie, p. 108). Le ms a donc appartenu soit à Hugonin lui-même, soit à l’un de ses deux fils, <persName role="possesseur" key="Jean de Chandée">Jean</persName> († 1509) ou <persName role="possesseur" key="Philibert de Chandée, gouverneur de Mâcon">Philibert</persName>, gouverneur de Mâcon, puis de Parme, mort avant son frère.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -931,7 +931,7 @@
                 <p>vol. formé de 2 manuscrits anciennement juxtaposés</p>
               </msContents>
               <history>
-                <provenance>Possesseurs de I et II : <persName role="possesseur" key="Jacques Bauchant">Jacques Bauchant</persName> (<quote>« Chils livres est Jacques Bauchant, sergant du roy nostre sire en la prevosté de Saint Quentin en Vermendois et li cousta a Noyon III flourins d’or que on dist frans qui valoient sur tout XLVIII sous parisis le gros tournois d’argent pour XV frans parisis ; che fu ou mois de march l’an mil CCCLXVIII. Qui le troeuve ou cui il le prestera se li rende si fera ce que il devera, et contient dusques chi XIII quohiers et [...] foellais et sur tout XV quohiers »</quote>, I, f. 107d ; <quote>« C’est Ja. Bauchant demourant a Saint Quentin en Vermandois »</quote>, II, f. 163v), <persName role="possesseur" key="Louis d’Orléans">Louis d’Orléans</persName>, <persName role="possesseur" key="Charles d’Orléans, comte d’Angoulême">Charles d’Orléans</persName> (<quote>« <title type="ancien">Le Livre de Vegece de chevalerie</title>, couvert de veloux noir, et <title>le Testament de Maistre Jehan de Meun</title> »</quote>, n°19 de l'inventaire de 1417; <quote>« <title type="ancien">Le Livre de Vegece de chevalerye</title> avecques <title type="ancien">le Testament de Maistre Jehan de Meun</title>, escript en françois, lettres de forme, historié, couvert de velours noir a deux petis fermouers de cuivre »</quote>, n° 14 de l'inventaire après le retour de captivité), <persName role="possesseur" key="Jean d’Angoulême">Jean d’Angoulême</persName> (<quote>« <title type="ancien">Vegeste des Batailles</title> en parchemin et lettre de forme, en françois, commançant ou second fueillé <quote>« le treziesme »</quote> et finissant ou penultime <quote>« gloire et redempcion »</quote> »</quote>, cf. 3 et 4, n°47 de l’inventaire de 1467).</provenance>
+                <provenance><p>Possesseurs de I et II : <persName role="possesseur" key="Jacques Bauchant">Jacques Bauchant</persName> (<quote>« Chils livres est Jacques Bauchant, sergant du roy nostre sire en la prevosté de Saint Quentin en Vermendois et li cousta a Noyon III flourins d’or que on dist frans qui valoient sur tout XLVIII sous parisis le gros tournois d’argent pour XV frans parisis ; che fu ou mois de march l’an mil CCCLXVIII. Qui le troeuve ou cui il le prestera se li rende si fera ce que il devera, et contient dusques chi XIII quohiers et [...] foellais et sur tout XV quohiers »</quote>, I, f. 107d ; <quote>« C’est Ja. Bauchant demourant a Saint Quentin en Vermandois »</quote>, II, f. 163v), <persName role="possesseur" key="Louis d’Orléans">Louis d’Orléans</persName>, <persName role="possesseur" key="Charles d’Orléans, comte d’Angoulême">Charles d’Orléans</persName> (<quote>« <title type="ancien">Le Livre de Vegece de chevalerie</title>, couvert de veloux noir, et <title>le Testament de Maistre Jehan de Meun</title> »</quote>, n°19 de l'inventaire de 1417; <quote>« <title type="ancien">Le Livre de Vegece de chevalerye</title> avecques <title type="ancien">le Testament de Maistre Jehan de Meun</title>, escript en françois, lettres de forme, historié, couvert de velours noir a deux petis fermouers de cuivre »</quote>, n° 14 de l'inventaire après le retour de captivité), <persName role="possesseur" key="Jean d’Angoulême">Jean d’Angoulême</persName> (<quote>« <title type="ancien">Vegeste des Batailles</title> en parchemin et lettre de forme, en françois, commançant ou second fueillé <quote>« le treziesme »</quote> et finissant ou penultime <quote>« gloire et redempcion »</quote> »</quote>, cf. 3 et 4, n°47 de l’inventaire de 1467).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1055,7 +1055,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., fr. 254, f. 22 [1467])</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Pingon, famille">famille Pingon, barons de Cousey en Savoie</persName> (armes f. 1) ; monogramme B Y (f. 1) ; colophon <quote>« un pot d’or »</quote> (f. 85c).</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Pingon, famille">famille Pingon, barons de Cousey en Savoie</persName> (armes f. 1) ; monogramme B Y (f. 1) ; colophon <quote>« un pot d’or »</quote> (f. 85c).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1115,7 +1115,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1295" notAfter="1320">début du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 870, f. 191 [1295], <title>Mss datés</title>, t. I, pl. 24)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Nicolas Jorne">Nicolas Jorne</persName> (<quote>« Ci fenist li livres Vegece del art de chevalerie apartenant a sire Nicolas Jorne lequel fut translaté de latin en françois par mestre Jehan de Meun. Qui le trouvera luy raporte bon vin ara »</quote> f. 99a, main du début du XIV<hi rend="sup">e</hi> siècle).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Nicolas Jorne">Nicolas Jorne</persName> (<quote>« Ci fenist li livres Vegece del art de chevalerie apartenant a sire Nicolas Jorne lequel fut translaté de latin en françois par mestre Jehan de Meun. Qui le trouvera luy raporte bon vin ara »</quote> f. 99a, main du début du XIV<hi rend="sup">e</hi> siècle).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1506,7 +1506,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1430" notAfter="1470">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale, 10222-23, f. 3v [1435], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1401-1440</title>, Bruxelles-Gand, 1972, t. II, pl. 364)</origin>
-                <provenance>Possesseurs : <persName role="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1537,7 +1537,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1330" notAfter="1370">Flandre ; milieu du XIV<hi rend="sup">e</hi> s. (proche du ms Gand, bibl. universitaire, 942, f. 41v [1367], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 819-1400</title>, Bruxelles-Gand, 1968, t. I, pl. 169) (sur le contreplat du plat supérieur : <quote>« Anno Domini millesimo CCCCmo primo »</quote>)</origin>
-                <provenance>possesseurs : exécuté pour le <persName role="possesseur" key="Flandre, comte de">comte de Flandre</persName> ou pour l’un de ses vassaux (écu aux armes de Flandre f. 4) ; <persName role="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</provenance>
+                <provenance><p>Possesseurs : exécuté pour le <persName role="possesseur" key="Flandre, comte de">comte de Flandre</persName> ou pour l’un de ses vassaux (écu aux armes de Flandre f. 4) ; <persName role="possesseur" key="Bourgogne, ducs de">ducs de Bourgogne</persName> après 1420 (inventaires de 1467/1469, de 1489 et de 1577).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1667,7 +1667,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseurs : Humfrey of Gloucester [† 1447] : <quote>« Cest livre est a moy <persName role="possesseur" key="Humfrey of Gloucester">Homfrey duc de Gloucestre</persName> du don Moss. <persName role="possesseur" key="Robert Roos">Robert Roos</persName> chevalier mon cousin »</quote> (fin du ms); <quote>« Strangways »</quote> ? (f. 2, main du XVIe s.).</provenance>
+                <provenance><p>Possesseurs : Humfrey of Gloucester [† 1447] : <quote>« Cest livre est a moy <persName role="possesseur" key="Humfrey of Gloucester">Homfrey duc de Gloucestre</persName> du don Moss. <persName role="possesseur" key="Robert Roos">Robert Roos</persName> chevalier mon cousin »</quote> (fin du ms); <quote>« Strangways »</quote> ? (f. 2, main du XVIe s.).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1697,7 +1697,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1477" notAfter="1550">Bruges, après 1477 (proche du ms London, British Libr., Royal 18 E III, f. 60 [Bruges ?, 1479], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 816)</origin>
-                <provenance>possesseurs : le baron écossais <persName role="possesseur" key="Sydney Colvin">Sydney Colvin</persName> (armes et devise dans la brodure du f. 7) ; <persName role="possesseur" key="Angleterre, rois d’">rois d’Angleterre</persName> (n° 68 du catalogue des mss conservés à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535).</provenance>
+                <provenance><p>Possesseurs : le baron écossais <persName role="possesseur" key="Sydney Colvin">Sydney Colvin</persName> (armes et devise dans la brodure du f. 7) ; <persName role="possesseur" key="Angleterre, rois d’">rois d’Angleterre</persName> (n° 68 du catalogue des mss conservés à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1763,7 +1763,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 2071, f. 105 [1382], <title>Mss datés</title>, t. I, pl. 58)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Jean de Berry">Jean duc de Berry</persName> (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque impériale</title>, Paris, 1868-1881, t. III, p. 186 ; Id., <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 253 et 305 (avant 1402)) ; <persName role="possesseur" key="Marie de Berry, duchesse de Bourbonnais">Marie, duchesse de Bourbonnais</persName>, fille du duc de Berry, femme de Jean Ier duc de Bourbon ; <persName role="possesseur" key="Jean II, duc de Bourbon">Jean II duc de Bourbon</persName> († 1484) (<quote>« Ce livre est au duc de Bourbon <note>[sign. <foreign>infra</foreign>]</note> Jehan »</quote> f. 4a) qui le conservait au château de Moulins, où il fut confisqué, après la condamnation de Bourbon, en 1523, par François Ier.</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Jean de Berry">Jean duc de Berry</persName> (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque impériale</title>, Paris, 1868-1881, t. III, p. 186 ; Id., <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 253 et 305 (avant 1402)) ; <persName role="possesseur" key="Marie de Berry, duchesse de Bourbonnais">Marie, duchesse de Bourbonnais</persName>, fille du duc de Berry, femme de Jean Ier duc de Bourbon ; <persName role="possesseur" key="Jean II, duc de Bourbon">Jean II duc de Bourbon</persName> († 1484) (<quote>« Ce livre est au duc de Bourbon <note>[sign. <foreign>infra</foreign>]</note> Jehan »</quote> f. 4a) qui le conservait au château de Moulins, où il fut confisqué, après la condamnation de Bourbon, en 1523, par François Ier.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1935,7 +1935,7 @@
         <div type="soustraduction" n="Vb" xml:id="ajout_traductionanonyme">
           <head>Ajout à la fin de la traduction anonyme de 1380</head>
           <dateline>
-            <date notBefore="1380" notAfter="1380">1380</date>
+            <date when="1380">1380</date>
           </dateline>
           <listBibl>
             <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
@@ -1967,7 +1967,7 @@
       <div type="traduction" xml:id="anonyme1380">
         <head>Traduction anonyme : <title>Le livre de l’art de chevalerie de Vegesce</title></head>
         <dateline>
-          <date notBefore="1380" notAfter="1380">1380</date>
+          <date when="1380">1380</date>
         </dateline>
         <p>La traduction anonyme dont les deux manuscrits portent au commencement du texte la date de 1380 a deux marques distinctives : d’une part, l’absence d’une traduction littérale du chapitre 26 du livre III (<title>Regulae belli generales</title>) et,
           <quote>« de l’autre, l’addition, à la fin du livre, d’une traduction versifiée de ce chapitre (<title>Riules</title>...). Observons également l’absence des prologues des livres II, III et IV, ainsi que l’absence d’une traduction du chapitre 17 du livre II.  »</quote> (<title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989, p. 5). Cette traduction est beaucoup plus libre que celles de Jean de Meun et de Jean de Vignay, bien qu’elle comprenne beaucoup de latinismes. On ne sait précisément d’où elle vient et elle n’a eu qu’une faible diffusion.</p>
@@ -2048,7 +2048,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1415" notAfter="1425">vers 1420 (proche du ms Bruxelles, Bibl. royale II 2609, f. 2 [1430], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1401-1440</title>, Bruxelles-Gand, 1972, t. II, pl. 326)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armes peintes f. 1), <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (<quote>« Cest livre nommé l’art de chevalerie ou il n’y a que une histoire et est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote> f. 75), <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName>.</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armes peintes f. 1), <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (<quote>« Cest livre nommé l’art de chevalerie ou il n’y a que une histoire et est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote> f. 75), <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName>.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -2146,7 +2146,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1395" notAfter="1420">Lorraine (d’après la graphie) ; ms du début du XV<hi rend="sup">e</hi> s. mais les <title>Règles de bataille</title> ont été ajoutées à la fin du XV<hi rend="sup">e</hi> s. dans un espace laissé en blanc dans le ms (f. 146 proche du ms Paris, bibl. de l’Arsenal [1472], <title>Mss datés</title>, t. I, pl. 129)</origin>
-                <provenance>Possesseur : frère <persName role="possesseur" key="Jean de Merville, O.P.">Jean de Merville</persName> (?) de l’ordre des frères prêcheurs (mention XV<hi rend="sup">e</hi> s. f. 1)</provenance>
+                <provenance><p>Possesseur : frère <persName role="possesseur" key="Jean de Merville, O.P.">Jean de Merville</persName> (?) de l’ordre des frères prêcheurs (mention XV<hi rend="sup">e</hi> s. f. 1)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -2286,7 +2286,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1451-12-31" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal, 2048, f. 1 [1464], <title>Mss datés</title>, t. I, pl. 122)</origin>
-                <provenance>Possesseur : <persName role="possesseur" key="Louis de Bourbon, amiral de France">Louis de Bourbon, amiral de France</persName> (ex libris f. 1, ex libris et signature f. 158) ; <persName role="possesseur" key="Charles III de Bourbon, connétable de France">Charles III de Bourbon, connétable de France</persName> ; ms mentionné dans des inventaires de 1474 et 1527 : <title>Les stratagemes Julles Frontin</title> (1474) [n° 216 de l’inventaire de 1527 : en papier, couvert de cuir blanc].</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Louis de Bourbon, amiral de France">Louis de Bourbon, amiral de France</persName> (ex libris f. 1, ex libris et signature f. 158) ; <persName role="possesseur" key="Charles III de Bourbon, connétable de France">Charles III de Bourbon, connétable de France</persName> ; ms mentionné dans des inventaires de 1474 et 1527 : <title>Les stratagemes Julles Frontin</title> (1474) [n° 216 de l’inventaire de 1527 : en papier, couvert de cuir blanc].</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -2315,7 +2315,7 @@
               </physDesc>
               <history>
                 <origin notAfter="1480-01-01" notBefore="1505-12-31">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
-                <provenance><persName role="possesseur" key="Charles VII">Charles VII</persName> (armes de France, f. 3) ; dans l’encadrement des f. 6, 55, 68v, réserve pour un écu</provenance>
+                <provenance><p><persName role="possesseur" key="Charles VII">Charles VII</persName> (armes de France, f. 3) ; dans l’encadrement des f. 6, 55, 68v, réserve pour un écu</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -2349,7 +2349,7 @@
                 </handDesc>
               </physDesc>
               <history>
-                <provenance>possesseur : <persName role="possesseur" key="Jacques d’Esch">Jacques d’Esch</persName> (f. 2v)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Jacques d’Esch">Jacques d’Esch</persName> (f. 2v)</p></provenance>
               </history>
               <additional>
                 <listBibl>

@@ -113,7 +113,7 @@
       <div type="traduction" xml:id="duchesne">
         <head>Traduction de <persName role="traducteur">Jean Duchesne</persName></head>
         <dateline>
-          <date notBefore="1473" notAfter="1473">1473</date>
+          <date when="1473">1473</date>
         </dateline>
         <p>C'est en 1473 que Jean Duchesne ou du Quesne, de Lille, copiste et écrivain de l’entourage des ducs de Bourgogne, rédigea cette traduction à l'intention de Charles le Téméraire. Elle comprend dix livres : les livres II à IX correspondent aux huit livres de l’original. Pour son travail, l’auteur s’est aidé de la traduction de César confectionnée par le traducteur anonyme des <title>Faits des Romains</title>. Les deux livres complémentaires racontent la période de la vie de César antérieure à la conquête des Gaules et la Guerre civile ; ils sont empruntés principalement aux
           <title>Faits des Romains</title> et à la <title>Chronique de Baudouin d’Avesnes</title>. Le texte est truffé de réflexions morales et d’allusions à la grandeur de la maison de Bourgogne et de Charles le Téméraire.</p>
@@ -299,7 +299,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1475" notAfter="1500">Flandre, dernier quart du XV<hi rend="sup">e</hi> s. (proche du ms Bruxelles, Bibl. royale II. 2315, f. 8v [1470], F. Masai et M. Wittek, <title>Manuscrits datés conservés en Belgique</title>, Bruxelles-Gand, 1982, t. IV, pl. 836)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> (1459-1527) (armes f. 19 ; signature sous l’explicit).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> (1459-1527) (armes f. 19 ; signature sous l’explicit).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -369,8 +369,8 @@
                 </decoDesc>
               </physDesc>
               <history>
-                <origin notBefore="1465" notAfter="1475">Flandre (8), Bruges (8) ; ca 1470 (3), <origDate notBefore="1473" notAfter="1473">1473</origDate> (7), <origDate notBefore="1473" notAfter="1476">1473-1476</origDate> (8) (proche du ms London, British Libr., Royal 18 E V, f. 54v [1473], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, The British Library</title>, Londres, 1979, t. II, pl. 771)</origin>
-                <provenance>possesseur : dans l’encadrement du f. 14, au centre de la marge inférieure, la réserve ménagée par la copie d’un écu est restée vierge ; ms probablement acquis par <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (1442-1483) (ms conservé au <orgName role="possesseur" key="Richmond Palace">château de Richmond</orgName>, n° 72).</provenance>
+                <origin notBefore="1465" notAfter="1475">Flandre (8), Bruges (8) ; ca 1470 (3), <origDate when="1473">1473</origDate> (7), <origDate notBefore="1473" notAfter="1476">1473-1476</origDate> (8) (proche du ms London, British Libr., Royal 18 E V, f. 54v [1473], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, The British Library</title>, Londres, 1979, t. II, pl. 771)</origin>
+                <provenance><p>Possesseur : dans l’encadrement du f. 14, au centre de la marge inférieure, la réserve ménagée par la copie d’un écu est restée vierge ; ms probablement acquis par <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (1442-1483) (ms conservé au <orgName role="possesseur" key="Richmond Palace">château de Richmond</orgName>, n° 72).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -411,7 +411,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1476" notAfter="1476">Flandre ; 1476 (proche du ms Paris, Bibl. nat. de Fr., lat. 5029, f. 17 [1471], <title>Mss datés</title> t. II, pl. 148)</origin>
-                <provenance>commanditaire : <persName role="commanditaire">Jacques Douche</persName>, conseiller de Charles le Téméraire.</provenance>
+                <provenance><p>Commanditaire : <persName role="commanditaire">Jacques Douche</persName>, conseiller de Charles le Téméraire.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -448,7 +448,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1505">fin XV<hi rend="sup">e</hi> s. (après 1474) (proche du ms Bruxelles, Bibl. royale, II. 2315, f. 8v [1470], F. Masai et M. Wittek, <title>Manuscrits datés conservés en Belgique</title>, Bruxelles-Gand, 1982, t. IV, pl. 836)</origin>
-                <provenance>possesseur : aux armes de <persName role="possesseur" key="Saintré">Saintré</persName> avec devise <quote>« se je puis »</quote> (f. 4).</provenance>
+                <provenance><p>Possesseur : aux armes de <persName role="possesseur" key="Saintré">Saintré</persName> avec devise <quote>« se je puis »</quote> (f. 4).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -480,7 +480,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1482" notAfter="1482">Gand (f. 312a) ; 1482 (f. 312a) (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (f. 312a) ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (f. 1v), armes de France (f. 26, 94, 117v, 130v...).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (f. 312a) ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (f. 1v), armes de France (f. 26, 94, 117v, 130v...).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -524,7 +524,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1475" notAfter="1485">Lille et Bruges ; vers 1480 (proche du ms Bruxelles, Bibl. royale, IV 456, f. 52v [1488], M. Wittek et T. Glorieux-De Gand, <title>Manuscrits datés conservés en Belgique</title>, Bruxelles, 1987, t. V, pl. 1003)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="André de Haraucourt">André de Haraucourt</persName>, seigneur de Bayon, Ubéxy, Landécourt, Franconville, Seneville, Louppy-Dreuville et Maréville († 1484), commanditaire probable (armes f. 1, 253).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="André de Haraucourt">André de Haraucourt</persName>, seigneur de Bayon, Ubéxy, Landécourt, Franconville, Seneville, Louppy-Dreuville et Maréville († 1484), commanditaire probable (armes f. 1, 253).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -635,7 +635,7 @@
       <div type="traduction" xml:id="gaguin">
         <head>Traduction de <persName role="traducteur">Robert Gaguin</persName></head>
         <dateline>
-          <date notBefore="1485" notAfter="1485">1485</date>
+          <date when="1485">1485</date>
         </dateline>
         <p>La traduction rédigée en 1485 par Robert Gaguin pour Charles VIII ne comporte ni additions ni suppressions. Elle cherche à rendre les réalités antiques par des équivalents modernes et se montre soucieuse de la topographie.</p>
         <listBibl>
@@ -683,13 +683,13 @@
           </div>
           <div type="explicit">
             <head>Strophe de huit vers servant d’épilogue</head>
-            <bibl><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] Antoine Vérard, Paris, <date notBefore="1488" notAfter="1488">1488</date></bibl>
+            <bibl><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] Antoine Vérard, Paris, <date when="1488">1488</date></bibl>
             <p>Lisez, liseurs attrait et entendez<lb/>et ne jugez a cerveau estourdy,<lb/>soit bien soit mal, que avant regardez<lb/>l’euvre en latin dont ce livre est party :<lb/>vous trouverez que je l’ay converty<lb/>selon le sens des mos et de la lettre<lb/>et mon françoys au latin assorty<lb/>le plus au brief que le tout se peult mettre.<lb/>
             </p>
           </div>
           <div type="dedicace">
             <head>Edition de la dédicace </head>
-            <bibl><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date notBefore="1555" notAfter="1555">1555</date></bibl>
+            <bibl><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date when="1555">1555</date></bibl>
             <p>A monsigneur monsieur Philippe de Pise, eslu pour le roy nostre sire au païs de Masconnois, Antoine du Moulin salut.</p>
             <p>Ces jours passez, ayant revu, corrigé et conferé avec le latin les Commentaires de Cesar, j’ay pensé que je ne les pourrois mieux adresser que à vous, tant pour l’amitié et familiarité, que de votre grace m’avez demontree par plusieurs fois, comme par ce que estes studieux et amateur des histoires, qui sont le tresor du temps. Davantage que l’auteur jadis tant vertueux et tant heureux, et encor aujourd’hui tant renommé, traite et fait mencion de notre ville de Mascon et païs de Masconnois : dont appert qu’il n’est pas depuis peu de jours en bruit et estime. Mais à fin que l’on ne pense que j’aye prins ce labeur en vain, ou voulu attribuer à moy l’honneur et labeur d’autrui, qui auroit premier fait cest office de traducteur, j’en laisse la dispute et jugement à la bonne discrecion des plus savans qui en conferant ceste derniere edicion, revue et correction, ou traduccion, avec la premiere et precedente et puis toutes deux avec le latin, facilement connoitront combien il y ha de difference et combien de passages mal en ordre et confus j’ay remis en leur ordre, si que je leur laisseray à juger si j’ay de beaucoup moins labouré et travaillé que le premier traducteur : lequel toutefois ne veux blamer et accuser par ce que je ne suis seur que ce soit sa faute mais croirois bien qu’elle viendroit d’ailleurs, comme d’aucuns imprimeurs ou correcteurs mal diligens et indignes de leur art tant honnorable : attendu que par les mains de plusieurs cest euvre ha tant de fois passé qu’elle ne peult que n’en soit souillee et contaminee. Et brief, de quel coté la faute vienne, et a qui en soit la coulpe, je n’en veux icy estre le juge ; tant seulement me suffit que l’on connoisse et juge avec prudence que je n’y ay mis la main aprés autrui sans grande raison, comme la vue en descouvrira le fait à tout bon oeil. De Lyon ce XV d’octobre 1545. En la maison de Tournes. (1re partie, f. A2r-v)</p>
           </div>
@@ -776,7 +776,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (armoirie dans la bordure sous les miniatures).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (armoirie dans la bordure sous les miniatures).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -808,7 +808,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1495" notAfter="1515">vers 1500-1510 (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100) ; Lyon</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Louis de Grolée">Louis de Grolée</persName>, abbé de Bonnevaux et de Saint-Pierre de Vienne (armes ajoutées postérieurement à la décoration du ms f. 1v, 3a, etc. ; armes et devise f. 2a) ; sur un feuillet de garde intérieur, gravure d’un cavalier présenté comme <quote>« <persName role="possesseur" key="Salvaing, Aymon de">Aymon de Salvaing</persName>, seigneur de Boissieu, surnommé le chevallier hardy, 1505 »</quote>.</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Louis de Grolée">Louis de Grolée</persName>, abbé de Bonnevaux et de Saint-Pierre de Vienne (armes ajoutées postérieurement à la décoration du ms f. 1v, 3a, etc. ; armes et devise f. 2a) ; sur un feuillet de garde intérieur, gravure d’un cavalier présenté comme <quote>« <persName role="possesseur" key="Salvaing, Aymon de">Aymon de Salvaing</persName>, seigneur de Boissieu, surnommé le chevallier hardy, 1505 »</quote>.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -841,7 +841,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1485" notAfter="1485">1485 (peut-être l’exemplaire de dédicace) (proche du ms Paris, Bibl. nat. de Fr., lat. 1179, f. 4 [1475], <title>Mss datés</title>, t. II, pl. 157)</origin>
-                <provenance>possesseur : <persName role="possesseur">rois de France</persName> (n°59 de l’inventaire du <orgName role="possesseur" key="Blois, bibliothèque de">château de Blois</orgName> en 1518 : <title>Commentaires Cesar translatez par maistre Robert Guaguyn feu general des Mathurins</title>).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur">rois de France</persName> (n°59 de l’inventaire du <orgName role="possesseur" key="Blois, bibliothèque de">château de Blois</orgName> en 1518 : <title>Commentaires Cesar translatez par maistre Robert Guaguyn feu general des Mathurins</title>).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -920,7 +920,7 @@
               </physDesc>
               <history>
                 <origin when="1488">1488</origin>
-                <provenance>Exemplaire de dédicace offert en 1488 à <persName role="possesseur" key="Charles VIII">Charles VIII</persName> ; Paris, Drouot, 17 juin 1960, n° 13 ; Antiquariat Tenschert</provenance>
+                <provenance><p>Exemplaire de dédicace offert en 1488 à <persName role="possesseur" key="Charles VIII">Charles VIII</persName> ; Paris, Drouot, 17 juin 1960, n° 13 ; Antiquariat Tenschert.</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -944,7 +944,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime2_de-bello-gallico"><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] <publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1488" notAfter="1488">1488</date>, 2°, ill., 114 f. Expl. <seg type="explicit">Cy finist la translation des Commentaires Julius Cesar sur le faict de la conqueste du paÿs de Gaule faicte et mise en françois et presentee au roy Charles huitiesme de France par frere Robert Gaguin docteur en decret et general ministre de l’ordre des freres de saincte Trinité et redemption des prisonniers christiens l’an mil CCCC octante VIII</seg>
+            <bibl xml:id="imprime2_de-bello-gallico"><title type="ancien">Les commentaires de Julius Cesar</title>, [<publisher>Pierre Le Caron</publisher> pour] <publisher>Antoine Vérard</publisher>, Paris, <date when="1488">1488</date>, 2°, ill., 114 f. Expl. <seg type="explicit">Cy finist la translation des Commentaires Julius Cesar sur le faict de la conqueste du paÿs de Gaule faicte et mise en françois et presentee au roy Charles huitiesme de France par frere Robert Gaguin docteur en decret et general ministre de l’ordre des freres de saincte Trinité et redemption des prisonniers christiens l’an mil CCCC octante VIII</seg>
               <note place="inline">Exemplaire consulté : Paris, bibl. Mazarine, inc. 498
                 <listBibl>
                   <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. VI, n° 5877, col. 32</bibl>
@@ -991,7 +991,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime6_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar <lb/>De la guerre civile, feuillet premier <lb/>De la guerre alexandrine, feuillet I <lb/>De la guerre d’Affrique, feuillet LXVI <lb/>De la guerre d’Espaigne, feuillet LXXXVI <lb/>translatez par noble homme Estienne Delaigue dict Beauvoys <lb/>Des batailles &amp; conquestz faictz par Cesar au paÿs de Gaule <lb/>translatez par feu de bonne memoire Robert Gaguin general de l’ordre de la saincte Trinité <lb/>Avec les portraictz &amp; descriptions des lieux, fortz, pontz, machines, &amp; aultres choses dont est faict mention es presens Commentaires. <lb/>Ensemble les noms des lieux, villes, &amp; peuples du paÿs de Gaule</title>, <publisher>Galliot Du Pré</publisher>, <publisher>Poncet Le Preux</publisher>, <publisher>Pierre Vidoue</publisher>, Paris, <date notBefore="1531" notAfter="1531">1531</date>, 2°, ill. 1 vol. en 2 parties aux foliotations indépendantes : 1re partie : tables et annexes non foliotées ; César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 1-49 ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 49v-65v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Afrique</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 66-86 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 86v-95. 2e partie : <title type="ancien">Les commentaires et briefves descriptions de Jules Cesar, sur le faict des batailles &amp; conquestes de Gaules translatez de latin en vulgaire françoys, par frere Robert Gaguin docteur en decret, &amp; ministre general des freres de la saincte Trinité, &amp; redemption des prisonniers chrestiens</title> f. 1-99v ; f. 99v après l’explicit : <hi rend="i">Lisez liseurs attrait et entendez</hi>...
+            <bibl xml:id="imprime6_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar <lb/>De la guerre civile, feuillet premier <lb/>De la guerre alexandrine, feuillet I <lb/>De la guerre d’Affrique, feuillet LXVI <lb/>De la guerre d’Espaigne, feuillet LXXXVI <lb/>translatez par noble homme Estienne Delaigue dict Beauvoys <lb/>Des batailles &amp; conquestz faictz par Cesar au paÿs de Gaule <lb/>translatez par feu de bonne memoire Robert Gaguin general de l’ordre de la saincte Trinité <lb/>Avec les portraictz &amp; descriptions des lieux, fortz, pontz, machines, &amp; aultres choses dont est faict mention es presens Commentaires. <lb/>Ensemble les noms des lieux, villes, &amp; peuples du paÿs de Gaule</title>, <publisher>Galliot Du Pré</publisher>, <publisher>Poncet Le Preux</publisher>, <publisher>Pierre Vidoue</publisher>, Paris, <date when="1531">1531</date>, 2°, ill. 1 vol. en 2 parties aux foliotations indépendantes : 1re partie : tables et annexes non foliotées ; César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 1-49 ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 49v-65v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Afrique</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 66-86 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 86v-95. 2e partie : <title type="ancien">Les commentaires et briefves descriptions de Jules Cesar, sur le faict des batailles &amp; conquestes de Gaules translatez de latin en vulgaire françoys, par frere Robert Gaguin docteur en decret, &amp; ministre general des freres de la saincte Trinité, &amp; redemption des prisonniers chrestiens</title> f. 1-99v ; f. 99v après l’explicit : <hi rend="i">Lisez liseurs attrait et entendez</hi>...
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac J 999
                 <listBibl>
                   <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. IV, 1531-1535</title>, Paris, 1992, n° 68, p. 66</bibl>
@@ -1034,7 +1034,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime10_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar. De la guerre civile fueil. premier, De la guerre alexandrine feuil. XL, De la guerre d’Affrique feuil. LII, De la guerre d’Espaigne feuil. LXX translatez par noble homme Estienne de Laigue dict Beauvois. Des batailles et conquestz faictz par Cesar au paÿs de Gaule translatez par feu de bonne memoire Robert Gaguin general de l’ordre de la saincte Trinité. Avec les pourtraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires, ensemble les noms des lieux, villes et peuples du paÿs de Gaule</title>, Paris, <date notBefore="1541" notAfter="1541">1541</date>, <publisher>Antoine Bonnemere</publisher>, pour Guillaume Le Bret, 8°, ill., 2 vol. [8]-211 et [?]. Suit l’édition de 1537 ou de 1539. Le premier volume contient : dédicace et table non foliotées ; César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 1-112  ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre de Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 112-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Affricque</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 149v-183v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 184-211v. Le deuxième volume contient : César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin
+            <bibl xml:id="imprime10_de-bello-gallico"><title type="ancien">Les Commentaires de Jules Cesar. De la guerre civile fueil. premier, De la guerre alexandrine feuil. XL, De la guerre d’Affrique feuil. LII, De la guerre d’Espaigne feuil. LXX translatez par noble homme Estienne de Laigue dict Beauvois. Des batailles et conquestz faictz par Cesar au paÿs de Gaule translatez par feu de bonne memoire Robert Gaguin general de l’ordre de la saincte Trinité. Avec les pourtraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires, ensemble les noms des lieux, villes et peuples du paÿs de Gaule</title>, Paris, <date when="1541">1541</date>, <publisher>Antoine Bonnemere</publisher>, pour Guillaume Le Bret, 8°, ill., 2 vol. [8]-211 et [?]. Suit l’édition de 1537 ou de 1539. Le premier volume contient : dédicace et table non foliotées ; César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 1-112  ; <persName type="ancien">Hirtius Opius</persName>, <title>De la guerre de Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 112-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Affricque</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 149v-183v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre de Espaigne</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 184-211v. Le deuxième volume contient : César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin
               <note place="inline">Exemplaire consulté : Paris, bibl. de la Sorbonne, R.ra 930, in-12 [manque le 2e volume]
                 <listBibl>
                   <bibl>Bibliographie : <title>Index Aureliensis</title>, prima pars, t. VI, 1976, p. 122, n° 128.713</bibl>
@@ -1068,7 +1068,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime14_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar translatez par noble homme Estienne de Laigue dit Beauvoys, nouvellement reveuz et corrigez. Avec les protraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires</title>, <publisher>Guillaume Thiboust</publisher> [édition partagée avec <publisher>Jean Ruelle</publisher> et <publisher>Arnoul Langelier</publisher>], Paris, <date notBefore="1555" notAfter="1555">1555</date>, in-16, ill., pièces liminaires et 430 f. : César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 1-112v ; <persName>Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 113-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 150-194 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Espaigne</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 194v-212 ; César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin (sans que le nom du traducteur apparaisse où que ce soit) f. 212v-430 : <title>Prologue sur les commentaires de Julius Cesar, de la guerre Gallicquaine</title> f. 212v-214 ; <title type="ancien">Cy aprés s’ensuyt le premier livre des commentaires de Jules Cesar, sur le faict de la conqueste de la terre de Gaule, laquelle il fist autant qu’il se nommast empereur de Romme</title> f. 214v ; texte suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attrait et entendez</hi> f. 430
+            <bibl xml:id="imprime14_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar translatez par noble homme Estienne de Laigue dit Beauvoys, nouvellement reveuz et corrigez. Avec les protraictz et descriptions des lieux, fortz, pontz, machines et autres choses dont est faict mention es presens commentaires</title>, <publisher>Guillaume Thiboust</publisher> [édition partagée avec <publisher>Jean Ruelle</publisher> et <publisher>Arnoul Langelier</publisher>], Paris, <date when="1555">1555</date>, in-16, ill., pièces liminaires et 430 f. : César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 1-112v ; <persName>Hirtius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 113-149v ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 150-194 ; <persName type="ancien">Aulus Hirtius</persName>, <title>De la guerre d’Espaigne</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> f. 194v-212 ; César, <title>Guerre des Gaules</title>, traduction de Robert Gaguin (sans que le nom du traducteur apparaisse où que ce soit) f. 212v-430 : <title>Prologue sur les commentaires de Julius Cesar, de la guerre Gallicquaine</title> f. 212v-214 ; <title type="ancien">Cy aprés s’ensuyt le premier livre des commentaires de Jules Cesar, sur le faict de la conqueste de la terre de Gaule, laquelle il fist autant qu’il se nommast empereur de Romme</title> f. 214v ; texte suivi d’un octain de décasyllabes : <hi rend="i">Lisez, liseurs attrait et entendez</hi> f. 430
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac 8° J. 7004 [au nom de Guillaume Thiboust]
                 <listBibl>
                   <bibl>J. Renouard, <title>L’officine des Langelier, libraires parisiens, 1536-1562, Bibliographie de leurs éditions</title>, mémoire présenté en 1916 [déposé à la Réserve de la Bibl. nat. de Fr.], p. 304-305 [notice]</bibl>
@@ -1076,7 +1076,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime15_de-bello-gallico"><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date notBefore="1555" notAfter="1555">1555</date>, in-16, ill. 2 parties en 1 vol. : 1re partie : tables et autres pièces liminaires non paginées ; César, <title>De la guerre de Gaule</title> traduction de Robert Gaguin revue par Antoine de Moulins p. 1-502 ; 2e partie intitulée <title>Commentaires de Jules Cesar, De la guerre Civile, Alexandrine, d’Afrique, d’Espaigne [...] traduits par noble homme Estienne de Laigue dit Beauvois. Revuz et verifiez sus les vrays exemplaires latins, par Antoine du Moulin Masconnois</title> : César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> revue par <persName role="traducteur">Antoine de Moulins</persName> p. 1-265 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> revue par <persName role="traducteur">Antoine de Moulins</persName> p. 266-352 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> revue par <persName role="traducteur">Antoine de Moulins</persName> p. 353-455 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Espagne</title>, traduction d’<persName type="ancien">Etienne de Laigue</persName> revue par               <persName role="traducteur">Antoine de Moulins</persName> p. 456-496
+            <bibl xml:id="imprime15_de-bello-gallico"><title type="ancien">Commentaires de Jules Cesar, de la guerre de Gaule. Traduits par feu Robert Gaguin, revuz et verifiez sur les vrays exemplaires latins, par Antoine du Moulin, Masconnois</title>, <publisher>Jean de Tournes</publisher>, Lyon, <date when="1555">1555</date>, in-16, ill. 2 parties en 1 vol. : 1re partie : tables et autres pièces liminaires non paginées ; César, <title>De la guerre de Gaule</title> traduction de Robert Gaguin revue par Antoine de Moulins p. 1-502 ; 2e partie intitulée <title>Commentaires de Jules Cesar, De la guerre Civile, Alexandrine, d’Afrique, d’Espaigne [...] traduits par noble homme Estienne de Laigue dit Beauvois. Revuz et verifiez sus les vrays exemplaires latins, par Antoine du Moulin Masconnois</title> : César, <title>De la guerre civile</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> revue par <persName role="traducteur">Antoine de Moulins</persName> p. 1-265 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Alexandrie</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> revue par <persName role="traducteur">Antoine de Moulins</persName> p. 266-352 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Afrique</title>, traduction d’<persName role="traducteur">Etienne de Laigue</persName> revue par <persName role="traducteur">Antoine de Moulins</persName> p. 353-455 ; <persName type="ancien">A. Hircius Opius</persName>, <title>De la guerre d’Espagne</title>, traduction d’<persName type="ancien">Etienne de Laigue</persName> revue par               <persName role="traducteur">Antoine de Moulins</persName> p. 456-496
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac J. 13381
                 <listBibl>
                   <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 8097</bibl>

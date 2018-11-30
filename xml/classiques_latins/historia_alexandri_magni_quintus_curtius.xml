@@ -80,7 +80,7 @@
       <div type="traduction" xml:id="Vasque">
         <head>Traduction par <persName role="traducteur">Vasque de Lucène</persName></head>
         <dateline>
-          <date notBefore="1467" notAfter="1467">1467</date>
+          <date when="1467">1467</date>
         </dateline>
         <p>Le Portugais Vasque de Lucène, attiré à la cour de Bourgogne par la duchesse Isabelle de Portugal, a travaillé durant plusieurs années à une traduction de Quinte-Curce, qu’il semble avoir achevée peu avant la mort de son destinataire, le duc Philippe le Bon (mort en 1467). L’une des difficultés qu’il a rencontra fut l’état mutilé du texte latin dont il disposait : sur les dix livres que comptait primitivement l’ouvrage, les livres I et II, la fin du livre V et le début du livre VI ainsi que diverses parties du livre X sont perdus. Vasque de Lucène a composé un livre I (remplaçant les livres I et II du texte latin) en utilisant la <title type="ancien">Vie d’Alexandre</title> de <persName type="ancien">Plutarque</persName> dans la traduction latine de <persName type="ancien">Girolamo de Guarino</persName> de Vérone, <persName type="ancien">Valère-Maxime</persName>, <persName type="ancien">Aulu-Gelle</persName> et diverses sources annexes ; les autres lacunes ont été comblées à l’aide de <persName type="ancien">Justin</persName>.</p>
         <p>La traduction, assez fidèle, comporte de nombreuses additions et digressions anecdotiques et moralisantes.</p>
@@ -244,7 +244,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1469" notAfter="1469">1469  ? (colophon f. 200)</origin>
-                <provenance>possesseur : le destinataire fut <persName role="possesseur" key="Claude Bergier">Claude Bergier</persName>, écuyer d’écurie du roi de France, maître d’hôtel de François de Savoie, protonotaire apostolique. D’après (3), ce ms pourrait être identique à celui attesté dans la <persName role="possesseur" key="Savoie, famille">librairie ducale de Chambery</persName> en 1498 (P. Vayra, <title>Le lettere e le arti alla corte di Savoia nel secolo XV. Inventari dei castelli di Ciamberi, di Torino e di Ponte d’Ain</title>, Turin, 1883, p. 70, n° 258)</provenance>
+                <provenance><p>possesseur : le destinataire fut <persName role="possesseur" key="Claude Bergier">Claude Bergier</persName>, écuyer d’écurie du roi de France, maître d’hôtel de François de Savoie, protonotaire apostolique. D’après (3), ce ms pourrait être identique à celui attesté dans la <persName role="possesseur" key="Savoie, famille">librairie ducale de Chambery</persName> en 1498 (P. Vayra, <title>Le lettere e le arti alla corte di Savoia nel secolo XV. Inventari dei castelli di Ciamberi, di Torino e di Ponte d’Ain</title>, Turin, 1883, p. 70, n° 258)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -273,7 +273,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1503">1468-1503 (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> et <persName type="ancien">Marie de Balzac</persName>, sa femme (armes f. 16), morte en 1503</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Louis Malet de Graville">Louis Malet de Graville</persName> et <persName type="ancien">Marie de Balzac</persName>, sa femme (armes f. 16), morte en 1503</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -304,7 +304,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseur : d’après S. McKendrick (p. 133), peut-être l’un des 2 mss inventoriés dans la librairie ducale de Nancy en 1544 (A. Collignon, « La bibliothèque du duc Antoine. Recherches bibliographiques suivies de l’inventaire annoté  », dans <title>Mémoires de l’Académie de Stanislas</title>, 6e pér., t. 4, 1906-1907, p. 108, n° 88 et p. 116, n° 119)</provenance>
+                <provenance><p>possesseur : d’après S. McKendrick (p. 133), peut-être l’un des 2 mss inventoriés dans la librairie ducale de Nancy en 1544 (A. Collignon, « La bibliothèque du duc Antoine. Recherches bibliographiques suivies de l’inventaire annoté  », dans <title>Mémoires de l’Académie de Stanislas</title>, 6e pér., t. 4, 1906-1907, p. 108, n° 88 et p. 116, n° 119)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -360,7 +360,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1474" notAfter="1477">1474/1475-1477 (<title>Katalog der datierten Handschriften in der Schweiz in lateinischer Schrift vom Anfang des Mittelalters bis 1550</title>, Zurich, 1983, t. II, pl. 517)</origin>
-                <provenance>possesseur : probablement exécuté pour <persName role="possesseur" key="Charles le Téméraire">Charles le Téméraire</persName> (1, 4)  ; maison d’<persName role="possesseur" key="Oettingen, famille d’">Oettingen</persName> (blason sur p. de frontispice)</provenance>
+                <provenance><p>possesseur : probablement exécuté pour <persName role="possesseur" key="Charles le Téméraire">Charles le Téméraire</persName> (1, 4)  ; maison d’<persName role="possesseur" key="Oettingen, famille d’">Oettingen</persName> (blason sur p. de frontispice)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -421,7 +421,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s., vers 1480 (1) (proche du ms Bruxelles, Bibl. royale, 10475 [1471], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, t. IV, pl. 852)</origin>
-                <provenance>possesseur : <persName type="ancien">Philippe de Clèves</persName> ; ajout postérieur des armes de <persName role="possesseur" key="Nassau-Vianden, famille">Nassau-Vianden</persName></provenance>
+                <provenance><p>possesseur : <persName type="ancien">Philippe de Clèves</persName> ; ajout postérieur des armes de <persName role="possesseur" key="Nassau-Vianden, famille">Nassau-Vianden</persName></p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -450,7 +450,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1470">ca 1469 (2)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 13, 38, 58, 124, 151, 179, 211, 235 ; signature, devise)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine, grand bâtard de Bourgogne</persName> (armes f. 13, 38, 58, 124, 151, 179, 211, 235 ; signature, devise)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -478,7 +478,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1475">1468-1475 (proche du ms Bruxelles, Bibl. royale 10475, f. 1 [1471], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, t. IV, pl. 853)</origin>
-                <provenance>possesseur : acheté en 1475 par <persName role="possesseur" key="Philippe de Cluys, chevalier de Saint-Jean de Jérusalem">Philippe de Cluys, chevalier de Saint-Jean de Jérusalem</persName> (mention, f. 13 ; armes f. 11)</provenance>
+                <provenance><p>possesseur : acheté en 1475 par <persName role="possesseur" key="Philippe de Cluys, chevalier de Saint-Jean de Jérusalem">Philippe de Cluys, chevalier de Saint-Jean de Jérusalem</persName> (mention, f. 13 ; armes f. 11)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -509,7 +509,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1476">vers 1470-1475 (avant 1477, voir <foreign>infra</foreign>) (proche du ms Paris, Bibl. nat. de Fr., lat. 1179, f. 4 [1475], <title>Mss datés</title>, t. II, pl. 157)</origin>
-                <provenance>possesseur : offert par Marguerite d’York et Marie de Bourgogne à <persName role="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, chevalier d’honneur de Marguerite d’York (f. 219a) ; sir <persName role="possesseur" key="John Donne">John Donne</persName> (armes f. 219b) à partir de mai 1477 ; <persName role="possesseur" key="Henry VIII d'Angleterre">Henry VIII</persName> ?; pourrait être le ms attesté à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 20 C III</provenance>
+                <provenance><p>possesseur : offert par Marguerite d’York et Marie de Bourgogne à <persName role="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, chevalier d’honneur de Marguerite d’York (f. 219a) ; sir <persName role="possesseur" key="John Donne">John Donne</persName> (armes f. 219b) à partir de mai 1477 ; <persName role="possesseur" key="Henry VIII d'Angleterre">Henry VIII</persName> ?; pourrait être le ms attesté à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 20 C III</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -545,7 +545,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1475">Lille, ca 1470 (proche du ms London, British Libr., Royal 15 D I, f. 113 [Bruges, 1470], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 742)</origin>
-                <provenance>possesseurs : réserve pour un écu dans l’encadrement du f. 14  ; acquis par <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (?)</provenance>
+                <provenance><p>possesseurs : réserve pour un écu dans l’encadrement du f. 14  ; acquis par <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> (?)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -576,7 +576,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1475" notAfter="1500">Flandre, dernier quart du XV<hi rend="sup">e</hi> s. (proche du ms London, British Libr., Royal 18 D X, f. 9 [Bruges ?, 1479], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 815)</origin>
-                <provenance>possesseur : réserve pour un écu dans l’encadrement f. 12 ; pourrait être le ms attesté à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 15 D IV</provenance>
+                <provenance><p>possesseur : réserve pour un écu dans l’encadrement f. 12 ; pourrait être le ms attesté à <orgName role="possesseur" key="Richmond Palace">Richmond Palace</orgName> en 1535 (H. Omont, « Les manuscrits français des rois d’Angleterre au château de Richmond », dans <title>Etudes romanes dédiées à Gaston Paris</title>, Paris, 1891, p. 6, n° 40) à moins qu’il ne s’agisse du Royal 15 D IV</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -612,7 +612,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1475">Lille, ca 1470 (proche du ms Paris, bibl. de l’Arsenal, 6328, f. 112 [1449-1459], <title>Mss datés</title>, t. I, pl. 105)</origin>
-                <provenance>possesseur : d’après (2), peut-être <persName role="possesseur" key="Charles-Alexandre de Croÿ">Charles-Alexandre de Croÿ</persName>, marquis de Havré et comte de Fontenoy (1581-1624)</provenance>
+                <provenance><p>possesseur : d’après (2), peut-être <persName role="possesseur" key="Charles-Alexandre de Croÿ">Charles-Alexandre de Croÿ</persName>, marquis de Havré et comte de Fontenoy (1581-1624)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -639,7 +639,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1450" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Sardière, Guyon de">Guyon de Sardière</persName> (XVI<hi rend="sup">e</hi> s.)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Sardière, Guyon de">Guyon de Sardière</persName> (XVI<hi rend="sup">e</hi> s.)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -666,7 +666,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1485">Bruges (?), ca 1470-1480</origin>
-                <provenance>possesseurs : exécuté pour <persName role="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> ; <persName role="possesseur" key="Marie de Bourgogne">Marie de Bourgogne</persName> et <persName role="possesseur" key="Maximilien d’Autriche">Maximilien d'Autriche</persName></provenance>
+                <provenance><p>possesseurs : exécuté pour <persName role="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> ; <persName role="possesseur" key="Marie de Bourgogne">Marie de Bourgogne</persName> et <persName role="possesseur" key="Maximilien d’Autriche">Maximilien d'Autriche</persName></p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -694,7 +694,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Beaux-Arts, coll. Masson 33, p. 124 [1471], <title>Mss datés</title>, t. I, pl. 128)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Van de Merrewe">Van de Merrewe</persName> (ex libris daté de 1521, f. 162c) ; armes non identifiées, f. 9 (d’or au sautoir de gueules chargé de cinq coquilles d’argent)</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Van de Merrewe">Van de Merrewe</persName> (ex libris daté de 1521, f. 162c) ; armes non identifiées, f. 9 (d’or au sautoir de gueules chargé de cinq coquilles d’argent)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -725,7 +725,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 7064, f. 82v [1488], <title>Mss datés</title>, t. II, pl. 166) ; Flandre</origin>
-                <provenance>possesseur : diverses mentions <quote>« O altitudo divitiarum sapientie et scientie Dei. Quam incomprehensibilia sunt judicia ejus [...] <lb/> <foreign>[plus bas]</foreign> Peractio dat intellectum <lb/> <foreign>[plus bas]</foreign> Bon jour bon an bon temps bonne sepmaine m’amye m’amour ma joye souveraine »</quote> sur le f. de garde début</provenance>
+                <provenance><p>possesseur : diverses mentions <quote>« O altitudo divitiarum sapientie et scientie Dei. Quam incomprehensibilia sunt judicia ejus [...] <lb/> <foreign>[plus bas]</foreign> Peractio dat intellectum <lb/> <foreign>[plus bas]</foreign> Bon jour bon an bon temps bonne sepmaine m’amye m’amour ma joye souveraine »</quote> sur le f. de garde début</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -755,7 +755,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1473" notAfter="1479">ca 1475-1477 (proche du ms Paris, Bibl. nat. de Fr., lat. 6351, f. 168 [1467], <title>Mss datés</title>, t. II, pl. 139)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. [1] recouvrant les armes de Louis de Bruges)</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. [1] recouvrant les armes de Louis de Bruges)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -813,7 +813,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Antoine de Clermont">Antoine de Clermont</persName>, chambellan de Louis XI et Françoise de Sassenage</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Antoine de Clermont">Antoine de Clermont</persName>, chambellan de Louis XI et Françoise de Sassenage</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -842,7 +842,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1501">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 902, f. 101v [1502], <title>Mss datés</title>, t. II, pl. 173)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Philibert de Veyré">Philibert de Veyré</persName>, chevalier de l’ordre de la toison d’or (armes f. 13, 15v, 149). Cette copie a peut-être pour modèle direct le manuscrit possédé par <persName role="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> (ms Oxford, Bodleian Libr., Laud. Misc. 751) (3)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Philibert de Veyré">Philibert de Veyré</persName>, chevalier de l’ordre de la toison d’or (armes f. 13, 15v, 149). Cette copie a peut-être pour modèle direct le manuscrit possédé par <persName role="possesseur" key="Engelbert II de Nassau">Engelbert II de Nassau</persName> (ms Oxford, Bodleian Libr., Laud. Misc. 751) (3)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -878,7 +878,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Jacques de Pons">Jacques de Pons</persName> (ex libris f. 1 ; armes f. 12), fils de François et de Marguerite de Coëtivy (XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> s.)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Jacques de Pons">Jacques de Pons</persName> (ex libris f. 1 ; armes f. 12), fils de François et de Marguerite de Coëtivy (XVI<hi rend="sup">e</hi>-XVII<hi rend="sup">e</hi> s.)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -910,7 +910,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6351, f. 168 [1467], <title>Mss datés</title>, t. II, pl. 139)</origin>
-                <provenance>possesseur : <orgName role="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (Navarre 23 [f. 1])</provenance>
+                <provenance><p>possesseur : <orgName role="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (Navarre 23 [f. 1])</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -945,7 +945,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1466" notAfter="1470">(proche du ms Paris, Bibl. nat. de Fr., lat. 1294, f. 415v [1472], <title>Mss datés</title>, t. II, pl. 152) ; ca 1468 ; Bruges</origin>
-                <provenance>destinataire : exemplaire de dédicace pour <persName role="dedicataire">Charles le Téméraire</persName> (armes de Charles le Téméraire f. 1 dans initiale ornée)</provenance>
+                <provenance><p>destinataire : exemplaire de dédicace pour <persName role="dedicataire">Charles le Téméraire</persName> (armes de Charles le Téméraire f. 1 dans initiale ornée)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1003,7 +1003,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1500">XV<hi rend="sup">e</hi> s. (après 1468)</origin>
-                <provenance>possesseur : mention <quote>« deux roys m’ont aymé et l’on ne me peut trop payer »</quote> (f. 1a sous la miniature)</provenance>
+                <provenance><p>possesseur : mention <quote>« deux roys m’ont aymé et l’on ne me peut trop payer »</quote> (f. 1a sous la miniature)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1056,7 +1056,7 @@
               </msContents>
               <history>
                 <origin notBefore="1401" notAfter="1500">Bruges ; XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>Possesseur : serait le ms possédé à Gand en 1528 par <persName role="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> († 1527), seigneur de Ravenstein (armes de Clèves ajoutées postérieurement)</provenance>
+                <provenance><p>Possesseur : serait le ms possédé à Gand en 1528 par <persName role="possesseur" key="Philippe de Clèves">Philippe de Clèves</persName> († 1527), seigneur de Ravenstein (armes de Clèves ajoutées postérieurement)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1085,7 +1085,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1470" notAfter="1480">1470-1480 (proche du ms Bruxelles, Bibl. royale 10475, f. 1 [1471], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, t. IV, pl. 853)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="La Baume, famille de">famille de la Baume</persName> (armes ajoutées au début du XVI<hi rend="sup">e</hi> s. f. 11)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="La Baume, famille de">famille de la Baume</persName> (armes ajoutées au début du XVI<hi rend="sup">e</hi> s. f. 11)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1117,7 +1117,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1468" notAfter="1481">1468-1481 (proche du ms Chantilly, Musée Condé, 130, f. 1 [1481], <title>Mss datés</title>, t. I, pl. 139)</origin>
-                <provenance>possesseurs : ms confectionné pour <persName role="possesseur" key="Louis, bâtard de Bourbon">Louis, bâtard de Bourbon</persName>, lieutenant général de Normandie (mort en 1488) (armes f. 1, 41v, 111v) ; <persName role="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName>, sans doute <persName role="possesseur" key="François de Rochechouart">François de Rochechouart</persName>, chambellan du duc Louis d’Orléans (futur Louis XII) et sénéchal de Toulouse († 1530)</provenance>
+                <provenance><p>possesseurs : ms confectionné pour <persName role="possesseur" key="Louis, bâtard de Bourbon">Louis, bâtard de Bourbon</persName>, lieutenant général de Normandie (mort en 1488) (armes f. 1, 41v, 111v) ; <persName role="possesseur" key="Rochechouart, famille de">famille de Rochechouart</persName>, sans doute <persName role="possesseur" key="François de Rochechouart">François de Rochechouart</persName>, chambellan du duc Louis d’Orléans (futur Louis XII) et sénéchal de Toulouse († 1530)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1226,14 +1226,14 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime2_historia-alexandri-magni">Paris, <publisher>Jean Trepperel</publisher>, <date notBefore="1503" notAfter="1503">1503</date>
+            <bibl xml:id="imprime2_historia-alexandri-magni">Paris, <publisher>Jean Trepperel</publisher>, <date when="1503">1503</date>
               <note place="inline">Signalé d'après un exemplaire conservé à la Universitätsbibliotek de Salzburg
                 <listBibl>
                   <bibl><title>French Vernacular Books</title>, Leiden-Boston, 2007, n° 45058</bibl>
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime3_historia-alexandri-magni">Paris, <publisher>Michel Le Noir</publisher>, <date notBefore="1503" notAfter="1503">1503</date> 4°. Table non foliotée + 189 f. [9 livres (f. 1-189) ; titre de fin : <title type="ancien">Cy fine le livre de Quinte Curse des faitz et gestes du grant Alexandre</title> (f. 189)]
+            <bibl xml:id="imprime3_historia-alexandri-magni">Paris, <publisher>Michel Le Noir</publisher>, <date when="1503">1503</date> 4°. Table non foliotée + 189 f. [9 livres (f. 1-189) ; titre de fin : <title type="ancien">Cy fine le livre de Quinte Curse des faitz et gestes du grant Alexandre</title> (f. 189)]
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. J 1730 (incomplet des premiers f. Commence au milieu de la table du 1er livre)
                 <listBibl>
                   <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. I, 1501-1510</title>, Paris, 1972, 1503, n° 37, p. 98</bibl>
@@ -1241,7 +1241,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime4_historia-alexandri-magni"><title type="ancien">Quinte Curse, contenant les belliqueux faictz d’armes, conduictes et astuces de guerre du roy Alexandre le Grand, translaté de latin en fançoys... reveu et concordé avec Plutarque, Justin et autres aucteurs,</title> Paris, <publisher>Antoine Cousteau</publisher> pour <publisher>Galliot Du Pré</publisher>, <date notBefore="1530" notAfter="1530">1530</date>, 2° [suit l’édition de 1503]
+            <bibl xml:id="imprime4_historia-alexandri-magni"><title type="ancien">Quinte Curse, contenant les belliqueux faictz d’armes, conduictes et astuces de guerre du roy Alexandre le Grand, translaté de latin en fançoys... reveu et concordé avec Plutarque, Justin et autres aucteurs,</title> Paris, <publisher>Antoine Cousteau</publisher> pour <publisher>Galliot Du Pré</publisher>, <date when="1530">1530</date>, 2° [suit l’édition de 1503]
               <note place="inline">
                 <listBibl>
                   <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. III, 1521-1530</title>, Paris, 1985, t. III, n° 2053</bibl>
@@ -1266,7 +1266,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime7_historia-alexandri-magni"><title type="ancien">Quinte Curse, historiographe ancien et moult renommé contenant les belliqueux faitz d’armes du preux et victorieux roy Alexandre le Grand, translaté nouvellement de latin en françois et concordé avec Plutarque, Justin &amp; autres autheurs, reveu et corrigé outre les precedentes impressions</title>, Paris, édition partagée entre la veuve <publisher>François Regnault</publisher> et <publisher>Charles Langelier</publisher>, <date notBefore="1555" notAfter="1555">1555</date>, in-16. 15 f. non foliotés [prologue et table] + 351 f. [texte f. 1-351v ; titre de fin : <title>Fin de ce livre intitulé Quinte Curse des faitz &amp; gestes d’Alexandre le grand</title> (f. 351v)]
+            <bibl xml:id="imprime7_historia-alexandri-magni"><title type="ancien">Quinte Curse, historiographe ancien et moult renommé contenant les belliqueux faitz d’armes du preux et victorieux roy Alexandre le Grand, translaté nouvellement de latin en françois et concordé avec Plutarque, Justin &amp; autres autheurs, reveu et corrigé outre les precedentes impressions</title>, Paris, édition partagée entre la veuve <publisher>François Regnault</publisher> et <publisher>Charles Langelier</publisher>, <date when="1555">1555</date>, in-16. 15 f. non foliotés [prologue et table] + 351 f. [texte f. 1-351v ; titre de fin : <title>Fin de ce livre intitulé Quinte Curse des faitz &amp; gestes d’Alexandre le grand</title> (f. 351v)]
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Résac J 10701
                 <listBibl>
                   <bibl>J. Renouard, <title>L’officine des Langelier, libraires parisiens, 1536-1562, Bibliographie de leurs éditions</title>, mémoire présenté en 1916 [déposé à la Réserve de la Bibl. nat. de Fr.], p. 317-318 [notice]</bibl>

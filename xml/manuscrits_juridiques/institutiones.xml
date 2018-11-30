@@ -80,7 +80,7 @@
       </div>
       <div type="traductions">
         <head>Traductions des <title>Institutiones</title></head>
-        <div type="expression" subtype="traduction" xml:id="fr_anonyme" n="I.1">
+        <div type="traduction" xml:id="fr_anonyme" n="I.1">
           <head>Traduction en prose</head>
           <dateline>
             <date notBefore="1220-01-01" notAfter="1250-12-31">première moitié du 13<hi rend="sup">e</hi> siècle</date>
@@ -1029,9 +1029,11 @@
                             <incipit>Cist tytre <expan>p<ex>ar</ex>ole</expan> dez accions <expan>p<ex>ar</ex>durablez</expan> <expan><ex>et</ex></expan> corporiex <expan><ex>et</ex></expan> lesquelez trespassent auz oirz et <expan><ex>con</ex>tre</expan> lez oirz</incipit>
                           </msItem>
                           <msItem>
-                            <locus from="64c"/>
+                            <locus from="64c" to="65a"/>
                             <title type="sub">[Inst. 4.13.1-9]</title>
-                            <incipit>Cist tytre <expan>p<ex>ar</ex>ole</expan> de excepcions <supplied resp="#FD">incomplet de la fin ;<seg type="explicit"><locus from="65a"/> ...qui contrestent tozjorz a demandeur</seg></supplied></incipit>
+                            <incipit>Cist tytre <expan>p<ex>ar</ex>ole</expan> de excepcions</incipit>
+                            <explicit>...qui contrestent tozjorz a demandeur</explicit>
+                            <note>incomplet de la fin.</note>
                           </msItem>
                           <msItem>
                             <locus from="65a"/>
@@ -1165,7 +1167,8 @@
                       </origin>
                       <provenance>
                         <p><label>Provenance</label>A fait partie de la bibliothèque de
-                          <persName role="possesseur" key="William Hunter">William Hunter</persName> (1718-1783) ; retenu à Londres jusqu’en 1807 par <persName role="possesseur" key="Matthew Baillie">Matthew Baillie</persName>, neveu de Hunter, avant d’entrer dans les collections de l’université de Glasgow.</p>
+                          <persName role="possesseur" key="William Hunter">William Hunter</persName> (1718-1783) ; retenu à Londres jusqu’en 1807 par <persName role="possesseur" key="Matthew Baillie">Matthew Baillie</persName>, neveu de Hunter, avant d’entrer dans les collections de l’université de Glasgow.</p></provenance>
+                      <provenance>
                         <p><label>Anciennes cotes</label><idno type="old">No. 1236</idno> (sur le 2e f. de garde parch. recto ; d’une main du 18e s. ; peut-être un numéro de lot?) ; <idno type="old">S.3.11</idno>; <idno type="old">S.3.37</idno> ;
                           <idno type="old">T.3.1</idno>.</p>
                       </provenance>
@@ -1374,7 +1377,7 @@
                           <msItem>
                             <locus from="11d"/>
                             <title type="sub">[Inst. 1.24]</title>
-                            <title xml:lang="lat">De satisdatione tutorum vel curatorum</title>
+                            <title xml:lang="lat" resp="#FD">De satisdatione tutorum vel curatorum</title>
                             <incipit>Neporquant que les besoignes aus orfelins ou aus orfelines ou a ceus <expan>q<ex>ui</ex></expan> sont en garde...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les rubriques latines ajoutées) : <seg type="title"><seg type="rubric">Cist titres est de l’autorité <expan>q<ex>ui</ex></expan> li desfendeors <expan><ex>et</ex></expan> li procureors <expan>doive<ex>n</ex>t</expan> avoir</seg></seg>.</note></incipit>
                           </msItem>
                           <msItem>
@@ -1799,9 +1802,11 @@
                       <provenance>
                         <p><label>Provenance</label>après avoir appartenu au 14<hi rend="sup">e</hi> s. à divers particuliers, notamment à <persName role="possesseur" key="Jean de Saint-Hilaire">Jean de Saint-Hilaire</persName> et à <persName role="possesseur" key="Jean Chanterel">Jean (de) Chanterel</persName> (à partir de 1381) [contreplat inférieur : <quote>Je Jehan de Chanteraelee, clerc, achetay cest Institute de J. de Sainte Maree, sergent du roy nostre sire en la presence de Guillemin Beaup.... Perrin Bedier Michiel Alain Pierre Aubiers et Theuvenette fame dudit Beaup... Et fut le viii<hi rend="sup">e</hi> jour de mars l’an mil CCCIIII<hi rend="sup">XX</hi> et cinq</quote> ; sur le contreplat supérieur, signature
                           <quote>d’Estample</quote> (16<hi rend="sup">e</hi> s.)], ce ms. passa dans la bibliothèque des Pithou et, de là, à la mort de <persName role="possesseur" key="François Pithou">François Pithou</persName> (1621) au
-                          <orgName role="possesseur" key="Troyes, collège de l'Oratoire">collège de l’Oratoire de Troyes</orgName> (f. 1 <quote>Institutiones Justiniani en françois <lb/> Est Oratorii collegii Trecensis</quote> [17<hi rend="sup">e</hi> s.]). Il passa enfin de Troyes à l’Ecole de médecine de Montpellier, avec d’autres manuscrits provenant de la bibliothèque des Pithou.</p>
+                          <orgName role="possesseur" key="Troyes, collège de l'Oratoire">collège de l’Oratoire de Troyes</orgName> (f. 1 <quote>Institutiones Justiniani en françois <lb/> Est Oratorii collegii Trecensis</quote> [17<hi rend="sup">e</hi> s.]). Il passa enfin de Troyes à l’Ecole de médecine de Montpellier, avec d’autres manuscrits provenant de la bibliothèque des Pithou.</p></provenance>
+                      <provenance>
                         <p><label>Autre mention</label> contreplat inférieur
-                          <quote>donnez moy une buffe<lb/>buffe une m’y donnez</quote></p>
+                          <quote>donnez moy une buffe<lb/>buffe une m’y donnez</quote></p></provenance>
+                      <provenance>
                         <p><label>Ancienne cote</label>contreplat supérieur « <idno type="old">II.16</idno> ».</p>
                       </provenance>
                     </history>
@@ -2465,14 +2470,15 @@
                     </physDesc>
                     <history>
                       <origin>
-                        <origDate notBefore="1296-01-01" notAfter="1296-12-31">1296</origDate>
+                        <origDate when="1296">1296</origDate>
                         <origPlace>France (Normandie ?)</origPlace>
                       </origin>
                       <provenance>
                         <p><label>Provenance</label>appartenait en 1530 à <persName role="possesseur" key="Laurent Pongrise, bailli de Nogent-sur-Seine et de Pont-sur-Seine">Laurent Pongrise</persName>, bailli de Nogent-sur-Seine, et de Pont-sur-Seine. (ex libris <quote>Cest a moy Laurent Pongrise baillif de nogen et pont sur seyne il <sic>prys</sic> a ceulx ou a celle qui le trouve sy me le rendre ou a mon hoirs l’an mi V<hi rend="sup">c</hi> xxx</quote> f. 47,
                           <quote>C’est a moy Laurent Pongrise baillif de nogent sur seyne et pont sur seyne</quote> [signature] f. 78b) ;
                           <persName role="possesseur" key="Jean Bouhier">Jean Bouhier</persName> (3<hi rend="sup">e</hi> f. de garde papier moderne <q>Ms de la bibliothèque de Mr le president Bouhier<lb/>D. 75<lb/>MDCCXXI</q>).
-                          <orgName>Bibliotheca Buheriana</orgName>, ms 19 de Montpellier (cat. de la bibl. du Président Bouhier, rédigé par lui-même), p. 35 : <q>D.75 : Justinien, ses Institutes de droit traduits en françois par un auteur incertain et par le commandement du roy Saint-Louis, à ce qu’on croit. Volume écrit en parchemin l’an 1296, comme il est écrit à la fin</q>.</p>
+                          <orgName>Bibliotheca Buheriana</orgName>, ms 19 de Montpellier (cat. de la bibl. du Président Bouhier, rédigé par lui-même), p. 35 : <q>D.75 : Justinien, ses Institutes de droit traduits en françois par un auteur incertain et par le commandement du roy Saint-Louis, à ce qu’on croit. Volume écrit en parchemin l’an 1296, comme il est écrit à la fin</q>.</p></provenance>
+                      <provenance>
                         <p><label>Ancienne cote</label>Bouhier <idno type="old">D 75</idno> (3<hi rend="sup">e</hi> f. de garde papier).</p>
                       </provenance>
                     </history>
@@ -3098,7 +3104,8 @@
                       </origin>
                       <provenance>
                         <p><label>Provenance</label> famille <persName role="possesseur" key="Aucoste de Boulogne, famille">Aucoste de Boulogne</persName> (f. 91v ; a. 1292) ; <persName role="possesseur" key="Christophe Proust de Chambourg">Christophe Proust de Chambourg</persName>, qui prêta le ms. à <persName role="possesseur" key="Gaspard Thaumas de la Thaumassière">Gaspard Thaumas de la Thaumassière</persName> (qui a cité plusieurs passages de cette traduction dans le glossaire ajouté à son édition des <title>Coutumes de Beauvaisis</title> de Philippe de Beaumanoir, Paris, 1690) ; <persName role="possesseur" key="Guillaume Prousteau">Guillaume Prousteau</persName> (cf. <bibl><title>Catalogue des livres de la Bibliothèque publique fondée par M. Prousteau</title>, p. 318, n° 34 des mss</bibl>), qui donna sa bibliothèque à la <orgName role="possesseur" key="Orléans, ville">ville d’Orléans</orgName> en 1714 – mention
-                          <quote>Galimart</quote> (f. 91v, d’une main cursive du 14<hi rend="sup">e</hi> ou du 15<hi rend="sup">e</hi> s.)</p>
+                          <quote>Galimart</quote> (f. 91v, d’une main cursive du 14<hi rend="sup">e</hi> ou du 15<hi rend="sup">e</hi> s.)</p></provenance>
+                      <provenance>
                         <p><label>Ancienne cote</label><idno type="old">337</idno> (au dos de la reliure).</p>
                       </provenance>
                     </history>
@@ -3718,7 +3725,8 @@
                         <origPlace>France (Ile-de-France ?)</origPlace>
                       </origin>
                       <provenance>
-                        <p><label>Provenance</label> a fait partie de la <orgName role="possesseur" key="Blois, bibliothèque de">librairie de Blois</orgName> (f. 102a <q xml:lang="lat">de camera compotorum Blesensi</q> ; à l’intérieur du premier plat de la reliure : <quote>Des livres et histoires en françoys. pul<hi rend="sup">to</hi> 2° <lb/> contre la muraille devers la court.</quote></p>
+                        <p><label>Provenance</label> a fait partie de la <orgName role="possesseur" key="Blois, bibliothèque de">librairie de Blois</orgName> (f. 102a <q xml:lang="lat">de camera compotorum Blesensi</q> ; à l’intérieur du premier plat de la reliure : <quote>Des livres et histoires en françoys. pul<hi rend="sup">to</hi> 2° <lb/> contre la muraille devers la court.</quote></p></provenance>
+                      <provenance>
                         <p><label>Anciennes cotes</label> [Rigaut I] « <idno type="old">DCCCLXI</idno> » (f. 1) ; [Dupuy I] « <idno type="old">941</idno> » (f. 1) ; [Regius] « <idno type="old">7342</idno> » (f. 1).</p>
                       </provenance>
                     </history>
@@ -4335,8 +4343,10 @@
                       <provenance>
                         <p><label>Provenance</label><note>les informations qui suivent sont largement reprises de la notice associée à la numérisation du ms sur Gallica à laquelle on se reportera pour plus de détails</note> acquis par <persName role="possesseur" key="Charles V">Charles V</persName>, à l’époque où il n’était encore que dauphin (<quote>Cest livre est de moy le dauphin de <choice><sic>Vienn</sic><corr>Viennois</corr></choice></quote> f. 85 ; signature <quote>Charles</quote>
                           <foreign xml:lang="lat">ibid.</foreign>). Ms. mentionné dans les inventaires de la Librairie du Louvre jusqu’en 1424 : <q rend="italic">Un livre nommé Institude</q> (1373-1380, inventaire A) ; <q rend="italic">Item un livre nommé Institute, escript en françois, de lettre de forme, a deux coulombes, commençant ou .II.e fueillet : de celz as gens, et ou derrenier : tre celluy, couvert de cuir vert, a .II. fermouers de laton</q> (1411, inventaire D). Appartint à
-                          <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (emblème recouvert par les armes de France dans la marge inférieure du f. 1). Sans doute cédé par son fils <persName role="possesseur" key="Jean de Bruges">Jean de Bruges</persName> (1436-1512) au roi de France (présent dans la <orgName role="possesseur" key="Blois, bibliothèque de">librairie royale de Blois</orgName> : <quote>Bloys. Des livres et hystoires en françoys, pulpito 3°, contre les murailles devers la court</quote>, main du 16<hi rend="sup">e</hi> s. sur la contregarde du plat supérieur).</p>
-                        <p><label>Anciennes cotes inscrites sur le f. 1</label> [Rigault II] « <idno type="old">MDXXII</idno> », [Dupuy I] « <idno type="old">1000</idno> », [Regius] « <idno type="old">7343</idno> ».</p>
+                          <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (emblème recouvert par les armes de France dans la marge inférieure du f. 1). Sans doute cédé par son fils <persName role="possesseur" key="Jean de Bruges">Jean de Bruges</persName> (1436-1512) au roi de France (présent dans la <orgName role="possesseur" key="Blois, bibliothèque de">librairie royale de Blois</orgName> : <quote>Bloys. Des livres et hystoires en françoys, pulpito 3°, contre les murailles devers la court</quote>, main du 16<hi rend="sup">e</hi> s. sur la contregarde du plat supérieur).</p></provenance>
+                      <provenance>
+                        <p><label>Anciennes cotes inscrites sur le f. 1</label> [Rigault II] « <idno type="old">MDXXII</idno> », [Dupuy I] « <idno type="old">1000</idno> », [Regius] « <idno type="old">7343</idno> ».</p></provenance>
+                      <provenance>
                         <p>Inv. 1544 : <q>Ung autre livre en parchemyn, couvert de veloux viollet, intitulé « Institutes »</q> (<bibl>Omont, I, p. 218, n° 1292</bibl>) Inv. 1622 : <q>Les Institutes au sieur empereor Justinian, en français</q> (<bibl>Omont, II, p. 339, n° 1522</bibl>).</p>
                       </provenance>
                     </history>
@@ -4927,7 +4937,8 @@
                       <provenance>
                         <p><label>Provenance</label><bibl><title>Catalogue des manuscrits français, tome premier, ancien fonds</title>, Paris, 1868, p. 181</bibl> – collection des
                           <persName role="possesseur" key="Dupuy, frères">frères Dupuy</persName> (<bibl>H. Omont, <title>Anciens inventaires et catalogue de la Bibliothèque nationale</title>, t. IV, Paris, 1913, p. 188, n° 7 :
-                            <hi rend="i">Institutes de droit de l’empereur Justinien ; fol.</hi></bibl>)</p>
+                            <hi rend="i">Institutes de droit de l’empereur Justinien ; fol.</hi></bibl>)</p></provenance>
+                      <provenance>
                         <p><label>Anciennes cotes</label><idno type="old">7344</idno> [Regius] (f. 1).</p>
                       </provenance>
                     </history>
@@ -5641,7 +5652,8 @@
                       <provenance>
                         <p><label>Provenance</label>au verso du f. 161 mention (15<hi rend="sup">e</hi> s.) <quote>Dalengelier</quote> (peut-être <persName role="possesseur" key="Jean de Dalengelier">Jean de Dalengelier</persName>, greffier des requêtes de l’hôtel du roi en 1461) ; au f. 160 signature <quote>J. Chapellain</quote> [sans doute <persName role="possesseur" key="Jean Chapelain">Jean Chapelain</persName> (1595-1674), l’auteur de la
                           <title>Pucelle</title>. Cependant le ms. fr. 1928 n’est pas décrit dans le catalogue de sa bibliothèque conservé dans le ms. Paris, Bibl. nat. de Fr., nouv. acq. fr. 318 ;
-                          <bibl>Delisle (<title>Inventaire...</title>)</bibl> indique que le ms. provient de la collection des <persName role="possesseur" key="Dupuy, frères">frères Dupuy</persName>.</p>
+                          <bibl>Delisle (<title>Inventaire...</title>)</bibl> indique que le ms. provient de la collection des <persName role="possesseur" key="Dupuy, frères">frères Dupuy</persName>.</p></provenance>
+                      <provenance>
                         <p><label>Ancienne cote</label>[Regius] <idno type="old">7893</idno> (f. 1).</p>
                       </provenance>
                     </history>
@@ -5666,7 +5678,9 @@
                       <label>[8]</label> <expan>p<ex>ar</ex></expan> cele meismes reson dit <pb n="f. 69b"/> il que il ne recevra pas l’eritage a celui qui fet de lui son hoir par cause de plet. Et qu’il <expan>prouv<ex>er</ex>a</expan> que les tables ne furent mie faites loiaument en coi il estoit establis hoirs pour tele cause <expan><ex>et</ex></expan> que il nel retendra pas <expan>no<ex>n</ex></expan> d’oir pour une vois <expan><ex>et</ex></expan> que il ne conquerra nule chose par escripture a qui l’auctorité de droit faille. et selonc ce escriptrent souvent li saint empereeur sevoir <expan><ex>et</ex></expan> antonius Ja soit ce font il que <expan>no<ex>us</ex></expan> soions asous des lois <expan><ex>et</ex></expan> non pour <expan>q<ex>ua</ex>nt</expan> nous ne voulons riens faire <expan>q<ex>ui</ex></expan> soit contraire as loys</p>
                   </div>
                 </item>
-                <item xml:id="fr_22970"><ref target="authenticum.xml#fr_22970" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447870r">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref></item>
+                <item xml:id="fr_22970">
+                  <ref target="authenticum.xml#fr_22970">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref>
+                </item>
                 <item corresp="ARK_manuscrit"><!--  xml:id="princeton_kane_ms49" -->
                   <msDesc xml:id="princeton_kane_ms49"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
@@ -6445,7 +6459,8 @@
                       </origin>
                       <provenance>
                         <p><label>Provenance</label>écrit pour <persName role="possesseur" key="Jean de Wyzernes">Jean de Wyzernes</persName> (Pas-de-Calais, arr. et cant. Saint-Omer) : <quote>Ci fenissent les Institudes l’<expan>emp<ex>er</ex>eeur</expan> Justinian qui <expan>fure<ex>n</ex>t</expan> composés en françois pour Jehan de Wyserne <expan>p<ex>ar</ex></expan> Gillez de Lengres</quote> (f. 53d). Peut-être s’agit-il d’un
-                          <persName>Jean de Wizernes</persName> attesté à Saint-Bertin au début du 14<hi rend="sup">e</hi> s. (acte du 2 juin 1312 par lequel Jean de Wizernes, écuyer, donne à l’abbaye de Saint-Bertin la jouissance de six mesures de prairies ; acte du 13 juin 1321 par lequel l’official de Cambrai notifie qu’Arnoul de Le Saux et Sandre de Wizernes, son épouse, ont fait une convention amiable relativement aux biens échus à ladite Sandre par la mort de Jean de Wizernes, son frère (actes édités dans <bibl><title>Les chartes de Saint-Bertin</title>, éd. abbé D. Haigneré, t. II (1241-1380), Saint-Omer, 1891, n° 1444 et 1445, p. 246-247 ; n° 1494, p. 272</bibl>). Le manuscrit passa ensuite à l’<orgName role="possesseur" key="Saint-Bertin, abbaye">abbaye de Saint-Bertin</orgName> : <quote>De jure civili in gallico. 2° folio : Mans aux</quote> (15<hi rend="sup">e</hi> s., f. 1r).</p>
+                          <persName>Jean de Wizernes</persName> attesté à Saint-Bertin au début du 14<hi rend="sup">e</hi> s. (acte du 2 juin 1312 par lequel Jean de Wizernes, écuyer, donne à l’abbaye de Saint-Bertin la jouissance de six mesures de prairies ; acte du 13 juin 1321 par lequel l’official de Cambrai notifie qu’Arnoul de Le Saux et Sandre de Wizernes, son épouse, ont fait une convention amiable relativement aux biens échus à ladite Sandre par la mort de Jean de Wizernes, son frère (actes édités dans <bibl><title>Les chartes de Saint-Bertin</title>, éd. abbé D. Haigneré, t. II (1241-1380), Saint-Omer, 1891, n° 1444 et 1445, p. 246-247 ; n° 1494, p. 272</bibl>). Le manuscrit passa ensuite à l’<orgName role="possesseur" key="Saint-Bertin, abbaye">abbaye de Saint-Bertin</orgName> : <quote>De jure civili in gallico. 2° folio : Mans aux</quote> (15<hi rend="sup">e</hi> s., f. 1r).</p></provenance>
+                      <provenance>
                         <p><label>Cote ancienne de la bibl. de l’abbaye</label>
                           <idno type="old">443</idno> (18<hi rend="sup">e</hi> s., f. 1r).</p>
                       </provenance>
@@ -7366,7 +7381,7 @@
             </div>
           </div>
         </div>
-        <div type="expression" subtype="traduction" xml:id="annebault" n="I.2">
+        <div type="traduction" xml:id="annebault" n="I.2">
           <head>Traduction en vers</head>
           <dateline>
             <date notBefore="1280-01-01" notAfter="1280-12-31">1280</date>
@@ -8060,7 +8075,8 @@
                       <origPlace>Normandie</origPlace>
                     </origin>
                     <provenance>
-                      <p><label>Lecture</label>Etant donné la composition des cahiers, et notamment l’utilisation d’un quaternion comme cahier final à la suite d’une série de cahiers de 12 f., il n’est pas impossible que la copie du <title>Grand coutumier</title> en vers ait constitué pendant une brève période une unité codicologique ou d’usage distincte, avant que ne soit entreprise la copie de la traduction des <title>Institutes</title>. Aucune trace de lecture.</p>
+                      <p><label>Lecture</label>Etant donné la composition des cahiers, et notamment l’utilisation d’un quaternion comme cahier final à la suite d’une série de cahiers de 12 f., il n’est pas impossible que la copie du <title>Grand coutumier</title> en vers ait constitué pendant une brève période une unité codicologique ou d’usage distincte, avant que ne soit entreprise la copie de la traduction des <title>Institutes</title>. Aucune trace de lecture.</p></provenance>
+                    <provenance>
                       <p><label>Provenance</label>le ms. vient de la collection de <persName role="possesseur" key="Nicolas-Joseph Foucault">Nicolas-Joseph Foucault</persName> (1643-1721) (ex libris imprimé collé sur la contre-garde supérieure : <quote xml:lang="lat">Ex bibliotheca Nicolaei Joseph Foucault comitis consistoriani</quote>) comme les mss Harley 4474 et 4475. Ces trois mss, depuis leur confection, n’ont sans doute jamais été séparés et ont dû connaître une même histoire. Le ms. Harley 4475 renferme une traduction d’un traité de droit canon et civil, réalisée en 1477 en Normandie (cf. mention ajouté au verso du f. de garde parchemin début d’une main contemporaine de la copie : <quote>Ce present livre de droit fut translaté par Mestre Silvestre Guerin, mestre en ars, chapellain du collage de Nostre Dame de Matignon, et <expan>p<ex>er</ex>sonne</expan> de Thyermulle, a la requeste de mon tres honoré seigneur Monsgr de Matignon et de Thorigny en la ville de Caen, l’an 1477</quote>). Les similitudes avec le Harley 4477 sont nombreuses, à commencer par l’utilisation du même papier (filigranes licorne f. 177 ; armoiries aux trois fleurs de lys f. 16) ; même type d’écriture cursive ; même mise en texte : lettres nues rouges de 2 UR au début de chaque chapitre ; intitulés des chapitres copiés au fil de la copie et soulignés de rouge. Copie à longues lignes sans linéation apparente, comme dans la copie des <title>Institutes</title>. Le copiste est toutefois différent. L’existence de ce manuscrit pointe vers un commanditaire de manuscrits intéressé par les livres de droit en français. A noter que le ms. Harley 4475 mentionne plusieurs noms sur les gardes : f. de garde parchemin début verso <q>Reverend pere en Dieu monseigneur monseigneur le cardinal de Bourbon</q>. D’après l’écriture, il s’agirait plutôt de <persName role="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles I<hi rend="sup">er</hi> de Bourbon</persName>, <persName>Charles II de Bourbon</persName>, cardinal archevêque de Rouen de 1590 à 1594 ; f. de garde parchemin fin verso : <q>Monsr de Rouen</q>.</p>
                     </provenance>
                   </history>
@@ -9085,7 +9101,7 @@
                       <l>Legierement <expan>po<ex>ur</ex>ront</expan> entendre</l>
                       <l>Ce <expan>q<ex>ue</ex></expan> les maistres <expan>le<ex>ur</ex></expan> diront</l>
                       <l>Qui tout en latin <expan>le<ex>ur</ex></expan> lyront</l>
-                      <l rend="indent">Deo <expan>gra<ex>cia</ex>s</expan>.</l>
+                      <l>&#160;Deo <expan>gra<ex>cia</ex>s</expan>.</l>
                     </lg>
                   </div>
                 </div>
@@ -10170,7 +10186,7 @@
           </div>
         </div>
       </div>
-      <div type="expression" subtype="traduction" xml:id="azon">
+      <div type="traduction" xml:id="azon">
         <head>Azon, <title>Summa Institutionum</title></head>
         <p>Une traduction anonyme de la <title xml:lang="lat">Summa Institutionum</title>, qui complète la traduction de la <title>Somme Acé</title>, nous est transmise par deux manuscrits :</p>
         <div type="manuscrit">

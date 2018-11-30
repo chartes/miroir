@@ -110,7 +110,7 @@
             <title>Digeste</title> fut la première à être redécouverte : les juristes de Pavie et les canonistes de la fin du 11<hi rend="sup">e</hi> s. connaissaient principalement le <title xml:lang="lat">Digestum vetus</title>.</p>
         </div>
       </div>
-      <div type="expression" subtype="traduction" xml:id="françaises">
+      <div type="traduction" xml:id="françaises">
         <head>Traductions du <title xml:lang="lat" type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title></head>
         <p>P. Petot a signalé qu’une partie des extraits tirés du <title xml:lang="lat">Digestum vetus</title> dans le <title>Conseil a un ami</title> de Pierre de Fontaines était très proche de la traduction 3 (Pierre Petot avait collationné quelques extraits cités dans l’édition Marnier avec le ms Paris, Bibl. nat. de Fr., fr. 496). Certains passages s’en éloignent davantage ; d’autres enfin en sont étrangers. <q>Tout se passe comme s’il [Pierre de Fontaines] avait trouvé la traduction du Code déjà parfaite, tandis que celle du Digeste était encore inachevée. Son livre serait alors un témoignage de l’histoire de ces traductions, auxquelles il a peut-être participé</q> (<bibl>Petot, p. 961</bibl>). L’altérité avec les traductions conservées peut s’expliquer à la fois par une différence de source et par le travail de remaniement auquel a procédé le compilateur. Une enquête approfondie serait nécessaire. Toutefois, la proximité du <title>Conseil</title> avec la traduction 1 du
           <title>Code</title> accrédite l’hypotèse de Petot, car on ne voit pas pourquoi le
@@ -2110,7 +2110,8 @@
                   </origin>
                   <provenance>
                     <p><label>Provenance</label>le ms. provient de la collection d’<persName role="possesseur" key="Antoine Lancelot">Antoine Lancelot</persName>, léguée au roi en 1733. Les contreplats portent des notes à l’encre brune d’anciens possesseurs du 14<hi rend="sup">e</hi> s. ; sur le contreplat antérieur <quote>Vecy le <expan>cont<ex>enus</ex></expan>(?) de la(?) loy</quote> ; sur le contreplat postérieur : en haut
-                      <quote>Tu fus a moy en decembre l’an<lb/>mil .ccc. .lxxix., mon nom <expan>dess<ex>us</ex></expan></quote>, et plus bas, de la même main, des renvois au contenu de l’ouvrage <quote>Tu trouveras de <expan>quit<ex>ances</ex></expan> du .xviii.<hi rend="sup">e</hi> etc.<lb/>Du d<gap/> du .x.<hi rend="sup">e</hi> etc.<lb/>Se <expan>fe<ex>me</ex></expan> est a tort mise en <expan>pos<ex>session</ex></expan> de son doere<lb/>xi 4</quote>. Traces de rature au f. 199r.</p>
+                      <quote>Tu fus a moy en decembre l’an<lb/>mil .ccc. .lxxix., mon nom <expan>dess<ex>us</ex></expan></quote>, et plus bas, de la même main, des renvois au contenu de l’ouvrage <quote>Tu trouveras de <expan>quit<ex>ances</ex></expan> du .xviii.<hi rend="sup">e</hi> etc.<lb/>Du d<gap/> du .x.<hi rend="sup">e</hi> etc.<lb/>Se <expan>fe<ex>me</ex></expan> est a tort mise en <expan>pos<ex>session</ex></expan> de son doere<lb/>xi 4</quote>. Traces de rature au f. 199r.</p></provenance>
+                  <provenance>
                     <p><label>Anciennes cotes</label>Regius <idno type="old">8407(5)</idno> (contreplat antérieur et f. 1r) ; Lancelot
                       <idno type="old">70</idno> (contreplat antérieur) et «
                       <idno type="old">n° 122</idno> » barré (contreplat antérieur et f. 1r).</p></provenance>
@@ -3497,8 +3498,8 @@
                     </note>
                   </origin>
                   <provenance>
-                    <p><label>Provenance</label>apparaît pour la première fois dans l’inventaire de la Bibliothèque du roi à la fin du 16<hi rend="sup">e</hi> siècle qui mentionne deux
-                      <title>Digestes</title> en français (n°s 2354 [<title>Les vieilles Digestes, en vieil françois. Petri Jacobi</title>] et 2363 [<title>Le vieil Digeste, en françois</title>] ; cf. <bibl>H. Omont, <title>Anciens inventaires et catalogues de la Bibliothèque nationale</title>, t. I, Paris, 1908, p. 377</bibl>) : le premier étant le ms fr. 495, le second exemplaire est certainement le fr. 197.</p>
+                    <p><label>Provenance</label>apparaît pour la première fois dans l’inventaire de la Bibliothèque du roi à la fin du 16<hi rend="sup">e</hi> siècle qui mentionne deux <title>Digestes</title> en français (n°s 2354 [<title>Les vieilles Digestes, en vieil françois. Petri Jacobi</title>] et 2363 [<title>Le vieil Digeste, en françois</title>] ; cf. <bibl>H. Omont, <title>Anciens inventaires et catalogues de la Bibliothèque nationale</title>, t. I, Paris, 1908, p. 377</bibl>) : le premier étant le ms fr. 495, le second exemplaire est certainement le fr. 197.</p></provenance>
+                  <provenance>
                     <p><label>Anciennes cotes (f. 1)</label><idno type="old">mil cinquante huit</idno> [Rigault II : <title>Vieil Digeste, en françois</title> (<bibl>H. Homont, <title>Anciens inventaires et catalogues</title> II, p. 316</bibl>)] ;
                       <idno type="old">375</idno> [Dupuy 1645] ; <idno type="old">6855</idno> [Regius].</p>
                   </provenance>
@@ -6172,7 +6173,7 @@
                             <quote>estoiees</quote>, <quote>porroiee</quote>,
                             <quote>avoiee</quote>, etc. Ce phénomène est attesté, tant en Normandie occidentale, Bretagne et Sarthe-Mayenne (cf. <bibl><title>Nouveau Corpus d'Amsterdam</title></bibl>, requête
                             <quote>estoiee</quote>) que dans l’Oise (cf.
-                            <bibl>Carolus Barré, <title>Les plus anciennes chartes en langue française : Oise</title>, p. 208</bibl>). Les cartes de Dees 1980 vont dans le sens d’une scripta parisienne : <list rend="simple">
+                            <bibl>Carolus Barré, <title>Les plus anciennes chartes en langue française : Oise</title>, p. 208</bibl>). Les cartes de Dees 1980 vont dans le sens d’une scripta parisienne : <list rend="-">
                               <item><bibl>Dees 1980, c. 53</bibl> : formes de l’article contracté « en + le » : <hi rend="i">el / ou</hi> (forme du ms) (77% Normandie, 32% région parisienne, Orléanais 3%)</item>
                               <item><bibl>Dees 1980, c. 50</bibl> : formes de l’article contracté « a + les » : <hi rend="i">as / aus</hi> (forme du ms) (22% Normandie, 64% région parisienne, Orléanais 63%)</item>
                               <item><bibl>Dees 1980, c. 168</bibl> : alternance
@@ -7777,7 +7778,8 @@
                           <p><label>Provenance</label>mention de possesseur dont le nom a été effacé, f. 73’’b : <q xml:lang="lat">bono venerabilisque vir cui in omnibus Jhesus Virginis Marie filius det juvamen legens hoc dicat an…</q> (main du 14<hi rend="sup">e</hi> s.). A fait partie de la librairie de <persName role="possesseur" key="Charles V">Charles V</persName> (cf.
                             <bibl>inventaire de Gilles Mallet établi en 1373 et récolé en 1380 par Jean Blanchet, ms Paris, Bibl. nat. de Fr., fr. 2700 [inv. A], f. 5, n° 44</bibl>:
                             <quote>Digeste vielle, de meismes [couvert de soie ynde et vermeille], et fermoers d’argent.</quote>) Prêté, avec d’autres manuscrits juridiques à <persName role="possesseur" key="Louis d'Anjou">Louis d'Anjou</persName>, frère du roi le 22 novembre 1380. Lors de la vente de la librairie en 1424, le ms est estimé <quote>6 livres parisis</quote> (cf.
-                            <bibl>Paris, bibliothèque Sainte-Geneviève, ms 964 [Inv. F], f. 23, n° 160</bibl> : <quote>un Digeste vieil en françois, couvert et fermant comme dessus [couvert de soye inde et vermeille, à quatre fermouers d’argent doré à écussons de France</quote>). Appartient au 17<hi rend="sup">e</hi> s. au cardinal de <persName role="possesseur" key="Richelieu, cardinal de">Richelieu</persName> (armes d'argent à trois chevrons de gueules sur les plats et au dos). En 1660, la collection du cardinal de Richelieu fut transférée à la <orgName role="possesseur" key="Sorbonne, bibliothèque de la">bibliothèque de la Sorbonne</orgName> (estampille f. 1 et 274v). Après confiscation de la bibliothèque de la Sorbonne en 1791, le ms entra en 1796 à la Bibliothèque nationale.<note>L’histoire des possesseurs est résumée d’après la notice du ms sur le site de la Bibl. nat. de Fr.</note></p>
+                            <bibl>Paris, bibliothèque Sainte-Geneviève, ms 964 [Inv. F], f. 23, n° 160</bibl> : <quote>un Digeste vieil en françois, couvert et fermant comme dessus [couvert de soye inde et vermeille, à quatre fermouers d’argent doré à écussons de France</quote>). Appartient au 17<hi rend="sup">e</hi> s. au cardinal de <persName role="possesseur" key="Richelieu, cardinal de">Richelieu</persName> (armes d'argent à trois chevrons de gueules sur les plats et au dos). En 1660, la collection du cardinal de Richelieu fut transférée à la <orgName role="possesseur" key="Sorbonne, bibliothèque de la">bibliothèque de la Sorbonne</orgName> (estampille f. 1 et 274v). Après confiscation de la bibliothèque de la Sorbonne en 1791, le ms entra en 1796 à la Bibliothèque nationale.<note>L’histoire des possesseurs est résumée d’après la notice du ms sur le site de la Bibl. nat. de Fr.</note></p></provenance>
+                        <provenance>
                           <p><label>Anciennes cotes</label>« <idno type="old">340</idno> », f. B [Sorbonne] ; « <idno type="old">130</idno> », f. B [Richelieu] ; paraphe du libraire Blaise accompagné du n° <idno type="old">2770</idno>, f. Av.</p>
                         </provenance>
                       </history>
@@ -8286,9 +8288,7 @@
                         </msItem>
                         <msItem xml:id="fr_5245_livre-la-roine_livre3_coutumier">
                           <locus from="95" to="140"/>
-                          <title type="section" xml:lang="fr">Livre III,
-                            <title>Grand coutumier de Normandie</title> en prose <lang xml:lang="fro">française</lang></title>
-                          <note>Le texte du <title>Grand coutumier de Normandie</title> pourrait remonter à la deuxième classe de la rédaction latine identifiée par Tardif.</note>
+                          <title type="section" xml:lang="fr">Livre III, <title>Grand coutumier de Normandie</title> en prose <lang xml:lang="fro">française</lang></title>
                           <incipit xml:lang="fro">
                             <hi rend="b">P</hi>or ce que <expan>nost<ex>re</ex></expan> entencion est a esclairier en ceste oeuvre au mielz que nous porrons les droiz et les <expan>establisseme<ex>n</ex>z</expan> de Normendie... <supplied resp="#LM">sans rubr.</supplied>
                             <lb/>
@@ -8297,6 +8297,7 @@
                             <lb/>
                             <hi rend="b">P</hi>or ce que la malice de la covoitise avoit enlacié si ardantment l'umain lingnage... <pb n="f. 96"/>.</incipit>
                           <explicit xml:lang="fro">...cil qui firent cele devant doivent estre present. <pb n="f. 140"/></explicit>
+                          <note>Le texte du <title>Grand coutumier de Normandie</title> pourrait remonter à la deuxième classe de la rédaction latine identifiée par Tardif.</note>
                         </msItem>
                         <msItem xml:id="fr_5245_livre-la-roine_livre4">
                           <locus from="141" to="194"/>
@@ -9903,7 +9904,7 @@
           </div>
         </div>
       </div>
-      <div type="expression" subtype="traduction" xml:id="traduction_liée_digestum" n="II">
+      <div type="traduction" xml:id="traduction_liée_digestum" n="II">
         <head>Traduction liée au <title xml:lang="lat">Digestum vetus</title></head>
         <div type="tradition_traductive" xml:id="summulae_digestorum" n="II.1">
           <head>Traduction anonyme de Azo et alii, <title type="oeuvre">Summulae Digestorum</title></head>

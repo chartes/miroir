@@ -246,7 +246,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1475">vers 1470 (proche du ms Paris, bibl. de l’Arsenal, 5088, f. 345 [1454], <title>Mss datés</title>, t. I, pl. 109)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (devise et signature)</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (devise et signature)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -282,7 +282,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1450" notAfter="1475">3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> siècle (vers 1460) (1) mais on a également proposé 1405-1407 (2) « Le décor réalisé en deux temps laisse penser à une réalisation interrompue : Guillaume d’Estouteville, mort en 1414, et Jean II d’Estouteville, fait prisonnier à la bataille d’Harfleur en 1415 et mort en captivité incapable de payer sa rançon, sont des destinataires probables. La première phase est parisienne et voit l’intervention du maître de la Cité des dames, et la seconde se situe dans le Nord de la France (Amiens ou Hesdin ?), avec l’intervention du maître de Rambures. Les variations d’écriture, de décor pour les réclames et de hiérarchisation du texte par le décor secondaire font supposer que la copie même du texte n’a pas été réalisée en une fois ou en un seul atelier » (1)</origin>
-                <provenance>possesseur : un <persName role="possesseur" key="Estouteville, famille d’">membre de la famille normande d’Estouteville</persName> (f.120v, <quote>« A Monseigneur d’Estouteville »</quote>)</provenance>
+                <provenance><p>Possesseur : un <persName role="possesseur" key="Estouteville, famille d’">membre de la famille normande d’Estouteville</persName> (f.120v, <quote>« A Monseigneur d’Estouteville »</quote>)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -313,7 +313,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1470" notAfter="1480">1470-1480 (proche du ms Paris, Bibl. nat. de Fr., lat. 902, f. 101v [1502], <title>Mss datés</title>, t. II, pl. 173) ; Bruges</origin>
-                <provenance>possesseur : écrit pour <persName role="possesseur" key="Jan Crabbe, abbé de Dunes">Jan Crabbe</persName>, abbé de Dunes (1457/59-1488) (armes sur chaque f. illustré)</provenance>
+                <provenance><p>Possesseur : écrit pour <persName role="possesseur" key="Jan Crabbe, abbé de Dunes">Jan Crabbe</persName>, abbé de Dunes (1457/59-1488) (armes sur chaque f. illustré)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -347,7 +347,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1420" notAfter="1435">1420-1435 (proche du ms Paris, bibl. des Beaux-Arts, coll. Masson 75, f. 7v [vers 1407], <title>Mss datés</title>, t. I, pl. 77) ; Rouen</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (ajout des armes et chiffres après 1475, f. 9v), <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (ex libris et signature f. 334b), <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName role="possesseur" key="Marguerite de Hongrie">Marguerite de Hongrie</persName></provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (ajout des armes et chiffres après 1475, f. 9v), <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (ex libris et signature f. 334b), <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName role="possesseur" key="Marguerite de Hongrie">Marguerite de Hongrie</persName></p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -395,7 +395,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s (proche du ms Paris, Bibl. nat. de Fr., fr. 432, f. 175 [1457])</origin>
-                <provenance>Possesseur: <persName role="possesseur" key="Grisel, Jacques">Jacques Grisel</persName>, bibliophile cambraisien du XVI<hi rend="sup">e</hi> s. (ex libris, f. de garde début)</provenance>
+                <provenance><p>Possesseur: <persName role="possesseur" key="Grisel, Jacques">Jacques Grisel</persName>, bibliophile cambraisien du XVI<hi rend="sup">e</hi> s. (ex libris, f. de garde début)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -429,7 +429,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1486">vers 1470 (avant 1486, date de nomination de Louis du Perier à la charge de receveur) (proche du ms Paris, bibl. Sainte-Geneviève 335, f. 1 [1467-1468], <title>Mss datés</title>, t. I, pl. 126) ; Lyon</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Louis du Perier">Louis du Perier</persName> (<quote>« Cy fine la translation du quart livre de Valere le Grant, lequel a fait escripre et hystorier noble homme Loys du Perier, recepveur pour le roy nostre sire es paÿs d’Albigoys »</quote> ms 833, f. 327d), <persName role="possesseur" key="Georges d’Amboise">Georges d’Amboise</persName> (armes refaites sur grattage ms 833, f. 3 et <foreign>passim</foreign> :; devise ms 833, f. 3 et <foreign>passim</foreign>), <persName role="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles Ier de Bourbon</persName>, cardinal archevêque de Rouen († 1590), <persName role="possesseur" key="Charles II de Bourbon, archevêque de Rouen">Charles II de Bourbon</persName>, neveu du précédent, cardinal archevêque de Rouen († 1594)</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Louis du Perier">Louis du Perier</persName> (<quote>« Cy fine la translation du quart livre de Valere le Grant, lequel a fait escripre et hystorier noble homme Loys du Perier, recepveur pour le roy nostre sire es paÿs d’Albigoys »</quote> ms 833, f. 327d), <persName role="possesseur" key="Georges d’Amboise">Georges d’Amboise</persName> (armes refaites sur grattage ms 833, f. 3 et <foreign>passim</foreign> :; devise ms 833, f. 3 et <foreign>passim</foreign>), <persName role="possesseur" key="Charles Ier de Bourbon, archevêque de Rouen">Charles Ier de Bourbon</persName>, cardinal archevêque de Rouen († 1590), <persName role="possesseur" key="Charles II de Bourbon, archevêque de Rouen">Charles II de Bourbon</persName>, neveu du précédent, cardinal archevêque de Rouen († 1594)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -462,7 +462,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> siècle (proche des mss Paris, Bibl. nat. de Fr., fr. 861, f. 138 [1500], fr. 933, f. 14v [1431])</origin>
-                <provenance>possesseur : <orgName role="possesseur" key="Anchin, abbaye">abbaye d'Anchin</orgName> (mention moderne, f. de garde début)</provenance>
+                <provenance><p>possesseur : <orgName role="possesseur" key="Anchin, abbaye">abbaye d'Anchin</orgName> (mention moderne, f. de garde début)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -581,7 +581,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1395" notAfter="1420">début du XVe s. [1421 (1) ; ca 1400-1410 (2)] (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
-                <provenance>possesseurs : ms exécuté pour un personnage dont le blason figure dans toutes les lettrines, qui est : « fascé de vair et de gueules de 6 pièces, à la bordure de gueules » ; un autre blason, plus tardif, refait sur un grattage, figure au haut du f. 1. Il est malheureusement noirci : couronne surmontée d’une tête de chimère ; possesseur : <persName role="possesseur" key="Georgius Vivens">Georgius Vivens</persName> (ex libris f. 1)</provenance>
+                <provenance><p>Possesseurs : ms exécuté pour un personnage dont le blason figure dans toutes les lettrines, qui est : « fascé de vair et de gueules de 6 pièces, à la bordure de gueules » ; un autre blason, plus tardif, refait sur un grattage, figure au haut du f. 1. Il est malheureusement noirci : couronne surmontée d’une tête de chimère ; possesseur : <persName role="possesseur" key="Georgius Vivens">Georgius Vivens</persName> (ex libris f. 1)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -684,7 +684,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1475" notAfter="1485">vers 1480 (proche du ms Bruxelles, Bibl. royale, 9017 [1462], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, 1982, t. IV, pl. 717), Bruges</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Jean III de Gros">Jean III de Gros, de Bruges</persName>, trésorier de la Toison d’or (1434-1484) (devise et emblème récurrents dans les bordures)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Jean III de Gros">Jean III de Gros, de Bruges</persName>, trésorier de la Toison d’or (1434-1484) (devise et emblème récurrents dans les bordures)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -714,7 +714,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseur : <orgName role="possesseur" key="Lille, collégiale Saint-Pierre">Lille, collégiale Saint-Pierre</orgName></provenance>
+                <provenance><p>possesseur : <orgName role="possesseur" key="Lille, collégiale Saint-Pierre">Lille, collégiale Saint-Pierre</orgName></p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -738,7 +738,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (f. 5 proche du ms Chantilly, Musée Condé, 731, f. 1 [1477-1484], <title>Mss datés</title>, t. I, pl. 135) [1re moitié du XVe s. d’après (1)]</origin>
-                <provenance>Possesseur : acheté par <persName role="possesseur" key="Geoffroy de Pérusse des Cars">Geoffroy de Pérusse des Cars</persName>, chambellan d’Henri, roi de Navarre (futur Henri IV), <quote>« sénéchal et gouverneur au viconté de Limoges aussy son seneschal ez pays et vicontés de Marsan, Turssan et Gaverdan »</quote> (ex libris f. 352d)</provenance>
+                <provenance><p>Possesseur : acheté par <persName role="possesseur" key="Geoffroy de Pérusse des Cars">Geoffroy de Pérusse des Cars</persName>, chambellan d’Henri, roi de Navarre (futur Henri IV), <quote>« sénéchal et gouverneur au viconté de Limoges aussy son seneschal ez pays et vicontés de Marsan, Turssan et Gaverdan »</quote> (ex libris f. 352d)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -767,7 +767,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1505">fin du XVe s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Louis, bâtard de Bourbon">Louis, bâtard de Bourbon</persName> (armes dans la bordure f. 12)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Louis, bâtard de Bourbon">Louis, bâtard de Bourbon</persName> (armes dans la bordure f. 12)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -797,7 +797,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1470" notAfter="1480">vers 1475 (proche du ms Paris, Bibl. nat. de Fr., lat. 5422, f. 1 [1462], <title>Mss datés</title>, t. II, pl. 133)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Philippe de Commynes">Philippe de Commynes</persName> (marié en 1473, + 1511) (armes et chiffre de Philippe de Commynes et de sa femme, <persName role="possesseur" key="Hélène de Chambres-Montsoreau">Hélène de Chambres-Montsoreau</persName>, 4374, f. 1, 88, 161, 211), <orgName role="possesseur" key="Paris, abbaye Sainte-Geneviève">abbaye de Sainte-Geneviève</orgName> à Paris (ex libris effacé, ms 4374, f. 1)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Philippe de Commynes">Philippe de Commynes</persName> (marié en 1473, + 1511) (armes et chiffre de Philippe de Commynes et de sa femme, <persName role="possesseur" key="Hélène de Chambres-Montsoreau">Hélène de Chambres-Montsoreau</persName>, 4374, f. 1, 88, 161, 211), <orgName role="possesseur" key="Paris, abbaye Sainte-Geneviève">abbaye de Sainte-Geneviève</orgName> à Paris (ex libris effacé, ms 4374, f. 1)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -855,7 +855,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1451" notAfter="1500">Flandre (Bruges) ; 2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (ca 1470 (3)) (proche du ms London, British Libr., Royal G VIII, f. 88 [Lille, 1473], A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 771)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> d’Angleterre (?) ; rois d’Angleterre (armes f. 3 ; bibl. du château de Richmond en 1535, cf. Omont, n° 2 : <title>Valere le Grant</title>)</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> d’Angleterre (?) ; rois d’Angleterre (armes f. 3 ; bibl. du château de Richmond en 1535, cf. Omont, n° 2 : <title>Valere le Grant</title>)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -885,7 +885,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1479" notAfter="1479">Bruges ? ; 1479 (A. G. Watson, <title>Catalogue of dated and datable manuscripts c. 700-1600 in the Department of manuscripts, the British Library</title>, Londres, 1979, t. II, pl. 816)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> est le commanditaire de ce ms, cf armes et devise dans les encadrements des f. enluminés (<orgName role="possesseur" key="Richmond Palace">bibliothèque du château de Richmond</orgName>, cf. Omont, n° 28-29 : <title>Le premier volume de Valere, Le second volume de Valere</title>)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Edouard IV d’Angleterre">Edouard IV</persName> est le commanditaire de ce ms, cf armes et devise dans les encadrements des f. enluminés (<orgName role="possesseur" key="Richmond Palace">bibliothèque du château de Richmond</orgName>, cf. Omont, n° 28-29 : <title>Le premier volume de Valere, Le second volume de Valere</title>)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1080,7 +1080,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1477">XV<hi rend="sup">e</hi> s. (avant 1477)</origin>
-                <provenance>possesseurs : initiales « T.J. », armes de <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName>, chambellan de Louis XI († 1477) et de Jeanne Raguenel, sa femme</provenance>
+                <provenance><p>possesseurs : initiales « T.J. », armes de <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName>, chambellan de Louis XI († 1477) et de Jeanne Raguenel, sa femme</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -1107,7 +1107,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Montmorency, famille de">famille de Montmorency</persName> (armes et devises non primitives 5194, f. 1)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Montmorency, famille de">famille de Montmorency</persName> (armes et devises non primitives 5194, f. 1)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1137,7 +1137,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1465" notAfter="1475">vers 1470 (<title>Mss datés</title>, t. I, pl. 99)</origin>
-                <provenance>possesseur : copié et peint après 1444 pour <persName role="possesseur" key="Wolfart de Borssele">Wolfart de Borssele</persName> († 1487), maréchal de France (armes écartelées de Borselle et de Bouchain portées par Wolfart de 1444 à 1474, f. 1, 76v, 139, 182v, etc.) ; f. 1, dans la bordure, devise « <quote>« pour a jamés »</quote> » avec une grenade enflammée et les lettres « R. T. »</provenance>
+                <provenance><p>possesseur : copié et peint après 1444 pour <persName role="possesseur" key="Wolfart de Borssele">Wolfart de Borssele</persName> († 1487), maréchal de France (armes écartelées de Borselle et de Bouchain portées par Wolfart de 1444 à 1474, f. 1, 76v, 139, 182v, etc.) ; f. 1, dans la bordure, devise « <quote>« pour a jamés »</quote> » avec une grenade enflammée et les lettres « R. T. »</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1196,7 +1196,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, Arsenal 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
-                <provenance>Possesseur : <persName role="possesseur" key="Etienne Ansse [ou Ausse]">Etienne Ansse [ou Ausse]</persName> (ex dono de la fin du XV<hi rend="sup">e</hi> s. ou du début du XVI<hi rend="sup">e</hi> s., f. 172 : <quote>« Hunc librum donavit vir sapientissimus magister Stephanus Ausse, in curia Parlamenti procurator, pro usu collegii beate Marie Baiocensis, collegium magistri Gervasii Christiani vulgariter nuncupati... »</quote>)</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Etienne Ansse [ou Ausse]">Etienne Ansse [ou Ausse]</persName> (ex dono de la fin du XV<hi rend="sup">e</hi> s. ou du début du XVI<hi rend="sup">e</hi> s., f. 172 : <quote>« Hunc librum donavit vir sapientissimus magister Stephanus Ausse, in curia Parlamenti procurator, pro usu collegii beate Marie Baiocensis, collegium magistri Gervasii Christiani vulgariter nuncupati... »</quote>)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1224,7 +1224,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1450" notAfter="1500">France de l'Ouest?, Bretagne ? (1), seconde moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 5196, f. 109 [1444-1474], <title>Mss datés</title>, t. I, pl. 99) ; vers 1430 (5)</origin>
-                <provenance>possesseurs : Jean de Malestroit, seigneur de Derval († 1482), mari d’Hélène de Laval († 1500), fille de Gui XIV de Laval : mention de possession f. 325v et 2 blasons (f. 1 : armes de <persName role="possesseur" key="Jean de Derval">Jean de Derval</persName> ; armes de Jean de Derval et de sa femme <persName role="possesseur" key="Hélène de Laval">Hélène de Laval</persName>) ; f. 319v souscription autographe : « <quote>« Ce livre est à Jehan de Derval »</quote> » (ex-libris et armes de Jean de Derval postérieurs au ms)</provenance>
+                <provenance><p>possesseurs : Jean de Malestroit, seigneur de Derval († 1482), mari d’Hélène de Laval († 1500), fille de Gui XIV de Laval : mention de possession f. 325v et 2 blasons (f. 1 : armes de <persName role="possesseur" key="Jean de Derval">Jean de Derval</persName> ; armes de Jean de Derval et de sa femme <persName role="possesseur" key="Hélène de Laval">Hélène de Laval</persName>) ; f. 319v souscription autographe : « <quote>« Ce livre est à Jehan de Derval »</quote> » (ex-libris et armes de Jean de Derval postérieurs au ms)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1259,7 +1259,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">Paris, XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 724, f. 58 [1444-1471], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Jacques II de Bourbon, comte de la Marche">Jacques de Bourbon</persName> († 1438), comte de la Marche ; <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours (armes f. 1 et chaque f. illustré ; ex-libris effacé f. 462), <persName role="possesseur" key="Pierre II de Bourbon">Pierre de Beaujeu</persName> (armes recouvrant celles de Nemours)</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Jacques II de Bourbon, comte de la Marche">Jacques de Bourbon</persName> († 1438), comte de la Marche ; <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours (armes f. 1 et chaque f. illustré ; ex-libris effacé f. 462), <persName role="possesseur" key="Pierre II de Bourbon">Pierre de Beaujeu</persName> (armes recouvrant celles de Nemours)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1348,7 +1348,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1405" notAfter="1410">1405-1410 (proche du ms Paris, bibl. Mazarine, 3795 f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
-                <provenance>possesseur : <orgName role="possesseur" key="Rouen, échevinage">échevinage de Rouen</orgName></provenance>
+                <provenance><p>possesseur : <orgName role="possesseur" key="Rouen, échevinage">échevinage de Rouen</orgName></p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1412,7 +1412,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1469" notAfter="1470">1469-1470, Paris (<quote>« Et sic est finis laus Deo pax vivis requiem defuntis. Anno m° CCCC LXIX° die penultima mensis januarii in nobilissima civitate parisiensis »</quote> fr. 285, f. 241a) (proche du ms Chantilly, Musée Condé, 875, f. 343v [1446], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName> (?) (copié par le copiste qui a copié un <title>Des cas des nobles hommes et femmes</title> (Chantilly, Musée Condé, 860) pour le duc en 1465 ; sur le dernier f. du fr. 285, traces d’un « i » ou d’un « j ») ; <persName role="possesseur" key="Charles III de Bourbon-Vendôme, archevêque de Rouen">cardinal Charles III de Bourbon-Vendôme</persName> (2<hi rend="sup">e</hi> moitié du XVI<hi rend="sup">e</hi> s. ; reliure aux armes)</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName> (?) (copié par le copiste qui a copié un <title>Des cas des nobles hommes et femmes</title> (Chantilly, Musée Condé, 860) pour le duc en 1465 ; sur le dernier f. du fr. 285, traces d’un « i » ou d’un « j ») ; <persName role="possesseur" key="Charles III de Bourbon-Vendôme, archevêque de Rouen">cardinal Charles III de Bourbon-Vendôme</persName> (2<hi rend="sup">e</hi> moitié du XVI<hi rend="sup">e</hi> s. ; reliure aux armes)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1444,7 +1444,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 3795, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Charles V">Charles V</persName> (d’après IRHT, section d’histoire des bibliothèques)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Charles V">Charles V</persName> (d’après IRHT, section d’histoire des bibliothèques)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1472,7 +1472,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5422, f. 1 [1462], <title>Mss datés</title>, t. II, pl. 133)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> († 1492) ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. 242v)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> († 1492) ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque de Blois</orgName> (armes de France f. 242v)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1504,7 +1504,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 5088, f. 345 [1454], <title>Mss datés</title> t. I, pl. 109) [1er quart d’après (1)]</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Aymar de Poitiers">Aymar de Poitiers</persName>, seigneur de Saint-Vallier, sénéchal de Provence (1484-1493) (armes ajoutéees de Poitiers de -Vallier f. 1 et 4) ; <persName role="possesseur" key="Gaston d’Orléans">Gaston d’Orléans</persName></provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Aymar de Poitiers">Aymar de Poitiers</persName>, seigneur de Saint-Vallier, sénéchal de Provence (1484-1493) (armes ajoutéees de Poitiers de -Vallier f. 1 et 4) ; <persName role="possesseur" key="Gaston d’Orléans">Gaston d’Orléans</persName></p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1534,7 +1534,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> siècle (proche du ms Paris, Bibl. nat. de Fr., lat. 5860, f. 325v [1414], <title>Mss datés</title>, t. II, pl. 83) ; Flandre (pour la décoration)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (?)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (?)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1612,7 +1612,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1441" notAfter="1460">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 653, f. 18v [1438-1456], <title>Mss datés</title>, t. I, pl. 94)</origin>
-                <provenance>Possesseur : <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> (armes f. 1)</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> (armes f. 1)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1640,7 +1640,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1440" notAfter="1460">milieu du XV<hi rend="sup">e</hi> s. (années 1450) (proche du ms Chantilly, Musée Condé, 724, f. 58 [1444-1471], <title>Mss datés</title>, t. I, pl. 100)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Philippe le Bon">Philippe le Bon</persName>, duc de Bourgogne (armes et devise au f. 1) ; <quote>« Ung autre grant livre de Valerius Maximus, couvert de velours noir a clouz de lecton dorez ; comançant au second feuillet, <title>De memoires dignes</title>, et au dernier avant la table, <title>Maxedoine au dit Romains</title> »</quote> (inventaire de ca 1467 Barrois (1))  ; <quote>« Item, ung autre grant volume, intitulé : Valerius Maximus, en franchois, couvert de velours noir, à tout deux clouans d’argent doré, armoyez des armes du feu duc Philippe, les aiz garnis assavoir, ung des cotez de trois boutons d’argent doré a façon de fleur de liz, et de l’autre costez de cincq semble boutons ; comenchant ou second feuillet, <title>De memoire dignes</title>, et le dernier feuillet finissant la table du dit livre, ainsy d’eulx conjoindre aux familles tres nobles »</quote> (inventaire de 1487, Barrois 1637 (1))</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Philippe le Bon">Philippe le Bon</persName>, duc de Bourgogne (armes et devise au f. 1) ; <quote>« Ung autre grant livre de Valerius Maximus, couvert de velours noir a clouz de lecton dorez ; comançant au second feuillet, <title>De memoires dignes</title>, et au dernier avant la table, <title>Maxedoine au dit Romains</title> »</quote> (inventaire de ca 1467 Barrois (1))  ; <quote>« Item, ung autre grant volume, intitulé : Valerius Maximus, en franchois, couvert de velours noir, à tout deux clouans d’argent doré, armoyez des armes du feu duc Philippe, les aiz garnis assavoir, ung des cotez de trois boutons d’argent doré a façon de fleur de liz, et de l’autre costez de cincq semble boutons ; comenchant ou second feuillet, <title>De memoire dignes</title>, et le dernier feuillet finissant la table du dit livre, ainsy d’eulx conjoindre aux familles tres nobles »</quote> (inventaire de 1487, Barrois 1637 (1))</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1697,7 +1697,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1365" notAfter="1385">vers 1375 (proche du ms Paris, bibl. de la Sorbonne, 126, f. 27 [1379], <title>Mss datés</title>, t. I, pl. 67), Paris</origin>
-                <provenance>possesseurs : exemplaire de dédicace offert à <persName role="possesseur" key="Charles V">Charles V</persName> ; <persName role="possesseur" key="Louis d'Anjou">Louis d'Anjou</persName> (mention dans l’inventaire de la Librairie du Louvre dressé en 1380)</provenance>
+                <provenance><p>possesseurs : exemplaire de dédicace offert à <persName role="possesseur" key="Charles V">Charles V</persName> ; <persName role="possesseur" key="Louis d'Anjou">Louis d'Anjou</persName> (mention dans l’inventaire de la Librairie du Louvre dressé en 1380)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1783,7 +1783,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1425">1<hi rend="sup">er</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 934, f. 1 [1396-1420], <title>Mss datés</title>, t. I, pl. 70)</origin>
-                <provenance>possesseur : <orgName role="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> (av. 1514) (ex libris f. 1, f. 314c)  ; au verso du 1er f. de garde, présentation du texte en latin par <persName type="ancien">André Hausselet</persName> (<quote>« translatio in gallico et expositio novem librorum Valerii Maximi ex precepto Karoli quinti quondam Franchorum regis compilata per magistrum Symonem de Hyduino religiosum hospitalariorum Sancti Johannis de Jherusalem sacre theologie professorem a primi ejusdem Valerii libri exordio usque ad finem inclusive quinti capituli libri septimi quod capitulum intitulatur stratagemata et ab illo loco usque ad finem noni libri componita per magistrum Nicholaum de Goneysse »</quote> [suit l’indication du 1er f. de chaque livre])</provenance>
+                <provenance><p>possesseur : <orgName role="possesseur" key="Paris, abbaye Saint-Victor">abbaye Saint-Victor de Paris</orgName> (av. 1514) (ex libris f. 1, f. 314c)  ; au verso du 1er f. de garde, présentation du texte en latin par <persName type="ancien">André Hausselet</persName> (<quote>« translatio in gallico et expositio novem librorum Valerii Maximi ex precepto Karoli quinti quondam Franchorum regis compilata per magistrum Symonem de Hyduino religiosum hospitalariorum Sancti Johannis de Jherusalem sacre theologie professorem a primi ejusdem Valerii libri exordio usque ad finem inclusive quinti capituli libri septimi quod capitulum intitulatur stratagemata et ab illo loco usque ad finem noni libri componita per magistrum Nicholaum de Goneysse »</quote> [suit l’indication du 1er f. de chaque livre])</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1837,7 +1837,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1450" notAfter="1475">3<hi rend="sup">e</hi> quart du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
-                <provenance>Possesseurs : donné en 1489 par <persName role="possesseur" key="Jean Hue">maître Jean Hue</persName> au <orgName role="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (n°52) (ex dono fr. 23091, f. 269v : <quote>« Ex dono magistri Johannis Hue in sacra pagina professoris eximii ac etiam penitenciarii et canonici ecclesie parisiensis qui obiit in hac parisiensi urbe anno Domini millesimo quadringentesimo octuagesimo non post Pasca. Orate Deum pro anima ejus ut requiescat in pace ; Pro libraria regali colleg[i]i Campaniae alias Navarrae »</quote> ou variante, fr. 23090, f. 1, 274v ; fr. 23091, f. 1, 267v) ; marques de lecture</provenance>
+                <provenance><p>Possesseurs : donné en 1489 par <persName role="possesseur" key="Jean Hue">maître Jean Hue</persName> au <orgName role="possesseur" key="Paris, collège de Navarre">collège de Navarre</orgName> (n°52) (ex dono fr. 23091, f. 269v : <quote>« Ex dono magistri Johannis Hue in sacra pagina professoris eximii ac etiam penitenciarii et canonici ecclesie parisiensis qui obiit in hac parisiensi urbe anno Domini millesimo quadringentesimo octuagesimo non post Pasca. Orate Deum pro anima ejus ut requiescat in pace ; Pro libraria regali colleg[i]i Campaniae alias Navarrae »</quote> ou variante, fr. 23090, f. 1, 274v ; fr. 23091, f. 1, 267v) ; marques de lecture</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1889,7 +1889,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Mazarine, 912, f. 256 [1390], <title>Mss datés</title>, t. I, pl. 64)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Laurens Dublioul">Laurens Dublioul</persName>, sieur de Sart, greffier de la Toison d’or (ex libris 1er f. de garde début : <quote>« Ce livre est a Laurens Dublioul, seigneur du Sart, greffier de l’ordre du thoison d’or »</quote>) ; marques de lecture</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Laurens Dublioul">Laurens Dublioul</persName>, sieur de Sart, greffier de la Toison d’or (ex libris 1er f. de garde début : <quote>« Ce livre est a Laurens Dublioul, seigneur du Sart, greffier de l’ordre du thoison d’or »</quote>) ; marques de lecture</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1917,7 +1917,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1451" notAfter="1500">2<hi rend="sup">e</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 2886, f. 305v [1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Etienne Ansse [ou Ausse]">Etienne Ansse [ou Ausse]</persName> (<quote>« Hunc librum donavit vir sapientissimus magister Stephanus Ansse [ou Ausse], in curia Parlamenti procurator, pro usu scolarium collegii beate Marie de dyoecsi Baiocensi, collegium magistri Gervasii Christiani vulgariter nuncupati, secundum ritum et intencionem fundatoris perpetuo, Deo dante, permansurum »</quote> f. 152) ; <orgName role="possesseur" key="Bayeux (diocèse de), collège de maître Gervais">collège de maître Gervais</orgName> (diocèse de Bayeux)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Etienne Ansse [ou Ausse]">Etienne Ansse [ou Ausse]</persName> (<quote>« Hunc librum donavit vir sapientissimus magister Stephanus Ansse [ou Ausse], in curia Parlamenti procurator, pro usu scolarium collegii beate Marie de dyoecsi Baiocensi, collegium magistri Gervasii Christiani vulgariter nuncupati, secundum ritum et intencionem fundatoris perpetuo, Deo dante, permansurum »</quote> f. 152) ; <orgName role="possesseur" key="Bayeux (diocèse de), collège de maître Gervais">collège de maître Gervais</orgName> (diocèse de Bayeux)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -1967,7 +1967,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1395" notAfter="1420">début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 5400, f. CCCLXXXVI [1410], <title>Mss datés</title>, t. II, pl. 81)</origin>
-                <provenance>possesseur : « au <persName role="possesseur" key="Forestel">sieur du Forestel</persName> » (t. II, f. 680v, main du XV<hi rend="sup">e</hi> s.) ; signature « <persName role="possesseur" key="J. de Gauvin">J. de Gauvin</persName> » (t. II, f.  680v, main du XV<hi rend="sup">e</hi> s.)</provenance>
+                <provenance><p>possesseur : « au <persName role="possesseur" key="Forestel">sieur du Forestel</persName> » (t. II, f. 680v, main du XV<hi rend="sup">e</hi> s.) ; signature « <persName role="possesseur" key="J. de Gauvin">J. de Gauvin</persName> » (t. II, f.  680v, main du XV<hi rend="sup">e</hi> s.)</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1995,7 +1995,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1420">fin du XIV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. des Beaux Arts, coll. Masson 75, f. 44 [vers 1407], <title>Mss datés</title>, t. I, pl. 77)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Gaston III Phébus">Gaston III Phébus</persName> († 1391) (1) ; <persName role="possesseur" key="Jean Ier, comte de Foix">Jean I, comte de Foix</persName> (= <persName role="possesseur" key="Jean de Grailly">Jean de Grailly</persName>, † 1436). Sa devise « j’ai belle dame » (f. 279v : <quote>« Ce livre est a celuy qui sanz blasme en son droyt mot porte j’ay belle dame »</quote>) paraît se rapporter à Jeanne d’Albret, fille de Charles d’Albret, connétable de France, qu’il épousa en secondes noces en 1423</provenance>
+                <provenance><p>possesseurs : <persName role="possesseur" key="Gaston III Phébus">Gaston III Phébus</persName> († 1391) (1) ; <persName role="possesseur" key="Jean Ier, comte de Foix">Jean I, comte de Foix</persName> (= <persName role="possesseur" key="Jean de Grailly">Jean de Grailly</persName>, † 1436). Sa devise « j’ai belle dame » (f. 279v : <quote>« Ce livre est a celuy qui sanz blasme en son droyt mot porte j’ay belle dame »</quote>) paraît se rapporter à Jeanne d’Albret, fille de Charles d’Albret, connétable de France, qu’il épousa en secondes noces en 1423</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -2025,7 +2025,7 @@
               </physDesc>
               <history>
                 <origin>vers 1470</origin>
-                <provenance>possesseurs : exécuté pour <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours (ex libris f. 346c) ; Tanneguy du Chastel et <persName role="possesseur" key="Jeanne Raguenel de Malestroit">Jeanne Raguenel de Malestroit</persName> (armes f. 1), <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> (armes f. 1)</provenance>
+                <provenance><p>possesseurs : exécuté pour <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d'Armagnac</persName>, duc de Nemours (ex libris f. 346c) ; Tanneguy du Chastel et <persName role="possesseur" key="Jeanne Raguenel de Malestroit">Jeanne Raguenel de Malestroit</persName> (armes f. 1), <persName role="possesseur" key="Tanneguy du Chastel">Tanneguy du Chastel</persName> (armes f. 1)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -2054,7 +2054,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (1421-1504 ; devise à la fin de chacun des manuscrits)</provenance>
+                <provenance><p>possesseur : <persName role="possesseur" key="Antoine, grand bâtard de Bourgogne">Antoine de Bourgogne</persName> (1421-1504 ; devise à la fin de chacun des manuscrits)</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -2144,7 +2144,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>Possesseur : <orgName role="possesseur" key="Marmoutier, abbaye">abbaye de Marmoutier</orgName>. Manuscrit détruit pendant la seconde guerre mondiale</provenance>
+                <provenance><p>Possesseur : <orgName role="possesseur" key="Marmoutier, abbaye">abbaye de Marmoutier</orgName>. Manuscrit détruit pendant la seconde guerre mondiale</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -2193,7 +2193,7 @@
               </note>
               
             </bibl>
-            <bibl xml:id="imprime2_factorum">[Traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse], Lyon, <publisher>Matthias Huss</publisher>, <date notBefore="1485" notAfter="1485">1485</date>, 2°, ill. [t. I : f. 1, 70, 126, 166 ; t. II : f. 33, 57, f. 1, 89, 129 (à 4 compartiments f. 33 et 57)], en 2 volumes (218 + 208 f.). 1er volume : table des rubriques des 4 premiers livres, avec renvois aux feuillets, alors que l’exemplaire consulté n’est pas folioté f. a2a-c2c (<title type="ancien">Icy commencent les rubrices du livre Valerius Macimus translaté de latin en françois ouquel il traicte des Rommains et des Carthageniens et de plusieurs autres nations et de leurs guerres</title> f. a2a) ; prologue du traducteur f. 1a-2a (<title type="ancien">Cy commence le livre de Valere le Grant translaté de latin en franchoys</title> f.1) ; prologue de l’auteur f. 2a-3d ; livre I f. 3d-69c ; livre II f. 70a-125d ; livre III f. 126a-165b ; livre IV f. 166a-198b ; 2e volume : table des rubriques des livres V à IX, 14 f. (f. A2a-B7d) ; f. B8a-d blanc ; livre V f. 1a-32c ; livre VI f. 33a-56d ; livre VII f. 57a-88d : fin de la traduction de Simon de Hesdin et début de celle de Nicolas de Gonesse f. 75b) ; livre VIII f. 89a-128d ; livre IX f. 129a-190d. Colophon : <hi rend="i">Et a esté imprimé a Lyon sur le Rosne par discrete personne maistre mathieu Husz imprimeur de livres demourant en ladicte ville de Lyon l’an mil quatre cens quatre vingtz et cinq la vigile de saint Jehan Baptiste</hi> [marque d’imprimeur <foreign>infra</foreign>] f. 190d
+            <bibl xml:id="imprime2_factorum">[Traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse], Lyon, <publisher>Matthias Huss</publisher>, <date when="1485">1485</date>, 2°, ill. [t. I : f. 1, 70, 126, 166 ; t. II : f. 33, 57, f. 1, 89, 129 (à 4 compartiments f. 33 et 57)], en 2 volumes (218 + 208 f.). 1er volume : table des rubriques des 4 premiers livres, avec renvois aux feuillets, alors que l’exemplaire consulté n’est pas folioté f. a2a-c2c (<title type="ancien">Icy commencent les rubrices du livre Valerius Macimus translaté de latin en françois ouquel il traicte des Rommains et des Carthageniens et de plusieurs autres nations et de leurs guerres</title> f. a2a) ; prologue du traducteur f. 1a-2a (<title type="ancien">Cy commence le livre de Valere le Grant translaté de latin en franchoys</title> f.1) ; prologue de l’auteur f. 2a-3d ; livre I f. 3d-69c ; livre II f. 70a-125d ; livre III f. 126a-165b ; livre IV f. 166a-198b ; 2e volume : table des rubriques des livres V à IX, 14 f. (f. A2a-B7d) ; f. B8a-d blanc ; livre V f. 1a-32c ; livre VI f. 33a-56d ; livre VII f. 57a-88d : fin de la traduction de Simon de Hesdin et début de celle de Nicolas de Gonesse f. 75b) ; livre VIII f. 89a-128d ; livre IX f. 129a-190d. Colophon : <hi rend="i">Et a esté imprimé a Lyon sur le Rosne par discrete personne maistre mathieu Husz imprimeur de livres demourant en ladicte ville de Lyon l’an mil quatre cens quatre vingtz et cinq la vigile de saint Jehan Baptiste</hi> [marque d’imprimeur <foreign>infra</foreign>] f. 190d
               <note place="inline">
                 <p>Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Z 206-207</p>
                 <listBibl>
@@ -2203,7 +2203,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime3_factorum"><title type="ancien">Valere le Grant</title>, Lyon, <publisher>Matthias Huss</publisher>, <date notBefore="1489" notAfter="1489">1489</date> ; 2° ; ill. [t. I : f. 1, 49v, 92v, 121 ; t. II : f. 1, 25, 42v, 68, (f. 25 et 42v à 4 compartiments], en 2 volumes (158 + 154 f.). 1er volume : table des rubriques des 4 premiers livres avec renvoi aux f. non foliotés, 10 f. (f. a2a-b5d) (<title type="ancien">Cy commencent les rubrices du livre Valerius Maximus translaté de latin en françoys ouquel il traicte des Rommains et des Carthageniens et de plusieurs aultres nacions et de leurs guerres</title> f. a2a) ; prologue du traducteur f. 1a-d ; prologue de l’auteur f. 2a-3b ; livre I f. 3b-49b  ; livre II f. 49c-92d ; livre III f. 93a-121a ; livre IV f. 121b-145b ; 2e volume : table des rubriques des livres V à IX avec renvois aux f., 9 f. (f. A2a-A10b) ; livre V f. 1a-24d ; livre VI f. 25a-42b ; livre VII f. 42c-67d : fin de la traduction de Simon de Hesdin et début de celle de Nicolas de Gonesse f. 57b) ; livre VIII f. 68a-97d ; livre IX f. 98a-143d. Colophon : <hi rend="i">Et a esté imprimé à Lyon sur le Rosne par maistre Mathieu Husz imprimeur de livres demourant en la dicte ville de Lyon l’an mil quatre cens quatre vintz et neuf la vigile de saint Jehan Baptiste</hi> [<foreign>infra</foreign> : marque d’imprimeur] f. 143d. Suit l’édition précédente
+            <bibl xml:id="imprime3_factorum"><title type="ancien">Valere le Grant</title>, Lyon, <publisher>Matthias Huss</publisher>, <date when="1489">1489</date> ; 2° ; ill. [t. I : f. 1, 49v, 92v, 121 ; t. II : f. 1, 25, 42v, 68, (f. 25 et 42v à 4 compartiments], en 2 volumes (158 + 154 f.). 1er volume : table des rubriques des 4 premiers livres avec renvoi aux f. non foliotés, 10 f. (f. a2a-b5d) (<title type="ancien">Cy commencent les rubrices du livre Valerius Maximus translaté de latin en françoys ouquel il traicte des Rommains et des Carthageniens et de plusieurs aultres nacions et de leurs guerres</title> f. a2a) ; prologue du traducteur f. 1a-d ; prologue de l’auteur f. 2a-3b ; livre I f. 3b-49b  ; livre II f. 49c-92d ; livre III f. 93a-121a ; livre IV f. 121b-145b ; 2e volume : table des rubriques des livres V à IX avec renvois aux f., 9 f. (f. A2a-A10b) ; livre V f. 1a-24d ; livre VI f. 25a-42b ; livre VII f. 42c-67d : fin de la traduction de Simon de Hesdin et début de celle de Nicolas de Gonesse f. 57b) ; livre VIII f. 68a-97d ; livre IX f. 98a-143d. Colophon : <hi rend="i">Et a esté imprimé à Lyon sur le Rosne par maistre Mathieu Husz imprimeur de livres demourant en la dicte ville de Lyon l’an mil quatre cens quatre vintz et neuf la vigile de saint Jehan Baptiste</hi> [<foreign>infra</foreign> : marque d’imprimeur] f. 143d. Suit l’édition précédente
               <note place="inline">
                 <p>Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Z 208 [ill. coloriées]</p>
                 <listBibl>
@@ -2325,7 +2325,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. Sainte-Geneviève 246, f. 423 [vers 1472], <title>Mss datés</title>, t. I, pl. 131)</origin>
-                  <provenance>possesseur : <persName role="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, seigneur d’Illeins, chevalier d’honneur de la duchesse de Bourgogne (fin du XV<hi rend="sup">e</hi> s.) (mention f. 212) ; nombreux commentaires marginaux en français et en latin</provenance>
+                  <provenance><p>possesseur : <persName role="possesseur" key="Guillaume de La Baume">Guillaume de La Baume</persName>, seigneur d’Illeins, chevalier d’honneur de la duchesse de Bourgogne (fin du XV<hi rend="sup">e</hi> s.) (mention f. 212) ; nombreux commentaires marginaux en français et en latin</p></provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -2415,7 +2415,7 @@
           <div type="imprime">
             <head>Imprimé</head>
             <listBibl type="poList">
-              <bibl xml:id="imprime5_factorum"><title type="ancien">Le gouvernement des princes le tresor de noblesse et les fleurs de Valere le Grant</title>, Paris, <publisher>Antoine Vérard</publisher>, <date notBefore="1497" notAfter="1497">1497</date>, 2°, ill., 80 f. <title type="ancien">Le gouvernement des princes</title> correspond à version C de la traduction française du <title>Secret des secrets</title> ; <title type="ancien">Le tresor de noblesse</title> est la traduction de l’<title>Espejo de verdadera nobleza de Diego</title> de <persName type="ancien">Valera</persName> par <persName role="traducteur">Hugues de Salves</persName> ; <title type="ancien">Les fleurs de Valere le grant</title> sont l’abrégé de <persName role="traducteur">Jean de Hangest</persName> [titre : <title type="ancien">Cy commence les fleurs de Valere le Grant</title> f. 55a] : prologue f. 55a ; table f. 55b-d ; texte f. 55d-75b. « Les trois textes ont subi des remaniements pour leur édition imprimée, vraisemblablement de la part d’Antoine Vérard lui-même » (1)
+              <bibl xml:id="imprime5_factorum"><title type="ancien">Le gouvernement des princes le tresor de noblesse et les fleurs de Valere le Grant</title>, Paris, <publisher>Antoine Vérard</publisher>, <date when="1497">1497</date>, 2°, ill., 80 f. <title type="ancien">Le gouvernement des princes</title> correspond à version C de la traduction française du <title>Secret des secrets</title> ; <title type="ancien">Le tresor de noblesse</title> est la traduction de l’<title>Espejo de verdadera nobleza de Diego</title> de <persName type="ancien">Valera</persName> par <persName role="traducteur">Hugues de Salves</persName> ; <title type="ancien">Les fleurs de Valere le grant</title> sont l’abrégé de <persName role="traducteur">Jean de Hangest</persName> [titre : <title type="ancien">Cy commence les fleurs de Valere le Grant</title> f. 55a] : prologue f. 55a ; table f. 55b-d ; texte f. 55d-75b. « Les trois textes ont subi des remaniements pour leur édition imprimée, vraisemblablement de la part d’Antoine Vérard lui-même » (1)
                 <note place="inline">
                   <p>Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. Vélin 413 (exemplaire dédié à <persName role="possesseur" key="Charles VIII">Charles VIII</persName>, provenant de la librairie royale de Blois)</p>
                   <listBibl>
@@ -2489,7 +2489,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1485" notAfter="1515">dernières années du XV<hi rend="sup">e</hi> s. ou premières années du XVI<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 6202, f. 7 [1503-1505], <title>Mss datés</title>, t. II, pl. 174)</origin>
-                  <provenance>Possesseur : <persName role="possesseur" key="Louise de Savoie">Louise de Savoie</persName> (armes ajoutées f. 1)</provenance>
+                  <provenance><p>Possesseur : <persName role="possesseur" key="Louise de Savoie">Louise de Savoie</persName> (armes ajoutées f. 1)</p></provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>

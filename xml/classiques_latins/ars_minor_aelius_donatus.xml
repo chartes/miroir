@@ -129,7 +129,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1250" notAfter="1300">Nord-Est de la France d'après la graphie, 2e moitié du XIIIe s.</origin>
-                <provenance>Possesseur : <orgName role="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. de garde).</provenance>
+                <provenance><p>Possesseur : <orgName role="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. de garde).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -398,7 +398,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1301" notAfter="1400">XIV<hi rend="sup">e</hi> s. ; France méridionale ? (proche du ms Paris, Bibl. nat. de Fr., lat. 3893, f. 73 [1314], <title>Mss datés</title>, t. II, pl. 42)</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Salutati, Coluccio">Coluccio Salutati</persName> ? († 1406) (f. 245v) ; <persName role="possesseur" key="Nicolas V">Nicolas V</persName> († 1455) ; Bibliothèque vaticane.</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Salutati, Coluccio">Coluccio Salutati</persName> ? († 1406) (f. 245v) ; <persName role="possesseur" key="Nicolas V">Nicolas V</persName> († 1455) ; Bibliothèque vaticane.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -466,7 +466,7 @@
                 </handDesc>
               </physDesc>
               <history>
-                <provenance>Possesseurs : <persName role="possesseur" key="Nicolas Colard">Nicolas Colard</persName>, <quote>« ordinis sancti Benedicti, <sic>capellanus</sic> honoris regine Sicilie, et emit anno Domini Jhesu 1436 »</quote> (f. 187v), <quote>« Iste liber est Nicolao Colardi de Metis... monasterii Sanctorum Andree et Sabine de Urbe »</quote> (f. 197v) ; acheté à un dénommé <persName role="possesseur" key="Porcher, habitant de Salins">Porcher, habitant de Salins</persName> par <persName role="possesseur" key="Jean Perrot">Jean Perrot</persName> en 1476 (f. 198v).</provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Nicolas Colard">Nicolas Colard</persName>, <quote>« ordinis sancti Benedicti, <sic>capellanus</sic> honoris regine Sicilie, et emit anno Domini Jhesu 1436 »</quote> (f. 187v), <quote>« Iste liber est Nicolao Colardi de Metis... monasterii Sanctorum Andree et Sabine de Urbe »</quote> (f. 197v) ; acheté à un dénommé <persName role="possesseur" key="Porcher, habitant de Salins">Porcher, habitant de Salins</persName> par <persName role="possesseur" key="Jean Perrot">Jean Perrot</persName> en 1476 (f. 198v).</p></provenance>
               </history>
               <additional>
                 <listBibl>
@@ -562,7 +562,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1420" notAfter="1440">Nord-Est de la France d'après des traits picards-wallons (?), 1420-1440 (proche du ms Paris, Bibl. nat. de Fr., lat. 1299, f. 294v-295 [1436], <title>Mss datés</title>, t. II, pl. 95)</origin>
-                <provenance>Possesseur : <orgName role="possesseur" key="Thuison-les-Abbeville, chartreuse Saint-Honoré">Chartreuse de Saint-Honoré</orgName> à Thuisson près d’Abbeville (ex libris f. 467a).</provenance>
+                <provenance><p>Possesseur : <orgName role="possesseur" key="Thuison-les-Abbeville, chartreuse Saint-Honoré">Chartreuse de Saint-Honoré</orgName> à Thuisson près d’Abbeville (ex libris f. 467a).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -628,7 +628,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1401" notAfter="1488">XV<hi rend="sup">e</hi> s. (avant 1488, cf. f. 10v)</origin>
-                <provenance>Possesseur : <persName role="possesseur" key="Michel Clareti">Michel Clareti</persName> (XV<hi rend="sup">e</hi> s., cf. 10v).</provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Michel Clareti">Michel Clareti</persName> (XV<hi rend="sup">e</hi> s., cf. 10v).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>

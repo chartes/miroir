@@ -125,30 +125,46 @@
               <msContents>
                 <msItem>
                   <title>Prologues</title>
-                  <incipit><locus>f. 1a</locus>Bonne chose et proufitable est de la translacion des langaiges pour congnoistre et entre les fais des anciens... </incipit>
-                  <incipit>
-                    <locus>f. 1c</locus><seg type="rubric">Ci parle des causes pour lesqueles Ovide fist cest livre</seg>
-                    <lb/>Es commencemens des livres on a acoustume a demander sept choses qui sont ramenees a quatre causes dont je parleray en brief pource que la longue distincion en seroit de petit proufit.<lb/>
-                  </incipit>
-                  <incipit>
-                    <locus>f. 1c</locus><seg type="rubric">Cy commence le prologue de l’acteur et dont vint Eneas</seg>
-                    <lb/>Aprés ce que Troye la Grant fut prise et descructe sicomme les hystoires le baillent et dient vint de Frige ou Troye avecques Eneas un vaillant et solennel seigneur...<lb/>
-                  </incipit>
-                  <incipit>
-                    <locus>f. 2c</locus><seg type="rubric">Comment cest livre fu trouvé</seg>
-                    <lb/>Toutesvoies avint il que ou forbourc de la cité de Dyoscore qui est le chief du royaume de la terre de Colcos...<lb/>
-                  </incipit>
-                  <incipit>
-                    <locus>f. 2d</locus><seg type="rubric">De la maniere du vivre d’Ovide</seg>
-                    <lb/>Et ainsi appert il qui fut l’acteur du livre et par ce avons nous la cause efficient...<lb/>
-                  </incipit>
-                  <incipit>
-                    <locus>f. 3a</locus><seg type="rubric">Pourquoy Ovide fu nommez Nazon</seg>
-                    <lb/>Ovide Nazon fut nommez <lb/>Le pouete bien renommez <lb/>Nazon pour quantité du nez...<lb/>
-                  </incipit>
-                  <incipit>
-                    <locus>f. 3b</locus><seg type="rubric">Comment Ovide fut deceu par la vielle matronne</seg>
-                    <lb/>Par la vielle fut il deceu <lb/>Sicom cy aprés sera sceu <lb/>Pour quoy il mua son propos...</incipit>
+                  <msItem>
+                    <locus>f. 1a</locus>
+                    <incipit>Bonne chose et proufitable est de la translacion des langaiges pour congnoistre et entre les fais des anciens... </incipit></msItem>
+                  <msItem>
+                    <locus>f. 1c</locus>
+                    <incipit><seg type="rubric">Ci parle des causes pour lesqueles Ovide fist cest livre</seg>
+                      <lb/>Es commencemens des livres on a acoustume a demander sept choses qui sont ramenees a quatre causes dont je parleray en brief pource que la longue distincion en seroit de petit proufit.<lb/></incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 1c</locus>
+                    <incipit>
+                      <seg type="rubric">Cy commence le prologue de l’acteur et dont vint Eneas</seg>
+                      <lb/>Aprés ce que Troye la Grant fut prise et descructe sicomme les hystoires le baillent et dient vint de Frige ou Troye avecques Eneas un vaillant et solennel seigneur...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 2c</locus>
+                    <incipit>
+                      <seg type="rubric">Comment cest livre fu trouvé</seg>
+                      <lb/>Toutesvoies avint il que ou forbourc de la cité de Dyoscore qui est le chief du royaume de la terre de Colcos...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 2d</locus>
+                    <incipit>
+                      <seg type="rubric">De la maniere du vivre d’Ovide</seg>
+                      <lb/>Et ainsi appert il qui fut l’acteur du livre et par ce avons nous la cause efficient...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 3a</locus>
+                    <incipit><seg type="rubric">Pourquoy Ovide fu nommez Nazon</seg>
+                      <lb/>Ovide Nazon fut nommez <lb/>Le pouete bien renommez <lb/>Nazon pour quantité du nez...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 3b</locus>
+                    <incipit><seg type="rubric">Comment Ovide fut deceu par la vielle matronne</seg>
+                      <lb/>Par la vielle fut il deceu <lb/>Sicom cy aprés sera sceu <lb/>Pour quoy il mua son propos...</incipit>
+                  </msItem>
                 </msItem>
                 <msItem>
                   <title>Texte</title>
@@ -174,11 +190,24 @@
                   <title>Prologues</title>
                   <incipit>
                     <locus>f. 1</locus>Le prologue du translateur <lb/>Bonne chose est et prouffitable la translacion des langaiges pour congnoistre et entendre les faiz des anciens...</incipit>
-                  <incipit><locus>f. 2v</locus>Comment Ovide determine des quatre causes principalles pour lesquelles il a fait et compilé ce noble livre...</incipit>
-                  <incipit><locus>f. 3</locus>Comment Eneas vint de Troye la Grant et d’une ville ou chasteau qui fut nommé Peliges <lb/>Aprés ce que la cité de Troye la grant fut prinse et destruicte si comme les histoires les baillent et dient...</incipit>
-                  <incipit><locus>f. 5</locus>Comment cest livre fut trouvé en la sepulture de Ovide en ung petit coffret d’ivoyre ouquel il avoit esté par l’espace de IIIIC ans <lb/>Toutesvoyes advint il que es faulx bourgs de la cité de Diascore qui est le chief du royaume de la terre de Colcos...</incipit>
-                  <incipit><locus>f. 6</locus>Comment il appert que Ovide fut l’acteur de ce present livre <lb/>Et ainsi appert il qui fut l’acteur du livre et ainsi nous avons la cause efficient...</incipit>
-                  <incipit><locus>f. 6v</locus>Comment Ovide fu nommé Nazon pour la quantité de son grant nez et comment il fut exillé <lb/>Ovide Nazon fut nommé <lb/>le pouete bien renommé <lb/>Nazon pour quantité du nez...</incipit>
+                  <msItem>
+                    <locus>f. 2v</locus>
+                    <incipit>Comment Ovide determine des quatre causes principalles pour lesquelles il a fait et compilé ce noble livre...</incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 3</locus>
+                    <incipit>Comment Eneas vint de Troye la Grant et d’une ville ou chasteau qui fut nommé Peliges <lb/>Aprés ce que la cité de Troye la grant fut prinse et destruicte si comme les histoires les baillent et dient...</incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 5</locus>
+                    <incipit>Comment cest livre fut trouvé en la sepulture de Ovide en ung petit coffret d’ivoyre ouquel il avoit esté par l’espace de IIIIC ans <lb/>Toutesvoyes advint il que es faulx bourgs de la cité de Diascore qui est le chief du royaume de la terre de Colcos...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 6</locus>
+                    <incipit>Comment il appert que Ovide fut l’acteur de ce present livre <lb/>Et ainsi appert il qui fut l’acteur du livre et ainsi nous avons la cause efficient...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 6v</locus>
+                    <incipit>Comment Ovide fu nommé Nazon pour la quantité de son grant nez et comment il fut exillé <lb/>Ovide Nazon fut nommé <lb/>le pouete bien renommé <lb/>Nazon pour quantité du nez...</incipit>
+                  </msItem>
                 </msItem>
                 <msItem>
                   <title>Texte</title>
@@ -199,11 +228,20 @@
               <msContents>
                 <msItem>
                   <title>Prologues</title>
-                  <incipit><locus>f. 1</locus>Bonne chose et prouffitable est de la translacion des langages pour congnoistre et entendre les fais des anciens...</incipit>
-                  <incipit><locus>f. 2</locus><seg type="rubric">Autre prologue fait par maistre Leon prothonotaire du saint palaiz de Constantinoble sus ledit livre de Ovide</seg> <lb/>Au commencement des livres on seult demander sept choses qui sont ramenees a quatre causes dont je parleray briefment...</incipit>
-                  <incipit><locus>f. 3</locus><seg type="rubric">Comment la sepulture de Ovide et son livre furent trouvez</seg> <lb/>Toutesvoyes advint il que ou forbourg de la cité Dyoscore qui est le chief du royaulme de la terre de Colcos...</incipit>
-                  <incipit><locus>f. 3v</locus><seg type="rubric">Du proheme de l’acteur</seg> <lb/>Et ainsy appert il donques qui fu l’acteur du livre et par ce avons nous la cause efficient...</incipit>
-                  <incipit><seg type="rubric">Cy commence la rime Comment Ovide fut nommé Nason pour la quantité de son nez et comment il fut nez en un chasteau qui avoit <pb n="4v"/> nom Peliges, et cetera</seg> <lb/>Ovide Nason fut nommez <lb/>le poete bien renommez <lb/>Nason pour quantité du nez <lb/>du chasteau Peliges fu nez...</incipit>
+                  <msItem>
+                    <locus>f. 1</locus>
+                    <incipit>Bonne chose et prouffitable est de la translacion des langages pour congnoistre et entendre les fais des anciens...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 2</locus>
+                    <incipit><seg type="rubric">Autre prologue fait par maistre Leon prothonotaire du saint palaiz de Constantinoble sus ledit livre de Ovide</seg> <lb/>Au commencement des livres on seult demander sept choses qui sont ramenees a quatre causes dont je parleray briefment...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 3</locus>
+                    <incipit><seg type="rubric">Comment la sepulture de Ovide et son livre furent trouvez</seg> <lb/>Toutesvoyes advint il que ou forbourg de la cité Dyoscore qui est le chief du royaulme de la terre de Colcos...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 3v</locus>
+                    <incipit><seg type="rubric">Du proheme de l’acteur</seg> <lb/>Et ainsy appert il donques qui fu l’acteur du livre et par ce avons nous la cause efficient...</incipit></msItem>
+                  <msItem>
+                    <incipit><seg type="rubric">Cy commence la rime Comment Ovide fut nommé Nason pour la quantité de son nez et comment il fut nez en un chasteau qui avoit <pb n="4v"/> nom Peliges, et cetera</seg> <lb/>Ovide Nason fut nommez <lb/>le poete bien renommez <lb/>Nason pour quantité du nez <lb/>du chasteau Peliges fu nez...</incipit></msItem>
                 </msItem>
                 <msItem>
                   <title>Texte</title>
@@ -238,7 +276,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1420">fin XIV<hi rend="sup">e</hi> s.-début XV<hi rend="sup">e</hi> s.</origin>
-                <provenance>possesseurs : <persName role="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName role="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName role="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName role="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName role="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName></provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName role="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName role="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName role="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName role="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName></p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -265,7 +303,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1375" notAfter="1450">1375-1450 (proche du ms Paris, Bibl. nat. de Fr., lat. 3459 A, f. 304v [1382], <title>Mss datés</title>, t. II, pl. 162)</origin>
-                <provenance>Possesseur : f. 1 essais de plume avec mention du nom de <quote>« <persName role="possesseur" key="Robert Sirorost">Robert Sirorost</persName> »</quote></provenance>
+                <provenance><p>Possesseur : f. 1 essais de plume avec mention du nom de <quote>« <persName role="possesseur" key="Robert Sirorost">Robert Sirorost</persName> »</quote></p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
