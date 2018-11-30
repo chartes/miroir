@@ -75,6 +75,16 @@
     </element>
   </define>
   
+  <define name="msDesc.listWit">
+    <element name="msDesc">
+      <attribute name="corresp">
+        <a:documentation>Lien vers la notice principale du témoin décrit.</a:documentation>
+        <data type="anyURI"/>
+      </attribute>
+      <ref name="msIdentifier"/>
+    </element>
+  </define>
+  
   <!--
     on cherche à distinguer les notices principales (maître) des notices secondaires
     les notices principales = //msDesc[@xml:id and not(sameAs)]
@@ -247,24 +257,15 @@
           </oneOrMore>
         </element>
       </optional>
-      <optional>
+      <zeroOrMore>
         <element name="provenance">
           <a:documentation>UN épisode précis de l'histoire du manuscrit</a:documentation>
           <!-- pour l’instant un unique <p> avec de la typo ; on devrait avoir 1 <p> par épisode... -->
           <!-- utilisé ici pour lister les possesseurs. Revoir la saisie pour ces éléments. -->
           <!--<ref name="p"/>-->
-          <oneOrMore>
-            <choice>
-              <ref name="p"/>
-              <ref name="textual"/>
-              <ref name="persName"/>
-              <ref name="orgName"/>
-              <ref name="quote-p"/>
-              <ref name="title"/>
-            </choice>
-          </oneOrMore>
+          <ref name="p"/>
         </element>
-      </optional>
+      </zeroOrMore>
     </element>
   </define>
   
@@ -394,9 +395,6 @@
   <define name="msItem.note">
     <a:documentation>Commentaire libre portant sur l’item et affiché dans le corps de la notice. Cette note NE DOIT PAS être déportée.</a:documentation>
     <element name="note">
-      <attribute name="type">
-        <value>msItem</value>
-      </attribute>
       <oneOrMore>
         <choice>
           <text/>
@@ -429,7 +427,7 @@
         </attribute>
       </optional>
       <optional>
-        <attribute name="resp"/>     
+        <attribute name="resp"/>
       </optional>
       <text/>
     </element>
@@ -628,7 +626,9 @@
     <element name="supportDesc">
       <!-- TODO : condition -->
       <text/>
-      <ref name="support"/>
+      <optional>
+        <ref name="support"/>
+      </optional>
       <ref name="extent-element"/>
       <zeroOrMore>
         <choice>
@@ -698,13 +698,14 @@
   
   <define name="origDate">
     <element name="origDate">
+      <a:documentation>Date de création d'un manuscrit ou d'une partie d'un manuscrit.</a:documentation>
       <optional>
         <ref name="att.datable"/>
       </optional>
       <oneOrMore>
         <choice>
           <text/>
-          <ref name="foreign"/>
+          <!-- Régler le <foreign>ca</foreign> en @precision="medium" ? -->
           <ref name="hi"/>
         </choice>
       </oneOrMore>
@@ -829,16 +830,6 @@
         </attribute>
         <ref name="msDesc.listWit"/>
       </element>
-    </element>
-  </define>
-  
-  <define name="msDesc.listWit">
-    <element name="msDesc">
-      <attribute name="corresp">
-        <a:documentation>Lien vers la notice principale du témoin décrit.</a:documentation>
-        <data type="anyURI"/>
-      </attribute>
-      <ref name="msIdentifier"/>
     </element>
   </define>
   
@@ -1410,7 +1401,7 @@
         <value>ancien</value>
         <a:documentation>titre donné par un témoin ancien (différent du titre normalisé moderne)</a:documentation>
         <value>sub</value>
-        <a:documentation>sous-titre</a:documentation>
+        <a:documentation>sous-titre, titre de sous-partie ou section de texte</a:documentation>
         <value>section</value>
         <a:documentation>titre d'une section d'une oeuvre intellectuelle</a:documentation>
         <value>partie</value>
@@ -1418,7 +1409,7 @@
         <value>nom_ms</value>
         <a:documentation>nom d'un manuscrit perdu</a:documentation>
         <value>oeuvre</value>
-        <a:documentation>titre d'une oeuvre intellectuelle</a:documentation>
+        <a:documentation>titre d'une oeuvre intellectuelle canonique</a:documentation>
       </choice>      
     </define>
     
@@ -1478,6 +1469,49 @@
             </optional>
           </oneOrMore>
         </choice>
+      </element>
+    </define>
+    
+    <define name="l">
+      <element name="l">
+        <a:documentation>Un vers, généralement contenu dans une strophe &lt;lg></a:documentation>
+        <div xmlns="http://www.w3.org/1999/xhtml">Les indentations spécifiques sont à inscrire sous forme d’espaces insécables (caractère unicode équivalent à l’entité XML <![CDATA[&#160;]]>). Pour les vers numérotés, le numéro est inscrit dans l’attribut <a:att>n</a:att>.</div>
+        <ref name="xml-atts"/>
+        <optional>
+          <ref name="n-att"/>
+        </optional>
+        <optional>
+          <attribute name="part">
+            <choice>
+              <value>Y</value>
+              <a:documentation>“Yes” (oui), fragment de vers</a:documentation>
+              <value>N</value>
+              <a:documentation>“No” (non), vers entier</a:documentation>
+              <value>I</value>
+              <a:documentation>“Initial”, début de vers</a:documentation>
+              <value>M</value>
+              <a:documentation>“Medial”, milieu de vers</a:documentation>
+              <value>F</value>
+              <a:documentation>“Final”, fin de vers</a:documentation>
+            </choice>
+          </attribute>
+        </optional>
+        <optional>
+          <attribute name="rend">
+            <choice>
+              <ref name="rend.font"/>
+              <value>refrain</value>
+            </choice>
+          </attribute>
+        </optional>
+        <oneOrMore>
+          <choice>
+            <ref name="expan"/>
+            <ref name="choice"/>
+            <ref name="sic"/>
+            <ref name="flow"/>
+          </choice>
+        </oneOrMore>
       </element>
     </define>
     
@@ -1603,6 +1637,7 @@
             <ref name="textual"/>
             <ref name="indexable"/>
             <ref name="expan"/>
+            <ref name="choice"/>
           </choice>
         </zeroOrMore>
       </element>
@@ -1738,19 +1773,16 @@
     ** div/@n : pourquoi ? des tris
     ** div/@corresp : pourquoi ?
     ** toutes les div ne sont pas typées... toutes les div n’ont pas d’@xml:id... Qu’est-ce qui est obligatoire ????
-    ** div[@type="expression"] ; ne sert à rien sinon dans l’XSLT à l’affichage de certains <title> : on supprime !
-    ** div[@subtype="traduction"] DEVIENT div[@type="traduction"] => vraiment utile ? REVOIR XSLT
     
     *****LES <TITLE>
     ** <title> problème des <title> dans les <title>. Quel objectif ? voir avec F. Duval.
-    ** title[@type="ancien"]
+    ** title[@type="ancien"] => utilisation CSS (mise en italique et c’est tout). On supprime ?
     ** title[@level="a"], cf epitoma_rei_militaris_vegetius.xml => 2 <title> sur 494!!!
     
     *****PERSNAME
     ** très appareillé mais aucun template associé
     ** 1139 persName balisés
-    ** <persName> à quoi sert @n (pas au tri manifestement! ; pas exploité dans XSLT) ? on ne trouve pas de référentiel... une référence ? => @corresp
-
+    
     ** @type : 1100 attributes posés
     413 ancien
     1 auteur
@@ -1779,7 +1811,6 @@
     ** <note> REVOIR LE MODÈLE POUR LES IMPRIMÉS... QUEL EST LE STATUT DE CES NOTES ? (bas de page ? NB ?)
     ** list[@type="listMs"] pas très conforme aux recommandations => listBibl[@type="msList"]
     ** <msName type="sigle" subtype="Barbieri"> => très complexe ET inutilisé (NB: des ERREURS dans la syntaxe du fichier d’origine). DEVIENT <msName type="sigle" resp="Barbieri">
-    ** title[@type="ancien"] => utilisation CSS (mise en italique et c’est tout). On supprime ?
     ** biblScope => une seule occurence et pas d’exploitation => on supprime
     ** les listBibl n’ont pas de titre ; semble dangereux de l’inférer à l’XSLT (c’est l’XSLT qui infère le titre "Bibliographie" ou "Editions"...) => j’ajouterais en tête de <lisBibl>: <head>Bibliographie</head> quand c’est utile
     ** bibl/@notBefore et bibl/@notAfter: les @ ne sont pas exploités dans l’XSLT;
@@ -1812,6 +1843,13 @@
     origDate: on a des //p/origDate => c’est autorisé, valable sémantiquement mais on en fait quoi ? cf ab_urbe_condita...
     
     
+    **TO DO (notes de fin de Morgane) :
+    ** hi/@rend="b" ne valide pas toujours (teibook.rng ?)
+    ** <foreign> contenant des expressions latines ("sic", "ca", "idem"...) - la seule utilité est que l'expression passe en italique => remplacer par des <hi rend="i"> ?
+    ** quote / q => petite différence sémantique (quote pour des textes longs, en quelque sorte entiers, q pour des expressions), mais est-il nécessaire de garder les deux ?
+    ** list[@type="listMs"]
+    ** eTree : implantation (pattern créé mais à intégrer où nécessaire).
+        
   -->
   
 </grammar>
