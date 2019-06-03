@@ -1327,6 +1327,11 @@
         </attribute>
       </optional>
       <optional>
+        <attribute name="resp">
+          <data type="anyURI"/>
+        </attribute>
+      </optional>
+      <optional>
         <ref name="n-att"/>
       </optional>
       <ref name="xml-atts"/>

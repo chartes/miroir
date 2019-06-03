@@ -134,3 +134,26 @@ Déterminer les relations entre traductions et décrire les manuscrits de chaque
 Critique textuelle : définir les relations textuelles entre manuscrits (tradition) -> des transcriptions assez longues. Certains "titres" sont transcrits intégralement, leur variante également.
 
 Un fichier par texte.
+
+# Biblissima, 31 janvier 2019
+Besoin : mettre en relation une œuvre et son auteur
+Privilégier les ark BAM: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc510707 pour https://gallica.bnf.fr/ark:/12148/btv1b9007157m
+Idée: biblissima inscrit les identifiants des ms et on les réinscrits dans les XML/TEI
+Pour les imprimés: ISTC (https://data.cerl.org/istc/_search) et USTC (https://www.ustc.ac.uk/)
+Pour les ms, voir http://medium.irht.cnrs.fr/
+
+Notice personne
+* label
+* birth
+* death
+* sexe
+* une attestation
+* une note
+* floruit: date d’activité connue (fl.)
+
+Institution
+* label
+* ville: forme française
+
+IIIF
+https://medusa-project.github.io/cantaloupe/
