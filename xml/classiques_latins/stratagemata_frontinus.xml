@@ -176,7 +176,7 @@
                     </physDesc>
                     <history>
                       <origin notBefore="1395" notAfter="1405">ca 1400 (f. 238v) (f. 5 proche de Paris, Bibl. nat. de Fr., lat. 4914, f. 53 [1381], <title>Mss datés</title>, t. II, pl. 63 ; f. 77 proche du ms Paris, Mazarine, 1413, f. 82v [1409], <title>Mss datés</title>, t. I, pl. 78)</origin>
-                      <provenance><p>possesseur : <persName role="possesseur" key="Mahieu de Hangest">Mahieu de Hangest</persName> († 1402-1404), 3e fils de Jean I de Hangest et de Marie de Vignemont</p></provenance>
+                      <provenance><p>Possesseur : <persName role="possesseur" key="Mahieu de Hangest">Mahieu de Hangest</persName> († 1402-1404), 3e fils de Jean I de Hangest et de Marie de Vignemont</p></provenance>
                     </history>
                     <additional>
                       <listBibl>
@@ -431,7 +431,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1471" notAfter="1471">1471 (f. 127) (2)</origin>
-                <provenance><p>possesseur : <persName role="possesseur" key="Charles Quint">Charles Quint</persName> (inventaire de 1536).</p></provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Charles Quint">Charles Quint</persName> (inventaire de 1536).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -573,7 +573,7 @@
               </physDesc>
               <history>
                 <origin notAfter="1430-01-01" notBefore="1470-12-31">milieu du XV<hi rend="sup">e</hi> s. (proche du ms Chantilly, Musée Condé, 731, f. 1 [1477-1484], <title>Mss datés</title>, t. I, pl. 135) ; copie du ms Paris, Bibl. nat. de Fr, fr. 24357</origin>
-                <provenance><p>possesseur : signature grattée f. 138.</p></provenance>
+                <provenance><p>Possesseur : signature grattée f. 138.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -631,7 +631,7 @@
               </physDesc>
               <history>
                 <origin notAfter="1480-01-01" notBefore="1505-12-31">fin du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4359, f. 72 [1478], <title>Mss datés</title>, t. II, pl. 157)</origin>
-                <provenance><p><persName role="possesseur" key="Charles VII">Charles VII</persName> (armes de France, f. 3) ; dans l’encadrement des f. 6, 55, 68v, réserve pour un écu.</p></provenance>
+                <provenance><p>Possesseur : <persName role="possesseur" key="Charles VII">Charles VII</persName> (armes de France, f. 3) ; dans l’encadrement des f. 6, 55, 68v, réserve pour un écu.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>

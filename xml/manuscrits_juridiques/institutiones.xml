@@ -15,15 +15,23 @@
         <edition>École nationale des chartes</edition>
         <respStmt>
           <name xml:id="HG">Hélène Gautier</name>
-          <resp>Encodage des notices</resp>
+          <resp>encodage des notices</resp>
         </respStmt>
         <respStmt>
           <name xml:id="LV">Lucie Viénot</name>
-          <resp>Encodage des notices</resp>
+          <resp>encodage des notices</resp>
         </respStmt>
         <respStmt>
           <name xml:id="MS">Marion Soutet</name>
-          <resp>??? (TODO: définir avec FD)</resp>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="XST">Xavier de Saint-Chamas</name>
+          <resp>transcription</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="SBR">Sarah Belda Romanosque</name>
+          <resp>transcription</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -3754,7 +3762,7 @@
                         <pb n="f. 37a"/> et puis sont feit vein par amenuisement de chief. n’estont pas del tout sanz profit. Quar se il sont seelé des seaus a vii tesmoinz. cil qui fu fés oirs puet recevoir la posession des biens. selonc les tables del testament se cil qui fist le testament estoit citeeins de ronme <expan><ex>et</ex></expan> il n’estoit pas en autrui poesté. Quar se li testamenz est vains porce <expan>q<ex>ue</ex></expan> cil qui le fist en a perdu la cité de ronme ou franchise ou que il le donna a estre filz adoptis a aucun ou que il estoit en la poesté a son pere adoptif. <expan>qua<ex>n</ex>t</expan> il fu morz. Cil qui fu fez oirs. el testament ne puet pas demander en la posession. de ses biens. selonc les tables del testament. ¶
                         <label>[7]</label> Testament ne puet pas estre quassez por ce sanz <expan>pl<ex>us</ex></expan> que cil qui le fist ne voult pas cele evre fu. aprés que il vausit. Quar se aucuns a feit son testament par droit <expan><ex>et</ex></expan> il <expan><ex>com</ex>mance</expan> aprés a faire un autre. <expan><ex>et</ex></expan> la mort li desvancist ou il se repant si que il ne le parfeit pas. Li empereres partinar establist que li premiers testamenz ne soit pas por ce vains. ¶ Quar <expan>testam<ex>en</ex>t</expan> qui n’est pas feis est nus. <label>[8]</label> par cele meisme reson dist il que <pb n="f. 37b"/> il ne recevra pas l’eritage. a celui qui feit de lui son oir por cause de plet. <expan><ex>et</ex></expan> que il provera que les tables ne <expan>fure<ex>n</ex>t</expan> pas feites laialment. ou que il estoit establiz oirs por cele cause. <expan><ex>et</ex></expan> que il ne recevra pas non d’oir por cele voiz. <expan><ex>et</ex></expan> que il ne <expan><ex>con</ex>querra</expan> nule chose <expan>p<ex>ar</ex></expan> escriture. a qui l’auctorité de droit faille. ¶ E selon ce escritrent souvent li Saint empereeur sevoirs <expan><ex>et</ex></expan> <expan>anthoni<ex>n</ex>s</expan>. ja soit ce font il que nous soions asous des lois. <expan>Neporqua<ex>nt</ex></expan> nous ne voulons riens fere qui soit contraire aus lois.</p>
                     </div>
-                    <div type="edition" n="2" resp="Xavier de Saint-Chamas">
+                    <div type="edition" n="2" resp="#XST">
                       <head>Inst. 4.17
                         <note>transcription Xavier de Saint-Chamas AP1 2014.</note></head>
                       <p xml:id="fr_1063-4.17"><seg type="rubric">Cist <expan>tit<ex>re</ex>s</expan> est des antrediz de l’office du juge.</seg>Il convient que nous <expan>treto<ex>n</ex>s</expan> de l’office du juge. li juges doit garder premierement <expan>q<ex>ue</ex></expan> il ne juge fors <expan>si<ex>com</ex>me</expan> il est. establi par les lois ou par les establissemenz. ou par les <pb n="f. 100a"/> costumes. <label>[1]</label> <expan><ex>et</ex></expan> por ce se l’am plaide <expan><ex>con</ex>tre</expan> le saingneur por le meffet a son serf. Se li sires doit estre <expan><ex>con</ex>dempnez</expan> li juges doit garder que il le <expan><ex>con</ex>dempne</expan> an ceste maniere. ¶ Je <expan><ex>con</ex>dampne</expan> mainne a tyce que il li pait .x. deniers d’or ou que il li <expan>abando<ex>n</ex>ne</expan> son serf. a souffrir la <expan>pai<ex>n</ex>ne</expan> de son meffeit.
@@ -4366,7 +4374,7 @@
                   </msDesc>
                   <div type="edition">
                     <head>Édition</head>
-                    <div type="edition" n="1" resp="Sarah Belda Romanosque">
+                    <div type="edition" n="1" resp="#SBR">
                       <head>Inst. 2.17
                         <note>transcription Sarah Belda Romanosque, MEM 2014.</note></head>
                       <p xml:id="fr_1064-2.17"><seg type="rubric">Cist titres est en <expan>q<ex>ue</ex>l</expan> maniere <expan>testam<ex>en</ex>t</expan> <expan>s<ex>un</ex>t</expan> <expan>q<ex>ua</ex>ssé</expan></seg><expan><hi rend="b">T</hi>estam<ex>en</ex>z</expan> qui est faiz <expan>p<ex>ar</ex></expan> droit vaut tant. <expan>q<ex>ue</ex></expan> il soit faiz vainz :
@@ -5426,7 +5434,7 @@
                         </msItem>
                         <msItem xml:id="fr_1928_institutiones_livre4">
                           <locus from="136c" to="160d"/>
-                          <title type="section" xml:lang="fr">Livre IV (1-6.1, f. 136c-149d) et Etablissements de saint Louis (chap. 103-129 = <bibl>éd. Viollet, t. II, p. 174-246</bibl>)</title>
+                          <title type="section" xml:lang="fr">Livre IV (1-6.1, f. 136c-149d) et Etablissements de saint Louis (chap. 103-129<note><bibl>Éd. Viollet, t. II, p. 174-246.</bibl></note>)</title>
                           <incipit xml:lang="fro"><seg type="rubric">Cist tystres est des obligemens qui nessent de mesfait <expan><ex>et</ex></expan> en devise especiaument merveilles. Ci aprés conmence li quars livres de Institude.</seg><lb/>Pource que nos avons traitié ou livre qui est devant cestui <expan><ex>et</ex></expan> des obligemens qui sont fais de marchié...</incipit>
                           <explicit xml:lang="fro">...<expan><ex>et</ex></expan> s’il ne leur em pourroit ja respondre par droit se il ne vouloit.<lb/><lb/><pb n="f. 160d"/> Explicit Institute<lb/>en roumans.</explicit>
                           <msItem>
