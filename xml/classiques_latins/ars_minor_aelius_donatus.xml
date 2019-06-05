@@ -115,7 +115,7 @@
                 <settlement>Bern</settlement>
                 <repository>Burgerbibl.</repository>
                 <idno>439</idno>
-                <msName type="sigle" resp="Colombo_Timelli">B</msName>
+                <msName type="sigle" resp="Colombo-Timelli">B</msName>
                 <msName type="sigle" resp="Städtler">B</msName>
               </msIdentifier>
               <msContents>
@@ -128,7 +128,7 @@
                 </objectDesc>
               </physDesc>
               <history>
-                <origin notBefore="1250" notAfter="1300">Nord-Est de la France d'après la graphie, 2e moitié du XIIIe s.</origin>
+                <origin notBefore="1250" notAfter="1300">Nord-Est de la France d'après la graphie, 2<hi rend="sup">e</hi> moitié du XIII<hi rend="sup">e</hi> s.</origin>
                 <provenance><p>Possesseur : <orgName role="possesseur" key="Metz, couvent des Célestins">couvent des Célestins de Metz</orgName> (ex libris f. de garde).</p></provenance>
               </history>
               <additional>
@@ -148,7 +148,7 @@
         <dateline>
           <date notBefore="1300" notAfter="1314">début du XIV<hi rend="sup">e</hi> siècle</date>
         </dateline>
-        <p>Version française complète de l'<title>Ars minor</title>, sans alternance entre latin et français, sauf dans les exemples et les <foreign>versus</foreign>. Les additions sont pour la plupart communes aux autres versions. « La traduction est suivie, sans solution de continuité, d'un complément, entièrement rédigé en français, sur les cinq déclinaisons du nom et les quatre déclinaisons du pronom » (M. Colombo Timelli,
+        <p>Version française complète de l'<title>Ars minor</title>, sans alternance entre latin et français, sauf dans les exemples et les <hi rend="i">versus</hi>. Les additions sont pour la plupart communes aux autres versions. « La traduction est suivie, sans solution de continuité, d'un complément, entièrement rédigé en français, sur les cinq déclinaisons du nom et les quatre déclinaisons du pronom » (M. Colombo Timelli,
           <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 138).</p>
         <listBibl>
           <bibl>M. Colombo Timelli, « Un rifacimento antico-francese dell’<title>Ars minor</title> di Donato del ms. Parigi B.N. lat. 14095 », dans <title>Istituto Lombardo Accademia di Scienze et Lettere</title>, Milan, 1988, p. 35-42</bibl>
@@ -183,7 +183,7 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>lat. 14095</idno>
                 <msName type="sigle" resp="Städtler">G</msName>
-                <msName type="sigle" resp="Colombo_Timelli">P1</msName>
+                <msName type="sigle" resp="Colombo-Timelli">P1</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil : entre autres, <title>Ars minor</title> de Donat f. 1, 3, 5, 4r-v (manque le début) ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> f. 10v, 12-15 ;
@@ -253,7 +253,7 @@
                 <repository>bibl. Mazarine</repository>
                 <idno>3794</idno>
                 <msName type="sigle" resp="Städtler">M1</msName>
-                <msName type="sigle" resp="Colombo_Timelli">M1</msName>
+                <msName type="sigle" resp="Colombo-Timelli">M1</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil de textes grammaticaux : entre autres, <title>Ars minor</title> de Donat (version étoffée) f. 1-10v ; traduction de l’<title>Ars minor</title> de Donat f. 22a-29a ; traduction de l’<title>Ars minor</title> de Donat f. 41b-52b ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 85-129 ; <title>Ecloga Theoduli</title> commentée et glosée f. 130-162.</p>
@@ -319,7 +319,7 @@
                 <repository>bibl. Mazarine</repository>
                 <idno>3794</idno>
                 <msName type="sigle" resp="Städtler">M2</msName>
-                <msName type="sigle" resp="Colombo_Timelli">M2</msName>
+                <msName type="sigle" resp="Colombo-Timelli">M2</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil de textes grammaticaux : entre autres, <title>Ars minor</title> de Donat (version étoffée) f. 1-10v ; traduction de l’<title>Ars minor</title> de Donat f. 22a-29a ; traduction de l’<title>Ars minor</title> de Donat f. 41b-52b ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 85-129 ; <title>Ecloga Theoduli</title> commentée et glosée f. 130-162.</p>
@@ -383,7 +383,7 @@
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
                 <idno>Vat. lat. 1479</idno>
-                <msName type="sigle" resp="Colombo_Timelli">V</msName>
+                <msName type="sigle" resp="Colombo-Timelli">V</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil à dominante grammaticale : entre autres <title>Ars minor</title> de Donat f. 1a-2d ; traduction de l’<title>Ars minor</title> de Donat f. 4a-6b ; [<title>Grammatica</title>] f. 6b-7c ; <persName type="ancien">Alcuin</persName>, <title>Liber regiminum</title> f. 7c-9d  ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 9d-15d ; <title>EclogaTheoduli</title> commentée f. 15d-25b ;
@@ -452,7 +452,7 @@
                 <settlement>Salins</settlement>
                 <repository>bibl. mun.</repository>
                 <idno>44</idno>
-                <msName type="sigle" resp="Colombo_Timelli">S</msName>
+                <msName type="sigle" resp="Colombo-Timelli">S</msName>
               </msIdentifier>
               <msContents>
                 <p>2 manuscrits réunis</p>
@@ -546,14 +546,14 @@
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>nouv. acq. fr. 1120</idno>
-                <msName type="sigle" resp="Colombo_Timelli">P2</msName>
+                <msName type="sigle" resp="Colombo-Timelli">P2</msName>
               </msIdentifier>
               <msContents>
                 <p><persName type="ancien">Firmin Le Ver</persName>, <title>Dictionnaire latin-français</title> f. 1a-467a ; f. 467b-d blanc ; Donat,
-                  <title>Ars minor</title> f. 468a-471a ; annexe au traité de Donat contenant les conjugaisons <foreign>amo</foreign>,
-                  <foreign>doceo</foreign>, <foreign>lego</foreign>,
-                  <foreign>audio</foreign>, <foreign>sum</foreign>, et
-                  <foreign>volo</foreign> (Inc. <seg type="incipit">Amo Je aimme Amas tu aimmes Amat chil aimme</seg>... ; expl. ...<seg type="explicit">unum participum habet quod est Volens</seg>), f. 471a-474d ; traduction de l’<title>Ars minor</title> de Donat f. 474d-477d ; notes grammaticales f. 477d-478d (inc. <seg type="incipit">Omnia verba deponentia habent tria participia in ens</seg>... ; expl. ...<seg type="explicit">Item nominativus ponitur absolute causa relationis Ut cum dicitur Dominus in celo sedes ejus</seg>).</p>
+                  <title>Ars minor</title> f. 468a-471a ; annexe au traité de Donat contenant les conjugaisons <foreign xml:lang="lat">amo</foreign>,
+                  <foreign xml:lang="lat">doceo</foreign>, <foreign xml:lang="lat">lego</foreign>,
+                  <foreign xml:lang="lat">audio</foreign>, <foreign xml:lang="lat">sum</foreign>, et
+                  <foreign xml:lang="lat">volo</foreign> (Inc. <seg type="incipit">Amo Je aimme Amas tu aimmes Amat chil aimme</seg>... ; expl. ...<seg type="explicit">unum participum habet quod est Volens</seg>), f. 471a-474d ; traduction de l’<title>Ars minor</title> de Donat f. 474d-477d ; notes grammaticales f. 477d-478d (inc. <seg type="incipit">Omnia verba deponentia habent tria participia in ens</seg>... ; expl. ...<seg type="explicit">Item nominativus ponitur absolute causa relationis Ut cum dicitur Dominus in celo sedes ejus</seg>).</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -616,7 +616,7 @@
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>nouv. acq. fr. 4690</idno>
-                <msName type="sigle" resp="Colombo_Timelli">P3</msName>
+                <msName type="sigle" resp="Colombo-Timelli">P3</msName>
               </msIdentifier>
               <msContents>
                 <p>traduction de l’<title>Ars minor</title> de Donat f. 1-10v.</p>
@@ -649,7 +649,7 @@
         <dateline>
           <date notBefore="1460" notAfter="1470">vers 1460-1470</date>
         </dateline>
-        <p>« Version fragmentaire suite à la perte d'un double feuillet qui devait contenir la présentation presque complète des accidents du pronom et la première partie de l'exposé sur le verbe » (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 217). On y retrouve les ajouts habituels, parfois enrichis. Cette version « est rédigée uniquement en français (sauf naturellement pour la plupart des exemples et les <foreign>versus</foreign>), ce qui la différencie des versions manuscrites et la rapproche plutôt de l'autre version imprimée » (<foreign>ibidem</foreign>).</p>
+        <p>« Version fragmentaire suite à la perte d'un double feuillet qui devait contenir la présentation presque complète des accidents du pronom et la première partie de l'exposé sur le verbe » (M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 217). On y retrouve les ajouts habituels, parfois enrichis. Cette version « est rédigée uniquement en français (sauf naturellement pour la plupart des exemples et les <hi rend="i">versus</hi>), ce qui la différencie des versions manuscrites et la rapproche plutôt de l'autre version imprimée » (<hi rend="i">ibidem</hi>).</p>
         <listBibl>
           <bibl>M. Colombo Timelli « Une version imprimée de l’<title>Ars minor</title> de Donat (incunable de la Bibliothèque de l’Université d’Utrecht) », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, seconde série, t. 7, 1992, p. 99-106</bibl>
           <bibl>M. Colombo Timelli, <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996 (Pubblicazioni della facoltà di lettere e filosofia dell’Università degli studi di Milano, 169), p. 218-224</bibl>
@@ -695,7 +695,7 @@
           <date notBefore="1490" notAfter="1500">vers 1495</date>
         </dateline>
         <p>« Il s'agit sans doute de la version française antérieure au XVI<hi rend="sup">e</hi> siècle la plus fidèle à l'original latin. Les seuls ajouts ne consistent qu'en de brèves remarques concernant la distinction entre parties déclinables et indéclinables du discours, le régime du superlatif suivi de nom collectif, le nombre des pronoms et les quatre adverbes de lieu. A la fin du traité trouvent place les paragraphes sur les déclinaisons du nom et du pronom et sur les noms propres
-          <foreign>Moyses</foreign> et <foreign>Ihesus</foreign> (M. Colombo Timelli,
+          <hi rend="i">Moyses</hi> et <hi rend="i">Ihesus</hi> (M. Colombo Timelli,
           <title>Traductions françaises de l’Ars minor de Donat au Moyen Age (XIIIe-XVe siècles)</title>, Florence, 1996, p. 225).</p>
         <listBibl>
           <bibl>M. Colombo Timelli, « Un <title>Ars minor</title> français publié à la fin du XV<hi rend="sup">e</hi> siècle (Paris, Felix Baligault, s.d.). Introduction et édition », dans <title>Archives et Documents de la Société d’Histoire et d’Epistémologie des Sciences du Langage</title>, Seconde série, t. 12, 1995, p. 95-111</bibl>

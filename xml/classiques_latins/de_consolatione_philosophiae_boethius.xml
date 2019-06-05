@@ -186,7 +186,8 @@
           <p>Traduction anonyme en prose de la fin du XIII<hi rend="sup">e</hi> siècle. D'après G. Roques, qui est en cela d'accord avec K. Baldinger, ce texte aurait été composé en Flandre et non en Hainaut, comme l'affirme J. K. Atkinson dans sa thèse. La traduction est assez fidèle, même si elle a tendance à abréger le texte latin et à omettre quelques passages, tant en vers qu’en prose. Le prologue de la traduction est influencé par celui de <persName type="ancien">Guillaume d’Aragon</persName> à son commentaire latin de la
             <title>Consolatio</title>.</p>
           <listBibl>
-            <bibl>J. K. Atkinson, <title>A Critical Edition of the Medieval French Prose Translation of ‘De Consolatione Philosophiae’ of Boethius Contained in MS. 898 of the Bibliotheque Municipale, Troyes</title>, 3 vol., diss., The University of Queensland, 1976</bibl>
+            <!-- LG 04/06/2019 ajout de l'att @xml:id dans //bibl + ajout <author>-->
+            <bibl xml:id="Atkinson"><author>J. K. Atkinson</author>, <title>A Critical Edition of the Medieval French Prose Translation of ‘De Consolatione Philosophiae’ of Boethius Contained in MS. 898 of the Bibliotheque Municipale, Troyes</title>, 3 vol., diss., The University of Queensland, 1976</bibl>
             <bibl>R. Schroth, <title>Eine altfranzösische Übersetzung der Consolatio Philosophiae des Boethius (Handschrift Troyes Nr. 898), Edition und Kommentar</title>, Frankfurt/M., 1976 (Europäische Hochschulschriften, série XIII, Langue et littérature française, 36) [voir le compte rendu de K. Baldinger dans <title>Zeitschrift für Romanische Philologie</title>, t. 94, 1978, p. 181-185</bibl>
             <bibl>M. M. L. Bolton-Hall, « <title>Del Confortement de Philosophie</title>  », dans <title>L’Orphée de Boèce au Moyen Âge, Traductions françaises et commentaires latins (XII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Vérone, 2000 (Medioevi Testi, 2), p. 13-15</bibl>
             <bibl>G. Roques, « Les régionalismes dans les traductions françaises de la <title type="oeuvre">Consolatio Philosophiae</title> de Boèce  », dans C. Galderisi et C. Pignatelli (éd.), <title>La traduction vers le moyen français</title>, Turnhout, 2007 (The Mediaeval Translator, 11), p. 187-203 (part. p. 192-194)</bibl>
@@ -1574,10 +1575,10 @@
             <title>Consolatio</title> et amplifie volontiers les allusions mythologiques et historiques pour lesquelles il utilise le commentaire sur la
             <title>Consolatio</title> de Nicolas Trevet (avant 1307).</p>
           <listBibl>
-            <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 169-251</bibl>
-            <bibl>B. M. Atherton, <title>Edition critique de la version longue du « Roman de Fortune et de Felicité » de Renaut de Louhans, traduction en vers de la « Consolatio Philosophiae de Boèce »</title>, 2 vol., The University of Queensland, 1994</bibl>
-            <bibl>B. M. Atherton, « Le Roman de Fortune et de Felicité de Renaut de Louhans », dans <title>L’Orphée de Boèce au Moyen Age, Traductions françaises et commentaires latins (XII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Vérone, 2000 Medioevi Testi, 2), p. 99-108</bibl>
-            <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B252</bibl>
+            <bibl xml:id="Atherton_Atkinson"><author>B. M. Atherton</author> et <author>J. K. Atkinson</author>, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 169-251</bibl>
+            <bibl><author>B. M. Atherton</author>, <title>Edition critique de la version longue du « Roman de Fortune et de Felicité » de Renaut de Louhans, traduction en vers de la « Consolatio Philosophiae de Boèce »</title>, 2 vol., The University of Queensland, 1994</bibl>
+            <bibl><author>B. M. Atherton</author>, « Le Roman de Fortune et de Felicité de Renaut de Louhans », dans <title>L’Orphée de Boèce au Moyen Age, Traductions françaises et commentaires latins (XII<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Vérone, 2000 Medioevi Testi, 2), p. 99-108</bibl>
+            <bibl><author>P. Chavy</author>, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, B252</bibl>
           </listBibl>
           <div type="edition_sommaire">
             <head>Sommaire du <title>Romant de Fortune et de Felicité</title></head>
@@ -1646,7 +1647,7 @@
                 </history>
                 <additional>
                   <listBibl>
-                    <bibl>B. M. Atherton et J. K. Atkinson, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 172-173</bibl>
+                    <bibl><author>B. M. Atherton</author> et <author>J. K. Atkinson</author>, « Les manuscrits du ‘Roman de Fortune et de Félicité’ », dans <title>Revue d’histoire des textes</title>, t. 22, 1992, p. 172-173</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
@@ -1655,9 +1656,10 @@
                   <settlement>Arras</settlement>
                   <repository>bibl. mun.</repository>
                   <idno>729</idno>
-                  <!-- LG 04/06/2019 : Atherton et Atkinson ce sont deux auteurs différents : Atkinson, J. Keith, (1996). Boeces, de Consolacion. Édition critique d’après le manuscrit Paris, Bibliothèque nationale, fr. 1096, avec Introduction, Variantes, Notes, Glossaires (extract), Tübingen: Niemeyer, 1996. (Beihefte zur Zeitschrift für romanische Philologie, 277), 200pp. (Review article : Gilles Roques, in Revue de linguistique romane, 61 (1997), pp. 289-290). « Apart from contributions by Atkinson and Babbi, the following scholars were responsible for particular segments: B. M. Atherton, [...] »  -->
-                  <msName type="sigle" resp="Atherton Atkinson">C’’1</msName>
-                </msIdentifier>
+                  <!-- LG 04/06/2019 : Atherton et Atkinson sont deux auteurs différents : Atkinson, J. Keith, (1996). Boeces, de Consolacion. Édition critique d’après le manuscrit Paris, Bibliothèque nationale, fr. 1096, avec Introduction, Variantes, Notes, Glossaires (extract), Tübingen: Niemeyer, 1996. (Beihefte zur Zeitschrift für romanische Philologie, 277), 200 pp. (Review article : Gilles Roques, in Revue de linguistique romane, 61 (1997), pp. 289-290). « Apart from contributions by Atkinson and Babbi, the following scholars were responsible for particular segments: B. M. Atherton, [...] »  -->
+                  <!-- LG 04/06/2019 réfléchir à la façon la meilleure pour encoder le ou les auteur(s) de l'édition. Très probablement pas de @resp dans msName ... J’ai essayé de mettre un <ref> @target <ref target="#Atherton_Atkinson"> pour pointer vers la biblio, mais je ne peux mettre <ref> à côté de msName (ou dans msName) ou alors, prévoir rs @ref; Le schéma ne prévoit pas cette possiblité, alors que la TEI si -->
+                  <msName type="sigle" resp="#Atherton_Atkinson">C’’1</msName>
+                  </msIdentifier>
                 <msContents>
                   <p>notes biographiques sur Boèce f. 1v ; Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 2-154 [titres :
                     <title type="ancien">Boecii liber de consolatione</title> f. 1v ; <title type="ancien">Explicit Boecii de consolacione liber translatus in ydioma gallicum ad requestam et instantiam unius regis Francorum qui Karolus Calvus nuncupabatur anno IX sui regni Anima dicti regis ac scribentis hanc cartulam in pace requiescant. <lb/>Amen</title> f. 154v].</p>
@@ -1709,7 +1711,7 @@
                   <settlement>Besançon</settlement>
                   <repository>bibl. mun.</repository>
                   <idno>422</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’3</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’3</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">liber Boecii de consolacione</title> f. 1] f. 1a-64d.</p>
@@ -1737,7 +1739,7 @@
                   <settlement>Bonn</settlement>
                   <repository>Universitätsbibl.</repository>
                   <idno>S 1681</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’9</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’9</msName>
                 </msIdentifier>
                 <msContents>
                   <p>texte incomplet de Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-148v (expl. ...<seg type="explicit">Et c’est la cause</seg>).</p>
@@ -1761,7 +1763,7 @@
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
                   <idno>10220</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’1</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’1</msName>
                 </msIdentifier>
                 <msContents>
                   <p>premiers vers de Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1a-b (inc. <seg type="incipit">Fortune mere de tristesse de doulour et d’affliction metre m’a fait en ma vieillesse</seg>... ; expl. ...<seg type="explicit">Quar li livres par</seg>...) réutilisés comme f. de garde ; Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre :
@@ -1792,7 +1794,7 @@
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
                   <idno>10221</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’1</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’1</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1a-53b (expl. <seg type="explicit">Qui cest petit romans a fait Et li perdoint tout son meffait <lb/>Amen Explicit <lb/>Fut cils romans a poloingnie Dont li freres s’est proloignie <lb/>Ensi est la fin Dieux soit loués</seg>).</p>
@@ -1819,7 +1821,7 @@
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
                   <idno>10295-10304</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’5</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’5</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Vies de saints f. 1-206 ; <title>Fables</title> de <persName type="ancien">Marie de France</persName> [titre : <title type="ancien">Chi commenche Ysopes en romanch</title>] f. 206c-230d ; <persName type="ancien">Gossuin de Metz</persName>,
@@ -1854,7 +1856,7 @@
                   <settlement>Bruxelles</settlement>
                   <repository>Bibl. royale de Belgique</repository>
                   <idno>18064-18069</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’4</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’4</msName>
                 </msIdentifier>
                 <msContents>
                   <p>recueil factice de deux manuscrits distincts à l’origine</p>
@@ -1910,7 +1912,7 @@
                   <settlement>Carpentras</settlement>
                   <repository>bibl. mun.</repository>
                   <idno>411</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’’2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’’2</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1a-57a ; Ballade attribuée à <persName type="ancien">Eustache Deschamps</persName> (inc. <seg type="incipit">Puisque je suys fumeur plain de fumee</seg>... éd. Queux de Saint-Hilaire, t. X, p. xiv) f. 57b-57v ;
@@ -1938,7 +1940,7 @@
                   <settlement>Fribourg</settlement>
                   <repository>Bibl. cantonale et universitaire</repository>
                   <idno>L. 7</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">D1</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">D1</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-164 (f. 1 déchiré partiellement ; f. 2 inc. ...<seg type="incipit">Car il s’en passe trop briefment <lb/>Elles en sunt mains agreables</seg>...) ; 10 vers du prologue du livre II de la <title>Consolatio Philosophiae</title> de Boèce f. 164 ; traduction des <title>Disticha</title> du <persName type="ancien">Pseudo-Caton</persName> par <persName role="traducteur">Jean Le Fèvre</persName> [titre : <title type="ancien">Cathon ly sage</title> f. 164v] f. 164v-184 ; testament en allemand daté de 1530 f. 188v-189 ; pièce amoureuse f. 190v (inc. <seg type="incipit">Marry requier doulce dame</seg>...).</p>
@@ -1967,7 +1969,7 @@
                   <settlement>Fribourg</settlement>
                   <repository>Bibl. cantonale et universitaire</repository>
                   <idno>L. 161</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’3 </msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’3 </msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 2-136 [titre : <title type="ancien">explicit Boecius de Consolatione Philosophie</title> f. 136) ; <persName type="ancien">Renaut de Louhans</persName>, <title>Roman de Melibee et Prudence</title> f. 138-162 ; charte de franchise de Fribourg f. 171-192v ; traité de <quote>«  Aqua vite...  »</quote> f. 193-195v ; début d’une chanson de Noël f. 196v ; les f. 1, 136v-137v, 162v, 170v et 196 sont blancs.</p>
@@ -1995,7 +1997,7 @@
                   <settlement>Genève</settlement>
                   <repository>Bibl. publique et universitaire</repository>
                   <idno>suppl. 104</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">D2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">D2</msName>
                 </msIdentifier>
                 <physDesc>
                   <objectDesc>
@@ -2075,7 +2077,7 @@
                   <settlement>Genève</settlement>
                   <repository>Bibl. publique et universitaire</repository>
                   <idno>251</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’2</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 5-107v ; <persName type="ancien">Renaut de Louhans</persName>, <title>Roman de Mellibee et de Prudence</title> f. 108-133 ; f. 133v-144 : notes et essais de plume.</p>
@@ -2107,7 +2109,7 @@
                   <settlement>Glasgow</settlement>
                   <repository>Hunterian Museum</repository>
                   <idno>439</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’1</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’1</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">C’est le prologue du romans de Fortune et de Felicité sus Boece de consolation</title> f. 1] f. 1-56a ; <title>Livre de Mellibee et Prudence</title> de <persName type="ancien">Renaut de Louhans</persName> f. 56a-70c.</p>
@@ -2132,7 +2134,7 @@
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
                   <idno>Egerton 2633</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’4</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’4</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Ci commence le segond livre de Fortune et de Felicité</title> f. 23]  : prologue f. 1-3 ; texte f. 3-110v (expl. <seg type="explicit">Que le romans a rime a mis Dieu gart au frere ses amis. Amen</seg>) ; f. 81v, 99v, 111-112v blancs.</p>
@@ -2157,7 +2159,7 @@
                   <settlement>London</settlement>
                   <repository>British Libr.</repository>
                   <idno>Royal 19 A IV</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’4</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’4</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Cy commence le prologue du livre de Boece de consolacion et de confort</title> (rubr.) f. 1 ; <title type="ancien">Ci fine le cinquiesme et derrenier livre de Boece de consolacion</title> f. 63b] : prologue f. 1a-2b, texte f. 2b-63b ; f. 63v blanc ; f. de garde non folioté entre f. 63 et f. 64 ; <title>Testament</title> de
@@ -2189,7 +2191,7 @@
                   <settlement>Mâcon</settlement>
                   <repository>bibl. mun.</repository>
                   <idno>95</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’6</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’6</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-112v [titre : <title type="ancien">explicit Boece de Consolacion</title> f. 112v].</p>
@@ -2219,7 +2221,7 @@
                   <settlement>München</settlement>
                   <repository>Bayerische Staatsbibl.</repository>
                   <idno>Gall. 31</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’5</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’5</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Boece de consolacion</title> f. 1] f. 1a-63c ; <persName type="ancien">Jean de Meun</persName>, <title>Testament</title> f. 63d-92b.</p>
@@ -2245,7 +2247,7 @@
                   <settlement>New Haven</settlement>
                   <repository>Yale, University Library, Beinecke Rare Books &#38; Manuscripts Library</repository>
                   <idno>38</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’1</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’1</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-55.</p>
@@ -2270,7 +2272,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 578</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’’1</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’’1</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Cy commence Boece de consolacion</title> f. 1a] f. 1a-54c ; f. 54d-55d blancs ;
@@ -2299,7 +2301,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 822</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’2</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Ci commence Boece de consolacion</title> f. 1a] f. 1a-54a ; f. 54b-d blanc ;
@@ -2332,7 +2334,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 1095</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’2</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">C’est le romant de Boece de consolacion</title> f. de garde début verso] f. 1-107 ; f. 50v, 107v-111 blancs.</p>
@@ -2357,7 +2359,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 1102</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’6</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’6</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title>, f. 1-107 : texte incomplet du début (inc. f. 3 ...<seg type="incipit">Quar bien sçay que ceste ordenance <lb/>Po vault ad ce qe je appose</seg>... [manquent 2 f. ; la foliotation ancienne commence à « iii »] ; la 1re rubrique est
@@ -2386,7 +2388,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 1540</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’7</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’7</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Explicit iste liber Boecii consolationis vel Expliciunt quinque libri Boecii de consolacione in rima facti etcetera</title> (rubr.) f. 58d] f. 1-58d ; <persName type="ancien">Renaut de Louhans</persName>,
@@ -2413,7 +2415,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 1542</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">D3</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">D3</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 1-130 : incomplet du début du prologue, car il manque 1 f. en tête (inc. f. 1 <seg type="incipit">du petit engin la mesure <lb/>n’ay pas gardé la difference <lb/>que est une deguisee chouse</seg>...).</p>
@@ -2438,7 +2440,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 1651</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’5</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’5</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [sans titre] f. 1-118v ; f. 119-124v blancs.</p>
@@ -2464,7 +2466,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 19137</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">C’’2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">C’’2</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [sans titre] f. 1a-46b ; <persName type="ancien">Jean Le Fèvre</persName>, <title>Respit de la Mort</title> f. 46c-68a ; <persName type="ancien">Guillaume de Lorris</persName> et <persName type="ancien">Jean de Meun</persName>, <title>Roman de la Rose</title> f. 68b-194d ; f. 195a-196d blancs.</p>
@@ -2493,7 +2495,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 24230</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’10</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’10</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> f. 5-118.</p>
@@ -2521,7 +2523,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 24307</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’2</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’2</msName>
                 </msIdentifier>
                 <msContents>
                   <p><persName type="ancien">le Reclus de Molliens</persName>,
@@ -2552,7 +2554,7 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 24308</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">A’3</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">A’3</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">explicit Boece de Consolacion</title> (rubr.) f. 68d] f. 1a-68d.</p>
@@ -2579,7 +2581,7 @@
                   <settlement>Vaticano</settlement>
                   <repository>Bibl. apostolica Vaticana</repository>
                   <idno>Reg. lat. 1518</idno>
-                  <msName type="sigle" resp="Atherton Atkinson">B’’8</msName>
+                  <msName type="sigle" resp="Atherton_Atkinson">B’’8</msName>
                 </msIdentifier>
                 <msContents>
                   <p>Renaut de Louhans, <title>Le Roman de Fortune et de Felicité</title> [titre : <title type="ancien">Explicit Boece</title> f. 117v] f. 1-117v ; <persName type="ancien">Jean de Meun</persName>, <title>Codicille</title> f. 117v-119 ;
@@ -5666,7 +5668,8 @@
                   <settlement>Paris</settlement>
                   <repository>Bibl. nat. de Fr.</repository>
                   <idno>fr. 17272</idno>
-                  <msName type="ancien" resp="Cropp">E17</msName>
+                  <!-- LG 04/06/2019 valeur de @type "ancien" modifiée en "sigle" - comme toutes les autres valeurs de //msName/@type  -->
+                  <msName type="sigle" resp="Cropp">E17</msName>
                 </msIdentifier>
                 <msContents>
                   <p><title>Chroniques de France, depuis saint Louis jusqu’en 1383</title> (inc. <seg type="incipit">Au tamps que li rois Lois le Debonniaire fu entré en mer</seg>...) (cf.

@@ -339,7 +339,7 @@
                 <history>
                   <origin notBefore="1445" notAfter="1484">1445-1484 (proche du ms Paris, bibl. de l’Arsenal, 6328, f. 112 [1449-1459], <title>Mss datés</title>, t. I, pl. 104)</origin>
                   <provenance>
-                    <p>Possesseurs et commanditaires : <persName role="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> [mort en 1484] et <persName role="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et chiffres dans encadrements et peintures 759, f. 1 et <foreign>passim</foreign>)</p>
+                    <p>Possesseurs et commanditaires : <persName role="possesseur" key="Antoine de Chourses">Antoine de Chourses</persName> [mort en 1484] et <persName role="possesseur" key="Catherine de Coëtivy">Catherine de Coëtivy</persName> (armes et chiffres dans encadrements et peintures 759, f. 1 et <hi rend="i">passim</hi>)</p>
                   </provenance>
                 </history>
                 <additional>
@@ -1686,7 +1686,7 @@
                 </physDesc>
                 <history>
                   <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. ou début du XV<hi rend="sup">e</hi> s. (av. 1405) (proche du ms Paris, bibl. Mazarine, 253, f. 44 [1417], <title>Mss datés</title>, t. I, pl. 84)</origin>
-                  <provenance><p>Possesseur : acheté à Baude de Guy en 1405 par <persName role="possesseur" key="Jean de Berry">Jean de Berry</persName> (ex libris de Jean de Berry : <quote>« Ce livre est du duc de Berry »</quote> f. 316c ; <quote>« Ce livre de la seconde decade de Titus Livius est a Jehan filz de roy de France, duc de Berry et d’Auvergne, conte de Poitou, d’Estampes, de Bouloingne et d’Auvergne <foreign>[signé]</foreign> Flamel »</quote>, f. de garde fin). C’est le second volume de l’exemplaire décrit dans l’inventaire de Jean de Berry : <quote>« Un livre de Titus Livius en trois volumes, en françois, de lettre courant, lequel monseigneur retint pour lui de la grant quantité de livres achetee par Baude de Guy, le 16 dec. 1405 »</quote></p></provenance>
+                  <provenance><p>Possesseur : acheté à Baude de Guy en 1405 par <persName role="possesseur" key="Jean de Berry">Jean de Berry</persName> (ex libris de Jean de Berry : <quote>« Ce livre est du duc de Berry »</quote> f. 316c ; <quote>« Ce livre de la seconde decade de Titus Livius est a Jehan filz de roy de France, duc de Berry et d’Auvergne, conte de Poitou, d’Estampes, de Bouloingne et d’Auvergne <hi rend="i">[signé]</hi> Flamel »</quote>, f. de garde fin). C’est le second volume de l’exemplaire décrit dans l’inventaire de Jean de Berry : <quote>« Un livre de Titus Livius en trois volumes, en françois, de lettre courant, lequel monseigneur retint pour lui de la grant quantité de livres achetee par Baude de Guy, le 16 dec. 1405 »</quote></p></provenance>
                 </history>
                 <additional>
                   <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -2273,7 +2273,7 @@
                   <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 34816-34818</bibl>
                 </listBibl>
               </note></bibl>
-            <bibl xml:id="imprime2_de-urbe-condita-cxlii"><title type="ancien">Le premier [second, tiers] volume des grans decades de Titus Livius translatees de latin en françois nouvellement corrigees et amendees et ensuyvant les faictz dudit Titus Livius aucunes addicions de plusieurs grans historiographes sicomme Orose, Saluste Suetone et Lucain</title>, Paris, <publisher>Guillaume Eustache</publisher> et <publisher>François Regnault</publisher>, <date when="1515">1515</date>, 2°, ill., 3 vol.  Vol. I : 8 f. non foliotés (table) + 239 f. (D1 f. 1a-206b ; traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> f. 206a <foreign>sic</foreign>-239d) ; vol. II : 6 f. (table) + 175 f. (D3) ; vol. III : 8 f. (table) + 239 f. (D4, livres I-IX f. 1a-143d + 10e livre complémentaire). Suit l’édition de 1486-87 pour les traductions de Tite-Live et de Leonardo Bruni. Remarques : - omission du prologue du traducteur (malgré l’annonce dans la table du 1er volume : Le prologue du translateur f. 1) confondu avec celui de Tite-Live ; omission du glossaire. - La 4e décade est complétée par un dixième livre qui poursuit jusqu’à la mort d’Auguste (f. 144a-239d) : <title type="ancien">Cy fine le neufviesme livre de la tierce decade de Titus Livius et ensuyt le dixiesme et dernier selon Lucain et Orose. Et traicte premierement comment les Rommains eurent grant peine pour Perseus le filz au roy Philippe de Macedoine</title> (f. 143d). Il ne s’agit pas d’une reprise des <title>Faits des Romains</title> publiés par Vérard en 1490 sous le titre <title type="ancien">Lucain, Suetoine et Saluste en françois</title>. D4 inc. <seg type="incipit">Aprés ce que le roy Philippe de Macedoine fut mort celluy qui encontre les Rommains s’estoit combatu plus fort leur ayda encontre le roy Anthiocus sicomme devant a esté mis</seg>... f. 144a ; expl. <seg type="explicit">A ce Tyberius donna il sa fille en mariage. Il escoutoit bien voulentiers les acteurs de son temps sicomme Virgille Saluste Cyceron Therence Ovide Orace et Lyvius.</seg> f. 239d
+            <bibl xml:id="imprime2_de-urbe-condita-cxlii"><title type="ancien">Le premier [second, tiers] volume des grans decades de Titus Livius translatees de latin en françois nouvellement corrigees et amendees et ensuyvant les faictz dudit Titus Livius aucunes addicions de plusieurs grans historiographes sicomme Orose, Saluste Suetone et Lucain</title>, Paris, <publisher>Guillaume Eustache</publisher> et <publisher>François Regnault</publisher>, <date when="1515">1515</date>, 2°, ill., 3 vol.  Vol. I : 8 f. non foliotés (table) + 239 f. (D1 f. 1a-206b ; traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> f. 206a <hi rend="i">sic</hi>-239d) ; vol. II : 6 f. (table) + 175 f. (D3) ; vol. III : 8 f. (table) + 239 f. (D4, livres I-IX f. 1a-143d + 10e livre complémentaire). Suit l’édition de 1486-87 pour les traductions de Tite-Live et de Leonardo Bruni. Remarques : - omission du prologue du traducteur (malgré l’annonce dans la table du 1er volume : Le prologue du translateur f. 1) confondu avec celui de Tite-Live ; omission du glossaire. - La 4e décade est complétée par un dixième livre qui poursuit jusqu’à la mort d’Auguste (f. 144a-239d) : <title type="ancien">Cy fine le neufviesme livre de la tierce decade de Titus Livius et ensuyt le dixiesme et dernier selon Lucain et Orose. Et traicte premierement comment les Rommains eurent grant peine pour Perseus le filz au roy Philippe de Macedoine</title> (f. 143d). Il ne s’agit pas d’une reprise des <title>Faits des Romains</title> publiés par Vérard en 1490 sous le titre <title type="ancien">Lucain, Suetoine et Saluste en françois</title>. D4 inc. <seg type="incipit">Aprés ce que le roy Philippe de Macedoine fut mort celluy qui encontre les Rommains s’estoit combatu plus fort leur ayda encontre le roy Anthiocus sicomme devant a esté mis</seg>... f. 144a ; expl. <seg type="explicit">A ce Tyberius donna il sa fille en mariage. Il escoutoit bien voulentiers les acteurs de son temps sicomme Virgille Saluste Cyceron Therence Ovide Orace et Lyvius.</seg> f. 239d
               <note place="inline">Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. J. 245 (les trois volumes sont reliés ensemble)<listBibl>
                 <bibl>P. Renouard (rédigé par B. Moreau), <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. II, 1511-1520</title>, Paris, 1977, n°1160, p. 324</bibl>
                 <bibl><title>French Vernacular Books</title>, Leiden, Boston, 2007, n° 34822-34827</bibl>
@@ -2294,7 +2294,7 @@
               <date notBefore="1375" notAfter="1414">vers 1400</date>
             </dateline>
             <p>Cette version, légèrement remaniée, de la traduction de Bersuire se signale par une proximité plus grande avec l’original ainsi que par la recherche d’un style plus élégant et plus clair. Le remanieur a remplacé et supprimé de nombreux calques et s’est efforcé de trouver des équivalents modernes aux
-              <foreign>realia</foreign> antiques. M.-H. Tesnière a attribué ce remaniement à Laurent de Premierfait, mais aucun élément précis ne permet de retenir cette attribution.</p>
+              <hi rend="i">realia</hi> antiques. M.-H. Tesnière a attribué ce remaniement à Laurent de Premierfait, mais aucun élément précis ne permet de retenir cette attribution.</p>
             <listBibl>
               <bibl>M.-H. Tesnière, « Un remaniement du <title>Tite-Live</title> de Pierre Bersuire par Laurent de Premierfait », dans <title>Romania</title>, t. 107, 1986, p. 231-281</bibl>
             </listBibl>
@@ -2335,8 +2335,8 @@
                     <incipit><seg type="rubric">Ci commence le premier livre de la premiere decade de Titus Livius.</seg>
                       <lb/>Si je me prans a escripre les choses faittes par les Rommains des le commencement que Romme fut fondee...</incipit>
                     <explicit>...pour ce que les consulz furent occupez es guerres, mais que toutefois on fist supplicacion par un jour seulement a Esculapius.
-                      <lb/>Ci fine le Xe livre de la premiere decade de Titus Livius laquele est appellee de la cité fondee
-                      <foreign>(rubr.)</foreign></explicit>
+                      <lb/>Ci fine le X<hi rend="sup">e</hi> livre de la premiere decade de Titus Livius laquele est appellee de la cité fondee
+                      (rubr.)</explicit>
                   </msItem>
                   <msItem>
                     <title>3<hi rend="sup">e</hi> décade</title>
@@ -2352,7 +2352,7 @@
                       <incipit><seg type="rubric">Ci commence la seconde decade de Titus Livius laquele parle de la guerre punique des Cartageis diz penois contre les Rommains Et prologue</seg>
                         <lb/>Il me plaist a parler en une partie de mon oeuvre de ce dont pluseurs autres escriptures et scripteurs ont parlé au commencement de la leur...</incipit>
                       <explicit>...et a l’exemple de cestui pluseurs aultres combien que non mie egaulz en vittoires ont puis aprés fait notables tiltres de ymages et ont imposé clers seurnoms a eulx et a leurs familles
-                        <lb/>Ci fine le Xe et derrenier livre de la seconde decade de Titus Livius translaté de latin en françois du commandement de tres excellent prince Jehan roy de France par frere Pierre Bertheure jadis prieur de Saint Eloy de Paris et sont tous les livres de ceste seconde decade intitulez de la guerre punique <foreign>(rubr.)</foreign></explicit>
+                        <lb/>Ci fine le Xe et derrenier livre de la seconde decade de Titus Livius translaté de latin en françois du commandement de tres excellent prince Jehan roy de France par frere Pierre Bertheure jadis prieur de Saint Eloy de Paris et sont tous les livres de ceste seconde decade intitulez de la guerre punique (rubr.)</explicit>
                     </msItem>
                   </msItem>
                   <msItem>
@@ -2556,7 +2556,7 @@
                         <settlement>Brugge</settlement>
                         <repository>Stadsbibl.</repository>
                         <idno>397</idno>
-                        <msName type="sigle" resp="De_Poerck">C</msName>
+                        <msName type="sigle" resp="DePoerck">C</msName>
                         <msName type="sigle" resp="Borel">C</msName>
                       </msIdentifier>
                       <msContents>
@@ -2585,7 +2585,7 @@
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
                         <idno>9231-9232</idno>
-                        <msName type="sigle" resp="De_Poerck">A</msName>
+                        <msName type="sigle" resp="DePoerck">A</msName>
                         <msName type="sigle" resp="Borel">A</msName>
                       </msIdentifier>
                       <msContents>
@@ -2623,7 +2623,7 @@
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
                         <idno>10515</idno>
-                        <msName type="sigle" resp="De_Poerck">J</msName>
+                        <msName type="sigle" resp="DePoerck">J</msName>
                         <msName type="sigle" resp="Borel">J</msName>
                       </msIdentifier>
                       <msContents>
@@ -2661,7 +2661,7 @@
                         <settlement>Genève</settlement>
                         <repository>Bibl. publique et universitaire</repository>
                         <idno>fr. 64</idno>
-                        <msName type="sigle" resp="De_Poerck">F</msName>
+                        <msName type="sigle" resp="DePoerck">F</msName>
                         <msName type="sigle" resp="Borel">F</msName>
                       </msIdentifier>
                       <msContents>
@@ -2694,7 +2694,7 @@
                         <settlement>Kortrijk</settlement>
                         <repository>Stadsbibl.</repository>
                         <idno>cod. 3</idno>
-                        <msName type="sigle" resp="De_Poerck">I</msName>
+                        <msName type="sigle" resp="DePoerck">I</msName>
                         <msName type="sigle" resp="Borel">I</msName>
                       </msIdentifier>
                       <msContents>
@@ -2722,7 +2722,7 @@
                         <settlement>Paris</settlement>
                         <repository>bibl. Mazarine</repository>
                         <idno>1559-1560</idno>
-                        <msName type="sigle" resp="De_Poerck">E</msName>
+                        <msName type="sigle" resp="DePoerck">E</msName>
                         <msName type="sigle" resp="Borel">E</msName>
                       </msIdentifier>
                       <msContents>
@@ -2754,7 +2754,7 @@
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
                         <idno>fr. 55-57</idno>
-                        <msName type="sigle" resp="De_Poerck">D</msName>
+                        <msName type="sigle" resp="DePoerck">D</msName>
                         <msName type="sigle" resp="Borel">D</msName>
                       </msIdentifier>
                       <msContents>
@@ -2791,7 +2791,7 @@
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
                         <idno>fr. 296-299</idno>
-                        <msName type="sigle" resp="De_Poerck">B</msName>
+                        <msName type="sigle" resp="DePoerck">B</msName>
                         <msName type="sigle" resp="Borel">B</msName>
                       </msIdentifier>
                       <msContents>
@@ -2821,7 +2821,7 @@
                         <settlement>Wien</settlement>
                         <repository>Schottenstift</repository>
                         <idno>139-140</idno>
-                        <msName type="sigle" resp="De_Poerck">H</msName>
+                        <msName type="sigle" resp="DePoerck">H</msName>
                         <msName type="sigle" resp="Borel">H</msName>
                       </msIdentifier>
                       <msContents>
@@ -3262,7 +3262,7 @@
                         <idno>fr. 681-683</idno>
                       </msIdentifier>
                       <msContents>
-                        <p>Jean Mansel, <title>Fleur des histoires</title> (version longue), livre II [titre : <title>S’ensievent les hystoires de Bretaigne</title> <foreign>sic</foreign> (rubr.) f. 1a (même incipit corrigé dans le ms Paris, Bibl. nat. de Fr., fr. 720) ; <title type="ancien">Cy finent les rubriches de la table de cestui second volume de la fleur des hystoires</title> fr. 683, f. 659d] ; ms fr. 681 : prologue f. 1a-2a ; texte f. 2a-226d (rubr. du dernier chap. : <quote>« Comment les Rommains s’apresterent pour assiegier Capue ; Comment Graccus le noble rommain fut occiz par la traÿson de son hoste et comment Crespin vaincqui son hoste »</quote> (rubr.))  ; ms fr. 682 : texte f. 228a-435d (rubr. du dernier chap. : <quote>« Comment les François envaÿrent les Rommains de la XIIe legion de Cesar et comment par merveilleuse fortune ilz furent desconfiz et desbaretez »</quote> (rubr.)) ; ms fr. 683 : texte f. 436a-630c ; conclusion f. 630d-631c ; table des chapitres f. 632a-659c.</p>
+                        <p>Jean Mansel, <title>Fleur des histoires</title> (version longue), livre II [titre : <title>S’ensievent les hystoires de Bretaigne</title> <hi rend="i">sic</hi> (rubr.) f. 1a (même incipit corrigé dans le ms Paris, Bibl. nat. de Fr., fr. 720) ; <title type="ancien">Cy finent les rubriches de la table de cestui second volume de la fleur des hystoires</title> fr. 683, f. 659d] ; ms fr. 681 : prologue f. 1a-2a ; texte f. 2a-226d (rubr. du dernier chap. : <quote>« Comment les Rommains s’apresterent pour assiegier Capue ; Comment Graccus le noble rommain fut occiz par la traÿson de son hoste et comment Crespin vaincqui son hoste »</quote> (rubr.))  ; ms fr. 682 : texte f. 228a-435d (rubr. du dernier chap. : <quote>« Comment les François envaÿrent les Rommains de la XIIe legion de Cesar et comment par merveilleuse fortune ilz furent desconfiz et desbaretez »</quote> (rubr.)) ; ms fr. 683 : texte f. 436a-630c ; conclusion f. 630d-631c ; table des chapitres f. 632a-659c.</p>
                       </msContents>
                       <physDesc>
                         <objectDesc>
@@ -3395,7 +3395,7 @@
                           <p>16 f. liminaires de tables non foliotés + 483 f. foliotés de 1 à 482 (f. 341 compté deux fois par erreur) papier sauf 5 f. portant les grandes miniatures qui sont en parchemin</p>
                         </objectDesc>
                         <decoDesc>
-                          <p>Illustration : 5 grandes miniatures occupant plus de la moitié d’une page et 32 plus petites de la largeur d’une colonne ; relieur : <quote>« Ce livre a loyé <persName role="relieur">Jehan Guillebert de Bruges</persName> en la rue des freres »</quote> (doublure du second plat [<foreign>sic</foreign> dans le catalogue]), relieur de la <date notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s</date>.</p>
+                          <p>Illustration : 5 grandes miniatures occupant plus de la moitié d’une page et 32 plus petites de la largeur d’une colonne ; relieur : <quote>« Ce livre a loyé <persName role="relieur">Jehan Guillebert de Bruges</persName> en la rue des freres »</quote> (doublure du second plat [<hi rend="i">sic</hi> dans le catalogue]), relieur de la <date notBefore="1480" notAfter="1505">fin du XV<hi rend="sup">e</hi> s</date>.</p>
                         </decoDesc>
                       </physDesc>
                       <history>
@@ -3458,7 +3458,7 @@
                     <locus>f. 133-173</locus>
                     <title>IV<hi rend="sup">e</hi> décade</title>
                     <incipit><seg type="rubric">Comment li Rommain prindrent les armes contre le roy Phelippe de Macedoine et furent par les Gaules desconfiz premier chapitre.</seg> <pb n="f. 133v"/> Aprés la paix punique sourdy la guerre macedonique qui grande estoit pour cause de la grandeur de leur empire...</incipit>
-                    <explicit>...la province des Liguriens et en aprés furent aux autres magistras a chascun baillee sa province es XVI, XVIIes et final chapitre du IXe et derrenier livre de la IIIe decade de Thiti Livi. <foreign>Et sic finis huius operis, etc.</foreign></explicit>
+                    <explicit>...la province des Liguriens et en aprés furent aux autres magistras a chascun baillee sa province es XVI, XVIIes et final chapitre du IX<hi rend="sup">e</hi> et derrenier livre de la III<hi rend="sup">e</hi> decade de Thiti Livi. <foreign xml:lang="lat">Et sic finis huius operis, etc.</foreign></explicit>
                   </msItem>
                 </msContents>
               </msDesc>
@@ -3533,7 +3533,7 @@
                     <idno>fr. 9186</idno>
                   </msIdentifier>
                   <msContents>
-                    <p>Henri Romain, <title>Abrégé des décades de Tite-Live</title> [titre : <title type="ancien">Cy commence l’abregié et effect des trois decades de Titus Livius avec l’abregé de la premiere punique <foreign>sic</foreign> entre les Rommains et les Cartaginois</title> f. 1a ; <title type="ancien">Cy fine l’abregié des trois decades de Titus Livius et aussi de la premiere bataille punique</title> f. 133a] f. 1-133 : D1 f. 1a-42a ; abrégé de la traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> f. 42c-55d ; D3 f. 56a-99d ; D4 f. 100a-133a ; f. 133v blanc ; <persName type="ancien">Henri Romain</persName>, <title>Compendium historial</title> f. 135-303v ; traduction de la <title>Formula honestae vitae</title> de <persName type="ancien">Martin de Braga</persName> par <persName role="traducteur">Jean de Courtecuisse</persName> f. 304-311v ; traduction du <title>De Senectute</title> de <persName type="ancien">Cicéron</persName> par <persName role="traducteur">Laurent de Premierfait</persName> f. 312-322v.</p>
+                    <p>Henri Romain, <title>Abrégé des décades de Tite-Live</title> [titre : <title type="ancien">Cy commence l’abregié et effect des trois decades de Titus Livius avec l’abregé de la premiere punique <hi rend="i">sic</hi> entre les Rommains et les Cartaginois</title> f. 1a ; <title type="ancien">Cy fine l’abregié des trois decades de Titus Livius et aussi de la premiere bataille punique</title> f. 133a] f. 1-133 : D1 f. 1a-42a ; abrégé de la traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> f. 42c-55d ; D3 f. 56a-99d ; D4 f. 100a-133a ; f. 133v blanc ; <persName type="ancien">Henri Romain</persName>, <title>Compendium historial</title> f. 135-303v ; traduction de la <title>Formula honestae vitae</title> de <persName type="ancien">Martin de Braga</persName> par <persName role="traducteur">Jean de Courtecuisse</persName> f. 304-311v ; traduction du <title>De Senectute</title> de <persName type="ancien">Cicéron</persName> par <persName role="traducteur">Laurent de Premierfait</persName> f. 312-322v.</p>
                   </msContents>
                   <physDesc>
                     <objectDesc>
@@ -3589,9 +3589,9 @@
                 <head>A titre de comparaison, premier chapitre</head>
                 <bibl>l’édition de 1487 (f. 3c-d)</bibl><!-- <biblScope>(f. 3c-d)</biblScope> -->
                 <p>Cy commence le premier chapitre du premier livre de la seconde decade de Titus Livius et premierement comme Hasdrubal fut empereur. Premier chapitre.</p>
-                <p>Entre Amilcar et Hanibal son filz fut empereur de Cartaige ung chevalier appellé Hasdrubal, <note><foreign>ue</foreign> suppr. d’après éd. 1515</note> sicomme l’en disoit communement, avoit esté en la fleur de son aage conseillier famillierement dudit Amilcar. Et pour ce que ledit Amilcar veoit le dit Hasdrubal de bonne industrie, il luy avoit donné sa fille a mariage, c’est a dire qu’il estoit son concubin ou fait desordonné, et aussy pour cause qu’il estoit d’ung grant lignage qui faisoit grant partie de la cité, laquelle estoit appellee Brachienne et estoit plus habondant en richesses ; et quant aux chevaliers et quant au peuple, les princes du peuple l’avoient esleu a estre empereur de Cartage aprés la mort dudit Amilcar, pour cause que le dessusdit Hannibal estoit encore enfant, sicome dessus est dit.</p>
+                <p>Entre Amilcar et Hanibal son filz fut empereur de Cartaige ung chevalier appellé Hasdrubal, <note><hi rend="i">ue</hi> suppr. d’après éd. 1515</note> sicomme l’en disoit communement, avoit esté en la fleur de son aage conseillier famillierement dudit Amilcar. Et pour ce que ledit Amilcar veoit le dit Hasdrubal de bonne industrie, il luy avoit donné sa fille a mariage, c’est a dire qu’il estoit son concubin ou fait desordonné, et aussy pour cause qu’il estoit d’ung grant lignage qui faisoit grant partie de la cité, laquelle estoit appellee Brachienne et estoit plus habondant en richesses ; et quant aux chevaliers et quant au peuple, les princes du peuple l’avoient esleu a estre empereur de Cartage aprés la mort dudit Amilcar, pour cause que le dessusdit Hannibal estoit encore enfant, sicome dessus est dit.</p>
                 <p>Comment Hasdrubal fut occiz par ung barbarin. II</p>
-                <p>Cestuy empereur Hasdrubal voulut plus user en son temps de conseil que de puissance et s’efforça <foreign>[e. et de]</foreign>
+                <p>Cestuy empereur Hasdrubal voulut plus user en son temps de conseil que de puissance et s’efforça <hi rend="i">[e. et de]</hi>
                   <pb n="f. 3d"/> de appaisier a soy les couraiges des roys et les voulentez des gens ; et aussy il acreut et augmenta en son temps l’empire de Cartaige, plus par admistance que par armes, mais encore ne peult il avoir surté de paix, car ung barbarin par ire et par vengance de la mort son seigneur, le quel Hadrubal avoit ja occis, tua ledit Hadrubal, le quel Barbarin, prins et saisy de ceux qui estoient a l’entour et supposez aux tormens sans muance d’aucuns membres, en ris et en leesse se laissa occire, tant avoit mis a mort ledit Hasdrubal et vengié son seigneur avec cestuy Hasdrubal, pour ce qu’il estoit de merveilleux art a subtiller gens estranges et adjouster en son empire et avoit avec le peuple rommain renouvellé aliance ; et avoient entr’eux ordonné que le fleuve de Heure qui passe par Espaigne feist fins et termes et limites des deux empires de Romme et de Cartaige.</p>
               </div>
             </div>

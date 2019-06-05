@@ -182,39 +182,39 @@
                 <title>Prologue aux livres II-VIII</title>
                 <incipit><seg type="rubric">Atant prent fin mon premier livre particulier de ce traittié et s’ensieuvra orendroit le second, ouquel sera divisee la Gaule du temps de lors en trois parties et puis diray comment Cesar se maintint au commenchement de sa conqueste comment il desconfy les Helvechois comment les Germains ou Suaves qui transportez s’estoit deça le Rin et ont depuis causé divers poeples s’esmeurent aussi contre luy et de la grant <pb n="f. 91d"/>desconfiture que Cesar en fist ceste annee. <lb/>S’ensieut ung petit preambule sur l’oeuvre des huit livres particuliers sequens<lb/>prologue</seg>
                   <lb/>Pour raffreschir l’entendement de ma poursieute contendue es huit livres sequens...</incipit>
-                <explicit>En moy pardonnant ma simplesse ou deffaulte pour le bon vouloir en quoy arrogance n’a lieu. <lb/>Cy fine ung prologue du translateur de ceste matiere remonstrant en substance la conduite d’icelle. <foreign>(rubr.)</foreign></explicit>
+                <explicit>En moy pardonnant ma simplesse ou deffaulte pour le bon vouloir en quoy arrogance n’a lieu. <lb/>Cy fine ung prologue du translateur de ceste matiere remonstrant en substance la conduite d’icelle. <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
               <msItem>
                 <locus from="94a">f. 94a</locus>
                 <title>Livre II</title>
                 <incipit><seg type="rubric">Cy commence le second livre de ce traittié intitulé les Commentaires de Cesar selon la propre sentence Cesaire traittant en soy les adventures de la premiere annee gaulloise qui contient trente chapittres partiaulz ou premier desquelz il traitte de la separation des trois parties de toute la Gaule <lb/>Julius Celsus</seg>
-                  <lb/><foreign>Galia est omnis divisa in partes tres et cetera</foreign> Gaulle que a present nous appellons France ou temps que Gayus Jullius Cesar y fut par le senat rommain transmis...</incipit>
+                  <lb/><foreign xml:lang="lat">Galia est omnis divisa in partes tres et cetera</foreign> Gaulle que a present nous appellons France ou temps que Gayus Jullius Cesar y fut par le senat rommain transmis...</incipit>
                 <explicit><locus from="117b">f. 117b</locus>... ouquel appert manifestement que l’orgueil d’un prince ou poeuple arrogant est en brief terme renversé quant Fortune le destine ou le bonheur de l’adversaire le dessert.</explicit>
               </msItem>
               <msItem>
                 <title>Livre III</title>
                 <incipit><seg type="rubric">Cy aprés s’ensieult le tiers livre particulier de ce traittié et consequamment la seconde annee de la vacquation Cesaire en la conqueste gauloise ouquel sera contenu comment presques tous les Belgiens et meismement les Nerviens ou Tournisiens furent mis en la subgection rommaine a leur mortelle desconfiture
                   <lb/>Cy commence le troisieme livre particulier de ce traittié intitulé les Commentaires Cesar lequel contient en soy dix sept chapitres partiaulz ou premier desquelz il est traittié comment Cesar en son yvernement fust adverty de la rebellion des Belgiens <pb n="f. 117d"/> contre les Romains et comment il envoia contre eulz atout deux legions Quintus Peius legat rommain et d’autres faiz. Le chapitre premier.</seg>
-                  <lb/><foreign>Cum esset Cesar et cetera</foreign> Ainsi comme Cesar estoit en la Gaulle Cyterioire par de la les monts usant en la maniere devant ditte...</incipit>
+                  <lb/><foreign xml:lang="lat">Cum esset Cesar et cetera</foreign> Ainsi comme Cesar estoit en la Gaulle Cyterioire par de la les monts usant en la maniere devant ditte...</incipit>
                 <explicit><locus from="130b">f. 130b</locus>... et dont ancoires durent les traces quy en vouldroit leurs vertus cultiver <lb/>Atant prent fin le troisieme livre particulier de ce traittié et s’ensieut le quart ouquel sera contenu des aventures de Galba envahi entour les Alpes de la bataille vennoise c’est de Vennes en Bretaigne et de la distribution de l’exercite rommain en quatre ou en cinq parties et cetera.</explicit>
               </msItem>
               <msItem>
                 <title>Livre IV</title>
                 <incipit><seg type="rubric">Cy commence le quatriesme livre particulier de ce traittié contenant en soy quatorse chapitre partiaulz dont le premier fait mention de la contenance Galba vers les Alpes et comment aprés plusieurs victoires il se loga pour yverner.
                   <lb/>Et premierement comment Servius Galba atout la douzieme legion que Cesar lui bailla garda les confins de Lombardie et Savoie contre les agaitteurs des chemins Le chapitre premier.</seg>
-                  <lb/><foreign>Cum in Ytaliam Cesar et cetera</foreign> Comme Cesar en Ytalie s’en alast selon sa coustume yverner <pb n="f. 130d"/> il bailla a Servius Galba la douzieme legion moult bien garnie...</incipit>
+                  <lb/><foreign xml:lang="lat">Cum in Ytaliam Cesar et cetera</foreign> Comme Cesar en Ytalie s’en alast selon sa coustume yverner <pb n="f. 130d"/> il bailla a Servius Galba la douzieme legion moult bien garnie...</incipit>
                 <explicit><locus from="141d">f. 141d</locus>... mais luy venu en Bretaigne permist ses gens yverner entour les citez qui lui avoient fait la guerre l’esté passé
                   <lb/>Cy prent a tant fin le quart livre particulier de ce traitié et s’ensieut le quint ouquel est traittié des Ubiens et autres nations germanicques des naissances des rivieres de Meuse et du Rin Du premier passage du Rin par Cesar et de sa premiere allee en Bretaigne.
-                  <foreign>(rubr.)</foreign></explicit>
+                  <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
               <msItem>
                 <title>Livre V</title>
                 <incipit><locus from="142a">f. 142a</locus><seg type="rubric">Cy commence le cinquieme livre particulier de ce traitié ouquel entre autres choses sera traittié comment Cesar passa premierement le Rin a grant ost et de son premier voiage en Bretaigne et contient en soy sez chapitres partiaulz
                   <lb/>Et premierement comment les Usipates et Theuteriens germains passent le Rin des meurs aux Suaves et comment iceulx Usipates et Theuteriens sourprindrent les Menapiens Le chapitre premier.</seg>
                   <lb/>
-                  <foreign>Eaque secuta est et cetera</foreign> Avant l’yver passé de cest an ouquel Gayus Pompeyus et Marcus Crassus estoient consulz...</incipit>
+                  <foreign xml:lang="lat">Eaque secuta est et cetera</foreign> Avant l’yver passé de cest an ouquel Gayus Pompeyus et Marcus Crassus estoient consulz...</incipit>
                 <explicit><locus from="157b">f. 157b</locus>... qui lors lui sembloient satisfaire aux graces donnees de Fortune. <lb/>Cy prent fin le cinquieme livre particulier de ce traittié et s’ensieut le sixieme ouquel est contenu le retour second en Bretaigne et d’autres faiz.
-                  <foreign>(rubr.)</foreign></explicit>
+                  <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
               <msItem>
                 <title>Livre VI</title>
@@ -222,23 +222,23 @@
                   <lb/>Et premierement ou premier traictié est comment Cesar ordonna expressement a ses connestables et capitaines preparer son oirre pour l’esté prochain passer en Bretaigne comment les Epiriens vindrent a merchy et comment Cesar retourna aux hibernaulx Le chapitre premier.</seg>
                   <lb/>
                   <pb n="f. 157d"/>
-                  <foreign>Domicius et Claudius et cetera</foreign> L’an du consulat Domicius et Publius Claudius aprés les hibernaulz produits passa Cesar en Ytalie...</incipit>
-                <explicit><locus from="181d">f. 181d</locus>Si fut aprés ceste victoire ung petit de temps Gaule devers Cesar paisible <lb/>Cy fine la table des rubrices du sixieme livre particulier de ce traittié et s’ensieult la table des rubrices du septieme ouqueil est traittié des Menapiens par Cesar et des Treveriens par Labienus vainqus du second passage du Rin des meurs des Gaulois et Germains de la parfaicte destruction des Eburonnois subgetz a Ambiorix et de la fortune des Sigumbroiz transportez aux tentes Cyceron et cetera. <foreign>(rubr.)</foreign></explicit>
+                  <foreign xml:lang="lat">Domicius et Claudius et cetera</foreign> L’an du consulat Domicius et Publius Claudius aprés les hibernaulz produits passa Cesar en Ytalie...</incipit>
+                <explicit><locus from="181d">f. 181d</locus>Si fut aprés ceste victoire ung petit de temps Gaule devers Cesar paisible <lb/>Cy fine la table des rubrices du sixieme livre particulier de ce traittié et s’ensieult la table des rubrices du septieme ouqueil est traittié des Menapiens par Cesar et des Treveriens par Labienus vainqus du second passage du Rin des meurs des Gaulois et Germains de la parfaicte destruction des Eburonnois subgetz a Ambiorix et de la fortune des Sigumbroiz transportez aux tentes Cyceron et cetera. <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
               <msItem>
                 <title>Livre VII</title>
                 <incipit><locus from="182a">f. 182a</locus><seg type="rubric">Cy commence le septieme livre particulier de ce traittié qui contient en soy dix sept chapitres partiaulz
                   <lb/>Et premierement comment Jullius Cesar requist ayde a Pompee pour la meutacion nouvelle que il doubtoit entre les Gauloiz qui se rebellerent et comment de rechief il mist les Nerviens a obeissance. Le chapitre premier</seg>
-                  <lb/><foreign>Multis de causis et cetera</foreign> Pour plusieurs causes doubteuses asçavoir de plus grant meutacion gaulloise que oncques mais et pour la perte des legions et capitaines...</incipit>
+                  <lb/><foreign xml:lang="lat">Multis de causis et cetera</foreign> Pour plusieurs causes doubteuses asçavoir de plus grant meutacion gaulloise que oncques mais et pour la perte des legions et capitaines...</incipit>
                 <explicit>Il se tyra en <pb n="f. 198a"/> Ytalie pour illec tenir ses assises touchant l’accés de son office. <lb/>Cy fine le septieme livre particulier de ce traittié et s’ensieult le huitieme ouquel sera declairé comment toute Gaule fut pres destruite soubz la conduite d’un duc françois appellé Vercingetorix esleu par le commun.
-                  <foreign>(rubr.)</foreign></explicit>
+                  <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
               <msItem>
                 <title>Livre VIII</title>
                 <incipit><locus from="198a">f. 198a</locus><seg type="rubric">Cy commence le huitieme livre particulier de ce traitié parlant de la destruction de Gaule et contient en soy cinquante et deux chapitres partiaulx
                   <lb/>Et premierement comment les Gauloiz aprés le partement de Jule Cesar se rebellerent aux Rommains et la cause pourquoy. Le chapitre premier</seg>
                   <lb/><foreign>Quieta Gallia et cetera</foreign> Gaulle appaisie par la maniere que j’ay dessus dit Cesar qui ne voyoit rebellion nulle apparoir...</incipit>
-                <explicit><locus from="236a">f. 236a</locus>... l’orgueil et envieuse malvoeullance longuement couverte apparu toute manifeste comme vous orrez en poursieuvant les livres sequens. <lb/>Atant fine le VIIIe livre de ces presens Commentaires et s’ensieult le IXe selon Jullius Celsus compillé de la totale subjection de Gaule, lequel contient en soy XXVI chapitres partiaulx. <foreign>(rubr.)</foreign></explicit>
+                <explicit><locus from="236a">f. 236a</locus>... l’orgueil et envieuse malvoeullance longuement couverte apparu toute manifeste comme vous orrez en poursieuvant les livres sequens. <lb/>Atant fine le VIIIe livre de ces presens Commentaires et s’ensieult le IXe selon Jullius Celsus compillé de la totale subjection de Gaule, lequel contient en soy XXVI chapitres partiaulx. <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
               <msItem>
                 <title>Livre IX</title>
@@ -251,8 +251,8 @@
                 <msItem>
                   <title>Texte</title>
                   <incipit><locus from="237b">f. 237b</locus><seg type="rubric">Cy commence le noeufieme livre particulier de ceste oeuvre intitulé les Commentaires Cesar continué par Julius Celsus comme il appert par son prologue qui contient en soy XXVI chapitres partiaulz. Ou premier chapittre dudit livre est traitié comment les Gaulloiz par nouveau conseil rencommencierent murmure de guerre et comment Cesar de tout ce adverti les chastoia asprement. Le chapitre premier</seg>
-                    <lb/><foreign>Caym Galia devicta et cetera</foreign> Toute Gaule vainque et subjuguee comme Cesar n’eust en l’esté superiore nul temps cessé de guerroier...</incipit>
-                  <explicit>...car deux en renvoia il a Romme ainsi comme je diray ou premier chapittre de mon dit dernier livre sequent. <lb/>Cy prent fin le noeufieme livre particulier de ce traittié intitulé les Commentaires Cesar et s’ensieut le dixieme et derrenier qui contient en soy soixante et dix chapitres ouquel sont plusieurs belles briefves histoires des batailles <pb n="f. 256d"/> civiles rommaines narrees d’entre Cesar et Pompee et la verité des fins morteles aux dessus diz deux nobles champions et plusieurs aultres vaillans hommes sans nombre d’une partie et d’autre. <foreign>(rubr.)</foreign></explicit>
+                    <lb/><foreign xml:lang="lat">Caym Galia devicta et cetera</foreign> Toute Gaule vainque et subjuguee comme Cesar n’eust en l’esté superiore nul temps cessé de guerroier...</incipit>
+                  <explicit>...car deux en renvoia il a Romme ainsi comme je diray ou premier chapittre de mon dit dernier livre sequent. <lb/>Cy prent fin le noeufieme livre particulier de ce traittié intitulé les Commentaires Cesar et s’ensieut le dixieme et derrenier qui contient en soy soixante et dix chapitres ouquel sont plusieurs belles briefves histoires des batailles <pb n="f. 256d"/> civiles rommaines narrees d’entre Cesar et Pompee et la verité des fins morteles aux dessus diz deux nobles champions et plusieurs aultres vaillans hommes sans nombre d’une partie et d’autre. <hi rend="i">(rubr.)</hi></explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -266,7 +266,7 @@
                 <title>Epilogue du traducteur</title>
                 <incipit><locus from="311b">f. 311b</locus><seg type="rubric">La conclusion du translateur de ce present volume des Commentaires Gayus Julius Cesar soixante dixieme et derrenier chapittre</seg> Affin que par mes paroles soit mon intencion cogneue ay je icy pour conclusion ce present chapitre adjousté.</incipit>
                 <explicit>...attribuant les biens d’icelle aux composeurs non pas a l’indigne escripvain qui de tel loz se cognoist non coulpable <lb/>Atant prent fin ce present <pb n="f. 312a"/> volume lequel au commandement de hault et excellent prince et mon redoubté seigneur Loÿs seigneur de la Gruthus conte de Vincestre prince de Steenhuse et cetera et chevallier d’honneur de ma tresrredoutee dame madame la duchesse d’Austeriche de Bourgogne de Brabant et cetera a esté escript et parachiefvé a Gand en l’an de grace mil CCCC IIIIxx et deux.
-                  <foreign>(rubr.)</foreign></explicit>
+                  <hi rend="i">(rubr.)</hi></explicit>
               </msItem>
             </msContents>
           </msDesc>
@@ -581,7 +581,7 @@
                   <title>Livre II</title>
                   <incipit><locus from="50a">f. 50a</locus><seg type="rubric">Cy commence le second livre qui est le premier de la facture de Cesar traictant en soy les aventures de la premiere année gauloise et premierement de la separacion des trois parties de Gaule</seg>
                     <lb/>
-                    <foreign>Gallia est omnis divisa in partes tres et cetera</foreign>
+                    <foreign xml:lang="lat">Gallia est omnis divisa in partes tres et cetera</foreign>
                     <lb/>Gaulle que maintenant appellons France inclusivement ou temps que Jullius Cesar y fut envoié pour la concquerir estoit grande plantureuse et bien peuplee...</incipit>
                 </msItem>
                 <msItem>
@@ -659,7 +659,7 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>fr. 728</idno>
               </msIdentifier>
-              <msContents><p><pb n="f. 1"/>A tres chrestien et tres excellent prince, Charles, huitiesme de ce nom, roy de France, Robert, ministre general de l’ordre de Sainte Trinité et redemption des prisonniers chrestiens, dit et desire, en toute humilité, honneur, gloire et longue vie <foreign>(rubr.)</foreign></p></msContents>
+              <msContents><p><pb n="f. 1"/>A tres chrestien et tres excellent prince, Charles, huitiesme de ce nom, roy de France, Robert, ministre general de l’ordre de Sainte Trinité et redemption des prisonniers chrestiens, dit et desire, en toute humilité, honneur, gloire et longue vie <hi rend="i">(rubr.)</hi></p></msContents>
             </msDesc>
             <msDesc corresp="#arsenal_5222"><!-- type="biblissima" -->
               <msIdentifier>
@@ -999,7 +999,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime7_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar <foreign>[rubr.]</foreign>.
+            <bibl xml:id="imprime7_de-bello-gallico"><title type="ancien">Les commentaires de Jules Cesar <hi rend="i">[rubr.]</hi>.
               <lb/>De la guerre civile feuillet premier
               <lb/>De la guerre Alexandrine fueillet XL
               <lb/>De la guerre d’Affrique fueillet LII
