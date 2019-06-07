@@ -98,9 +98,9 @@
             <date notBefore="1220-01-01" notAfter="1250-12-31">première moitié du 13<hi rend="sup">e</hi> siècle</date>
           </dateline>
           <p>Les <title xml:lang="lat">Institutiones</title> de Justinien nous ont été conservées dans une seule traduction française en prose, dépourvue de prologue et d’épilogue. Son éditeur, Félix Olivier-Martin (p. xiv-xv) a proposé de la dater de
-            <foreign xml:lang="lat">ca</foreign> 1220-1230, faisant ainsi de cette traduction la première translation française d’une partie du <title xml:lang="lat">Corpus juris civilis</title>. Les arguments de F. Olivier-Martin sont au nombre de trois : 1. le <title>Livre la Roine</title>, qu’il date d’environ 1240, recourt à cette traduction ; 2. la traduction ne recourt pas à la glose d’Accurse ; 3. surtout <q xml:lang="lat">in metallum damnare</q> est traduit par
+            <hi rend="i">ca</hi> 1220-1230, faisant ainsi de cette traduction la première translation française d’une partie du <title xml:lang="lat">Corpus juris civilis</title>. Les arguments de F. Olivier-Martin sont au nombre de trois : 1. le <title>Livre la Roine</title>, qu’il date d’environ 1240, recourt à cette traduction ; 2. la traduction ne recourt pas à la glose d’Accurse ; 3. surtout <q xml:lang="lat">in metallum damnare</q> est traduit par
             <quote>damn[er] a peinde porter metal, si conme cil a qui on fait mantel de plonc</quote>, ce qui serait une réminiscence du supplice imposé à Geoffrey de Norwich en 1213. Ces arguments sont pour le moins fragiles : 1. Lorenzo Mainini, dans une recherche à paraître, a bien montré que le <title>Livre la Roine</title> était postérieur au <title>Conseil</title> de Pierre de Fontaines ; 2. le traducteur insère des gloses dans sa traduction et se sert de gloses pour traduire. Il est bien difficile de décider si ces gloses étaient préaccursiennes ou non, parce qu’elles se retrouvent chez Accurse. D’autre part, il se pourrait très bien qu’un traducteur n’ait pas utilisé la glose d’Accurse à la fin de la première moitié du 13<hi rend="sup">e</hi> siècle. 3. Enfin, la traduction du latin <q xml:lang="lat">in metallum damnare</q> résulte surtout de la méconnaissance de cette peine, qui conduit le traducteur à imaginer un supplice, que l’on retrouve chez Dante, comme le rappelle F. Olivier-Martin.</p>
-          <p>La chronologie relative à d’autres textes, citant la traduction, peut seule aider. Or les <title>Poines de la duchee d’Orliens</title>, composées entre <foreign xml:lang="lat">ca</foreign> 1235 et 1255, en tout cas avant la grande ordonnance de 1256 (cf. <bibl>F. Olivier-Martin, <title level="a">Les ‘Poines de la duchée d’Orliens’</title>, dans <title>Revue historique de droit français et étranger</title>, 1928, p. 419-421</bibl>), font usage de cette version française des <title xml:lang="lat">Institutiones</title>, comme ce sera le cas, un peu plus tard du <title>Livre de jostice et de plet</title>. La traduction était sans doute achevée à la toute fin de la première moitié du 13<hi rend="sup">e</hi> siècle. Quant au <foreign xml:lang="lat">terminus a quo</foreign>, il reste à préciser, mais il ne saurait être antérieur aux années 1220. Il reste toutefois probable que la traduction en prose des
+          <p>La chronologie relative à d’autres textes, citant la traduction, peut seule aider. Or les <title>Poines de la duchee d’Orliens</title>, composées entre <hi rend="i">ca</hi> 1235 et 1255, en tout cas avant la grande ordonnance de 1256 (cf. <bibl>F. Olivier-Martin, <title level="a">Les ‘Poines de la duchée d’Orliens’</title>, dans <title>Revue historique de droit français et étranger</title>, 1928, p. 419-421</bibl>), font usage de cette version française des <title xml:lang="lat">Institutiones</title>, comme ce sera le cas, un peu plus tard du <title>Livre de jostice et de plet</title>. La traduction était sans doute achevée à la toute fin de la première moitié du 13<hi rend="sup">e</hi> siècle. Quant au <hi rend="i">terminus a quo</hi>, il reste à préciser, mais il ne saurait être antérieur aux années 1220. Il reste toutefois probable que la traduction en prose des
             <title>Institutes</title> fut la première traduction achevée d’une des parties du <title xml:lang="lat">Corpus juris civilis</title>.</p>
           <p><bibl>F. Olivier-Martin (p. xv-xviii)</bibl>, sans rejeter une possible origine parisienne ou orléanaise, suit l’hypothèse d’une localisation normande de la traduction sur la base de régionalismes lexicaux et d’analogies stylistiques avec le <title>Très ancien coutumier de Normandie</title>. Les développements, assez convaincants, d’Olivier-Martin mériteraient d’être approfondis.</p>
           <p>La traduction donne une <q>image fidèle du manuel de Justinien</q> (<bibl>Olivier-Martin, p. xix</bibl>). Le traducteur s’est montré aussi bon juriste que bon latiniste et prosateur. Aidé de gloses, qu’il insère parfois dans son texte, le traducteur rend le texte-source sans céder aux latinismes, mais en s’efforçant toujours de rendre la lettre du latin. Quand il s’en écarte, c’est surtout par souci de clarté. L’absence d’autre traduction des
@@ -108,9 +108,9 @@
             <title>Code</title> ou le <title>Digeste</title>, dont on compte plusieurs versions françaises. Tout au plus remarque-t-on une modernisation linguistique systématique dans le ms Bruxelles, Bibl. royale 10467 accompagné de l’insertion dans le corps du texte des incipits latins des paragraphes.</p>
           <div type="tradition_texte">
             <head>Tradition textuelle</head>
-            <listWit>
+            <list type="listWit">
               <head>Conspectus siglorum</head>
-              <witness xml:id="A">
+              <item xml:id="A">
                 <ref target="authenticum.xml#fr_498">
                   <msDesc corresp="authenticum.xml#fr_498">
                     <msIdentifier>
@@ -124,7 +124,7 @@
                     </msIdentifier>
                   </msDesc>
                 </ref>
-              </witness>
+              </item>
               <witness xml:id="B">
                 <ref target="#fr_1063">
                   <msDesc corresp="#fr_1063">
@@ -397,7 +397,7 @@
                   </msDesc>
                 </ref>
               </witness>
-            </listWit>
+            </list>
             <p><bibl>F. Olivier-Martin (p. xxxviii-xl)</bibl> a étudié la tradition des
               <title>Institutes</title> en prose qu’il a résumée sous forme d’un stemma à trois branches. L’examen mériterait d’être repris à nouveaux frais, car Olivier-Martin, intéressé par l’établissement du texte, néglige les témoins tardifs dont il fait les descendants de témoins proches antérieurs. Etant donné le nombre de manuscrits et les lacunes de certains, il n’a pas été possible d’aboutir à une vision synthétique et complète de la tradition. Tout au plus pouvons-nous préciser certaines relations à l’intérieur d’une tradition qui semble par ailleurs contaminée :</p>
             <list type="temoins">
@@ -498,13 +498,13 @@
                 </app> (Inst. 2.17.8)</p>
                 <p>Plusieurs omissions de <hi rend="i">I</hi> interdisent d’en faire l’ancêtre de <hi rend="i">E</hi>, par ex. <app>
                   <rdg wit="#C #A #B #E #F #G #K #L #N #D"/>
-                  <rdg wit="#I #M">a soi... de celui qui <hi rend="n">om.</hi><note>saut du même au même</note></rdg>
-                </app> (Inst. 2.17.1).</p>
+                  <rdg wit="#I #M">a soi... de celui qui <hi rend="n">om.</hi></rdg>
+                </app><note>saut du même au même</note> (Inst. 2.17.1).</p>
               </item>
               <item><label>Place du manuscrit <hi rend="i">R</hi> (= ms perdu n° 10 de F. Olivier-Martin)</label>
-                <p>La collation des extraits transcrits avec la <foreign xml:lang="lat">varia lectio</foreign> relevée par F. Olivier-Martin suggère que
+                <p>La collation des extraits transcrits avec la <hi rend="i">varia lectio</hi> relevée par F. Olivier-Martin suggère que
                   <hi rend="i">R</hi> pourrait être proche de <hi rend="i">C</hi>, ms de base de l’édition, tout en étant moins erroné que lui. Il s’agit donc d’un ms dont le témoignage textuel est du plus haut intérêt si l’on cherche à retrouver l’état original de la traduction. Ce point reste à approfondir.</p></item>
-              <item><label>Les manuscrits du <title xml:lang="lat">Parvum volumen</title> (<hi rend="i">OAFL</hi>)</label>
+              <item><label>Les manuscrits du <hi rend="i">Parvum volumen</hi> (<hi rend="i">OAFL</hi>)</label>
                 <p>Les témoins qui présentaient la traduction des <title>Institutes</title> en tête du <title xml:lang="lat">Parvum volumen</title> ne forment pas une famille compacte dans la tradition des <title>Institutes</title> français : <hi rend="i">A</hi> appartient à la famille <hi rend="i">ABD</hi>, <hi rend="i">F</hi> au groupe <hi rend="i">FGKM</hi> et <hi rend="i">L</hi> à <hi rend="i">CEIHNLR</hi>. D’après une collation de la table des rubriques de <hi rend="i">O</hi> avec les rubriques de <hi rend="i">ABDFC</hi>, il apparaît que <hi rend="i">O</hi> est bien plus proche de <hi rend="i">A</hi> que de
                   <hi rend="i">F</hi>. En dehors des cas où <hi rend="i">O</hi> présente une leçon isolée, le schéma suivant prédomine :
                   <hi rend="i">OABD</hi>||<hi rend="i">FC</hi> (Inst. 1.11) avec de nombreuses variantes <hi rend="i">O</hi>|<hi rend="i">ABD</hi>||<hi rend="i">F</hi>|<hi rend="i">C</hi> (Inst. 1.20, 2.5), <hi rend="i">OAB</hi>|<hi rend="i">D</hi>||<hi rend="i">FC</hi> (Inst. 1.15), <hi rend="i">OB</hi>|<hi rend="i">AD</hi>||<hi rend="i">F</hi>|<hi rend="i">C</hi> (Inst. 1.25), <hi rend="i">OA</hi>|<hi rend="i">BD</hi>||<hi rend="i">FC</hi> (Inst. 2.3), <hi rend="i">OAD</hi>|<hi rend="i">B</hi>||<hi rend="i">FC</hi> (Inst. 2.6). Cette configuration rejoint celles de la tradition de la traduction 3 des
@@ -1129,7 +1129,7 @@
                           </list>
                           <list rend="circle">
                             <head>Traits plus spécifiquement picards</head>
-                            <item><quote>cose</quote> (2.17.3 et <foreign xml:lang="lat">passim</foreign>) : employé en concurrence avec <quote>chose</quote>,
+                            <item><quote>cose</quote> (2.17.3 et <hi rend="i">passim</hi>) : employé en concurrence avec <quote>chose</quote>,
                               <quote>cose</quote> note la conservation de [k] initial suivi de [a] (cf. <bibl>Gossen 1970, p. 95</bibl>). D’après <bibl>Dees 1980</bibl> (c. 135
                               <hi rend="i">cose, cosses, kose</hi> /
                               <hi rend="i">chose, chousses</hi>), le groupe 1 n’est représenté avec une certaine fréquence qu’en Somme-Pas-de-Calais 37%, dans le Nord 77% et dans le Hainaut 53%. Aux marges de ces zones, les fréquences tombent entre 3% et 6%.</item>
@@ -1140,9 +1140,9 @@
                             <item><quote>ihl</quote> (2.17.1) et <quote>cihl</quote>. Pour <quote>ihl</quote>, cf. <bibl>Dees 1980 c. 8 <hi rend="i">ihl, ilh</hi> / <hi rend="i">il, yl, jl</hi></bibl> : 58% Wallonie vs 0% ailleurs sauf en Lorraine 1%.
                               <quote>Cihl</quote> (2.17.1) : 4 occurrences dans le
                               <bibl><title>Nouveau corpus d’Amsterdam</title></bibl>, 2 dans <bibl>E. Pasquet,
-                                <title>Mém.publ. par l'Acad. Royale de Belgique</title>, t. XLI, Bruxelles 1888, p. 23-48: <title>Sermons de Carême en dialecte wallon</title> (ms <foreign xml:lang="lat">ca</foreign> 1225)</bibl> ; 2 autres dans
+                                <title>Mém.publ. par l'Acad. Royale de Belgique</title>, t. XLI, Bruxelles 1888, p. 23-48: <title>Sermons de Carême en dialecte wallon</title> (ms <hi rend="i">ca</hi> 1225)</bibl> ; 2 autres dans
                               <bibl>J. Haust, Bruxelles 1941: <title>Médicinaire liégeois du XIII<hi rend="sup">e</hi> siècle</title> (composition du texte et ms
-                                <foreign xml:lang="lat">ca</foreign> 1275)</bibl>.</item>
+                                <hi rend="i">ca</hi> 1275)</bibl>.</item>
                             <item>diphtongaison de [e] fermé tonique libre + nasale : cf. <quote>poine</quote> (4.18.4) à côté de
                               <quote>paine</quote> (4.18.6). Cf. <bibl>M.-G. Boutier dans <title>LRL</title>, t. II/2, p. 294</bibl> et <bibl>Gossen 1970, p. 69</bibl>.</item>
                           </list> La présence de traits assez peu fréquents dans la scripta administrative picarde du 13<hi rend="sup">e</hi> s. n’a rien pour surprendre dans une copie littéraire du 15<hi rend="sup">e</hi> s. Ainsi : <list rend="circle">
@@ -1762,7 +1762,7 @@
                       <objectDesc>
                         <supportDesc>
                           <support><material>Parchemin</material> de qualité moyenne (brisets f. 14, 15, 55 ; coutures f. 54)</support>
-                          <extent>63 f.<note> (lacune entre le f. 22 et le f. 23 : F. Olivier-Martin émet l’hypothèse, confirmée par la collation, d’une lacune de 10 f., c’est-à-dire un cahier + 2 f. qui contenaient les titres 9 à 20 du second livre. On pourra également se reporter au ms. Paris, Bibl. nat. de Fr., fr. 1064, qui présente à peu près la même quantité de texte par page) ; France (Orléanais ?), <foreign xml:lang="lat">ca</foreign> 1270-1290 ; <dimensions unit="mm">
+                          <extent>63 f.<note> (lacune entre le f. 22 et le f. 23 : F. Olivier-Martin émet l’hypothèse, confirmée par la collation, d’une lacune de 10 f., c’est-à-dire un cahier + 2 f. qui contenaient les titres 9 à 20 du second livre. On pourra également se reporter au ms. Paris, Bibl. nat. de Fr., fr. 1064, qui présente à peu près la même quantité de texte par page) ; France (Orléanais ?), <hi rend="i">ca</hi> 1270-1290 ; <dimensions unit="mm">
                             <height quantity="283">283</height>
                             <width quantity="180">180</width>
                           </dimensions> (justification : 192 x 113 mm.). Réglure à la mine de plomb (1-1-11/0/0/J ; dans les p. présentant une réclame, celle-ci se trouve copiée entre deux lignes horizontales dont les extrémités correspondent à la justification de la dernière colonne du cahier). D’après le f. 47, (23 + 192 + 68 mm. [de haut en bas]) x (27 + 49 + 15 + 49 + 40 mm. [de la reliure vers la gouttière]). Copie de la première ligne sous le premier trait de la linéation. Trace de piqûres pour le tracé des lignes verticales comme pour celle de la linéation. Copié sur 2 colonnes, le ms. compte 36 lignes par col., soit une UR d’environ 5,35 mm. – Foliotation moderne en chiffres arabes dans le coin supérieur droit des f. rectos ; trace d’une pagination antérieure en chiffres romains ; titre courant : « L » en rouge sur les versos ; numéro du livre en chiffres romains alternativement rouges et bleus sur les rectos.</note></extent>
@@ -1772,13 +1772,13 @@
                       <handDesc hands="1">
                         <p><label>Ecriture</label><term xml:lang="lat">semitextualis libraria</term> par une seule main. Coefficient d’abréviation : 20,7% (17,6% sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>les extraits transcrits orientent largement vers l’aire centrale du domaine d’oïl, en particulier vers l’Orléanais, qui présente certains traits occidentaux. Parmi eux notons la désinence de la P4 en -<hi rend="i">on</hi> (<bibl>Dees 1980, c. 219</bibl>) ou les graphies <quote>eir</quote>, <quote>heir</quote> (<bibl>Dees 1980, c. 158</bibl>). L’absence de trace de palatalisation normanno-picarde exclut la Normandie, de même que les graphies <quote>leu</quote> (<bibl>Dees 1980, c. 168</bibl>), <quote>dou</quote> (enclise de <hi rend="i">de</hi> + <hi rend="i">le</hi>) (<bibl>Dees 1980, c. 42</bibl>), <quote>meniere</quote> et non <quote>maniere</quote> (<bibl>Dees 1980, c. 174</bibl>), tout comme les occurrences de <quote>tuit</quote> en fonction de sujet masc. plur. (<bibl>Dees 1980, c. 91</bibl>). La
-                          <foreign xml:lang="lat">scripta</foreign> du manuscrit est clairement étrangère au sud-est, au nord et au nord-est du domaine d’oïl. On relève toutefois quelques traits caractéristiques que la Champagne partage avec le picard méridional et le bourguignon septentrional, comme
+                          <hi rend="i">scripta</hi> du manuscrit est clairement étrangère au sud-est, au nord et au nord-est du domaine d’oïl. On relève toutefois quelques traits caractéristiques que la Champagne partage avec le picard méridional et le bourguignon septentrional, comme
                           <quote>viaut</quote> et <quote>siaut</quote>, indicatifs présents P3 de <hi rend="i">voloir</hi> et de <hi rend="i">soloir</hi> (cf. <bibl><title>Nouveau corpus d’Amsterdam</title></bibl>) ou bien la graphie
                           <quote>oroille</quote> (occurrences champenoises dans le
                           <bibl><title>Nouveau corpus d’Amsterdam</title></bibl>).</p>
                         <p><label>Traces de lecture</label>notes de lecture en <lang xml:lang="fro">français</lang> de la 2<hi rend="sup">e</hi> moitié du 14<hi rend="sup">e</hi> s. en
                           <term xml:lang="lat">cursiva currens</term> de très petit module par un même lecteur : ex. f. 19v, 20, 24v, 25, 25v, 41, 41v. Ces gloses, parfois assez fournies, courent tout le long du texte et commencent souvent par <quote xml:lang="lat">nota</quote>. Nombreux manicules (f. 2, 2v, 17, 22, 45v...) ; <q>nota</q> simples
-                          <foreign xml:lang="lat">passim</foreign>.</p>
+                          <hi rend="i">passim</hi>.</p>
                         <p><label>Corrections</label>très rares corrections.</p>
                       </handDesc>
                       <decoDesc>
@@ -1808,7 +1808,7 @@
                     </physDesc>
                     <history>
                       <origin>
-                        <origDate notBefore="1270-01-01" notAfter="1290-12-31"><foreign xml:lang="lat">ca</foreign> 1270-1290</origDate>
+                        <origDate notBefore="1270-01-01" notAfter="1290-12-31"><hi rend="i">ca</hi> 1270-1290</origDate>
                         <origPlace>France (Orléanais ?)</origPlace>
                       </origin>
                       <provenance>
@@ -2421,7 +2421,7 @@
                       </objectDesc>
                       <handDesc hands="1">
                         <p><label>Ecriture</label> écriture intermédiaire entre la <term xml:lang="lat">textualis libraria</term> et la <term xml:lang="lat">semitextualis libraria</term>, les <hi rend="i">a</hi> à double compartiment alternant avec des <hi rend="i">a</hi> à compartiment simple. Coefficient d’abréviation : 9,8% (9,6% sans <quote>et</quote>).</p>
-                        <p><label>Scripta</label>le ms. présente une <foreign xml:lang="lat">scripta</foreign> assurément normande, combinant à la fois des traits communs aux <foreign xml:lang="lat">scriptae</foreign> occidentales et d’autres à l’aire normanno-picarde. Parmi les traits les plus fréquents attestés dans les rubriques, incipit et titres édités, retenons :<list rend="circle">
+                        <p><label>Scripta</label>le ms. présente une <hi rend="i">scripta</hi> assurément normande, combinant à la fois des traits communs aux <hi rend="i">scriptae</hi> occidentales et d’autres à l’aire normanno-picarde. Parmi les traits les plus fréquents attestés dans les rubriques, incipit et titres édités, retenons :<list rend="circle">
                           <item>le graphème régional <hi rend="i">ei</hi>, résultant de l’évolution de [a] tonique libre :
                             <quote>quasseiz</quote> (f. 28d, part. passé),
                             <quote>gardeir</quote> (f. 48c),
@@ -2461,7 +2461,7 @@
                             <quote>retienge</quote> (f. 29b) (formes communes à l’Ouest et à la Picardie)</item>
                           <item>un imparfait en –<hi rend="i">e</hi>- :
                             <quote>porseet</quote> (f. 76c)</item>
-                          <item>la forme <quote>quer</quote> (f. 29b, 29c), correspondant au <hi rend="i">quar/car</hi> central, forme propre aux <foreign xml:lang="lat">scriptae</foreign> de l’Ouest</item>
+                          <item>la forme <quote>quer</quote> (f. 29b, 29c), correspondant au <hi rend="i">quar/car</hi> central, forme propre aux <hi rend="i">scriptae</hi> de l’Ouest</item>
                         </list></p>
                         <p><label>Corrections</label> assez rares ; inserende marginal f. 25b ; exponctuations f. 26c, 62c...</p>
                         <p><label>Traces de lecture</label>2 lignes en <lang xml:lang="lat">latin</lang> dans une écriture cursive du 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. f. 40v ; note du président Bouhier, 3<hi rend="sup">e</hi> f. de garde verso (sur une trad. des Instit. par un nommé maître Michel, faite en 1292 où le
@@ -3066,9 +3066,9 @@
                       <objectDesc>
                         <supportDesc>
                           <support><material>Parchemin</material> (de belle qualité, même si quelques coutures, par ex. f. 10 et 11)</support>
-                          <extent>92 f.<note> (f. 91, d’une main cursive du 13<hi rend="sup">e</hi> s. indication du nombre de f. : <quote>Somme IIII<hi rend="sup">XX</hi> et XII</quote> [main différente de celle du ms. Orléans, bibl. mun. 392]) précédés et suivis d’une contre-garde et d’un f. de garde papier moderne ; Nord-Est de la Picardie linguistique ; <foreign xml:lang="lat">ca</foreign> 1270-1290 (datation du
+                          <extent>92 f.<note> (f. 91, d’une main cursive du 13<hi rend="sup">e</hi> s. indication du nombre de f. : <quote>Somme IIII<hi rend="sup">XX</hi> et XII</quote> [main différente de celle du ms. Orléans, bibl. mun. 392]) précédés et suivis d’une contre-garde et d’un f. de garde papier moderne ; Nord-Est de la Picardie linguistique ; <hi rend="i">ca</hi> 1270-1290 (datation du
                             <bibl><title>Catalogue des manuscrits médiévaux de la bibliothèque municipale d’Orléans</title></bibl> et de la <bibl>notice de C. Rabel dans <title>Initiale</title></bibl> ; le
-                            <foreign xml:lang="lat">terminus ad quem</foreign> est donné par l’addition en 1292 de la généalogie des Aucoste de Boulogne, f. 91v) ; <dimensions unit="mm">
+                            <hi rend="i">terminus ad quem</hi> est donné par l’addition en 1292 de la généalogie des Aucoste de Boulogne, f. 91v) ; <dimensions unit="mm">
                               <height quantity="275">275</height>
                               <width quantity="195/198">195/198</width>
                             </dimensions> (justification 190 x 120 mm.). Réglure à la mine de plomb (12-212-11/2-2/2-2/J ; la double ligne verticale proche de la gouttière est souvent invisible après rognure) : d’après le f. 31, (18 + 190 + 67 mm. [de haut en bas]) x (31 + 55 + 10 + 55 + 44 mm. [de la reliure vers la gouttière]) ; copié sur 2 col. à raison de 34 l. par col., soit une UR de 3,7 mm. La première ligne de texte est copiée sous la rectrice horizontale supérieure – foliotation moderne avec erreur par redoublement du chiffre 5 ; titre courant : « L » en bleu au verso, numéro du livre en chiffres romains alternativement rouges et bleus au recto (en partie rogné).</note></extent>
@@ -3083,7 +3083,7 @@
                           <quote>baillie</quote>, <quote>convenenchie</quote>,
                           <quote>jugie</quote>) ; article défini féminin singulier
                           <quote>le</quote> ; déterminant possessif féminin singulier <quote>se</quote>. L’article possessif masculin singulier <quote>sen</quote> (<bibl>Gossen, <title>Grammaire de l’ancien picard</title>, § 66</bibl>) et la forme
-                          <quote>signeur</quote> (<bibl>Gossen, <foreign xml:lang="lat">ibid.</foreign>, p. 147</bibl>) orientent vers le Nord-Est du domaine picard, auquel appartient Boulogne.</p>
+                          <quote>signeur</quote> (<bibl>Gossen, <hi rend="i">ibid.</hi>, p. 147</bibl>) orientent vers le Nord-Est du domaine picard, auquel appartient Boulogne.</p>
                         <p><label>Corrections</label>la copie semble avoir été soigneusement corrigée : grattages f. 6c, 28b, 50c, 51b, 90d ; insérendes marginaux de la main du copiste, f. 84a, 85d ; insérendes interlinéaires de la main du copiste, ex. f. 46c ; ratures à l’encre f. 38a (parfois avec substitution par ajout marginal ; ex. f. 22b).</p>
                         <p><label>Traces de lecture</label>soulignements à la mine de plomb, par ex. f. 1d, 2a-2b ; 33a-b, 37a, 49d, 50b... Il est difficile de dater ces soulignements qui peuvent tout aussi bien être médiévaux que modernes.</p>
                       </handDesc>
@@ -3111,7 +3111,7 @@
                     </physDesc>
                     <history>
                       <origin>
-                        <origDate notBefore="1270-01-01" notAfter="1292-12-31"><foreign xml:lang="lat">ca</foreign> 1270-1290</origDate>
+                        <origDate notBefore="1270-01-01" notAfter="1292-12-31"><hi rend="i">ca</hi> 1270-1290</origDate>
                         <origPlace>Nord-Est de la Picardie linguistique</origPlace>
                       </origin>
                       <provenance>
@@ -3712,7 +3712,7 @@
                       <handDesc hands="1">
                         <p><label>Ecriture</label> de type <term xml:lang="lat">textualis libraria</term> dont le soin varie au cours de la copie. Régulière et serrée dans les premiers feuillets, elle devient beaucoup plus ample (ex. f. 69) avant de retrouver le module et la régularité du début à la fin de la copie. – Le copiste a copié le texte et les rubriques. Coefficient d’abréviation : 7,1% (4,4% sans
                           <quote>et</quote>).</p>
-                        <p><label>Scripta</label> la <foreign xml:lang="lat">scripta</foreign> du manuscrit est celle de l’Ile-de-France. On ne relève pas dans les extraits édités (rubriques et titres) d’éléments caractéristiques de l’Ouest, susceptibles d’orienter vers l’Orléanais. Les <foreign xml:lang="lat">scriptae</foreign> du Nord et du Nord-Est sont également exclues.</p>
+                        <p><label>Scripta</label> la <hi rend="i">scripta</hi> du manuscrit est celle de l’Ile-de-France. On ne relève pas dans les extraits édités (rubriques et titres) d’éléments caractéristiques de l’Ouest, susceptibles d’orienter vers l’Orléanais. Les <hi rend="i">scriptae</hi> du Nord et du Nord-Est sont également exclues.</p>
                       </handDesc>
                       <decoDesc>
                         <decoNote>
@@ -4324,7 +4324,7 @@
                       </objectDesc>
                       <handDesc hands="1">
                         <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term> très régulière avec hastes montantes fourchues. Coefficient d’abréviation : 14,4% (14,3% sans <quote>et</quote>).</p>
-                        <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> appartient à l’aire centrale du domaine d’oïl, Champagne comprise. Les diatopismes relevés dans les extraits transcrits ne permettent pas de préciser sa localisation. En effet, la forme <quote>sunt</quote> (ind. prés. P6 de <hi rend="i">estre</hi>) est attestée dans le Nord et le Nord-Est (picard, champenois), mais aussi en Normandie et en Angleterre (cf. <bibl>J. Chaurand,
+                        <p><label>Scripta</label>la <hi rend="i">scripta</hi> appartient à l’aire centrale du domaine d’oïl, Champagne comprise. Les diatopismes relevés dans les extraits transcrits ne permettent pas de préciser sa localisation. En effet, la forme <quote>sunt</quote> (ind. prés. P6 de <hi rend="i">estre</hi>) est attestée dans le Nord et le Nord-Est (picard, champenois), mais aussi en Normandie et en Angleterre (cf. <bibl>J. Chaurand,
                           <title>Introduction à la dialectologie</title>, p. 79</bibl>). <hi rend="i">Aubre</hi> &lt; <hi rend="sc">ARBORE</hi>, d’après le
                           <bibl><title>Nouveau Corpus d’Amsterdam</title></bibl>, est surtout attesté en Champagne occidentale.</p>
                         <p><label>Corrections</label>quelques corrections interlinéaires contemporaines de la copie, peut-être de la main du copiste : pour réparer une omission (f. 4d, f. 31b, 60c), pour substituer un mot à un autre barré en rouge (f. 12a) ; substitution de lettres avec lettres supprimées exponctuées (f. 68a) ; substitution après grattage (f. 24b, 72c, 76a...), une croix en marge indiquant le lieu à corriger ; suppression par rature en rouge d’un segment textuel (f. 31b), par exponctuation f. 1b, par grattage f. 23c. Le texte a donc fait l’objet d’une relecture attentive à la suite de la copie, peut-être au moment de sa rubrication ou de l’ajout des rehauts.</p>
@@ -4353,7 +4353,7 @@
                       </origin>
                       <provenance>
                         <p><label>Provenance</label><note>les informations qui suivent sont largement reprises de la notice associée à la numérisation du ms sur Gallica à laquelle on se reportera pour plus de détails</note> acquis par <persName role="possesseur" key="Charles V">Charles V</persName>, à l’époque où il n’était encore que dauphin (<quote>Cest livre est de moy le dauphin de <choice><sic>Vienn</sic><corr>Viennois</corr></choice></quote> f. 85 ; signature <quote>Charles</quote>
-                          <foreign xml:lang="lat">ibid.</foreign>). Ms. mentionné dans les inventaires de la Librairie du Louvre jusqu’en 1424 : <q rend="italic">Un livre nommé Institude</q> (1373-1380, inventaire A) ; <q rend="italic">Item un livre nommé Institute, escript en françois, de lettre de forme, a deux coulombes, commençant ou .II.e fueillet : de celz as gens, et ou derrenier : tre celluy, couvert de cuir vert, a .II. fermouers de laton</q> (1411, inventaire D). Appartint à
+                          <hi rend="i">ibid.</hi>). Ms. mentionné dans les inventaires de la Librairie du Louvre jusqu’en 1424 : <q rend="italic">Un livre nommé Institude</q> (1373-1380, inventaire A) ; <q rend="italic">Item un livre nommé Institute, escript en françois, de lettre de forme, a deux coulombes, commençant ou .II.e fueillet : de celz as gens, et ou derrenier : tre celluy, couvert de cuir vert, a .II. fermouers de laton</q> (1411, inventaire D). Appartint à
                           <persName role="possesseur" key="Louis de Bruges">Louis de Bruges</persName> (emblème recouvert par les armes de France dans la marge inférieure du f. 1). Sans doute cédé par son fils <persName role="possesseur" key="Jean de Bruges">Jean de Bruges</persName> (1436-1512) au roi de France (présent dans la <orgName role="possesseur" key="Blois, bibliothèque de">librairie royale de Blois</orgName> : <quote>Bloys. Des livres et hystoires en françoys, pulpito 3°, contre les murailles devers la court</quote>, main du 16<hi rend="sup">e</hi> s. sur la contregarde du plat supérieur).</p></provenance>
                       <provenance>
                         <p><label>Anciennes cotes inscrites sur le f. 1</label> [Rigault II] « <idno type="old">MDXXII</idno> », [Dupuy I] « <idno type="old">1000</idno> », [Regius] « <idno type="old">7343</idno> ».</p></provenance>
@@ -4682,8 +4682,8 @@
                           <msItem>
                             <locus from="50d"/>
                             <title type="sub">[Inst. 3.1]</title>
-                            <incipit><seg type="rubric">Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><supplied resp="#FD">le texte du titre commence au début de Inst. 3.1.2, cf. <foreign xml:lang="lat">supra</foreign></supplied></incipit>
-                          </msItem>
+                            <incipit><seg type="rubric">Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><supplied resp="#FD">le texte du titre commence au début de Inst. 3.1.2, cf. <hi rend="i">supra</hi></supplied></incipit>
+                          </msItem><hi rend="i">supra</hi>
                           <msItem>
                             <locus from="54b"/>
                             <title type="sub">[Inst. 3.2]</title>
@@ -4918,7 +4918,7 @@
                       </objectDesc>
                       <handDesc hands="2">
                         <p><label>Ecriture</label> de type <term xml:lang="lat">textualis libraria</term> − au moins deux copistes se sont succédés (changement de main net au f. 9, plus douteux au f. 79v). Irrégulière dès les premiers f., la <term xml:lang="lat">textualis libraria</term> accroît son irrégularité après le f. 9 et devient plus rapide. L’écriture allongée à la fin du huitième quaternion vise sans doute à assurer la soudure avec le 9<hi rend="sup">e</hi> cahier, pourtant copiée de la même main. Ce phénomène pourrait indiquer que les cahiers n’ont pas tous été copiés à la suite. Coefficient d’abréviation : 7,5% (4,2% sans <quote>et</quote>).</p>
-                        <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> semble être conforme à la <foreign xml:lang="lat">scripta</foreign> exportée depuis Paris, sans que l’on puisse exclure une zone occidentale plus large.</p>
+                        <p><label>Scripta</label>la <hi rend="i">scripta</hi> semble être conforme à la <hi rend="i">scripta</hi> exportée depuis Paris, sans que l’on puisse exclure une zone occidentale plus large.</p>
                         <p><label>Corrections</label>le ms a été corrigé par grattages (f. 9a), par exponctuations, par de rares insertions intralinéaires.</p>
                         <p><label>Traces de lecture</label>notes effacées en cursive du 14<hi rend="sup">e</hi> s. (?) (f. 43).</p>
                       </handDesc>
@@ -5632,7 +5632,7 @@
                         <p><label>Ecriture</label><term xml:lang="lat">littera textualis libraria</term>. Sans doute copié par <persName role="copiste" key="Jean de Senlis">Jean de Senlis</persName> (cf. <bibl>Rouse &amp; Rouse 2000, t. II, p. 1978</bibl>. La comparaison des majuscules du ms avec celles du ms Den Haag, Koninklijke Bibliotheek, 71 A 24, f. 80v confirme l’attribution). Une copie en plusieurs étapes pourrait expliquer les changements très progressifs observés et le manque de régularité d’un bout à l’autre de la copie. Le changement d’encre du f. 33 par ex. ne se traduit pas par un changement de main évident. F. 130d, formule de fin en
                           <term xml:lang="lat">textualis formata</term>. Coefficient d’abréviation : 9,05% (7,5 % sans <quote>et</quote>).</p>
                         <p><label>Scripta</label>la graphie du manuscrit correspond à la
-                          <foreign xml:lang="lat">scripta</foreign> de l’Ile-de-France. Les <foreign xml:lang="lat">scriptae</foreign> de l’Est et du Nord-Est sont totalement exclues et les traits partagés avec l’Ouest uniquement sont trop rares pour conclure à une <foreign xml:lang="lat">scripta</foreign> orléanaise.</p>
+                          <hi rend="i">scripta</hi> de l’Ile-de-France. Les <hi rend="i">scriptae</hi> de l’Est et du Nord-Est sont totalement exclues et les traits partagés avec l’Ouest uniquement sont trop rares pour conclure à une <hi rend="i">scripta</hi> orléanaise.</p>
                         <p><label>Corrections</label>corrections peu nombreuses et surtout concentrées au début du texte (ex. corrections interlinéaires après grattage f. 3d ; ajouts de pieds-de-mouche à l’encre noire f. 3v-4).</p>
                         <p><label>Traces de lecture</label> en <term xml:lang="lat">cursiva currens</term> du 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s., ajout en latin des intitulés de titres manquants dans les deux premiers cahiers ; manicule f. 73c.</p>
                       </handDesc>
@@ -5752,7 +5752,7 @@
                         <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term> de la main d’un seul copiste, excepté pour les trois feuillets de remplacement. - Coefficient d’abréviation : 5,3% (1,1 % sans
                           <quote>et</quote>).</p>
                         <p><label>Scripta</label>d’après les extraits transcrits, la
-                          <foreign xml:lang="lat">scripta</foreign> du manuscrit semble être celle qui a été exportée depuis l’Ile-de-France.</p>
+                          <hi rend="i">scripta</hi> du manuscrit semble être celle qui a été exportée depuis l’Ile-de-France.</p>
                       </handDesc>
                       <decoDesc>
                         <decoNote>
@@ -6445,9 +6445,9 @@
                       </objectDesc>
                       <handDesc hands="1">
                         <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term>. Lettres montantes avec hastes dentelées et têtes d’hommes fantaisistes aux premières lignes de chaque colonne. D’après F. Olivier-Martin (éd., p. XII), le ms. aurait été copié par
-                          <persName role="copiste" key="Gilles de Langres">Gilles de Langres</persName>, mais le colophon (cf. <foreign xml:lang="lat">supra</foreign>) est d’interprétation difficile.</p>
-                        <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> du ms. ne se distingue pas de la
-                          <foreign xml:lang="lat">scripta</foreign> exportée à la fin du Moyen Âge depuis l’Ile-de-France.</p>
+                          <persName role="copiste" key="Gilles de Langres">Gilles de Langres</persName>, mais le colophon (cf. <hi rend="i">supra</hi>) est d’interprétation difficile.</p>
+                        <p><label>Scripta</label>la <hi rend="i">scripta</hi> du ms. ne se distingue pas de la
+                          <hi rend="i">scripta</hi> exportée à la fin du Moyen Âge depuis l’Ile-de-France.</p>
                         <p><label>Corrections</label>au moins deux correcteurs : ajouts en marge, de la même main et de la même encre que le corps du texte, mais d’une écriture plus cursive (f. 1d, 5c, 9a, 9d, 11c, 12d, 14a, 14c...) ou dans l’interligne (f. 13b, 19b...) ; correction d’une seconde main, du 14<hi rend="sup">e</hi> s., en marge (f. 21c), dans l’interligne (f. 21d). Seul le début du texte semble avoir été corrigé.</p>
                       </handDesc>
                       <decoDesc>
@@ -7066,7 +7066,7 @@
                       <handDesc hands="1">
                         <p><label>Ecriture</label>de type <term xml:lang="lat">textualis libraria</term> régulière. Probablement un même copiste pour les deux textes. Hastes montantes de la première ligne de la col. parfois prolongées dans la traduction des <title>Institutes</title>, par ex. f. 39c proche du ms Paris, bibl. de l’Arsenal 1248, f. 52 [<bibl>1307, <title>Mss datés</title>, t. I, pl. 29</bibl>] ; Coefficient d’abréviation : 6,4% (3,7% sans
                           <quote>et</quote>).</p>
-                        <p><label>Scripta</label>même si leur <foreign xml:lang="lat">scripta</foreign> n’est pas très marquée, les extraits édités pointent vers le sud de la Haute-Marne, la Bourgogne et la Franche-Comté. Lorraine, Picardie et Wallonie sont exclues, de même que l’Ouest du domaine d’oïl. Parmi les traits relevés, notons : <list type="bulleted">
+                        <p><label>Scripta</label>même si leur <hi rend="i">scripta</hi> n’est pas très marquée, les extraits édités pointent vers le sud de la Haute-Marne, la Bourgogne et la Franche-Comté. Lorraine, Picardie et Wallonie sont exclues, de même que l’Ouest du domaine d’oïl. Parmi les traits relevés, notons : <list type="bulleted">
                           <item><quote>nuns</quote> (<bibl>cf. Dees 1987, c. 55</bibl>), attesté en Bourgogne et en Franche-Comté</item>
                           <item><quote>taubles</quote> (à côté de
                             <quote>tables</quote>) : cette vocalisation de /l/ devant /bl/, courante en bourguignon (cf.
@@ -7164,11 +7164,11 @@
                         <supportDesc>
                           <support><material>Parchemin</material></support>
                           <extent>212 f.<note> (manque 1 f. après la table, contenant le début de Inst. 1 et 1 f. en tête de Inst. 4) ; France, 1275-1300 [la notice de la <foreign xml:lang="en">Library of Congress</foreign> indique
-                            <foreign xml:lang="lat">ca</foreign> 1280, d’après la période d’activité de Nicolas de Châlons] ;
+                            <hi rend="i">ca</hi> 1280, d’après la période d’activité de Nicolas de Châlons] ;
                             <dimensions unit="mm">
                               <height quantity="220">220</height>
                               <width quantity="160">160</width>
-                            </dimensions> (justification : 140-143 x <foreign xml:lang="lat">ca</foreign> 105 mm. [48 + 9 + 48 mm.]). Copié sur 2 col., le ms. compte 24 l. par col., soit une UR de 5,83 mm. – Foliotation ancienne en chiffres romains reprenant par trois fois à « i » ; foliotation moderne continue au crayon, de 1 à 212 ; titre courant : sur le f. verso, « L » rubriqué ; numéro du livre en capitales romaines bleues et rouges sur le recto.</note></extent>
+                            </dimensions> (justification : 140-143 x <hi rend="i">ca</hi> 105 mm. [48 + 9 + 48 mm.]). Copié sur 2 col., le ms. compte 24 l. par col., soit une UR de 5,83 mm. – Foliotation ancienne en chiffres romains reprenant par trois fois à « i » ; foliotation moderne continue au crayon, de 1 à 212 ; titre courant : sur le f. verso, « L » rubriqué ; numéro du livre en capitales romaines bleues et rouges sur le recto.</note></extent>
                         </supportDesc>
                       </objectDesc>
                       <handDesc hands="1">
@@ -7256,7 +7256,7 @@
                       <handDesc>
                         <p><label>Ecriture</label><term xml:lang="lat">littera textualis</term>. Coefficient d'abréviation : 11,8% (7,6% sans les
                           <quote>et</quote>).</p>
-                        <p><label>Scripta</label>la <foreign xml:lang="lat">scripta</foreign> est délicate à analyser, étant donné le peu de texte que nous livre le fragment. Elle exclut l'est et le nord du domaine d'oïl (graphie <quote>her</quote>, cf.
+                        <p><label>Scripta</label>la <hi rend="i">scripta</hi> est délicate à analyser, étant donné le peu de texte que nous livre le fragment. Elle exclut l'est et le nord du domaine d'oïl (graphie <quote>her</quote>, cf.
                           <bibl>Dees 1983, c. 158-160</bibl>). Si l'on ne peut exclure l'Ile-de-France et donc Paris, certains éléments pointent vers l'Ouest du domaine (Orléanais, Anjou, Maine) : adjectif possessif <quote>lour</quote> (<bibl>Dees 1983, c. 87b</bibl>), <quote>nevouz</quote> (<bibl>Dees 1983, c. 194</bibl>), <quote>poi</quote> (<bibl>Dees 1987, c. 506</bibl>), <quote>leu</quote> (<bibl>Dees 1983, c. 168</bibl>).</p>
                         <p><label>Correction</label>2 corrections marginales avec signes d'insertions, dans une encre semblable à celle qui a servi à la copie, mais la main pourrait être différente de celle du copiste. Ces insertions sont entourées de rouge et donc antérieures à la rubrication.</p>
                       </handDesc>
@@ -7324,7 +7324,7 @@
                     <title>Commentaire sur les Institutes Coutumières de M<hi rend="sup">e</hi> Antoine Loisel</title>, Paris, 1688, p. 271</bibl>), contrairement à <hi rend="i">ABD</hi> (<quote>De la poesté as peres</quote>), à <hi rend="i">F</hi> (<quote>de ceus qui sont en la poesté leur peres</quote>) et à <hi rend="i">C</hi> (<quote>Cis tritres est de celz qui sunt en nostre poesté</quote>). (F. Olivier-Martin, p. viii et xxii).</p></item>
                 <item xml:id="institutes_perdu8"><p>8. D’après <bibl>Montfaucon (<title>Bibliotheca bibliothecarum</title>, p. 1383 D, n°315)</bibl>, il existait au 18<hi rend="sup">e</hi> siècle à la <orgName role="possesseur" key="Metz, cathédrale">cathédrale de Metz</orgName> un ms décrit ainsi : <quote>Les Institutes de l’empereur Justinien en vieux françois, in charta, 300 ad minus ann.</quote> (F. Olivier-Martin, p. xxii).</p></item>
                 <item xml:id="institutes_perdu9"><p>Dans l’inventaire des livres du duc
-                  <persName role="possesseur" key="Charles d'Orléans">Charles d’Orléans</persName> destinés à être gagés en 1427, il est fait mention des <quote>Institutes de l’empereur Justinien, de forme ancienne, en françoys, couverts de cuir vert, a deux petiz fermouers de cuivre</quote> (<bibl>comte de Laborde, <title>Les ducs de Bourgogne, Preuves</title>, t. III, n° 6351. Ce ms se retrouve dans l’inventaire non daté (<foreign xml:lang="lat">ca</foreign> 1446), <title>ibid.</title>, n° 6462</bibl>). (F. Olivier-Martin, p. xxii-xxiii).</p></item>
+                  <persName role="possesseur" key="Charles d'Orléans">Charles d’Orléans</persName> destinés à être gagés en 1427, il est fait mention des <quote>Institutes de l’empereur Justinien, de forme ancienne, en françoys, couverts de cuir vert, a deux petiz fermouers de cuivre</quote> (<bibl>comte de Laborde, <title>Les ducs de Bourgogne, Preuves</title>, t. III, n° 6351. Ce ms se retrouve dans l’inventaire non daté (<hi rend="i">ca</hi> 1446), <title>ibid.</title>, n° 6462</bibl>). (F. Olivier-Martin, p. xxii-xxiii).</p></item>
                 <item xml:id="institutes_perdu11"><p>11. Brodeau, dans son édition des
                   <title>Arrêts de Louet</title>, signale une traduction des
                   <title>Institutes</title> de Justinien, manuscrite et <q>qui est de quatre cents ans</q>, sans plus d’indication (t. I, p. 414). (F. Olivier-Martin, p. xxiii).</p></item>
@@ -7368,7 +7368,7 @@
             <div type="etat_traductif" xml:id="ljp" n="I.1.2.3">
               <head><title>Livre de jostice et de plet</title></head>
               <p>Les <title>Institutes</title> figurent à deux endroits dans le <title>Livre de jostice et de plet</title>. Le premier emprunt se trouve aux paragraphes 11-12 du livre XII, 21 (<bibl>éd. Rapetti, p. 252-3</bibl>). Il comporte, sous la forme d’une douzaine de lignes imprimées, un remaniement de la traduction française des <title>Institutes</title> 3.1 (<bibl>éd. F. Olivier-Martin, p. 152-153</bibl>). La seconde apparition des
-                <title>Institutes</title> se situe aux chapitres 24-25 du livre XVIII (<bibl>éd. Rapetti, p. 277-285</bibl>). Elle est constituée par une série d’emprunts indirects à la traduction française des <title>Institutes</title> vraisemblablement reprise à travers les <title>Poines de la duchée d’Orliens</title> (cf. <foreign xml:lang="lat">supra</foreign>) ; plus précisement, les derniers paragraphes du chapitre 24 du livre XVIII s’inspirent de Inst. 4.16 et 4.4 alors que le chapitre 25 est intégralment tiré de Inst. 4.18.</p>
+                <title>Institutes</title> se situe aux chapitres 24-25 du livre XVIII (<bibl>éd. Rapetti, p. 277-285</bibl>). Elle est constituée par une série d’emprunts indirects à la traduction française des <title>Institutes</title> vraisemblablement reprise à travers les <title>Poines de la duchée d’Orliens</title> (cf. <hi rend="i">supra</hi>) ; plus précisement, les derniers paragraphes du chapitre 24 du livre XVIII s’inspirent de Inst. 4.16 et 4.4 alors que le chapitre 25 est intégralment tiré de Inst. 4.18.</p>
               <div type="manuscrit">
                 <list type="listMs">
                   <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059006z" xml:id="Ljp"><ref target="digestum_vetus.xml#fr_2844">Livre de Jostice et de Plet</ref></item>
@@ -8050,7 +8050,7 @@
                     <objectDesc>
                       <supportDesc>
                         <support><material>papier</material> (filigranes : armes à trois fleur de lys, par ex. f. 1, 142, proche de Brunet 1471 (Troyes 1470, var. similaire 1468-1482)</support>
-                        <extent>217 f.<note> licorne, par ex. f. 8, 123, proche de Brunet 10021 (Cuy 1465 ; var. identique Caen 1467, Cherbourg 1470) ; lettre « P », par ex. f. 180, 182, identique à Brunet 8606 (Troyes 1470, var. identique 1470-1477)) précédés et suivis d’1 f. de garde papier moderne ; les premiers et derniers f. sont endommagés ; trous de vers à l’intérieur de la justification du f. 202 à la fin ; Normandie, <foreign xml:lang="lat">ca</foreign> 1470 ; d’après le f. 134 : <dimensions unit="mm">
+                        <extent>217 f.<note> licorne, par ex. f. 8, 123, proche de Brunet 10021 (Cuy 1465 ; var. identique Caen 1467, Cherbourg 1470) ; lettre « P », par ex. f. 180, 182, identique à Brunet 8606 (Troyes 1470, var. identique 1470-1477)) précédés et suivis d’1 f. de garde papier moderne ; les premiers et derniers f. sont endommagés ; trous de vers à l’intérieur de la justification du f. 202 à la fin ; Normandie, <hi rend="i">ca</hi> 1470 ; d’après le f. 134 : <dimensions unit="mm">
                           <height quantity="281">281</height>
                           <width quantity="210">210</width>
                         </dimensions>. (justification : 216 x 150 mm. avec variations d’une p. à l’autre, le cadre de la justification n’étant pas fermé). Réglure à la pointe sèche et à l’encre : f. 70-214 : 1-1-11/0/1-0-0/0 (dans ce schéma, les lignes verticales ne servent pas à délimiter le cadre de la justification de chaque colonne, mais à placer les initiales de vers, qui les précèdent immédiatement. La traduction en vers du coutumier est copiée selon le même chéma avec une linéation tracée à la mine de plomb). D’après le f. 134, approximativement (15 + 216 + 50 mm. [de haut en bas]) x (20 + 67 +16 + 67 + 40 mm. [de la reliure vers la gouttière]). La copie des
@@ -8061,7 +8061,7 @@
                     <handDesc hands="1">
                       <p><label>Ecriture</label><term xml:lang="lat">littera cursiva currens</term> /
                         <term xml:lang="lat">libraria</term> assez rapide et régulière. Une seule main pour l’ensemble du manuscrit. Coefficient d’abréviation : 11,8 % (11,2 sans <quote>et</quote>).</p>
-                      <p><label>Scripta</label>quelques traces de <foreign xml:lang="lat">scripta</foreign> normande à la rime comme à l’intérieur du vers.</p>
+                      <p><label>Scripta</label>quelques traces de <hi rend="i">scripta</hi> normande à la rime comme à l’intérieur du vers.</p>
                       <p><label>Corrections</label>rares, par rature (f. 191c) ou surcharge (f. 174a, 176a).</p>
                     </handDesc>
                     <decoDesc>
@@ -8082,7 +8082,7 @@
                   </physDesc>
                   <history>
                     <origin>
-                      <origDate notBefore="1465-01-01" notAfter="1475-12-31"><foreign xml:lang="lat">ca</foreign> 1470</origDate>
+                      <origDate notBefore="1465-01-01" notAfter="1475-12-31"><hi rend="i">ca</hi> 1470</origDate>
                       <origPlace>Normandie</origPlace>
                     </origin>
                     <provenance>
@@ -8107,7 +8107,7 @@
                   <div type="edition" n="1">
                     <head>Prologue du traducteur</head>
                     <lg xml:id="harley_4477-inst.prol">
-                      <l><hi rend="b">Q</hi>ui de rien ne se veult grever /</l>
+                      <l><hi rend="b">Q</hi>ui de rien ne se veult grever</l>
                       <l>Il ne <expan>po<ex>ur</ex>ra</expan> pas achever</l>
                       <l>Chose de quoy <expan>honne<ex>ur</ex></expan> li <expan>vie<ex>n</ex>gne</expan></l>
                       <l>Il est drois qu’a <expan>ch<ex>asc</ex>un</expan> souviengne</l>
@@ -8721,7 +8721,7 @@
                         <rdg xml:lang="lat">ne alias tabulae priores iure factae irritae fiant <supplied resp="#FD">rime redoublant la précédente dans <hi rend="i">P</hi> ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>Au <expan>p<ex>re</ex>merain</expan> nul tort ne fait<note><app>
-                        <rdg wit="#P">ne fist<supplied resp="#FD">cf. <foreign xml:lang="lat">supra</foreign> ; <hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">ne fist<supplied resp="#FD">cf. <hi rend="i">supra</hi> ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>Ne ne ly toult pas sa bonté</l>
                       <l>A<note><app>
@@ -8944,7 +8944,7 @@
                           <rdg xml:lang="lat">Si familiae erciscundae iudicio actum sit <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                         </app></note></l>
                       <l>A <expan>p<ex>ar</ex>tir</expan> a jugement voult<note><app>
-                        <rdg wit="#P">j. vont<supplied resp="#FD">cf. <foreign xml:lang="lat">supra</foreign> ; <hi rend="i">P</hi>+</supplied></rdg>
+                        <rdg wit="#P">j. vont<supplied resp="#FD">cf. <hi rend="i">supra</hi> ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l><pb n="f. 212d"/> <expan>Po<ex>ur</ex></expan> <expan>p<ex>ar</ex>tir</expan> luy plus<note><app>
                           <rdg wit="#P">Par partir le plus de P <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
@@ -9134,7 +9134,7 @@
                   </msIdentifier>
                   <head>
                     <bibl>
-                      <title>Le Livre des Institutions des drois appelé Institute</title>, <pubPlace>Paris</pubPlace>, <publisher>Antoine Caillaut</publisher>, <date notBefore="1485-01-01" notAfter="1486-12-31"><foreign xml:lang="lat">ca</foreign> 1486</date>
+                      <title>Le Livre des Institutions des drois appelé Institute</title>, <pubPlace>Paris</pubPlace>, <publisher>Antoine Caillaut</publisher>, <date notBefore="1485-01-01" notAfter="1486-12-31"><hi rend="i">ca</hi> 1486</date>
                     </bibl>
                   </head>
                   <msContents>
@@ -9694,7 +9694,7 @@
                   </physDesc>
                   <history>
                     <origin>
-                      <origDate notBefore="1485-01-01" notAfter="1486-12-31"><foreign xml:lang="lat">ca</foreign> 1486</origDate>
+                      <origDate notBefore="1485-01-01" notAfter="1486-12-31"><hi rend="i">ca</hi> 1486</origDate>
                       <origPlace>Paris</origPlace>
                     </origin>
                   </history>

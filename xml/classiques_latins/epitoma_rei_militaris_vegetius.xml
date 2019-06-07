@@ -779,7 +779,7 @@
                 <msName type="sigle" resp="Löfstedt">M</msName>
               </msIdentifier>
               <msContents>
-                <p><title type="ancien">Les droiz anciens que souloient avoir les grans maistres des arbalestriers en France</title>, f. Av (inc. <seg type="incipit">Le maistre des arbalestriers de son droit a toute la cure, garde et administracion avec la congnoissance des gens de pié...</seg>) ; <title type="ancien">Ordene de chevalerie</title> [titre : <title type="ancien">Cy fine le livre nommé l’ordre de chevalerie</title> f. 32v] f. 1-32v (inc. prologue f. 1 <seg type="incipit">A la louence et a la gloire de la pourveance divine, Dieu qui est sires et roy souverain par dessus toutes choses celestielles et terrestres</seg>... ; inc. chap. 1, f. 1v <seg type="incipit">En une terre avint que un saige chevalier qui longuement avoit maintenu l’ordre de chevalerie...</seg>) ; f. 33-34v blancs ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">C’est le livre de Vegesse de l’art de chevalerie lequel est devisé en quatre livres ainsi qu’il s’ensuit</title> (rubr.) f. 35 ; <title type="ancien">Cy fine le livre de Vegece de l’art de chevalerie lequel noble prince Jehan conte d’Eu fist translater de latin en françois par maistre Jehan de Meun l’an de l’incarnation de nostre seigneur mil deux <foreign>[cent]</foreign> quatre vins et quatre</title> f. 117v] f. 35-117v ; résumé des accusations portées contre Enguerrand de Marigny f. 118-119v (inc. d’une main différente des 2 textes précédents <seg type="incipit">L’an de grace mil IIIC quatorze le samedi devant pasques fleuries au boys de Vincennes proposa maistre Jehan de Marigny les raisons qui ensuivent</seg>...).</p>
+                <p><title type="ancien">Les droiz anciens que souloient avoir les grans maistres des arbalestriers en France</title>, f. Av (inc. <seg type="incipit">Le maistre des arbalestriers de son droit a toute la cure, garde et administracion avec la congnoissance des gens de pié...</seg>) ; <title type="ancien">Ordene de chevalerie</title> [titre : <title type="ancien">Cy fine le livre nommé l’ordre de chevalerie</title> f. 32v] f. 1-32v (inc. prologue f. 1 <seg type="incipit">A la louence et a la gloire de la pourveance divine, Dieu qui est sires et roy souverain par dessus toutes choses celestielles et terrestres</seg>... ; inc. chap. 1, f. 1v <seg type="incipit">En une terre avint que un saige chevalier qui longuement avoit maintenu l’ordre de chevalerie...</seg>) ; f. 33-34v blancs ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">C’est le livre de Vegesse de l’art de chevalerie lequel est devisé en quatre livres ainsi qu’il s’ensuit</title> (rubr.) f. 35 ; <title type="ancien">Cy fine le livre de Vegece de l’art de chevalerie lequel noble prince Jehan conte d’Eu fist translater de latin en françois par maistre Jehan de Meun l’an de l’incarnation de nostre seigneur mil deux <hi rend="i">[cent]</hi> quatre vins et quatre</title> f. 117v] f. 35-117v ; résumé des accusations portées contre Enguerrand de Marigny f. 118-119v (inc. d’une main différente des 2 textes précédents <seg type="incipit">L’an de grace mil IIIC quatorze le samedi devant pasques fleuries au boys de Vincennes proposa maistre Jehan de Marigny les raisons qui ensuivent</seg>...).</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -1110,7 +1110,7 @@
                 <decoDesc>
                   <p>Illustration : 1 miniature f. 3 (largeur de 2 colonnes, hauteur de 8 lignes) au début du premier livre, proche du « groupe
                     <quote>« Méliacin »</quote> » ; initiale historiée (scène de dédicace)
-                    <foreign>ibid</foreign>.</p>
+                    <hi rend="i">ibid</hi>.</p>
                 </decoDesc>
               </physDesc>
               <history>
@@ -1256,7 +1256,7 @@
                   <locus>f. 2c-9c</locus>
                   <title>Texte</title>
                   <incipit>Par nulle chose nos ne veons que li peuples de Rome ait soumis a soy tout li monde senon par le huerement des armes et par la descipline des homes et par l’usance de la chevalerie...</incipit>
-                  <explicit>...car sertaine chose est que por mains peut l’en mener les siens as armes que les estranges par loyer. <lb/>Ci commensent li chapistles dou segont livre de l’art de chevalerie et de batailles <foreign>(rubr.)</foreign></explicit>
+                  <explicit>...car sertaine chose est que por mains peut l’en mener les siens as armes que les estranges par loyer. <lb/>Ci commensent li chapistles dou segont livre de l’art de chevalerie et de batailles <hi rend="i">(rubr.)</hi></explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -1270,7 +1270,7 @@
                   <locus>f. 10a-18d</locus>
                   <title>Texte</title>
                   <incipit>Sire empereres coneue chose est par vos trionfes et par vos victoires la vostre benignité retenir atempreement les establissemens des plus anciens de la partie armee...</incipit>
-                  <explicit>En la legion portoit o soy tout autres choses qui fussent mestiez a quelque maniere se fust ou batailles par coy la ou elle fichoit s’ententes si faisoit ausi come une cités <lb/>Ici fenist li livres qui nous enseigne la costume et l’usance de l’anciene chevalerie Et coment l’ost des peons doit estre enseignee et ordenee <foreign>(rubr.)</foreign>.</explicit>
+                  <explicit>En la legion portoit o soy tout autres choses qui fussent mestiez a quelque maniere se fust ou batailles par coy la ou elle fichoit s’ententes si faisoit ausi come une cités <lb/>Ici fenist li livres qui nous enseigne la costume et l’usance de l’anciene chevalerie Et coment l’ost des peons doit estre enseignee et ordenee <hi rend="i">(rubr.)</hi>.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -1291,7 +1291,7 @@
                   <title>Texte</title>
                   <incipit><seg type="rubric">En quel maniere doit estre d’ost.</seg>
                     <lb/>Le premier livre nos promist le eslisement et l’euvrement des tirons et li segons livre qui nos enseigne l’ordenement de la legion et la descipline des homes d’armes...</incipit>
-                  <explicit>Come ce soit chose que elles soient creus d’estre proufitable a tous <lb/>Ci comensent les chapistres dou quart livre et parollent premierement coment les cités doivent estre garnies. <foreign>(rubr.)</foreign></explicit>
+                  <explicit>Come ce soit chose que elles soient creus d’estre proufitable a tous <lb/>Ci comensent les chapistres dou quart livre et parollent premierement coment les cités doivent estre garnies. <hi rend="i">(rubr.)</hi></explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -1542,7 +1542,7 @@
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
-                  <bibl>C. Gaspar, F. Lyna <foreign>et alii</foreign>, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Paris, 1937, p. 331 et pl. LXXb ; 2e partie, Paris, 1984, p. 70</bibl>
+                  <bibl>C. Gaspar, F. Lyna <hi rend="i">et alii</hi>, <title>Les principaux manuscrits à peintures de la Bibliothèque royale de Belgique</title>, Paris, 1937, p. 331 et pl. LXXb ; 2e partie, Paris, 1984, p. 70</bibl>
                   <bibl><title>La librairie de Philippe le Bon, catalogue de l’exposition organisée à l’occasion du 500e anniversaire de la mort du duc</title>, Bruxelles, 1967, n° 230, p. 147-148</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
@@ -1562,7 +1562,7 @@
                 <listBibl>
                   <bibl>P. Meyer, « Les manuscrits français de Cambridge ; IV Gonville et Caius College », dans <title>Romania</title>, t. 36, 1907, p. 522-531</bibl>
                   <bibl>M. R. James, <title>A descriptive catalogue of the manuscripts in the Library of Gonville and Caius College</title>, t. II, Cambridge, 1908, p. 495-496</bibl>
-                  <bibl>K. Busby, « Three anglo-norman redactions of <foreign>L’ordene de chevalerie</foreign> », dans <title>Mediaeval Studies</title>, t. 46, 1984, p. 33-34</bibl>
+                  <bibl>K. Busby, <title xml:lang="en">« Three anglo-norman redactions of <foreign xml:lang="fro">L’ordene de chevalerie</foreign> »</title>, dans <title>Mediaeval Studies</title>, t. 46, 1984, p. 33-34</bibl>
                   <bibl>notice J. Monfrin</bibl>
                 </listBibl>
               </additional>
@@ -1627,14 +1627,14 @@
                 <msIdentifier><idno>I</idno></msIdentifier>
                 <msContents>
                   <p>
-                    <bibl><title>Faythes of armes of chyvalrye</title>, traduction imprimée par <publisher>Caxton</publisher> du <title>Livre des faits d’armes de chevalerie</title> de <persName type="ancien">Christine de Pizan</persName></bibl>
+                    <bibl><title xml:lang="en">Faythes of armes of chyvalrye</title>, traduction imprimée par <publisher>Caxton</publisher> du <title>Livre des faits d’armes de chevalerie</title> de <author>Christine de Pizan</author></bibl>
                   </p>
                 </msContents>
               </msPart>
               <msPart>
                 <msIdentifier><idno>II</idno></msIdentifier>
                 <msContents>
-                  <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commence le livre et l’istoire de Flave Vegece des fais et proesses de chevalerie translaté de latin en françois qui parle en brief dez fais de R[ommains?]</title> f. 1  ; <title type="ancien">Ci finent lez rubriches ou chapistres du secont livre de Flave Vegece ou de la chose dez faiz de chevalerie</title> f. 17v ; <title type="ancien">Ci finist le livre Flave Vegece de la chose qui est en chevalerie translaté de latin en françois mot a mot selon le latin etc.</title> f. 77v] f. 1-77v ; <title>Le dit des trois mors et des trois vifs</title> f. 78-79v ; poème sur la parabole du mauvais riche [titre : <title type="ancien">Ci commence l’istoire du mauvais riche homme</title> f. 80 ; inc. <seg type="incipit">Devant l’uys au riche homme le ladre trespassa</seg>...] f. 80-81v ; quatrains moraux f. 81v-82v [titre : <title type="ancien">Ci aprés s’ensuit de la fauseté du monde</title>, f. 81v ; inc. <seg type="incipit">Le monde sez amis par raison honneure...</seg>] ; <title>Le despit du cors</title> f. 82v-85v ; <title>Débat du corps et de l’ame (visio Philiberti)</title> f. 85v-90v (inc. <seg type="incipit">Une grant vision en ce livre est escripte <lb/>Jadis fu revellee a dam Philbert l’ermite</seg>... f. 85v) ; enseignement moral en sizains d’octosyllabes [titres : <title type="ancien">Ci aprés commence un tresbon enseignement pour un chascun de quelque estat qu’i soit soit home au femme</title>, f. 91 ;
+                  <p>traduction de l’<title xml:lang="lat">Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commence le livre et l’istoire de Flave Vegece des fais et proesses de chevalerie translaté de latin en françois qui parle en brief dez fais de R[ommains?]</title> f. 1  ; <title type="ancien">Ci finent lez rubriches ou chapistres du secont livre de Flave Vegece ou de la chose dez faiz de chevalerie</title> f. 17v ; <title type="ancien">Ci finist le livre Flave Vegece de la chose qui est en chevalerie translaté de latin en françois mot a mot selon le latin etc.</title> f. 77v] f. 1-77v ; <title>Le dit des trois mors et des trois vifs</title> f. 78-79v ; poème sur la parabole du mauvais riche [titre : <title type="ancien">Ci commence l’istoire du mauvais riche homme</title> f. 80 ; inc. <seg type="incipit">Devant l’uys au riche homme le ladre trespassa</seg>...] f. 80-81v ; quatrains moraux f. 81v-82v [titre : <title type="ancien">Ci aprés s’ensuit de la fauseté du monde</title>, f. 81v ; inc. <seg type="incipit">Le monde sez amis par raison honneure...</seg>] ; <title>Le despit du cors</title> f. 82v-85v ; <title>Débat du corps et de l’ame (visio Philiberti)</title> f. 85v-90v (inc. <seg type="incipit">Une grant vision en ce livre est escripte <lb/>Jadis fu revellee a dam Philbert l’ermite</seg>... f. 85v) ; enseignement moral en sizains d’octosyllabes [titres : <title type="ancien">Ci aprés commence un tresbon enseignement pour un chascun de quelque estat qu’i soit soit home au femme</title>, f. 91 ;
                     <title type="ancien">Ci fenist le livre je vois morir</title>, f. 95] f. 91-95 : inc. <seg type="incipit">Je vois morir ; venés avant <lb/>Tuit cil qui ores este vivant</seg>... ; f. 95v blanc ; <title type="ancien">Le Doctrinal aux simples gens</title> incomplet de la fin f. 96-103v</p>
                 </msContents>
                 <physDesc>
@@ -1720,7 +1720,7 @@
               <msContents>
                 <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commencent les tytres qui sont diz les rebriches des chapistres du livre qui est nommé Flave Vegeste de la choze de chevalerie</title> (rubr.) f. 1a ;
                   <title type="ancien">Ci finent les VIxx et VIIII rebriches de chapistres desuz dis du livre Flave Vegesce et de la chose de chevalerie</title> (rubr.) f. 3a ; <title type="ancien">Explicit Vegesce de chevalerie</title> f. 31c] : table des chapitres f. 1a-3a ; prologue du traducteur f. 3b-d (<seg type="incipit">Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier monstre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont</seg>
-                  <foreign>(rubr.)</foreign>) ; prologue de Végèce f. 4a-b (<seg type="incipit">Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace c’est Dieu et apele ce livre le livre de l’excercitation c’est a dire le livre de l’usage d’armes</seg>... (rubr.) f. 3d) ; texte f. 4b-31c.</p>
+                  <hi rend="i">(rubr.)</hi>) ; prologue de Végèce f. 4a-b (<seg type="incipit">Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace c’est Dieu et apele ce livre le livre de l’excercitation c’est a dire le livre de l’usage d’armes</seg>... (rubr.) f. 3d) ; texte f. 4b-31c.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -1763,7 +1763,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1380" notAfter="1405">fin du XIV<hi rend="sup">e</hi> s. (proche du ms Paris, bibl. de l’Arsenal 2071, f. 105 [1382], <title>Mss datés</title>, t. I, pl. 58)</origin>
-                <provenance><p>Possesseurs : <persName role="possesseur" key="Jean de Berry">Jean duc de Berry</persName> (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque impériale</title>, Paris, 1868-1881, t. III, p. 186 ; Id., <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 253 et 305 (avant 1402)) ; <persName role="possesseur" key="Marie de Berry, duchesse de Bourbonnais">Marie, duchesse de Bourbonnais</persName>, fille du duc de Berry, femme de Jean Ier duc de Bourbon ; <persName role="possesseur" key="Jean II, duc de Bourbon">Jean II duc de Bourbon</persName> († 1484) (<quote>« Ce livre est au duc de Bourbon <note>[sign. <foreign>infra</foreign>]</note> Jehan »</quote> f. 4a) qui le conservait au château de Moulins, où il fut confisqué, après la condamnation de Bourbon, en 1523, par François Ier.</p></provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Jean de Berry">Jean duc de Berry</persName> (cf. L. Delisle, <title>Le cabinet des manuscrits de la Bibliothèque impériale</title>, Paris, 1868-1881, t. III, p. 186 ; Id., <title>Recherches sur la librairie de Charles V</title>, Paris, 1907, t. II, p. 253 et 305 (avant 1402)) ; <persName role="possesseur" key="Marie de Berry, duchesse de Bourbonnais">Marie, duchesse de Bourbonnais</persName>, fille du duc de Berry, femme de Jean Ier duc de Bourbon ; <persName role="possesseur" key="Jean II, duc de Bourbon">Jean II duc de Bourbon</persName> († 1484) (<quote>« Ce livre est au duc de Bourbon <note>[sign. <hi rend="i">infra</hi>]</note> Jehan »</quote> f. 4a) qui le conservait au château de Moulins, où il fut confisqué, après la condamnation de Bourbon, en 1523, par François Ier.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -1809,7 +1809,7 @@
                 <msName type="sigle" resp="Löfstedt">V</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par Henri de Gauchi f. 1a-134d [titre : <title type="ancien">Ci commance le livre du gouvernement des roys et des princes comment il se doivent gouverner chascun en son royaume</title> (rubr.) f. 1] ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titre : <title type="ancien">Ici commance li livres Flave Vegesce de la chose de chevalerie</title>, f. 135a ; <title type="ancien">Explicit le livre des enseignemens de la <foreign>[ba]</foreign>taille par mer et par terre</title> f. 168d] f. 135a-168d : table des matières au début des livres II à IV.</p>
+                <p>traduction du <title>De regimine principum</title> de <persName type="ancien">Gilles de Rome</persName> par Henri de Gauchi f. 1a-134d [titre : <title type="ancien">Ci commance le livre du gouvernement des roys et des princes comment il se doivent gouverner chascun en son royaume</title> (rubr.) f. 1] ; traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titre : <title type="ancien">Ici commance li livres Flave Vegesce de la chose de chevalerie</title>, f. 135a ; <title type="ancien">Explicit le livre des enseignemens de la <hi rend="i">[ba]</hi>taille par mer et par terre</title> f. 168d] f. 135a-168d : table des matières au début des livres II à IV.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -1938,11 +1938,11 @@
             <date when="1380">1380</date>
           </dateline>
           <listBibl>
-            <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
+            <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <hi rend="i">et alii</hi>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
           </listBibl>
           <div type="incipit">
             <head>Incipit</head>
-            <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
+            <bibl>l'édition L. Löfstedt <hi rend="i">et alii</hi></bibl>
             <msDesc corresp="#kbr_11046"><!-- type="biblissima" -->
               <msIdentifier>
                 <settlement>Bruxelles</settlement>
@@ -1970,14 +1970,14 @@
           <date when="1380">1380</date>
         </dateline>
         <p>La traduction anonyme dont les deux manuscrits portent au commencement du texte la date de 1380 a deux marques distinctives : d’une part, l’absence d’une traduction littérale du chapitre 26 du livre III (<title>Regulae belli generales</title>) et,
-          <quote>« de l’autre, l’addition, à la fin du livre, d’une traduction versifiée de ce chapitre (<title>Riules</title>...). Observons également l’absence des prologues des livres II, III et IV, ainsi que l’absence d’une traduction du chapitre 17 du livre II.  »</quote> (<title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989, p. 5). Cette traduction est beaucoup plus libre que celles de Jean de Meun et de Jean de Vignay, bien qu’elle comprenne beaucoup de latinismes. On ne sait précisément d’où elle vient et elle n’a eu qu’une faible diffusion.</p>
+          <quote>« de l’autre, l’addition, à la fin du livre, d’une traduction versifiée de ce chapitre (<title>Riules</title>...). Observons également l’absence des prologues des livres II, III et IV, ainsi que l’absence d’une traduction du chapitre 17 du livre II.  »</quote> (<title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <hi rend="i">et alii</hi>, Helsinki, 1989, p. 5). Cette traduction est beaucoup plus libre que celles de Jean de Meun et de Jean de Vignay, bien qu’elle comprenne beaucoup de latinismes. On ne sait précisément d’où elle vient et elle n’a eu qu’une faible diffusion.</p>
         <listBibl>
-          <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
+          <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <hi rend="i">et alii</hi>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236)</bibl>
           <bibl>P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988, V024</bibl>
         </listBibl>
         <div type="incipit">
           <head>Incipit</head>
-          <bibl>l'édition L. Löfstedt <foreign>et alii</foreign></bibl>
+          <bibl>l'édition L. Löfstedt <hi rend="i">et alii</hi></bibl>
           <msDesc corresp="#kbr_11046"><!-- type="biblissima" -->
             <msIdentifier>
               <settlement>Bruxelles</settlement>
@@ -2048,7 +2048,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1415" notAfter="1425">vers 1420 (proche du ms Bruxelles, Bibl. royale II 2609, f. 2 [1430], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1401-1440</title>, Bruxelles-Gand, 1972, t. II, pl. 326)</origin>
-                <provenance><p>Possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armes peintes f. 1), <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (<quote>« Cest livre nommé l’art de chevalerie ou il n’y a que une histoire et est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote> f. 75), <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName>.</p></provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armes peintes f. 1), <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> (<quote>« Cest livre nommé l’art de chevalerie ou il n’y a que une histoire et est a monseigneur Charles de Croÿ, comte de Chimay <hi rend="i">[signé]</hi> Charles »</quote> f. 75), <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName>, <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName>.</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
@@ -2086,7 +2086,7 @@
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
                 <listBibl>
-                  <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <foreign>et alii</foreign>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236), p. 8-11 [notice d'O. Merisalo]</bibl>
+                  <bibl><title>Le Livre de l’art de chevalerie de Vegece</title>, traduction anonyme de 1380, éd. L. Löfstedt <hi rend="i">et alii</hi>, Helsinki, 1989 (Suomalaisen Tiedeakatemian toimituksia, B 236), p. 8-11 [notice d'O. Merisalo]</bibl>
                   <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, p. 282-368, notice p. 361-364</bibl>
                   <bibl>R. H. Rouse et M. A. Rouse, <title>Manuscripts and their makers, Commercial Book Producers in Medieval Paris 1200-1500</title>, Londres, 2000, t. II, p. 122</bibl>
                   <bibl>notice J. Monfrin</bibl>
@@ -2118,7 +2118,7 @@
             <msContents>
               <msItem>
                 <locus>p. 292-297</locus>
-                <incipit><foreign>Prima regula <lb/>In omnibus expeditionis preliis condicio talis est ut quod tibi prodest adversarium tuum noceat ; quod illum adjuvat tibi sempert officiat</foreign>
+                <incipit><foreign xml:lang="lat">Prima regula <lb/>In omnibus expeditionis preliis condicio talis est ut quod tibi prodest adversarium tuum noceat ; quod illum adjuvat tibi sempert officiat</foreign>
                   <lb/>Premiere regle <lb/>En toutes bataillez de despechement et de outrance la condicion est telle que ceu que te profficte soit nuissant ad ton adversaire et que ceu que [la] l’aide te soit grevant.</incipit>
                 <explicit>XIIIIe maniere <lb/>Per quelle maniere que tu dois combaitre tes anemis ne leu sachent point adfin que par aucun remede il ne se provoient de resister.</explicit>
               </msItem>
@@ -2136,7 +2136,7 @@
               </msIdentifier>
               <msContents>
                 <p>recueil de pièces didactiques ou morales. Volume consacré principalement à l’oeuvre de <persName type="ancien">Jean de Meun</persName> : <title>Roman de la Rose</title> f. 2a-144c  ; traduction des <title>Regulae belli generales</title> [titres  :
-                  <title type="ancien">Icy s’enxeut lez regles dou governement dez baitelles astraictez dou libre de Vegecez de l’art de chevallerie et sont premierement en latin et en romant translatees</title> f. 144d ; <title type="ancien">Expliciunt regule artis belicose in latino et in galico</title> f. 147v <foreign>sic</foreign>] f. 144d-147v ; <title>Testament</title> f. 148-174 ;
+                  <title type="ancien">Icy s’enxeut lez regles dou governement dez baitelles astraictez dou libre de Vegecez de l’art de chevallerie et sont premierement en latin et en romant translatees</title> f. 144d ; <title type="ancien">Expliciunt regule artis belicose in latino et in galico</title> f. 147v <hi rend="i">sic</hi>] f. 144d-147v ; <title>Testament</title> f. 148-174 ;
                   <title>Codicille</title> f. 174v-175 ; f. 175-177v blancs ; etc.</p>
               </msContents>
               <physDesc>
@@ -2199,7 +2199,7 @@
                 <msName type="sigle" resp="Löfstedt">B</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">S’ensuivent les tiltes des chapitres du premier livre des strategemes</title> f. 4v ; <title type="ancien">Cy fine le premier livre de Jule Frontin et commance le prologue du tiers</title> <foreign>sic</foreign> (rubr.) f. 49v ; <title type="ancien">Cy fine le IIe livre de Jule Frontin et commance le prologue du tiers</title> (rubr.) f. 108v] : prologue du traducteur f. 2-4v incomplet du début (inc. ...<seg type="incipit">racontees toutes les plus notables exemples de toutes les cautelles et soubtilletez qui aient esté faites en armes...</seg>) ; table des chapitres des 4 livres f. 4v-6v ; texte f. 7-170v (livre I f. 7-49v, II f. 50-108v, III f. 108v-138, IV f. 138v-170v) : à l’exception du livre I, une table des chapitres vient s’intercaler entre le prologue de chaque livre et le premier chapitre ; en marge, numérotation en chiffres romains et à l’encre rouge des « <hi rend="i">exemples</hi> » à l’intérieur de chaque chapitre ; dans la marge supérieure, titre courant rubriqué indiquant le numéro du livre et celui du chapitre à chaque page ; glossaire f. 170v-172v (<seg type="incipit">S’ensuit la declaracion d’aucuns noms qui sont en ce livre, lesquelx ne se pouoient bonnement translater de mot a mot sans aucune obscureté</seg>... f. 170v) ; traduction partielle de l’<title>Epitoma rei militaris</title> de Végèce [titre :
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">S’ensuivent les tiltes des chapitres du premier livre des strategemes</title> f. 4v ; <title type="ancien">Cy fine le premier livre de Jule Frontin et commance le prologue du tiers</title> <hi rend="i">sic</hi> (rubr.) f. 49v ; <title type="ancien">Cy fine le IIe livre de Jule Frontin et commance le prologue du tiers</title> (rubr.) f. 108v] : prologue du traducteur f. 2-4v incomplet du début (inc. ...<seg type="incipit">racontees toutes les plus notables exemples de toutes les cautelles et soubtilletez qui aient esté faites en armes...</seg>) ; table des chapitres des 4 livres f. 4v-6v ; texte f. 7-170v (livre I f. 7-49v, II f. 50-108v, III f. 108v-138, IV f. 138v-170v) : à l’exception du livre I, une table des chapitres vient s’intercaler entre le prologue de chaque livre et le premier chapitre ; en marge, numérotation en chiffres romains et à l’encre rouge des « <hi rend="i">exemples</hi> » à l’intérieur de chaque chapitre ; dans la marge supérieure, titre courant rubriqué indiquant le numéro du livre et celui du chapitre à chaque page ; glossaire f. 170v-172v (<seg type="incipit">S’ensuit la declaracion d’aucuns noms qui sont en ce livre, lesquelx ne se pouoient bonnement translater de mot a mot sans aucune obscureté</seg>... f. 170v) ; traduction partielle de l’<title>Epitoma rei militaris</title> de Végèce [titre :
                   <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 173] f. 173-185v.</p>
               </msContents>
               <physDesc>
@@ -2249,7 +2249,7 @@
                 <msName type="sigle" resp="Löfstedt">N</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Cy fine le premier livre de Jules Frontin et commence le prologue du tiers</title> <foreign>sic</foreign> f. 41v] f. 1-138 : incomplète du début du livre I (inc. ...<seg type="incipit">quant il vit du tartre qu’il avoit suspeçonné une grant force d’oiseaux</seg>... f. 1 [I.2 = fr. 1233, f. 7a]) ; glossaire f. 138v-140 ; extraits traduits de l’<title>Epitoma rei militaris</title> de <persName type="ancien">Végèce</persName> [titre : <title type="ancien">S’ensuivent aucuns notables extraiz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentils hommes en la science des armes et de chevalerie</title> f. 140v] f. 140v-141v : incomplets de la fin (expl. <seg type="explicit">Il appartient aux plus grans et dit estaz leur</seg>... I.7 fin, éd. L. Löfstedt, p. 300).</p>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Cy fine le premier livre de Jules Frontin et commence le prologue du tiers</title> <hi rend="i">sic</hi> f. 41v] f. 1-138 : incomplète du début du livre I (inc. ...<seg type="incipit">quant il vit du tartre qu’il avoit suspeçonné une grant force d’oiseaux</seg>... f. 1 [I.2 = fr. 1233, f. 7a]) ; glossaire f. 138v-140 ; extraits traduits de l’<title>Epitoma rei militaris</title> de <persName type="ancien">Végèce</persName> [titre : <title type="ancien">S’ensuivent aucuns notables extraiz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentils hommes en la science des armes et de chevalerie</title> f. 140v] f. 140v-141v : incomplets de la fin (expl. <seg type="explicit">Il appartient aux plus grans et dit estaz leur</seg>... I.7 fin, éd. L. Löfstedt, p. 300).</p>
               </msContents>
               <physDesc>
                 <objectDesc>

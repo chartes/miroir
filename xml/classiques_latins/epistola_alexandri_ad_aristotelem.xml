@@ -74,7 +74,7 @@
         <listBibl>
           <bibl><title>Epistola Alexandri ad Aristotelem</title>, éd. W. Boer, Meisenheim am Glan, 1973 (Beiträge zur klassischen Philologie, 50) [édition de la version vulgate]</bibl>
           <bibl>E. Hanetseder, « Der angebliche Brief Alexanders an Aristoteles über die Wunder Indiens, eine sprachliche Untersuchung der Fassung der Bamberger Handschrift », dans <title>Bulletin Du Cange, Archivium latinitatis Medii Aevi</title>, 1992-1993, t. 51, p. 167-200 [sur la 2e rédaction]</bibl>
-          <bibl>J. B. Voorbij, « Medieval dossiers and modern stemmas : an exploration of manuscripts of the <title>Epistola Alexandri ad Aristotelem</title> », dans P. van Reenen et <foreign>alii</foreign> (éd.), <title>Studies in Stemmatology</title>, Amsterdam, 1996, p. 209-232</bibl>
+          <bibl>J. B. Voorbij, « Medieval dossiers and modern stemmas : an exploration of manuscripts of the <title>Epistola Alexandri ad Aristotelem</title> », dans P. van Reenen et <hi rend="i">alii</hi> (éd.), <title>Studies in Stemmatology</title>, Amsterdam, 1996, p. 209-232</bibl>
         </listBibl>
       </div>
       <div type="traduction" xml:id="anonyme">
@@ -234,7 +234,7 @@
               </physDesc>
               <history>
                 <origin notBefore="1445" notAfter="1465">Bruges, c . 1450-1460 (proche du ms Bruxelles, Bibl. royale, IV. 467, f. 1, f. 8 [1470], F. Masai et M. Wittek (dir.), <title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, 1982, t. IV, pl. 838)</origin>
-                <provenance><p>Possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armoiries f. 10) († 1482) ; <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> († 1527) (ex libris f. 90v : <quote>« C’est le livre du roy Alixandre ou yl y a deux histoires, lequel est a monseigneur Charles de Croÿ, comte de Chimay <foreign>[signé]</foreign> Charles »</quote>) ; <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquis en 1511) ; <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (passe en 1530 ; ex libris à l’intérieur du plat antérieur de la relieur) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (1559).</p></provenance>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe Ier de Croÿ</persName> (armoiries f. 10) († 1482) ; <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> († 1527) (ex libris f. 90v : <quote>« C’est le livre du roy Alixandre ou yl y a deux histoires, lequel est a monseigneur Charles de Croÿ, comte de Chimay <hi rend="i">[signé]</hi> Charles »</quote>) ; <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquis en 1511) ; <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (passe en 1530 ; ex libris à l’intérieur du plat antérieur de la relieur) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (1559).</p></provenance>
               </history>
               <additional>
                 <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>

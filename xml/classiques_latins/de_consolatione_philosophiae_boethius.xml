@@ -80,7 +80,7 @@
         <listBibl>
           <bibl>P. Courcelle, <title>La Consolation de Philosophie dans la tradition littéraire</title>, Paris, 1967</bibl>
           <bibl>F. Troncarelli, <title>Boethiana aetas. Modelli grafici e fortuna manoscritta della Consolatio Philosophiae tra IX° e XII° secolo</title>, Alexandria, 1987</bibl>
-          <bibl>M. J.F.M. Hoenen et L. Lodi Nauta (éd.), <title>Boethius in the Middle Ages, latin and vernacular traditions of the <foreign>Consolatio Philosophiae</foreign>, Leiden-New York-Köln, 1997</title></bibl>
+          <bibl>M. J.F.M. Hoenen et L. Lodi Nauta (éd.), <title>Boethius in the Middle Ages, latin and vernacular traditions of the <foreign xml:lang="lat">Consolatio Philosophiae</foreign>, Leiden-New York-Köln, 1997</title></bibl>
           <bibl><title>Codices Boethiani : A conspectus of manuscripts of the works of Boethius</title>, vol. II : <title>Austria, Belgium, Denmark, Luxembourg, the Netherlands, Sweden, Switzerland</title>, London, 2001</bibl>
           <bibl>O. Mazal, <title>Die Überlieferung der antiken Literatur im Buchdruck der 15. Jahrhunderts</title>, Stuttgart, 2003, t. III, p. 570-580</bibl>
           <bibl>C. H. Kneepkens, « The reception of Boethius de Consolatione in the later Middle Ages : The Wolfenbüttel quaestiones and Buridan's quaestiones on the Ethics », dans A. Galonnier (éd.), <title>Boèce ou la chaîne des savoirs, Actes du colloque international de la Fondation Singer-Polignac, Paris, 8-12 juin 1999</title>, Louvain-la-Neuve, 2003, p. 714-749</bibl>
@@ -100,7 +100,7 @@
         <head>Traductions françaises</head>
         <p>Comme dans le reste du répertoire, les différentes traductions sont classées par ordre chronologique, même si celui-ci peut prêter ponctuellement à discussion. Afin d’éviter toute confusion, le titre de chaque traduction est suivi entre parenthèses du numéro d’ordre correspondant dans l’étude fondamentale de M. Roques et A. Thomas, « Traductions françaises de la <title>Consolatio Philosophiae</title> de Boèce », dans <title>Histoire littéraire de la France</title>, Paris, 1938, t. XXXVII, p. 419-488, 544-545.</p>
         <listBibl>
-          <bibl>G. M. Cropp, « The Medieval French Tradition », dans M. J.F.M. Hoenen et L. Lodi Nauta (éd.), <title>Boethius in the Middle Ages, latin and vernacular traditions of the <foreign>Consolatio Philosophiae</foreign></title>, Leiden-New York-Köln, 1997, p. 243-266 [répertoire de l'ensemble des traductions françaises]</bibl>
+          <bibl><author>G. M. Cropp</author>, <title xml:lang="en">« The Medieval French Tradition »</title>, dans <author>M. J.F.M. Hoenen et L. Lodi Nauta (éd.)</author>, <title xml:lang="en">Boethius in the Middle Ages, latin and vernacular traditions of the <foreign xml:lang="lat">Consolatio Philosophiae</foreign></title>, <pubPlace>>Leiden-New York-Köln</pubPlace>, <date>1997</date>, p. 243-266 [répertoire de l'ensemble des traductions françaises]</bibl>
         </listBibl>
         <div type="soustraduction" n="I.1" xml:id="confortement_philosofie">
           <head>
@@ -109,8 +109,8 @@
           <dateline>
             <date notBefore="1200" notAfter="1249">première moitié du XIII<hi rend="sup">e</hi> siècle</date>
           </dateline>
-          <p>Traduction anonyme en prose de la première moitié du XIII<hi rend="sup">e</hi> siècle comprenant un prologue, un commentaire et une épitaphe latine. Le commentaire s’inscrit dans la tradition de ceux de Guillaume de Conches et d’Adalbold d’Utrecht, mais il emprunte également aux Mythographies du Vatican et aux <title>Métamorphoses</title> d’Ovide. Il reste fidèle à la scolastique latine en distinguant soigneusement les explications <foreign>ad litteram</foreign>,
-            <foreign>ad sensum</foreign> et <foreign>ad sententiam</foreign>.</p>
+          <p>Traduction anonyme en prose de la première moitié du XIII<hi rend="sup">e</hi> siècle comprenant un prologue, un commentaire et une épitaphe latine. Le commentaire s’inscrit dans la tradition de ceux de Guillaume de Conches et d’Adalbold d’Utrecht, mais il emprunte également aux Mythographies du Vatican et aux <title>Métamorphoses</title> d’Ovide. Il reste fidèle à la scolastique latine en distinguant soigneusement les explications <foreign xml:lang="lat">ad litteram</foreign>,
+            <foreign xml:lang="lat">ad sensum</foreign> et <foreign xml:lang="lat">ad sententiam</foreign>.</p>
           <listBibl>
             <bibl>M. M. L. Bolton-Hall, <title>A Critical Edition of the Medieval French Prose Translations and Commentary of the ‘De Consolatione Philosophiae’ of Boethius, contained in MS 2642 of the National Library of Austria, Vienna</title>, 3 vol., The University of Queensland, 1990</bibl>
             <bibl>M. M. L. Bolton-Hall, « Del confortement de Philosofie : A Critical Edition of the Medieval French Prose Translation and Commentary of <title>De Consolatione Philosophiae</title> of Boethius Contained in MS 2642 of The National Library of Austria, Vienna », dans <title>Carmina Philosophiae</title>, t. 5-6, 1996-1997</bibl>
@@ -280,7 +280,7 @@
                 <msContents>
                   <msItem>
                     <locus>f. 27a</locus>
-                    <p>L’umaine generacions et les gens de cist monde desirent moult naturalment a oïr noves choses et a entendre noves manieres et novelles contes, et n’en est mie chose reprensibles se la novitez est de choses utiles et bones, et se elle est sobriement et utielment ordenee, porce que la nature se delite en la utiel et bone et sobrie novité, et a present moult ententivement et dilitosement la utilice de aucune escriture qant elle est novement ordenee. Et porce ge, considerant a ce, si ai pensé de doner novelle maniere de conte a une mout utiele escriture, laquele estoit por letrés et en latin en la phylosophyce livres de Boeces soutilment et oscurement descrite, au meinz a cil qi ne sievient letres. Et porce l’ai ge translaté en vulgar françois, si come autres fois l’ai mis en vulgar latin, car utiel chose me semble que a toutes genz soit clare dou douror [<foreign>sic ?</foreign>], et si sache chascun que ceste complainte et ceste oevre est coment Boeces se complaingnoit et dementoit de ses mesaventures et aversitez qi sorvenue li estoient et coment la vertus phylosophye le confortoit en semblance d’une dame. Or veons coment.</p>
+                    <p>L’umaine generacions et les gens de cist monde desirent moult naturalment a oïr noves choses et a entendre noves manieres et novelles contes, et n’en est mie chose reprensibles se la novitez est de choses utiles et bones, et se elle est sobriement et utielment ordenee, porce que la nature se delite en la utiel et bone et sobrie novité, et a present moult ententivement et dilitosement la utilice de aucune escriture qant elle est novement ordenee. Et porce ge, considerant a ce, si ai pensé de doner novelle maniere de conte a une mout utiele escriture, laquele estoit por letrés et en latin en la phylosophyce livres de Boeces soutilment et oscurement descrite, au meinz a cil qi ne sievient letres. Et porce l’ai ge translaté en vulgar françois, si come autres fois l’ai mis en vulgar latin, car utiel chose me semble que a toutes genz soit clare dou douror [<hi rend="i">sic ?</hi>], et si sache chascun que ceste complainte et ceste oevre est coment Boeces se complaingnoit et dementoit de ses mesaventures et aversitez qi sorvenue li estoient et coment la vertus phylosophye le confortoit en semblance d’une dame. Or veons coment.</p>
                   </msItem>
                 </msContents>
               </msDesc>
@@ -297,7 +297,7 @@
                 <msContents>
                   <msItem>
                     <locus>f. 52a</locus>
-                    <p>Ceste si est la conclusions de l'oevre tiele com la fist la phylosophie a Boece. Voirs est que le translateor de Boece avant la dite conclusions nos dit qe enci en plusors leus de cist vulgar non mutent la sentence dou Boece nos a dit aucune foiz plus ou meins paroules qe ne sont su le livre dou Boece et nos tant raisons por qoi il a ce feit, ce est por fere plus alumenee sa translacions et l’entelligence de la phylosophye doctrine de Boeces ; et a present ce nos conte la conclusions. <foreign>(rubr.)</foreign> <lb/>Por aventure je t’ai dit ici et en plusors leus de ceste translacions pluisors paroules, les qieles ne sont en livre de Boece et por aventure auchunes n’ai je laisies qe sus le livres de Boece sont, mais ce ai je fait en poi leus et non mutant la sentence dou livre, et ancore l’ai je fait porce qe en ce n'i est giere plus aluminee et entellective ma translations et l’entelligence de la doctrine phylosophyce de cil mirable phylosofe qi fist le livre, leqiel, selonc qe il meisme estoit clamé, apella il Boece, leqiel phylosophe por excelence doyt bien estre clamez filosophe des phylosophes et a leqiel la phylosophye en la fins de son livre fist tiele conclusions com je te ferai icic, car elle comence sa conclusions et dist en ceste mainiere pois que nos avons dist, elle prove qe la providence divine ne nos done necessitez de faire le bien et le maus et pois qe nos avons liber arbitre de faire ou de laisier le maus ou le bien, <pb n="f. 52b"/> donc est just le merit dou bien et la poine dou maus qe nos faisons, donc sont autresi utiles les petites [<foreign>sic ?</foreign>] et les merciz qerrir que nos faisons au seignor Diex et est bone la sperance et le remors divins, car se droitement nos tornons a Diex il nos est utiels, et au l'arme et au cors. Or donc est por le mielz et por le meilors consoil qe nos laisons la voie des vices et sevions la voie des vertuz et qe nos humblement prions Diex qe il en bien oevrer nos doint la soufrance et porseverance, car bien poons veoir se nos ne nos enseignons qe grant mestier nos est d’avoir convoisiment de bien et de metre nostre antentions en fere le plaisir de Diex. Certes, bien nos est mestier qe fere ce qe dit est de bien et de garder com nos ovrons, car ja ne faisons auchune chose qe ne soit toust davant les oilz de cil haut juge, leqiel conoist et voit toutes les choses et il nos dont si bien ovrer qe nos alons au suen beneoit regne en leqiel est vie durable sanz nulle fin <foreign>in secula seculorum</foreign>. Amen.</p>
+                    <p>Ceste si est la conclusions de l'oevre tiele com la fist la phylosophie a Boece. Voirs est que le translateor de Boece avant la dite conclusions nos dit qe enci en plusors leus de cist vulgar non mutent la sentence dou Boece nos a dit aucune foiz plus ou meins paroules qe ne sont su le livre dou Boece et nos tant raisons por qoi il a ce feit, ce est por fere plus alumenee sa translacions et l’entelligence de la phylosophye doctrine de Boeces ; et a present ce nos conte la conclusions. <hi rend="i">(rubr.)</hi> <lb/>Por aventure je t’ai dit ici et en plusors leus de ceste translacions pluisors paroules, les qieles ne sont en livre de Boece et por aventure auchunes n’ai je laisies qe sus le livres de Boece sont, mais ce ai je fait en poi leus et non mutant la sentence dou livre, et ancore l’ai je fait porce qe en ce n'i est giere plus aluminee et entellective ma translations et l’entelligence de la doctrine phylosophyce de cil mirable phylosofe qi fist le livre, leqiel, selonc qe il meisme estoit clamé, apella il Boece, leqiel phylosophe por excelence doyt bien estre clamez filosophe des phylosophes et a leqiel la phylosophye en la fins de son livre fist tiele conclusions com je te ferai icic, car elle comence sa conclusions et dist en ceste mainiere pois que nos avons dist, elle prove qe la providence divine ne nos done necessitez de faire le bien et le maus et pois qe nos avons liber arbitre de faire ou de laisier le maus ou le bien, <pb n="f. 52b"/> donc est just le merit dou bien et la poine dou maus qe nos faisons, donc sont autresi utiles les petites [<hi rend="i">sic ?</hi>] et les merciz qerrir que nos faisons au seignor Diex et est bone la sperance et le remors divins, car se droitement nos tornons a Diex il nos est utiels, et au l'arme et au cors. Or donc est por le mielz et por le meilors consoil qe nos laisons la voie des vices et sevions la voie des vertuz et qe nos humblement prions Diex qe il en bien oevrer nos doint la soufrance et porseverance, car bien poons veoir se nos ne nos enseignons qe grant mestier nos est d’avoir convoisiment de bien et de metre nostre antentions en fere le plaisir de Diex. Certes, bien nos est mestier qe fere ce qe dit est de bien et de garder com nos ovrons, car ja ne faisons auchune chose qe ne soit toust davant les oilz de cil haut juge, leqiel conoist et voit toutes les choses et il nos dont si bien ovrer qe nos alons au suen beneoit regne en leqiel est vie durable sanz nulle fin <foreign xml:lang="lat">in secula seculorum. Amen</foreign>.</p>
                   </msItem>
                 </msContents>
               </msDesc>
@@ -329,7 +329,7 @@
                   <locus>f. 52a</locus>
                   <title>Conclusion</title>
                   <explicit>... de cil haut juge leqiel conoist et voit toutes les choses et il nos dont si bien ovrer qe nos alons au suen beneoit regne en leqiel est vie durable sanz nulle fin
-                    <foreign>in secula seculorum</foreign> Amen.</explicit>
+                    <foreign xml:lang="lat">in secula seculorum. Amen</foreign>.</explicit>
                 </msItem>
               </msContents>
             </msDesc>
@@ -1144,7 +1144,7 @@
                 <msItem>
                   <locus>p. 34, f. 1a</locus>
                   <title>Prologue</title>
-                  <incipit>Ici commence le prologue que maistre Pieire [<foreign/>] de Paris fist sur cest livre de Boece de Consolation <lb/>La premiere creature que nostre sire Dieus forma si fu le tens Et de ce ne doyt nus estre en doute car manifeste chose est que la generation de nulle chose ne puet estre faite sens leuc...</incipit>
+                  <incipit>Ici commence le prologue que maistre Pieire <!-- LG 06/06/2019 Pourquoi cette balise foreign sans texte ? -->[<foreign/>] de Paris fist sur cest livre de Boece de Consolation <lb/>La premiere creature que nostre sire Dieus forma si fu le tens Et de ce ne doyt nus estre en doute car manifeste chose est que la generation de nulle chose ne puet estre faite sens leuc...</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 40, f. 4c - f. 87d</locus>
@@ -1207,7 +1207,7 @@
             <date notBefore="1315" notAfter="1319">vers 1315-1320</date>
           </dateline>
           <p>Première traduction entièrement en vers, plus complète et plus scrupuleuse que les deux traductions en vers ultérieures. Indépendante des traductions antérieures, elle ne semble pas avoir été utilisée par les traducteurs postérieurs. La traduction est également un commentaire, tout aussi « original » que les commentaires latins. Elle s’inscrit dans la tradition de <persName type="ancien">Guillaume de Conches</persName> et emprunte au <title>Chronicon</title> de
-            <persName type="ancien">Sigebert de Gembloux</persName>, à celui d’<persName type="ancien">Hélinand de Froidmont</persName>, à <persName type="ancien">Fulgence</persName>, aux <persName type="ancien">mythographes du Vatican</persName> et à <persName type="ancien">Bernard Sylvestre</persName>. De larges emprunts sont également faits à <persName type="ancien">Guillaume d’Aragon</persName>. Le texte, destiné à des laïcs ayant des rudiments de latin et maîtrisant la technique du commentaire scolastique, est précédé d’un long prologue de 614 octosyllabes qui fait office d’<foreign>accessus ad auctorem</foreign>.</p>
+            <persName type="ancien">Sigebert de Gembloux</persName>, à celui d’<persName type="ancien">Hélinand de Froidmont</persName>, à <persName type="ancien">Fulgence</persName>, aux <persName type="ancien">mythographes du Vatican</persName> et à <persName type="ancien">Bernard Sylvestre</persName>. De larges emprunts sont également faits à <persName type="ancien">Guillaume d’Aragon</persName>. Le texte, destiné à des laïcs ayant des rudiments de latin et maîtrisant la technique du commentaire scolastique, est précédé d’un long prologue de 614 octosyllabes qui fait office d’<foreign xml:lang="lat">accessus ad auctorem</foreign>.</p>
           <listBibl>
             <bibl>J. K. Atkinson, « An Early Fourteenth Century French Boethian Orpheus », dans <title>Parergon</title>, t. 26, 1980 (<title>Special Issue of the Bulletin of the Australian and New Zealand Association for Medieval Renaissance Studies</title>)</bibl>
             <bibl>J. K. Atkinson, « A Fourteenth Consolatio Philosophiae », dans A. J. Minnis (éd.), <title>The Medieval Boethius : Studies in the Vernacular Translations of De Consolatione Philosophiae</title>, Bury St. Edmunds, 1987, p. 37-62</bibl>
@@ -2716,7 +2716,7 @@
               <msContents>
                 <msItem>
                   <locus>f. 86v</locus>
-                  <p>C’est le congié de l’escrivain <foreign>(rubr)</foreign><lb/>Icy endroit fine Boece<lb/>En qui peuent trouver l’adresce<lb/>homs et femmes par ses recors<lb/>A sauver leurs ames et corps,<lb/>Non pas eulz laissier tourmenter<lb/>De desespoir ne seurmonter<lb/>En orgueil, l’ort pechié terrible,<lb/>Le plus grief de tous et horrible,<lb/>Ainçois est d’avoir pacience<lb/>Nuit et jour et querre science<lb/>Glorieuse pour Dieu amer,<lb/>Requerir, servir, honnorer<lb/>Et la doulce vierge Marie<lb/>Sur tous les cielx d’anges chierie<lb/>En qui divine pourveance<lb/>Se mist et ot double substance<lb/>merveilleuse pour nostre amour<lb/>aus quelx prierons sans demour<lb/>jointes mains que ilz gardent d’yre<lb/>li vaillans homs qui fist escrire<lb/>le livre assez bien compassez<lb/>et les ames des trespassez<lb/>vueillent garder de maulx liens<lb/>R. dit amen d’Orliens.<lb/>Qui cest escript a droit verra,<lb/>Nom et seurnom y trouvera <foreign>(rubr.)</foreign></p>
+                  <p>C’est le congié de l’escrivain <hi rend="i">(rubr)</hi><lb/>Icy endroit fine Boece<lb/>En qui peuent trouver l’adresce<lb/>homs et femmes par ses recors<lb/>A sauver leurs ames et corps,<lb/>Non pas eulz laissier tourmenter<lb/>De desespoir ne seurmonter<lb/>En orgueil, l’ort pechié terrible,<lb/>Le plus grief de tous et horrible,<lb/>Ainçois est d’avoir pacience<lb/>Nuit et jour et querre science<lb/>Glorieuse pour Dieu amer,<lb/>Requerir, servir, honnorer<lb/>Et la doulce vierge Marie<lb/>Sur tous les cielx d’anges chierie<lb/>En qui divine pourveance<lb/>Se mist et ot double substance<lb/>merveilleuse pour nostre amour<lb/>aus quelx prierons sans demour<lb/>jointes mains que ilz gardent d’yre<lb/>li vaillans homs qui fist escrire<lb/>le livre assez bien compassez<lb/>et les ames des trespassez<lb/>vueillent garder de maulx liens<lb/>R. dit amen d’Orliens.<lb/>Qui cest escript a droit verra,<lb/>Nom et seurnom y trouvera <hi rend="i">(rubr.)</hi></p>
                 </msItem>
               </msContents>
             </msDesc>
@@ -2744,7 +2744,7 @@
                 <msItem>
                   <locus>t. I. p. 7, f. 3b - t. II p. 318, f. 86b</locus>
                   <title>Texte</title>
-                  <incipit><foreign>Carmina qui quondam</foreign><lb/>C’est le premier mectre<lb/>Chançons jadis souloie faire<lb/>Quant l’estude estoit en ses flours<lb/>Las or sui contrains au contraire<lb/>De plaindre mes tristes dolours.</incipit>
+                  <incipit><foreign xml:lang="lat">Carmina qui quondam</foreign><lb/>C’est le premier mectre<lb/>Chançons jadis souloie faire<lb/>Quant l’estude estoit en ses flours<lb/>Las or sui contrains au contraire<lb/>De plaindre mes tristes dolours.</incipit>
                   <explicit>Que toutes choses que vous faites<lb/>Presentement tost sont retraites<lb/>Devant les yex du juge droit<lb/>Qui toutes choses scet et voit<lb/>C’est Dieu le vif qui regnera<lb/>Tous temps car jamais fin n’ara.</explicit>
                 </msItem>
                 <msItem>
@@ -3425,7 +3425,7 @@
                 </msIdentifier>
                 <msContents>
                   <p><title>Böece de Confort</title>, traduction X de la
-                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy finist le romant sus Boece de consolacion</title> f. 166v], f. 1-167 <foreign>sic</foreign> ; à la fin du texte, f. 167  : <quote>« Prima littera dole vos conservet et ultima sole <lb/>prima quam vanis, ultima quod canis »</quote> ; au dessous : <quote>« Micto vobis navem sine prora pupe carentem »</quote>.</p>
+                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy finist le romant sus Boece de consolacion</title> f. 166v], f. 1-167 <hi rend="i">sic</hi> ; à la fin du texte, f. 167  : <quote>« Prima littera dole vos conservet et ultima sole <lb/>prima quam vanis, ultima quod canis »</quote> ; au dessous : <quote>« Micto vobis navem sine prora pupe carentem »</quote>.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -3451,7 +3451,7 @@
                 </msIdentifier>
                 <msContents>
                   <p><title>Böece de Confort</title>, traduction X de la
-                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy finist le romant sus Boece de consolacion</title> f. 166v], f. 1-167 <foreign>sic</foreign> ; à la fin du texte, f. 167  : <quote>« Prima littera dole vos conservet et ultima sole <lb/>prima quam vanis, ultima quod canis »</quote> ; au dessous : <quote>« Micto vobis navem sine prora pupe carentem »</quote>.</p>
+                    <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy finist le romant sus Boece de consolacion</title> f. 166v], f. 1-167 <hi rend="i">sic</hi> ; à la fin du texte, f. 167  : <quote>« Prima littera dole vos conservet et ultima sole <lb/>prima quam vanis, ultima quod canis »</quote> ; au dessous : <quote>« Micto vobis navem sine prora pupe carentem »</quote>.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -4781,7 +4781,7 @@
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 288-289</bibl>
                     <bibl>M. M. Manion, V. F. Vines et C. de Hamel, <title>Medieval and Renaissance Manuscripts in New Zealand collections</title>, Melbourne-Londres-New York, 1989, notice p. 43-44, pl. 8</bibl>
-                    <bibl><title>Le Livre de Boece de Consolacion</title>, éd. G. M. Cropp, Genève, 2006, p. 38-39 [notice] <foreign>et passim</foreign> [ms de base de l’édition]</bibl>
+                    <bibl><title>Le Livre de Boece de Consolacion</title>, éd. G. M. Cropp, Genève, 2006, p. 38-39 [notice] <hi rend="i">et passim</hi> [ms de base de l’édition]</bibl>
                   </listBibl>
                 </additional>
               </msDesc>
@@ -4857,7 +4857,7 @@
                     <p>93 f. parchemin</p>
                   </objectDesc>
                   <handDesc>
-                    <p>Copié à Bruges par <persName role="copiste">Jean Donna</persName> et révisé par <persName role="copiste">Jean de Rodes</persName> (f. 91) pour <quote>«  Martin Francisco »</quote>, Portugais (<foreign>ibid.</foreign>) ;
+                    <p>Copié à Bruges par <persName role="copiste">Jean Donna</persName> et révisé par <persName role="copiste">Jean de Rodes</persName> (f. 91) pour <quote>«  Martin Francisco »</quote>, Portugais (<hi rend="i">ibid.</hi>) ;
                       <persName role="possesseur" key="Ferando dela Curuña">Ferando dela Curuña</persName> (f. 91)</p>
                   </handDesc>
                   <decoDesc>
@@ -5109,12 +5109,12 @@
                   <msName type="sigle" resp="Cropp">D4</msName>
                 </msIdentifier>
                 <msContents>
-                  <p>traduction VI glosée de la <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy commence le prologue ou proheme du livre de Boece de consolacion le quel maistre Jehan de Mehun translata de latin en françoys si comme il se contient cy aprés en avant et l’envoya au roy Philippe le quart</title> (rubr.) f. 9v] : 4 prologues latins f. 1-9v (1. f. 1-3v <title>Incipit prologus libri Boecii de consolatione <foreign>(rubr.)</foreign>
-                    <lb/>Si Theodorici regis hystoriam respexerimus multa intellectui libri Boecii subsermancia nobis patefaciet</title>... ; 2. f. 3v-5v <title>Alius prologus
-                      <foreign>(rubr.)</foreign>
-                      <lb/>Quoniam in librorum titulis et actor et intencio ejus clarent et relucent titulum hujus libri</title>... ; 3. f. 5v-8v <title>Alius prologus inventus in quadam glosa facta sub dicto libro Boecii de consolacione <foreign>(rubr.)</foreign>
+                  <p xml:lang="fre">traduction VI glosée de la <title xml:lang="lat">Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Cy commence le prologue ou proheme du livre de Boece de consolacion le quel maistre Jehan de Mehun translata de latin en françoys si comme il se contient cy aprés en avant et l’envoya au roy Philippe le quart</title> (rubr.) f. 9v] : 4 prologues latins f. 1-9v (1. f. 1-3v <title xml:lang="lat">Incipit prologus libri Boecii de consolatione <hi rend="i">(rubr.)</hi>
+                    <lb/>Si Theodorici regis hystoriam respexerimus multa intellectui libri Boecii subsermancia nobis patefaciet</title>... ; 2. f. 3v-5v <title xml:lang="lat">Alius prologus
+                      <hi rend="i">(rubr.)</hi>
+                      <lb/>Quoniam in librorum titulis et actor et intencio ejus clarent et relucent titulum hujus libri</title>... ; 3. f. 5v-8v <title xml:lang="lat">Alius prologus inventus in quadam glosa facta sub dicto libro Boecii de consolacione <hi rend="i">(rubr.)</hi>
                         <lb/>Ad hoc ut in sequenti libro quem composuit gloriosus doctor sanctus Boecius Melius</title>... 4. f. 8v-9v
-                    <title>Alius prologus <foreign>(encre bleue)</foreign>
+                    <title>Alius prologus <hi rend="i">(encre bleue)</hi>
                       <lb/>In isto titulo ponuntur septem nomina dicti doctoris ex quibus de ipso concluduntur due prerogative</title>...) ; prologue glosé de <persName type="ancien">Jean de Meun</persName> f. 9v-16v ; table latine des rubriques f. 17-26v ; pour l’ensemble de la <title>Consolatio</title>, chaque prose ou mètre est d’abord présenté en latin, suivi d’une glose latine dérivée de la traduction catalane de Boèce due, vers 1390, à <persName type="ancien">Antoni Ginebreda</persName>, sous le titre <title>Libre de Consolació de Boeci</title> (inc. f. 27v <seg type="incipit">Heu miser qui solebam esse in magno studio et qui feci multa et diversa dictamina et multo[s] libros transtuli de greco in latinum</seg>...), elle-même suivie de la traduction de <persName type="ancien">Jean de Meun</persName> glosée. Dans la partie française, la traduction proprement dite, copiée en caractères de gros module, est interrompue par la glose de plus petit module. Elle est également ponctuée de manchettes qui donnent soit un incipit dans le texte latin, une glose supplémentaire ou une brève analyse de la traduction. Livre I, ms 4335, f. 27-90v ; livre II, ms 4336, f. 1-79 ; fin du livre II (f. 1 inc. <seg type="incipit">Qui ou ciel et en terre regne</seg>...) et livre III, ms 4337, f. 1v-110v ; livre IV, ms 4338, f. 1-97v ; livre V, ms 4339, f. 1-80v  ; sections du texte latin suivies du commentaire latin alternent avec les sections de la traduction glosée ; à la suite du texte, 8 vers latins sur les quatre tempéraments (identiques à ceux du ms d’Auckland édités par Cropp, p. 274-275 : inc. : <seg type="incipit">Sanguineus : Largus amans hilaris ridens rubeique coloris</seg>...).</p>
                 </msContents>
                 <physDesc>
@@ -5794,7 +5794,7 @@
                   </physDesc>
                   <history>
                     <origin notBefore="1401" notAfter="1500">XV<hi rend="sup">e</hi> s.</origin>
-                    <provenance><p>Commanditaire : <quote>« Guerard »</quote> à l’encre rouge aux f. 116v et 79 (<quote>« explicit Guerard l’exil de mestre Alain Chartier <foreign>(rubr.)</foreign> »</quote> II. f. 79). Au f. 79 de II., signature de <persName role="possesseur" key="Marie de Luxembourg">Marie de Luxembourg</persName>, peut-être <persName role="possesseur" key="Marie de Savoie, belle-soeur de Louis XI">Marie de Savoie</persName>, belle-soeur de Louis XI ou sa fille, épouse de François de Bourbon, comte de Vendôme.</p></provenance>
+                    <provenance><p>Commanditaire : <quote>« Guerard »</quote> à l’encre rouge aux f. 116v et 79 (<quote>« explicit Guerard l’exil de mestre Alain Chartier <hi rend="i">(rubr.)</hi> »</quote> II. f. 79). Au f. 79 de II., signature de <persName role="possesseur" key="Marie de Luxembourg">Marie de Luxembourg</persName>, peut-être <persName role="possesseur" key="Marie de Savoie, belle-soeur de Louis XI">Marie de Savoie</persName>, belle-soeur de Louis XI ou sa fille, épouse de François de Bourbon, comte de Vendôme.</p></provenance>
                   </history>
                 </msPart>
               </msDesc>
@@ -5880,7 +5880,7 @@
                   <listBibl>
                     <bibl>G. M. Cropp, « Les manuscrits du <title>Livre de Boèce de Consolacion</title> », dans <title>Revue d’histoire des textes</title>, t. 12-13, 1982-1983, p. 329-331</bibl>
                     <bibl>C. Samaran et R. Marichal, <title>Catalogue des manuscrits en écriture latine portant des indications de date, de lieu ou de copiste</title>, Paris, 1984, t. VII, p. 583</bibl>
-                    <bibl><title><title>La consolation de la Philosophie</title> de Boèce dans une traduction attribuée à Jean de Meun d’après le manuscrit Leber 817 de la bibliothèque municipale de Rouen</title>, éd. I. Bétemps et <foreign>alii</foreign>, Rouen, 2004 [notice du manuscrit p. xxv-xxix ; reproduction des miniatures sur CD-Rom]</bibl>
+                    <bibl><title><title>La consolation de la Philosophie</title> de Boèce dans une traduction attribuée à Jean de Meun d’après le manuscrit Leber 817 de la bibliothèque municipale de Rouen</title>, éd. I. Bétemps et <hi rend="i">alii</hi>, Rouen, 2004 [notice du manuscrit p. xxv-xxix ; reproduction des miniatures sur CD-Rom]</bibl>
                     <bibl>base “enluminures” <ref target="http://www.enluminures.culture.fr/">www.enluminures.culture.fr</ref> [reproductions et notice]</bibl>
                   </listBibl>
                 </additional>
@@ -6098,7 +6098,7 @@
               <head>Imprimés</head>
               <listBibl type="poList">
                 <bibl xml:id="imprime2_de_consolatione_philosophiae"><title type="ancien">Cy commance Boece de Consolation en françois, jouxte et au plus pres du latin pour consoler les entendemens de ceulx qui prennent soulas et plaisir au latin et au roman qui fut translaté par maistre Jehan de Meun a la requeste de tresexcellent crestien jadis roy de France, Philippe le quart</title>, [Lyon, <publisher>Guillaume Le Roy</publisher>, <date notBefore="1480" notAfter="1485">ca 1482-1483</date>], 2°, ill., 70 f. Traduction VI glosée de la <title>Consolatio Philosophiae</title> de Boèce : prologue de Jean de Meun f. a2-a4v ; traduction f. a4v-h8 (f. a4v inc. <seg type="incipit">Je souloie ditter et escripre <lb/>les livres de haulte matiere <lb/>Et d’estude avoie la fleur</seg>... ; f. h8 expl. ...<seg type="explicit">vie ou mort quant vous ouvres devant les yeulx de celluy qui tout voit</seg>) ; analyse au début de chaque mètre et de chaque prose. Analyse du mètre I du livre I : « Boece en ce premier metre fait quatre choses. Premierement se complaint de son estat plain de misere pour la muance de son estude. Secondement pour la foiblesse de son corps. Tiercement pour la duree de la vie douloreuse. Quartement fait une exclamation contre ses amys lesquelz aultresfois pour beneuré l’avoient reputé. » (f. a4v)
-                  <note place="inline"> Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. R. 87 (possesseur : <persName role="possesseur" key="Guillaume de Moulins">Guillaume de Moulins</persName>, élu pour les aides à Orléans, XV<hi rend="sup">e</hi> s. : <quote>« Des livres appartenants à Guillaume de Moulins esleu pour le roy nostre sire a Orleans. Qui le trouvera si lui rende et il paiera voulentiers le vin. <foreign>[signé]</foreign> Guillaume de Moulins »</quote> f. h8)
+                  <note place="inline"> Exemplaire consulté : Paris, Bibl. nat. de Fr., Rés. R. 87 (possesseur : <persName role="possesseur" key="Guillaume de Moulins">Guillaume de Moulins</persName>, élu pour les aides à Orléans, XV<hi rend="sup">e</hi> s. : <quote>« Des livres appartenants à Guillaume de Moulins esleu pour le roy nostre sire a Orleans. Qui le trouvera si lui rende et il paiera voulentiers le vin. <hi rend="i">[signé]</hi> Guillaume de Moulins »</quote> f. h8)
                     <listBibl>
                       <bibl>M. Pellechet, <title>Catalogue général des incunables des bibliothèques publiques de France</title>, Paris, t. II, Paris, 1905, n°2546</bibl>
                       <bibl><title>Gesamtkatalog der Wiegendrucke</title>, Leipzig-Berlin, 1926-, t. IV, n°4577</bibl>
@@ -6155,7 +6155,7 @@
                 <msItem>
                   <locus>f. [i]a - f. [xiii]b</locus>
                   <title>Prologue de Regnier de Saint-Trond</title>
-                  <incipit><foreign>Nec me consolata est in humilitate mea</foreign>. Ceste proposition est escripte ou livre du psalmiste en la C et XVIII psalme laquelle vault autant a dire en nostre commun langaige...</incipit>
+                  <incipit><foreign xml:lang="lat">Nec me consolata est in humilitate mea</foreign>. Ceste proposition est escripte ou livre du psalmiste en la C et XVIII psalme laquelle vault autant a dire en nostre commun langaige...</incipit>
                   <explicit>Ces choses doncques veues il convient proceder a la forme du traittié et premiers de la table desdis livres.</explicit>
                 </msItem>
                 <msItem>
@@ -6166,7 +6166,7 @@
                 <msItem>
                   <locus>f. 1a-262c</locus>
                   <title>Texte</title>
-                  <incipit>Cy commence Boece son premier livre par maniere de dyalogue en metres et en proses compilé et translaté a la consolation des desolez et a la retractation de ceulx qui trop se adherdent et empeschent des biens temporelz Et en cestui premier metre est introduit et parle Boece comme homme dolant et fort desolé <lb/>Carmina qui quondam studio florente peregi <foreign>[pied de mouche]</foreign> flebilis heu mestos cogor inire modos etc. <lb/>texte <lb/>Je qui jadis ay fait dittiers joyeux <lb/>par estude flourissant doloureux <lb/>las suis constraint commencer par misere
+                  <incipit>Cy commence Boece son premier livre par maniere de dyalogue en metres et en proses compilé et translaté a la consolation des desolez et a la retractation de ceulx qui trop se adherdent et empeschent des biens temporelz Et en cestui premier metre est introduit et parle Boece comme homme dolant et fort desolé <lb/>Carmina qui quondam studio florente peregi <hi rend="i">[pied de mouche]</hi> flebilis heu mestos cogor inire modos etc. <lb/>texte <lb/>Je qui jadis ay fait dittiers joyeux <lb/>par estude flourissant doloureux <lb/>las suis constraint commencer par misere
                     <lb/>metres tristes de dolante matere...</incipit>
                   <explicit>...quant vous batailliez et produisiez vos operations devant les yeux du souverain pere juge c’est Dieu qui toutes choses voit lequel soit beney par tous siecles Amen.</explicit>
                 </msItem>

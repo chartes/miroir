@@ -329,7 +329,7 @@
               <msItem>
                 <locus>f. 3b-26b</locus>
                 <title>Livre I</title>
-                <incipit><foreign>Marcus Porcius Cato</foreign> quant Marcus Porcius Cato fut envoyé en Espaigne pour reduire a l’empire de Romme les citez qui depuis le departement de Scipion l’Affrican s’estoient rebellees...</incipit>
+                <incipit><foreign xml:lang="lat">Marcus Porcius Cato</foreign> quant Marcus Porcius Cato fut envoyé en Espaigne pour reduire a l’empire de Romme les citez qui depuis le departement de Scipion l’Affrican s’estoient rebellees...</incipit>
                 <explicit>Il leur dist Maintenant est il temps compaignons commencer la bataille quant le tresgrant des dieux Jupiter nous a monstré sa deïté estre presente a nostre navire</explicit>
               </msItem>
               <msItem>
@@ -358,7 +358,7 @@
                   <locus>f. 56b-83a</locus>
                   <title>Texte</title>
                   <incipit><seg type="rubric">Le premier chappitre parle des manieres de aler <sic>soudaniement</sic> donner l’assault
-                    <lb/><foreign>Titus Quintus</foreign></seg> Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
+                    <lb/><foreign xml:lang="lat">Titus Quintus</foreign></seg> Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
                   <explicit>...et furent soudainement ruez jus et desconfiz tous en ung jour et par mer et par terre.</explicit>
                 </msItem>
               </msItem>
@@ -482,7 +482,7 @@
                 <idno>Add. 12028</idno>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">S’ensuivent les tiltes des chapitres du premier livre des strategemes</title> f. 4v ; <title type="ancien">Cy fine le premier livre de Jule Frontin et commance le prologue du tiers</title> <foreign>sic</foreign> (rubr.) f. 49v ; <title type="ancien">Cy fine le IIe livre de Jule Frontin et commance le prologue du tiers</title> (rubr.) f. 108v] : prologue du traducteur f. 2-4v incomplet du début (inc. <seg type="incipit">racontees toutes les plus notables exemples de toutes les cautelles et soubtilletez qui aient esté faites en armes...</seg>) ; table des chapitres des 4 livres f. 4v-6v ; texte f. 7-170v (livre I f. 7-49v, II f. 50-108v, III f. 108v-138, IV f. 138v-170v) : à l’exception du livre I, une table des chapitres vient s’intercaler entre le prologue de chaque livre et le premier chapitre ; en marge, numérotation en chiffres romains et à l’encre rouge des « <hi rend="i">exemples</hi> » à l’intérieur de chaque chapitre ; dans la marge supérieure, titre courant rubriqué indiquant le numéro du livre et celui du chapitre à chaque page ; glossaire f. 170v-172v (<seg type="incipit">S’ensuit la declaracion d’aucuns noms qui sont en ce livre, lesquelx ne se pouoient bonnement translater de mot a mot sans aucune obscureté</seg> f. 170v) ; traduction partielle de l’<title>Epitoma rei militaris</title> de Végèce [titre :
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">S’ensuivent les tiltes des chapitres du premier livre des strategemes</title> f. 4v ; <title type="ancien">Cy fine le premier livre de Jule Frontin et commance le prologue du tiers</title> <hi rend="i">sic</hi> (rubr.) f. 49v ; <title type="ancien">Cy fine le IIe livre de Jule Frontin et commance le prologue du tiers</title> (rubr.) f. 108v] : prologue du traducteur f. 2-4v incomplet du début (inc. <seg type="incipit">racontees toutes les plus notables exemples de toutes les cautelles et soubtilletez qui aient esté faites en armes...</seg>) ; table des chapitres des 4 livres f. 4v-6v ; texte f. 7-170v (livre I f. 7-49v, II f. 50-108v, III f. 108v-138, IV f. 138v-170v) : à l’exception du livre I, une table des chapitres vient s’intercaler entre le prologue de chaque livre et le premier chapitre ; en marge, numérotation en chiffres romains et à l’encre rouge des « <hi rend="i">exemples</hi> » à l’intérieur de chaque chapitre ; dans la marge supérieure, titre courant rubriqué indiquant le numéro du livre et celui du chapitre à chaque page ; glossaire f. 170v-172v (<seg type="incipit">S’ensuit la declaracion d’aucuns noms qui sont en ce livre, lesquelx ne se pouoient bonnement translater de mot a mot sans aucune obscureté</seg> f. 170v) ; traduction partielle de l’<title>Epitoma rei militaris</title> de Végèce [titre :
                   <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 173] f. 173-185v</p>
               </msContents>
               <physDesc>
@@ -561,7 +561,7 @@
                 <msName type="sigle" resp="Bossuat">B</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Cy fine le premier livre de Jules Frontin et commence le prologue du tiers</title> <foreign>sic</foreign> f. 41v] f. 1-138 : incomplète du début du livre I (inc. <seg type="incipit">quant il vit du tartre qu’il avoit suspeçonné une grant force d’oiseaux</seg> f. 1 [I.2 = fr. 1233, f. 7a]) ; glossaire f. 138v-140 ; extraits traduits de l’<title>Epitoma rei militaris</title> de <persName>Végèce</persName> [titre : <title type="ancien">S’ensuivent aucuns notables extraiz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentils hommes en la science des armes et de chevalerie</title> f. 140v] f. 140v-141v : incomplets de la fin (expl. <seg type="explicit">Il appartient aux plus grans et dit estaz leur</seg>... I.7 fin, éd. L. Löfstedt, p. 300).</p>
+                <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titre : <title type="ancien">Cy fine le premier livre de Jules Frontin et commence le prologue du tiers</title> <hi rend="i">sic</hi> f. 41v] f. 1-138 : incomplète du début du livre I (inc. <seg type="incipit">quant il vit du tartre qu’il avoit suspeçonné une grant force d’oiseaux</seg> f. 1 [I.2 = fr. 1233, f. 7a]) ; glossaire f. 138v-140 ; extraits traduits de l’<title>Epitoma rei militaris</title> de <persName>Végèce</persName> [titre : <title type="ancien">S’ensuivent aucuns notables extraiz du livre de Vegece qu’il fist pour l’enseignement des princes et des gentils hommes en la science des armes et de chevalerie</title> f. 140v] f. 140v-141v : incomplets de la fin (expl. <seg type="explicit">Il appartient aux plus grans et dit estaz leur</seg>... I.7 fin, éd. L. Löfstedt, p. 300).</p>
               </msContents>
               <physDesc>
                 <objectDesc>

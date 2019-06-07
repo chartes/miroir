@@ -19,19 +19,19 @@
         </respStmt>
         <respStmt>
           <name xml:id="GP">Graziella Pastore</name>
-          <resp>Rédaction de notices</resp>
+          <resp>rédaction de notices</resp>
         </respStmt>
         <respStmt>
           <name xml:id="HB">Hélène Biu</name>
-          <resp>Rédaction de notices</resp>
+          <resp>rédaction de notices</resp>
         </respStmt>
         <respStmt>
           <name xml:id="HG">Hélène Gautier</name>
-          <resp>Encodage des notices</resp>
+          <resp>encodage des notices</resp>
         </respStmt>
         <respStmt>
           <name xml:id="LV">Lucie Viénot</name>
-          <resp>Encodage des notices</resp>
+          <resp>encodage des notices</resp>
         </respStmt>
       </editionStmt>
       <publicationStmt>
@@ -105,7 +105,7 @@
                     <country>France</country>
                     <settlement>Rouen</settlement>
                     <repository>bibl. mun.</repository>
-                    <idno>794 <idno>(E.1)</idno></idno>
+                    <idno>794 <!--<idno>(E.1)</idno>-->(E.1)</idno>
                     <altIdentifier>
                       <idno>R</idno>
                     </altIdentifier>
@@ -817,21 +817,21 @@
                       </supportDesc>
                     </objectDesc>
                     <handDesc hands="2">
-                      <p><label>Ecriture</label>main 1, f. 1-7v, f. 28-fin : <term xml:lang="lat">semitextualis libraria</term> irrégulière et rapide, assez peu soignée, avec une tendance à la cursivité ; main 2, f. 8-27v : <term xml:lang="lat">semitextualis libraria</term> un peu moins rapide et plus soignée que la main 1. Les changements de main correspondent à des changements d’encre et de cahier. On distingue en outre la main d’un rubricateur postérieur : si chaque copiste semble avoir copié les rubriques des segments textuels dont il s’est chargé, quelques rares rubriques omises, pour lesquelles aucune réserve n’avait été prévue, ont été ajoutées postérieurement en <term xml:lang="lat">cursiva currens</term> (cf. par ex. f. 197b). – Coefficient d’abréviation de la main 1 :17, 2 %, 15, 3 %, sans
+                      <p><label>Ecriture</label> main 1, f. 1-7v, f. 28-fin : <term xml:lang="lat">semitextualis libraria</term> irrégulière et rapide, assez peu soignée, avec une tendance à la cursivité ; main 2, f. 8-27v : <term xml:lang="lat">semitextualis libraria</term> un peu moins rapide et plus soignée que la main 1. Les changements de main correspondent à des changements d’encre et de cahier. On distingue en outre la main d’un rubricateur postérieur : si chaque copiste semble avoir copié les rubriques des segments textuels dont il s’est chargé, quelques rares rubriques omises, pour lesquelles aucune réserve n’avait été prévue, ont été ajoutées postérieurement en <term xml:lang="lat">cursiva currens</term> (cf. par ex. f. 197b). – Coefficient d’abréviation de la main 1 :17, 2 %, 15, 3 %, sans
                         <quote>et</quote> ; main 2 : 6,9 %, 6% sans
                         <quote>et</quote>.</p>
-                      <p><label>Scripta</label>les aires septentrionales et orientales sont d’emblée exclues (ex. <quote>fet</quote>,
+                      <p><label>Scripta</label> les aires septentrionales et orientales sont d’emblée exclues (ex. <quote>fet</quote>,
                         <quote>fere</quote>, cf. <bibl>Dees 1980, c. 248</bibl> ;
                         <quote>meson</quote>, cf. <bibl><hi rend="i">ibid.</hi>, c. 171</bibl> ou encore <quote>leu</quote>, cf. <bibl><hi rend="i">ibid.</hi>, c. 168</bibl>), de même que le poitevin-saintongeais (ex. <quote>mois</quote>, cf.
                         <bibl>Dees 1987, c. 177</bibl>) et l’anglo-normand dans l’aire occidentale. Les extraits édités ne livrent aucun des traits suivants, caractéristiques du normand : absence de palatalisation de /ka-/, /ga-/, palatalisation en chuintante de /ki-/ ou /ke-/, absence de l’effet de Bartsch, désinence de la P4 en -<hi rend="i">on</hi> ou -<hi rend="i">um</hi>). L’utilisation exclusive des graphies
-                        <quote>hoir</quote>, <quote>oir</quote> tend à écarter les autres <foreign xml:lang="lat">scriptae</foreign> occidentales (cf. <bibl>Dees 1980, c. 158</bibl>). On peut hésiter entre une localisation en région parisienne, en Orléanais ou même en Champagne occidentale, mais l’on rencontre peu d’influences occidentales qui font l’originalité de la <foreign xml:lang="lat">scripta</foreign> orléanaise par rapport à la
-                        <foreign xml:lang="lat">scripta</foreign> parisienne (cf.
+                        <quote>hoir</quote>, <quote>oir</quote> tend à écarter les autres <hi rend="i">scriptae</hi> occidentales (cf. <bibl>Dees 1980, c. 158</bibl>). On peut hésiter entre une localisation en région parisienne, en Orléanais ou même en Champagne occidentale, mais l’on rencontre peu d’influences occidentales qui font l’originalité de la <hi rend="i">scripta</hi> orléanaise par rapport à la
+                        <hi rend="i">scripta</hi> parisienne (cf.
                         <bibl>Simoni-Aurembou, <title>LRL</title>, t. II/2, 1995, p. 352-354</bibl> ; <bibl>Gossen, <title>Skriptastudien</title>, 1967, p. 187-211</bibl>). Les graphies
                         <quote>procuratour</quote> et <quote>procurator</quote> (25.4.1.10) font exception (cf. <bibl>Goebl, <title>LRL</title>, t. II/2, p. 330-331</bibl>), de même que la fréquence supérieure des articles contractés <quote>el</quote> par rapport à <quote>ou</quote> (cf. <bibl>Dees 1980, c. 53</bibl> : formes de l’article contracté « en + le » : <hi rend="i">el</hi> / <hi rend="i">ou</hi> : 77% Normandie, 32% région parisienne, Orléanais 3%) et <quote>as</quote> par rapport à <quote>aus</quote> (cf. <bibl>Dees 1980, c. 50</bibl> : formes de l’article contracté « a + les » : <hi rend="i">as</hi> /<hi rend="i">aus</hi> : 22% Normandie, 64% région parisienne, Orléanais 63%).</p>
-                      <p>Les deux mains pratiquent une <foreign xml:lang="lat">scripta</foreign> semblable, même si la main 1, largement majoritaire, se distingue par l’utilisation de la forme -<quote>aige</quote> vs -<quote>age</quote> (main 2) (cf.
+                      <p>Les deux mains pratiquent une <hi rend="i">scripta</hi> semblable, même si la main 1, largement majoritaire, se distingue par l’utilisation de la forme -<quote>aige</quote> vs -<quote>age</quote> (main 2) (cf.
                         <bibl>Dees 1980, c. 204</bibl>
-                        <hi rend="i">heritaige, usaiges</hi> / <hi rend="i">heritage, usage</hi> : 2% Ile-de-France, 3% Normandie, 4% Sarthe et Mayenne, mais 39% Orléanais, 63% Yonne et forte représentation dans les <foreign xml:lang="lat">scriptae</foreign> de l’Est).</p>
-                      <p><label>Traces de lecture</label>Notes marginales en <term xml:lang="lat">cursiva currens</term>, dues à plusieurs mains postérieures. Dans la marge supérieure, en latin, d’une main du 3e quart du 14e s., incipit de chaque paragraphe, colonne par colonne. Dans le coin supérieur droit de chaque recto, d’une plume plus fine et d’une encre un peu plus foncée, la même main a noté le nom du titre latin à la manière d’un titre courant. Une autre main a indiqué, au-dessus du titre courant, en chiffres arabes le numéro du livre du Digeste correspondant à celui de l’<title>Infortiat</title>. Une main cursive de la 2e moitié du 16e s. a entrepris de revoir et commenter quelques passages du texte (f. 30v, 42-43, 187v-189v). Cette révision s’appuie sur le texte latin.</p>
+                        <hi rend="i">heritaige, usaiges</hi> / <hi rend="i">heritage, usage</hi> : 2% Ile-de-France, 3% Normandie, 4% Sarthe et Mayenne, mais 39% Orléanais, 63% Yonne et forte représentation dans les <hi rend="i">scriptae</hi> de l’Est).</p>
+                      <p><label> Traces de lecture</label> Notes marginales en <term xml:lang="lat">cursiva currens</term>, dues à plusieurs mains postérieures. Dans la marge supérieure, en latin, d’une main du 3e quart du 14e s., incipit de chaque paragraphe, colonne par colonne. Dans le coin supérieur droit de chaque recto, d’une plume plus fine et d’une encre un peu plus foncée, la même main a noté le nom du titre latin à la manière d’un titre courant. Une autre main a indiqué, au-dessus du titre courant, en chiffres arabes le numéro du livre du Digeste correspondant à celui de l’<title>Infortiat</title>. Une main cursive de la 2e moitié du 16e s. a entrepris de revoir et commenter quelques passages du texte (f. 30v, 42-43, 187v-189v). Cette révision s’appuie sur le texte latin.</p>
                     </handDesc>
                     <decoDesc>
                       <decoNote>
@@ -852,7 +852,7 @@
                       <origPlace>France</origPlace>
                     </origin>
                     <provenance>
-                      <p><label>Provenance</label>mentions de possesseurs du 16<hi rend="sup">e</hi> s. : <q>Pichonus</q> (f. 205) ;
+                      <p><label>Provenance</label> mentions de possesseurs du 16<hi rend="sup">e</hi> s. : <q>Pichonus</q> (f. 205) ;
                         <q>Aemilius S. Ferretus</q> (f. 205). A appartenu aux
                         <orgName role="possesseur" key="Bordeaux, Carmes">Carmes de Bordeaux</orgName>.</p>
                     </provenance>
@@ -864,7 +864,7 @@
                       <bibl>C. Couderc, <title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. XXIII, 1894, p. 189-190</bibl>
                       <bibl>G. Pastore et F. Duval, <title level="a">La tradition française de l’<hi rend="i">Infortiat</hi> et le
                         <hi rend="i">Livre de jostice et de plet</hi></title>, [à paraître] dans <title>Bibliothèque de l’Ecole des chartes</title></bibl>
-                      <bibl><title>Manuscrits médiévaux d’Aquitaine</title> : <ref target="http://manuscrits-drac.bnsa.aquitaine.fr/notices-manuscrit/ms0354-infortiat-traduit-en-franais.aspx">http://manuscrits-drac.bnsa.aquitaine.fr/notices-manuscrit/ms0354-infortiat-traduit-en-franais.aspx</ref></bibl>
+                      <bibl><title>Manuscrits médiévaux d’Aquitaine</title> : <ref target="http://www.manuscrits-medievaux.fr/notices-manuscrit/ms0354-infortiat-traduit-en-franais.aspx">http://www.manuscrits-medievaux.fr/notices-manuscrit/ms0354-infortiat-traduit-en-franais.aspx</ref></bibl>
                     </listBibl>
                   </additional>
                 </msDesc>
@@ -921,7 +921,7 @@
                     <country>France</country>
                     <settlement>Rouen</settlement>
                     <repository>bibl. mun.</repository>
-                    <idno>794 <idno>(E 1)</idno></idno>
+                    <idno>794 (E 1)<!--<idno>(E 1)</idno>--></idno>
                     <altIdentifier>
                       <idno>R</idno>
                     </altIdentifier>
