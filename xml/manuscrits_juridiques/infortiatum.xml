@@ -76,9 +76,9 @@
       </div>
       <div type="traduction" xml:id="fr_anonyme">
         <head>Traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
-          <persName ref="???" role="traducteur">anonyme</persName> de l’<bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl></head>
+          <persName ref="???" role="traducteur">anonyme</persName> de l’<!-- LG 12/06/2019 : la valeur oeuvre n'est pas prise en charge par l'attribut type dans l'élément bibl --><!--<bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl>--><bibl corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl></head>
         <dateline>
-          <date notAfter="1269">au plus tard dans les années 1260</date>
+          <date notBefore="1260" notAfter="1269">au plus tard dans les années 1260</date>
         </dateline>
         <p>On ne connaît qu’une seule traduction du second volume du <title>Digeste</title>. Les sous-ensembles <title>Infortiat</title> (D. 24.3-35.2.81) et <title>Tres partes</title> sont à l’évidence le résultat d’une même entreprise, individuelle ou collective, de traduction et doivent donc être considérés comme une seule et même traduction : ils proposent en effet les mêmes équivalences lexicales françaises aux mots techniques latins et affectionnent les mêmes tours syntaxiques comme la locution prépositionnelle <quote>a ce que</quote> ou l’attaque par <quote>et</quote> des propositions principales.</p>
         <p>Cette traduction anonyme nous est transmise par deux témoins:
@@ -91,9 +91,10 @@
                     <settlement>Bordeaux</settlement>
                     <repository>bibl. mun.</repository>
                     <idno>354</idno>
-                    <altIdentifier>
+                    <!-- LG 12/06/2019 : j’ai mis entre "commentaire" l'altIdentifier et l'idno, car l'information de la lettre du témoin était redoublée. -->
+                   <!-- <altIdentifier>
                       <idno>B</idno>
-                    </altIdentifier>
+                    </altIdentifier>-->
                   </msIdentifier>
                 </msDesc>
               </ref>
@@ -106,9 +107,9 @@
                     <settlement>Rouen</settlement>
                     <repository>bibl. mun.</repository>
                     <idno>794 <!--<idno>(E.1)</idno>-->(E.1)</idno>
-                    <altIdentifier>
+                    <!--<altIdentifier>
                       <idno>R</idno>
-                    </altIdentifier>
+                    </altIdentifier>-->
                   </msIdentifier>
                 </msDesc>
               </ref>
@@ -160,8 +161,11 @@
         <div type="soustraduction" xml:id="tradition_directe">
           <head>Tradition directe</head>
           <div type="manuscrit">
-            <list type="listMs">
-              <item><!-- xml:id="bordeaux_354" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" -->
+            <head>Manuscrit</head>
+            <div type="listMs">
+              <head>Liste</head>
+              <div>
+                <head></head><!-- xml:id="bordeaux_354" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300" -->
                 <msDesc xml:id="bordeaux_354" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md28nc583300"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>France</country>
@@ -914,8 +918,9 @@
                       <hi rend="b">M</hi>odestins dit. <expan><hi rend="b">Q</hi>ua<ex>n</ex>t</expan> <expan>au<ex>cun</ex>s</expan> muert sanz fere <expan>testam<ex>en</ex>t</expan> si enfant <expan>q<ex>ue</ex></expan> il a de leal mariaige sont <expan>p<ex>re</ex>m<ex>ier</ex>em<ex>en</ex>t</expan> apelé a son <expan>h<ex>er</ex>itaige</expan>. <expan><ex>et</ex></expan> puis cil qui pueent estre hoir <expan>p<ex>ar</ex></expan> les lois. <expan><ex>et</ex></expan> puis li plus prouchien parent. <expan><ex>et</ex></expan> aprés li mariz ou la feme. Se aucuns ne fet point de <expan>testam<ex>en</ex>t</expan> ou il le fet mes ses heritaiges n’est receuz ne selonc les tables ne contre les tables. la possession des <expan>b<ex>ie</ex>ns</expan> est donee en ceste <expan>man<ex>ier</ex>e</expan>. La <expan>possessio<ex>n</ex></expan> des <expan>b<ex>ie</ex>ns</expan> au pere <expan>q<ex>ui</ex></expan> muert sanz <expan>testam<ex>en</ex>t</expan> est donee a ses enfanz <expan><ex>et</ex></expan> <expan>no<ex>n</ex></expan> pas a <expan>ce<ex>us</ex></expan> tant <expan>seulem<ex>en</ex>t</expan> qui estoient en sa poesté quant il morut mes a <expan>ce<ex>us</ex></expan> qui en estoient hors.</p>
                   </div>
                 </div>
-              </item>
-              <item><!--  corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32" -->
+              </div>
+              <div><!--  corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32" -->
+                <head/>
                 <msDesc xml:id="rouen_794" source="http://medium-avance.irht.cnrs.fr/ark:/63955/md07gq67kn32"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>France</country>
@@ -1898,13 +1903,14 @@
                       </app></note> en demande se tant <expan><ex>com</ex>me</expan> il passa del terme tant <expan><ex>com</ex>me</expan> il fu au premier seingneur doit estre conté au derrenier. <expan><ex>et</ex></expan> il nos plest <expan>q<ex>ue</ex></expan> il i soit <expan><ex>con</ex>té</expan>.</p>
                   </div>
                 </div>
-              </item>
-            </list>
+              </div>
+            </div>
           </div>
         </div>
         <div type="soustraduction" xml:id="tradition_indirecte">
           <head>Tradition indirecte</head>
           <div type="manuscrit">
+            <head>Manuscrit</head>
             <list type="listMs">
               <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059006z" xml:id="Ljp"><ref target="digestum_vetus.xml#fr_2844">Livre de Jostice et de Plet</ref></item>
             </list>

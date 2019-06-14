@@ -9881,6 +9881,8 @@
               </div>
               <!-- TODO: FD, on fait quoi de cette mention ? - <item> = 2e objet d'une liste théorique dont la div[not(@*)] précédente est le premier item théorique. J'ai ajouté div et list pour coller à la structure suivante. -->
               <div>
+                <!-- LG 07/06/2019 j’ai ajouté le head, car list n’était pas valide -->
+                <head>Source</head>
                 <list type="listMs">
                   <item><ref target="#kbr_9234">Bruxelles, Bibl. royale de Belgique, 9234 (de D. 3.1 à D. 4.6)</ref></item>
                 </list>
@@ -9897,6 +9899,8 @@
             </dateline>
             <p>La traduction 5 est partielle (D. 2.8-2.15). On ne sait s’il s’agit d’une traduction plus ample dont la tradition ne nous a conservé qu’une partie ou s’il s’agit d’une traduction qui n’a jamais concerné que la partie finale de D. 2. Quoi qu’il en soit, cette traduction ne s’inscrit dans aucune des traditions traductives précédentes, dont elle se distingue à la fois par le lexique et la syntaxe. Anonyme comme les précédentes, sa date est difficile à fixer puisque le seul <hi rend="i">terminus ad quem</hi> dont on dispose est la date assez tardive (<hi rend="i">ca</hi> 1310-1325) de son témoin unique, le ms Bruxelles, Bibl. royale, 9234.</p>
             <div type="manuscrit">
+              <!-- LG 07/06/2019 j’ai ajouté le head, car list n’était pas valide -->
+              <head>Source</head>
               <list type="listMs">
                 <item><ref target="#kbr_9234">Bruxelles, Bibl. royale de Belgique, 9234 (de D. 2.8 à la fin de D.2)</ref></item>
               </list>
@@ -9912,6 +9916,8 @@
             <bibl>P. Weimar, <title level="a">Zur Entstehung der Azoschen Disgestensumme</title>, dans J. A. Ankum, J. E. Spruit et F. B. J. Wubbe (éd.), <title>Satura Roberto Feenstra</title>, Fribourg, 1985, p. 371-392</bibl>
           </listBibl>
           <div type="manuscrit">
+            <!-- LG 07/06/2019 j’ai ajouté le head, car list n’était pas valide -->
+            <head>Sources</head>
             <list type="listMs">
               <item xml:id="fr_22969" corresp="http://gallica.bnf.fr/ark:/12148/btv1b84478693"><ref target="codex.xml#fr_22969">Paris, BNF, fr. 22969</ref></item>
               <item xml:id="bav_1063" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md935138m22g"><ref target="codex.xml#bav_1063">Vatican, BAV, Reg. lat. 1063</ref></item>

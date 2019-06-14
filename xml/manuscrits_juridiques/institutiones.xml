@@ -7,7 +7,7 @@
     <fileDesc>
       <titleStmt>
         <title><hi rend="i">Institutiones</hi>, Justinianus I</title>
-        <title type="sub">Notice descriptive concernant l'ensemble des traductions médiévales en français et en occitan des <hi rend="i">Institutiones</hi>, Justinianus I</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan des <hi rend="i">Institutiones</hi>, Justinianus I</title>
         <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
       </titleStmt>
@@ -81,7 +81,7 @@
           <head>Editions</head>
           <bibl><title>Codex Ivris Civilis Ivstinianei: Institutionum, Sive Primorvm Totivs Ivrisprudentiae Elementorum Libri Quatvor</title>, Lyon, studio et opera Ioannis Fehii, 1627</bibl>
           <bibl><title>Corpus juris civilis. Editio sterotypa</title>, t. I.
-            <title>Institutiones</title> recognovit Paulus Krueger ; <title>Digesta</title> recognovit Theodorus Mommsen, Berlin, 1872 (16e éd. 1954)</bibl>
+            <title>Institutiones</title> recognovit Paulus Krueger ; <title>Digesta</title> recognovit Theodorus Mommsen, Berlin, 1872 (16<hi rend="sup">e</hi> éd. 1954)</bibl>
         </listBibl>
         <listBibl>
           <head>Etudes</head>
@@ -98,228 +98,240 @@
             <date notBefore="1220-01-01" notAfter="1250-12-31">première moitié du 13<hi rend="sup">e</hi> siècle</date>
           </dateline>
           <p>Les <title xml:lang="lat">Institutiones</title> de Justinien nous ont été conservées dans une seule traduction française en prose, dépourvue de prologue et d’épilogue. Son éditeur, Félix Olivier-Martin (p. xiv-xv) a proposé de la dater de
-            <hi rend="i">ca</hi> 1220-1230, faisant ainsi de cette traduction la première translation française d’une partie du <title xml:lang="lat">Corpus juris civilis</title>. Les arguments de F. Olivier-Martin sont au nombre de trois : 1. le <title>Livre la Roine</title>, qu’il date d’environ 1240, recourt à cette traduction ; 2. la traduction ne recourt pas à la glose d’Accurse ; 3. surtout <q xml:lang="lat">in metallum damnare</q> est traduit par
-            <quote>damn[er] a peinde porter metal, si conme cil a qui on fait mantel de plonc</quote>, ce qui serait une réminiscence du supplice imposé à Geoffrey de Norwich en 1213. Ces arguments sont pour le moins fragiles : 1. Lorenzo Mainini, dans une recherche à paraître, a bien montré que le <title>Livre la Roine</title> était postérieur au <title>Conseil</title> de Pierre de Fontaines ; 2. le traducteur insère des gloses dans sa traduction et se sert de gloses pour traduire. Il est bien difficile de décider si ces gloses étaient préaccursiennes ou non, parce qu’elles se retrouvent chez Accurse. D’autre part, il se pourrait très bien qu’un traducteur n’ait pas utilisé la glose d’Accurse à la fin de la première moitié du 13<hi rend="sup">e</hi> siècle. 3. Enfin, la traduction du latin <q xml:lang="lat">in metallum damnare</q> résulte surtout de la méconnaissance de cette peine, qui conduit le traducteur à imaginer un supplice, que l’on retrouve chez Dante, comme le rappelle F. Olivier-Martin.</p>
+            <hi rend="i">ca</hi> 1220-1230, faisant ainsi de cette traduction la première translation française d’une partie du <title xml:lang="lat">Corpus juris civilis</title>. Les arguments de F. Olivier-Martin sont au nombre de trois : 1. le <title>Livre la Roine</title>, qu’il date d’environ 1240, recourt à cette traduction ; 2. la traduction ne recourt pas à la glose d’Accurse ; 3. surtout <foreign xml:lang="lat">in metallum damnare</foreign> est traduit par
+            <quote>damn[er] a peinde porter metal, si conme cil a qui on fait mantel de plonc</quote>, ce qui serait une réminiscence du supplice imposé à Geoffrey de Norwich en 1213. Ces arguments sont pour le moins fragiles : 1. Lorenzo Mainini, dans une recherche à paraître, a bien montré que le <title>Livre la Roine</title> était postérieur au <title>Conseil</title> de Pierre de Fontaines ; 2. le traducteur insère des gloses dans sa traduction et se sert de gloses pour traduire. Il est bien difficile de décider si ces gloses étaient préaccursiennes ou non, parce qu’elles se retrouvent chez Accurse. D’autre part, il se pourrait très bien qu’un traducteur n’ait pas utilisé la glose d’Accurse à la fin de la première moitié du 13<hi rend="sup">e</hi> siècle. 3. Enfin, la traduction du latin <foreign xml:lang="lat">in metallum damnare</foreign> résulte surtout de la méconnaissance de cette peine, qui conduit le traducteur à imaginer un supplice, que l’on retrouve chez Dante, comme le rappelle F. Olivier-Martin.</p>
           <p>La chronologie relative à d’autres textes, citant la traduction, peut seule aider. Or les <title>Poines de la duchee d’Orliens</title>, composées entre <hi rend="i">ca</hi> 1235 et 1255, en tout cas avant la grande ordonnance de 1256 (cf. <bibl>F. Olivier-Martin, <title level="a">Les ‘Poines de la duchée d’Orliens’</title>, dans <title>Revue historique de droit français et étranger</title>, 1928, p. 419-421</bibl>), font usage de cette version française des <title xml:lang="lat">Institutiones</title>, comme ce sera le cas, un peu plus tard du <title>Livre de jostice et de plet</title>. La traduction était sans doute achevée à la toute fin de la première moitié du 13<hi rend="sup">e</hi> siècle. Quant au <hi rend="i">terminus a quo</hi>, il reste à préciser, mais il ne saurait être antérieur aux années 1220. Il reste toutefois probable que la traduction en prose des
             <title>Institutes</title> fut la première traduction achevée d’une des parties du <title xml:lang="lat">Corpus juris civilis</title>.</p>
           <p><bibl>F. Olivier-Martin (p. xv-xviii)</bibl>, sans rejeter une possible origine parisienne ou orléanaise, suit l’hypothèse d’une localisation normande de la traduction sur la base de régionalismes lexicaux et d’analogies stylistiques avec le <title>Très ancien coutumier de Normandie</title>. Les développements, assez convaincants, d’Olivier-Martin mériteraient d’être approfondis.</p>
           <p>La traduction donne une <q>image fidèle du manuel de Justinien</q> (<bibl>Olivier-Martin, p. xix</bibl>). Le traducteur s’est montré aussi bon juriste que bon latiniste et prosateur. Aidé de gloses, qu’il insère parfois dans son texte, le traducteur rend le texte-source sans céder aux latinismes, mais en s’efforçant toujours de rendre la lettre du latin. Quand il s’en écarte, c’est surtout par souci de clarté. L’absence d’autre traduction des
             <title>Institutes</title> jusqu’à la fin du Moyen Age et l’ample succès de cette version prouvent qu’elle s’imposa comme une réussite. La langue et le contenu des <title xml:lang="lat">Institutiones</title> étaient, il est vrai, bien plus faciles à rendre en français que pour les autres parties du <title xml:lang="lat">Corpus juris civilis</title>, mais il était également aisé d’entreprendre le remaniement d’un traduction moins longue que le
             <title>Code</title> ou le <title>Digeste</title>, dont on compte plusieurs versions françaises. Tout au plus remarque-t-on une modernisation linguistique systématique dans le ms Bruxelles, Bibl. royale 10467 accompagné de l’insertion dans le corps du texte des incipits latins des paragraphes.</p>
+          
           <div type="tradition_texte">
             <head>Tradition textuelle</head>
-            <list type="listWit">
+            
+            <div type="listWit">
               <head>Conspectus siglorum</head>
-              <item xml:id="A">
-                <ref target="authenticum.xml#fr_498">
-                  <msDesc corresp="authenticum.xml#fr_498">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Paris</settlement>
-                      <repository>Bibl. nat. de Fr.</repository>
-                      <idno>fr. 498</idno>
-                      <altIdentifier>
-                        <idno>A</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </item>
-              <witness xml:id="B">
-                <ref target="#fr_1063">
-                  <msDesc corresp="#fr_1063">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Paris</settlement>
-                      <repository>Bibl. nat. de Fr.</repository>
-                      <idno>fr. 1063</idno>
-                      <altIdentifier>
-                        <idno>B</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="C">
-                <ref target="#fr_1064">
-                  <msDesc corresp="#fr_1064">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Paris</settlement>
-                      <repository>Bibl. nat. de Fr.</repository>
-                      <idno>fr. 1064</idno>
-                      <altIdentifier>
-                        <idno>C</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="D">
-                <ref target="#fr_1065">
-                  <msDesc corresp="#fr_1065">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Paris</settlement>
-                      <repository>Bibl. nat. de Fr.</repository>
-                      <idno>fr. 1065</idno>
-                      <altIdentifier>
-                        <idno>D</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="E">
-                <ref target="#fr_1928">
-                  <msDesc corresp="#fr_1928">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Paris</settlement>
-                      <repository>Bibl. nat. de Fr.</repository>
-                      <idno>fr. 1928</idno>
-                      <altIdentifier>
-                        <idno>E</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="F">
-                <ref target="authenticum.xml#fr_22970">
-                  <msDesc corresp="authenticum.xml#fr_22970">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Paris</settlement>
-                      <repository>Bibl. nat. de Fr.</repository>
-                      <idno>fr. 22970</idno>
-                      <altIdentifier>
-                        <idno>F</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="G">
-                <ref target="#stomer_439">
-                  <msDesc corresp="#stomer_439">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Saint-Omer</settlement>
-                      <repository>bibl. mun.</repository>
-                      <idno>439</idno>
-                      <altIdentifier>
-                        <idno>G</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="H">
-                <ref target="#montpellier_h316">
-                  <msDesc corresp="#montpellier_h316">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Montpellier</settlement>
-                      <repository>bibl. interuniversitaire, section Médecine</repository>
-                      <idno>H 316</idno>
-                      <altIdentifier>
-                        <idno>H</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="I">
-                <ref target="#montpellier_h373">
-                  <msDesc corresp="#montpellier_h373">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Montpellier</settlement>
-                      <repository>bibl. interuniversitaire, section Médecine</repository>
-                      <idno>H 373</idno>
-                      <altIdentifier>
-                        <idno>I</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="K">
-                <ref target="#glasgow_hunter63">
-                  <msDesc corresp="#glasgow_hunter63">
-                    <msIdentifier>
-                      <country>Ecosse</country>
-                      <settlement>Glasgow</settlement>
-                      <repository>University Library</repository>
-                      <idno>MS Hunter 63</idno>
-                      <altIdentifier>
-                        <idno>K</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="L">
-                <ref target="authenticum.xml#kbr_10467">
-                  <msDesc corresp="authenticum.xml#kbr_10467">
-                    <msIdentifier>
-                      <country>Belgique</country>
-                      <settlement>Bruxelles</settlement>
-                      <repository>Bibl. royale de Belgique</repository>
-                      <idno>10467</idno>
-                      <altIdentifier>
-                        <idno>L</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="M">
-                <ref target="#lat_1927">
-                  <msDesc corresp="#lat_1927">
-                    <msIdentifier>
-                      <country>Vatican</country>
-                      <settlement>Vaticano</settlement>
-                      <repository>Bibl. apostolica Vaticana</repository>
-                      <idno>Reg. lat. 1927</idno>
-                      <altIdentifier>
-                        <idno>M</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="N">
-                <ref target="#orleans_393">
-                  <msDesc corresp="#orleans_393">
-                    <msIdentifier>
-                      <country>France</country>
-                      <settlement>Orléans</settlement>
-                      <repository>bibl. mun.</repository>
-                      <idno>393</idno>
-                      <altIdentifier>
-                        <idno>N</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="O">
-                <ref target="authenticum.xml#bl_royal20">
-                  <msDesc corresp="authenticum.xml#bl_royal20">
-                    <msIdentifier>
-                      <country>Angleterre</country>
-                      <settlement>London</settlement>
-                      <repository>British Libr.</repository>
-                      <idno>Royal 20.D.IX</idno>
-                      <altIdentifier>
-                        <idno>O</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
+              
+              <p>
+                <listWit>
+                  <witness xml:id="A">
+                    <ref target="authenticum.xml#fr_498">
+                      <msDesc corresp="authenticum.xml#fr_498">
+                        <msIdentifier>
+                          <country>France</country>
+                          <settlement>Paris</settlement>
+                          <repository>Bibl. nat. de Fr.</repository>
+                          <idno>fr. 498</idno>
+                          </msIdentifier>
+                      </msDesc>
+                    </ref>
+                  </witness>
+                </listWit>                               
+              </p>
+              
+              <p>
+                <listWit>
+                  <witness xml:id="B">
+                    <ref target="#fr_1063">
+                      <msDesc corresp="#fr_1063">
+                        <msIdentifier>
+                          <country>France</country>
+                          <settlement>Paris</settlement>
+                          <repository>Bibl. nat. de Fr.</repository>
+                          <idno>fr. 1063</idno>
+                          </msIdentifier>
+                      </msDesc>
+                    </ref>
+                  </witness>
+                </listWit>
+              </p>            
+            
+            <p>
+              <listWit>
+                <witness xml:id="C">
+                  <ref target="#fr_1064">
+                    <msDesc corresp="#fr_1064">
+                      <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <repository>Bibl. nat. de Fr.</repository>
+                        <idno>fr. 1064</idno>                       
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                  </witness>  
+              </listWit>
+                </p>            
+                     
+            <p>
+              <listWit>
+                <witness xml:id="D">
+                  <ref target="#fr_1065">
+                    <msDesc corresp="#fr_1065">
+                      <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <repository>Bibl. nat. de Fr.</repository>
+                        <idno>fr. 1065</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit>
+            </p>
+          
+      <p><listWit>
+        <witness xml:id="E">
+          <ref target="#fr_1928">
+            <msDesc corresp="#fr_1928">
+              <msIdentifier>
+                <country>France</country>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 1928</idno>
+              </msIdentifier>
+            </msDesc>
+          </ref>
+        </witness>
+      </listWit></p>
+           
+              <p><listWit>
+                <witness xml:id="F">
+                  <ref target="authenticum.xml#fr_22970">
+                    <msDesc corresp="authenticum.xml#fr_22970">
+                      <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <repository>Bibl. nat. de Fr.</repository>
+                        <idno>fr. 22970</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+            
+              <p><listWit>
+                <witness xml:id="G">
+                  <ref target="#stomer_439">
+                    <msDesc corresp="#stomer_439">
+                      <msIdentifier>
+                        <country>France</country>
+                        <settlement>Saint-Omer</settlement>
+                        <repository>bibl. mun.</repository>
+                        <idno>439</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+            
+             <p><listWit>
+               <witness xml:id="H">
+                 <ref target="#montpellier_h316">
+                   <msDesc corresp="#montpellier_h316">
+                     <msIdentifier>
+                       <country>France</country>
+                       <settlement>Montpellier</settlement>
+                       <repository>bibl. interuniversitaire, section Médecine</repository>
+                       <idno>H 316</idno>
+                     </msIdentifier>
+                   </msDesc>
+                 </ref>
+               </witness>
+             </listWit></p>
+            
+              <p><listWit>
+                <witness xml:id="I">
+                  <ref target="#montpellier_h373">
+                    <msDesc corresp="#montpellier_h373">
+                      <msIdentifier>
+                        <country>France</country>
+                        <settlement>Montpellier</settlement>
+                        <repository>bibl. interuniversitaire, section Médecine</repository>
+                        <idno>H 373</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+              
+              <p><listWit>
+                <witness xml:id="K">
+                  <ref target="#glasgow_hunter63">
+                    <msDesc corresp="#glasgow_hunter63">
+                      <msIdentifier>
+                        <country>Ecosse</country>
+                        <settlement>Glasgow</settlement>
+                        <repository>University Library</repository>
+                        <idno>MS Hunter 63</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+            
+              <p><listWit>
+                <witness xml:id="L">
+                  <ref target="authenticum.xml#kbr_10467">
+                    <msDesc corresp="authenticum.xml#kbr_10467">
+                      <msIdentifier>
+                        <country>Belgique</country>
+                        <settlement>Bruxelles</settlement>
+                        <repository>Bibl. royale de Belgique</repository>
+                        <idno>10467</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+            
+             <p><listWit>
+               <witness xml:id="M">
+                 <ref target="#lat_1927">
+                   <msDesc corresp="#lat_1927">
+                     <msIdentifier>
+                       <country>Vatican</country>
+                       <settlement>Vaticano</settlement>
+                       <repository>Bibl. apostolica Vaticana</repository>
+                       <idno>Reg. lat. 1927</idno>
+                     </msIdentifier>
+                   </msDesc>
+                 </ref>
+               </witness>
+             </listWit></p>
+            
+              <p><listWit>
+                <witness xml:id="N">
+                  <ref target="#orleans_393">
+                    <msDesc corresp="#orleans_393">
+                      <msIdentifier>
+                        <country>France</country>
+                        <settlement>Orléans</settlement>
+                        <repository>bibl. mun.</repository>
+                        <idno>393</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+              
+              <p><listWit>
+                <witness xml:id="O">
+                  <ref target="authenticum.xml#bl_royal20">
+                    <msDesc corresp="authenticum.xml#bl_royal20">
+                      <msIdentifier>
+                        <country>Angleterre</country>
+                        <settlement>London</settlement>
+                        <repository>British Libr.</repository>
+                        <idno>Royal 20.D.IX</idno>
+                      </msIdentifier>
+                    </msDesc>
+                  </ref>
+                </witness>
+              </listWit></p>
+            
+            <p><listWit>
               <witness xml:id="P">
                 <ref target="#institutes_perdu13">
                   <msDesc corresp="#institutes_perdu13">
@@ -327,14 +339,14 @@
                       <country>France</country>
                       <settlement>Poitiers</settlement>
                       <repository>Archives départementales de la Vienne</repository>
-                      <idno/>
-                      <altIdentifier>
-                        <idno>P</idno>
-                      </altIdentifier>
+                      <idno>perdu</idno>
                     </msIdentifier>
                   </msDesc>
                 </ref>
               </witness>
+            </listWit></p>
+              
+            <p><listWit>
               <witness xml:id="Q">
                 <ref target="#institutes_perdu12">
                   <msDesc corresp="#institutes_perdu12">
@@ -343,64 +355,62 @@
                       <settlement>Strasbourg</settlement>
                       <repository>Bibl. nationale et universitaire</repository>
                       <idno>latin 822</idno>
-                      <altIdentifier>
-                        <idno>Q</idno>
-                      </altIdentifier>
                     </msIdentifier>
                   </msDesc>
                 </ref>
               </witness>
+            </listWit></p>
+            
+            <p><listWit>
               <witness xml:id="R">
                 <ref target="#princeton_kane_ms49">
                   <msDesc corresp="#princeton_kane_ms49">
                     <msIdentifier>
                       <country>Etats-Unis</country>
                       <settlement>Princeton</settlement>
-                      <repository>University Library</repository>
-                      <collection>Manuscripts Division</collection>
+                      <repository>Manuscripts Division</repository>
                       <idno>Kane MS. 49</idno>
-                      <altIdentifier>
-                        <idno>R</idno>
-                      </altIdentifier>
                     </msIdentifier>
                   </msDesc>
                 </ref>
               </witness>
-              <witness xml:id="S">
-                <ref target="#washington_i71">
-                  <msDesc corresp="#washington_i71">
-                    <msIdentifier>
-                      <country>Etats-Unis</country>
-                      <settlement>Washington D. C.</settlement>
-                      <repository>Library of Congress</repository>
-                      <collection>Law Library</collection>
-                      <idno>I.71</idno>
-                      <altIdentifier>
-                        <idno>S</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-              <witness xml:id="T">
-                <ref target="#leiden_bpl3201">
-                  <msDesc corresp="#leiden_bpl3201">
-                    <msIdentifier>
-                      <country>Pays-Bas</country>
-                      <settlement>Leiden</settlement>
-                      <repository>Universiteitsbibliotheek</repository>
-                      <idno>BPL 3201</idno>
-                      <altIdentifier>
-                        <idno>T</idno>
-                      </altIdentifier>
-                    </msIdentifier>
-                  </msDesc>
-                </ref>
-              </witness>
-            </list>
-            <p><bibl>F. Olivier-Martin (p. xxxviii-xl)</bibl> a étudié la tradition des
-              <title>Institutes</title> en prose qu’il a résumée sous forme d’un stemma à trois branches. L’examen mériterait d’être repris à nouveaux frais, car Olivier-Martin, intéressé par l’établissement du texte, néglige les témoins tardifs dont il fait les descendants de témoins proches antérieurs. Etant donné le nombre de manuscrits et les lacunes de certains, il n’a pas été possible d’aboutir à une vision synthétique et complète de la tradition. Tout au plus pouvons-nous préciser certaines relations à l’intérieur d’une tradition qui semble par ailleurs contaminée :</p>
-            <list type="temoins">
+            </listWit></p> 
+            
+                           
+           <p><listWit>
+             <witness xml:id="S">
+               <ref target="#washington_i71">
+                 <msDesc corresp="#washington_i71">
+                   <msIdentifier>
+                     <country>Etats-Unis</country>
+                     <settlement>Washington D. C.</settlement>
+                     <repository>Law Library</repository>
+                     <idno>I.71</idno>
+                   </msIdentifier>
+                 </msDesc>
+               </ref>
+             </witness>
+           </listWit></p>
+            
+             <p><listWit>
+               <witness xml:id="T">
+                 <ref target="#leiden_bpl3201">
+                   <msDesc corresp="#leiden_bpl3201">
+                     <msIdentifier>
+                       <country>Pays-Bas</country>
+                       <settlement>Leiden</settlement>
+                       <repository>Universiteitsbibliotheek</repository>
+                       <idno>BPL 3201</idno>
+                     </msIdentifier>
+                   </msDesc>
+                 </ref>
+               </witness>
+             </listWit></p>   
+          </div>
+            
+            <div><!-- LG 13/06/2019 revoir l'intitulé de cet head --><head>Tradition de F. Olivier-Martin augmentée</head><p><bibl><author>F. Olivier-Martin</author> (p. xxxviii-xl)</bibl> a étudié la tradition des
+              <title>Institutes</title> en prose qu’il a résumée sous forme d’un stemma à trois branches. L’examen mériterait d’être repris à nouveaux frais, car Olivier-Martin, intéressé par l’établissement du texte, néglige les témoins tardifs dont il fait les descendants de témoins proches antérieurs. Etant donné le nombre de manuscrits et les lacunes de certains, il n’a pas été possible d’aboutir à une vision synthétique et complète de la tradition. Tout au plus pouvons-nous préciser certaines relations à l’intérieur d’une tradition qui semble par ailleurs contaminée :</p></div>            
+          <div type="temoins"><head>Liste des témoins</head>  <list type="temoins">
               <item><label>Groupe <hi rend="i">ABD</hi></label>
                 <p><hi rend="i">ABD</hi> présentent des fautes communes : Inst. 2.20 est copié dans ces trois témoins sans solution de continuité avec Inst. 2.19 ; <app>
                   <rdg wit="#C #E #F #G #I #L #N #M">que il se donna a</rdg>
@@ -518,22 +528,41 @@
                   <title xml:lang="lat">Parvum volumen</title> français, mais d’une version transmise de façon autonome.</p>
               </item>
             </list>
-            <p>Le tableau de la tradition présenté par F. Olivier-Martin est donc largement à reprendre. Toutefois, le choix de <hi rend="i">C</hi> comme base de son édition, à défaut de <hi rend="i">R</hi> qu’il reste à examiner, reste parfaitement justifié.</p>
-            <listBibl>
+            
+            <p>Le tableau de la tradition présenté par F. Olivier-Martin est donc largement à reprendre. Toutefois, le choix de <hi rend="i">C</hi> comme base de son édition, à défaut de <hi rend="i">R</hi> qu’il reste à examiner, reste parfaitement justifié.</p></div>
+              
+              
+            <div type="listBibl">
               <head>Bibliographie</head>
-              <bibl>Félix Olivier-Martin, <title>Les <title>Institutes</title> de Justinien en français: traduction anonyme du XIII<hi rend="sup">e</hi> siècle</title>, Paris, 1935</bibl>
+              <bibl><author>Félix Olivier-Martin</author>, <title>Les <title>Institutes</title> de Justinien en français: traduction anonyme du XIII<hi rend="sup">e</hi> siècle</title>, Paris, 1935</bibl>
               <bibl>Claudio Galderisi (dir.), <title>Translations médiévales: Cinq siècles de traductions en français au Moyen Âge (XI<hi rend="sup">e</hi>-XV<hi rend="sup">e</hi> siècles)</title>, Turnhout, 2011, vol. 2, t. I, n° 356, p. 638-639 [notice de Stefania Cerrito]</bibl>
-            </listBibl>
+            </div>
+            
           </div>
+      
           <div type="soustraduction" n="I.1.1" xml:id="tradition_directe">
             <head>Tradition directe</head>
-            <div type="manuscrit">
-              <list type="listMs">
+                 <div type="listMs">
                 <head>Copies existantes</head>
-                <item xml:id="kbr_10467"><ref target="authenticum.xml#kbr_10467">Bruxelles, Bibl. royale de Belgique, 10467 (sigle L)</ref></item>
-                <item><!-- xml:id="glasgow_hunter63" -->
-                  <msDesc xml:id="glasgow_hunter63"><!-- type="manifestation_singleton" -->
-                    <msIdentifier>
+                   
+                   <div xml:id="kbr_10467">
+                     <head>Bruxelles, kbr 10467 (sigle L)</head>
+                     <p><ref target="authenticum.xml#kbr_10467">Bruxelles, Bibl. royale de Belgique, 10467 (sigle L)</ref></p>
+                   <!-- LG 14/06/2019 par un souci d’homogénéité avec les autres notices, j'avais pensé mettre le msDesc (et ce qui va avec, mais, finalement, il y avait juste un dédoublement des infos
+                     <msDesc xml:id="kbr_10467">
+                     <msIdentifier>
+                       <country>Belgique</country>
+                       <settlement>Bruxelles</settlement>
+                       <repository>Bibl. royale de Belgique</repository>
+                       <idno>10467 (sigle L)</idno>
+                     </msIdentifier>
+                   </msDesc>-->
+                   </div>
+                   
+                  
+                   <div>
+                     <head>Glasgow, MS Hunter 63</head>
+                     <msDesc xml:id="glasgow_hunter63"><!-- type="manifestation_singleton" -->                               <msIdentifier>
                       <country>Ecosse</country>
                       <settlement>Glasgow</settlement>
                       <repository>University Library</repository>
@@ -1165,7 +1194,7 @@
                         </decoNote>
                         <decoNote>
                           <label>Iconographie</label>
-                          <p><locus from="1a">En tête de la traduction (f. 1a)</locus>[dessin à la mine de plomb de 8 UR], Justinien, barbu, couronné et tenant un livre dans la main droite et un sceptre dans la gauche, assis de face sur un trône. A sa droite et à sa gauche, un clerc revêtu d’une coule fourrée d’hermine. Le clerc à la droite de l’empereur se tient debout, tête nue, un rouleau à la main droite. Le second clerc, la tête recouverte de son capuchon, lève la main droite et pointe de la gauche vers le livre de l’empereur ou le rouleau de l’autre clerc.</p>
+                          <p><locus from="1a">En tête de la traduction (f. 1a)</locus> [dessin à la mine de plomb de 8 UR], Justinien, barbu, couronné et tenant un livre dans la main droite et un sceptre dans la gauche, assis de face sur un trône. A sa droite et à sa gauche, un clerc revêtu d’une coule fourrée d’hermine. Le clerc à la droite de l’empereur se tient debout, tête nue, un rouleau à la main droite. Le second clerc, la tête recouverte de son capuchon, lève la main droite et pointe de la gauche vers le livre de l’empereur ou le rouleau de l’autre clerc.</p>
                         </decoNote>
                       </decoDesc>
                       <bindingDesc>
@@ -1178,10 +1207,10 @@
                         <origPlace>France (nord-est de la Picardie linguistique)</origPlace>
                       </origin>
                       <provenance>
-                        <p><label>Provenance</label>A fait partie de la bibliothèque de
+                        <p><label>Provenance</label> A fait partie de la bibliothèque de
                           <persName role="possesseur" key="William Hunter">William Hunter</persName> (1718-1783) ; retenu à Londres jusqu’en 1807 par <persName role="possesseur" key="Matthew Baillie">Matthew Baillie</persName>, neveu de Hunter, avant d’entrer dans les collections de l’université de Glasgow.</p></provenance>
                       <provenance>
-                        <p><label>Anciennes cotes</label><idno type="old">No. 1236</idno> (sur le 2e f. de garde parch. recto ; d’une main du 18e s. ; peut-être un numéro de lot?) ; <idno type="old">S.3.11</idno>; <idno type="old">S.3.37</idno> ;
+                        <p><label>Anciennes cotes</label> <idno type="old">No. 1236</idno> (sur le 2e f. de garde parch. recto ; d’une main du 18e s. ; peut-être un numéro de lot?) ; <idno type="old">S.3.11</idno>; <idno type="old">S.3.37</idno> ;
                           <idno type="old">T.3.1</idno>.</p>
                       </provenance>
                     </history>
@@ -1194,6 +1223,7 @@
                       </listBibl>
                     </additional>
                   </msDesc>
+                     
                   <div type="edition">
                     <head>Édition</head>
                     <div type="edition" n="1">
@@ -1207,7 +1237,8 @@
                         <label>[6]</label> Ne porquant li testament qui furent fet a droit au <expan><ex>com</ex>me<ex>n</ex>chement</expan> et puis sont fet vain par amenuissement de chief. ne sont pas del tout sanz proufit. Car se il sont seellé dez seauz a .vii. tesmoins cil qui fu fez oirs puet rechevoir la possession des biens. selon lez tablez dou testament. Se cil qui fist le testament estoit Citoyen de Rome . et ilh n’estoit pas en autrui poesté quant il fu mors. Car se li testamenz est vains <expan>po<ex>ur</ex></expan> che que cil qui le fist a perdue la Cité de Rome ou <expan>fra<ex>n</ex>chise</expan>. <pb n="f. 27d"/> ou que il se <expan>do<ex>n</ex>na</expan> a estre filz adoptif quant il fu morz. Cil qui fu fez oirz ou […] testament ne puet pas demander la possession de ses biens. selonc les tables dou testament ¶
                         <label>[7]</label> Testament ne puet pas estre quassez <expan>po<ex>ur</ex></expan> che sanz plus que cil qui le fist ne vost pas tele evre fu aprés ce que il vausist Car se aucuns a fet son testament par droit / et il comenche aprés a fere i. autre / et la mort le devanchast ou se il s’en repent si qu’il ne le <expan>p<ex>ar</ex>fet</expan> pas. Li empereres <expan>P<ex>er</ex>tin</expan>[…] establist que li premier testament ne soit pas <expan>po<ex>ur</ex></expan> ce vains. car testament qui n’est pas fez n’est nuz.
                         <label>[8]</label> par celle meimes reson dist il que il ne rechevra pas l’eritage a celui qui fet de lui sen oir. par cause de plet. et que il p[…] veoir que lez causez ne furent pas fetes loiaument en quoi il estoit establiz oirz <expan>po<ex>ur</ex></expan> celle cause. et que il ne rechevra pas non d’oir <expan>po<ex>ur</ex></expan> une v[…] et que il ne <expan><ex>con</ex>querra</expan> nule cose par escripture a cui la victoire de droit faille. et selonc ce escristrent souvent li s. empereeur. Sevoir et An[…] Ja soit che font ilh que <expan>no<ex>us</ex></expan> soions […] des loys. ne <expan>po<ex>ur</ex>quant</expan> <expan>no<ex>us</ex></expan> ne volons riens <expan>contre<ex>re</ex></expan> aus loys. </p>
-                    </div>
+                    </div><!-- LG 14/06/2019 fermeture div type edition 1 -->
+                    
                     <div type="edition" n="2">
                       <head>Inst. 4.17.1-18.4-fin</head>
                       <p xml:id="glasgow_hunter63-4.17"><seg type="rubric">Cist tytre parole de l’office au juge</seg> Il convient que <expan>no<ex>us</ex></expan> traitons de l’office au juge. et li juges doit garder premierement que il ne juge forz si <expan><ex>com</ex>me</expan> il est establi <expan>p<ex>ar</ex></expan> lez lois ou par lez <expan>establisseme<ex>n</ex>z</expan> ou <expan>p<ex>ar</ex></expan> les coustumez. ¶
@@ -1220,12 +1251,16 @@
                         <label>[18.9]</label> La loy que <expan>Juli<ex>us</ex></expan> fist de larrecin punist cens qui amblent denierz ou chose <expan><ex>com</ex>mune</expan> ou sainte ou religieuse. et se li juge emblent lez <expan><ex>com</ex>muns</expan> denierz el tens que il sont em baillie il <expan>doive<ex>n</ex>t</expan> soufrir painne capital. et ne mie il <expan>ta<ex>n</ex>t</expan> seulement. mez cil qui lez ont serviz et aidez a ce fere. ¶ Et cil qui a leur escient lez ont receuz <expan>q<ex>ua</ex>nt</expan> il lez orent emblez. et li autre qui encherront en ceste loi seront envoyé en essill. ¶
                         <label>[18.10]</label> Et la loy que Flavius fist de ceus qui navrerent lez homes. est entre lez <expan><ex>com</ex>muns</expan> jugemenz. qui donne <expan>aucu<ex>n</ex>ne</expan> foiz <expan>pai<ex>n</ex>ne</expan> capital <expan>p<ex>ar</ex></expan> lez sainz estalissemenz et <expan>aucu<ex>n</ex>ne</expan> fois plus legiere. ¶
                         <label>[18.11]</label> Par desus ce sont <expan><ex>com</ex>mun</expan> <expan>jugeme<ex>n</ex>t</expan> lez lois que <expan>Juli<ex>us</ex></expan> fist de pluseurs articles. qui parloient de certains chevaliers par quoi cil qui sont corpable ne sont pas traitié a mort / ainz souzmetent autrez paines. a ceux qui lez destrussent. ¶
-                        <label>[18.12]</label> Et <expan>no<ex>us</ex></expan> avons ce dit dez <expan><ex>com</ex>muns</expan> jugemenz que noz i puissons atouchier autresi <expan><ex>com</ex>me</expan> au bout dou doi ¶ Ce est que <expan>vo<ex>us</ex></expan> en puissiez avoir <expan>aucu<ex>n</ex></expan> poi de la <expan>co<ex>n</ex>noissance</expan>. mez plus deligens enseignemens <expan>no<ex>us</ex></expan> en sera <expan>do<ex>n</ex>nez</expan> el livre de digeste se dieu plest. </p>
-                    </div>
-                  </div>
-                </item>
-                <item xml:id="bl_royal20"><ref target="authenticum.xml#bl_royal20">Londres, British Libr., Royal 20.D.IX (sigle O)</ref></item>
-                <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541"><!--  xml:id="montpellier_h316" -->
+                        <label>[18.12]</label> Et <expan>no<ex>us</ex></expan> avons ce dit dez <expan><ex>com</ex>muns</expan> jugemenz que noz i puissons atouchier autresi <expan><ex>com</ex>me</expan> au bout dou doi ¶ Ce est que <expan>vo<ex>us</ex></expan> en puissiez avoir <expan>aucu<ex>n</ex></expan> poi de la <expan>co<ex>n</ex>noissance</expan>. mez plus deligens enseignemens <expan>no<ex>us</ex></expan> en sera <expan>do<ex>n</ex>nez</expan> el livre de digeste se dieu plest. </p></div> <!-- LG 14/06/2019 fermeture div type édition 2 -->
+                  
+                  </div><!-- LG 13/06/2019 fermeture div type édition -->
+                   </div><!-- LG 14/06/2019 fermeture div MS Hunter 63 -->
+                   
+                   <div xml:id="bl_royal20"><head>Londres, Bl Royal 20</head><p><ref target="authenticum.xml#bl_royal20">Londres, British Libr., Royal 20.D.IX (sigle O)</ref></p></div>
+                
+                   <div>
+                  <head>Montpellier, H 316</head>
+                     <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541">Montpellier, bibl. interuniversitaire, section Médecine</ref></p>
                   <msDesc xml:id="montpellier_h316"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -1833,9 +1868,12 @@
                       </listBibl>
                     </additional>
                   </msDesc>
+                   
+               
                   <div type="edition">
                     <head>Édition</head>
                     <div type="edition" n="1">
+                      <!-- LG 12/06/2019 est-ce le label qui suit peut-il être un "head" - étant donné que le head est obligatorie dans le div ? <head/> -->                    
                       <label>Inst. Prologue</label>
                       <p xml:id="montpellier_h316-prol">Il covient que la majesté l’enpereeur soit atornee non mie tant seulement d’armes mes de lois. Si que li uns <expan><ex>et</ex></expan> li autres <expan>ta<ex>n</ex>s</expan> ce est cil de pez <expan><ex>et</ex></expan> cil de guerre que il puissent estre <expan>gov<ex>er</ex>nez</expan> par droit <expan><ex>et</ex></expan> li enpereres de rome soit vainquierres non mie tant seulemant es batailles que il a <expan><ex>con</ex>tre</expan> ses anemis ainz boute arrires par les forces des lois les desleautez a ceus qui acusent faussement. <expan><ex>et</ex></expan> il soit autresi vainquierres par la reson de droit <expan><ex>com</ex></expan> il est <expan><ex>con</ex>tre</expan> ses anemis.
                         <label>[1]</label> <expan><ex>et</ex></expan> nos avon parfet par l’aide de dieu l’une <expan><ex>et</ex></expan> l’autre voie. par <expan>g<ex>ra</ex>nz</expan> veilliees <expan><ex>et</ex></expan> par soveraine proesce. <expan><ex>et</ex></expan> les estranges <expan>ge<ex>n</ex>z</expan> qui ont esté amenez sor vostre jou quenoissent les euvres que nos avons fetes es batailles en aufrique <expan><ex>et</ex></expan> en autres pluseurs <expan><ex>con</ex>trees</expan>. sor <expan>q<ex>uo</ex>i</expan> dex nos a doné victoire <expan><ex>et</ex></expan> <expan>re<ex>con</ex>noissent</expan> bien <expan>q<ex>u’e</ex>les</expan> sont de rechief souzmises a la poesté de rome <expan><ex>et</ex></expan> de nostre enpire. Tuit li pueple <expan>so<ex>n</ex>t</expan> <expan>gov<ex>er</ex>né</expan> par droit par les lois que nos avons fetes <expan><ex>et</ex></expan> <expan>p<ex>ar</ex></expan> celes que nos avons ordenees.
@@ -1861,8 +1899,12 @@
                       </p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q"><!--  xml:id="montpellier_h373" -->
+                 </div>
+                   
+                   <!-- LG 14/06/2019 l’attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q" n'est pas valide dans div ci-dessous (il l'était dans item) -->
+                   <div>
+                  <head>Montpellier, H 373</head>
+                     <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q">Montpellier, bibl. interuniversitaire, section Médecine</ref></p>
                   <msDesc xml:id="montpellier_h373"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -2036,6 +2078,7 @@
                           <msItem>
                             <locus from="17d"/>
                             <title type="sub">[Inst. 2.3]</title>
+                            <!-- LG 13/06/2019 il me semble que l'élément unclear n'a pas été defini dans le schéma. Selon la TEI c'est un éléménet qui peut être bien contenu dans seg.  -->
                             <incipit><seg type="rubric">Cest <expan>ty<ex>tres</ex></expan> est des <unclear>gouveides</unclear><note>lecture incertaine ; 4 jambages après <hi rend="i">o</hi></note></seg>
                               <supplied resp="#FD"><title xml:lang="lat">De servitutibus</title> ;<seg type="incipit">Les droitures des possessions des chans sont cestes : sentiers, chans, charieres, voies doiz d’eve.</seg></supplied></incipit>
                           </msItem>
@@ -2504,9 +2547,11 @@
                       </listBibl>
                     </additional>
                   </msDesc>
+                                          
                   <div type="edition">
                     <head>Édition</head>
                     <div type="edition" n="1">
+                      <!-- LG 12/06/2019 un head serait obligatoire, dans div. Cependant, il faut voir si l’on peut mettre le texte du label dans le head ou non. Est-ce le label est-il vraiment un label ?  -->
                       <label>Inst. 2.17</label>
                       <p xml:id="montpellier_h373-2.17"><seg type="rubric">Cest tytres en quel maniere testament est quasserz</seg><pb n="f. 29a"/> Testament qui est fait a droit <expan>va<ex>u</ex>t</expan> tant que il soit rous ou que il soit vains. ¶ <label>[1]</label> Testament est rous quant la droiture en est abatue tant <expan><ex>com</ex>me</expan> cil qui fist testament et en cel meismes estat ou il estoit quant il le fist <expan>q<ex>ue</ex>r</expan> se aucun fet son fuiz <expan>p<ex>ar</ex></expan> adoption <expan>p<ex>ar</ex></expan> l’<expan>emp<ex>er</ex>eour</expan> de celui qui estoit en la poosté son pere et il fait ce puis <expan>q<ex>ue</ex></expan> il a fet son testament. li <expan>testam<ex>en</ex>t</expan> est tout autresi <expan><ex>com</ex>me</expan> se uns oirs fuist puis nez. ¶ <label>[2]</label> Li <expan>p<ex>re</ex>miers</expan> testament <expan>q<ex>ue</ex></expan> aucuns fist est rous. <expan>p<ex>ar</ex></expan> le deraen qui <expan>e<ex>st</ex></expan> <expan>p<ex>ar</ex>fet</expan> par droit. Ne il n’a point de difference. se aucuns en estoit oirs ou <expan>no<ex>n</ex></expan>. quer l’en ne regarde pas sanz plus fors se il pooit valoir en aucun cas. Et porce se aucuns veut estre oirs ou il muert ainz que il feist le <expan>testame<ex>n</ex>t</expan> ou puis ains que il eust recheu l’eritage ou ainz que la condicion soit acomplie sus coi il fu fet oir ¶ Li preudons muert en cest cas sanz testament. <expan>q<ex>ue</ex>r</expan> li premiers testament qui estoit rous ne vaut riens <expan>p<ex>ar</ex></expan> le derenier. et li dereniers n’a nule force por ce que nul n’est oirs. <label>[3]</label> mes se aucuns a <expan>p<ex>re</ex>mierement</expan> <expan>p<ex>ar</ex>fait</expan> son testament <expan>p<ex>ar</ex></expan> droit ja soit ce que il ait en cestui establi oir de <expan>c<ex>er</ex>taines</expan> choses ¶ Li saint <expan>emp<ex>er</ex>eors</expan> sevoirs et antonins escristrent que li <expan>p<ex>re</ex>miers</expan> testament faut <expan><ex>et</ex></expan> nos <expan><ex>com</ex>mandames</expan> que les <expan>p<ex>ar</ex>oles</expan> de lor establissemenz fussent mises en nostre livre porce que eles touchent <pb n="f. 29b"/> encore a autre chose. ¶ Li <expan>emp<ex>er</ex>eors</expan> servois et antonins. dient <expan>q<ex>ue</ex></expan> li testament qui fust fait derieres vaut <expan>p<ex>ar</ex></expan> droit ja soit ce que oirs i fust establiz et chertaines choses que mention n’<expan>e<ex>n</ex></expan> est fete de toutes les choses de l’eritage mes cil qui est tenus a estre oirs est tenus a tenir soi a paiez des choses qui li ont esté <expan>do<ex>n</ex>nees</expan>. ou que il <expan>retie<ex>n</ex>ge</expan> la quarte <expan>p<ex>ar</ex>t</expan> de l’eritage et rende le remanant a ceus qui furent fait oir : el premier testament por les <expan>p<ex>ar</ex>oles</expan> qui furent dites el <expan>p<ex>re</ex>mier</expan> testament par coi il est dit <expan>espresseem<ex>en</ex>t</expan> que il ne covient pas douter <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>mier</expan> testament ne vaille. En ceste maniere est testament rous. ¶ <label>[4]</label> Li testament qui est fait par droit <expan>e<ex>st</ex></expan> quassez en une maniere autre. si <expan><ex>com</ex>me</expan> quant cil qui a fet le <expan>testame<ex>n</ex>t</expan> a souffert amenuissement de chief Et nos avons dit el <expan>p<ex>re</ex>mier</expan> livre <expan><ex>com</ex>ment</expan> ce avient ¶
                         <label>[5]</label> L’en dit en cest cas que li testament sunt vain <expan>q<ex>uan</ex>t</expan> il sunt rot. Et cil qui ne sunt pas fait <expan>p<ex>ar</ex></expan> droit. et puis sunt fet vain <expan>p<ex>ar</ex></expan> amenuissement de chiés poon nos dire que il sunt ront. mes il fust <expan>g<ex>ra</ex>inde</expan> preu que tieux causes fuissent destintees. et porce dit l’en <expan>q<ex>ue</ex></expan> li uns <expan>su<ex>n</ex>t</expan> fait <expan>p<ex>ar</ex></expan> droit. Mes il sunt rous ou il fait vain. <label>[6]</label> Ne porquant li <expan>testam<ex>en</ex>t</expan> <expan>q<ex>ui</ex></expan> furent fait <expan>p<ex>ar</ex></expan> droit a <expan><ex>com</ex>mencement</expan> et puis sunt fet vain <expan>p<ex>ar</ex></expan> amenuisement de chief ne sunt pas deu tot sanz profit. quer se il sunt seelez des <pb n="f. 29c"/> seauz as vii. tesmoinz. Cil qui fu fet oir puet recevoir la possession des biens selonc les tables deu <expan>testame<ex>n</ex>t</expan> Se cil qui fist le testament estoit cytoiens de <expan>ro<ex>m</ex>me</expan> et il n’estoit pas en autrui poosté quant il fu mort. <expan>q<ex>ue</ex>r</expan> se li testament est vains por ce que cil qui fist le testament a <expan>p<ex>er</ex>due</expan> la cité de <expan>ro<ex>m</ex>me</expan> ou franchise ou que il se <expan>do<ex>n</ex>ne</expan> a estre filz adoptif a <expan>aucu<ex>n</ex></expan> et que il estoit en la poosté son pere adoptif quant il fu mort. Cil qui fu fait oir en testament ne puet pas demander la possession de ses biens selons les tables du testament. // <label>[7]</label> Testament ne puet pas estre cassez por ce sanz plus <expan>q<ex>ue</ex></expan> cil qui le fist ne vout pas tele ore fu aprés que il vausist. quer se aucuns a fait son testament <expan>p<ex>ar</ex></expan> droit et il <expan><ex>com</ex>mence</expan> aprés a fere un autre et la mort le devansist. ou il se <expan>pre<ex>n</ex>t</expan> si que il ne le <expan>p<ex>ar</ex>fait</expan> pas. Li emperieres <expan>p<ex>er</ex>echenaux</expan> establist qe li <expan>p<ex>re</ex>miers</expan> testament ne soit pas porce vains. <expan>q<ex>ue</ex>r</expan> testament qui n’est <expan>p<ex>ar</ex>fait</expan> n’est nul
@@ -2522,8 +2567,12 @@
                         <label>[7]</label> ce qui <expan>e<ex>st</ex></expan> ajugié a aucuns <expan>p<ex>ar</ex></expan> jugement est maintenant a celui a qui il est ajugié.</p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v"><!--  xml:id="orleans_393" -->
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 l’attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v" était sur item. Div ne l’accepte pas. -->
+                  <!--  xml:id="orleans_393" -->
+                  <head>Orléans, 393</head>
+                  <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v">Orléans, 393</ref></p>
                   <msDesc xml:id="orleans_393"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -3158,9 +3207,18 @@
                         <label>[7]</label> qui <expan><ex>est</ex></expan> ajugié a aucun <expan>p<ex>ar</ex></expan> ces <expan>jugem<ex>en</ex>s</expan> <expan><ex>est</ex></expan> maintenant a celui a cui il est ajugié.</p>
                     </div>
                   </div>
-                </item>
-                <item xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s"><ref target="authenticum.xml#fr_498">Paris, Bibl. nat. de Fr., fr. 498 (sigle A)</ref></item>
-                <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v"><!--  xml:id="fr_1063" -->
+                </div>
+                <div xml:id="fr_498" >
+                  <!-- LG 11/06/2019 outre à l'attribut xml:id, dans item, il y avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s". cet attribut (corresp), en revanche, n'est pas validé dans div -->
+                  <head>Paris, BnF fr. 498</head>
+                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b8447185s">Gallica</ref></p>
+                  <p><ref target="authenticum.xml#fr_498">Paris, Bibl. nat. de Fr., fr. 498 (sigle A)</ref></p>
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v" -->
+                  <!--  xml:id="fr_1063" -->
+                  <head>Paris, BnF fr. 1063</head>
+                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b9059651v">Gallica</ref></p>
                   <msDesc xml:id="fr_1063" source="https://gallica.bnf.fr/ark:/12148/btv1b9059651v?rk=42918;4"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -3774,8 +3832,12 @@
                         <label>[7]</label> ce qui est ajugié a aucun par cest <expan>jugem<ex>en</ex>t</expan> est maintenant a celui a qui il est ajugié.</p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q"><!-- xml:id="fr_1064" -->
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 dans item, il avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q" -->
+                  <!-- xml:id="fr_1064" -->
+                  <head>Paris, BnF fr. 1064</head>
+                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b8452541q">Gallica</ref></p>
                   <msDesc xml:id="fr_1064" source="https://gallica.bnf.fr/ark:/12148/btv1b8452541q"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -4388,8 +4450,12 @@
                         <label>[5]</label> autresi est il se l’on plaide por pluseurs choses par <expan>jugeme<ex>n</ex>t</expan> de <expan>p<ex>ar</ex>tir</expan> <expan><ex>com</ex>munes</expan>. Et se est <expan>do<ex>n</ex>t</expan> meismez chose. si <expan>co<ex>m</ex>me</expan> d’un chanp. se ele puet estre <expan>p<ex>ar</ex>tie</expan> il en doit ajugier a <expan>chas<ex>cun</ex></expan> sa part. Et. se la <expan>p<ex>ar</ex>tie</expan> a l’un vaut mielz que cele a l’autre il li doit faire restorer deniers. <pb n="f. 84c"/> Et se la chose ne puet estre departie si <expan><ex>com</ex>me</expan> se l’on plaide por .i. serf ou por .i. cheval. ele doit estre toute ajugie a un. et il doit estre condenpnés à l’<expan>aut<ex>r</ex>e</expan> <expan>c<ex>er</ex>taine</expan> quantité des <expan>den<ex>ier</ex>s</expan>. <label>[6]</label> Se l’on plaide por bonner terres : li juges doit regarder se il est <expan>mest<ex>ier</ex>s</expan> de faire en <expan>jugeme<ex>nt</ex></expan> Et il en est <expan>mest<ex>ier</ex></expan> en .i. cas. ce est asavoir se il les covient deviser par <expan>pl<ex>us</ex></expan> anciennes bonnes <expan>q<ex>ue</ex></expan> il ne furent jadis Car lors <expan><ex>con</ex>vient</expan> il <expan>q<ex>ue</ex></expan> aucune <expan>p<ex>ar</ex>tie</expan> del champ a l’un soit ajugie à l’autre. Et en cest cas, <expan><ex>con</ex>vient</expan> il <expan>q<ex>ue</ex></expan> cil soit <expan><ex>con</ex>denpnés</expan> à l’autre en <expan>c<ex>er</ex>tai<ex>n</ex>ne</expan> cantité de <expan>den<ex>ier</ex>s</expan>. Et <expan>au<ex>cun</ex>s</expan> doit estre <expan><ex>con</ex>denpnés</expan> par cest <expan>jugeme<ex>n</ex>t</expan> se il a fait <expan>au<ex>cun</ex>e</expan> chose mal anciennement en vers les <expan>bo<ex>n</ex>nes</expan>. Si <expan><ex>com</ex>me</expan> se il a emblé les pierres <expan>q<ex>ui</ex></expan> <expan>estoie<ex>n</ex>t</expan> es bonnez ou il errage les aubres. Et por <expan><ex>con</ex>tum<ex>en</ex>ce</expan> doit chascuns estre <expan><ex>con</ex>dempnés</expan> par cest <expan>jugem<ex>en</ex>t</expan>. si <expan><ex>com</ex>me</expan> se <expan>au<ex>cun</ex>s</expan> ne sosfre pas <expan>q<ex>ue</ex></expan> li champ soient mesuré <expan>qu<ex>an</ex>t</expan> li juges le <expan><ex>com</ex>mande</expan>. <label>[7]</label> Ce <expan>q<ex>ui</ex></expan> est ajugié a aucun <expan>p<ex>ar</ex></expan> ces jugemanz est <expan>mai<ex>n</ex>tenant</expan> a celui a <expan>q<ex>ui</ex></expan> il est ajugié.</p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188"><!--  xml:id="fr_1065" -->
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188" -->
+                  <!--  xml:id="fr_1065" -->
+                  <head>Paris, BnF fr. 1065</head>
+                  <p><ref target="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188">BnF, Archives et manuscrits</ref></p>
                   <msDesc xml:id="fr_1065"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -4683,7 +4749,7 @@
                             <locus from="50d"/>
                             <title type="sub">[Inst. 3.1]</title>
                             <incipit><seg type="rubric">Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><supplied resp="#FD">le texte du titre commence au début de Inst. 3.1.2, cf. <hi rend="i">supra</hi></supplied></incipit>
-                          </msItem><hi rend="i">supra</hi>
+                          </msItem>
                           <msItem>
                             <locus from="54b"/>
                             <title type="sub">[Inst. 3.2]</title>
@@ -4965,6 +5031,7 @@
                   <div type="edition">
                     <head>Édition</head>
                     <div type="edition" n="1">
+                      <!-- LG 12/06/2019 est-ce le label qui suit peut-il être un "head" - étant donné que le head est obligatorie dans le div ? <head/> --> 
                       <label>Inst. Prologue</label>
                       <p xml:id="fr_1065-prol">Il convient que la majeté l’empereor soit atornee non mie <expan>ta<ex>n</ex>t</expan> seulement d’armes de lois. Si que li uns <expan><ex>et</ex></expan> li autres tens. ce est cil de pés <expan><ex>et</ex></expan> cil de guerre que il puisse estre gouverné par droit. <expan><ex>et</ex></expan> li <expan>emp<ex>er</ex>eres</expan> de rome soit vainquierres. <sic>No</sic> mie tant seulement batailles <expan>q<ex>ue</ex></expan> il a contre ses <expan>a<ex>n</ex>nemis</expan>. Ainz bout arrieres par la force des lois. Ceus qui acusent fausement. E il soit autresi vainquierres par la religion de droit. conme il est conte ses anemis. <label>[1]</label> E nos avons porce fet a l’aide de dieu. l’une <expan><ex>et</ex></expan> l’autre voie par <expan>g<ex>ra</ex>nt</expan> veilliees <expan><ex>et</ex></expan> par souveraine porveance. <expan><ex>et</ex></expan> les estranges <expan>ge<ex>n</ex>z</expan> qui ont cestes amenees. sour nostre loi conoisent. les guerres que nos avons soffertes es batailles. <expan><ex>et</ex></expan> en <expan>aufriq<ex>ue</ex></expan> <expan><ex>et</ex></expan> es <expan>aut<ex>re</ex>s</expan> contrees seur quoi dex nos a donné victoire. <expan>reconoisse<ex>n</ex>t</expan> <expan>b<ex>ie</ex>n</expan> qu’eles sont souzmises de rechief au pooir de rome. et a nostre empire. Tuit li pueple sont gouverné <expan>p<ex>ar</ex></expan> les lois que nos avons fetes. <pb n="f. 1b"/> <expan><ex>et</ex></expan> par celes <expan>q<ex>ue</ex></expan> nos avons ordenees. <label>[2]</label> E <expan>q<ex>ua</ex>nt</expan> nos meismes en une clere concordance les granz establissemenz qui estoient confus devant ce. Nos ajoustames nostre cure a toz les volumes aus anciens sages homes. et nos avons acompli par le celestiel otroi l’euvre que nus n’osoit esperer. <label>[3]</label> Et quant ce fu fet par la volenté damledeu. Nos apelames <expan>tribunia<ex>n</ex></expan> <expan>g<ex>ra</ex>nt</expan> honme. mestre <expan><ex>et</ex></expan> questeur de nostre saint palés. Et theophile <expan><ex>et</ex></expan> dorothee nobles hom de <expan>q<ex>ui</ex></expan> nos avons esprové par plusors argumenz l’escience <expan><ex>et</ex></expan> la loiauté que il ont coneu noz conmandemenz. Si lor <expan><ex>con</ex>mandasmes</expan> <expan>q<ex>ue</ex></expan> il ordenassent nos institutes. Par nostre auctorité et par nos amonestemenz. Si que il nos lise a aprendre la noveleté des lois. Non par <expan>p<ex>ar</ex></expan> les enciennes fables mes <expan>p<ex>ar</ex></expan> l’<expan>emp<ex>er</ex>ial</expan> clarté. <expan><ex>et</ex></expan> nos oreilles ne nostre entendement n’i truissent riens qui n’i soit <expan>p<ex>ro</ex>fitable</expan> ne qui i soit mauvesement mis. Mes ce qui vaut <expan>p<ex>ar</ex></expan> les argumenz des choses. E nos façoiz en pou de tens ce <expan>q<ex>ue</ex></expan> li ancien pooient a poinne retrere quatre anz. ce est que il puisent lire touz les establis<pb n="f. 1c"/>semenz l’<expan>emp<ex>er</ex>eeur</expan>. quar vos estres trové digne de si grant <sic>haieur</sic><note>Il manque un jambage</note> et de si grant beneurté. que li conmencement. <expan><ex>et</ex></expan> la fin de l’ansangnement des lois resviengne de la bouche l’empereur. <label>[4]</label> Nos avons dont conmandé que ces institutes. soient parties en .iiii. livres. Aprés li livres de digestes en qoi touz li anciens droiz fu assemblez <expan>p<ex>ar</ex></expan> celui meismes tribunian <expan><ex>et</ex></expan> par les autres homes nobles <expan><ex>et</ex></expan> <expan>b<ex>ie</ex>n</expan> <expan>emp<ex>ar</ex>lez</expan>. Si <expan>q<ex>ue</ex></expan> les institutes soient li <expan>p<ex>re</ex>mier</expan> fundement de toute l’escience des lois <label>[5]</label> en quoi tout esclerié briement qui devant ce estoit tenu et ce qui estoit tenu <expan><ex>et</ex></expan> aombré <expan>p<ex>ar</ex></expan> desacoustumance. <expan><ex>et</ex></expan> a puis esté acoustumé par le terme de l’<expan>emp<ex>er</ex>eor</expan>. <label>[6]</label> Et li devant dit sage honme nos presenterent les instutes quant il les orent ordenees de touz les establissemenz as anciens <expan><ex>et</ex></expan> meesmement de cels qe gaius nostre ancesseur fist. <expan><ex>et</ex></expan> del livre ou il estoit contenu que li mestre devoient fere chascun jor <expan><ex>et</ex></expan> conment il devoient jugier. <expan><ex>et</ex></expan> de plusors autres establissemenz. <label>[7]</label> Recevez donc touz nos lois. o grant entente <expan><ex>et</ex></expan> o grant estude. et moustrez. que vos soiez si entroduit. que vos aiez <expan>esp<ex>er</ex>ance</expan>. que vos puissiez estre <expan>p<ex>ar</ex><pb n="f. 1d"/>fet</expan> en toutes les autres lois. <expan><ex>et</ex></expan> que nostre empire en puisse estre governé es parties <expan>q<ex>ui</ex></expan> vos seront bailliees a garder. Ce fu fet .xii. jorz devant les kalendes de decembre par nostre seigneur l’<expan>emp<ex>er</ex>eur</expan> justinian.</p>
                     </div>
@@ -4980,8 +5047,12 @@
                         </sic> chose par escriture. a qui l’autorité de droit faille. E selonc ce escristrent souvant li seint empereeur sevoirs. <expan><ex>et</ex></expan> antonnins. Ja soit ce sont il que nous soions asous des <pb n="f. 39a"/> lois. Ne porquant nous ne voulons riens fere qui soit contaire aus lois.</p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899"><!--  xml:id="fr_1928" -->
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899" -->
+                  <!--  xml:id="fr_1928" -->
+                  <head>Paris, BnF fr. 1928</head>
+                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b90596899">Gallica</ref></p>
                   <msDesc xml:id="fr_1928" source="https://gallica.bnf.fr/ark:/12148/btv1b90596899"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -5688,11 +5759,17 @@
                       <pb n="f. 69a"/> la cité de <expan>ro<ex>m</ex>me</expan> ou franchise ou que il se donna a estre filz adoptif a aucun <expan><ex>et</ex></expan> que il estoit en la poesté son pere adoptif quant il fu mort. Cil qui fu fet hoir ou testament ne puet pas demander la posession de ses biens selonc les tables du testament. <label>[7]</label> Testament ne puet pas estre <expan>q<ex>ua</ex>ssez</expan> pour ce sanz plus <expan>q<ex>ue</ex></expan> cil qui le fist ne volt pas tele heure fu aprés que il vausist. Car se aucuns a fait son testament <expan>p<ex>ar</ex></expan> droit <expan><ex>et</ex></expan> il comence aprés a faire .I. autre <expan><ex>et</ex></expan> la mort le <expan>deva<ex>n</ex>sist</expan> ou il se repent si que il ne le parfait pas. Li <expan>e<ex>m</ex>pereres</expan> percevaus establi que li <expan>prem<ex>ier</ex>s</expan> testamens ne soit pas pour ce vains. Car testament qui n’est parfait n’est nul
                       <label>[8]</label> <expan>p<ex>ar</ex></expan> cele meismes reson dit <pb n="f. 69b"/> il que il ne recevra pas l’eritage a celui qui fet de lui son hoir par cause de plet. Et qu’il <expan>prouv<ex>er</ex>a</expan> que les tables ne furent mie faites loiaument en coi il estoit establis hoirs pour tele cause <expan><ex>et</ex></expan> que il nel retendra pas <expan>no<ex>n</ex></expan> d’oir pour une vois <expan><ex>et</ex></expan> que il ne conquerra nule chose par escripture a qui l’auctorité de droit faille. et selonc ce escriptrent souvent li saint empereeur sevoir <expan><ex>et</ex></expan> antonius Ja soit ce font il que <expan>no<ex>us</ex></expan> soions asous des lois <expan><ex>et</ex></expan> non pour <expan>q<ex>ua</ex>nt</expan> nous ne voulons riens faire <expan>q<ex>ui</ex></expan> soit contraire as loys</p>
                   </div>
-                </item>
-                <item xml:id="fr_22970">
-                  <ref target="authenticum.xml#fr_22970">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref>
-                </item>
-                <item corresp="ARK_manuscrit"><!--  xml:id="princeton_kane_ms49" -->
+                </div>
+                <div xml:id="fr_22970">
+                  <head>Paris, BnF fr. 22970</head>
+                  <p><ref target="authenticum.xml#fr_22970">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref></p>
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 il y avait un attribut corresp corresp="ARK_manuscrit" -->
+                  <!--  xml:id="princeton_kane_ms49" -->
+                  <head>Princeton, Kane MS. 49</head>
+                  <!-- LG 14/06/2019 le lien ci-dessous ne marche pas. Je ne sais pas à quoi cela correspond -->
+                  <p><ref target="ARK_manuscrit"></ref></p>
                   <msDesc xml:id="princeton_kane_ms49"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Etats-Unis</country>
@@ -5809,8 +5886,13 @@
                         <pb n="f. 63a"/></p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q"><!--  xml:id="stomer_439" -->
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 St-Omer : l'attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q" était sur item -->
+                  <!--  xml:id="stomer_439" -->
+                  <head>Saint-Omer, 439</head>
+                  <!-- LG 14/06/2019 le lien ci-dessous ne marche pas. Je ne sais pas à quoi cela correspond -->
+                  <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q"></ref></p>
                   <msDesc xml:id="stomer_439"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -6504,8 +6586,12 @@
                         <label>[5]</label> Autresi est il se l’en plede <expan>p<ex>or</ex></expan> pluseurs choses <expan>p<ex>ar</ex></expan> juge<expan>jugem<ex>en</ex>t</expan>ment de <expan>p<ex>ar</ex>tir</expan> choses <expan><ex>com</ex>munes</expan>. <expan><ex>et</ex></expan> ce est d’une meismes chose. si <expan><ex>com</ex>me</expan> d’un champ. Se elle puet estre partie. il en doit ajugier a chascun sa part. Et se la <expan>p<ex>ar</ex>tie</expan> a l’un vaut miex que cele a l’autre. il doit fere restorer de <expan>den<ex>er</ex>s</expan>. Et se la chose puet estre <expan>dep<ex>ar</ex>tie</expan>. Si <expan><ex>com</ex>me</expan> se l’en plede por .i. serf. ou <expan>p<ex>or</ex></expan> .i. cheval. elle doit estre tote ajugee a l’un. <expan><ex>et</ex></expan> il doit estre <expan><ex>con</ex>dempnez</expan> a l’autre en <expan>c<ex>er</ex>taine</expan> <expan>q<ex>ua</ex>ntité</expan> de <expan>den<ex>er</ex>s</expan>. <label>[6]</label> Se l’<expan>e<ex>n</ex></expan> plede por bones <expan>t<ex>er</ex>res</expan>. li juges doit regarder se il est mestiers de fere <expan>jugem<ex>en</ex>t</expan>. Et il en est mestiers en .i. cas. Ce est assavoir se il les <expan><ex>con</ex>vient</expan> devisier <expan>p<ex>ar</ex></expan> plus ancianes bones <expan>q<ex>ue</ex></expan> il <pb n="f. 53b"/> ne furent jadis. Car lor <expan><ex>con</ex>vient</expan> il que aucune <expan>p<ex>ar</ex>tie</expan> de cel champ soit ajugié a l’autre en <expan>c<ex>er</ex>taine</expan> <expan>q<ex>ua</ex>ntité</expan> de <expan>den<ex>er</ex>s</expan>. Et aucuns doit estre <expan><ex>co</ex>ndampnez</expan> <expan>p<ex>ar</ex></expan> cest <expan>jugem<ex>en</ex>t</expan>. Se il a fet aucune chose <expan>malicieusem<ex>en</ex>t</expan> <expan>env<ex>er</ex>s</expan> les bones. Si <expan><ex>com</ex>me</expan> se il a amblé les pierres des bones. ou il aracha les arbres. <expan><ex>et</ex></expan> por <expan><ex>con</ex>tinuance</expan> doit <expan>est<ex>re</ex></expan> chascun <expan><ex>con</ex>dempnez</expan> <expan>p<ex>ar</ex></expan> cest jugement. Si <expan><ex>com</ex>me</expan> se aucuns ne soffre pas <expan>q<ex>ue</ex></expan> li champ soient mesuré <expan>q<ex>ua</ex>nt</expan> li juges la <expan><ex>com</ex>mande</expan>. <label>[7]</label> ce <expan>q<ex>ui</ex></expan> est ajugé a aucun <expan>p<ex>ar</ex></expan> cez <expan>jugem<ex>en</ex>z</expan> est maintenant a celui a qui il est ajugié.</p>
                     </div>
                   </div>
-                </item>
-                <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g"><!-- xml:id="bav_1927" -->
+                </div>
+                <div>
+                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g" -->
+                  <!-- xml:id="bav_1927" -->
+                  <head>Vatican, Reg. lat. 1927</head>
+                  <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g">Vatican, Bibl. apostolica Vaticana, Reg. lat. 1927</ref></p>
                   <msDesc xml:id="bav_1927"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Vatican</country>
@@ -7132,8 +7218,12 @@
                         <label>[4]</label> Se on plaide <expan>p<ex>ar</ex></expan> jugement de departir heritage. li juges doit jugier a chascun des hoirs sa partie <expan><ex>et</ex></expan> se il li samble <expan>q<ex>ue</ex></expan> il grieve l’un d’aus. li juges le doit condampner en certainne quantité de deniers. aucuns doit estre <expan><ex>con</ex>dampnez</expan> a celui qui est ses <expan><ex>com</ex>painz</expan> de l’eritage por ce que il seuls a receuz les fruiz de tout l’eritage <expan><ex>et</ex></expan> ce doit estre gardé quant il i a plus de .ii. hoirs. <label>[5]</label> Autresi est il se on plaide por plusors <expan>p<ex>ar</ex></expan> jugement de partir choses <expan><ex>com</ex>munes</expan> <expan><ex>et</ex></expan> se ce est d’une meismes chose. se ce est d’un champ se <pb n="f. 106d"/> il puet estre partiz on doit ajugier a chascun sa part <expan><ex>et</ex></expan> se la partie a l’un vaut mieulz que la paine a l’autre il li doit fere restorer deniers <expan><ex>et</ex></expan> se la chose ne puet <expan>est<ex>re</ex></expan> departie si comme se on plaide pour .i. serf ou pour .i. cheval <expan><ex>et</ex></expan> ele doit estre toute ajugiee a un. <expan><ex>et</ex></expan> il doit estre condampnez a l’autre en certainne quantité de <expan>den<ex>ier</ex>s</expan> ¶ <label>[6]</label> Se on plaide pour bonner terres. li juges doit regarder se il est mestiers de oïr jugement <expan><ex>et</ex></expan> il en est mestiers en .i. cas. ce est asavoir se il les couvient devisser <expan>p<ex>ar</ex></expan> plus anciennes bonnes <expan>q<ex>ue</ex></expan> il ne furent jadis car lors avient il que aucune partie du champ a l’un soit jugie a l’autre <expan><ex>et</ex></expan> en cel cas convient il que cil soit <expan><ex>con</ex>dampnez</expan> a l’autre en certainne quantité de deniers. <expan><ex>et</ex></expan> aucuns doit estre <expan><ex>con</ex>dampnez</expan> <expan>p<ex>ar</ex></expan> cest jugement se il a fet aucune chose mauvesement envers les bonnes. si comme se il a emblees les pierres qui estoient es bonnes ou il a arrachiez les arbres. <expan><ex>et</ex></expan> pour coustumance doit chascuns estre <expan><ex>con</ex>dampnez</expan> en cest fet sicome se aucuns ne suefre pas que li champ ne soient pas mesuré quant li juges l’a <expan><ex>com</ex>mandé</expan>. <label>[7]</label> Ce qui est jugié a aucun par cest jugement est maintenant a celui a cui il est jugié</p>
                     </div>
                   </div>
-                </item>
-                <item corresp="ARK_manuscrit"><!--  xml:id="washington_i71" -->
+                </div>
+                <div>
+                  <!-- LG 11/°06/2019 il y avait un attribut corresp="ARK_manuscrit" -->
+                  <!--  xml:id="washington_i71" -->
+                  <head>Washington, i 71</head>
+                  <p><ref target="ARK_manuscrit"></ref></p>
                   <msDesc xml:id="washington_i71"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Etats-Unis</country>
@@ -7210,13 +7300,13 @@
                       </listBibl>
                     </additional>
                   </msDesc>
-                </item>
-              </list>
+                </div>
+             
             </div>
-            <div type="manuscrit">
+            <div type="msFrag">
               <head>Fragment</head>
-              <list type="listMs">
-                <item><!--  xml:id="leiden_bpl3201" -->
+              <div type="listMs">
+                <head>Ms. T</head><!--  xml:id="leiden_bpl3201" -->
                   <msDesc xml:id="leiden_bpl3201"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Pays-Bas</country>
@@ -7248,7 +7338,7 @@
                         <supportDesc>
                           <support><material>Parchemin</material></support>
                           <extent>partie d’un bifeuillet <note>France (Ouest du domaine d’oïl ?), 1250-1300; <dimensions unit="mm">
-                            <height>?</height>
+                           <!-- LG 11/06/2019 balise suivante pas valide ... <height>?</height>-->
                             <width quantity="175">175</width>
                           </dimensions> (justification : ? x 107 mm.). Réglure à la mine de plomb : marge de reliure 21 mm., marge de tête 26 mm., entrecolonne 12 mm. Copié sur 2 col., le ms devait compter 29 lignes par col. avant d’être coupé – Titre courant : sur le f. verso, <q>L</q> rubriqué ; numéro du livre en capitales romaines bleues et rouges sur le recto.</note></extent>
                         </supportDesc>
@@ -7305,37 +7395,40 @@
                       <pb n="f. 2b"/>
                     </p>
                   </div>
-                </item>
-              </list>
+                
+              </div>
             </div>
             <div type="deperdita">
-              <list type="deperdita">
+              <head>Deperdita</head>
+              <div type="deperdita">
                 <head>Manuscrits perdus<note>Sont ici reprises la numérotation des manuscrits perdus adoptée par F. Olivier-Martin ainsi que, pour la plupart des items, la présentation qu’il en fait.</note></head>
-                <item xml:id="institutes_perdu1"><p>1. Dans l’inventaire des biens meubles de la reine <persName role="possesseur" key="Clémence de Hongrie">Clémence de Hongrie</persName>, rédigé en 1328, mention :
-                  <quote>Item, une Institute en françois, presié XVI s.</quote> (Paris, Bibl. nat. de Fr., Clairambault 471, f. 33). Le ms a été acheté par la reine <persName role="possesseur" key="Jeanne d'Evreux">Jeanne d’Evreux</persName> (cf. <bibl>Léopold Delisle, <title>Le cabinet...</title>, t. I, p. 12</bibl>) avant qu’on en perde la trace. (F. Olivier-Martin, p. xxi-xxii).</p></item>
-                <item xml:id="institutes_perdu2-5"><p>2-5. Des 6 exemplaires de la traduction possédés par <persName role="possesseur" key="Charles V">Charles V</persName>, deux seulement nous sont parvenus. Les quatre autres figurent dans les inventaires. Cf. <bibl>Leopold Delisle, <title>Recherches</title>, t. II, n° 381, 382, 383, 401 de l’inventaire général</bibl>. (F. Olivier-Martin, p. xxii).</p></item>
-                <item xml:id="institutes_perdu6"><p>6. <persName role="possesseur" key="Jacques Cholet">Jacques Cholet</persName>, berruyer, avocat au Parlement de Paris au 17<hi rend="sup">e</hi> siècle, avait dans sa bibliothèque un ms renfermant une traduction des
+                <p xml:id="institutes_perdu1">1. Dans l’inventaire des biens meubles de la reine <persName role="possesseur" key="Clémence de Hongrie">Clémence de Hongrie</persName>, rédigé en 1328, mention :
+                  <quote>Item, une Institute en françois, presié XVI s.</quote> (Paris, Bibl. nat. de Fr., Clairambault 471, f. 33). Le ms a été acheté par la reine <persName role="possesseur" key="Jeanne d'Evreux">Jeanne d’Evreux</persName> (cf. <bibl>Léopold Delisle, <title>Le cabinet...</title>, t. I, p. 12</bibl>) avant qu’on en perde la trace. (F. Olivier-Martin, p. xxi-xxii).</p>
+                <p xml:id="institutes_perdu2-5">2-5. Des 6 exemplaires de la traduction possédés par <persName role="possesseur" key="Charles V">Charles V</persName>, deux seulement nous sont parvenus. Les quatre autres figurent dans les inventaires. Cf. <bibl>Leopold Delisle, <title>Recherches</title>, t. II, n° 381, 382, 383, 401 de l’inventaire général</bibl>. (F. Olivier-Martin, p. xxii).</p>
+                <p xml:id="institutes_perdu6">6. <persName role="possesseur" key="Jacques Cholet">Jacques Cholet</persName>, berruyer, avocat au Parlement de Paris au 17<hi rend="sup">e</hi> siècle, avait dans sa bibliothèque un ms renfermant une traduction des
                   <title>Institutes</title>
-                  <quote>faite vers le règne de saint Louis</quote> et dont parlent Nicolas Catherinot (<bibl><title>Généalogie de Messieurs Dorsannes</title>, p. 3</bibl>) et d’après lui son ami Thaumas de la Thaumassière (<bibl><title>Questions et responses sur les coutumes de Berry</title>, Bourges, 1691, p. 8</bibl>). (F. Olivier-Martin, p. xxii).</p></item>
-                <item xml:id="institutes_perdu7"><p>7. Manuscrit du <title xml:lang="lat">Parvum volumen</title> possédé par <persName role="possesseur" key="Louis Nublé">Louis Nublé</persName> et décrit par Ménage.
+                  <quote>faite vers le règne de saint Louis</quote> et dont parlent Nicolas Catherinot (<bibl><title>Généalogie de Messieurs Dorsannes</title>, p. 3</bibl>) et d’après lui son ami Thaumas de la Thaumassière (<bibl><title>Questions et responses sur les coutumes de Berry</title>, Bourges, 1691, p. 8</bibl>). (F. Olivier-Martin, p. xxii).</p>
+                <p xml:id="institutes_perdu7">7. Manuscrit du <title xml:lang="lat">Parvum volumen</title> possédé par <persName role="possesseur" key="Louis Nublé">Louis Nublé</persName> et décrit par Ménage.
                   <bibl>Ménage, <title>Observations sur la langue française</title>, éd. 1675, t. I, p. 6sqq</bibl> décrit un in-folio sur vélin appartenant à son ami Louis Nublé (1603-1686), qui contenait la traduction des <title>Institutes</title>, des
                   <title>Authentiques</title> et des <title>Tres libri</title>, à laquelle avait été ajoutée d’une autre main une traduction des
                   <title>Libri feudorum</title>, copiés en 1292. La seule particularité textuelle que l’on connaisse de ce manuscrit est qu’il a rendu l’intitulé <quote>De patria potestate</quote> (Inst. 1.9) par la rubrique <quote>Des enfants qui sont en bail et de ceux qui en peuvent être hors</quote> (d’après <bibl>François de Launay,
-                    <title>Commentaire sur les Institutes Coutumières de M<hi rend="sup">e</hi> Antoine Loisel</title>, Paris, 1688, p. 271</bibl>), contrairement à <hi rend="i">ABD</hi> (<quote>De la poesté as peres</quote>), à <hi rend="i">F</hi> (<quote>de ceus qui sont en la poesté leur peres</quote>) et à <hi rend="i">C</hi> (<quote>Cis tritres est de celz qui sunt en nostre poesté</quote>). (F. Olivier-Martin, p. viii et xxii).</p></item>
-                <item xml:id="institutes_perdu8"><p>8. D’après <bibl>Montfaucon (<title>Bibliotheca bibliothecarum</title>, p. 1383 D, n°315)</bibl>, il existait au 18<hi rend="sup">e</hi> siècle à la <orgName role="possesseur" key="Metz, cathédrale">cathédrale de Metz</orgName> un ms décrit ainsi : <quote>Les Institutes de l’empereur Justinien en vieux françois, in charta, 300 ad minus ann.</quote> (F. Olivier-Martin, p. xxii).</p></item>
-                <item xml:id="institutes_perdu9"><p>Dans l’inventaire des livres du duc
-                  <persName role="possesseur" key="Charles d'Orléans">Charles d’Orléans</persName> destinés à être gagés en 1427, il est fait mention des <quote>Institutes de l’empereur Justinien, de forme ancienne, en françoys, couverts de cuir vert, a deux petiz fermouers de cuivre</quote> (<bibl>comte de Laborde, <title>Les ducs de Bourgogne, Preuves</title>, t. III, n° 6351. Ce ms se retrouve dans l’inventaire non daté (<hi rend="i">ca</hi> 1446), <title>ibid.</title>, n° 6462</bibl>). (F. Olivier-Martin, p. xxii-xxiii).</p></item>
-                <item xml:id="institutes_perdu11"><p>11. Brodeau, dans son édition des
+                    <title>Commentaire sur les Institutes Coutumières de M<hi rend="sup">e</hi> Antoine Loisel</title>, Paris, 1688, p. 271</bibl>), contrairement à <hi rend="i">ABD</hi> (<quote>De la poesté as peres</quote>), à <hi rend="i">F</hi> (<quote>de ceus qui sont en la poesté leur peres</quote>) et à <hi rend="i">C</hi> (<quote>Cis tritres est de celz qui sunt en nostre poesté</quote>). (F. Olivier-Martin, p. viii et xxii).</p>
+                <p xml:id="institutes_perdu8">8. D’après <bibl>Montfaucon (<title>Bibliotheca bibliothecarum</title>, p. 1383 D, n°315)</bibl>, il existait au 18<hi rend="sup">e</hi> siècle à la <orgName role="possesseur" key="Metz, cathédrale">cathédrale de Metz</orgName> un ms décrit ainsi : <quote>Les Institutes de l’empereur Justinien en vieux françois, in charta, 300 ad minus ann.</quote> (F. Olivier-Martin, p. xxii).</p>
+                <p xml:id="institutes_perdu9">>Dans l’inventaire des livres du duc
+                  <persName role="possesseur" key="Charles d'Orléans">Charles d’Orléans</persName> destinés à être gagés en 1427, il est fait mention des <quote>Institutes de l’empereur Justinien, de forme ancienne, en françoys, couverts de cuir vert, a deux petiz fermouers de cuivre</quote> (<bibl>comte de Laborde, <title>Les ducs de Bourgogne, Preuves</title>, t. III, n° 6351. Ce ms se retrouve dans l’inventaire non daté (<hi rend="i">ca</hi> 1446), <title>ibid.</title>, n° 6462</bibl>). (F. Olivier-Martin, p. xxii-xxiii).</p>
+                <p xml:id="institutes_perdu11">11. Brodeau, dans son édition des
                   <title>Arrêts de Louet</title>, signale une traduction des
-                  <title>Institutes</title> de Justinien, manuscrite et <q>qui est de quatre cents ans</q>, sans plus d’indication (t. I, p. 414). (F. Olivier-Martin, p. xxiii).</p></item>
-                <item xml:id="institutes_perdu12"><p>12. Strasbourg, Bibl. nationale et universitaire, latin 822 (sigle Q de l’éd. F. Olivier-Martin, p. xxxi). Provenant du <orgName role="possesseur" key="Strasbourg, couvent des capucins">couvent des capucins de Strasbourg</orgName>, ce ms in-folio, copié au 14<hi rend="sup">e</hi> s. (?), a été détruit en 1870. <bibl>Charles Giraud,
+                  <title>Institutes</title> de Justinien, manuscrite et <q>qui est de quatre cents ans</q>, sans plus d’indication (t. I, p. 414). (F. Olivier-Martin, p. xxiii).</p>
+                <p xml:id="institutes_perdu12">12. Strasbourg, Bibl. nationale et universitaire, latin 822 (sigle Q de l’éd. F. Olivier-Martin, p. xxxi). Provenant du <orgName role="possesseur" key="Strasbourg, couvent des capucins">couvent des capucins de Strasbourg</orgName>, ce ms in-folio, copié au 14<hi rend="sup">e</hi> s. (?), a été détruit en 1870. <bibl>Charles Giraud,
                   <title>Essai sur l’histoire du droit français</title>, Paris-Leipzig, 1846, t. I, <title>Pièces justificatives</title>, p. 5, et même vol., p. 241</bibl>, en a transcrit la traduction de la constitution initiale, <title xml:lang="lat">Imperatoriam majestatem</title>. <bibl>Karl Bartsch, <title>La langue et la littérature française</title>, éd. 1887, col. 637-640</bibl>, reproduit le fragment publié par Giraud. D’après la transcription,
                   <hi rend="i">Q</hi> présente une scripta du centre du domaine d’oïl (et peut-être même de l’Orléanais) : confusion de <hi rend="i">an</hi> et <hi rend="i">en</hi> (<quote>antentemant</quote>, <quote>mauvesemant</quote>,
-                  <quote>encianes</quote>) ; imparfaits en -<hi rend="i">ai</hi>- : <quote>osait</quote>, <quote>pouaient</quote> ; formes occidentales comme <quote>sunt</quote>, <quote>orailles</quote> ou <quote>commaincent</quote>/<quote>comaincemant</quote> ou bien encore la désinence du subjonctif présent P5 -<hi rend="i">eiz</hi> dans <quote>puisseiz</quote>.</p></item>
-                <item xml:id="institutes_perdu13"><p>13. Poitiers, Archives départementales de la Vienne, fragment (sigle P de l’éd. F. Olivier-Martin, p. xxxi). « Ce fragment se compose d’un feuillet de vélin, très fin, de 221 x 150 millimètres, plus la base d’un autre feuillet. L’écriture, du milieu du XIII<hi rend="sup">e</hi> siècle, est très soignée et presque sans abréviation ; Rubriques rouges. 2 col. à la page. Réglure à la mine de plomb. Ce feuillet renferme <title>Inst.</title>, IV, 14 § 2 à IV, 15, § 1 » (<title>ibid.</title>). Ce fragment a été signalé à F. Olivier-Martin par Charles Samaran. Il n’a pas été retrouvé aux Archives départementales de la Vienne.</p></item>
-              </list>
+                  <quote>encianes</quote>) ; imparfaits en -<hi rend="i">ai</hi>- : <quote>osait</quote>, <quote>pouaient</quote> ; formes occidentales comme <quote>sunt</quote>, <quote>orailles</quote> ou <quote>commaincent</quote>/<quote>comaincemant</quote> ou bien encore la désinence du subjonctif présent P5 -<hi rend="i">eiz</hi> dans <quote>puisseiz</quote>.</p>
+                <p xml:id="institutes_perdu13">13. Poitiers, Archives départementales de la Vienne, fragment (sigle P de l’éd. F. Olivier-Martin, p. xxxi). « Ce fragment se compose d’un feuillet de vélin, très fin, de 221 x 150 millimètres, plus la base d’un autre feuillet. L’écriture, du milieu du XIII<hi rend="sup">e</hi> siècle, est très soignée et presque sans abréviation ; Rubriques rouges. 2 col. à la page. Réglure à la mine de plomb. Ce feuillet renferme <title>Inst.</title>, IV, 14 § 2 à IV, 15, § 1 » (<title>ibid.</title>). Ce fragment a été signalé à F. Olivier-Martin par Charles Samaran. Il n’a pas été retrouvé aux Archives départementales de la Vienne.</p>
+              </div>
             </div>
+          
           </div>
+            
           <div type="soustraduction" n="I.1.2" xml:id="tradition_indirecte">
             <head>Tradition indirecte</head>
             <p>Largement diffusée, la traduction en prose des <title>Institutes</title> a été utilisée dans des compilations juridiques, qui en constituent autant de témoignages indirects. Sans chercher à être exhaustif, on la retrouve dans les textes suivants :</p>
@@ -7370,6 +7463,7 @@
               <p>Les <title>Institutes</title> figurent à deux endroits dans le <title>Livre de jostice et de plet</title>. Le premier emprunt se trouve aux paragraphes 11-12 du livre XII, 21 (<bibl>éd. Rapetti, p. 252-3</bibl>). Il comporte, sous la forme d’une douzaine de lignes imprimées, un remaniement de la traduction française des <title>Institutes</title> 3.1 (<bibl>éd. F. Olivier-Martin, p. 152-153</bibl>). La seconde apparition des
                 <title>Institutes</title> se situe aux chapitres 24-25 du livre XVIII (<bibl>éd. Rapetti, p. 277-285</bibl>). Elle est constituée par une série d’emprunts indirects à la traduction française des <title>Institutes</title> vraisemblablement reprise à travers les <title>Poines de la duchée d’Orliens</title> (cf. <hi rend="i">supra</hi>) ; plus précisement, les derniers paragraphes du chapitre 24 du livre XVIII s’inspirent de Inst. 4.16 et 4.4 alors que le chapitre 25 est intégralment tiré de Inst. 4.18.</p>
               <div type="manuscrit">
+                <head/>
                 <list type="listMs">
                   <item corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059006z" xml:id="Ljp"><ref target="digestum_vetus.xml#fr_2844">Livre de Jostice et de Plet</ref></item>
                 </list>
@@ -7385,6 +7479,7 @@
                 <bibl>L. Mainini, <title level="a">Autour du <title>Livre la Roine</title> (Paris, BnF, fr. 5425) : tradition et constitution d’un livre juridique aux XIII<hi rend="sup">e</hi>-XIV<hi rend="sup">e</hi> siècles</title> [à paraître]</bibl>
               </listBibl>
               <div type="manuscrit">
+                <head/>
                 <list type="listMs">
                   <item xml:id="fr_5245" corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000090869"><ref target="digestum_vetus.xml#fr_5245">Paris, Bibl. nat. de Fr., fr. 5245</ref></item>
                 </list>
@@ -7392,6 +7487,9 @@
             </div>
           </div>
         </div>
+          
+        
+          
         <div type="traduction" xml:id="annebault" n="I.2">
           <head>Traduction en vers</head>
           <dateline>
@@ -7470,8 +7568,9 @@
             </listBibl>
           </div>
           <div type="manuscrit">
-            <list type="listMs">
-              <item corresp="ARK_manuscrit"><!--  xml:id="harley_4477" -->
+           <!-- LG 11/06/2019 dans le div, il y avait un corresp="ARK_manuscrit". Mais l’attribut corresp n’est pas pris en charge pour div dans le schéma (oui par la TEI) -->
+                <head>L</head>
+                <!--  xml:id="harley_4477" -->
                 <msDesc xml:id="harley_4477"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
                     <country>Angleterre</country>
@@ -8193,12 +8292,14 @@
                       <l>Et mist ce prologue devant.</l>
                     </lg>
                     <lg xml:id="harley_4477-inst.1.1">
-                      <lg rend="u">
-                        <l>¶ Cil qui les drois <expan>no<ex>us</ex></expan> baille <expan><ex>et</ex></expan> livre</l>
-                        <l>Enseigne <expan>q<ex>ue</ex></expan> le premier livre</l>
-                        <l>D’institutes icy <expan>co<ex>m</ex>mence</expan></l>
-                        <l>Qui est la clef de la science.</l>
-                      </lg> 
+                      <!--<lg rend="u">-->
+                        <l rend="u">¶ Cil qui les drois <expan>no<ex>us</ex></expan> baille <expan><ex>et</ex></expan> livre</l>
+                        <l rend="u">Enseigne <expan>q<ex>ue</ex></expan> le premier livre</l>
+                        <l rend="u">D’institutes icy <expan>co<ex>m</ex>mence</expan></l>
+                        <l rend="u">Qui est la clef de la science.</l>
+                      <!--</lg>--> 
+                      </lg>
+                      <lg>
                       <l>La majesté l’empereur</l>
                       <l>qui du monde est <expan>gouv<ex>er</ex>ne<ex>ur</ex></expan>.</l>
                       <l>doit estre d’armes <expan>ho<ex>n</ex>nouré</expan></l>
@@ -8371,10 +8472,12 @@
                       <l>Et <expan>p<ex>ar</ex></expan> voye des lois menee.</l>
                     </lg>
                     <lg xml:id="harley_4477-inst.1.2">
-                      <lg rend="u">
-                        <l>¶ Qui ce tiltre <expan>no<ex>m</ex>mer</expan> vouldroit</l>
-                        <l>Il est de justice et de droit.</l>
-                      </lg>
+                      <!--<lg rend="u">-->
+                        <l rend="u">¶ Qui ce tiltre <expan>no<ex>m</ex>mer</expan> vouldroit</l>
+                        <l rend="u">Il est de justice et de droit.</l>
+                      <!--</lg>-->
+                    </lg>
+                    <lg>
                       <l><hi rend="b">J</hi>ustice est voulenté estable</l>
                       <l>Voulenté <sic>feme</sic> <expan><ex>et</ex></expan> pardurable</l>
                       <l>Que a <expan>ch<ex>asc</ex>un</expan> sans attendue</l>
@@ -8446,10 +8549,12 @@
                   <div type="edition" n="2">
                     <head>Inst. 2.17</head>
                     <lg xml:id="harley_4477-inst.2.17">
-                      <lg rend="u"><!-- Le soulignement ne s'affiche pas : transformation ? -->
-                        <l>Cest tiltre est <expan>q<ex>ua</ex>nt</expan> testament</l>
-                        <l>Peult estre quassé et <expan>co<ex>m</ex>ment</expan>.</l>
-                      </lg>
+                      <!--<lg rend="u">-->
+                        <l rend="u">Cest tiltre est <expan>q<ex>ua</ex>nt</expan> testament</l>
+                        <l rend="u">Peult estre quassé et <expan>co<ex>m</ex>ment</expan>.</l>
+                      <!--</lg>-->
+                    </lg>
+                    <lg>
                       <l><hi rend="b">T</hi>estament<note>
                         <app>
                           <rdg wit="#P">Lestament <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg> 
@@ -8762,10 +8867,12 @@
                   <div type="edition" n="3">
                     <head>Inst. 4.17</head>
                     <lg xml:id="harley_4477-4.17">
-                      <lg>
+                      <!--<lg> LG 13/06/2019 ici il n'y avait pas l'attribut @rend valeur "u" (souligné) -->
                         <l>De l’office au juge convient</l>
                         <l>Parler en tiltre qui cy vient.</l>
-                      </lg>
+                      <!--</lg>-->
+                    </lg>
+                    <lg>
                       <l><hi rend="b">I</hi>cy <expan>no<ex>us</ex></expan> convient <expan>po<ex>ur</ex></expan> voier</l>
                       <l>De l’office au juge voier<note><app>
                         <rdg wit="#P">j. ouir</rdg>
@@ -8834,7 +8941,7 @@
                           <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> <expan>t<ex>er</ex>me</expan> que l’en ly mect</l>
                       <l>Ausy<note><app>
-                        <rdg>Est si c.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg>Est si c. <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> <expan>co<ex>m</ex>me</expan> il le <expan>p<ex>ro</ex>mect</expan></l>
                       <l>Ne la rent ly pleges rendra</l>
                       <l>Le pris <expan>q<ex>ue</ex></expan> la chose vauldra.</l>
@@ -8873,7 +8980,7 @@
                       <l>Se tant advient qu’il en despende</l>
                       <l>Puys que le plet est avant mis</l>
                       <l>Ou il ne s’est pas entremis<note><app>
-                        <rdg wit="#P">Ou que il s’est entremis<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">Ou que il s’est entremis <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>A droit de faire les valoir</l>
                       <l>Ains l’a laissié <expan>p<ex>ar</ex></expan> <expan>no<ex>n</ex></expan> chaloir</l>
@@ -8924,16 +9031,16 @@
                       <l>Dés que ly juges luy <expan>co<ex>m</ex>mande</expan></l>
                       <l>Ne <expan>c<ex>er</ex>tain</expan> <expan>t<ex>er</ex>me</expan> n’en demande</l>
                       <l>Ne il ne veult pleige<note><app>
-                        <rdg wit="#P">n’en veult terme d.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">n’en veult terme d. <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> donner</l>
                       <l>Le juge le doit condampner</l>
                       <l>En tant <expan>co<ex>m</ex>me</expan> l’aultre peust</l>
                       <l>Avoir de preu se il eust<note><app>
-                        <rdg wit="#P">s’il y fust<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">s’il y fust <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note></l>
                       <l>La chose en jugement veue</l>
                       <l>Dés <expan>q<ex>ue</ex></expan><note><app>
-                        <rdg wit="#P">Des ce que<supplied resp="#FD"><quote>meüe</quote> disyllabique dans l’original ; <hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">Des ce que <supplied resp="#FD"><quote>meüe</quote> disyllabique dans l’original ; <hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> la cause fut meue.</l>
                       <l xml:id="harley_4477-4.17.4"><label>[4]</label> ¶ Se<note><app>
                         <rdg wit="#P">De cilz qui</rdg>
@@ -8944,7 +9051,7 @@
                           <rdg xml:lang="lat">Si familiae erciscundae iudicio actum sit <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                         </app></note></l>
                       <l>A <expan>p<ex>ar</ex>tir</expan> a jugement voult<note><app>
-                        <rdg wit="#P">j. vont<supplied resp="#FD">cf. <hi rend="i">supra</hi> ; <hi rend="i">P</hi>+</supplied></rdg>
+                        <rdg wit="#P">j. vont <supplied resp="#FD">cf. <hi rend="i">supra</hi> ; <hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l><pb n="f. 212d"/> <expan>Po<ex>ur</ex></expan> <expan>p<ex>ar</ex>tir</expan> luy plus<note><app>
                           <rdg wit="#P">Par partir le plus de P <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
@@ -8958,16 +9065,16 @@
                       <l>Que l’un en ait <expan>meille<ex>ur</ex></expan> <expan>p<ex>ar</ex>tie</expan></l>
                       <l>Que l’<expan>aut<ex>re</ex></expan> il doit condampner</l>
                       <l>En<note><app>
-                        <rdg wit="#P">Ou d.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">Ou d. <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> deniers a l’autre donner</l>
                       <l>Sy qu’il n’y en ait<note><app>
-                        <rdg wit="#P">Si que n’en y ait<supplied resp="#FD">syntaxe de <hi rend="i">P</hi> plus ancienne</supplied></rdg>
+                        <rdg wit="#P">Si que n’en y ait <supplied resp="#FD">syntaxe de <hi rend="i">P</hi> plus ancienne</supplied></rdg>
                       </app></note> nul grevé</l>
                       <l>Et se ly uns seul<note><app>
                         <rdg wit="#P">ung de ceulx a</rdg>
                         <rdg xml:lang="lat">solus <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> a levé<note><app>
-                        <rdg wit="#L">Trestous les fruis de l’eritage Ou se il y a fait dommage <hi rend="i">om.</hi><supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
+                        <rdg wit="#L">Trestous les fruis de l’eritage Ou se il y a fait dommage <hi rend="i">om.</hi> <supplied resp="#FD"><hi rend="i">P</hi>+</supplied></rdg>
                       </app></note></l>
                       <l>Tout doit ly juge avaluer</l>
                       <l>Ne cen ne doit l’en pas muer</l>
@@ -9050,7 +9157,7 @@
                         </app></note> <expan>po<ex>ur</ex></expan> despit</l>
                       <l>Est condampnez cil qui respit</l>
                       <l>Quiert <expan>q<ex>ue</ex></expan> le <expan>mandeme<ex>n</ex>t</expan><note><app>
-                          <rdg wit="#P">Que le commandement au<supplied resp="#FD"><hi rend="i">P</hi> hypermétrique ;
+                          <rdg wit="#P">Que le commandement au <supplied resp="#FD"><hi rend="i">P</hi> hypermétrique ;
                             <hi rend="i">P</hi>-</supplied></rdg>
                         </app></note> au juge</l>
                       <l>Ne fait des ce que il ajuge<note>
@@ -9063,7 +9170,7 @@
                       <l>Que des que la parole yssy</l>
                       <l>En la court de la bouche au juge</l>
                       <l>Se a aucune<note><app>
-                        <rdg wit="#P">Que aucun une c.<supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
+                        <rdg wit="#P">Que aucun une c. <supplied resp="#FD"><hi rend="i">P</hi>-</supplied></rdg>
                       </app></note> chose adjuge</l>
                       <l>Elle est soue sans contredit</l>
                       <l>Sy <expan>co<ex>m</ex>me</expan> ly juge l’a dit</l>
@@ -9116,12 +9223,15 @@
                     </lg>
                   </div>
                 </div>
-              </item>
-            </list>
+            <!--</div>-->
           </div>
+          
           <div type="imprime">
-            <list type="listMs">
-              <item><!--  xml:id="caillaut" -->
+            <head><bibl>
+              <title>Le Livre des Institutions des drois appelé Institute</title>, <pubPlace>Paris</pubPlace>, <publisher>Antoine Caillaut</publisher>, <date notBefore="1485-01-01" notAfter="1486-12-31"><hi rend="i">ca</hi> 1486.</date>
+            </bibl></head>
+            <!--<div type="listMs"> <!-\-  xml:id="caillaut" -\->
+              <head>Caillaut</head>-->
                 <msDesc xml:id="caillaut"><!-- type="manifestation_singleton" --><!-- type="manifestation" -->
                   <msIdentifier>
                     <country>France</country>
@@ -9132,11 +9242,10 @@
                       <idno>P</idno>
                     </altIdentifier>
                   </msIdentifier>
-                  <head>
-                    <bibl>
-                      <title>Le Livre des Institutions des drois appelé Institute</title>, <pubPlace>Paris</pubPlace>, <publisher>Antoine Caillaut</publisher>, <date notBefore="1485-01-01" notAfter="1486-12-31"><hi rend="i">ca</hi> 1486</date>
-                    </bibl>
-                  </head>
+                  
+                <!-- LG 11/06/2019 dans l’encodage initial, le titre était placé ici<head><title>/title>               
+                  </head>. ce type d’encodage n’était pas valide. -->
+                  
                   <msContents>
                     <summary>traduction <lang xml:lang="fro" n="lang_arrivee">française</lang> en vers des <title type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736009z" xml:lang="lat">Institutiones</title> de <persName role="auteur" ref="http://catalogue.bnf.fr/ark:/12148/cb12055108q" key="Justinien">Justinien</persName> par <persName role="traducteur" key="Richard d'Annebault">Richard d’Annebault</persName> (f. 70a-217d) (titre complet :
                       <title>C’est le livre des institutions des drois appellé Institute translaté de latim en françois et corrigé en diligence par plusieurs docteurs et souverains legistes</title> f. A2a)</summary>
@@ -10192,25 +10301,38 @@
                     </lg>
                   </div>
                 </div>
-              </item>
-            </list>
+              
+            <!--</div>-->
+            
           </div>
         </div>
       </div>
+        
+        
       <div type="traduction" xml:id="azon">
         <head>Azon, <title>Summa Institutionum</title></head>
         <p>Une traduction anonyme de la <title xml:lang="lat">Summa Institutionum</title>, qui complète la traduction de la <title>Somme Acé</title>, nous est transmise par deux manuscrits :</p>
-        <div type="manuscrit">
-          <list type="listMs">
-            <item xml:id="fr_22969" corresp="http://gallica.bnf.fr/ark:/12148/btv1b84478693">
-              <ref target="codex.xml#fr_22969">Paris, BNF, fr. 22969</ref>
-            </item>
-            <item xml:id="bav_1063" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md935138m22g">
+         <div type="listMs">
+            <head>Paris, BNF, fr. 22969</head>
+            <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b84478693">http://gallica.bnf.fr/ark:/12148/btv1b84478693</ref></p>
+            <!-- LG 11/06/2019 encodage ancien - NB les liens ne marchaient pas. 
+              <item xml:id="fr_22969" corresp="http://gallica.bnf.fr/ark:/12148/btv1b84478693">-->
+              <!--<ref target="codex.xml#fr_22969">Paris, BNF, fr. 22969</ref>-->
+              <!--</item>-->
+              <!--<item xml:id="bav_1063" corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md935138m22g">
               <ref target="codex.xml#bav_1063">Vatican, BAV, Reg. lat. 1063</ref>
-            </item>
-          </list>
-        </div>
+              </item>-->
+          </div>
+          <div type="listMs">
+            <head>Vatican, BAV, Reg. lat. 1063</head>
+            <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md935138m22g">http://medium-avance.irht.cnrs.fr/ark:/63955/md935138m22g</ref></p>
+          </div>            
       </div>
+      
+        
+      
+      
+      
     </body>
   </text>
 </TEI>
