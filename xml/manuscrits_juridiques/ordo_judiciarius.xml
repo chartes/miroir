@@ -1701,6 +1701,7 @@
               </div>
             </div>
             <div corresp="ARK_manuscrit"><!-- xml:id="marston_228" -->
+              <!-- LG 17/06/2019 l'attribut de div n'est pas un vrai lien (chercher la source ?) -->
               <head/>
               <msDesc xml:id="marston_228"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
@@ -3510,7 +3511,7 @@
                   <label>[3.17]</label> <expan><ex>et</ex></expan> jeu ay mis touz cez cas pour ceu que sovent avient <expan>q<ex>ue</ex></expan> c’est plus li preus au demandeor <expan>q<ex>ua</ex>nt</expan> il traet son <expan>adv<ex>er</ex>saere</expan> en cause <expan>p<ex>ar</ex></expan> devant le juge ou qui juridion il est alez que <expan>p<ex>ar</ex></expan> devant celi ou il a son maners.</p>
               </div>
             </div>
-            <div><!-- xml:id="fr_25546" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162"" -->
+            <div><!-- LG 17/06/2019 les informations qui suivent (xml:id et corresp) étaient dejà en commentaire dans le fichier du 30/11/2019 ... donc, je n’ai pas mis le corresp dans le div, car il n'était pas dans l'item --><!-- xml:id="fr_25546" corresp="http://gallica.bnf.fr/ark:/12148/btv1b90075162"" -->
               <head/>
               <msDesc xml:id="fr_25546" source="http://gallica.bnf.fr/ark:/12148/btv1b90075162"><!-- type="manifestation_singleton" -->
                 <msIdentifier>
@@ -4898,6 +4899,7 @@
           </div>
         </div>
         <div type="deperdita" n="I.2">
+          <head/>
           <list type="deperdita">
             <head>Manuscrits détruits</head>
             <item corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md945q47v99n"><!-- xml:id="chartres_212" -->

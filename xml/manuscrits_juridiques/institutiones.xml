@@ -560,7 +560,7 @@
                    </div>
                    
                   
-                   <div>
+                   <div><!-- LG 17/06/2019 dans le fichier du 30/11/18 il n'y avait pas de @corresp -->
                      <head>Glasgow, MS Hunter 63</head>
                      <msDesc xml:id="glasgow_hunter63"><!-- type="manifestation_singleton" -->                               <msIdentifier>
                       <country>Ecosse</country>
@@ -1258,9 +1258,9 @@
                    
                    <div xml:id="bl_royal20"><head>Londres, Bl Royal 20</head><p><ref target="authenticum.xml#bl_royal20">Londres, British Libr., Royal 20.D.IX (sigle O)</ref></p></div>
                 
-                   <div>
+                   <div corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541">
                   <head>Montpellier, H 316</head>
-                     <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541">Montpellier, bibl. interuniversitaire, section Médecine</ref></p>
+                     <!--<p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md76rx916541"></ref></p>-->
                   <msDesc xml:id="montpellier_h316"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -1902,9 +1902,9 @@
                  </div>
                    
                    <!-- LG 14/06/2019 l’attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q" n'est pas valide dans div ci-dessous (il l'était dans item) -->
-                   <div>
+                   <div corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q">
                   <head>Montpellier, H 373</head>
-                     <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q">Montpellier, bibl. interuniversitaire, section Médecine</ref></p>
+                     <!--<p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md82k643dh4q"></ref></p>-->
                   <msDesc xml:id="montpellier_h373"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -2568,11 +2568,10 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 l’attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v" était sur item. Div ne l’accepte pas. -->
+                   <div corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v">
                   <!--  xml:id="orleans_393" -->
                   <head>Orléans, 393</head>
-                  <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v">Orléans, 393</ref></p>
+                  <!--<p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md418k71p21v">Orléans, 393</ref></p>-->
                   <msDesc xml:id="orleans_393"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -3208,17 +3207,18 @@
                     </div>
                   </div>
                 </div>
-                <div xml:id="fr_498" >
+                   <!-- LG 17/06/2019 pourquoi, dans cette notice, le xml:id se trouvait-il dans item, avec, aussi, le corresp ?  -->
+                   <div xml:id="fr_498" corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s">
                   <!-- LG 11/06/2019 outre à l'attribut xml:id, dans item, il y avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b8447185s". cet attribut (corresp), en revanche, n'est pas validé dans div -->
                   <head>Paris, BnF fr. 498</head>
                   <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b8447185s">Gallica</ref></p>
                   <p><ref target="authenticum.xml#fr_498">Paris, Bibl. nat. de Fr., fr. 498 (sigle A)</ref></p>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v" -->
+                   <div corresp="http://gallica.bnf.fr/ark:/12148/btv1b9059651v">
                   <!--  xml:id="fr_1063" -->
                   <head>Paris, BnF fr. 1063</head>
-                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b9059651v">Gallica</ref></p>
+                 <!-- <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b9059651v">Gallica</ref></p>-->
+                     <!-- LG 17/06/2019 la valeur de source est un lien vers Gallica, pas un lien qui renvoie à une notice d'autorité (voir schéma). -->
                   <msDesc xml:id="fr_1063" source="https://gallica.bnf.fr/ark:/12148/btv1b9059651v?rk=42918;4"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -3833,11 +3833,10 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 dans item, il avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q" -->
-                  <!-- xml:id="fr_1064" -->
+                   <div corresp="http://gallica.bnf.fr/ark:/12148/btv1b8452541q">
+                <!-- xml:id="fr_1064" -->
                   <head>Paris, BnF fr. 1064</head>
-                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b8452541q">Gallica</ref></p>
+                  <!--<p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b8452541q">Gallica</ref></p>-->
                   <msDesc xml:id="fr_1064" source="https://gallica.bnf.fr/ark:/12148/btv1b8452541q"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -4451,11 +4450,10 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188" -->
+                   <div corresp="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188">
                   <!--  xml:id="fr_1065" -->
                   <head>Paris, BnF fr. 1065</head>
-                  <p><ref target="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188">BnF, Archives et manuscrits</ref></p>
+                  <!--<p><ref target="http://archivesetmanuscrits.bnf.fr/ead.html?id=FRBNFEAD000042188">BnF, Archives et manuscrits</ref></p>-->
                   <msDesc xml:id="fr_1065"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -5048,11 +5046,10 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899" -->
-                  <!--  xml:id="fr_1928" -->
+                   <div corresp="http://gallica.bnf.fr/ark:/12148/btv1b90596899">
+                 <!--  xml:id="fr_1928" -->
                   <head>Paris, BnF fr. 1928</head>
-                  <p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b90596899">Gallica</ref></p>
+                  <!--<p><ref target="http://gallica.bnf.fr/ark:/12148/btv1b90596899">Gallica</ref></p>-->
                   <msDesc xml:id="fr_1928" source="https://gallica.bnf.fr/ark:/12148/btv1b90596899"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -5764,12 +5761,12 @@
                   <head>Paris, BnF fr. 22970</head>
                   <p><ref target="authenticum.xml#fr_22970">Paris, Bibl. nat. de Fr., fr. 22970 (sigle F)</ref></p>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 il y avait un attribut corresp corresp="ARK_manuscrit" -->
+                   <div corresp="ARK_manuscrit">
+                  <!-- LG 17/06/2019 l'attribut de div n'est pas un vrai lien (chercher la source ?) -->
                   <!--  xml:id="princeton_kane_ms49" -->
                   <head>Princeton, Kane MS. 49</head>
                   <!-- LG 14/06/2019 le lien ci-dessous ne marche pas. Je ne sais pas à quoi cela correspond -->
-                  <p><ref target="ARK_manuscrit"></ref></p>
+                  <!--<p><ref target="ARK_manuscrit"></ref></p>-->
                   <msDesc xml:id="princeton_kane_ms49"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Etats-Unis</country>
@@ -5887,12 +5884,10 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 St-Omer : l'attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q" était sur item -->
+                   <div orresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q">
                   <!--  xml:id="stomer_439" -->
                   <head>Saint-Omer, 439</head>
-                  <!-- LG 14/06/2019 le lien ci-dessous ne marche pas. Je ne sais pas à quoi cela correspond -->
-                  <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q"></ref></p>
+                 <!-- <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md8605742w7q"></ref></p>-->
                   <msDesc xml:id="stomer_439"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>France</country>
@@ -6587,11 +6582,10 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/06/2019 il y avait un attribut corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g" -->
+                   <div corresp="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g">
                   <!-- xml:id="bav_1927" -->
                   <head>Vatican, Reg. lat. 1927</head>
-                  <p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g">Vatican, Bibl. apostolica Vaticana, Reg. lat. 1927</ref></p>
+                  <!--<p><ref target="http://medium-avance.irht.cnrs.fr/ark:/63955/md06sx61g10g"></ref></p>-->
                   <msDesc xml:id="bav_1927"><!-- type="manifestation_singleton" -->
                     <msIdentifier>
                       <country>Vatican</country>
@@ -7219,8 +7213,8 @@
                     </div>
                   </div>
                 </div>
-                <div>
-                  <!-- LG 11/°06/2019 il y avait un attribut corresp="ARK_manuscrit" -->
+                   <div corresp="ARK_manuscrit">
+                     <!-- LG 17/06/2019 l'attribut de div n'est pas un vrai lien (chercher la source ?) -->
                   <!--  xml:id="washington_i71" -->
                   <head>Washington, i 71</head>
                   <p><ref target="ARK_manuscrit"></ref></p>
@@ -7569,7 +7563,7 @@
           </div>
           <div type="manuscrit">
            <!-- LG 11/06/2019 dans le div, il y avait un corresp="ARK_manuscrit". Mais l’attribut corresp n’est pas pris en charge pour div dans le schéma (oui par la TEI) -->
-                <head>L</head>
+            <head>Manuscrit</head>
                 <!--  xml:id="harley_4477" -->
                 <msDesc xml:id="harley_4477"><!-- type="manifestation_singleton" -->
                   <msIdentifier>
