@@ -54,10 +54,10 @@
           <name xml:id="ASL">Anne-Sophie Lienhard</name>
           <resp>transcription</resp>
         </respStmt>
-        <!-- LG 18/06/2019 où mettre l'éditeur ? <respStmt>
+        <!-- LG 18/06/2019 où mettre cet éditeur ? Je ne peux le mettre dans le respStmt, car il n'a pas "participé" à la rédation de la notice<respStmt>
           <name xml:id="FOM">Félix Olivier-Martin</name>
           <resp>éditeur</resp>
-        </respStmt>. Je ne peux le mettre dans le respStmt, car il n'a pas "participé" à la notice (changer l'XSLT ?) -->
+        </respStmt>.  -->
       </editionStmt>
       <publicationStmt>
         <publisher>École nationale des chartes</publisher>
@@ -496,7 +496,7 @@
                         <msItem>
                           <locus from="11v"/>
                           <title type="sub">[Inst. 1.12]</title>
-                          <incipit xml:lang="lat"><seg type="rubric">Quibus modis jus patri<supplied resp="#FD">e</supplied> potes<supplied resp="#FD">tatis</supplied> solvitur</seg></incipit>
+                          <incipit xml:lang="lat"><seg type="rubric">Quibus modis jus patri<gap resp="#FD">e</gap> potes<gap resp="#FD">tatis</gap> solvitur</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="13v"/>
@@ -1389,7 +1389,7 @@
                       <origPlace>France</origPlace>
                     </origin>
                     <provenance>
-                      <p><label>Provenance</label> : <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d’Armagnac</persName> (<quote>Ce livre de l’institute est <supplied resp="#FD">cachet</supplied> nemours, conte de la marche <supplied resp="#FD">signé « P. Tropier »</supplied> <sic>Jacques.</sic> Pour Carlat</quote> f. 309) ; <persName role="possesseur" key="H. Bailly">H. Bailly</persName> et <persName role="possesseur" key="N.I. Closset">N.I. Closset</persName> (Liège, d’après perron de Liège entre leurs armes sur les plats de reliure) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> ; <orgName role="possesseur" key="bibliothèque royale">Bibliothèque royale</orgName>. Remarque : le fichier papier de la Bibl. royale indique que le ms a fait partie temporairement des collections de la Bibl. nationale de Paris, mais aucune estampille ou mention dans le manuscrit n’en témoigne.</p>
+                      <p><label>Provenance</label> : <persName role="possesseur" key="Jacques d'Armagnac, duc de Nemours">Jacques d’Armagnac</persName> (<quote>Ce livre de l’institute est [cachet] nemours, conte de la marche [signé « P. Tropier »] <sic>Jacques.</sic> Pour Carlat</quote> f. 309) ; <persName role="possesseur" key="H. Bailly">H. Bailly</persName> et <persName role="possesseur" key="N.I. Closset">N.I. Closset</persName> (Liège, d’après perron de Liège entre leurs armes sur les plats de reliure) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> ; <orgName role="possesseur" key="bibliothèque royale">Bibliothèque royale</orgName>. Remarque : le fichier papier de la Bibl. royale indique que le ms a fait partie temporairement des collections de la Bibl. nationale de Paris, mais aucune estampille ou mention dans le manuscrit n’en témoigne.</p>
                     </provenance>
                     <provenance><p><label>Anciennes cotes</label> : <idno type="old">6ah 14</idno> (étiquette collée sur le dos de la reliure) ; <idno type="old">61° 19</idno> (f. 1) ; <idno type="old">138</idno> (f. 1).</p></provenance>
                   </history>
@@ -1514,7 +1514,7 @@
                           <title type="sub">[Auth. 8, Nov. 8]</title>
                           <incipit>
                             <seg type="rubric">Cist tytres est .xiii. jorz devant les kalendes de mai fu envoiez li <expan>esse<ex>m</ex>pleres</expan><pb n="f. 26d"/> del banissement de Costentinoble al sulifaire <expan>q<ex>ui</ex></expan> lors estoit <expan><ex>con</ex>seilliers</expan> <expan>q<ex>ui</ex></expan> tiex est</seg>
-                            <supplied resp="#FD">de <quote xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</quote> à <quote xml:lang="lat">... si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</quote>.<seg type="incipit">La loi que nous avon fete novelement que nos avons escrite a noz prevoz gloriex...</seg></supplied>
+                            [de <foreign xml:lang="lat">« Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis »</foreign> à <foreign xml:lang="lat"> «... si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt »</foreign>. <seg type="incipit">La loi que nous avon fete novelement que nos avons escrite a noz prevoz gloriex...</seg>].
                           </incipit>
                         </msItem>
                         <msItem>
@@ -1697,7 +1697,7 @@
                         <msItem>
                           <locus from="64a"/>
                           <title type="sub">[Auth. 68, Nov. 66]</title>
-                          <incipit><supplied resp="#FD"><seg type="rubric">Ci <expan>ti<ex>tre</ex></expan> parole <expan>q<ex>ue</ex></expan> cil <expan>q<ex>ui</ex></expan> fet son testamant face <expan>incricio<ex>n</ex></expan> de son oir <expan><ex>et</ex></expan> le <expan>no<ex>m</ex></expan> de <expan>co<ex>m</ex>bia<ex>n</ex></expan> il at hoirs <expan><ex>et</ex></expan> que partie il coviant que li peres lest a ses...<note>Réserve ; pas de rubrique, mais rubrique d’attente dans la marge de queue, partiellement rognée.</note></seg>Li <expan>emp<ex>er</ex>eres</expan> Justinians dit a Jehan gloriex <expan>p<ex>re</ex>vost</expan> d’Oriant : les causes <expan>q<ex>ui</ex></expan> sont meues nos donnent sovant achoison de fere lois</supplied></incipit>
+                          <incipit>[<seg type="rubric">Ci <expan>ti<ex>tre</ex></expan> parole <expan>q<ex>ue</ex></expan> cil <expan>q<ex>ui</ex></expan> fet son testamant face <expan>incricio<ex>n</ex></expan> de son oir <expan><ex>et</ex></expan> le <expan>no<ex>m</ex></expan> de <expan>co<ex>m</ex>bia<ex>n</ex></expan> il at hoirs <expan><ex>et</ex></expan> que partie il coviant que li peres lest a ses...<note>Réserve ; pas de rubrique, mais rubrique d’attente dans la marge de queue, partiellement rognée.</note></seg>Li <expan>emp<ex>er</ex>eres</expan> Justinians dit a Jehan gloriex <expan>p<ex>re</ex>vost</expan> d’Oriant : les causes <expan>q<ex>ui</ex></expan> sont meues nos donnent sovant achoison de fere lois].</incipit>
                         </msItem>
                         <msItem>
                           <locus from="65a"/>
@@ -2288,7 +2288,7 @@
                         <msItem>
                           <locus from="148d"/>
                           <title type="sub">[C. 10.53]</title>
-                          <incipit><seg type="rubric"><supplied resp="#FD">C</supplied>ist tytres est de <expan>cl<ex>er</ex>s</expan> <expan><ex>et</ex></expan> des mires</seg></incipit>
+                          <incipit><seg type="rubric"><gap resp="#FD">C</gap>ist tytres est de <expan>cl<ex>er</ex>s</expan> <expan><ex>et</ex></expan> des mires</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="149b"/>
@@ -2830,7 +2830,7 @@
                         <msItem>
                           <locus from="170c"/>
                           <title type="sub">[C. 12.4]</title>
-                          <incipit><seg type="rubric">Cist <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la g<supplied resp="#FD">ra</supplied>nt <expan>p<ex>re</ex>vosté</expan> <expan><ex>et</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la cité <expan><ex>et</ex></expan> li mestre des <expan>ch<ex>evalie</ex>rs</expan> <expan>s<ex>on</ex>t</expan> oés en dignité</seg></incipit>
+                          <incipit><seg type="rubric">Cist <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la g<gap resp="#FD">ra</gap>nt <expan>p<ex>re</ex>vosté</expan> <expan><ex>et</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la cité <expan><ex>et</ex></expan> li mestre des <expan>ch<ex>evalie</ex>rs</expan> <expan>s<ex>on</ex>t</expan> oés en dignité</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="170c"/>
@@ -3816,7 +3816,7 @@
                           <locus from="7a"/>
                           <title type="sub">[Inst. 1.19]</title>
                           <title xml:lang="lat" resp="#FD">De fiduciaria tutela</title>
-                          <incipit><supplied resp="#FD"><seg>Il ya une autre <expan>man<ex>ier</ex>e</expan> de garde <expan>q<ex>ui</ex></expan> est apelee garde par fiance...</seg><note>Ed. F. Olivier-Martin, p. 39. Sans réserve ni rubrique. Le titre est toutefois introduit par une initiale filigranée de 2 UR.</note></supplied></incipit>
+                          <incipit>[<seg>Il ya une autre <expan>man<ex>ier</ex>e</expan> de garde <expan>q<ex>ui</ex></expan> est apelee garde par fiance...</seg><note>Ed. F. Olivier-Martin, p. 39. Sans réserve ni rubrique. Le titre est toutefois introduit par une initiale filigranée de 2 UR.</note>].</incipit>
                         </msItem>
                         <msItem>
                           <locus from="7a"/>
@@ -4243,7 +4243,7 @@
                       <msItem>
                         <locus from="48a"/>
                         <title type="sub">[Auth. 1, Nov. 1]</title>
-                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <supplied resp="#FD">ne pueent</supplied> paier les lés</seg></incipit>
+                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <gap resp="#FD">ne pueent</gap> paier les lés</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="50c"/>
@@ -4284,7 +4284,7 @@
                       <msItem>
                         <locus from="66b"/>
                         <title type="sub">[Auth. 8, Nov. 8]</title>
-                        <incipit><seg type="rubric">A celui meisme</seg> <supplied resp="#FD">de <q xml:lang="lat">Scriptum est exemplar huiusmodi Dominico gloriosissimo praefecto apud Illyricum praetoriorum, sed ita quidem adiectionibus</q> jusqu’à la fin de Auth. 8.<seg type="incipit"><foreign xml:lang="lat" rend="u">Scriptum</foreign>. Cist exemplairez a esté <expan>esc<ex>ri</ex>s</expan> au noble prevost de la grant prevosté d’Illire...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">A celui meisme</seg> [de <foreign xml:lang="lat">« Scriptum est exemplar huiusmodi Dominico gloriosissimo praefecto apud Illyricum praetoriorum, sed ita quidem adiectionibus »</foreign> jusqu’à la fin de Auth. 8. <seg type="incipit">« <foreign xml:lang="lat" rend="u">Scriptum</foreign> ». Cist exemplairez a esté <expan>esc<ex>ri</ex>s</expan> au noble prevost de la grant prevosté d’Illire ...</seg>].</incipit>
                       </msItem>
                       <msItem>
                         <locus from="67b"/>
@@ -4764,7 +4764,7 @@
                           <locus from="172d"/>
                           <title type="sub">[C. 10.5]</title>
                           <title xml:lang="lat" resp="#FD">Ne fiscus rem quam vendidit evincat</title>
-                          <incipit><seg type="rubric">De ceulz qui enprunterent les coumuns deniers</seg><supplied resp="#FD"></supplied></incipit>
+                          <incipit><seg type="rubric">De ceulz qui enprunterent les coumuns deniers</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="173a"/>
@@ -5216,8 +5216,8 @@
                         <msItem>
                           <locus from="196d"/>
                           <title type="sub">[C. 11.19]</title>
-                          <title xml:lang="lat" resp="#FD">De studiis liberalibus urbis Romae et Constantinopolitanae</title>
-                          <incipit><supplied resp="#FD">Des escoles de la cité de Rome <expan><ex>et</ex></expan> de celes de Constantinoble</supplied><note>Réserve, mais rubrique non réalisée. En marge, rubrique d’attente.</note></incipit>
+                          <title xml:lang="lat" resp="#FD">[De studiis liberalibus urbis Romae et Constantinopolitanae</title>
+                          <incipit><foreign xml:lang="fro">Des escoles de la cité de Rome</foreign> et <foreign xml:lang="fro">de celes de Constantinoble</foreign>] <note>Réserve, mais rubrique non réalisée. En marge, rubrique d’attente.</note></incipit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 11.20]</title>
@@ -6137,7 +6137,7 @@
                         <msItem>
                           <locus from="9b"/>
                           <title type="sub">[Inst. 1.16]</title>
-                          <incipit><seg type="rubric">Cest tytre <expan>p<ex>ar</ex>ole</expan> de l’amenuisement de chief</seg><supplied resp="#FD">ms <quote>la menuisement</quote></supplied></incipit>
+                          <incipit><seg type="rubric">Cest tytre <expan>p<ex>ar</ex>ole</expan> de l’amenuisement de chief</seg>[ms <hi rend="i">la menuisement</hi>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="9c"/>

@@ -76,7 +76,7 @@
       </div>
       <div type="traduction" xml:id="fr_anonyme">
         <head>Traduction <lang xml:lang="fro" n="lang_arrivee">française</lang>
-          <persName ref="???" role="traducteur">anonyme</persName> de l’<!-- LG 12/06/2019 : la valeur oeuvre n'est pas prise en charge par l'attribut type dans l'élément bibl --><!--<bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl>--><bibl corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl></head>
+          <persName ref="???" role="traducteur">anonyme</persName> de l’<!-- LG 12/06/2019 : la valeur oeuvre n'est pas prise en charge par l'attribut type dans l'élément bibl -->-<bibl type="oeuvre" corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl><bibl corresp="http://catalogue.bnf.fr/ark:/12148/cb13736027w"><title xml:lang="lat">Infortiatum</title></bibl></head>
         <dateline>
           <date notBefore="1260" notAfter="1269">au plus tard dans les années 1260</date>
         </dateline>
@@ -583,7 +583,7 @@
                         <msItem>
                           <locus from="142a"/>
                           <title type="sub">[D. 35.2]</title>
-                          <incipit><seg type="rubric">De la loi qui retaille les lés .ii.</seg><supplied resp="#FD">s’achève aux 3/4 de D. 35.2.82</supplied></incipit>
+                          <incipit><seg type="rubric">De la loi qui retaille les lés .ii.</seg> [s’achève aux 3/4 de D. 35.2.82]</incipit>
                         </msItem>
                       </msItem>
                     </msItem>
@@ -605,7 +605,7 @@
                         <msItem>
                           <locus from="150d"/>
                           <title type="sub">[D. 36.1]</title>
-                          <incipit><seg type="rubric">Cist tytres est del conseill au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les <expan>actio<ex>n</ex>s</expan> de l’eritaige sivent l’eritaige .i.</seg><supplied resp="#FD">incomplet : s’achève à la fin de D. 36.1.83</supplied></incipit>
+                          <incipit><seg type="rubric">Cist tytres est del conseill au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les <expan>actio<ex>n</ex>s</expan> de l’eritaige sivent l’eritaige .i.</seg><note>incomplet : s’achève à la fin de D. 36.1.83</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_trespartes_livre3">
@@ -626,7 +626,7 @@
                         <msItem>
                           <locus from="167c"/>
                           <title type="sub">[D. 36.4]</title>
-                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> il loise a estre en possession por cause de lés ou de choses <expan>enjoi<ex>n</ex>tes</expan> .iii.</seg><supplied resp="#FD">incomplet : s’achève avec le paragraphe D. 36.4.15</supplied></incipit>
+                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> il loise a estre en possession por cause de lés ou de choses <expan>enjoi<ex>n</ex>tes</expan> .iii.</seg><note>incomplet : s’achève avec le paragraphe D. 36.4.15</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="bordeaux_354_trespartes_livre4">
@@ -677,7 +677,7 @@
                         <msItem>
                           <locus from="179d"/>
                           <title type="sub">[D. 37.8]</title>
-                          <incipit><seg type="rubric">D’<expan>a<ex>com</ex>pai<ex>n</ex>gn<ex>er</ex></expan> les neveuz au <expan>m<ex>or</ex>t</expan> a ses filz <expan>q<ex>ui</ex></expan> sont hors de baillie</seg><supplied resp="#FD">la rubrique est placée avant D. 37.9.10, qui précède immédiatement D. 37.8.1</supplied></incipit>
+                          <incipit><seg type="rubric">D’<expan>a<ex>com</ex>pai<ex>n</ex>gn<ex>er</ex></expan> les neveuz au <expan>m<ex>or</ex>t</expan> a ses filz <expan>q<ex>ui</ex></expan> sont hors de baillie</seg><note>la rubrique est placée avant D. 37.9.10, qui précède immédiatement D. 37.8.1</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="181a"/>
@@ -1351,7 +1351,7 @@
                         <msItem>
                           <locus from="150a"/>
                           <title type="sub">[D. 35.2]</title>
-                          <incipit><seg type="rubric">De la loi qui retaille les lés</seg><supplied resp="#FD">s’achève aux trois quarts de D. 35.2.82</supplied></incipit>
+                          <incipit><seg type="rubric">De la loi qui retaille les lés</seg><note>s’achève aux trois quarts de D. 35.2.82</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_infortiatum_blanc">
@@ -1376,7 +1376,7 @@
                         <msItem>
                           <locus from="161b"/>
                           <title type="sub">[D. 36.1]</title>
-                          <incipit><seg type="rubric">Cist titres est del <expan><ex>con</ex>seill</expan> au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les actions de l’eritaige suivent l’eritaige</seg><supplied resp="#FD">incomplet : s’achève à la fin de D. 36.1.83</supplied></incipit>
+                          <incipit><seg type="rubric">Cist titres est del <expan><ex>con</ex>seill</expan> au senat qui est apelez tertullians qui dit <expan>q<ex>ue</ex></expan> les actions de l’eritaige suivent l’eritaige</seg><note>incomplet : s’achève à la fin de D. 36.1.83</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_trespartes_livre3">
@@ -1397,7 +1397,7 @@
                         <msItem>
                           <locus from="181a"/>
                           <title type="sub">[D. 36.4]</title>
-                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> il loise a estre en poss estre en <expan>posessio<ex>n</ex></expan> por cause de lés ou de choses <expan>enjoi<ex>n</ex>tes</expan></seg><supplied resp="#FD">incomplet : s’achève avec le paragraphe D. 36.4.15</supplied></incipit>
+                          <incipit><seg type="rubric"><expan>Q<ex>ue</ex></expan> il loise a estre en poss estre en <expan>posessio<ex>n</ex></expan> por cause de lés ou de choses <expan>enjoi<ex>n</ex>tes</expan></seg><note>incomplet : s’achève avec le paragraphe D. 36.4.15</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="rouen_794_trespartes_livre4">
