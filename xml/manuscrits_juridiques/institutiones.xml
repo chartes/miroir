@@ -698,7 +698,7 @@
                         <msItem>
                           <locus from="13a"/>
                           <title type="sub">[Inst. 2.1]</title>
-                          <incipit><supplied resp="#FD">= <title xml:lang="lat">De rerum divisione</title> ; réserve, mais pas d’intitulé de titre</supplied></incipit>
+                          <incipit><supplied resp="#FD">= <title xml:lang="lat">De rerum divisione</title></supplied><note>Réserve, mais pas d’intitulé de titre</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="17a"/>
@@ -764,7 +764,7 @@
                         <msItem>
                           <locus from="25a"/>
                           <title type="sub">[Inst. 2.14]</title>
-                          <incipit><supplied resp="#FD">= <title xml:lang="lat">De heredibus instituendis</title> ; ni réserve ni intitulé de titre ;<seg type="incipit">Il est otroyé que l’on fache sez hoirs ou des frans homez...</seg></supplied></incipit>
+                          <incipit><supplied resp="#FD">= <title xml:lang="lat">De heredibus instituendis</title><note>Ni réserve ni intitulé de titre</note><seg type="incipit">Il est otroyé que l’on fache sez hoirs ou des frans homez...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="26a"/>
@@ -1069,7 +1069,7 @@
                         <msItem>
                           <locus from="66b"/>
                           <title type="sub">[Inst. 4.18.4-fin]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De publicis judiciis</title> ; le ms. enchaîne au cours d’une phrase 17.1 et la fin de 18.4 sans aucune solution de continuité</supplied></incipit>
+                          <incipit><supplied resp="#FD"><title xml:lang="lat">De publicis judiciis</title></supplied><note>Le ms. enchaîne au cours d’une phrase 17.1 et la fin de 18.4 sans aucune solution de continuité</note></incipit>
                         </msItem>
                       </msItem>
                     </msItem>
@@ -1407,7 +1407,7 @@
                       <msItem xml:id="montpellier_h316_institutiones_livre2">
                         <locus from="14a" to="28d"/>
                         <title type="section" xml:lang="fr">Livre II</title>
-                        <incipit xml:lang="fro">Incipit liber .ii<hi rend="sup">9</hi>. De rerum divisione <supplied resp="#FD">rubr. ajoutée en marge au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. en cursive</supplied> Nous avons tretié du livre devant ce est de la droiture aus <expan>p<ex>er</ex>sones</expan>. Or veons des choses qui <expan>s<ex>on</ex>t</expan> ou en nostre patremoine ou dehors</incipit>
+                        <incipit xml:lang="fro">Incipit liber .ii<hi rend="sup">9</hi>. De rerum divisione <note resp="#FD">Rubr. ajoutée en marge au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. en cursive</note> Nous avons tretié du livre devant ce est de la droiture aus <expan>p<ex>er</ex>sones</expan>. Or veons des choses qui <expan>s<ex>on</ex>t</expan> ou en nostre patremoine ou dehors</incipit>
                         <explicit xml:lang="fro">...aucuns puet pluseurs tex escriz ne il <expan>covie<ex>n</ex>t</expan> pas <expan>q<ex>ue</ex></expan> il <expan>soie<ex>n</ex>t</expan> ordené si <expan><ex>com</ex>me</expan> il eut esté fet li uns aprés l’autre.</explicit>
                         <msItem>
                           <locus from="14a"/>
@@ -1455,8 +1455,8 @@
                           <locus from="22b"/>
                           <title type="sub">[Inst. 2.8]</title>
                           <title xml:lang="lat" resp="#FD">Quibus alienare licet vel non</title>
-                          <incipit>Il avient aucune foiz <expan>q<ex>ue</ex></expan> cil qui est sires de la chose ne la puet pas estrangier <expan><ex>et</ex></expan> cil <expan>q<ex>ui</ex></expan> n’en est pas sires a pooir d’estrangier la.<note> ; réserve ménagée ; titre d’attente marginal français en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. ;</note>
-                            <seg type="explicit">...<expan><ex>et</ex></expan> <expan>en<ex>con</ex>tre</expan> ce, cil <expan><ex>et</ex></expan> celes <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> dedanz aage ne <expan>puee<ex>n</ex>t</expan> pas paier leur decés <expan>sa<ex>n</ex>z</expan> l’auctorité a celui <expan>q<ex>ui</ex></expan> les a en garde car ce <expan>q<ex>ue</ex></expan>...<note> § 2 incomplet : </note></seg></incipit>
+                          <incipit><note>Réserve ménagée ; titre d’attente marginal français en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note>Il avient aucune foiz <expan>q<ex>ue</ex></expan> cil qui est sires de la chose ne la puet pas estrangier <expan><ex>et</ex></expan> cil <expan>q<ex>ui</ex></expan> n’en est pas sires a pooir d’estrangier la.<note> § 2 incomplet.</note></incipit>
+                            <explicit>...<expan><ex>et</ex></expan> <expan>en<ex>con</ex>tre</expan> ce, cil <expan><ex>et</ex></expan> celes <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> dedanz aage ne <expan>puee<ex>n</ex>t</expan> pas paier leur decés <expan>sa<ex>n</ex>z</expan> l’auctorité a celui <expan>q<ex>ui</ex></expan> les a en garde car ce <expan>q<ex>ue</ex></expan>...</explicit>
                         </msItem>
                         <msItem>
                           <locus from="23a"/>
@@ -1480,7 +1480,7 @@
                           <locus from="26d"/>
                           <title type="sub">[Inst. 2.23.1-9]</title>
                           <title xml:lang="lat" resp="#FD">De fideicommissariis hereditatibus</title>
-                          <incipit>Or venons aus choses qui sont enjointes a l’eir;<note>Réserve ménagée, mais pas de rubrique.</note><seg type="explicit"><expan><ex>et</ex></expan> autressi est il se li heirs a pris <expan>ava<ex>n</ex>t</expan> des choses ou pluseurs <expan>q<ex>ua</ex>nt</expan> il est proiez de rendre l’eritage je <expan>tesmoi<ex>n</ex>g</expan><pb n="bas du f. 28b"/>.</seg><note>Lacune dans le texte correspondant au changement de p. du f. 28b au f. 28c. Soudure <hi rend="b">je tesmoing</hi> sans équivalent dans l’éd. Olivier-Martin.</note></incipit>
+                          <incipit><note>Réserve ménagée, mais pas de rubrique.</note>Or venons aus choses qui sont enjointes a l’eir.</incipit><explicit><expan><ex>et</ex></expan> autressi est il se li heirs a pris <expan>ava<ex>n</ex>t</expan> des choses ou pluseurs <expan>q<ex>ua</ex>nt</expan> il est proiez de rendre l’eritage je <expan>tesmoi<ex>n</ex>g</expan><pb n="bas du f. 28b"/>.</explicit><note>Lacune dans le texte correspondant au changement de p. du f. 28b au f. 28c. Soudure <hi rend="i">je tesmoing</hi> sans équivalent dans l’éd. Olivier-Martin.</note>
                         </msItem>
                         <msItem>
                           <locus from="28c"/>
@@ -2036,8 +2036,7 @@
                         <msItem>
                           <locus from="17d"/>
                           <title type="sub">[Inst. 2.3]</title>
-                          <!-- LG 13/06/2019 il me semble que l'élément unclear n'a pas été defini dans le schéma. Ok TEI  -->
-                          <incipit><seg type="rubric">Cest <expan>ty<ex>tres</ex></expan> est des <unclear>gouveides</unclear><note>lecture incertaine ; 4 jambages après <hi rend="i">o</hi></note></seg>
+                          <incipit><seg type="rubric">Cest <expan>ty<ex>tres</ex></expan> est des <unclear>gouveides</unclear><!-- LG 13/06/2019 il me semble que l'élément unclear n'a pas été defini dans le schéma. Ok TEI  --><note>lecture incertaine ; 4 jambages après <hi rend="i">o</hi></note></seg>
                             <supplied resp="#FD"><title xml:lang="lat">De servitutibus</title> ;<seg type="incipit">Les droitures des possessions des chans sont cestes : sentiers, chans, charieres, voies doiz d’eve.</seg></supplied></incipit>
                         </msItem>
                         <msItem>
@@ -2115,7 +2114,7 @@
                           <locus from="29d"/>
                           <title type="sub">[Inst. 2.18]</title>
                           <incipit><seg type="rubric">Cest <expan>tyt<ex>res</ex></expan> est de testament qui n’est pas a droit fet</seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De inofficioso testamento</title> ;<seg type="incipit">Por ce que il avient souvent que li peres deseritent ou trespassent lor enfanz sanz cause</seg></supplied></incipit>
+                            [><title xml:lang="lat">De inofficioso testamento</title> ;<seg type="incipit">Por ce que il avient souvent que li peres deseritent ou trespassent lor enfanz sanz cause</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="30b"/>
@@ -2126,12 +2125,12 @@
                           <locus from="31b"/>
                           <title type="sub">[Inst. 2.20]</title>
                           <incipit><seg type="rubric">Des lois</seg>
-                            <supplied resp="#FD">titre d’attente en marge partiellement rogné : <quote>ces tytres<lb/>des lés</quote> ;<seg type="incipit">Voions aprés ces choses des lés et il apert que ceste <expan>p<ex>ar</ex>tie</expan> de droit...</seg></supplied></incipit>
+                            [Titre d’attente en marge partiellement rogné : <quote>ces tytres<lb/>des lés</quote> ;<seg type="incipit">Voions aprés ces choses des lés et il apert que ceste <expan>p<ex>ar</ex>tie</expan> de droit...</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="35a"/>
                           <title type="sub">[Inst. 2.21]</title>
-                          <incipit><seg type="rubric">Cest tytre est de soustrer lés et de remuer lés</seg><supplied resp="#FD"><title xml:lang="lat">De ademptione legatorum</title> ;<seg type="incipit">Soustraement de lés est fait <expan><ex>com</ex>ment</expan> que il soit fait ou en testament ou en escrit qui sont fait en lieu deu <expan>testame<ex>n</ex>t</expan> si <expan><ex>com</ex>me</expan> se aucuns aissi dit : Je lesse a celui se il veut sostrere</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Cest tytre est de soustrer lés et de remuer lés</seg>[<title xml:lang="lat">De ademptione legatorum</title> ;<seg type="incipit">Soustraement de lés est fait <expan><ex>com</ex>ment</expan> que il soit fait ou en testament ou en escrit qui sont fait en lieu deu <expan>testame<ex>n</ex>t</expan> si <expan><ex>com</ex>me</expan> se aucuns aissi dit : Je lesse a celui se il veut sostrere</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="35a"/>
@@ -2147,7 +2146,7 @@
                           <locus from="37d"/>
                           <title type="sub">[Inst. 2.24]</title>
                           <incipit><seg type="rubric">De toutes les choses qui <expan>s<ex>un</ex>t</expan> enjointes a l’oir que il rende</seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De singulis rebus per fideicommissum relictis</title> ;<seg type="incipit">Aucuns puet enjoindre que il rende aucuns simple chose si <expan><ex>com</ex>me</expan> .i. serf ou .i. champ ou une robe ou une masse <sic>d’arge</sic> d’argent ou deniers nonbrez...</seg></supplied></incipit>
+                            [<title xml:lang="lat">De singulis rebus per fideicommissum relictis</title> ;<seg type="incipit">Aucuns puet enjoindre que il rende aucuns simple chose si <expan><ex>com</ex>me</expan> .i. serf ou .i. champ ou une robe ou une masse <sic>d’arge</sic> d’argent ou deniers nonbrez...</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="38b"/>
@@ -2189,7 +2188,7 @@
                           <locus from="44b"/>
                           <title type="sub">[Inst. 3.6]</title>
                           <incipit><seg type="rubric">Cest tytre est deu degré de lignage</seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De gradibus cognationis</title> ;<seg type="incipit">Il est mestier de dire en cest lieu <expan><ex>com</ex>ment</expan> le degré de lignage sont conté.</seg></supplied></incipit>
+                            [<title xml:lang="lat">De gradibus cognationis</title> ;<seg type="incipit">Il est mestier de dire en cest lieu <expan><ex>com</ex>ment</expan> le degré de lignage sont conté.</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="45b"/>
@@ -2200,7 +2199,7 @@
                           <locus from="46c"/>
                           <title type="sub">[Inst. 3.8]</title>
                           <incipit><seg type="rubric">Cest <expan>ty<ex>tres</ex></expan> <expan>p<ex>ar</ex>ole</expan> de l’asignement a ceus qui sunt <expan>f<ex>ra</ex>nchi</expan></seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De asignatione libertorum</title> ;<seg type="incipit">Nos devons estre amonnesté a une <expan>so<ex>m</ex>me</expan> que li Senat il nia <expan>q<ex>ue</ex></expan> ja soit ce <expan>q<ex>ue</ex></expan> li biens a ceus qui sunt franchiz <expan>ap<ex>ar</ex>tienent</expan> ouvelment a tous les enfans au patron qui sunt d’un meisme degré...</seg></supplied></incipit>
+                            [<title xml:lang="lat">De asignatione libertorum</title> ;<seg type="incipit">Nos devons estre amonnesté a une <expan>so<ex>m</ex>me</expan> que li Senat il nia <expan>q<ex>ue</ex></expan> ja soit ce <expan>q<ex>ue</ex></expan> li biens a ceus qui sunt franchiz <expan>ap<ex>ar</ex>tienent</expan> ouvelment a tous les enfans au patron qui sunt d’un meisme degré...</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="46d"/>
@@ -2211,7 +2210,7 @@
                           <locus from="48a"/>
                           <title type="sub">[Inst. 3.10]</title>
                           <incipit><seg type="rubric">Cest <expan>ty<ex>tres</ex></expan> <expan>e<ex>st</ex></expan> de <expan><ex>con</ex>q<ex>ue</ex>st</expan> <expan>q<ex>ui</ex></expan> est fet <expan>p<ex>ar</ex></expan> <expan>adopcio<ex>n</ex></expan></seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De adquisitione per adrogationem</title> ;<seg type="incipit">Encor i a autre <pb n="f. 48b"/> maniere d’avoir autrui heritage qui n’est pas amené avant <expan>p<ex>ar</ex></expan> la loy des .xii. tables ne <expan>p<ex>ar</ex></expan> le <expan>banisseme<ex>n</ex>t</expan> as prenchains <expan>p<ex>ar</ex></expan> le <expan><ex>con</ex>sentement</expan> <expan>q<ex>ua</ex>r</expan> quant aucuns qui est assei <expan>do<ex>n</ex>nez</expan> meismes en adopcion</seg></supplied></incipit>
+                            [<title xml:lang="lat">De adquisitione per adrogationem</title> ;<seg type="incipit">Encor i a autre <pb n="f. 48b"/> maniere d’avoir autrui heritage qui n’est pas amené avant <expan>p<ex>ar</ex></expan> la loy des .xii. tables ne <expan>p<ex>ar</ex></expan> le <expan>banisseme<ex>n</ex>t</expan> as prenchains <expan>p<ex>ar</ex></expan> le <expan><ex>con</ex>sentement</expan> <expan>q<ex>ua</ex>r</expan> quant aucuns qui est assei <expan>do<ex>n</ex>nez</expan> meismes en adopcion</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="48c"/>
@@ -2241,7 +2240,7 @@
                         <msItem>
                           <locus from="51a"/>
                           <title type="sub">[Inst. 3.16]</title>
-                          <incipit><seg type="rubric">De ceus a <expan>q<ex>ui</ex></expan> une chose est <expan><ex>com</ex>m<ex>en</ex>cie</expan></seg><supplied resp="#FD"><title xml:lang="lat">De duobus reis stipulandi et promittendi</title> , la rubrique d’attente donne la variante <quote>est convenancie</quote> ;<seg type="incipit">Une chose puet <expan>est<ex>re</ex></expan> <expan><ex>con</ex>venancie</expan> a .ii. ou a plusors ou dui ou plusors la puent prameitre...</seg></supplied></incipit>
+                          <incipit><seg type="rubric">De ceus a <expan>q<ex>ui</ex></expan> une chose est <expan><ex>com</ex>m<ex>en</ex>cie</expan></seg><title xml:lang="lat">De duobus reis stipulandi et promittendi</title><note>La rubrique d’attente donne la variante <quote>est convenancie</quote></note> ;<seg type="incipit">Une chose puet <expan>est<ex>re</ex></expan> <expan><ex>con</ex>venancie</expan> a .ii. ou a plusors ou dui ou plusors la puent prameitre...</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="51b"/>
@@ -3476,7 +3475,7 @@
                         <msItem>
                           <locus from="54a"/>
                           <title type="sub">[Inst. 3.3]</title>
-                          <incipit><seg type="rubric">Cist <expan>tit<ex>re</ex>s</expan> est del conseill au senat tritumian</seg><supplied resp="#FD">la lecture du dernier mot de la rubr. est incertaine</supplied></incipit>
+                          <incipit><seg type="rubric">Cist <expan>tit<ex>re</ex>s</expan> est del conseill au senat tritumian</seg><note resp="#FD">La lecture du dernier mot de la rubr. est incertaine.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="55a"/>
@@ -4678,24 +4677,24 @@
                         <msItem>
                           <locus from="49c"/>
                           <title type="sub">[Inst. 2.24]</title>
-                          <incipit><seg type="rubric">Cist titres est de toutes les choses qui <expan>s<ex>on</ex>t</expan> anjointes a l’oir que il les rande</seg><supplied resp="#FD">incomplet de la fin ;<seg type="explicit">...qui estoit sers a celui qui fist le testament quant il fist le testament <expan><ex>et</ex></expan> quant il fu mort c...</seg> (Inst. 2.24.2)]</supplied></incipit>
+                          <incipit><seg type="rubric">Cist titres est de toutes les choses qui <expan>s<ex>on</ex>t</expan> anjointes a l’oir que il les rande</seg><note resp="#FD">Incomplet de la fin.</note></incipit><explicit>[...qui estoit sers a celui qui fist le testament quant il fist le testament <expan><ex>et</ex></expan> quant il fu mort c... (Inst. 2.24.2)]</explicit>
                         </msItem>
                         <msItem>
                           <locus from="50a"/>
                           <title type="sub">[Inst. 2.25]</title>
-                          <incipit><seg type="rubric">... en lieu de ce testament</seg><supplied resp="#FD">manque le début de la rubrique</supplied></incipit>
+                          <incipit><seg type="rubric">... en lieu de ce testament</seg><note resp="#FD">Manque le début de la rubrique.</note></incipit>
                         </msItem>
                       </msItem>
                       <msItem xml:id="fr_1065_institutiones_livre3">
                         <locus from="50d" to="78a"/>
                         <title type="section" xml:lang="fr">Livre III</title>
-                        <incipit xml:lang="fro"><seg type="rubric">Ci <expan>co<ex>m</ex>mance</expan> li tierz livre. Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><supplied resp="#FD">manquent la fin de la rubrique et le début de Inst. 3.1</supplied>
+                        <incipit xml:lang="fro"><seg type="rubric">Ci <expan>co<ex>m</ex>mance</expan> li tierz livre. Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><note resp="#FD">Manquent la fin de la rubrique et le début de Inst. 3.1.</note>
                           <pb n="f. 51a"/> ...me nous avons dit avant cil <expan>q<ex>ui</ex></expan> sont a la poesté a celui qui se muert...</incipit>
                         <explicit xml:lang="fro">...autresi est il en loage <expan><ex>et</ex></expan> en touz les marchiez <expan>q<ex>ui</ex></expan> sont fez par consentement si <expan>co<ex>m</ex>me</expan> il a esté dit avant.</explicit>
                         <msItem>
                           <locus from="50d"/>
                           <title type="sub">[Inst. 3.1]</title>
-                          <incipit><seg type="rubric">Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><supplied resp="#FD">le texte du titre commence au début de Inst. 3.1.2, cf. <hi rend="i">supra</hi></supplied></incipit>
+                          <incipit><seg type="rubric">Cist titres est des heritages qui est hieeur <expan>sa<ex>n</ex>z</expan>...</seg><note resp="#FD">Le texte du titre commence au début de Inst. 3.1.2, cf. <hi rend="i">supra</hi>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="54b"/>
@@ -4842,13 +4841,13 @@
                         <locus from="78a" to="97d"/>
                         <title type="section" xml:lang="fr">Livre IV</title>
                         <incipit xml:lang="fro"><seg type="rubric">Ci <expan>conma<ex>n</ex>ce</expan> li quars livres. Cist titres est des obligemenz qui <expan>nesse<ex>n</ex>t</expan>...</seg>
-                          <supplied resp="#FD">manquent la fin de la rubrique et le début de 4.1, à la suite du découpage de la moitié inférieure de f. 78a (et de f. 78d)</supplied>
+                          <note resp="#FD">Manquent la fin de la rubrique et le début de 4.1, à la suite du découpage de la moitié inférieure de f. 78a (et de f. 78d)</note>
                           <pb n="f. 78b"/>age ou de tort fet. Larrecins est atouchemenz d’autrui chose par barat de la chose meisme ou de l’usage ou de la posession...</incipit>
                         <explicit xml:lang="fro">...sicome se aucuns afert couvenant a son deteur que il ne li demandera pas ce que il li doit <expan><ex>et</ex></expan> il font aprés...<note>(Inst. 4.14.0)</note>.</explicit>
                         <msItem>
                           <locus from="78a"/>
                           <title type="sub">[Inst. 4.1]</title>
-                          <incipit><seg type="rubric">Cist titres est des obligemenz qui <expan>nesse<ex>n</ex>t</expan>...</seg><supplied resp="#FD">le texte du titre commence à la fin de Inst. 4.1.0</supplied></incipit>
+                          <incipit><seg type="rubric">Cist titres est des obligemenz qui <expan>nesse<ex>n</ex>t</expan>...</seg><note resp="#FD">Le texte du titre commence à la fin de Inst. 4.1.0</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="81a"/>
@@ -6957,13 +6956,13 @@
                         </msItem>
                         <msItem>
                           <title type="sub">[Inst. 3.27]</title>
-                          <incipit><supplied resp="#FD">manque</supplied></incipit>
+                          <incipit>[Manque]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="90d"/>
                           <title type="sub">[Inst. 3.28]</title>
                           <incipit><seg type="rubric">Cist titres <expan>p<ex>ar</ex>ole</expan> des <expan>obligem<ex>en</ex>z</expan> <expan>q<ex>ui</ex></expan> <expan>naisse<ex>n</ex>t</expan> de marchiez ou <expan><ex>com</ex>me</expan> de marchiez</seg>
-                            <supplied resp="#FD">intitulé de Inst. 3.27, mais texte de Inst. 3.28 ;<seg type="incipit">Aprés ce que nous avons nombré des manieres d’obligemenz qui naissent de marchié...</seg></supplied></incipit>
+                            <supplied resp="#FD">Intitulé de Inst. 3.27, mais texte de Inst. 3.28 ;<seg type="incipit">Aprés ce que nous avons nombré des manieres d’obligemenz qui naissent de marchié...</seg></supplied></incipit>
                         </msItem>
                         <msItem>
                           <locus from="91a"/>

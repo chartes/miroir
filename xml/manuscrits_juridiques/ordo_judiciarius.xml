@@ -1104,7 +1104,7 @@
                       <msItem>
                         <locus from="1a"/>
                         <title type="sub">[Prol. fin]</title>
-                        <incipit><seg type="rubric">Cist tytres <expan>p<ex>ar</ex>ole</expan> de l’ordre des jugemenz</seg><supplied resp="#FD">titre présent dans certains mss latins, cf. <bibl>éd. Bergmann, p. 90, n. 7</bibl></supplied></incipit>
+                        <incipit><seg type="rubric">Cist tytres <expan>p<ex>ar</ex>ole</expan> de l’ordre des jugemenz</seg><note resp="#FD">Titre présent dans certains mss latins, cf. <bibl>éd. Bergmann, p. 90, n. 7</bibl>.</note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="1b"/>
@@ -1829,12 +1829,12 @@
                       <msItem>
                         <locus from="92b"/>
                         <title type="sub">[II.8]</title>
-                        <incipit><seg type="rubric">Cist titres est del libelle de posession</seg><supplied resp="#FD">la rubrique correspond au contenu de II.9, mais le texte qui suit est bien celui de II.8 ;<seg type="incipit">Porce <expan>q<ex>ue</ex></expan> libelles doit estre bailliez a celui <expan>q<ex>ui</ex></expan> est apelez en jugement...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist titres est del libelle de posession</seg><note resp="#FD">La rubrique correspond au contenu de II.9, mais le texte qui suit est bien celui de II.8</note>[<seg type="incipit">Porce <expan>q<ex>ue</ex></expan> libelles doit estre bailliez a celui <expan>q<ex>ui</ex></expan> est apelez en jugement...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="94b"/>
                         <title type="sub">[II.9]</title>
-                        <incipit><seg type="rubric">Cist tytres est del libelle d’acusement</seg><supplied resp="#FD">la rubrique correspond au contenu de II.8, mais le texte qui suit est bien celui de II.9 ;<seg type="incipit">Li uns libelles est d’acusement de quoi nos avons treitié avant el prouchien tytre <expan>q<ex>ui</ex></expan> est donnez es causes <expan>c<ex>ri</ex>minaus</expan>...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist tytres est del libelle d’acusement</seg><note resp="#FD">La rubrique correspond au contenu de II.8, mais le texte qui suit est bien celui de II.9</note> ;[<seg type="incipit">Li uns libelles est d’acusement de quoi nos avons treitié avant el prouchien tytre <expan>q<ex>ui</ex></expan> est donnez es causes <expan>c<ex>ri</ex>minaus</expan>...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="97b"/>
@@ -1864,7 +1864,7 @@
                       <msItem>
                         <locus from="106a"/>
                         <title type="sub">[II.15]</title>
-                        <incipit><supplied resp="#FD">réserve ménagée mais rubrique omise. D’une main cursive plus tardive <quote>Cy est le tiltre de la caution du defendeur</quote> ;<seg type="incipit">Il <expan><ex>con</ex>vient</expan> veoir de la caucion <expan>q<ex>ue</ex></expan> li desfendierres doit <expan>do<ex>n</ex>ner</expan>...</seg></supplied></incipit>
+                        <incipit><note resp="#FD">Réserve ménagée mais rubrique omise. D’une main cursive plus tardive : <hi rend="i">Cy est le tiltre de la caution du defendeur</hi></note> ;[<seg type="incipit">Il <expan><ex>con</ex>vient</expan> veoir de la caucion <expan>q<ex>ue</ex></expan> li desfendierres doit <expan>do<ex>n</ex>ner</expan>...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="107b"/>
@@ -1940,7 +1940,7 @@
                       <msItem>
                         <locus from="161a"/>
                         <title type="sub">[III.6]</title>
-                        <incipit><supplied resp="#FD">réserve ménagée mais rubrique non exécutée. D’une main ultérieure en cursive : <quote>Des tesmoins</quote> ;<seg type="incipit">Nos avons <expan>deva<ex>n</ex>t</expan> el tytre <expan>generaum<ex>en</ex>t</expan> des preuves</seg></supplied></incipit>
+                        <incipit><note resp="#FD">Réserve ménagée mais rubrique non exécutée. D’une main ultérieure en cursive : <quote>Des tesmoins</quote></note><seg type="incipit">Nos avons <expan>deva<ex>n</ex>t</expan> el tytre <expan>generaum<ex>en</ex>t</expan> des preuves</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="168a"/>
@@ -2048,7 +2048,7 @@
                       <msItem>
                         <locus from="240b"/>
                         <title type="sub">[IV.6]</title>
-                        <incipit><seg type="rubric">Cist tytres est d’enterigne restitucion</seg><supplied resp="#FD"><seg type="incipit">Li effeus d’enteringne restitucion est que...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist tytres est d’enterigne restitucion</seg>[<seg type="incipit">Li effeus d’enteringne restitucion est que...</seg>]</incipit>
                       </msItem>
                     </msItem>
                   </msItem>
@@ -2280,12 +2280,12 @@
                       <msItem>
                         <locus from="46c"/>
                         <title type="sub">[II.8]</title>
-                        <incipit><seg type="rubric">Cist <expan>t<ex>itre</ex></expan> est du libelle de possession</seg><supplied>la rubrique correspond au contenu de II.9, mais le texte qui suit est bien celui de II.8; <seg type="incipit">Pource que libelle doit estre bailliez a celui qui est en jugement apelez...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist <expan>t<ex>itre</ex></expan> est du libelle de possession</seg><note>La rubrique correspond au contenu de II.9, mais le texte qui suit est bien celui de II.8</note>[<seg type="incipit">Pour ce que libelle doit estre bailliez a celui qui est en jugement apelez...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="47c"/>
                         <title type="sub">[II.9]</title>
-                        <incipit><seg type="rubric">Du libelle d’acusement</seg><supplied>la rubrique correspond au contenu de II.8, mais le texte qui suit est bien celui de II.9 ;<seg type="incipit">Li uns des libelles est accusement de quoi nous avons tretié avant el prochain titre qui est donez es causes criminaus...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Du libelle d’acusement</seg><note>La rubrique correspond au contenu de II.8, mais le texte qui suit est bien celui de II.9</note> ;<seg type="incipit">Li uns des libelles est accusement de quoi nous avons tretié avant el prochain titre qui est donez es causes criminaus...</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="49a"/>
@@ -2436,7 +2436,7 @@
                       <msItem>
                         <locus from="96a"/>
                         <title type="sub">[III.13.4-5]</title>
-                        <incipit><seg type="rubric"><expan><ex>Com</ex>me<ex>n</ex>t</expan> <expan>instrum<ex>en</ex>t</expan> ou privilege doivent estre moustré au juge ou a celui qui est en son leu</seg><supplied><seg type="incipit">Instrument doivent estre moustré en ceste maniere ou privilege ou au juge ou a celui que il avra mis en son leu</seg></supplied></incipit>
+                        <incipit><seg type="rubric"><expan><ex>Com</ex>me<ex>n</ex>t</expan> <expan>instrum<ex>en</ex>t</expan> ou privilege doivent estre moustré au juge ou a celui qui est en son leu</seg>[<seg type="incipit">Instrument doivent estre moustré en ceste maniere ou privilege ou au juge ou a celui que il avra mis en son leu</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="97c"/>
@@ -2463,7 +2463,7 @@
                         <locus from="103d"/>
                         <title type="sub">[IV.1]</title>
                         <title xml:lang="lat" resp="#FD">De sententiis et interlocutionibus</title>
-                        <incipit><supplied>absence de rubrique</supplied>Pour ce que sentence diffinitive met fin en touz plez...</incipit>
+                        <incipit><note>Absence de rubrique</note>Pour ce que sentence diffinitive met fin en touz plez...</incipit>
                       </msItem>
                       <msItem>
                         <locus from="107a"/>
@@ -2714,12 +2714,12 @@
                       <msItem>
                         <locus from="59b"/>
                         <title type="sub">[II.8]</title>
-                        <incipit><seg type="rubric">Cist titres est del libelle de possession</seg><supplied>= <title xml:lang="lat">De libello accusationis in causis criminalibus</title> ;<seg type="incipit">Pour ce que libelles doit estre bailliez a celui qui est apelez a jugement...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist titres est del libelle de possession</seg>[= <title xml:lang="lat">De libello accusationis in causis criminalibus</title> ;<seg type="incipit">Pour ce que libelles doit estre bailliez a celui qui est apelez a jugement...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="60c"/>
                         <title type="sub">[II.9]</title>
-                        <incipit><seg type="rubric">Cist titres est del libelle d’acusement</seg><supplied>= <title xml:lang="lat">De libello recuperandae possessionis seu restitutionis</title> ;<seg type="incipit">Li uns libelles est d’acusemenz de coi nos avons tretié avant el prochain titre qui est donnez es causes criminax...</seg></supplied></incipit>
+                        <incipit><seg type="rubric">Cist titres est del libelle d’acusement</seg>[= <title xml:lang="lat">De libello recuperandae possessionis seu restitutionis</title> ;<seg type="incipit">Li uns libelles est d’acusemenz de coi nos avons tretié avant el prochain titre qui est donnez es causes criminax...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="62c"/>
@@ -3050,8 +3050,8 @@
                       <msItem>
                         <locus from="1b"/>
                         <title type="sub">[Prol. fin]</title>
-                        <incipit><seg type="rubric">Chest titre <expan>p<ex>ar</ex>ole</expan> de l’ordre des jugemens</seg><supplied resp="#FD">manque le début du titre jusqu’à : <quote>si <expan><ex>com</ex>me</expan> <expan>no<ex>us</ex></expan> avon en la decretalle el titre des <expan>p<ex>ro</ex>ves</expan> en .i. chapitre qui <expan><ex>com</ex>mence</expan>
-                          <foreign xml:lang="lat" rend="u">Quoniam contra</foreign> qui dit que...</quote></supplied></incipit>
+                        <incipit><seg type="rubric">Chest titre <expan>p<ex>ar</ex>ole</expan> de l’ordre des jugemens</seg><note resp="#FD">manque le début du titre jusqu’à : <quote>si <expan><ex>com</ex>me</expan> <expan>no<ex>us</ex></expan> avon en la decretalle el titre des <expan>p<ex>ro</ex>ves</expan> en .i. chapitre qui <expan><ex>com</ex>mence</expan>
+                          <foreign xml:lang="lat" rend="u">Quoniam contra</foreign> qui dit que...</quote></note></incipit>
                       </msItem>
                       <msItem>
                         <locus from="1d"/>
@@ -4113,7 +4113,7 @@
                         <locus from="27d"/>
                         <title type="sub">[6] [II.5.5]</title>
                         <incipit><seg type="rubric">De <expan>refuseme<ex>n</ex>s</expan> de juges</seg>
-                          <supplied>la rubrique est mal placée ; pourtant la structuration correcte du texte était prévue dans le ms avec une réserve pour initiale et une lettre d’attente ;<seg type="incipit">Nos <expan>avo<ex>n</ex></expan> dit des <expan>except<ex>i</ex>ons</expan> mes <expan>po<ex>ur</ex></expan> <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> les <expan>replicat<ex>i</ex>ons</expan> <expan><ex>con</ex>trebate<ex>n</ex>t</expan> les <expan>except<ex>i</ex>ons</expan>...</seg></supplied></incipit>
+                          <note>La rubrique est mal placée ; pourtant la structuration correcte du texte était prévue dans le ms avec une réserve pour initiale et une lettre d’attente</note><seg type="incipit">Nos <expan>avo<ex>n</ex></expan> dit des <expan>except<ex>i</ex>ons</expan> mes <expan>po<ex>ur</ex></expan> <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> les <expan>replicat<ex>i</ex>ons</expan> <expan><ex>con</ex>trebate<ex>n</ex>t</expan> les <expan>except<ex>i</ex>ons</expan>...</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="28b"/>
@@ -4286,7 +4286,7 @@
                       <msItem>
                         <locus from="71d"/>
                         <title type="sub">15 [III.13.4-5]</title>
-                        <incipit><seg type="rubric"><expan>Co<ex>m</ex>ment</expan> <expan>instrume<ex>n</ex>t</expan> doivent estre monstré .xv.</seg><supplied><seg type="incipit">Instrumens doivent estre fais en ceste ou previliege ou au juge ou a celui qu’il avra mis en son lieu</seg></supplied></incipit>
+                        <incipit><seg type="rubric"><expan>Co<ex>m</ex>ment</expan> <expan>instrume<ex>n</ex>t</expan> doivent estre monstré .xv.</seg>[<seg type="incipit">Instrumens doivent estre fais en ceste ou previliege ou au juge ou a celui qu’il avra mis en son lieu</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="73b"/>
@@ -4319,7 +4319,7 @@
                         <title type="sub">[2] [IV.2]</title>
                         <incipit>
                           <seg type="rubric">Ce titres est des presumptions .xvii.</seg>
-                          <supplied><title xml:lang="lat">Quae sententia sit ipso iure nulla</title> ;<seg type="incipit">Nous <expan>avo<ex>n</ex></expan> dit el <expan>tit<ex>re</ex></expan> <expan>ava<ex>n</ex>t</expan> <expan>q<ex>ue</ex></expan> <expan>d<ex>ro</ex>is</expan> est fés <expan>ent<ex>re</ex></expan> les <expan>p<ex>ar</ex>ties</expan> <expan>p<ex>ar</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> <expan>diffi<ex>ni</ex>tive</expan>...</seg></supplied></incipit>
+                          [<title xml:lang="lat">Quae sententia sit ipso iure nulla</title> ;<seg type="incipit">Nous <expan>avo<ex>n</ex></expan> dit el <expan>tit<ex>re</ex></expan> <expan>ava<ex>n</ex>t</expan> <expan>q<ex>ue</ex></expan> <expan>d<ex>ro</ex>is</expan> est fés <expan>ent<ex>re</ex></expan> les <expan>p<ex>ar</ex>ties</expan> <expan>p<ex>ar</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> <expan>diffi<ex>ni</ex>tive</expan>...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="83d"/>
@@ -4331,7 +4331,7 @@
                         <locus from="85c"/>
                         <title type="sub">[4] [IV.4]</title>
                         <incipit><seg type="rubric">Cist titres parole des executions de sentence</seg>
-                          <supplied><title xml:lang="lat">De exsecutione sententiae</title> ; réserve pour rubrique et pour initiale non réalisées; lettre d’attente ;<seg type="incipit">Pour <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> il ne soffit pas <expan>q<ex>ue</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> soit <expan>do<ex>n</ex>nee</expan> se elle n’est <expan>ma<ex>n</ex>dee</expan> a <expan>execut<ex>i</ex>on</expan>...</seg></supplied></incipit>
+                          [<title xml:lang="lat">De exsecutione sententiae</title> ; réserve pour rubrique et pour initiale non réalisées; lettre d’attente ;<seg type="incipit">Pour <expan>ce<ex>n</ex></expan> <expan>q<ex>ue</ex></expan> il ne soffit pas <expan>q<ex>ue</ex></expan> <expan>se<ex>n</ex>te<ex>n</ex>ce</expan> soit <expan>do<ex>n</ex>nee</expan> se elle n’est <expan>ma<ex>n</ex>dee</expan> a <expan>execut<ex>i</ex>on</expan>...</seg>]</incipit>
                       </msItem>
                       <msItem>
                         <locus from="88c"/>
@@ -4348,7 +4348,7 @@
                       <msItem>
                         <locus from="94c"/>
                         <title type="sub">[7] [IV.6.7]</title>
-                        <incipit><supplied>réserve pour rubrique et pour initiale non réalisées ; lettre d’attente ;<seg type="incipit">Li effiest d’<expan>e<ex>n</ex>t<ex>er</ex>ine</expan> <expan>restituc<ex>i</ex>on</expan> est <expan>q<ex>ue</ex></expan> dés <expan>q<ex>ue</ex></expan> elle est <expan>dema<ex>n</ex>dee</expan> <expan>tout<ex>e</ex>s</expan> les choses <expan>so<ex>n</ex>t</expan> en l’estat ou eles estoient <expan>ava<ex>n</ex>t</expan>...</seg></supplied></incipit>
+                        <incipit>Réserve pour rubrique et pour initiale non réalisées ; lettre d’attente ;<seg type="incipit">Li effiest d’<expan>e<ex>n</ex>t<ex>er</ex>ine</expan> <expan>restituc<ex>i</ex>on</expan> est <expan>q<ex>ue</ex></expan> dés <expan>q<ex>ue</ex></expan> elle est <expan>dema<ex>n</ex>dee</expan> <expan>tout<ex>e</ex>s</expan> les choses <expan>so<ex>n</ex>t</expan> en l’estat ou eles estoient <expan>ava<ex>n</ex>t</expan>...</seg></incipit>
                       </msItem>
                     </msItem>
                   </msItem>

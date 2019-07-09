@@ -1367,13 +1367,13 @@
                         <label>Structure</label>
                         <p>Les <title>Institutes</title> sont séparées des <title>Authentiques</title> par un saut de page f. 141.</p>
                       </decoNote>
-                      <decoNote n="institutiones">
+                      <decoNote>
                         <label><title>Institutes</title></label>
                         <p>Les <hi rend="b">livres</hi> sont séparés par un saut de 12 à 13 lignes occupé par deux formules rubriquées du type <foreign xml:lang="lat">Explicit liber primus<lb/>Incipit secundus</foreign> ainsi que par la rubrique du premier titre du livre (f. 23 et f. 68). Le livre 4 (f. 101) commence en haut de page. En tête de chaque livre était prévue une initiale de 4 à 5 UR, qui n’a pas été réalisée (f. 1 [5 UR], 23 [4 UR], 68 [5 UR], 101 [4 UR]).</p>
                         <p>Les <hi rend="b">titres</hi> sont séparés par une rubrique. Une réserve de 2 UR a été ménagée pour une initiale non réalisée au début de chaque titre (lettres d’attente visibles en marge). Noter que les rubriques d’attente marginales en latin sont suivies du numéro d’ordre du titre.</p>
                         <p>Les incipit des paragraphes latins sont insérés dans le corps de la traduction, qu’ils contribuent à structurer : entièrement soulignés de rouge, les incipit sont précédés d’un large espace rempli de deux minces traits obliques rouges, servant peut-être d’attente à des pieds-de mouche. L’initiale de la citation latine est rehaussée de rouge.</p>
                       </decoNote>
-                      <decoNote n="authenticum">
+                      <decoNote>
                         <label><title>Authentiques</title></label>
                         <p>Réserve de 5 UR en tête du texte (f. 141v). Les collations sont indiquées uniquement par les titres courants. Les novelles sont distinguées par : un saut de ligne, une rubrique, l’incipit en latin (jusqu’au f. 178v) aligné à droite, une réserve ménagée pour une initiale haute de 2 ou 3 UR (lettre d’attente en marge). En outre, des rubriques d’attente suivies du numéro d’ordre de la novelle à l’intérieur de la collation sont parfois visibles, du moins dans la partie rubriquée du manuscrit. Postérieurement à la copie, une main médiévale a ajouté l’intitulé latin de chaque novelle dans la marge supérieure, côté gouttière sur la p. où elle commence. Les titres courants peuvent également donner un titre résumé.</p>
                         <p>La structuration du texte des novelles est la même que celle des titres des <title>Institutes</title> : les paragraphes du latin sont signalés par un incipit latin souligné de rouge, précédé d’un espace où figurent deux barres obliques rouges et l’initiale de l’incipit est rehaussée de rouge. Des majuscules sont également rehaussées de rouge afin de souligner la structure du développement.</p>
@@ -5777,7 +5777,7 @@
                         <msItem>
                           <locus from="229b"/>
                           <title type="sub">[C. 12.50]</title>
-                          <incipit><seg type="rubric">Du coumun cours et des servises</seg><note>S’achève à la fin de C. 12.50.21.<seg type="explicit">...ne sainte yglise ne meson roial n’ait excusacion de servises en temps de guerres.</seg></note></incipit>
+                          <incipit><seg type="rubric">Du coumun cours et des servises</seg><note>S’achève à la fin de C. 12.50.21.</note></incipit><explicit>...ne sainte yglise ne meson roial n’ait excusacion de servises en temps de guerres.</explicit>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.51]</title>
@@ -5889,18 +5889,18 @@
                         <label>Structure</label>
                         <p>Les trois unités textuelles du <title xml:lang="lat">Parvum volumen</title> ne sont guère distinguées davantage que les livres que comptent deux d’entre elles. Ainsi, le saut de page entre les <title>Institutes</title> et les <title>Authentiques</title> se résume à un saut de 2 UR. Outre la séquence « miniature + rubrique + lettre champie », que l’on retrouve en tête du livre XI du Code, le passage des <title>Authentiques</title> aux <title xml:lang="lat">Tres Libri</title> n’est signalé que par un explicit à l’encre brune et un saut de ligne.</p>
                       </decoNote>
-                      <decoNote n="institutiones">
+                      <decoNote>
                         <label>Structure. <title>Institutes</title></label>
                         <p>La division en <hi rend="b">livres</hi> est marquée par : 1. pour les livres II à IV d’une rubrique du type <quote>Ci commence le <hi rend="n">N</hi> livre</quote>, suivie de l’énoncé, toujours rubriqué, du premier titre : <quote>De la division des chosez</quote> (f. 9b), <quote>Cist titrez est de...</quote> (f. 24a, 36c) ; 3. une miniature de 11 ou 12 UR pour les livres II à IV, la grande miniature du f. 1 servant de frontispice au volume ; 4. une initiale de 4 à 6 UR en tête du 1<hi rend="sup">er</hi> titre du livre (lettre dragonnée avec rinceaux en marge de 6 UR en tête du livre I, lettres champies de 4 ou 5 UR en tête des livres II à IV).</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques et commencent par une lettre filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Ils peuvent être divisés par des pieds-de-mouche alternativement rouges et bleus.</p>
                       </decoNote>
-                      <decoNote n="authenticum">
+                      <decoNote>
                         <label>Structure. <title>Authentiques</title></label>
                         <p>Chaque constitution est annoncée par une rubrique et commence par une lettre filigranée de 2 UR alternativement rouge à filigrane bleu et bleue à filigrane rouge. A noter que la rubrique de la constitution Auth. 6 est suivie d’une réserve ménagée pour une initiale haute de 4 UR. Ce changement de module a dû déconcerter celui qui réalisait les lettres filigranées, puisque la lettre n’a pas été peinte.</p>
                         <p>Des pieds-de-mouche, alternativement rouges et bleus suivis d’un lemme latin sans relief particulier (sauf exceptions, notamment au début de la première constitution) structurent les constitutions. En tête de constitution, des initiales nues d’1 UR peuvent marquer le début d’une citation impériale, après
                           <quote>dit</quote>.</p>
                       </decoNote>
-                      <decoNote n="tres_libri">
+                      <decoNote>
                         <label>Structure. <title xml:lang="lat">Tres libri</title></label>
                         <p>La division en <hi rend="b">livres</hi> est marquée par : 1. une rubrique du type <quote>Ci commence le <hi rend="n">N</hi> livre du Code</quote> suivie pour les livres XI et XII de l’énoncé toujours rubriqué du premier titre (<quote>C’est le tytre de...</quote>, <quote>Cist tytres est de...</quote>) ; 2. une miniature de 11 ou 12 UR pour les livres X et XI ; 3. une lettre champie de 5 UR au début du 1<hi rend="sup">er</hi> titre des livres X et XI [le début du livre XII est signalé, contrairement aux précédents, par une lettre émanchée filigranée de 7 UR].</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques.</p>
@@ -5912,18 +5912,18 @@
                           <persName role="illustrateur" key="maître de Maubeuge">Maître de Maubeuge</persName> (principal illustrateur du ms Paris, Bibl. nat. de Fr., fr. 10132 ; cf.
                           <bibl>Rouse et Rouse,<title> Manuscripts and their makers</title>, t. II, Appendix 7D et 7F, p. 173-179</bibl>). Toutes les miniatures du <persName role="illustrateur" key="maître de Maubeuge">Maître de Maubeuge</persName> présentent un encadrement double semblable : liseré beige à l’extérieur ; à l’intérieur, bande rose plus large avec décor géométrique blanc ; dans les coins carré or.</p>
                       </decoNote>
-                      <decoNote n="institutiones">
+                      <decoNote>
                         <label>Iconographie. <title>Institutes</title></label>
                         <p><locus from="1">Livre I (f. 1) [moitié supérieure du f., sur 2 col.]</locus>Justinien, trônant, remet un livre à dix personnages debout (légistes). Fond à damier rouge avec filet bleu clair et quelques parties à damier bleu foncé à filet bleu clair (entre les jambes des personnages). Encadrement double : liseré non peint ; une bande plus large bleue à l’intérieur avec motifs géométrique en filets blancs. Dans les coins, quadrilobes avec lobes or et centre carrés rose ou bleus à filets blanc. 2 vignettes dorées dans chaque coin et au centre de chaque côté de l’encadrement.</p>
                         <p><locus from="9b">Livre II (f. 9b)</locus> [11 UR], Justinien, trônant (à gauche) discute avec trois personnes debout. Fond à damier gris avec filet blanc.</p>
                         <p><locus from="24a">Livre III (f. 24a)</locus> [12 UR], Justinien, trônant (à gauche) discute avec trois personnes debout. Fond à damier rose rehaussé de ronds et croix blancs.</p>
                         <p><locus from="36c">Livre IV (f. 36c)</locus> [12 UR], Justinien, trônant (à gauche), discute avec trois hommes : le premier est à genoux devant lui, les deux autres sont des sergents qui se tiennent debout, un peu en retrait [pourrait illustrer le premier titre du livre]. Fond à damier bleu rehaussé de ronds et croix blancs.</p>
                       </decoNote>
-                      <decoNote n="authenticum">
+                      <decoNote>
                         <label>Iconographie. <title>Authentiques</title></label>
                         <p><locus from="48a">(f. 48a)</locus> [12 UR], Justinien, trônant (à gauche), parle à un homme amené devant lui par deux sergents [pourrait illustrer la première constitution]. Fond à damier rose rehaussé de ronds et croix blancs.</p>
                       </decoNote>
-                      <decoNote n="tres_libri">
+                      <decoNote>
                         <label>Iconographie. <title xml:lang="lat">Tres libri</title></label>
                         <p><locus from="171a">Livre X (f. 171a)</locus> [11 UR], Justinien, trônant (à gauche), parle avec trois hommes : l’un est agenouillé devant lui, les deux autres, debout, sont un peu plus en retrait. Fond à damier bleu rehaussé de ronds ou croix blancs.</p>
                         <p><locus from="193a">Livre XI (f. 193a)</locus> [12 UR], Justinien, trônant (à gauche), parle avec deux hommes accompagnés d’un sergent. Fond à damier rose rehaussé de ronds ou croix blancs.</p>
@@ -8203,38 +8203,38 @@
                           <title>Institutes</title> ; « I COL , II COL , III COL », etc. » pour les <title>Authentiques</title> ; simples traces du fait de la rognure pour les <title xml:lang="lat">Tres libri</title>) ; 4. une miniature en tête de l’unité textuelle, suivie d’une initiale de gros module (« I » champi de 12 UR avec rinceaux vignettés se prolongeant dans les marges de gouttière et de queue f. 2a ; lettre fleurie de 7 UR en tête des
                           <title>Authentiques</title>, de 8 UR en tête du livre X du <title>Code</title>) ; 5. une structuration du texte par le décor propre à chaque unité.</p>
                       </decoNote>
-                      <decoNote n="institutiones">
+                      <decoNote>
                         <label>Structure. <title>Institutes</title></label>
                         <p>La division en <hi rend="b">livres</hi> est marquée par : 1. pour les livres II à IV d’une rubrique du type <quote>Ci commence li <hi rend="n">N</hi> livre</quote>, suivie de l’énoncé, toujours rubriqué, du premier titre : <quote>Et parle ces tytre de...</quote>
                           <quote>et parle li tytres de...</quote> ; 3. une miniature de 11 ou 12 UR ; 4. une lettre fleurie au début du 1<hi rend="sup">er</hi> titre du livre (12 UR en tête du livre I, 7 UR en tête du livre II, 5 UR en tête du livre III, 7 UR en tête du livre IV) ; 5. un titre courant (<quote>L</quote> au verso ; numéro de livre au recto en chiffres romains rouges et bleus).</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques et commencent par une lettre champie à fond bleu et rose et filets blancs de 2 UR. Ces lettres se prolongent souvent en marge par des rinceaux et vignettes.</p>
                         <p>Les titres, surtout lorsqu’ils sont longs, peuvent être divisés par des pieds-de-mouche alternativement bleus et rouges. Les rehauts de jaune servent également d’élément structurant.</p>
                       </decoNote>
-                      <decoNote n="authenticum">
+                      <decoNote>
                         <label>Structure. <title>Authentiques</title></label>
                         <p>Chaque <hi rend="b">collection</hi> est indiquée par un titre courant (numéro de la collection en chiffres romains rouges et bleus au verso ;
                           <quote>COL</quote> en lettres alternativement rouges et bleues au recto).</p>
                         <p>Chaque <hi rend="b">constitution</hi> est annoncée par une rubrique et commence par une lettre champie de 2 UR avec rinceaux vignettés en marge.</p>
                         <p>Des pieds-de-mouche, alternativement rouges et bleus suivis d’un lemme latin en <term xml:lang="lat">littera textualis formata</term> structurent les constitutions. Les lemmes sont parfois soulignés de rouge. En tête de constitution, des initiales nues d’1 UR peuvent marquer le début d’une citation impériale, après <quote>dit</quote>. Des rehauts de jaune servent également d’élément structurant.</p>
                       </decoNote>
-                      <decoNote n="tres_libri">
+                      <decoNote>
                         <label>Structure. <title xml:lang="lat">Tres Libri</title></label>
                         <p>La division en <hi rend="b">livres</hi> est marquée par : 1. un explicit (<quote>Ci fine le disieme livre du Code</quote> f. 246c) suivi d’un saut de page [le livre XI se terminant au bas du f. 260d, la justification ne permettait pas l’ajout d’un explicit ; le saut de page passe inaperçu] ; 2. une rubrique du type <quote>Ci commence li <hi rend="n">N</hi> livre du Code</quote> suivie pour les livres XI et XII de l’énoncé toujours rubriqué du premier titre (<quote>Cest tytre est de...</quote>) ; 3. une miniature de 11 ou 12 UR ; 4. une lettre fleurie de 8 UR au début du 1<hi rend="sup">er</hi> titre [seules les deux premières ont été exécutées ; réserve de 8 UR ménagée au f. 261a, en tête du livre XII] ; 5. un titre courant dont on suppose la forme à partir de minces traces (<quote>L</quote> au verso ; numéro de livre au recto en chiffres romains, sans doute rouges et bleus au recto).</p>
                         <p>Les <hi rend="b">titres</hi> sont annoncés par des rubriques et commencent par une lettre champie à fond bleu et rose et filets blancs de 2 UR.</p>
                         <p>Chaque <hi rend="b">loi</hi>, sauf la première du titre, commence par une initiale filigranée de 2 UR, alternativement bleue à filigrane rouge et rouge à filigrane bleu. Une initiale nue d’1 UR, alternativement bleue et rouge, suit le verbe <hi rend="i">dire</hi> de l’inscription (<quote>Li empereres Valens dit...</quote>). La loi, surtout lorsqu’elle est longue, peut être divisée par des pieds-de-mouche alternativement bleus et rouges. Les rehauts de jaune servent également d’élément structurant.</p>
                       </decoNote>
-                      <decoNote n="institutiones">
+                      <decoNote>
                         <label>Iconographie. <title>Institutes</title></label>
                         <p><locus from="2a">Livre I (f. 2a)</locus> [12 UR], Justinien trônant, tenant une épée dressée, discute avec un groupe de chevaliers et de clercs (légistes ?) ; fond d’or, sous un arc en plein cintre avec ouverture trilobée dans chaque encoignure. Encadrement double : liseré beige à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (bandes verticales rose ; horizontales bleues ; oreilles à chaque coin de l’encadrement).</p>
                         <p><locus from="13a">Livre II (f. 13a)</locus> [11 UR], Justinien trônant, un livre ouvert à la main, et discutant avec des légistes, deux d’entre eux portant un livre fermé ; fond à damier rose avec filets blancs. Encadrement double : liseré or à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (toutes les bandes sont bleues) ; 2 vignettes or à chaque coin de l’encadrement.</p>
                         <p><locus from="34d">Livre III (f. 34d)</locus> [11 UR], un prêtre accompagné d’un clerc, tenant un ciboire à la main, vient administrer les derniers sacrements à un homme, les yeux fermés, étendu sur son lit [illustration du premier titre du livre III] ; fond à damier bleu avec filets blancs. Encadrement double : liseré or à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (toutes les bandes sont rose) ; 2 vignettes or à chaque coin de l’encadrement.</p>
                         <p><locus from="53b">Livre IV (f. 53b)</locus> [12 UR], Justinien, trônant, discute avec deux hommes : le premier est à genoux devant lui, le second, un peu en retrait, est vêtu de rouge et se tient debout [pourrait illuster le premier titre du livre IV] ; fond à damier bleu avec filets blancs. Encadrement double : liseré or à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (toutes les bandes sont rose) ; 1 à 2 vignettes or à chaque coin de l’encadrement.</p>
                       </decoNote>
-                      <decoNote n="authenticum">
+                      <decoNote>
                         <label>Iconographie. <title>Authentiques</title></label>
                         <p><locus from="71">(f. 71)</locus> [11 UR], Justinien trônant, une plume à la main, semble écrire sur un parchemin, tout en discutant avec deux hommes debout devant lui, dont l’un est tonsuré [pourrait illustrer la première constitution ou bien l’ajout de nouvelles lois] ; fond à damier rose avec filets blancs. Encadrement double : liseré or à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (toutes les bandes sont bleues) ; 2 vignettes or à chaque coin de l’encadrement, sauf au coin où se situe l’initiale.</p>
                       </decoNote>
-                      <decoNote n="tres_libri">
+                      <decoNote>
                         <label>Iconographie. <title xml:lang="lat">Tres libri</title></label>
                         <p><locus from="223">Livre X (f. 223)</locus> [12 UR], Justinien, trônant, remet à un homme debout et vêtu de rouge une bourse. Un second personnage, vêtu de blanc, se tient derrière celui qui se saisit de la bourse [illustre la 1<hi rend="b">re</hi> loi du premier titre du livre X] ; fond à damier rose avec filets blancs. Encadrement double : liseré or à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (toutes les bandes sont bleues) ; 2 vignettes or à chaque coin de l’encadrement, sauf au coin où se situe l’initiale.</p>
                         <p><locus from="247">Livre XI (f. 247)</locus> [11 UR], Justinien, trônant et tenant un bâton (sceptre ?), discute avec un homme debout vêtu de bleu. Derrière lui, un bâteau à voile sur la mer [illustre le premier titre du livre XI] ; fond à damier rose avec filets blancs. Encadrement double : liseré or à l’extérieur ; bandes plus larges à l’intérieur à motif géométrique avec carrés d’or dans les coins (toutes les bandes sont bleues) ; une vignette or à chaque coin de l’encadrement, sauf au coin où se situe l’initiale.</p>

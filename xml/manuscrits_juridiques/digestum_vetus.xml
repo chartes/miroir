@@ -2031,14 +2031,13 @@
                     <note>Table des matières sur 3 colonnes ; l’initiale des titres de chapitre est peinte en marge alternativement en rouge et en bleu.</note>
                     <msItem>
                       <locus from="199c" to="201d"/>
-                      <title>Liste des titres de chapitre du <title>Livre de jostice et de plet</title> précédés par l’énoncé, toujours rubriqué, indiquant la numérotation des livres,
-                        <quote><seg type="rubric">Ci <expan><ex>com</ex>moi<ex>n</ex>ce</expan> li <expan>p<ex>re</ex>m<ex>ier</ex>s</expan> livres</seg>.<lb/>Ci <expan><ex>com</ex>mance</expan> li livres de jostice et de plet.<lb/>De <sic>restablissemanz</sic></quote> (f. 199c).</title>
-                      <note>Sauf quelques omissions (voir *), la liste correspond aux titres présents dans le ms. ; après le dernier titre du livre XX, la table ajoute 3 titres que le ms. ne comprend pas : <q>De l’usage d’Orlenays</q>, <q>De <expan>pre<ex>n</ex>dre</expan> malfeteurs</q>,
-                        <q>Des borgois d’<expan>Orlie<ex>n</ex>s</expan></q> (f. 201d).</note>
+                      <p>Liste des titres de chapitre du <title>Livre de jostice et de plet</title> précédés par l’énoncé, toujours rubriqué, indiquant la numérotation des livres,
+                        « <seg type="rubric">Ci <expan><ex>com</ex>moi<ex>n</ex>ce</expan> li <expan>p<ex>re</ex>m<ex>ier</ex>s</expan> livres</seg>.<lb/>Ci <expan><ex>com</ex>mance</expan> li livres de jostice et de plet.<lb/>De <sic>restablissemanz</sic> » (f. 199c).<note>Sauf quelques omissions (voir *), la liste correspond aux titres présents dans le ms. ; après le dernier titre du livre XX, la table ajoute 3 titres que le ms. ne comprend pas : <q>De l’usage d’Orlenays</q>, <q>De <expan>pre<ex>n</ex>dre</expan> malfeteurs</q>,
+                          « <hi rend="i">Des borgois d’Orlie</hi>n<hi rend="i">s</hi> » (f. 201d).</note></p>
                     </msItem>
                     <msItem>
                       <locus from="201d" to="201e"/>
-                      <title>Liste de douze titres se rapportant aux deux 2 textes préliminaires contenus dans le ms., <q>Ci <expan><ex>com</ex>m<ex>en</ex>ce<ex>n</ex>t</expan> les titres de la <expan>p<ex>re</ex>m<ex>ier</ex>e</expan> <expan>p<ex>ar</ex>tie</expan> des costumes de <expan>Fra<ex>n</ex>ce</expan>.<lb/>Des <expan>p<ex>ro</ex>cez</expan> le roi et de ses establissemanz de son reaume</q> (f. 201d).</title>
+                      <p>Liste de douze titres se rapportant aux deux 2 textes préliminaires contenus dans le ms., <hi rend="i">Ci </hi>com<hi rend="i">m</hi>en<hi rend="i">ce</hi>n<hi rend="i">t les titres de la p</hi>re<hi rend="i">m</hi>ier<hi rend="i">e p</hi>ar<hi rend="i">tie des costumes de Fra</hi>n<hi rend="i">ce.<lb/>Des p</hi>ro<hi rend="i">cez le roi et de ses establissemanz de son reaume</hi> (f. 201d).</p>
                     </msItem>
                   </msItem>
                 </msContents>
@@ -2935,8 +2934,8 @@
                         <locus from="208c"/>
                         <title type="sub">[D. 11.7]</title>
                         <title xml:lang="lat" resp="#FD">De religiosis et sumptibus funerum et ut funus ducere liceat</title>
-                        <incipit>Ulpians dit : <foreign xml:lang="lat" rend="u">Qui <expan>p<ex>ro</ex>pter</expan></foreign>. Qui despent aucune chose por la sepoture a aucun il senble <expan>q<ex>ue</ex></expan> il fet marchié au mort<note>Réserve prévue mais rubrique omise (<hi rend="i">Des choses religieuses</hi> et <hi rend="i">des despe</hi>n<hi rend="i">s des mortailles</hi> et <hi rend="i">ou il loist a e</hi>n<hi rend="i">foïr mort</hi>, d’après la table).</note>
-                          <seg type="explicit">...<expan>q<ex>ua</ex>r</expan> il est certaine chose que chascuns des seigneurs i puet estre enfoïz par droit sanz le <expan><ex>con</ex>sentement</expan></seg> (11.7.41). Manque la fin de la phrase et la fin de la traduction du § 41.</incipit>
+                        <incipit>Ulpians dit : <foreign xml:lang="lat" rend="u">Qui <expan>p<ex>ro</ex>pter</expan></foreign>. Qui despent aucune chose por la sepoture a aucun il senble <expan>q<ex>ue</ex></expan> il fet marchié au mort<note>Réserve prévue mais rubrique omise (<hi rend="i">Des choses religieuses</hi> et <hi rend="i">des despe</hi>n<hi rend="i">s des mortailles</hi> et <hi rend="i">ou il loist a e</hi>n<hi rend="i">foïr mort</hi>, d’après la table).</note></incipit>
+                        <explicit>...<expan>q<ex>ua</ex>r</expan> il est certaine chose que chascuns des seigneurs i puet estre enfoïz par droit sanz le <expan><ex>con</ex>sentement</expan><note>(11.7.41). Manque la fin de la phrase et la fin de la traduction du § 41.</note></explicit> 
                       </msItem>
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_livre12">
@@ -5710,7 +5709,7 @@
                               <locus from="140d"/>
                               <title type="sub">[D. 11.8]</title>
                               <title xml:lang="lat" resp="#FD">De mortuo inferendo et sepulchro aedificando</title>
-                              <incipit>Ulpians dit : Li <expan>p<ex>re</ex>volz</expan> dit : Se aucuns a droiture d’enfouir .i. mort <expan>e<ex>n</ex></expan> aucun leu, ge desfent <expan>q<ex>ue</ex></expan> force ne lui soit fette...<note>Sans réserve ni rubrique.</note><seg type="explicit"><pb n="f. 141a" /> Cil meismes dit : Se li cors d’<expan>u<ex>n</ex></expan> honme <expan><ex>est</ex></expan> enfouiz el <expan>monum<ex>en</ex>t</expan> <expan>q<ex>ui</ex></expan> n’est pas parfez, riens ne desfent <expan>q<ex>ue</ex></expan> il ne soit parfez <expan><ex>et</ex></expan> li leus soit fez <expan>religie<ex>us</ex></expan> ; li <expan>esvesq<ex>ue</ex>s</expan> doit <expan>prend<ex>re</ex></expan> garde <expan>q<ex>ue</ex></expan> il soit parfez sauve la religion.</seg><note>= fin de D. 11.8</note></incipit>
+                              <incipit>Ulpians dit : Li <expan>p<ex>re</ex>volz</expan> dit : Se aucuns a droiture d’enfouir .i. mort <expan>e<ex>n</ex></expan> aucun leu, ge desfent <expan>q<ex>ue</ex></expan> force ne lui soit fette...<note>Sans réserve ni rubrique.</note></incipit><explicit><pb n="f. 141a" /> Cil meismes dit : Se li cors d’<expan>u<ex>n</ex></expan> honme <expan><ex>est</ex></expan> enfouiz el <expan>monum<ex>en</ex>t</expan> <expan>q<ex>ui</ex></expan> n’est pas parfez, riens ne desfent <expan>q<ex>ue</ex></expan> il ne soit parfez <expan><ex>et</ex></expan> li leus soit fez <expan>religie<ex>us</ex></expan> ; li <expan>esvesq<ex>ue</ex>s</expan> doit <expan>prend<ex>re</ex></expan> garde <expan>q<ex>ue</ex></expan> il soit parfez sauve la religion.</explicit><note>= fin de D. 11.8.</note>
                             </msItem>
                             <msItem>
                               <locus from="141a"/>
@@ -7226,7 +7225,7 @@
                             <msItem>
                               <locus from="23'c"/>
                               <title type="sub">[D. 10.1]</title>
-                              <incipit><seg type="rubric">Cist tytres est de bonner terres</seg><note>incomplet de la fin, par manque du f. 24r-v</note>. <seg type="explicit">Se uns chans est a .ii. compaignons <expan><ex>et</ex></expan> li autres a trois, li juges puet ajugier a une des parties le leu de quoi l’en plede, ja soit <expan>q<ex>ue</ex></expan> la partie ait pluseurs seigneurs <expan>q<ex>ua</ex>r</expan>...</seg> <note>[D. 10.1.4.5]</note></incipit>
+                              <incipit><seg type="rubric">Cist tytres est de bonner terres</seg><note>incomplet de la fin, par manque du f. 24r-v.</note></incipit> <explicit>Se uns chans est a .ii. compaignons <expan><ex>et</ex></expan> li autres a trois, li juges puet ajugier a une des parties le leu de quoi l’en plede, ja soit <expan>q<ex>ue</ex></expan> la partie ait pluseurs seigneurs <expan>q<ex>ua</ex>r</expan>...</explicit><note>[D. 10.1.4.5].</note>
                             </msItem>
                             <msItem>
                               <title type="sub">[D. 10.2]</title>
@@ -8535,7 +8534,7 @@
                           <label>Structure</label>
                           <p>La division entre les <hi rend="b">livres</hi> est irrégulière : f. 51v-52v blancs entre le livre I et le livre II, aucun feuillet blanc entre le livre II et le livre III (f. 94v-95), f. 140v blanc entre le livre III et le livre IV. Dans le dernier cas, toutefois, manquent les premiers quinze titres du livre IV, mentionnés dans la table des matières (f. 53): ceci laisse supposer la perte de quelques feuillets. Numéros de livre en titre courant bleus et rouges. Manicules (f. 97, f. 109v), festons (f. 106, f. 128), <hi rend="i">nota</hi> (f. 98).</p>
                         </decoNote>
-                        <decoNote n="conseil_ami">
+                        <decoNote>
                           <label>Structure. Livre I, Pierre de Fontaines, <title>Conseil à un ami</title></label>
                           <p>Une enluminure en tête du livre. Initiale ornée (bleue, rouge et or) haute de 5 UR. Les chapitres sont séparés par des rubriques. Des unités textuelles mineures sont séparées par des lignes rouges horizontales entre un paragraphe et le paragraphe suivant. Initiales alternativement bleues à filigrane rouge et rouges à filigrane bleu au début de chaque paragraphe. Pieds-de-mouche alternativement bleus et rouges.</p>
                         </decoNote>
@@ -8547,7 +8546,7 @@
                           <label>Structure. Livre II, Compilation juridique en français des <title>Institutes</title> et du <title>Digeste vieux</title></label>
                           <p>Initiale filigranée de 7 UR (f. 53v). Les différents titres sont séparés par des rubriques. Des unités textuelles mineures sont séparées par des lignes rouges horizontales. Initiales alternativement bleues à filigrane rouge et rouges à filigrane bleu au début de chaque paragraphe. Pieds-de-mouche alternativement bleus et rouges. Des rubriques n'ont pas été réalisées; réserves prévues (f. 75, f. 76).</p>
                         </decoNote>
-                        <decoNote n="coutumier">
+                        <decoNote>
                           <label>Structure. Livre III, <title>Grand coutumier de Normandie</title></label>
                           <p>Une enluminure en tête du livre. Initiale ornée (bleue, rouge et or) haute de 11 UR, avec développements marginaux de 14 UR (f. 95). Lettrine encadrée de 2 UR (f. 95). Initiales des titres alternativement bleues et rouges pour la table des matières (f. 95-96). Initiales alternativement bleues à filigrane rouge et rouges à filigrane bleu au début de chaque paragraphe. Pieds-de-mouche alternativement bleus et rouges. Les rubriques n'ont pas été réalisées; titres d'attente (ex. f. 121. f. 121v); réserves prévues.</p>
                         </decoNote>
