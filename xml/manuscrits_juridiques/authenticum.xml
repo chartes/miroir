@@ -496,7 +496,7 @@
                         <msItem>
                           <locus from="11v"/>
                           <title type="sub">[Inst. 1.12]</title>
-                          <incipit xml:lang="lat"><seg type="rubric">Quibus modis jus patri<gap resp="#FD">e</gap> potes<gap resp="#FD">tatis</gap> solvitur</seg></incipit>
+                          <incipit xml:lang="lat"><seg type="rubric">Quibus modis jus patri<supplied resp="#FD">e</supplied> potes<supplied resp="#FD">tatis</supplied> solvitur</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="13v"/>
@@ -2288,7 +2288,7 @@
                         <msItem>
                           <locus from="148d"/>
                           <title type="sub">[C. 10.53]</title>
-                          <incipit><seg type="rubric"><gap resp="#FD">C</gap>ist tytres est de <expan>cl<ex>er</ex>s</expan> <expan><ex>et</ex></expan> des mires</seg></incipit>
+                          <incipit><seg type="rubric"><supplied resp="#FD">C</supplied>ist tytres est de <expan>cl<ex>er</ex>s</expan> <expan><ex>et</ex></expan> des mires</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="149b"/>
@@ -2829,7 +2829,7 @@
                         <msItem>
                           <locus from="170c"/>
                           <title type="sub">[C. 12.4]</title>
-                          <incipit><seg type="rubric">Cist <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la g<gap resp="#FD">ra</gap>nt <expan>p<ex>re</ex>vosté</expan> <expan><ex>et</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la cité <expan><ex>et</ex></expan> li mestre des <expan>ch<ex>evalie</ex>rs</expan> <expan>s<ex>on</ex>t</expan> oés en dignité</seg></incipit>
+                          <incipit><seg type="rubric">Cist <expan>t<ex>ytres</ex></expan> <expan>e<ex>st</ex></expan> <expan>q<ex>ue</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la g<supplied resp="#FD">ra</supplied>nt <expan>p<ex>re</ex>vosté</expan> <expan><ex>et</ex></expan> li <expan>p<ex>re</ex>voz</expan> de la cité <expan><ex>et</ex></expan> li mestre des <expan>ch<ex>evalie</ex>rs</expan> <expan>s<ex>on</ex>t</expan> oés en dignité</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="170c"/>
@@ -3716,7 +3716,7 @@
                         <msItem>
                           <locus from="1a"/>
                           <title type="sub">[Prooemium]</title>
-                          <incipit>Il convient que la magesté l’empereor soit aournee ne mie tant seulement de armes mes de lois<note>sans rubrique.</note></incipit>
+                          <incipit>Il convient que la magesté l’empereor soit aournee ne mie tant seulement de armes mes de lois<note>Sans rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="1c"/>
@@ -4242,7 +4242,7 @@
                       <msItem>
                         <locus from="48a"/>
                         <title type="sub">[Auth. 1, Nov. 1]</title>
-                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <gap resp="#FD">ne pueent</gap> paier les lés</seg></incipit>
+                        <incipit><seg type="rubric">Cist titrez est des heritagez et de la loi qui retaille lez lez. Ce<gap/> la premiere constitucion se li hoir <supplied resp="#FD">ne pueent</supplied> paier les lés</seg></incipit>
                       </msItem>
                       <msItem>
                         <locus from="50c"/>

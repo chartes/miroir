@@ -698,7 +698,7 @@
                         <msItem>
                           <locus from="13a"/>
                           <title type="sub">[Inst. 2.1]</title>
-                          <incipit><supplied resp="#FD">= <title xml:lang="lat">De rerum divisione</title></supplied><note>Réserve, mais pas d’intitulé de titre</note></incipit>
+                          <incipit>[= <title xml:lang="lat">De rerum divisione</title>]<note>Réserve, mais pas d’intitulé de titre.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="17a"/>
@@ -764,7 +764,7 @@
                         <msItem>
                           <locus from="25a"/>
                           <title type="sub">[Inst. 2.14]</title>
-                          <incipit><supplied resp="#FD">= <title xml:lang="lat">De heredibus instituendis</title><note>Ni réserve ni intitulé de titre</note><seg type="incipit">Il est otroyé que l’on fache sez hoirs ou des frans homez...</seg></supplied></incipit>
+                          <incipit>[= <title xml:lang="lat">De heredibus instituendis</title><note>Ni réserve ni intitulé de titre</note><seg type="incipit">Il est otroyé que l’on fache sez hoirs ou des frans homez...</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="26a"/>
@@ -987,7 +987,7 @@
                         <msItem>
                           <locus from="56c"/>
                           <title type="sub">[Inst. 4.2]</title>
-                          <incipit>Cist tytres <expan>p<ex>ar</ex>ole</expan> des biens raviz <note resp="#FD">lecture incertaine par cause de photographie floue</note></incipit>
+                          <incipit>Cist tytres <expan>p<ex>ar</ex>ole</expan> des biens raviz <note resp="#FD">Lecture incertaine par cause de photographie floue.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="57a"/>
@@ -1069,7 +1069,7 @@
                         <msItem>
                           <locus from="66b"/>
                           <title type="sub">[Inst. 4.18.4-fin]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De publicis judiciis</title></supplied><note>Le ms. enchaîne au cours d’une phrase 17.1 et la fin de 18.4 sans aucune solution de continuité</note></incipit>
+                          <incipit>[<title xml:lang="lat">De publicis judiciis</title>]<note>Le ms. enchaîne au cours d’une phrase 17.1 et la fin de 18.4 sans aucune solution de continuité.</note></incipit>
                         </msItem>
                       </msItem>
                     </msItem>
@@ -1251,7 +1251,7 @@
                           <locus from="1d"/>
                           <title type="sub">[Inst. 1.1]</title>
                           <title xml:lang="lat" resp="#FD">De justitia et jure</title>
-                          <incipit>Jostice est volentez ferme <expan><ex>et</ex></expan> <expan>p<ex>ar</ex>durable</expan> qui rant a chascun sa droiture<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. ;</note></incipit>
+                          <incipit>Jostice est volentez ferme <expan><ex>et</ex></expan> <expan>p<ex>ar</ex>durable</expan> qui rant a chascun sa droiture<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="2a"/>
@@ -1269,13 +1269,13 @@
                           <locus from="3a"/>
                           <title type="sub">[Inst. 1.4]</title>
                           <title xml:lang="lat" resp="#FD">De ingenuis</title>
-                          <incipit>Cil est naturement frans qui est frans dés que il nest...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. ;</note></incipit>
+                          <incipit>Cil est naturement frans qui est frans dés que il nest...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="3b"/>
                           <title type="sub">[Inst. 1.5]</title>
                           <title xml:lang="lat" resp="#FD">De libertinis</title>
-                          <incipit>Cil sont franchi qui de droiturel servage sont ramenez a franchise...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Cil sont franchi qui de droiturel servage sont ramenez a franchise...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="4a"/>
@@ -1341,31 +1341,31 @@
                           <locus from="9c"/>
                           <title type="sub">[Inst. 1.16]</title>
                           <title xml:lang="lat" resp="#FD">De capitis minutione</title>
-                          <incipit>Mes se amenuisement de chief est muance de <expan>p<ex>re</ex>mier</expan> estat <expan><ex>et</ex></expan> ele avient <expan>e<ex>n</ex></expan> .iii. manieres...<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.<seg type="title" xml:lang="lat">De capitis <expan>diminuc<ex>i</ex>o<ex>n</ex>e</expan></seg> ;</note></incipit>
+                          <incipit>Mes se amenuisement de chief est muance de <expan>p<ex>re</ex>mier</expan> estat <expan><ex>et</ex></expan> ele avient <expan>e<ex>n</ex></expan> .iii. manieres...<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.<seg type="title" xml:lang="lat">De capitis <expan>diminuc<ex>i</ex>o<ex>n</ex>e</expan></seg>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="9d"/>
                           <title type="sub">[Inst. 1.17]</title>
                           <title xml:lang="lat" resp="#FD">De legitima patronorum tutela</title>
-                          <incipit>La garde de ceus <expan><ex>et</ex></expan> de celes <expan>q<ex>ui</ex></expan> ont esté franchi <expan>apartie<ex>n</ex>t</expan> a leur patron...<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>La garde de ceus <expan><ex>et</ex></expan> de celes <expan>q<ex>ui</ex></expan> ont esté franchi <expan>apartie<ex>n</ex>t</expan> a leur patron...<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="10a"/>
                           <title type="sub">[Inst. 1.18]</title>
                           <title xml:lang="lat" resp="#FD">De legitima parentum tutela</title>
-                          <incipit>Une autre garde est receue a la maniere de cele au patrons...<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Une autre garde est receue a la maniere de cele au patrons...<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="10a"/>
                           <title type="sub">[Inst. 1.19]</title>
                           <title xml:lang="lat" resp="#FD">De fiduciaria tutela</title>
-                          <incipit>Il i a une autre meniere de garde qui est apelee garde <expan>sa<ex>n</ex>z</expan> <expan>fia<ex>n</ex>ce</expan>...<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Il i a une autre meniere de garde qui est apelee garde <expan>sa<ex>n</ex>z</expan> <expan>fia<ex>n</ex>ce</expan>...<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="10b"/>
                           <title type="sub">[Inst. 1.20]</title>
                           <title xml:lang="lat" resp="#FD">De Atiliano tutore vel eo qui ex lege Iulia et Titia dabatur</title>
-                          <incipit>Se aucuns estoit a qui nus desfendierres ne fust donez...<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat">De acciliano tutore vel ex eo qui ex lege julia et ticia <expan>dicebat<ex>ur</ex></expan></seg> ;</note></incipit>
+                          <incipit>Se aucuns estoit a qui nus desfendierres ne fust donez...<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat">De acciliano tutore vel ex eo qui ex lege julia et ticia <expan>dicebat<ex>ur</ex></expan></seg> ;</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="10d"/>
@@ -1389,13 +1389,13 @@
                           <locus from="11d"/>
                           <title type="sub">[Inst. 1.24]</title>
                           <title xml:lang="lat" resp="#FD">De satisdatione tutorum vel curatorum</title>
-                          <incipit>Neporquant que les besoignes aus orfelins ou aus orfelines ou a ceus <expan>q<ex>ui</ex></expan> sont en garde...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les rubriques latines ajoutées) : <seg type="title"><seg type="rubric">Cist titres est de l’autorité <expan>q<ex>ui</ex></expan> li desfendeors <expan><ex>et</ex></expan> li procureors <expan>doive<ex>n</ex>t</expan> avoir</seg></seg>.</note></incipit>
+                          <incipit>Neporquant que les besoignes aus orfelins ou aus orfelines ou a ceus <expan>q<ex>ui</ex></expan> sont en garde...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les rubriques latines ajoutées) : <seg type="title"><seg type="rubric">Cist titres est de l’autorité <expan>q<ex>ui</ex></expan> li desfendeors <expan><ex>et</ex></expan> li procureors <expan>doive<ex>n</ex>t</expan> avoir</seg></seg>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="12b"/>
                           <title type="sub">[Inst. 1.25]</title>
                           <title xml:lang="lat" resp="#FD">De excusationibus tutorum vel curatorum</title>
-                          <incipit>Li desfendeeur ou li procureeur <expan>s<ex>on</ex>t</expan> escusé par diverses causes...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les rubriques latines ajoutées) : <seg type="title"><seg type="rubric">Cist titres est des excepcions aus defendeors <expan><ex>et</ex></expan> aus procureors</seg></seg>.</note></incipit>
+                          <incipit>Li desfendeeur ou li procureeur <expan>s<ex>on</ex>t</expan> escusé par diverses causes...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les rubriques latines ajoutées) : <seg type="title"><seg type="rubric">Cist titres est des excepcions aus defendeors <expan><ex>et</ex></expan> aus procureors</seg></seg>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="13b"/>
@@ -1407,7 +1407,7 @@
                       <msItem xml:id="montpellier_h316_institutiones_livre2">
                         <locus from="14a" to="28d"/>
                         <title type="section" xml:lang="fr">Livre II</title>
-                        <incipit xml:lang="fro">Incipit liber .ii<hi rend="sup">9</hi>. De rerum divisione <note resp="#FD">Rubr. ajoutée en marge au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. en cursive</note> Nous avons tretié du livre devant ce est de la droiture aus <expan>p<ex>er</ex>sones</expan>. Or veons des choses qui <expan>s<ex>on</ex>t</expan> ou en nostre patremoine ou dehors</incipit>
+                        <incipit xml:lang="fro">Incipit liber .ii<hi rend="sup">9</hi>. De rerum divisione <note resp="#FD">Rubr. ajoutée en marge au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. en cursive.</note> Nous avons tretié du livre devant ce est de la droiture aus <expan>p<ex>er</ex>sones</expan>. Or veons des choses qui <expan>s<ex>on</ex>t</expan> ou en nostre patremoine ou dehors</incipit>
                         <explicit xml:lang="fro">...aucuns puet pluseurs tex escriz ne il <expan>covie<ex>n</ex>t</expan> pas <expan>q<ex>ue</ex></expan> il <expan>soie<ex>n</ex>t</expan> ordené si <expan><ex>com</ex>me</expan> il eut esté fet li uns aprés l’autre.</explicit>
                         <msItem>
                           <locus from="14a"/>
@@ -1419,43 +1419,43 @@
                           <locus from="18c"/>
                           <title type="sub">[Inst. 2.2]</title>
                           <title xml:lang="lat" resp="#FD">De rebus incorporalibus</title>
-                          <incipit>Enseur <expan>q<ex>ue</ex></expan> tot les unes choses <expan>s<ex>on</ex>t</expan> corporex et les autres ne <expan>s<ex>on</ex>t</expan> pas corporex.<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Enseur <expan>q<ex>ue</ex></expan> tot les unes choses <expan>s<ex>on</ex>t</expan> corporex et les autres ne <expan>s<ex>on</ex>t</expan> pas corporex.<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="18c"/>
                           <title type="sub">[Inst. 2.3]</title>
                           <title xml:lang="lat" resp="#FD">De servitutibus</title>
-                          <incipit>Mes droitures de posessions de <expan>cha<ex>n</ex>s</expan> <expan>s<ex>on</ex>t</expan> cestes...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De <expan>s<ex>er</ex>vitute</expan> <expan>rusticor<ex>um</ex></expan> <expan>predior<ex>um</ex></expan></seg></seg>.</note></incipit>
+                          <incipit>Mes droitures de posessions de <expan>cha<ex>n</ex>s</expan> <expan>s<ex>on</ex>t</expan> cestes...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De <expan>s<ex>er</ex>vitute</expan> <expan>rusticor<ex>um</ex></expan> <expan>predior<ex>um</ex></expan></seg></seg>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="19a"/>
                           <title type="sub">[Inst. 2.4]</title>
                           <title xml:lang="lat" resp="#FD">De usu fructu</title>
-                          <incipit>Usaires est droiture <expan>q<ex>ue</ex></expan> aucuns a d’user d’autrui chose sauve la <expan>susta<ex>n</ex>ce</expan> des choses...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Usaires est droiture <expan>q<ex>ue</ex></expan> aucuns a d’user d’autrui chose sauve la <expan>susta<ex>n</ex>ce</expan> des choses...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="19c"/>
                           <title type="sub">[Inst. 2.5]</title>
                           <title xml:lang="lat" resp="#FD">De usu et habitatione.</title>
-                          <incipit>Ne avoerent la chose pleniere poesté ou usages siaut estre establiz en cele meisme maniere <expan>p<ex>ar</ex></expan> <expan>q<ex>uo</ex>i</expan> usaires est establiz.<note> ; réserve ménagée ; titre d’attente marginal français en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. ;</note></incipit>
+                          <incipit>Ne avoerent la chose pleniere poesté ou usages siaut estre establiz en cele meisme maniere <expan>p<ex>ar</ex></expan> <expan>q<ex>uo</ex>i</expan> usaires est establiz.<note>Réserve ménagée ; titre d’attente marginal français en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="20a"/>
                           <title type="sub">[Inst. 2.6]</title>
                           <title xml:lang="lat" resp="#FD">De usucapionibus et longi temporis possessionibus</title>
-                          <incipit>Il avoit esté establi <expan>p<ex>ar</ex></expan> le droit citoien <expan>q<ex>ue</ex></expan> se aucuns achetoit aucune chose par bone foi de celui <expan>q<ex>ui</ex></expan> n’en estoit pas sires...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De usucapione a longi <expan>te<ex>m</ex>poris</expan> <expan>p<ex>re</ex>sc<ex>ri</ex>pc<ex>i</ex>one</expan></seg></seg></note></incipit>
+                          <incipit>Il avoit esté establi <expan>p<ex>ar</ex></expan> le droit citoien <expan>q<ex>ue</ex></expan> se aucuns achetoit aucune chose par bone foi de celui <expan>q<ex>ui</ex></expan> n’en estoit pas sires...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De usucapione a longi <expan>te<ex>m</ex>poris</expan> <expan>p<ex>re</ex>sc<ex>ri</ex>pc<ex>i</ex>one</expan></seg>.</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="21b"/>
                           <title type="sub">[Inst. 2.7]</title>
                           <title xml:lang="lat" resp="#FD">De donationibus</title>
-                          <incipit>Deus menieres de dons <expan>s<ex>on</ex>t</expan> car li un sont fet <expan>p<ex>ar</ex></expan> cause de mort <expan><ex>et</ex></expan> li autre ne <expan>s<ex>on</ex>t</expan> pas fet <expan>p<ex>ar</ex></expan> cause de mort.<note> ; réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Deus menieres de dons <expan>s<ex>on</ex>t</expan> car li un sont fet <expan>p<ex>ar</ex></expan> cause de mort <expan><ex>et</ex></expan> li autre ne <expan>s<ex>on</ex>t</expan> pas fet <expan>p<ex>ar</ex></expan> cause de mort.<note>Réserve ménagée ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="22b"/>
                           <title type="sub">[Inst. 2.8]</title>
                           <title xml:lang="lat" resp="#FD">Quibus alienare licet vel non</title>
-                          <incipit><note>Réserve ménagée ; titre d’attente marginal français en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note>Il avient aucune foiz <expan>q<ex>ue</ex></expan> cil qui est sires de la chose ne la puet pas estrangier <expan><ex>et</ex></expan> cil <expan>q<ex>ui</ex></expan> n’en est pas sires a pooir d’estrangier la.<note> § 2 incomplet.</note></incipit>
+                          <incipit><note>Réserve ménagée ; titre d’attente marginal français en cursive ; titre rubriqué latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note>Il avient aucune foiz <expan>q<ex>ue</ex></expan> cil qui est sires de la chose ne la puet pas estrangier <expan><ex>et</ex></expan> cil <expan>q<ex>ui</ex></expan> n’en est pas sires a pooir d’estrangier la.<note>§ 2 incomplet.</note></incipit>
                             <explicit>...<expan><ex>et</ex></expan> <expan>en<ex>con</ex>tre</expan> ce, cil <expan><ex>et</ex></expan> celes <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> dedanz aage ne <expan>puee<ex>n</ex>t</expan> pas paier leur decés <expan>sa<ex>n</ex>z</expan> l’auctorité a celui <expan>q<ex>ui</ex></expan> les a en garde car ce <expan>q<ex>ue</ex></expan>...</explicit>
                         </msItem>
                         <msItem>
@@ -1485,8 +1485,8 @@
                         <msItem>
                           <locus from="28c"/>
                           <title type="sub">[Inst. 2.24.3]</title>
-                          <incipit><supplied resp="#FD"><title xml:lang="lat">De singulis rebus per fideicommissum relictis</title> ; uniquement les dernières lignes du titre :
-                            <quote>seur ta leauté <expan><ex>et</ex></expan> chacune de ces <expan>p<ex>ar</ex>oles</expan> vaut autretant <expan><ex>com</ex>me</expan> se eles fussent assenblees ensenble</quote> [haut du f. 28c]</supplied></incipit>
+                          <incipit>[<title xml:lang="lat">De singulis rebus per fideicommissum relictis</title> ; uniquement les dernières lignes du titre :
+                            <hi rend="i">seur ta leauté</hi> et <hi rend="i">chacune de ces p</hi>ar<hi rend="i">oles vaut autretant</hi> com<hi rend="i">me se eles fussent assenblees ensenble</hi> [haut du f. 28c]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="28c"/>
@@ -1576,13 +1576,13 @@
                           <locus from="40d"/>
                           <title type="sub">[Inst. 3.13]</title>
                           <title xml:lang="lat" resp="#FD">De obligationibus</title>
-                          <incipit>Or venons aus obligemenz. Obligemenz est un lien de droit de quoi nos somes <expan>est<ex>ra</ex>int</expan>...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. ;</note></incipit>
+                          <incipit>Or venons aus obligemenz. Obligemenz est un lien de droit de quoi nos somes <expan>est<ex>ra</ex>int</expan>...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="41a"/>
                           <title type="sub">[Inst. 3.14]</title>
                           <title xml:lang="lat" resp="#FD">Quibus modis re contrahitur obligatio</title>
-                          <incipit>Obligemenz est fez <expan>p<ex>ar</ex></expan> chose si <expan><ex>com</ex>me</expan> par prest...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric"><expan>quib<ex>us</ex></expan> modis <expan>cont<ex>ra</ex>hit<ex>ur</ex></expan> <expan>obligac<ex>i</ex>o</expan></seg></seg>.</note></incipit>
+                          <incipit>Obligemenz est fez <expan>p<ex>ar</ex></expan> chose si <expan><ex>com</ex>me</expan> par prest...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric"><expan>quib<ex>us</ex></expan> modis <expan>cont<ex>ra</ex>hit<ex>ur</ex></expan> <expan>obligac<ex>i</ex>o</expan></seg></seg>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="41d"/>
@@ -1594,13 +1594,13 @@
                           <locus from="42c"/>
                           <title type="sub">[Inst. 3.16]</title>
                           <title xml:lang="lat" resp="#FD">De duobus reis stipulandi et promittendi</title>
-                          <incipit>Une chose puet estre <expan><ex>con</ex>venance</expan> a .ii. ou a pluseurs...<note> ; réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. ;</note></incipit>
+                          <incipit>Une chose puet estre <expan><ex>con</ex>venance</expan> a .ii. ou a pluseurs...<note> Réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="42d"/>
                           <title type="sub">[Inst. 3.17]</title>
                           <title xml:lang="lat" resp="#FD">De stipulatione servorum</title>
-                          <incipit>Sers a pooir de fere <expan><ex>con</ex>venances</expan> en la persone son seigneur...<note> ; réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Sers a pooir de fere <expan><ex>con</ex>venances</expan> en la persone son seigneur...<note>Réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="43a"/>
@@ -1612,13 +1612,13 @@
                           <locus from="43b"/>
                           <title type="sub">[Inst. 3.19]</title>
                           <title xml:lang="lat" resp="#FD">De inutilibus stipulationibus</title>
-                          <incipit>Toute la chose qui est soumise a <expan>n<ex>ost</ex>re</expan> seignorie <expan><ex>con</ex>venance</expan> <expan>q<ex>ue</ex>l</expan> <expan>q<ex>ue</ex></expan> ele soit...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
+                          <incipit>Toute la chose qui est soumise a <expan>n<ex>ost</ex>re</expan> seignorie <expan><ex>con</ex>venance</expan> <expan>q<ex>ue</ex>l</expan> <expan>q<ex>ue</ex></expan> ele soit...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="45b"/>
                           <title type="sub">[Inst. 3.20]</title>
                           <title xml:lang="lat" resp="#FD">De fidejussoribus</title>
-                          <incipit><note> ; réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note>Autre <expan>q<ex>ue</ex></expan> cil <expan>q<ex>ui</ex></expan> <expan>promete<ex>n</ex>t</expan> suelent estre obligez por lui <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> apelez ploige...</incipit>
+                          <incipit><note>Réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s.</note>Autre <expan>q<ex>ue</ex></expan> cil <expan>q<ex>ui</ex></expan> <expan>promete<ex>n</ex>t</expan> suelent estre obligez por lui <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> apelez ploige...</incipit>
                         </msItem>
                         <msItem>
                           <locus from="45d"/>
@@ -1630,13 +1630,13 @@
                           <locus from="46a"/>
                           <title type="sub">[Inst. 3.22]</title>
                           <title xml:lang="lat" resp="#FD">De consensu obligatione</title>
-                          <incipit><expan>Obligeme<ex>n</ex>z</expan> <expan>s<ex>on</ex>t</expan> fet <expan>p<ex>ar</ex></expan> <expan><ex>con</ex>sentement</expan> en achaz <expan><ex>et</ex></expan> en ventes...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat">De <expan>obligacio<ex>n</ex>ib<ex>us</ex></expan> ex <expan><ex>con</ex>sensu</expan></seg></note></incipit>
+                          <incipit><expan>Obligeme<ex>n</ex>z</expan> <expan>s<ex>on</ex>t</expan> fet <expan>p<ex>ar</ex></expan> <expan><ex>con</ex>sentement</expan> en achaz <expan><ex>et</ex></expan> en ventes...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat">De <expan>obligacio<ex>n</ex>ib<ex>us</ex></expan> ex <expan><ex>con</ex>sensu</expan></seg>.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="46a"/>
                           <title type="sub">[Inst. 3.23]</title>
                           <title xml:lang="lat" resp="#FD">De emptione et venditione</title>
-                          <incipit>Achaz <expan><ex>et</ex></expan> vente est fez dés <expan>q<ex>ue</ex></expan> les <expan>p<ex>ar</ex>ties</expan> s’acordent ou pris...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De <expan>e<ex>m</ex>pc<ex>i</ex>o<ex>n</ex>ib<ex>us</ex></expan> <expan><ex>et</ex></expan> <expan>vendic<ex>i</ex>onibus</expan></seg></seg></note></incipit>
+                          <incipit>Achaz <expan><ex>et</ex></expan> vente est fez dés <expan>q<ex>ue</ex></expan> les <expan>p<ex>ar</ex>ties</expan> s’acordent ou pris...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De <expan>e<ex>m</ex>pc<ex>i</ex>o<ex>n</ex>ib<ex>us</ex></expan> <expan><ex>et</ex></expan> <expan>vendic<ex>i</ex>onibus</expan></seg>.</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="47a"/>
@@ -1654,7 +1654,7 @@
                           <locus from="48c"/>
                           <title type="sub">[Inst. 3.26]</title>
                           <title xml:lang="lat" resp="#FD">De mandato</title>
-                          <incipit><note> ; réserve ménagée ; titre rubriqué français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les titres rubriqués latins) :<seg type="title" xml:lang="fro"><seg type="rubric">De <expan>m<ex>en</ex>demanz</expan></seg></seg></note><seg type="incipit">Mandemanz est fet en .v. manieres <expan>si<ex>com</ex>me</expan> se aucuns te mande aucune chose...</seg></incipit>
+                          <incipit><note>Réserve ménagée ; titre rubriqué français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. (même main que les titres rubriqués latins) :<seg type="title" xml:lang="fro"><seg type="rubric">De <expan>m<ex>en</ex>demanz</expan></seg>.</seg></note><seg type="incipit">Mandemanz est fet en .v. manieres <expan>si<ex>com</ex>me</expan> se aucuns te mande aucune chose...</seg></incipit>
                         </msItem>
                         <msItem>
                           <locus from="49c"/>
@@ -1666,7 +1666,7 @@
                           <locus from="50b"/>
                           <title type="sub">[Inst. 3.28]</title>
                           <title xml:lang="lat" resp="#FD">Per quas personas nobis obligatio adquiritur</title>
-                          <incipit><expan>Ap<ex>ré</ex>s</expan> ce <expan>q<ex>ue</ex></expan> nos avon dit les menieres d’obligemenz <expan>q<ex>ui</ex></expan> nessent de <expan>m<ex>ar</ex>chié</expan> ou <expan><ex>com</ex>me</expan> de marchié...<note> ; titre d’attente marginal latin en cursive ; réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric"><expan>P<ex>er</ex></expan> quas <expan>p<ex>er</ex>sonas</expan> nobis <expan>acq<ex>ui</ex>rit<ex>ur</ex></expan> obligatio</seg></seg></note></incipit>
+                          <incipit><expan>Ap<ex>ré</ex>s</expan> ce <expan>q<ex>ue</ex></expan> nos avon dit les menieres d’obligemenz <expan>q<ex>ui</ex></expan> nessent de <expan>m<ex>ar</ex>chié</expan> ou <expan><ex>com</ex>me</expan> de marchié...<note>Titre d’attente marginal latin en cursive ; réserve ménagée ; titre latin rubriqué ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric"><expan>P<ex>er</ex></expan> quas <expan>p<ex>er</ex>sonas</expan> nobis <expan>acq<ex>ui</ex>rit<ex>ur</ex></expan> obligatio</seg>.</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="50c"/>
@@ -1678,7 +1678,7 @@
                       <msItem xml:id="montpellier_h316_institutiones_livre4">
                         <locus from="51b" to="63d"/>
                         <title type="section" xml:lang="fr">Livre IV</title>
-                        <incipit xml:lang="fro">Ci <expan><ex>com</ex>mence</expan> li <expan>q<ex>ua</ex>rz</expan> livres. Cist titres est d’<expan>obligem<ex>en</ex>z</expan> qui <expan>nesse<ex>n</ex>t</expan> de mesfez. <supplied resp="#FD">rubr. ajoutée au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> en cursive ; titre d’attente marginal latin en cursive</supplied>
+                        <incipit xml:lang="fro">Ci <expan><ex>com</ex>mence</expan> li <expan>q<ex>ua</ex>rz</expan> livres. Cist titres est d’<expan>obligem<ex>en</ex>z</expan> qui <expan>nesse<ex>n</ex>t</expan> de mesfez. <note resp="#FD">Rubr. ajoutée au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> en cursive ; titre d’attente marginal latin en cursive.</note>
                           <pb n="f. 51c"/> Pour ce que nos <expan>avo<ex>n</ex></expan> tretié ou livre <expan>q<ex>ui</ex></expan> est devant cestui d’obligemenz <expan>q<ex>ui</ex></expan> <expan>s<ex>on</ex>t</expan> de marchié ou <expan><ex>com</ex>me</expan> de <expan>m<ex>ar</ex>chié</expan> il <expan><ex>con</ex>vient</expan> <expan>q<ex>ue</ex></expan> nos veons des <expan>obligeme<ex>n</ex>z</expan> <expan>q<ex>ui</ex></expan> nessent de mesfez ou <expan><ex>com</ex>me</expan> de mesfez.</incipit>
                         <explicit xml:lang="fro">...Ne li <expan>p<ex>re</ex>voz</expan> ne li deveé pas fors sanz plus <expan>auctio<ex>n</ex></expan> de tort fet <expan><ex>et</ex></expan> les senblables <expan><ex>et</ex></expan> au... <note>Inst. 4.12.1</note></explicit>
                         <msItem>
@@ -1704,25 +1704,25 @@
                           <locus from="55b"/>
                           <title type="sub">[Inst. 4.4]</title>
                           <title xml:lang="lat" resp="#FD">De iniuriis</title>
-                          <incipit>L’en apele generaument tort tot celui qui n’est pas fet <expan>p<ex>ar</ex></expan> droit mes l’en apele tout especiaument despit...<note> ; réserve ménagée ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="fro"><seg type="rubric">de torfez</seg></seg> ; titre d’attente marginal latin en cursive.</note></incipit>
+                          <incipit>L’en apele generaument tort tot celui qui n’est pas fet <expan>p<ex>ar</ex></expan> droit mes l’en apele tout especiaument despit...<note>Réserve ménagée ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="fro"><seg type="rubric">de torfez</seg></seg> ; titre d’attente marginal latin en cursive.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="56b"/>
                           <title type="sub">[Inst. 4.5]</title>
                           <title xml:lang="lat" resp="#FD">De obligationibus quae quasi ex delicto nascuntur</title>
-                          <incipit>Se li juges a fet le plet sien il n’est pas proprement obligiez por mesfet...<note> ; réserve ménagée ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De <expan>obligacio<ex>n</ex>ib<ex>us</ex></expan> <expan>q<ex>ue</ex></expan> ex <expan>q<ex>ua</ex>si</expan> delicto nascuntur</seg></seg></note></incipit>
+                          <incipit>Se li juges a fet le plet sien il n’est pas proprement obligiez por mesfet...<note>Réserve ménagée ; titre latin ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="lat"><seg type="rubric">De <expan>obligacio<ex>n</ex>ib<ex>us</ex></expan> <expan>q<ex>ue</ex></expan> ex <expan>q<ex>ua</ex>si</expan> delicto nascuntur</seg></seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="56c"/>
                           <title type="sub">[Inst. 4.6]</title>
                           <title xml:lang="lat" resp="#FD">De actionibus</title>
-                          <incipit>Il est droiz <expan>q<ex>ue</ex></expan> nos des auctions <expan><ex>con</ex>noissein</expan>...<note> ; réserve ménagée ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="fro"><seg type="rubric">D’aucions</seg></seg></note></incipit>
+                          <incipit>Il est droiz <expan>q<ex>ue</ex></expan> nos des auctions <expan><ex>con</ex>noissein</expan>...<note>Réserve ménagée ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="fro"><seg type="rubric">D’aucions</seg>.</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="60c"/>
                           <title type="sub">[Inst. 4.7]</title>
                           <title xml:lang="lat" resp="#FD">Quod cum eo qui in aliena potestate est negotium gestum esse dicitur</title>
-                          <incipit>Porce <expan>q<ex>ue</ex></expan> nos avon fet avant mencion de l’auction <expan>p<ex>ar</ex></expan> quoi l’en plede seur le chatel au serf...<note> ; réserve ménagée ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. : <seg type="title" xml:lang="fro"><seg type="rubric">De ce qui est fet de celui qui est en autrui poesté</seg></seg></note></incipit>
+                          <incipit>Porce <expan>q<ex>ue</ex></expan> nos avon fet avant mencion de l’auction <expan>p<ex>ar</ex></expan> quoi l’en plede seur le chatel au serf...<note>Réserve ménagée ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. : <seg type="title" xml:lang="fro"><seg type="rubric">De ce qui est fet de celui qui est en autrui poesté</seg>.</seg></note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="61d"/>
@@ -1752,7 +1752,7 @@
                           <locus from="63d"/>
                           <title type="sub">[Inst. 4.12]</title>
                           <title xml:lang="lat" resp="#FD">De perpetuis et temporalibus actionibus et quae ad heredes vel in heredes transeunt</title>
-                          <incipit>Nos devons estre amonesté en cest leu <expan>q<ex>ue</ex></expan> les auctions <expan>q<ex>ui</ex></expan>...<note> ; réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="fro"><seg type="rubric">Des aucions pardurables <expan><ex>et</ex></expan> temporez</seg></seg> ;</note></incipit>
+                          <incipit>Nos devons estre amonesté en cest leu <expan>q<ex>ue</ex></expan> les auctions <expan>q<ex>ui</ex></expan>...<note>Réserve ménagée ; titre d’attente marginal latin en cursive ; titre français ajouté en cursive au 14<hi rend="sup">e</hi> ou 15<hi rend="sup">e</hi> s. :<seg type="title" xml:lang="fro"><seg type="rubric">Des aucions pardurables <expan><ex>et</ex></expan> temporez</seg>.</seg></note></incipit>
                         </msItem>
                       </msItem>
                     </msItem>
@@ -1878,7 +1878,7 @@
                       <msItem xml:id="montpellier_h373_institutiones_preface">
                         <locus from="1a" to="1c"/>
                         <title type="section" xml:lang="fr">[Préface]</title>
-                        <incipit xml:lang="fro"><seg type="rubric">El non nostre seignor Jhesucrist ci se <expan><ex>com</ex>menchent</expan> les Institutes a l’<expan>emp<ex>er</ex>eor</expan> Justinin.</seg><supplied resp="#FD">très effacée</supplied>
+                        <incipit xml:lang="fro"><seg type="rubric">El non nostre seignor Jhesucrist ci se <expan><ex>com</ex>menchent</expan> les Institutes a l’<expan>emp<ex>er</ex>eor</expan> Justinin.</seg><note resp="#FD">Très effacée.</note>
                           <lb/>Il convient <expan>q<ex>ue</ex></expan> la maesté l’<expan>emp<ex>er</ex>eor</expan> soit aornee non mie tant solement d’armes des lois si <expan>q<ex>ue</ex></expan> li uns <expan><ex>et</ex></expan> li autres tens, ce est celui de pés <expan><ex>et</ex></expan> celui de guerre, puissent estre <expan>gouv<ex>er</ex>né</expan> par droit Et li <expan>emp<ex>er</ex>eor</expan> de <expan>Ro<ex>m</ex>me</expan> soit vainquierres... </incipit>
                         <explicit xml:lang="fro">Et que nostre empire em puisse estre <expan>gouv<ex>er</ex>nez</expan> es <expan>p<ex>ar</ex>ties</expan> qui nos seront baillies a <expan>gard<ex>er</ex></expan>. Ce fu fet douze jors <expan>deva<ex>n</ex>t</expan> les kalendes de desembre <expan>p<ex>ar</ex></expan> nostre seignor Justinien.</explicit>
                       </msItem>
@@ -2037,7 +2037,7 @@
                           <locus from="17d"/>
                           <title type="sub">[Inst. 2.3]</title>
                           <incipit><seg type="rubric">Cest <expan>ty<ex>tres</ex></expan> est des <unclear>gouveides</unclear><!-- LG 13/06/2019 il me semble que l'élément unclear n'a pas été defini dans le schéma. Ok TEI  --><note>lecture incertaine ; 4 jambages après <hi rend="i">o</hi></note></seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De servitutibus</title> ;<seg type="incipit">Les droitures des possessions des chans sont cestes : sentiers, chans, charieres, voies doiz d’eve.</seg></supplied></incipit>
+                            [<title xml:lang="lat">De servitutibus</title> ;<seg type="incipit">Les droitures des possessions des chans sont cestes : sentiers, chans, charieres, voies doiz d’eve.</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="18a"/>
@@ -2062,7 +2062,7 @@
                         <msItem>
                           <locus from="20d"/>
                           <title type="sub">[Inst. 2.8]</title>
-                          <incipit>Cest tytres est des choses qui lisent a autres homes <supplied resp="#FD"><title xml:lang="lat">Quibus alienare licet vel non</title> ;<seg type="incipit">Il avient aucune foiz <expan>q<ex>ue</ex></expan> cil qui est sires de la chose ne <pb n="f. 21a"/> la puent estrangier et cil qui ne n’est pas sires a pooir d’estrangier la</seg></supplied></incipit>
+                          <incipit>Cest tytres est des choses qui lisent a autres homes [<title xml:lang="lat">Quibus alienare licet vel non</title> ;<seg type="incipit">Il avient aucune foiz <expan>q<ex>ue</ex></expan> cil qui est sires de la chose ne <pb n="f. 21a"/> la puent estrangier et cil qui ne n’est pas sires a pooir d’estrangier la</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="21c"/>
@@ -2073,7 +2073,7 @@
                           <locus from="22d"/>
                           <title type="sub">[Inst. 2.10]</title>
                           <incipit><seg type="rubric">Cest tytres est <unclear>d’<expan>estame<ex>n</ex>t</expan></unclear><note>lecture de la fin du dernier mot incertaine</note></seg>
-                            <supplied resp="#FD"><title xml:lang="lat">De testamentis ordinandis</title> ; <seg type="incipit">Testament si est apelez por ce <expan>q<ex>ue</ex></expan> c’est tesmoignement de la pensee a celui qui le fait</seg></supplied></incipit>
+                            [<title xml:lang="lat">De testamentis ordinandis</title> ; <seg type="incipit">Testament si est apelez por ce <expan>q<ex>ue</ex></expan> c’est tesmoignement de la pensee a celui qui le fait</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="23d"/>
@@ -2083,7 +2083,7 @@
                         <msItem>
                           <locus from="24c"/>
                           <title type="sub">[Inst. 2.12]</title>
-                          <incipit>Cest tytre est pro quel cause il lest a fere testament <supplied resp="#FD"><title xml:lang="lat">Quibus non est permissum testamenta facere</title> ;<seg type="incipit">Neporquant il ne plest pas a tous a faire <expan>testame<ex>n</ex>t</expan>.</seg></supplied></incipit>
+                          <incipit>Cest tytre est pro quel cause il lest a fere testament [<title xml:lang="lat">Quibus non est permissum testamenta facere</title> ;<seg type="incipit">Neporquant il ne plest pas a tous a faire <expan>testame<ex>n</ex>t</expan>.</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="25b"/>
@@ -2322,7 +2322,7 @@
                           <locus from="61b"/>
                           <title type="sub">[Inst. 4.2]</title>
                           <incipit>Cest tytre <expan>p<ex>ar</ex>ole</expan> des <expan>bie<ex>n</ex>s</expan> <expan>q<ex>ui</ex></expan> <expan>s<ex>un</ex>t</expan> ravis <expan>p<ex>ar</ex></expan> force
-                            <supplied resp="#FD"><title xml:lang="lat">Vi bonorum raptorum</title> ;<seg type="incipit">Cil qui ravist autres choses est tenus <expan>p<ex>ar</ex></expan> action de larrecin qui n’est pas <expan>ap<ex>er</ex>t</expan></seg></supplied></incipit>
+                            [<title xml:lang="lat">Vi bonorum raptorum</title> ;<seg type="incipit">Cil qui ravist autres choses est tenus <expan>p<ex>ar</ex></expan> action de larrecin qui n’est pas <expan>ap<ex>er</ex>t</expan></seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="61d"/>
@@ -4657,7 +4657,7 @@
                           <locus from="41b"/>
                           <title type="sub">[Inst. 2.20]</title>
                           <title xml:lang="lat" resp="#FD">De legatis<note>En marge d’une écriture cursive.</note></title>
-                          <incipit>Oions aprés cez choses des lés e il apert que ceste partie de droit soit prise de manniere tres possee...<note>ni réserve ni rubrique ;</note></incipit>
+                          <incipit>Oions aprés cez choses des lés e il apert que ceste partie de droit soit prise de manniere tres possee...<note>Ni réserve ni rubrique.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="46a"/>
@@ -4841,7 +4841,7 @@
                         <locus from="78a" to="97d"/>
                         <title type="section" xml:lang="fr">Livre IV</title>
                         <incipit xml:lang="fro"><seg type="rubric">Ci <expan>conma<ex>n</ex>ce</expan> li quars livres. Cist titres est des obligemenz qui <expan>nesse<ex>n</ex>t</expan>...</seg>
-                          <note resp="#FD">Manquent la fin de la rubrique et le début de 4.1, à la suite du découpage de la moitié inférieure de f. 78a (et de f. 78d)</note>
+                          <note resp="#FD">Manquent la fin de la rubrique et le début de 4.1, à la suite du découpage de la moitié inférieure de f. 78a (et de f. 78d).</note>
                           <pb n="f. 78b"/>age ou de tort fet. Larrecins est atouchemenz d’autrui chose par barat de la chose meisme ou de l’usage ou de la posession...</incipit>
                         <explicit xml:lang="fro">...sicome se aucuns afert couvenant a son deteur que il ne li demandera pas ce que il li doit <expan><ex>et</ex></expan> il font aprés...<note>(Inst. 4.14.0)</note>.</explicit>
                         <msItem>
@@ -5103,7 +5103,7 @@
                         <msItem>
                           <locus from="19d"/>
                           <title type="sub">[Inst. 1.15]</title>
-                          <incipit><seg type="rubric">Cist tistres est de la garde bailliee</seg><supplied resp="#FD">= <title xml:lang="lat">De legitima adgnatorum tutela</title> ;<seg type="incipit">Se aucuns sont a qui deffendierres n’est pas donnez en testament...</seg></supplied></incipit>
+                          <incipit><seg type="rubric">Cist tistres est de la garde bailliee</seg>[= <title xml:lang="lat">De legitima adgnatorum tutela</title> ;<seg type="incipit">Se aucuns sont a qui deffendierres n’est pas donnez en testament...</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="20a"/>
@@ -5503,7 +5503,7 @@
                         <msItem>
                           <locus from="151b"/>
                           <title type="sub">[Et. 107]</title>
-                          <incipit><seg type="rubric">La response de l’<expan>av<ex>er</ex>se</expan> <expan>p<ex>ar</ex>tie</expan></seg><supplied resp="#FD">chap. compris dans Et. 107 dans l’éd. Viollet, mais distinct dans les mss <hi rend="i">G, H, I, K</hi></supplied></incipit>
+                          <incipit><seg type="rubric">La response de l’<expan>av<ex>er</ex>se</expan> <expan>p<ex>ar</ex>tie</expan></seg>[chap. compris dans Et. 107 dans l’éd. Viollet, mais distinct dans les mss <hi rend="i">G, H, I, K</hi>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="151c"/>
@@ -5558,7 +5558,7 @@
                         <msItem>
                           <locus from="155c"/>
                           <title type="sub">[Et. 118]</title>
-                          <incipit>Dame ne puet <expan>rie<ex>n</ex>s</expan> donner a son seingneur en aumosne <expan>ta<ex>n</ex>t</expan> que ele soit seue que li dons soit estables...<note>sans réserve ni rubrique, mais changement de titre indiqué par saut de ligne et initiale filigranée.</note></incipit>
+                          <incipit>Dame ne puet <expan>rie<ex>n</ex>s</expan> donner a son seingneur en aumosne <expan>ta<ex>n</ex>t</expan> que ele soit seue que li dons soit estables...<note>Sans réserve ni rubrique, mais changement de titre indiqué par saut de ligne et initiale filigranée.</note></incipit>
                         </msItem>
                         <msItem>
                           <locus from="155c"/>
@@ -5599,13 +5599,13 @@
                         <msItem>
                           <locus from="158c"/>
                           <title type="sub">[Et. 125]</title>
-                          <incipit><seg type="rubric">De l’<expan>o<ex>m</ex>me</expan> qui amainne beste <expan><ex>et</ex></expan> ele tue aucune <expan>p<ex>er</ex>sonne</expan> quel droit on en fet</seg><supplied resp="#FD">chap. compris dans Et. 125 dans l’éd. Viollet, mais distinct dans les mss <hi rend="i">G, H, I, K</hi></supplied></incipit>
+                          <incipit><seg type="rubric">De l’<expan>o<ex>m</ex>me</expan> qui amainne beste <expan><ex>et</ex></expan> ele tue aucune <expan>p<ex>er</ex>sonne</expan> quel droit on en fet</seg>[chap. compris dans Et. 125 dans l’éd. Viollet, mais distinct dans les mss <hi rend="i">G, H, I, K</hi>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="158d"/>
                           <title type="sub">[Et. 125]</title>
-                          <incipit>De la male façon de la beste se il la reconnoist a seue ou non se cele fet mal ou se ele tue autrui<supplied resp="#FD">chap. compris dans Et. 125 dans l’éd. Viollet, mais distinct dans les mss
-                            <hi rend="i">G, H, I, K</hi></supplied></incipit>
+                          <incipit>De la male façon de la beste se il la reconnoist a seue ou non se cele fet mal ou se ele tue autrui[chap. compris dans Et. 125 dans l’éd. Viollet, mais distinct dans les mss
+                            <hi rend="i">G, H, I, K</hi>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="159a"/>
@@ -6962,7 +6962,7 @@
                           <locus from="90d"/>
                           <title type="sub">[Inst. 3.28]</title>
                           <incipit><seg type="rubric">Cist titres <expan>p<ex>ar</ex>ole</expan> des <expan>obligem<ex>en</ex>z</expan> <expan>q<ex>ui</ex></expan> <expan>naisse<ex>n</ex>t</expan> de marchiez ou <expan><ex>com</ex>me</expan> de marchiez</seg>
-                            <supplied resp="#FD">Intitulé de Inst. 3.27, mais texte de Inst. 3.28 ;<seg type="incipit">Aprés ce que nous avons nombré des manieres d’obligemenz qui naissent de marchié...</seg></supplied></incipit>
+                            [Intitulé de Inst. 3.27, mais texte de Inst. 3.28 ;<seg type="incipit">Aprés ce que nous avons nombré des manieres d’obligemenz qui naissent de marchié...</seg>]</incipit>
                         </msItem>
                         <msItem>
                           <locus from="91a"/>
@@ -7615,7 +7615,7 @@
                     <msItem>
                       <locus/>
                       <title type="sub">[Inst. 1.18]</title>
-                      <incipit><supplied resp="#FD"><title xml:lang="lat">De legitima parentium tutela</title> ; titre manquant</supplied></incipit>
+                      <incipit>[<title xml:lang="lat">De legitima parentium tutela</title> ; titre manquant]</incipit>
                     </msItem>
                     <msItem>
                       <locus from="88d"/>
