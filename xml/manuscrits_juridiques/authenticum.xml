@@ -1218,7 +1218,7 @@
                         <title type="sub">[Auth. 77, Nov. 76]</title>
                         <title xml:lang="lat" resp="#FD">Haec constitutio interpretatur priorem constitutionem de iis qui monasteria ingrediuntur et bona sua consecrant, ex quo tempore eam valere oporteat</title>
                         <incipit><supplied resp="#FD">L’</supplied> empereur Justinien dit a Johan le prevost : « <foreign xml:lang="lat" rend="u">Causa talis ad nos pervenit</foreign> » Une telle cause est venue a nous...<note>Réserve sans rubrique.</note></incipit>
-         <foreign xml:lang="lat" rend="u">Causa talis ad nos pervenit</foreign>             </msItem>
+                     </msItem>
                       <msItem>
                         <locus from="273"/>
                         <title type="sub">[Auth. 78, Nov. 77]</title>
@@ -4277,8 +4277,8 @@
                       <msItem>
                         <locus from="65d"/>
                         <title type="sub">[Auth. 8, Nov. 8]</title>
-                        <incipit><seg type="rubric">Cist titres est la constitucion l’empereor et a Bitisaire le visconte qui n’est point profitable</seg></incipit>
-                        <note>De <foreign xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</foreign> à <foreign xml:lang="lat">...si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</foreign>.<seg type="incipit"><hi rend="i">La loi que nous avon fet novelement que nous avo</hi>n <hi rend="i">escripte a nos glorieus prevos moustre </hi>com<hi rend="i">ment...</hi></seg></note>
+                        <incipit><seg type="rubric">Cist titres est la constitucion l’empereor et a Bitisaire le visconte qui n’est point profitable</seg>[<seg type="incipit"><hi rend="i">La loi que nous avon fet novelement que nous avo</hi>n <hi rend="i">escripte a nos glorieus prevos moustre </hi>com<hi rend="i">ment...</hi></seg>]</incipit>
+                        <note>De <foreign xml:lang="lat">Edictum scriptum in omni terra deo amabilibus archiepiscopis et sanctissimis patriarchis</foreign> à <foreign xml:lang="lat">...si hoc neglexerint et defensores sinant rapere, non modicam et ipsi poenam sustinebunt</foreign>.</note>
                       </msItem>
                       <msItem>
                         <locus from="66b"/>
@@ -8110,8 +8110,8 @@
                         <msItem>
                           <locus from="286c"/>
                           <title type="sub">[C. 12.50]</title>
-                          <incipit><seg type="rubric">Du <expan>co<ex>m</ex>mun</expan> cours et des <expan>s<ex>er</ex>vises</expan></seg></incipit>
-                          <note>S’achève à la fin de C. 12.50.21 ;<seg type="explicit"><hi rend="i">... ne sainte yglise ne meso</hi>n<hi rend="i"> real n’ait excusacion de servises en temps de guerre</hi>.</seg></note>
+                          <incipit><seg type="rubric">Du <expan>co<ex>m</ex>mun</expan> cours et des <expan>s<ex>er</ex>vises</expan></seg></incipit><explicit><hi rend="i">... ne sainte yglise ne meso</hi>n<hi rend="i"> real n’ait excusacion de servises en temps de guerre</hi>.</explicit>
+                          <note>S’achève à la fin de C. 12.50.21 ;</note>
                         </msItem>
                         <msItem>
                           <title type="sub">[C. 12.51]</title>

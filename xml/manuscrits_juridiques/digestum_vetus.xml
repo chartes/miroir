@@ -3341,7 +3341,7 @@
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_livre23">
                       <locus from="381b" to="402d"/>
-                      <title type="section" xml:lang="fr">Livre XXIII <note>glose du f. 381b au f. 413d</note></title>
+                      <title type="section" xml:lang="fr">Livre XXIII<note>Glose du f. 381b au f. 413d.</note></title>
                       <incipit xml:lang="fro"><foreign xml:lang="lat" rend="u"><expan>Spo<ex>n</ex>salia</expan></foreign>. Esposailles sont <expan>me<ex>n</ex>tion</expan> <expan><ex>et</ex></expan> <expan>p<ex>ra</ex>messes</expan> de noces qui sont avenir.</incipit>
                       <explicit xml:lang="fro">Labeo dit <expan>q<ex>ue</ex></expan> li fruit qui en sont receu dedenz ce apartienent au mari e je croi mieulz <expan>q<ex>ue</ex></expan> li mariz doit avoir sa part des fruiz <expan><ex>et</ex></expan> rendre a la fame les autres e de cest droit usons nos.</explicit>
                       <msItem>
@@ -3399,7 +3399,7 @@
                       <note>liste des titres. Saut de ligne entre chaque livre. Les livres ne sont pas indiqués. F. 414r (3 col.)- f. 414v (2 colonnes).</note>
                     </msItem>
                     <msItem xml:id="fr_197_digestumvetus_glose">
-                      <title type="section" xml:lang="fr">Glose <note>Paraît en grande partie tirée de la <title>Glose ordinaire</title>.</note></title>
+                      <title type="section" xml:lang="fr">Glose<note>Paraît en grande partie tirée de la <title>Glose ordinaire</title>.</note></title>
                       <msItem>
                         <locus from="213"/>
                         <title type="sub">D.12-D.13.4.9 (marge de reliure et marges de tête et de queue)</title>
@@ -8631,7 +8631,7 @@
           <div type="soustraduction" xml:id="traduction_4">
             <head>Traduction 4</head>
             <dateline>
-              <date notAfter="1300-12-31">seconde moitié du 13<hi rend="sup">e</hi> s. au plus tard</date>
+              <date notAfter="1299" notBefore="1250">seconde moitié du 13<hi rend="sup">e</hi> s. au plus tard</date>
             </dateline>
             <p>La traduction 4, anonyme comme les deux précédentes, date au plus tard de la seconde moitié du 13<hi rend="sup">e</hi> s. (date de son unique témoin). D’après plusieurs régionalismes lexicaux, elle pourrait être originaire de l’ouest du domaine d’oïl et peut-être même de l’Orléanais (cf.
               <quote>besaine</quote> f. 118c, <quote>pechoi</quote> f. 214c).</p>
@@ -8655,7 +8655,7 @@
                     <msItem xml:id="montpellier_h47_digestumvetus">
                       <msItem xml:id="montpellier_h47_digestumvetus_livre1">
                         <locus from="3a" to="13d"/>
-                        <title type="section" xml:lang="fr">Livre I<note>Incomplet du début et de la fin</note></title>
+                        <title type="section" xml:lang="fr">Livre I<note>Incomplet du début et de la fin.</note></title>
                         <incipit xml:lang="fro"><hi rend="i">Et aprés ce puis que aucuns ans furent passés </hi>et <hi rend="i">les .xii. tables furent fetes, li pueples contendoit as majeurs de la cité car li pueples voloit qu’il i eust consuls d’aus ausi com des majeurs, et li majeur ne s’i acordoient mie. Dom il fu ensi fet qu’il firent tribuns de chevaliers une partie deu pueple</hi>... [>D. 1.2.25]</incipit>
                         <explicit xml:lang="fro">... <hi rend="i">porce qu’il est noiseus ou mesfaisant il convie</hi>>n<hi rend="i">t qu’il s’en gart</hi> ... [D. 1.19.3.1]</explicit>
                         <msItem>
@@ -8768,7 +8768,7 @@
                       </msItem>
                       <msItem xml:id="montpellier_h47_digestumvetus_livre2">
                         <locus from="15a" to="30d"/>
-                        <title type="section" xml:lang="fr">Livre II<note>Incomplet du début</note></title>
+                        <title type="section" xml:lang="fr">Livre II<note>Incomplet du début.</note></title>
                         <incipit xml:lang="fro"><hi rend="i">... prent l’en vengance de ce qu’il despise</hi>n<hi rend="i">t la hautece au preteur</hi>... [D. 2.1.9]</incipit>
                         <explicit xml:lang="fro">... <hi rend="i">se li oirs qui li devoit rendre fist transaccion au deteur de l’iretaje qui riens n’en savoit</hi>.</explicit>
                         <msItem>
@@ -9713,7 +9713,7 @@
                       <hi rend="b">U</hi>lpians dit <label>[pr.]</label>
                       <hi rend="b">S</hi>e aucuns chace autrui besaines <expan>p<ex>ar</ex></expan> fumees qu’i leur fet. ou il les tue: il samble miex qu’il leur ait doné achoison de mort qu’il les ait ocisses: <expan><ex>et</ex></expan> porce il sera tenus par accion en fait. <label>[1]</label> se que l’en dit que la loi aquile porsuit damage qui est fés a tort: est ensi <expan>ente<ex>n</ex>du</expan>. que cil damages soit jugiés qui est fés a tort. qui amainne tort avec le damage. s’il n’est fet <expan>p<ex>ar</ex></expan> <expan>g<ex>ra</ex>nt</expan> force qui le fist fere. si come celses escrist endroit de celui qui abati la maison son voisin. <expan>p<ex>or</ex></expan> ce que la seue escapast deu feu: car il dit que ci cesse l’accion de la loi aquile. car il ot poor que li feus ne venist jusq’a la. <expan><ex>et</ex></expan> porce abati la maison son voisin. <expan><ex>et</ex></expan> se li feus vint q’a lui il fu avant <expan>estai<ex>n</ex>s</expan> il esme que ceste accions cesse.</p>
                   </div>
-                  <div type="edition" n="2">
+                  <div type="edition" n="2"><head/>
                     <label>D. 9.3.5</label>
                     <p><label>[9.3.5]</label>
                       <hi rend="b">U</hi>lpians dit. <label>[pr.]</label>
@@ -9892,7 +9892,7 @@
           <div type="soustraduction" xml:id="traduction_5">
             <head>Traduction 5</head>
             <dateline>
-              <date notAfter="1325-12-31"><hi rend="i">ca</hi> 1310-1325</date>
+              <date notBefore="1310" notAfter="1325-12-31"><hi rend="i">ca</hi> 1310-1325</date>
             </dateline>
             <p>La traduction 5 est partielle (D. 2.8-2.15). On ne sait s’il s’agit d’une traduction plus ample dont la tradition ne nous a conservé qu’une partie ou s’il s’agit d’une traduction qui n’a jamais concerné que la partie finale de D. 2. Quoi qu’il en soit, cette traduction ne s’inscrit dans aucune des traditions traductives précédentes, dont elle se distingue à la fois par le lexique et la syntaxe. Anonyme comme les précédentes, sa date est difficile à fixer puisque le seul <hi rend="i">terminus ad quem</hi> dont on dispose est la date assez tardive (<hi rend="i">ca</hi> 1310-1325) de son témoin unique, le ms Bruxelles, Bibl. royale, 9234.</p>
             <div type="manuscrit">
