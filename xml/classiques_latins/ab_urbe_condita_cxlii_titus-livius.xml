@@ -2556,7 +2556,7 @@
                         <settlement>Brugge</settlement>
                         <repository>Stadsbibl.</repository>
                         <idno>397</idno>
-                        <msName type="sigle" resp="DePoerck">C</msName>
+                        <msName type="sigle" resp="De_Poerck">C</msName>
                         <msName type="sigle" resp="Borel">C</msName>
                       </msIdentifier>
                       <msContents>
@@ -2585,7 +2585,7 @@
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
                         <idno>9231-9232</idno>
-                        <msName type="sigle" resp="DePoerck">A</msName>
+                        <msName type="sigle" resp="De_Poerck">A</msName>
                         <msName type="sigle" resp="Borel">A</msName>
                       </msIdentifier>
                       <msContents>
@@ -2623,7 +2623,7 @@
                         <settlement>Bruxelles</settlement>
                         <repository>Bibl. royale de Belgique</repository>
                         <idno>10515</idno>
-                        <msName type="sigle" resp="DePoerck">J</msName>
+                        <msName type="sigle" resp="De_Poerck">J</msName>
                         <msName type="sigle" resp="Borel">J</msName>
                       </msIdentifier>
                       <msContents>
@@ -2661,7 +2661,7 @@
                         <settlement>Genève</settlement>
                         <repository>Bibl. publique et universitaire</repository>
                         <idno>fr. 64</idno>
-                        <msName type="sigle" resp="DePoerck">F</msName>
+                        <msName type="sigle" resp="De_Poerck">F</msName>
                         <msName type="sigle" resp="Borel">F</msName>
                       </msIdentifier>
                       <msContents>
@@ -2694,7 +2694,7 @@
                         <settlement>Kortrijk</settlement>
                         <repository>Stadsbibl.</repository>
                         <idno>cod. 3</idno>
-                        <msName type="sigle" resp="DePoerck">I</msName>
+                        <msName type="sigle" resp="De_Poerck">I</msName>
                         <msName type="sigle" resp="Borel">I</msName>
                       </msIdentifier>
                       <msContents>
@@ -2722,7 +2722,7 @@
                         <settlement>Paris</settlement>
                         <repository>bibl. Mazarine</repository>
                         <idno>1559-1560</idno>
-                        <msName type="sigle" resp="DePoerck">E</msName>
+                        <msName type="sigle" resp="De_Poerck">E</msName>
                         <msName type="sigle" resp="Borel">E</msName>
                       </msIdentifier>
                       <msContents>
@@ -2754,7 +2754,7 @@
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
                         <idno>fr. 55-57</idno>
-                        <msName type="sigle" resp="DePoerck">D</msName>
+                        <msName type="sigle" resp="De_Poerck">D</msName>
                         <msName type="sigle" resp="Borel">D</msName>
                       </msIdentifier>
                       <msContents>
@@ -2791,7 +2791,7 @@
                         <settlement>Paris</settlement>
                         <repository>Bibl. nat. de Fr.</repository>
                         <idno>fr. 296-299</idno>
-                        <msName type="sigle" resp="DePoerck">B</msName>
+                        <msName type="sigle" resp="De_Poerck">B</msName>
                         <msName type="sigle" resp="Borel">B</msName>
                       </msIdentifier>
                       <msContents>
@@ -2821,7 +2821,7 @@
                         <settlement>Wien</settlement>
                         <repository>Schottenstift</repository>
                         <idno>139-140</idno>
-                        <msName type="sigle" resp="DePoerck">H</msName>
+                        <msName type="sigle" resp="De_Poerck">H</msName>
                         <msName type="sigle" resp="Borel">H</msName>
                       </msIdentifier>
                       <msContents>
