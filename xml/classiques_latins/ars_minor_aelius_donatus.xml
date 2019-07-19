@@ -115,7 +115,7 @@
                 <settlement>Bern</settlement>
                 <repository>Burgerbibl.</repository>
                 <idno>439</idno>
-                <msName type="sigle" resp="Colombo-Timelli">B</msName>
+                <msName type="sigle" resp="Colombo_Timelli">B</msName>
                 <msName type="sigle" resp="Städtler">B</msName>
               </msIdentifier>
               <msContents>
@@ -183,7 +183,7 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>lat. 14095</idno>
                 <msName type="sigle" resp="Städtler">G</msName>
-                <msName type="sigle" resp="Colombo-Timelli">P1</msName>
+                <msName type="sigle" resp="Colombo_Timelli">P1</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil : entre autres, <title>Ars minor</title> de Donat f. 1, 3, 5, 4r-v (manque le début) ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> f. 10v, 12-15 ;
@@ -253,7 +253,7 @@
                 <repository>bibl. Mazarine</repository>
                 <idno>3794</idno>
                 <msName type="sigle" resp="Städtler">M1</msName>
-                <msName type="sigle" resp="Colombo-Timelli">M1</msName>
+                <msName type="sigle" resp="Colombo_Timelli">M1</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil de textes grammaticaux : entre autres, <title>Ars minor</title> de Donat (version étoffée) f. 1-10v ; traduction de l’<title>Ars minor</title> de Donat f. 22a-29a ; traduction de l’<title>Ars minor</title> de Donat f. 41b-52b ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 85-129 ; <title>Ecloga Theoduli</title> commentée et glosée f. 130-162.</p>
@@ -319,7 +319,7 @@
                 <repository>bibl. Mazarine</repository>
                 <idno>3794</idno>
                 <msName type="sigle" resp="Städtler">M2</msName>
-                <msName type="sigle" resp="Colombo-Timelli">M2</msName>
+                <msName type="sigle" resp="Colombo_Timelli">M2</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil de textes grammaticaux : entre autres, <title>Ars minor</title> de Donat (version étoffée) f. 1-10v ; traduction de l’<title>Ars minor</title> de Donat f. 22a-29a ; traduction de l’<title>Ars minor</title> de Donat f. 41b-52b ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 85-129 ; <title>Ecloga Theoduli</title> commentée et glosée f. 130-162.</p>
@@ -383,7 +383,7 @@
                 <settlement>Vaticano</settlement>
                 <repository>Bibl. apostolica Vaticana</repository>
                 <idno>Vat. lat. 1479</idno>
-                <msName type="sigle" resp="Colombo-Timelli">V</msName>
+                <msName type="sigle" resp="Colombo_Timelli">V</msName>
               </msIdentifier>
               <msContents>
                 <p>recueil à dominante grammaticale : entre autres <title>Ars minor</title> de Donat f. 1a-2d ; traduction de l’<title>Ars minor</title> de Donat f. 4a-6b ; [<title>Grammatica</title>] f. 6b-7c ; <persName type="ancien">Alcuin</persName>, <title>Liber regiminum</title> f. 7c-9d  ; <persName type="ancien">Pseudo-Caton</persName>, <title>Disticha</title> commentés f. 9d-15d ; <title>EclogaTheoduli</title> commentée f. 15d-25b ;
@@ -452,7 +452,7 @@
                 <settlement>Salins</settlement>
                 <repository>bibl. mun.</repository>
                 <idno>44</idno>
-                <msName type="sigle" resp="Colombo-Timelli">S</msName>
+                <msName type="sigle" resp="Colombo_Timelli">S</msName>
               </msIdentifier>
               <msContents>
                 <p>2 manuscrits réunis</p>
@@ -546,7 +546,7 @@
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>nouv. acq. fr. 1120</idno>
-                <msName type="sigle" resp="Colombo-Timelli">P2</msName>
+                <msName type="sigle" resp="Colombo_Timelli">P2</msName>
               </msIdentifier>
               <msContents>
                 <p><persName type="ancien">Firmin Le Ver</persName>, <title>Dictionnaire latin-français</title> f. 1a-467a ; f. 467b-d blanc ; Donat,
@@ -616,7 +616,7 @@
                 <settlement>Paris</settlement>
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>nouv. acq. fr. 4690</idno>
-                <msName type="sigle" resp="Colombo-Timelli">P3</msName>
+                <msName type="sigle" resp="Colombo_Timelli">P3</msName>
               </msIdentifier>
               <msContents>
                 <p>traduction de l’<title>Ars minor</title> de Donat f. 1-10v.</p>
