@@ -2,12 +2,12 @@
 <?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ab_urbe_condita_cxlii_titus_livius" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ab_urbe_condita_cxlii_titus-livius" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title><hi rend="i">Ab Urbe condita libri CXLII</hi>, T. Livius</title>
-        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <title type="sub">Notice descriptive concernant <hi>l’ensemble des traductions</hi> médiévales en français et en occitan</title>
         <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
       </titleStmt>
@@ -50,6 +50,9 @@
       <sourceDesc>
         <bibl><author>T. Livius</author>, <title>Ab Urbe condita libri CXLII</title>.</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
@@ -58,6 +61,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb11886799m">Tite-Live (0059? av. J.-C.-0017)</term>
+        </keywords>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change who="#G" when="2006-10-26">révision de la notice</change>

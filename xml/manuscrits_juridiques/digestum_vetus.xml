@@ -58,6 +58,9 @@
       <sourceDesc>
         <bibl><author>Justinianus I</author>, <title ref="http://catalogue.bnf.fr/ark:/12148/cb13736027w">Digestum vetus</title>.</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>

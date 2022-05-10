@@ -51,6 +51,9 @@
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
         <bibl>Stratagemata de Frontin (nativement numérique)</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
@@ -59,6 +62,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb12174476c">Frontin (0030?-0103?)</term>
+        </keywords>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change who="#G" when="2006-11-06">révision de la notice</change>

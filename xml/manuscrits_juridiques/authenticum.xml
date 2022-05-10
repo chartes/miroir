@@ -79,6 +79,9 @@
       <sourceDesc>
         <bibl><author>Justinianus I</author>, <title ref="http://catalogue.bnf.fr/ark:/12148/cb137360496">Authenticum</title>.</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
@@ -87,6 +90,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb12055108q">Justinien Ier (0482-0565)</term>
+        </keywords>
+      </textClass>
     </profileDesc>
   </teiHeader>
   <text>

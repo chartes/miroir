@@ -51,6 +51,9 @@
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
         <bibl><author>M. Valerius Maximus</author>, <title>Factorum et dictorum memorabilium libri novem</title>, (nativement numérique).</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
@@ -59,6 +62,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb12043057z">Valère Maxime (00..-00..)</term>
+        </keywords>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change who="#G" when="2006-10-17">début de la notice</change>

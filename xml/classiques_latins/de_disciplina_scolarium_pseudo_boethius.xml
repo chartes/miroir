@@ -51,6 +51,9 @@
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
         <bibl><author>Julius Valerius Polemius</author>, <title>Epitome</title>, (nativement numérique).</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
@@ -59,6 +62,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb124275714">Julius Valerius Alexander Polemius</term>
+        </keywords>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change who="#G" when="2006-10-17">révision de la notice</change>

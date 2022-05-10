@@ -51,6 +51,9 @@
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
         <bibl><title>Epistola Alexandri ad Aristotelem</title>, (nativement numérique).</bibl>
       </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
@@ -59,6 +62,11 @@
       <langUsage>
         <language ident="fr"/>
       </langUsage>
+      <textClass>
+        <keywords>
+          <term>Auteur inconnu</term>
+        </keywords>
+      </textClass>
     </profileDesc>
     <revisionDesc>
       <change who="#G" when="2006-10-18">révision de la notice</change>
