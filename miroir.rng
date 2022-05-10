@@ -1590,6 +1590,11 @@
         <optional>
           <element name="lem">
             <a:documentation>Lemme : leçon retenue pour l'édition du texte.</a:documentation>
+            <optional>
+              <!-- TODO: à méditer un peu, cas Viola Mariotti -->
+              <a:documentation>La leçon retenue du texte éditée peut être absente du témoin principal et reconstituée par conjecture par l’éditeur.</a:documentation>
+              <attribute name="resp"/>
+            </optional>
             <text/>
           </element>
         </optional>
