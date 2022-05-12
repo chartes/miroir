@@ -13,7 +13,7 @@ NB. Pour ce projet, toutes les métadonnées sont inscrites dans les `teiHeader`
 
 ```
 cd capitainizer
-python capitainizer.py path/to/miroir/xml path/to/data/dts/data/miroir templates/__capitains_collection_miroir.xml 
+python capitainizer.py path/to/miroir/xml path/to/data/dts/data/miroir templates/__capitains_collection_miroir.xml
 ```
 
 NB. Penser à corriger manuellement les titres des collections (TODO CF : fichier de configuration pour gérer ces titres imprimés de collections).
@@ -28,11 +28,14 @@ srv/
 	data/dts/data/miroir/
 	transform/
 	webapp/
+		api/
+			miroir-app/
 		capitains/
 			flask_app.py
 			MyCapytain/
 			Nautilus/
 			requirements.txt
+		miroir-vue/
 ```
 
 
@@ -53,7 +56,7 @@ Les fichiers sont servis par [Nautilus](https://github.com/chartes/Nautilus/tree
 ```
 git clone https://github.com/chartes/Nautilus.git
 cd Nautilus
-git checkout dtsdownload 
+git checkout dtsdownload
 ```
 
 #### 2.3. Configuration (flask-app.py)
