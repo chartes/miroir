@@ -33,7 +33,7 @@
       <publicationStmt>
         <publisher>École nationale des chartes</publisher>
         <date when="2017"/>
-        <idno>http://enc-sorbonne.fr/miroir/heroides_ovidius.xml</idno>
+        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/de_disciplina_scolarium_pseudo_boethius.xml</idno>
         <availability status="restricted">
           <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
             <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
