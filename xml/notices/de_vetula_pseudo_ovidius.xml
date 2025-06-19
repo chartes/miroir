@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_vetula_pseudo_ovidius" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">De vetula</hi>, Pseudo-P. Ovidius Naso</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2017"/>
+        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/de_vetula_pseudo_ovidius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>Pseudo-P. Ovidius Naso</author>, <title>De vetula</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb124275714">Julius Valerius Alexander Polemius</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-27">révision de la notice</change>
+      <change who="#HRC" when="2014-05">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine</head>
+        <cit>
+          <quote>
+            <p>Vraisemblablement œuvre de <persName type="ancien">Richard de Fournival</persName> (XIII<hi rend="sup">e</hi> siècle), la <title>Vetula</title>, traditionnellement attribuée à Ovide, est un poème en trois chants, dans lequel l’auteur de l’<title>Art d’aimer</title> est censé raconter un épisode de sa vie amoureuse. Dans le premier chant, parlant des usages de l’amour, le poète fait d’intéressantes digressions sur la natation, la pêche, la chasse, les mathématiques et divers jeux. Le second chant raconte comment Ovide, s’étant ménagé, grâce à une vieille entremetteuse, un rendez-vous galant avec une jeune fille, se voit berner par la vieille [...]. Mais de déconvenue en déconvenue [... il décide] de renoncer à sa vie frivole pour se consacrer entièrement à l’étude, ce qu’il fait dans le troisième chant du poème, qui s’achève sur les révélations de la Sibylle prédisant la naissance du Christ. Cette dernière partie assura le succès de la <title>Vetula</title> ; elle est tout imprégnée de philosophie aristotélicienne et des théories astrologiques arabes. Des savants comme Robert Grosseteste, Roger Bacon ou Pierre d’Ailly s’y réfèrent... </p>
+          </quote>
+          <bibl>(G. Hasenohr, « Jean Le Fèvre », dans <title>Dictionnaire des lettres françaises</title>, Paris, 1992, p. 803)</bibl>
+        </cit>
+        <listBibl>
+          <bibl>D. M. Robathan, « Living Conditions in the thirteenth Century as reflected in the Pseudo Ovidian ‘De vetula’ », dans <title>Classical, Mediaeval and Renaissance Studies in honor of Berthold Louis Ullman</title>, Rome, 1964 (Storia e letteratura, 93-94), p. 96-102</bibl>
+          <bibl>P. Klopsch, <title>Pseudo-Ovidianus <title>De vetula</title> : Untersuchungen und Text</title>, Leiden, 1967</bibl>
+        </listBibl>
+      </div>
+      <div type="traduction" xml:id="fevre">
+        <head>Traduction de Jean Le Fèvre</head>
+        <dateline>
+          <date notBefore="1350" notAfter="1374">troisième quart du XIVe siècle</date>
+        </dateline>
+        <p><persName role="traducteur">Jean Le Fèvre</persName>, né vers 1320 et mort vers 1380, fut procureur au Parlement de Paris. Il a traduit plusieurs ouvrages pseudo-antiques très en vogue dans les écoles, comme l’<title>Ecloga Theoduli</title> ou le <title>De vetula</title>.</p>
+        <listBibl>
+          <bibl>H. Cocheris, <title>La Vieille ou les dernières amours d’Ovide. Poème français du XIV<hi rend="sup">e</hi> siècle traduit du latin de Richard de Fournival par Jean Lefèvre</title>, Paris, 1861</bibl>
+        </listBibl>
+        <div type="edition_epilogue">
+          <head>Epilogue</head>
+          <p>d'après le ms</p>
+          <msDesc corresp="#fr_881"><!-- type="biblissima" -->
+            <msIdentifier>
+              <settlement>Paris</settlement>
+              <repository>Bibl. nat. de Fr.</repository>
+              <idno>fr. 881</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 48c</locus>
+                <incipit>J’ay tant forgié que j’ay parfait
+                  <lb/>Ceste oeuvre par dit et par fait ;
+                  <lb/>J’en rens graces au Createur
+                  <lb/>Qui de ce m’a fait translateur.</incipit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>Chacun des manuscrits découpe le prologue et le début du texte de manière différente, mais le contenu est identique.</p>
+          <div type="incipit">
+            <head>Incipit</head>
+            <p>d'après le ms</p>
+            <msDesc corresp="#fr_881"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 881</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <title>Prologues</title>
+                  <msItem>
+                    <locus>f. 1a</locus>
+                    <incipit>Bonne chose et proufitable est de la translacion des langaiges pour congnoistre et entre les fais des anciens... </incipit></msItem>
+                  <msItem>
+                    <locus>f. 1c</locus>
+                    <incipit><seg type="rubric">Ci parle des causes pour lesqueles Ovide fist cest livre</seg>
+                      <lb/>Es commencemens des livres on a acoustume a demander sept choses qui sont ramenees a quatre causes dont je parleray en brief pource que la longue distincion en seroit de petit proufit.<lb/></incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 1c</locus>
+                    <incipit>
+                      <seg type="rubric">Cy commence le prologue de l’acteur et dont vint Eneas</seg>
+                      <lb/>Aprés ce que Troye la Grant fut prise et descructe sicomme les hystoires le baillent et dient vint de Frige ou Troye avecques Eneas un vaillant et solennel seigneur...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 2c</locus>
+                    <incipit>
+                      <seg type="rubric">Comment cest livre fu trouvé</seg>
+                      <lb/>Toutesvoies avint il que ou forbourc de la cité de Dyoscore qui est le chief du royaume de la terre de Colcos...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 2d</locus>
+                    <incipit>
+                      <seg type="rubric">De la maniere du vivre d’Ovide</seg>
+                      <lb/>Et ainsi appert il qui fut l’acteur du livre et par ce avons nous la cause efficient...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 3a</locus>
+                    <incipit><seg type="rubric">Pourquoy Ovide fu nommez Nazon</seg>
+                      <lb/>Ovide Nazon fut nommez <lb/>Le pouete bien renommez <lb/>Nazon pour quantité du nez...<lb/>
+                    </incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 3b</locus>
+                    <incipit><seg type="rubric">Comment Ovide fut deceu par la vielle matronne</seg>
+                      <lb/>Par la vielle fut il deceu <lb/>Sicom cy aprés sera sceu <lb/>Pour quoy il mua son propos...</incipit>
+                  </msItem>
+                </msItem>
+                <msItem>
+                  <title>Texte</title>
+                  <incipit><locus>f. 3c</locus><seg type="rubric">Comment Ovide ama par amours</seg><lb/>Et que j’amoie chïerement<lb/>Et desiroie entierement,<lb/>Ce tresdoulz sexe femenin<lb/>Qui n’i cuïdoy mal ne venin...<lb/>
+                  </incipit>
+                  <explicit><locus>f. 48c</locus>...De nous soit a lui los et gloire<lb/>Honneur, reverance et victoire,<lb/>Et de lui aions grace estable<lb/>Et sanz fin vie pardurable<lb/>Amen.<lb/>
+                  </explicit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="incipit">
+            <head>Incipit</head>
+            <p>d'après le ms</p>
+            <msDesc corresp="#fr_2327"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 2327</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <title>Prologues</title>
+                  <incipit>
+                    <locus>f. 1</locus>Le prologue du translateur <lb/>Bonne chose est et prouffitable la translacion des langaiges pour congnoistre et entendre les faiz des anciens...</incipit>
+                  <msItem>
+                    <locus>f. 2v</locus>
+                    <incipit>Comment Ovide determine des quatre causes principalles pour lesquelles il a fait et compilé ce noble livre...</incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 3</locus>
+                    <incipit>Comment Eneas vint de Troye la Grant et d’une ville ou chasteau qui fut nommé Peliges <lb/>Aprés ce que la cité de Troye la grant fut prinse et destruicte si comme les histoires les baillent et dient...</incipit>
+                  </msItem>
+                  <msItem>
+                    <locus>f. 5</locus>
+                    <incipit>Comment cest livre fut trouvé en la sepulture de Ovide en ung petit coffret d’ivoyre ouquel il avoit esté par l’espace de IIIIC ans <lb/>Toutesvoyes advint il que es faulx bourgs de la cité de Diascore qui est le chief du royaume de la terre de Colcos...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 6</locus>
+                    <incipit>Comment il appert que Ovide fut l’acteur de ce present livre <lb/>Et ainsi appert il qui fut l’acteur du livre et ainsi nous avons la cause efficient...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 6v</locus>
+                    <incipit>Comment Ovide fu nommé Nazon pour la quantité de son grant nez et comment il fut exillé <lb/>Ovide Nazon fut nommé <lb/>le pouete bien renommé <lb/>Nazon pour quantité du nez...</incipit>
+                  </msItem>
+                </msItem>
+                <msItem>
+                  <title>Texte</title>
+                  <incipit><locus>f. 7v</locus>Comment Ovide ama moult chierement le tresdoulx sexe femenin <lb/>O que j’amoye chierement <lb/>Et desiroye entierement <lb/>Ce tresdoulx sexe femenin...</incipit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+          <div type="incipit">
+            <head>Incipit</head>
+            <p>d'après le ms</p>
+            <msDesc corresp="#fr_19138"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 19138</idno>
+              </msIdentifier>
+              <msContents>
+                <msItem>
+                  <title>Prologues</title>
+                  <msItem>
+                    <locus>f. 1</locus>
+                    <incipit>Bonne chose et prouffitable est de la translacion des langages pour congnoistre et entendre les fais des anciens...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 2</locus>
+                    <incipit><seg type="rubric">Autre prologue fait par maistre Leon prothonotaire du saint palaiz de Constantinoble sus ledit livre de Ovide</seg> <lb/>Au commencement des livres on seult demander sept choses qui sont ramenees a quatre causes dont je parleray briefment...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 3</locus>
+                    <incipit><seg type="rubric">Comment la sepulture de Ovide et son livre furent trouvez</seg> <lb/>Toutesvoyes advint il que ou forbourg de la cité Dyoscore qui est le chief du royaulme de la terre de Colcos...</incipit></msItem>
+                  <msItem>
+                    <locus>f. 3v</locus>
+                    <incipit><seg type="rubric">Du proheme de l’acteur</seg> <lb/>Et ainsy appert il donques qui fu l’acteur du livre et par ce avons nous la cause efficient...</incipit></msItem>
+                  <msItem>
+                    <incipit><seg type="rubric">Cy commence la rime Comment Ovide fut nommé Nason pour la quantité de son nez et comment il fut nez en un chasteau qui avoit <pb n="4v"/> nom Peliges, et cetera</seg> <lb/>Ovide Nason fut nommez <lb/>le poete bien renommez <lb/>Nason pour quantité du nez <lb/>du chasteau Peliges fu nez...</incipit></msItem>
+                </msItem>
+                <msItem>
+                  <title>Texte</title>
+                  <incipit><seg type="rubric">Comment Ovide ama le sexe femenin</seg> <lb/>Et que j’amoie chierement et desiroye entierement <lb/>ce tresdoulz sexe femenin...</incipit>
+                </msItem>
+              </msContents>
+            </msDesc>
+          </div>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrits</head>
+          <listBibl type="msList">
+            <msDesc xml:id="fr_881" source="http://gallica.bnf.fr/ark:/12148/btv1b8449041w"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 881</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de <persName role="traducteur">Richard de Fournival</persName>, <title>De vetula</title> par <persName type="ancien">Jean Le Fèvre</persName> [titre : <title type="ancien">Ci commence Ovide « De la Vielle », translaté de latin en françois par maistre Jehan Le Fevre, procureur en Parlement, et fut trouvé ce livre en un petit cofret d’ivoire en la sepulture dudit Ovide IIIIc ans aprés sa mort tout frais et entier ouquel livre sont contenuz moult nobles diz et enseignemens et au commencement il traicte de la maniere de son vivre</title> (rubr) f. 1a] f. 1a-48c ; traduction en prose de l’<title>Ars amatoria</title> d’Ovide f. 49a-96c : manque le livre III ; ballades et rondeaux non notés de <persName type="ancien">Guillaume de Machaut</persName> f. 97a-112d.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>112 f. parchemin</p>
+                </objectDesc>
+                <handDesc>
+                  <p>Copiste : <persName role="copiste">Raoul Tainguy</persName> (signature f. 48v et 96v)</p>
+                </handDesc>
+                <decoDesc>
+                  <p>illustration : miniature d’un tiers de la justification (f. 1a) représentant Ovide écrivant à une vieille femme</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1380" notAfter="1420">fin XIV<hi rend="sup">e</hi> s.-début XV<hi rend="sup">e</hi> s.</origin>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Arnaud de Corbie">Arnaud de Corbie</persName> ; <persName role="possesseur" key="Jean Martel">Jean Martel</persName>, changeur rouennais († 1468) (ex libris f. de garde début) ; <persName role="possesseur" key="Jacques Cename">Jacques Cename</persName> († 1484-1485), changeur d’origine lucquoise installé à Paris (dernier f. de garde : signature et devise <quote>« trop ennuye »</quote>) ; <persName role="possesseur" key="Briçonnet, François">François Briçonnet</persName> (signature avant-dernier f. de garde), receveur général des Finances et maître de la chambre aux deniers en 1511 ; <orgName role="possesseur" key="Blois, bibliothèque de">bibliothèque royale de Blois</orgName> et <orgName role="possesseur" key="Fontainebleau, bibliothèque de">bibliothèque royale de Fontainebleau</orgName></p></provenance>
+              </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
+                <listBibl>
+                  <bibl>B. Roy, <title>L’Art d’amours. Traduction et commentaire de l’Ars amatoria d’Ovide</title>, Leiden, 1974, p. 21-23</bibl>
+                  <bibl>M.-H. Tesnière, « Les manuscrits copiés par Raoul Tainguy, un aspect de la culture des grands officiers royaux au début du XVe siècle », dans <title>Romania</title>, t. 107, 1986, notice p. 342-345</bibl>
+                  <bibl>notice IRHT</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_2327"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 2327</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de Richard de Fournival, <title>De vetula</title> par Jean Le Fèvre [titres : <title type="ancien">Cy commence Ovide de la vielle nouvellement translaté de latin en françois lequel au commencement traicte de la maniere de son vivre quant il vacquoit a amours et comment il fut deceu par la vieille et de plusieurs autres choses moralisees</title> f. 1 ; <title type="ancien">Cy fine Ovide de la vieille</title> f. 102] f. 1-102 : sans épilogue.</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>102 f. papier (filigrane sim. Briquet 8696 [Cologne, 1479])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1375" notAfter="1450">1375-1450 (proche du ms Paris, Bibl. nat. de Fr., lat. 3459 A, f. 304v [1382], <title>Mss datés</title>, t. II, pl. 162)</origin>
+                <provenance><p>Possesseur : f. 1 essais de plume avec mention du nom de <quote>« <persName role="possesseur" key="Robert Sirorost">Robert Sirorost</persName> »</quote></p></provenance>
+              </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+              </additional>
+            </msDesc>
+            <msDesc xml:id="fr_19138"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Paris</settlement>
+                <repository>Bibl. nat. de Fr.</repository>
+                <idno>fr. 19138</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction de Richard de Fournival, <title>De vetula</title> par Jean Le Fèvre [titre : <title type="ancien">Cy commence un notable livre nommé Ovide de la vieille lequel au commencement d’icelluy traitte de la maniere de son vivre quant il vacquoit en amours aprés il traitte de la beauté de sa dame et comment il fu deceu par la vieille et de pluseurs aultres choses</title> (rubr.) f. 1] f. 1-103v ; <title type="ancien">Cy commence un dit de la Rose, composé sur la vierge Marie</title> f. 103v-106 (inc. <seg type="incipit">Quant Dieu le monde composa <lb/>Adam en paradis posa <lb/>Puis le perdy par sa folie</seg>... ; expl. ...<seg type="explicit">Vous estes la rose polie <lb/>Qu’on doit servir com vraie amie <lb/>Ave regina celorum</seg>) ; <title type="ancien">Cy commence Salve regina en françoiz</title> f. 106-108v (inc. <seg type="incipit">Salve pucelle precieuse <lb/>Vierge plaisant et delicieuse</seg>... ; J. Sonet, <title>Répertoire d’incipit de prières en ancien français</title>, Genève, 1956, n° 1881)</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>108 f. parch. et papier (filigranes : f. 107 sim. Briquet 2423 [Luxembourg 1413, sim. 1415-1436] ; f. 99 sim. Briquet 3557 [Pont-à-Mousson 1425, sim. 1405-1429] ; f. 92 sim. Briquet 353 [Troyes 1428, sim. 1431-1445])</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> s. (proche du ms Paris, Bibl. nat. de Fr., lat. 4028, f. 452 [1430], <title>Mss datés</title>, t. II, pl. 92)</origin>
+              </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
+                <listBibl>
+                  <bibl>H. Omont, <title>Catalogue général des manuscrits français, ancien Saint-Germain français</title>, t. III, Paris, 1900, p. 236-237</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>

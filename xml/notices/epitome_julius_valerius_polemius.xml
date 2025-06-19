@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="epitome_julius_valerius_polemius" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">Epitome</hi>, Julius Valerius Polemius</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="http://data.bnf.fr/ark:/12148/cb136157348">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École nationale des chartes</publisher>
+        <date when="2017"/>
+        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/epitome_julius_valerius_polemius.xml</idno>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Copyright © 2017 École nationale des chartes (ci-après dénommée ENC).</p>
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’ENC, selon les termes de la licence Creative Commons : « Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CC BY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’ENC et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’ENC s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>Julius Valerius Polemius</author>, <title>Epitome</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006"/>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb124275714">Julius Valerius Alexander Polemius</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-18">révision de la notice</change>
+      <change who="#HRC" when="2014-05">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine</head>
+        <p>Au III<hi rend="sup">e</hi> siècle à Alexandrie, le roman d’Alexandre a trouvé sa forme canonique. Sa première traduction latine, dédiée à l’empereur Constance II (337-361), fut réalisée au milieu du IV<hi rend="sup">e</hi> siècle par <persName type="ancien">Julius Valerius Alexander Polemius</persName>. L’intérêt suscité par la traduction fut mince durant l’Antiquité tardive, qui donna cependant naissance à un épitomé (où a disparu le nom du traducteur). Cet épitomé devait accompagner dans les manuscrits l’<title>Epistola Alexandri ad Aristotelem</title> et devenir la base d’une réception quasiment illimitée.</p>
+        <listBibl>
+          <bibl>R. Herzog (éd.), <title>Nouvelle histoire de la littérature latine</title>, t. V : <title>Restauration et renouveau, la littérature latine de 284 à 374 après J.-C.</title>, Turnhout, 1993, p. 244-247</bibl>
+          <bibl><title>Julii Valerii Res gestae Alexandri Macedonis translatae ex Aesopo Graeco</title>, éd. M. Rossellini, Stuttgart, 1993</bibl>
+        </listBibl>
+      </div>
+      <div type="traduction" xml:id="anonyme">
+        <head>Traduction anonyme en prose</head>
+        <dateline>
+          <date notBefore="1445" notAfter="1465">milieu du XV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <listBibl>
+          <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, p. 168-169</bibl>
+          <bibl>absent de P. Chavy, <title>Traducteurs d’autrefois : Moyen Age et Renaissance, dictionnaire des traducteurs et de la littérature traduite en ancien et moyen français 842-1600</title>, Paris-Genève, 1988</bibl>
+        </listBibl>
+        <div type="edition">
+          <head>Transcription des deux premiers chapitres</head>
+          <p>d'après le ms</p>
+          <msDesc corresp="#kbr_11104-05"><!-- type="biblissima" -->
+            <msIdentifier>
+              <settlement>Bruxelles</settlement>
+              <repository>Bibl. royale de Belgique</repository>
+              <idno>11104-05</idno>
+            </msIdentifier>
+            <msContents>
+              <p>Nous creons par escript que les sages hommes d’Egypte furent nez des lignages aux dieux, car par leur subtil engin ilz mesurerent la grandeur de la terre par le cours des estoilles ou ilz prenoient <pb n="f. 1v"/> leur science especialment par astronomie et par nygromancie, par lesquellez ilz sçavoient et faisoient toutes choses qu’ilz vouloient.</p>
+              <p>Mais sur tous fut Neptanabus le plus sage et le plus vray de ce qu’il disoit de sa bouche que nul des autres, car tout ce que autres roys de environ lui soloient faire par force d’armes il faisoit par art et par science. Si grant poissance avoit en science qu’il avoit grant commandement sur les elemens.</p>
+              <p>Avint une foiz que une grant guerre lui survint, car il estoit roy d’Egypte trespoissant si lui courut sus grant pueple de toutes pars pour le chasser hors de sa terre, laquelle il avoit longuement maintenue et gardee en grande paix. Ceulx qui venoient sur lui estoient moult grant puissance et de moult de royames, c'est assavoir Indiens, Arabiens, Feniciens, Parthiens, Assiriens, Sectains, Alains, Suriens, Ebreux, Agrophagitez et toutes les contrees d’Orient.</p>
+              <p><pb n="f. 2"/> Quant le roy Neptanabus oÿ ces nouvelles, il s’en esjoÿ moult grandement et en jetta un ris puis appareilla tantost ses enchantemens qu’il savoit et prist ung bachin plain d’eaue et fist dedens une nacelle de cuir et puis fist dedens deux ymages de cire par une petite verge qu’il tenoit en sa main, puis fist ses conjuremens qu’il savoit et appella les dieux du ciel et d’infer en son ayde, et tantost par leurs respons s’apperçut et congneut qu’il seroit vaincus et destruis s’il attendoit ses ennemis.</p>
+              <p>Ces choses considerees, le roy Neptanabus mist tantost tous ses precieux joyaus et autres richesses en une nef en laquelle il entra et esploita tant par mer qu’il arriva en Macedone. Et quant il fut en la maistresse cité, il se vesti de linge et dist aux gens qu’il estoit astronomien, promectant dire verité de toutes choses que on lui demanderoit.</p>
+              <p>Comment la royne Olympias manda Neptanabus et de ses respons.</p>
+              <p><pb n="f. 2v"/> Or avint que Neptanabus fut moult congneu parmi la cité de Macedone et tant que la renommee de lui vint a Olympias la royne du paÿs, laquelle le manda tantost qu’il incontinent venist parler a elle.</p>
+              <p>A ce temps estoit le roy Phelippe de Macedone son mari hors du paÿs en guerre contre aucuns ses ennemis.</p>
+              <p>Quant Neptanabus fut venu devant la royne, elle lui demanda qu’il lui desist comment il avendroit de son seigneur qui en la guerre estoit, mais il ne le daigna oncquez saluer ne appeller dame, car bien lui ramembroit qu’il avoit esté roy d’un si riche royaume comme estoit Egypte, mais moult s’esmerveilla de la grande beauté d’elle car en le regardant fut espris de son amour tellement qu’il ne se savoit contenir.</p>
+              <p>La royne lui demanda : «  Es tu Neptanabus qui tant scez d’astronomie ? » Et il respondy : « La nostre science est de pluiseurs manieres, mais on ne puet mie en un temps se ramembrer de tout <pb n="f. 3"/> ne a un respons dire tout. » Comme il eut ce dit, il esgarda tousjours moult ententivement la royne ou visage.</p>
+              <p>Et la royne lui demanda : « Dy moy, prophete, je te prie pourquoy tu me regardez si corageusement et ton oeil de ma face tu ne pues re[m]ouvoir ? »</p>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc corresp="#kbr_11104-05"><!-- type="biblissima" -->
+            <msIdentifier>
+              <settlement>Bruxelles</settlement>
+              <repository>Bibl. royale de Belgique</repository>
+              <idno>11104-05</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 1-65v</locus>
+                <incipit>Nous creons par escript que les sages hommes d’Egypte furent nez des lignages aux dieux car par leur subtil engin ilz mesurerent la grandeur de la terre par le cours des estoilles ou ilz prenoient...</incipit>
+                <explicit>Nulle cité n’assiega qu’il ne conquist nulles gens par bataille ne requist qu’il ne vainquist et subjugast mais en la parfin que nul homme ne puet par force vaincre par vin et par venin fut vaincus surmontez et estains en la fleur de sa jonesse et en la fleur de sa plusgrande fortune cellui qui tout le monde avoit surmonté et vaincu Orez vous ay dit de sa mort si vous diray cy aprés comment il envoia par escript a son maistre Aristote une partie des aventures qu’il eut en Ynde et des merveillez qu’il y vit <lb/>S’ensieut la seconde partie de ce livre qui est des merveillez d’Ynde.</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="kbr_11104-05"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Bruxelles</settlement>
+                <repository>Bibl. royale de Belgique</repository>
+                <idno>11104-05</idno>
+              </msIdentifier>
+              <msContents>
+                <p>traduction française anonyme de l’<title>Epitome</title> de <persName type="ancien">Julius Valerius</persName> : table des chapitres f. 1-9, f. 9v blanc, texte f. 10-65v ; traduction française anonyme de l’<title>Epistola Alexandri ad Aristotelem</title> f. 66-90v [titre :
+                  <title type="ancien">Cy commence la table de la seconde partie de ce livre qui est des merveillez que eut Alexandre en Ynde</title> f. 6v].</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>90 f. parch.</p>
+                </objectDesc>
+                <decoDesc>
+                  <p>Illustration : 2 miniatures des 3/4 de la justification en tête de chacun des deux textes réalisées par des successeurs de <persName role="illustrateur">Guillaume Vrelant</persName> (f. 10 et 66)</p>
+                </decoDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1445" notAfter="1465">Bruges, c . 1450-1460 (proche du ms Bruxelles, Bibl. royale, IV. 467, f. 1, f. 8 [1470], F. Masai et M. Wittek (dir.),<title>Manuscrits datés conservés en Belgique : 1461-1480</title>, Bruxelles-Gand, 1982, t. IV, pl. 838)</origin>
+                <provenance><p>Possesseurs : <persName role="possesseur" key="Philippe de Croÿ, comte de Chimay">Philippe de Croÿ, comte de Chimay</persName> (armoiries f. 10) († 1482) ; <persName role="possesseur" key="Charles de Croÿ">Charles de Croÿ</persName> († 1527) (ex libris f. 90v : <quote>« C’est le livre du roy Alixandre ou yl y a deux histoires, lequel est a monseigneur Charles de Croÿ, comte de Chimay <hi rend="i">[signé]</hi> Charles »</quote>) ; <persName role="possesseur" key="Marguerite d’Autriche">Marguerite d’Autriche</persName> (acquis en 1511) ; <persName role="possesseur" key="Marie de Hongrie">Marie de Hongrie</persName> (passe en 1530 ; ex libris à l’intérieur du plat antérieur de la relieur) ; <orgName role="possesseur" key="Bourgogne, bibliothèque de">bibliothèque de Bourgogne</orgName> (1559)</p></provenance>
+              </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
+                <listBibl>
+                  <bibl>M. Debae, <title>La bibliothèque de Marguerite d’Autriche, essai de reconstitution d’après l’inventaire de 1523-1524</title>, Louvain-Paris, 1995, p. 168-169, n° 104, pl. 43</bibl>
+                  <bibl>M. Smeyers, <title>L’art de la miniature flamande du VIIIe au XVIe siècle</title>, trad. M. Verboomen, Tournai, 1998, p. 328 et 333</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
