@@ -1,0 +1,1255 @@
+<?xml-model href="../../teibook/teibook.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../../teipub/xsl/tei2html.xsl"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title type="main">Enéide, introduction à l’édition</title>
+        <editor>Lucien Dugaz</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École des chartes</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>École des chartes</publisher>
+        <date when="2023"/>
+        <pubPlace>Paris</pubPlace>
+        <availability status="restricted">
+          <licence target="creativecommons.org/licenses/by-nc-nd/3.0/fr/"/>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="chapitre">
+          <citeData use="head[1]" property="dc:title"/>
+        </citeStructure>
+      </refsDecl>
+    </encodingDesc>
+    <profileDesc>
+      <creation>
+        <date when="2021"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div>
+        <head>1. Introduction</head>
+        <quote>
+          <l>En ce quartier Enee ediffia</l>
+          <l>Aprés sa fuyte et son long navigage</l>
+          <l>La neufve Troye et en fin deffïa</l>
+          <l>Le duc Turnus, homme de fier couraige,</l>
+          <l>Car bien cuyda avoir en marïage</l>
+          <l>Lavinie, fille du roy Latin,</l>
+          <l>Mais vaincu fut et perdit son butin</l>
+          <l>Par les Troyens et fatalle ordonnance,</l>
+          <l>Desquelz Romme eut sa premiere naissance.</l>
+          <bibl><title>Séjour d’Honneur</title>, éd. Duval 2002, 300.</bibl>
+        </quote>
+        <p>La première <hi rend="i">Énéide</hi> en français a très longtemps été méprisée, taxée de « vrai massacre », de  « première ébauche du Virgile travesti » (Guy 1910, 153), de « traduction prolixe et négligée » (Molinier 1910, 237), de « sous-littérature » destinée à la propagande (Scollen 1977), réalisée en vers « exécrables » qui ne sont que « la marque du bel esprit » (Zink 2004, 332) : les jugements n’ont jamais été assez durs contre ce texte. « Quand il ne nous attendrit pas, Saint-Gelais nous endort par le rythme un peu mou et inconsistant de ses vers. Il n’y a pas de saillie, pas de relief dans l’agencement des mots, et aussi pas de couleur. Tout est en demi-teinte, images, comme récit. Certaines dissonances, chevilles, mots trop prosaïques, ou qui nous paraissent tels, témoignent du manque de goût du traducteur et de l’indulgence des lecteurs. » (Hulubei 1931, 28-29).</p>
+        <p>Sans doute ce mépris continu a-t-il nui à la connaissance d’un texte fondamental pour l’histoire littéraire, non seulement parce qu’il s’agit de la première traduction complète de l’Énéide en langue française, mais encore parce qu’il est l’œuvre d’un poète majeur de son temps, et qui écrit pour un milieu curial en pleine ébullition dans sa récente découverte et conquête de l’Italie. Pourtant, après quelque cinquante ans de succès posthume dont témoignent les six éditions imprimées du texte jusqu’en 1548, le texte de Saint-Gelais est tombé dans l’oubli. En 1987, Thomas Brückner a donné une édition du chant VI assortie d’une ample étude codicologique et littéraire. Il y pointait les faiblesses de deux travaux pionniers qui reprochaient à Saint-Gelais des défauts imputables en réalité à son remanieur Jean d’Ivry, dont Vérard imprima l’Énéide en 1510 (Mohr 1911 et Cooper 1961). Enfin, nous avons édité les deux premiers chants du texte (Dugaz 2015).</p>
+        <p>En dépit de ces lacunes philologiques, quelques critiques ont considéré et apprécié l’œuvre de Saint-Gelais, au premier rang desquels Jean-Claude Mühlethaler qui est plusieurs fois revenu sur cette première <hi rend="i">Énéide</hi> française. Il a dirigé un mémoire de master (Festeau 2013) consacré aux rencontres royales et aux rencontres divines que fait Énée dans la traduction de Saint-Gelais. D’autres spécialistes ont également travaillé sur le texte au moment d’étudier la langue de Saint-Gelais (Lemaire 1978, Slerca 1997, Duval 2001) ou l’influence qu’il a exercée sur les poètes de la génération suivante (Scollen-Jimack 1982, Provini 2020 et 2022). Jacques Monfrin (1985) avait également pris en considération la traduction de Saint-Gelais dans ses travaux sur Virgile au Moyen Âge, notamment pour s’interroger sur un lien possible entre notre texte et le Livre des Eneÿdes anonyme imprimé à Lyon en 1483. En effet, il avait prouvé sur ce dernier l’influence d’un <hi rend="i">Livre de Didon</hi> aujourd’hui perdu et composé vers 1460 dans la France de l’Ouest, peut-être même à Angoulême. L'édition en cours du Livre des Eneÿdes par Giuliano Rossi jettera sans aucun doute une lumière nouvelle sur ce dossier.</p>
+        <p>Pour autant, il manquait encore une édition complète de cette traduction qui puisse rendre justice au travail de l’évêque d’Angoulême. Nous espérons, avec ce travail en ligne, combler cette lacune et rendre Saint-Gelais à ses lecteurs.</p>
+        <div>
+          <head>1.1. Contexte de traduction</head>
+          <p>Lorsqu’il achève la traduction de l’Eneide en avril 1500, Saint-Gelais achève sa cinquième année comme évêque d’Angoulême. Après avoir chanté les louanges de son protecteur Charles VIII dans une longue complainte funèbre en 1498 (Dugaz à paraître c), le poète tentait de regagner les faveurs de la nouvelle cour de Louis XII. Le retour du souverain d’Italie en avril 1500, après la capture de Ludovic Sforza, évoquée dans le prologue de la traduction, semblait être une occasion idéale pour lui remettre une Énéide en décasyllabes français, qu’elle ait été une initiative personnelle de l’auteur ou une commande de Louis XII.</p>
+          <p>Quoique en termes assez durs, Christine Scollen (1977) a justement résumé les motivations qui ont pu pousser Octovien de Saint-Gelais à traduire Virgile en français en 1500. Non sans avoir insisté sur le manque d’intérêt littéraire du texte, qu’elle recommande de lire comme un servile poème de circonstance, Scollen a exposé les faits suivants, dont nous reprenons la trame. Après avoir traduit Ovide vers 1497 par effet de mode (parce que l’élégie trouvait un public curial, et sans doute aussi pour flatter la jeune veuve Louise de Savoie), Saint-Gelais choisit Virgile pour au moins trois raisons :</p>
+          <p>1. Virgile jouit d’une immense popularité au Moyen Âge, et l’Énéide est l’incarnation du stilus grandiloquus enseigné à l’université. Saint-Gelais, dans son prologue, parle de Virgile comme « poethe rommain le plus loué de tous latins », et au sujet de son Énéide décrit un « hault stille et matiere eloquente », un « latin hault et insigne », un « fertil pourpris » d’où il entend « tyrer grains et substance » après avoir autrefois « pris alyment et nourriture du laict d’icelle ». L’innutrition à la source virgilienne est dès lors garante d’un enrichissement culturel de la langue française et de sa littérature. Virgile est en outre un sujet d’étude, c’est avec lui que l’on apprend la lecture : à cet égard, on comprend mieux la stratégie des imprimeurs du texte qui, à partir de 1514, placent en tête de leurs éditions des bois gravés représentant des scènes d’enseignement.</p>
+          <p>2. Le mythe des origines troyennes du royaume de France gagne un succès certain à partir du <hi rend="i">Compendium de origine et gestis Francorum</hi> de Robert Gaguin, imprimé à Paris en 1495. Cette filiation légendaire est revendiquée par Saint-Gelais dans le prologue : « dont avez acquis tiltre meritoyre de loz immortel, plus qu’oncques mais les Scypiades, les Fabrices ne les Camilles, transcendant la proclamee louange de tous regnans qui oncques furent ».</p>
+          <p>3. Enfin, il s’agissait de répondre à la volonté royale d’une « vast and powerful propaganda machine » (Scollen 1977, 257), qui sache répondre au besoin de l’« exemple de patriotisme que nous donnent les héros troyens » (Hulubei 1931, 27). En cela, pour Scollen, l’Énéide est à ranger dans une « sub-literature » aux côtés du Voyage de Gênes et du Voyage de Venise de Jean Marot, des histoires du règne de Louis XII de Jean d’Auton, Claude de Seyssel et Jean de Saint-Gelais (le frère d’Octovien) et de poèmes de circonstance (voir aussi Beard 1969). Le projet politique de la traduction de l’Énéide est une double exaltation : celle du retour triomphal de de la campagne de Milan, et celle de la capture de Ludovic Sforza, à laquelle Saint-Gelais fait explicitement référence dans son prologue : « et tant voulustes et loing acroistre voz dignes faitz que au premier an de vostre regne fut par vous recouvert vostre ancien dommaine et heritage ultramontain, qui si longs ans fut occuppé par desloyaux usurpateurs, et fut captif et par vous pris vostre adversaire, et l’ennemy qui tant de jours causa ennuy, perte et dommage à voz valeurs, et la personne de celuy ores tenez et possedez à la grande exaltation et gloyre de vostre nom, et au vitupere*, obprobre et honteux scandale de luy et de sa secte ». Pour ce faire, on peut déguiser Louis XII en Énée, Ludovic Sforza en Turnus... et nul doute que la cour s’amusait de ce genre de parallélisme (voir Dugaz 2022, Festeau 2013, 44, Mühlethaler 2016, 254), faisant sienne l’assertion de Saint-Gelais dans son prologue : « celle matiere et tel propoz me sembla lors assez conforme au temps moderne, voire, et aux choses qui ores sont ». La date de confection du manuscrit de dédicace, le 27 avril 1500, indique assez l’extrême actualité du texte remis à Louis XII, car Sforza a été capturé le 10 du même mois. Le manuscrit pourrait aussi constituer un cadeau remis au souverain pour l’anniversaire de son couronnement le 7 avril 1498, Saint-Gelais insistant sur la durée du règne dans le prologue : « toutes telles choses par meintesfois à memoire reduisant despuis les deux annees escheues qu’il plust à Celuy-là qui biens depart où il luy plaist vous eslever à si hault tiltre comme heritier et successeur vray et condigne ». Pour Maulde La Clavière au contraire, la motivation du poète est toute personnelle : il ne s’agit guère que d’une tentative de retrouver grâce aux yeux de la nouvelle cour, après la mort du bienfaiteur Charles VIII en 1498 : « La courtisanerie naturelle à l’égard du nouveau roi, auquel il attribue (comme à son prédécesseur) tous les exploits et toutes les vertus, trahit de l’amertume » (1895, 126).</p>
+          <p>On pourrait tenter de concilier toutes ces positions en faisant de l’Énéide un miroir aux princes. En 1895 déjà, René Maulde La Clavière en avait eu l’intuition, estimant que Saint-Gelais offrait à Louis XII « un miroir acceptable de ses hauts faits » (1895, 126). En 1987, Thomas Brückner tempérait : « la traduction de l’Énéide offrait certes au roi de France une sorte de miroir qui lui montrait l’étendue de son pouvoir et sa place dans l’histoire du monde. Mais le simple calcul d’obtenir un avantage personnel avec la version française n’aurait pas donné suffisamment de persévérance pour accomplir la tâche de traduction. L’admiration et la vénération du poète augustéen ont sans doute été les principaux moteurs de cette entreprise<note resp="editor">Die Übersetzung der Aeneis bot dem französischen König zwar gleichsam einen Spiegel dar, der ihm seine Machtfülle und seinen R- ang in der Weltgeschichte vor Augen führte. Das bloße Kalkül jedoch, mit der französischen Version persönlichen Nutzen zu er-langen, hätte zur Bewältigung der übersetzerischen Aufgabe kaum genügend Ausdauer gegeben. Der wesentliche Antrieb dürften viel-mehr Bewunderung und Verehrung des augusteischen Dichters ge-wesen sein. 141</note> » (1987, 141, nous traduisons). Cette métaphore du miroir pose la question de l’utilité sociale d’une traduction de Virgile, comme cela a déjà été souligné par Valerie Worth-Stylianou : « three translators - the author of the 1483 remaniement, Octovien and Hélisenne - all hold the epic up as a mirror to the aspirations of their own society. According to the 1483 prologue, the exemplarity will function on both a very practical level (e.g. instructing citizens on how to withstand a siege) and a moral one » (2013, 126), et de citer le prologue du Livre des Eneÿdes anonyme de 1483 : « et est ledit livre au temps present fort necessaire pour instruire petis et grans pour chascun en son droit garder et deffendre » (a2r). C’est aussi la métaphore que file Jean-Claude Mühlethaler : « le translateur invite le roi à découvrir le roi à découvrir dans les faits et gestes d’Énée le reflet et l’annonce de ses propres exploits en Italie, qui s’en trouvent ainsi légitimés », mais en vérité « Rome, loin de représenter un modèle, se réduit à un élément de comparaison, à un miroir où se révèle l’écrasante supériorité du présent sur le passé » (2016, 240). Ce miroir est sans doute déformant, grossissant le poème de Virgile pour exalter Louis XII, dans ce que Mühlethaler appelle le « bruissement de la gloire ». Ainsi par exemple, l’amplificatio de IV, 230-234 (Mühlethaler 2016, 249), exagère le statut de Saint-Gelais pour qui « le nom et le renom de Virgile servent de caution [...] et trahissent son désir de voir la gloire de l’auctoritas rejaillir sur lui-même. » Déformant le texte de Virgile, « la translation permet, au poète autant qu’au prince, de se l’approprier : le premier d’un point de vue esthétique, le second d’un point de vue politique » (2016, 257). On voit que des considérations esthétiques et politiques sont conjointement à l’oeuvre dans cette traduction de Virgile. Comme le souligne Anneliese Pollock Renck, la courtisanerie et la poésie ne sont pas inconciliables : « it is my argument that Saint-Gelais’ desire to pay homage to the Latin poet and the savvy political positioning of a court writer are not mutually exclusive » (2013, 105).</p>
+          <p>La critique a eu tendance, en cherchant à réduire ce texte à une œuvre de courtisan plus ou moins servile, à masquer la valeur poétique du texte. Pourtant, comme le rappelle Jean-Claude Mühlethaler, « la poésie et la mythologie participent, aux yeux d’Octovien de Saint-Gelais, du mode de la célébration, le seul digne de son destinataire royal. Pour l’humaniste, ils représentent aussi un défi poétique et linguistique » (2016, 242). Gageons que cette première édition complète du texte permettra aux lecteurs d’apprécier la poésie derrière la circonstance.</p>
+        </div>
+        <div>
+          <head>1.2. Méthode de traduction</head>
+          <p>Une étude est à mener pour compléter les pages de Thomas Brückner consacrées à la méthode de traduction d’Octovien de Saint-Gelais face au long poème de Virgile (1987, 142-213). Il est évident de prime abord que le volume du texte augmente dans une proportion d’environ 2,5, passant de 9896 hexamètres latins à 24108 décasyllabes français. Ce changement de proportions n’est pas uniquement dû à la typologie synthétique du latin et analytique du français : il est évident que, en dépit d’une fidélité « de mot à mot et au plus pres » revendiquée dans le prologue, Saint-Gelais se réservait le droit d’ajouter ou de retrancher quelques vers au fil de son texte. Ce procédé, assez insensible à première lecture tant le déroulé diégétique de l’Énéide est scrupuleusement observé, ne peut s’apprécier que dans les détails. Nous donnerons ici quelques exemples d’ajouts, de suppressions, de modifications et enfin d’erreurs dans le passage du latin au moyen français.</p>
+          <div>
+            <head>1.2.1. Ajouts</head>
+            <div>
+              <head>1.2.1.1. Servius</head>
+              <p>Nombre d’ajouts au latin dans la traduction de Saint-Gelais sont en réalité dictés par les <hi rend="i">Commentaires</hi> de Servius, que le poète a abondamment utilisés en les intégrant directement dans sa traduction (par ex. Brückner 1987, p. 123-130, relève 59 dettes envers Servius dans le seul chant VI<note resp="editor">Brückner avance aussi l’hypothèse d’une influence du commentaire de Jodocus Badius Ascensius</note>). Voyez ainsi par exemple, dès l’orée du premier chant (I, 1-6) :</p>
+              <list>
+                <item>Arma uirumque cano (per ‘arma’ autem <hi rend="u">bellum</hi> significat, et est tropus metonymia) &gt; Les <hi rend="u">batailles</hi> et armes qui s’y feirent</item>
+                <item>Inferretque deos (‘deos’ vero utrum <hi rend="u">penates</hi>, ut talibus attonitus visis et voce deorum, an se et Ascanium et posteros suos, de quibus dictum est dis genite et geniture deos ?) &gt; Et qu’il logea ses <hi rend="u">penates</hi> troyens</item>
+                <item>...genus unde Latinum (novimus quod victi victorum nomen accipiunt. potuit ergo victore Aenea perire <hi rend="u">nomen Latinum</hi>. sed volens sibi favorem Latii conciliare nomen Latinum non solum illis non sustulit, sed etiam Troianis inposuit) &gt; Dont print allors origine et nescence / Le nom latin</item>
+              </list>
+              <p>Voici quelques autres exemples glanés au fil du texte :</p>
+              <list>
+                <item>(I, 292) cana Fides et Vesta Remo (Vesta vero pro <hi rend="u">religione</hi>) &gt; chanue Foy avec <hi rend="u">Religion</hi></item>
+                <item>(III, 286) <hi rend="strong">magni gestamen abantis</hi> (paenultima habet accentum et hunc Abantem intellegamus occisum cum Androgeo apud Troiam) &gt; Du Grec Abbas, qui à Troye vaincu / Fut et tué au le jeune Androgee</item>
+                <item>(V, 32) Haec ubi dicta, petunt portus et uela secundi / intendunt Zephyri ; fertur cita gurgite classis, / et tandem laeti notae aduertuntur harenae (notae harenae, ad notam harenam. et utrum « notae » dulci ? an quia iam ibi fuerant ? ut « vix e conspectu <hi rend="u">Siculae</hi> telluris in altum ») &gt; Quant il eut dit et parolle finie, /Tout droit tirent au port <hi rend="u">de Sycanye</hi>. / Les doulx zephires leur donnerent secours, / Dont tost y furent assés de legier cours, / Et enfin vindrent, aprés diverse peine, / Joyeulx et aises en la cognue areine.</item>
+                <item>(V, 298) quorum alter Acarnan (<hi rend="strong">acarnan</hi> <hi rend="u">Epirota</hi>: Acarnania enim est pars Epiri) &gt; L’ung <hi rend="u">Epirothe</hi> estoit par sa lignee.</item>
+                <item>(VII, 565) <hi rend="strong">amsancti valles</hi> (loci amsancti, id est omni parte sancti : quem dicit et silvis cinctum et fragoso fluvio torrente) &gt; Aulcuns l’apellent les Valees ensainctes, / Car circuyt est il de choses meintes,</item>
+                <item>(VIII, 157) <hi rend="strong">hesionae visentem regna sororis</hi> (ut diximus supra Hercules eversa Troia Hesionam, Laomedontis filiam, Telamoni suo comiti dedit, ex qua natus est Teucer) &gt; Pour voir sa seur Hesyone lors dame / De ce paÿs et de Thelamon femme</item>
+                <item>(VIII, 698) <hi rend="strong">latrator anubis</hi> (quia capite canino pingitur, hunc volunt esse Mercurium, ideo quia nihil est cane sagacius. bello autem Gigantum plures deos ferarum formas accepisse traditur) &gt; Et mays aussy celuy latrant Mercure</item>
+                <item>(VIII, 728) <hi rend="strong">araxes</hi> (hic fluvius Armeniae, quem pontibus nisus est Xerxes conscendere. cui Alexander Magnus pontem fecit, quem fluminis incrementa ruperunt. postea Augustus firmiore ponte eum ligavit, unde ad Augusti gloriam dixit pontem indignatus Araxes) &gt; Et Araxés au marges non petites, / Monlt indigne du pont que sus feist faire / Le roy Xerssés pour mener son affaire.</item>
+                <item>(XI, 405) <hi rend="strong">retro fugit avfidus undas</hi> (quod est contrarium. Aufidus autem Apuliae fluvius est, iuxta Canusium civitatem cadens in Adriaticum pelagus) &gt; Et que le fleuve d’Aufide qui s’assemble / En Apulye par meates obliques / Se fust retraict es mers Adriatiquez</item>
+                <item>(XI, 519) <hi rend="strong">tiburtique manus</hi> (Catillus et Coras) &gt; Sy feront certes Catillus et Coras, / Ducz tyburtins desquieulx la charge auras</item>
+                <item>(XII, 715) Sila mons silva est Lucaniae  &gt; Dedans Syla le mont de Lucanye</item>
+              </list>
+              <p>Comme le note Brückner toutefois, « un coup d’œil sur le texte de Servius lui-même montre que la grande majorité des explications n’a pas exercé d’influence visible sur le texte français. Les imprécisions et les erreurs de traduction confirment cette constatation. L’usage qu’Octovien fait du commentaire laisse plutôt penser à un besoin d’information rapide, et non à une ambition philologique détaillée.<note resp="editor">Ebenso jedoch verdeutlicht ein Blick in den Servius-Text selbst, daß der weitaus größte Teil der Erläuterungen keinen erkennbaren Ein-fluß auf den französischen Text ausübte. Ungenauigkeiten und Feh-ler in der Übersetzung bestätigen diesen Befund. Octoviens Ge-brauch des Kommentars läßt am ehesten auf ein schnelles Informa-tionsbedürfnis schließen, kaum auf philologischen Detail-Ehrgeiz</note> » (1987, 128)</p>
+              <p>D’ailleurs, l’auteur s’autorise parfois des gloses comme autant de chevilles qui souvent assurent la rime, et qui ne sont pas motivées par Servius :</p>
+              <list>
+                <item>(I, 226) et Libya defixit lumina regnis &gt; Gecta son oeil et regard moderé / Droit sus Libye qui est paÿs d’Affrique.</item>
+                <item>(IV, 506) intenditque locum sertis et fronde coronat funerea &gt; Garnist la place de chapeaulx et florettes / Et feist saincture de fleurs et violletes / Autour la pire</item>
+                <item>(X, 465) audiit Alcides iuuenem &gt; Bien entendit Alcidés la parolle / Du juvencel qui pourtant fut frivolle.</item>
+                <item>(VI, 848) vivos ducent de marmore vultus &gt; Sy bien sçauront de mabre et de porphire / Divers visaiges insculper et confire / Que en les voyant ung chacum jugeroit / Que playne vye ce corps pierreux aroyt.</item>
+              </list>
+              <p>En outre, il n’est pas toujours aisé de déterminer ce qui, du commentaire de Servius ou de la culture personnelle de Saint-Gelais, a motivé un ajout, comme on peut le voir dans cette longue interpolation :</p>
+              <list>
+                <item>(I, 28) manet alta mente repostum [...] rapti Ganymedis honores (Troi, regis Troianorum, filii. ’honores’ autem dixit vel propter ministerium poculorum, quod exhibuit diis remota Hebe, Iunonis filia, vel quod inter sidera conlocatus aquarii nomen accepit. ergo irascitur Iuno quod non ob hoc tantum raptus sit, ut pocula ministraret, sed quod ideo violatus sit, ut divinos honores consequeretur)  &gt; Bien sceut aussy reduyre en son courage / L’auctorité, le tiltre et l’avantage / Que Jupiter à Ganimedes feist / Lors quant Hebbé, sa fille, cil defeist / Et luy ousta son premerain office / Pour le bailler à juvenceau sy nyce.</item>
+              </list>
+            </div>
+            <div>
+              <head>1.2.1.2. Le « bruissement de la gloire »</head>
+              <p>Certains ajouts qui ne trouvent pas de correspondance chez Servius ou de justification du seul point de vue métrique présentent un intérêt certain du point de vue littéraire. Nombre d’ajouts, déjà soulignés par la critique, sont dus au projet politique de la traduction de l’Énéide, à ce que Mühlethaler appelle le « bruissement de la gloire » (2016, 251, voir aussi Brückner 1987, 175). Ainsi plusieurs passages extrapolés par rapport à Virgile et commentés par le critique :</p>
+              <list>
+                <item>(I, 8) Musa, mihi causas memora, quo numine laeso / quidue dolens regina deum tot uoluere casus / insignem pietate uirum, / tot adire labores / impulerit ? &gt; O doncques, Muse, humblement te suplye / Que ton sçavoir maintenant me desplye : / Qui fut la cause ne d’où vint le motif / Pour quoy Juno eust cueur tant ententif / Persecuter homme si tresnotable / Et de pitié si fort recommandable, / Ne qui la meut tieulx labeurs preparer / A homme <hi rend="u">juste</hi> et armes luy parer ? (Mühlethaler 2016, 244 : l’adjectif juste pourrait être une référence au « rex iustus », syntagme très utilisé pour opposer Louis XII aux princes tyranniques comme Louis XI et Ludovic Sforza (voir aussi Le Fur 2010, 126-138).</item>
+                <item>(I, 697) cum uenit, aulaeis iam se regina superbis / aurea composuit sponda mediamque locauit, / iam pater Aeneas et iam Troiana iuuentus / conueniunt &gt; Là fut receu, et ja la royne estoit / En hault assize et bien se presentoit / Soubz pavillons et riches couvertures / D’or et de porpre et de mainctes tainctures. <hi rend="u">Ja fut le syege de triumphal honneur / Faict pour Enee comme chief gouverneur</hi>, / Et puys aprés la troyenne jeunesse, / Fut colloquee scelon son aynëesse (Mühlethaler 2016, 245 : deux vers qui font d’Énée un roi sur son trône, pour accentuer le parallélisme avec Louis XII).</item>
+              </list>
+              <p>Pour autant, une autre lecture, esquissée dans Dugaz (2022) et qui doit être confirmée par de plus amples sondages, invite à penser que Saint-Gelais, malgré l’entreprise de glorification des campagnes d’Italie affichée par le choix de l’<hi rend="i">Énéide</hi> et requise par le lecteur royal, s’opposait au conflit et le laissait entendre par de discrets signaux textuels. La tonalité générale qui se dégage de quelques extraits choisis va dans ce sens (nous soulignons les ajouts) :</p>
+              <list>
+                <item>(I, 204) Per uarios casus, per tot discrimina rerum / tendimus in Latium &gt; Par cas divers, <hi rend="u">en grant merancolie</hi>, / Nous pretendons tyrer en Ytalye.</item>
+                <item>(XI, 293) ast armis concurrant arma cauete &gt; Et gardés bien surtout, <hi rend="u">tant que craignés, / Que plus à guerre ne vous embesoingnés</hi> / Ne que par armes ja ne leur courez sus, / <hi rend="u">Car trop enfin y seriez deceux.</hi></item>
+                <item>(X, 465) magnumque sub imo / corde premit gemitum lacrimasque effundit inanis &gt; Et monlt feist deul allors et lermes vaynes, / <hi rend="u">Bien congnoyssant à ce perdre ses paynes, / Car le fatal empeschoyt le pouvoyr / De bon remyde ou secours le pourvoyr.</hi></item>
+                <item>(VI, 794) super et Garamantas et Indos / proferet imperium &gt; Cil estandra son empire et son sceptre / Jusques aux Indes et si sera le maistre / Des Garamantes <hi rend="u">en doulce paix, sans guerre</hi>.</item>
+                <item>On voit enfin se dessiner, comme le suggère Marine Molins (2012, 3<note resp="editor">« Quand on l’examine de plus près, la traduction d’Octovien introduit quelques modifications par rapport au texte original, qui laissent deviner une évolution des goûts en faveur de Virgile : sous la plume d’Octovien, l’histoire d’amour tragique glisse insensiblement vers l’idylle et ses scènes plus tendres ou plus pathétiques. ».</note>), des accents plus délibérément pathétiques dans l’histoire avec Didon :</item>
+                <item>(IV, 261-264) Atque illli stellatus iaspide fulua / ensis erat Tyrioque ardebat murice laena / demissa ex umeris, diues quae munera Dido / fecerat, et tenui telas discreuerat auro. &gt; D’ung riche jaspe decoree et empraincte, / Sa vesture fut porprine et vermeille, / Brochee d’or precieux à merveille, / Qui des espaulles jusqu’au bas luy pendoyt, / <hi rend="u">Dont advenant et plus beau le rendoyt</hi>. / Sy luy avoit celle robbe donnee / <hi rend="u">La folle et simple</hi> Dido <hi rend="u">trop malmenee</hi> ; / Ouvree et faicte l’avoyt de ses deux mains, / <hi rend="u">Dont par aprés gecta des regretz meintz</hi>.</item>
+                <item>(IV, 648) notumque cubile &gt; et le cogneu cubile / Où maintesfois la meschante et la vile / Avoit au luy amoureux plaisirs pris</item>
+              </list>
+              <p>Là encore, certaines modifications sont d’interprétation délicate :</p>
+              <list>
+                <item>I, 247 : Hic [Antenor] tamen ille urbem <hi rend="u">Pataui</hi> sedesque locauit / Teucrorum &gt; Là batist il en bienheureuse vie / Noble cyté qu’on appelle <hi rend="u">Pavye</hi>, / Là choisist il ses sieges de repos.</item>
+              </list>
+              <p>La traduction de « Pataui » (Padoue) par Pavie est-elle une mauvaise compréhension de Saint-Gelais, une variante de son modèle latin ou bien un hommage à l’étape de Charles VIII en octobre 1494 ? On le voit, la prudence est de mise dans l’interprétation de toute divergence entre Virgile et Saint-Gelais, et il faudrait de plus amples comparaisons entre le modèle et la traduction pour confirmer ces quelques hypothèses exégétiques.</p>
+            </div>
+          </div>
+          <div>
+            <head>1.2.2. Suppressions</head>
+            <p>Comme pour les ajouts, face à une tradition textuelle faite de blancs et de lacunes, il n’est pas toujours évident d’attribuer au seul Saint-Gelais des omissions délibérées. En voici trois exemples<note resp="editor">On trouvera chez Brückner la liste exhaustive des 901 omissions du livre VI (1987, 150-159). Octovien omet trois hexamètres entiers : VI, 68, 80, 723, voir Brückner 1987 p. 165-168. Brückner note aussi l’omission de IV, 26 « pallentis umbras Erebo noctemque profundam » et V, 798 « si dant ea moenia Parcae » (166 note 189).</note>. Si la première omission peut être motivée moralement, rien ne semble expliquer les deux suivantes sinon une absence dans le modèle ou un oubli du poète (nous soulignons le texte latin omis) :</p>
+            <list>
+              <item>(X, 324) Tu quoque, flauentem prima lanugine malas / dum sequeris Clytium infelix, noua gaudia, Cydon, /  [...], <hi rend="u">securus amorum / qui iuuenum tibi semper erant</hi> &gt; Et tu Cydon, allors que tu suyvoyes / Le tyen Clycye par amoureuses voyes / Qui tant fut bel, gracieux et benigne, / Qui n’eut encore que tendre lanugine...</item>
+              <item>(X, 194) ingentem remis Centaurum promouet : Filius, aequalis comitatus classe cateruas, / ingentem remis Centaurum promouet : <hi rend="u">ille / instat aquae saxumque undis immane minatur / arduos et longa sulcat maria alta carina</hi> &gt; Allors doncques fut en ceste mesgnye / Son filz Cupave menant grant compaygnye, / Mer traverssoyt, avec vent et grant aure, / En une nef portraicte d’ung centaure.</item>
+              <item>(IV, 255-258) Haud aliter terras inter caelumque uolabat / litus harenosum ad Libyae, uentosque secabat / <hi rend="u">materno ueniens ab auo Cyllenia proles</hi> &gt; Ainsy faysoyt Mercure lors sans faille, / Qui entre ciel et la terre volloyt / Et entre vens au port libyque alloyt.</item>
+            </list>
+          </div>
+          <div>
+            <head>1.2.3. Modifications</head>
+            <p>Si l’on reprend la typologie de modifications proposée par Brückner 1987, quatre motivations au moins semblent à l’œuvre dans le projet de traduction entrepris par Saint-Gelais, sensibles dans les interpolations ou le lexique utilisé.</p>
+            <div>
+              <head>1.2.3.1 Christianisation du paganisme latin</head>
+              <div>
+                <head>1. Les âmes purifiées au purgatoire</head>
+                <list>
+                  <item>(VI 739-743) ergo exercentur poenis ueterumque malorum / supplicia expendunt : aliae panduntur inanes / suspensae ad uentos ; aliis sub gurgite uasto / infectum eluitur scelus aut exuritur igni ; / quisque suos patimur manis.  &gt; Les unes sont de repos suspendues / Et à la veue commune au vent pendues, / Les aulcunes en fleuves et ryvieres / Lavent leurs vices et leurs faultes premieres / Et les aultres, selon cas meritoyre, / Par feu tresapre sy font leur purgatoyre. / Brief, nous souffrons, chacun en son endroyt, / Selon nos faultes : c’est la rayson et droyt.</item>
+                </list>
+              </div>
+              <div>
+                <head>2. L’espoir dans l’au-delà ?</head>
+                <list>
+                  <item>(VI, 544-546) Deiphobus contra : Ne saeui magna sacerdos ; / discedam, explebo numerum reddarque tenebris. / I, decus, i, nostrum ; melioribus utere fatis &gt; Lors Deïphebe, voyant que la demeure / Desplaist à elle, luy va dire à celle heure : / « Noble prestresse, ne prans yre à mon umbre ! / J’ayme trop myeulx diminuer le nombre / Et retourner en mes tenebreux lieux / Jusques à ce que par temps j’auray myeux. / Or va, l’honneur, va, la gloire de Troye, / Heureux fatal le puyssant dieu t’ottroye ! »</item>
+                </list>
+              </div>
+              <div>
+                <head>3. La condamnation du suicide</head>
+                <list>
+                  <item>(VI, 434-436) Proxima deinde tenent maesti loca, qui sibi letum / insontes peperere manu lucemque perosi / proiecere animas  &gt; Les lieux prochains aprés sont occupés / Par ceulx qui ont leurs tristes jours couppez, / Qui par main propre à leur personne honteuse / Ont engendré mort innomminieuse / Et la lumiere du monde ont tant haÿ / Que leur corps propre ont certes envahy / Et chassé hors leurs malheureuses ames, / Dont trop meritent grans reprouches et blasmes.</item>
+                </list>
+              </div>
+              <div>
+                <head>4. Dieu et la volonté divine</head>
+                <list>
+                  <item>(I, 199) Iuppiter &gt; cil qui faict les choses de nyant ; Non pas à l’homme mais au vouloir de Dieu</item>
+                  <item>(VI, 746) purumque relinquit / aetherium sensum atque aurai simplicis ignem  &gt; Et qu’an l’ame n’est chose demeuree / Fors toute pure et le sens etheree, / Ung feu divin d’aure simple en effait / Qui rend louange à son ouvrier parfait.</item>
+                  <item>(V, 465-467) Infelix, quae tanta animum dementia cepit ? / non uiris alias conuersaque numina sentis ? / cede deo &gt; O malheureux, quelle folye a pris / Le tien couraige cuider avoir le pris / Par sus cest homme et en faire à ta guise ? / Ne voy tu pas que Dieu le favorise ? / Ne peultz tu or à cler apparcevoir / Que d’aultre force Dieu l’a vouleu pourvoir ? / Or quicte doncques et la place et le lieu, / Non pas à l’homme mais au vouloir de Dieu.</item>
+                  <item>(III, 116-117) modo Iuppiter adsit, / tertia lux classem Cretaeis sistet in oris &gt; Dieu nous sera aÿdant au besoing / Sy qu’en troys jours pourrons nous prandre terre / Dedans Crethe, sy vent ne nous faict querre !</item>
+                </list>
+              </div>
+              <div>
+                <head>5. Évocation de réalités chrétiennes</head>
+                <list>
+                  <item>(I, 292) cana Fides et Vesta &gt; Chanue Foy avec Religion</item>
+                  <item>(III, 94-96) Là vous convient, aprés voz longs voyages, / Mectre le but de voz pelerinages (sans équivalent latin)</item>
+                  <item>(IV, 211) femina errans &gt; Une femme pelerine et errante</item>
+                  <item>(IV, 383) supplicia &gt; la paine et penitance</item>
+                  <item>(IX, 407) dona &gt; doulces offrandes, / Oblations et mays rychesses grandes</item>
+                  <item>(IX, 626) sollemnia dona &gt; Oblation et offrande monlt ample</item>
+                  <item>(IV, 65) Quid uota &gt; Mays que prouffitent oblations et veultz</item>
+                </list>
+              </div>
+            </div>
+            <div>
+              <head>1.2.3.2. La figure de Fortune</head>
+              <p>Comme l’a remarqué Brückner (1987, 204), Octovien n’utilise jamais, pour traduire fata, « destin » au singulier, qui ne s’imposera qu’avec la traduction des frères Le Chevalier d’Agneaux à la fin du siècle. Comme Des Masures après lui, Saint-Gelais emploie majoritairement les substantifs « cas » (70 occurrences), « destinee » et « destinees » (3), « fortune » (134), « sort » (81) ; les adjectifs « fatal » (78), « predestiné » (5), « destiné » (3) ; les syntagmes « sort fatal » (6), « cas fatal » (3), « cas divers » (3), « fatal dispos » (6). Pour le livre VI, Fortune est parfois convoquée indépendamment du modèle virgilien (Brückner 1987, 205-207). À l’inverse, Saint-Gelais peut étayer Fortune par d’autres concepts :</p>
+              <list>
+                <item>(VI,62) Hac Troiana tenus fuerit Fortuna secuta &gt; Espoir nous guide mais malheur nous poursuit. / O s’il te plaist, la troyenne fortune, / Atant cesse sans plus estre importune.</item>
+              </list>
+            </div>
+            <div>
+              <head>1.2.3.3. Transposition médiévale des <hi rend="i">realia</hi></head>
+              <p>L’actualisation de l’hypotexte virgilien pour le rendre « conforme aux choses qui ores sont », comme l’écrit le traducteur dans son prologue, concerne aussi les enluminures du manuscrit de présentation à Louis XII (A), comme l’a déjà décrit Jean-Claude Mühlethaler (2011).</p>
+              <p>Du point de vue lexical, on trouve nombre de <hi rend="i">realia</hi> médiévales sous la plume de Saint-Gelais. On dénombre ainsi 21 « chevaliers », 23 « ducz », 18 « capitaines », 2 « barons » et 29 « souldars » dont voici quelques exemples :</p>
+              <list>
+                <item>(I, 740) proceres &gt; chevaliers et barons</item>
+                <item>(IX, 659) proceres &gt; Lors les barons et les Troyans soudars</item>
+                <item>(XII, 85) aurigae &gt; Autour d’iceulx furent pallefrinyers.</item>
+              </list>
+              <p>Pour les vêtements, Brückner (1987, 209) relève une certaine pauvreté du lexique de l’habillement, « manteau » (20) et « robe » (26), face à la richesse du lexique latin (palla, tunica, chlamys, vestis, peplum, sagulum...)</p>
+              <p>Pour les <hi rend="i">realia</hi> de la guerre, on pourra retenir :</p>
+              <list>
+                <item>(XII 922) Murali concita numquam / tormento sic saxa fremunt &gt; Sy rudement que torment ou machine / <hi rend="u">De gros canon ou bien de serpentine</hi> / N’envoye pierre contre muraille forte / Sy fierement ne de sy rude sorte</item>
+                <item>(III, 240) inuadunt socii et noua proelia temptant, / obscenas pelagi ferro foedare uolucris &gt;  Incontinant chacun des nostres sault : / Grans coups ruent <hi rend="u">et d’estoc et de taille</hi>, / Bien leur fut certes nouvelle la bataille, / Honnyr leurs glaives et leurs tranchans cousteaux / Dedans le sang de sy divers oyseaux.</item>
+              </list>
+              <p>En matière de poésie, là encore des termes médiévaux surgissent :</p>
+              <list>
+                <item>(IV, 504) at regina pyra penetrali in sede sub auras / erecta ingenti taedis atque ilice secta, / intenditque locum sertis et fronde coronat / funerea &gt; Et lors la royne, aprés que la pourprise / De boys fut faicte celon son entreprise / En lieu le plus secret de son palais, / Faisant semblant de charmes et de <hi rend="u">laiz</hi>, / Garnist la place de chapeaulx et florettes / Et feist saincture de fleurs et violletes / Autour la pire...</item>
+                <item>(I, 742) Hic canit errantem lunam [...] geminosque Triones &gt; Cestuy chantoit à voix doulce et benigne / Comment la lune parmy le ciel chemine [...] / Et des deux Urses faisoit chans et ballades.</item>
+              </list>
+              <p>Noter enfin cette innovation lexicale :</p>
+              <list>
+                <item>(II, 60) hoc ipsum ut strueret Troiamque aperiret Achiuis, obtulerat, fidens animi atque in utrumque paratus, / seu uersare dolos seu certae ocumbere morti &gt; Mais ce faisoit en seule intencion / Pour mectre certes Troye à destruction / Et pour donner à ses consors aysine / D’avoir noz vies en leurs mains et saysine. De longue main estoit ce faict empris / Dont bien vouloit le <hi rend="u">gallant</hi> estre pris.</item>
+              </list>
+            </div>
+            <div>
+              <head>1.2.3.4. Idylle</head>
+              <p>C’est pour Brückner une spécificité d’Octovien de Saint-Gelais par rapport à ses imitateurs, qui en fait un poète véritablement médiéval.</p>
+              <list>
+                <item>(VIII, 204) uallemque boues amnemque tenebant &gt; et menoyt en ses lieux / Ses grans thoreaulx pour deduyre et repaistre / En se beau val verdoyant et champestre</item>
+                <item>(V, 128) campus et apricis statio gratissima mergis &gt; Sur ce rochier y a ung champ ouvert / D’abres et fleurs delicieux et vert, / Où les oyseaux marins font leur demeure / Et y prenent leurs plaisirs à meinte heure.</item>
+              </list>
+            </div>
+          </div>
+          <div>
+            <head>1.2.4. Erreurs de traduction</head>
+            <p>Brückner 1987 a consacré quelques pages aux erreurs de traduction de Saint-Gelais (1987, 169-176). On peut aussi prendre pour exemple la scène de retrouvailles d’Énée et Anchise aux Enfers, certains critiques considérant leurs embrassades (Monlt fort l’ambrasse et doulcement le bayse) contredites par le texte latin (VI 700-703) comme des « naïvetés délicieuses » (Hulubei 1931, 28), d’autres comme une réécriture qui laisse entrevoir un Saint-Gelais habité par l’effusion des personnages (Brückner 1987, p. 211)<note resp="editor"><p>Voir aussi la restitution de sic memorans humeros dextrasque tenebat / Amborum (IX, 250) &gt; Ainsy parlant, tous deux les ambrassoyt, / De les bayser doulcemant ne cessoyt</p></note>.</p>
+            <p>D’autres erreurs portent sur des mots rares ou corrompus dans le modèle latin utilisé, créant des mots fantômes qu’il ne faudra pas retenir dans la lexicographie :</p>
+            <list>
+              <item>(VII, 763) eductum Egeraie lucis <hi rend="u">umentia</hi> circum / litora &gt; Dedans les boys de la nimphe Egerie, / Auprés des pors qu’on apelle <hi rend="u">hymecyes</hi></item>
+              <item>(VII, 716) et Ortinae <hi rend="u">classes</hi> populique Latini &gt; Autant en feirent les chevaliers ortyns, / Nommés <hi rend="u">classiques</hi>, et les peuples latyns</item>
+            </list>
+          </div>
+        </div>
+        <div>
+          <head>1.3. Le remaniement de Jean d’Ivry</head>
+          <p>Lorsque Jean d’Ivry entreprend de remanier l’<hi rend="i">Énéide</hi> de Saint-Gelais, sans doute sur commande de Vérard vers 1510, il ne semble pas animé par l’ambition de reprendre le texte-source de Virgile. La motivation est bien plutôt de rendre plus accessible un texte de Rhétoriqueur qui présente au premier chef le défaut d’abuser des latinismes. Ainsi, dans la <hi rend="i">varia lectio</hi> du chant VI qu’a donnée Brückner, on constate un certain nombre de remaniements qui vont dans ce sens (1987, 53-58) :</p>
+          <list rend="1">
+            <item>1. D’aultre cousté, sur hault rochier portraicte, / Contre la mer fut la terre de Crethe / Où fut l’amour cruelle du thoreau / Et Pasiphé <hi rend="u">suppouste</hi> à <hi rend="u">furt</hi> nouveau / Dont en issit une diverse forme, / Une lignee monstrueuse et <hi rend="u">bisforme</hi> &gt; D’aultre costé, sur roche hault pourtraicte, / Contre la mer fut la terre de Crete, / Ce fut l’amour cruelle du thoreau / Et Pasiphé <hi rend="u">supposee</hi> nouveau / Dont en issit une diverse forme, / Une lignee monstrueuse et <hi rend="u">difforme</hi>.</item>
+            <item>2. Robes <hi rend="u">pourprines</hi> sus gettent et impousent &gt; Robes <hi rend="u">pourpreez</hi> sur jectent et imposent</item>
+            <item>3. Et la <hi rend="u">faville</hi> bybule qu’ilz trouverent &gt; Et la <hi rend="u">famille</hi> bibulle qu’ilz trouverent</item>
+            <item>4. Une <hi rend="u">agne</hi> noyre, ainsin comme il affiert &gt; Ung <hi rend="u">aigneau</hi> noir ainsi comme il affiert</item>
+            <item>5. Choses <hi rend="u">absconses</hi> soubz terre et caligine &gt; Choses <hi rend="u">obscures</hi> soubz terre et caligine...</item>
+            <item>6. <hi rend="u">Hort</hi> et non digne d’estre gueres loué, / Cil gouvernoit sa petite nasselle / Au verge longue et luy ministroit voille, / Et trenspassoit en sa <hi rend="u">cymbe</hi> royllee / Mainte povre ame de son corps despoillee. &gt; <hi rend="u">Fort</hi> et non digne d’este guere loué, / Sil gouvernoit sa petite nacelle / O verge longue et luy ministroit celle / Et trespassoit en sa <hi rend="u">courbe</hi> roullee / Mainte povre ame de son corps despoullee.</item>
+            <item>7. Et sepulture louable te feront, / Sur ton <hi rend="u">tumule</hi> mettront sollempnes choses &gt; Et sepulture louable leur feront, / Sur ton <hi rend="u">tombeau</hi> ay mettans solompnes choses</item>
+          </list>
+          <p>Toutefois, comme on le voit dans les exemples 1 ou 6, le soin apporté au remaniement laisse à désirer, et en plus d’un endroit le texte est complètement dépourvu de sens. Le remanieur n’est pas systématique dans ses choix : ainsi bisforme, corrigé en 1, ne l’est pas dans ce vers qui n’a par ailleurs aucun sens : Divers Centaures et des Scylles bifformes &gt; Divers Centanres (sic) et de celles bisformes.</p>
+          <p>À cela s’ajoute la négligence de l’impression de Vérard (ex. 7), dont certaines des nombreuses coquilles seront corrigées dès l’édition de 1514. Il n’en reste pas moins que les lecteurs de la traduction imprimée ont dû se contenter d’un texte extrêmement défectueux. Sans doute Vérard n’a-t-il pas rendu justice, dans le peu de soin qu’il a apporté à son édition, au travail de Jean d’Ivry. Pour autant, il ne nous a pas semblé indispensable de donner à lire les variantes du remanieur, tant les témoins qui nous en sont parvenus sont fautifs et surchargeraient l’apparat critique de leçons dépourvues de sens.</p>
+          <p>Une autre intervention de Jean d’Ivry sur le lexique, outre la simplification des latinismes trop excentriques, a été d’effacer certains lexèmes régionaux. Nous avons étudié ceux-ci ailleurs (Dugaz à paraître b).</p>
+        </div>
+        <div>
+          <head>1.4. Influence de Saint-Gelais</head>
+          <p>On ne donnera ici que quelques indications bibliographiques sur un sujet qui méritera, grâce à l’édition de Saint-Gelais, des investigations à nouveaux frais. La traduction de Louis Des Masures (achevée en 1560) est jugée plus fidèle et moins latinisante par Brückner (1987, 163, 219-221 et 241-249 ; quelques exemples de latinismes chez Saint-Gelais remplacés par Des Masures : arces &gt; palais, furt &gt; fraude, bifforme &gt; à double forme, adite &gt; saint manoir, curres &gt; charroy...).</p>
+          <p>Au sujet de l’influence exercée par l’évêque d’Angoulême sur les livres I à IV en prose d’Hélisenne de Crenne (1541), voir Scollen-Jimack (1982), Brückner (1987, 215-218), Ehrling et Karlsson 2015, Derosiers 2017 et Lecointe 2019. Ellen Delvallée a édité le quatrième livre de cette traduction en prose (Delvallée 2015).</p>
+          <p>Michel d’Amboise a repris des vers entiers de l’<hi rend="i">Énéide</hi> de Saint-Gelais dans la septième de ses <hi rend="i">Contrepistres d’Ovide</hi> (1541), éditées par Sandra Provini (<ref target="https://irihs.huma-num.fr/amboise/contrepistres">https://irihs.huma-num.fr/amboise/contrepistres</ref> ).</p>
+          <p>Enfin, si aucun de nos sondages n’a été concluant pour prouver une influence de Saint-Gelais sur Joachim Du Bellay (qui traduisit le chant IV en 1552, un extrait du chant V (la mort de Palinure) en 1553 et le chant VI en 1560, éd. Chamard 1991), il faudrait se pencher sur la traduction des frères Le Chevalier d’Aigneaux (1582), car une enquête lexicographie dans Huguet (s.v. pinier) a révélé un emprunt exact à III, 1518 : Un hault pinier qu’en sa main il tenoit / Le conduisoyt.</p>
+        </div>
+      </div>
+      <div>
+        <head>2. Description des témoins</head>
+        <div>
+          <head>2.1. Manuscrits</head>
+          <div>
+            <head>Paris, BnF, français 861<note resp="editor">Numérisé : <ref target="https://gallica.bnf.fr/ark:/12148/btv1b8470048t/f1.planchecontact.r=fran%C3%A7ais%20861">https://gallica.bnf.fr/ark:/12148/btv1b8470048t/f1.planchecontact.r=fran%C3%A7ais%20861</ref></note> (A)</head>
+            <p rend="noindent"><hi rend="b">Contenu</hi> : Énéide (avec prologue).</p>
+            <p rend="noindent"><hi rend="b">Incipit</hi> : Aprés Sire que dure Fortune qui par les anciens fut aultrement Rhamnusie appellee... [1r]</p>
+            <p rend="noindent"><hi rend="b">Écriture</hi> : Copié au début du 16e siècle en écriture bâtarde par une seule main. </p>
+            <p rend="noindent"><hi rend="b">Explicit</hi> : Cy finist le XIIme et derrier livre de la translacion d’Eneÿdes faicte par messire Octovian de Saint Gelais evesque d’Engoulesme, le XXVIIe jour d’avril l’an mil cinq cens. [138r]</p>
+            <p rend="noindent"><hi rend="b">Format et mise en page</hi> : 46 lignes par page sur deux colonnes. 140 f. Vélin. 370x262 mm.</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : Illustration abondante due à l’école de Rouen (<emph>Les manuscrits à peintures en France du <num>xiii<hi rend="sup">e</hi></num> au <num>xvi<hi rend="sup">e</hi></num> siècle</emph> 1955, p. 167-168, qui rapproche cette décoration des deux exemplaires des Héroïdes BnF, fr. 873 et 874, voir aussi Durrieu et Marquet de Vasselot 1894, p. 7-15) : ce codex est le manuscrit de présentation à Louis XII. Treize peintures en tout (Brückner 1987, p. 80-93 pour la description) : une peinture à chaque début de chant et une scène de dédicace (2v) où l’auteur remet son livre, orné de cinq porcs-épics d’or, à Louis XII sur son trône<note resp="editor">La Curne de Sainte-Palaye estime que ce codex représenté sur l’enluminure frontispice est celui que le lecteur tient dans ses mains : « il me paroît voir sur la couverture du present manuscrit l’empreinte de cinq plaques qui semblent avoir eu la forme de porcs-épics ; et comme le velours de la couverture est pourpre, je ne doute pas que ce manuscrit ne soit le mesme que l’autheur donna au Roy » (cité par Paris 1848, t. 7, p. 32).</note>. Un chancelier lit un acte, assis au premier plan à droite. Certains membres de la cour environnante étaient sans doute des portraits que l’on pouvait identifier par une lettre sur leur couvre-chef (deux L à gauche, A, I, AB à droite)<note resp="editor">C’était déjà l’hypothèse de Paulin Paris en 1848 : « autour du Roi sont dix figures de courtisans, qui paroissent autant de portraits » (t. 7, p. 32) ; Maulde La Clavière 1895 quant à lui reconnaît dans cette scène François de Valois, Georges et Louis d’Amboise (p. 127).</note>. Armes de Louis XII sur la bordure. Initiales rehaussées de jaune ; pieds-de-mouche alternativement rouge et bleu ; titres courant « L // numéro de I à XII ».</p>
+            <p rend="noindent"><hi rend="b">Corrections</hi> : Certaines corrections, systématiques, prouvent qu’un retour au latin a été fait au moment de relire, par ex. Aruus (lat. Arruns) corrigé huit fois en Aruns dans le chant XI, tandis que le manuscrit B garde Aruus, sans doute comme dans le modèle commun aux deux manuscrits.</p>
+            <p rend="noindent"><hi rend="b">Annotations</hi> : sur le contreplat supérieur : « L’eneide de Vergile en françois », « Des livres et histoyres en françoys aux armoyres dessoubz le pulpitre de la cronicque d’angleterre » ; sur le premier feuillet de garde recto « des livres et histoyres en françoys aux armoes qia deus meus et tu hodie mecum eris in paradiso » ; f. 1r avant le prologue : « Au Treschrestien &amp; tresvictorieux Roy ».</p>
+            <p rend="noindent"><hi rend="b">Reliure</hi> : Reliure de maroquin rouge estampé à chaud : armes de France estampées à chaud sur les plats. Dos : titre estampé à chaud « ENEIDE TRANSL EN VERS ».</p>
+            <p rend="noindent"><hi rend="b">Anciennes cotes</hi> : Fontainebleau 373, Anc. 7228, 455.</p>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Brückner 1987, 31-33 ; Delisle 1868, t. 1, 123 ; Paris 1848, t. 7, 31-32.</p>
+          </div>
+          <div>
+            <head>Philadelphia, University of Pennsylvania, Ms. Codex 909<note resp="editor">Numérisé : <ref target="https://colenda.library.upenn.edu/catalog/81431-p3rn30860">https://colenda.library.upenn.edu/catalog/81431-p3rn30860</ref></note> (B)</head>
+            <p rend="noindent"><hi rend="b">Contenu</hi> : Énéide (sans prologue).</p>
+            <p rend="noindent"><hi rend="b">Incipit</hi> : ay entrepris de coucher en mes vers / Le cas de Troye qui fut mise à l’envers... [1r].</p>
+            <p rend="noindent"><hi rend="b">Explicit</hi> : L’ame piteuse aprés tous tyeulx encombres / Monlt indignee s’en alla soubz les umbres [161r].</p>
+            <p rend="noindent"><hi rend="b">Écriture</hi> : Copié au début du 16e siècle en écriture bâtarde. 3 mains (main 1 : 1r-44r ; main 2 : 44r-62v ; main 3 : 63r-161r)<note resp="editor">Voir à ce sujet https://schoenberginstitute.org/2014/12/19/ms-codex-909-le-livre-des-eneydes-a-fine-example-of-lettre-batarde/#_ftnref1</note>. </p>
+            <p rend="noindent"><hi rend="b">Format et mise en page</hi> : 40 lignes par page sur deux colonnes. 161 f. Parchemin. 370x290 (274x227) mm.</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : La décoration prévue (une peinture avant chaque chant) n’a pas été réalisée. Les copistes égayent les marges de tête et de queue de traits de plumes finissant en grotesques (par ex. f. 18c, 22c, 22d, 39c, 69a, 69b, 108d, 133a, 133c...). Les folios 75v-76v sont vides, entre les livres VI et VII : peut-être une peinture en double page était-elle prévue au milieu de l’œuvre ? Chaque initiale est rehaussée de jaune ainsi que les hampes des lettres cadelées de la main 3 dans le chant VI (f. 63v-75r). Il n’y a pas de pieds-de-mouche (mais on peut voir une préparation au f. 32c). Les rubriques n’ont pas été réalisées, à l’exception des colophons à la fin des livres VIII, IX et XI (respectivement f. 102b, 115d, 146d).</p>
+            <p rend="noindent"><hi rend="b">Corrections</hi> : La relecture a été attentive et, à cette occasion, plusieurs vers ont été ajoutés et nombre de corrections effectuées sur grattage, généralement par une autre main (38d, 39c, 41d). On remarque quelques préparations de correction en marge (36d, 38a, 42d, 94c). Pour ajouter deux vers, une paperolle a été insérée au folio 5 recto.</p>
+            <p rend="noindent"><hi rend="b">Possesseurs</hi> : Ce manuscrit a appartenu au duc de La Vallière (1708-1780), qui possédait également l’imprimé de Michel Le Noir 1514 et celui de Galliot du Pré 1529. Suite à la vente de sa bibliothèque en 1783, le manuscrit est passé successivement entre les mains de Joseph Barrois, de Lord Ashburnham, de Lucien Gougy (Sotheby’s, 1901, lot 607), de Gabriel Wells (Drouot 1936, lot 2811) avant d’être finalement acquis par la Penn Library (Parke-Bernet Galleries, 1951, lot 562).</p>
+            <p rend="noindent"><hi rend="b">Reliure</hi> : Reliure de maroquin rouge estampé à chaud. Dos : titre estampé à chaud : « L’ENEIDE DE VIRG. EN VERS F. MSS SUR VEL. DU 15. SIECL. ».</p>
+            <p rend="noindent"><hi rend="b">Anciennes cotes</hi> : La Vallière 2459, Ms. French 4.</p>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Brückner 1987, 34-37 ; Brückner 1990 ; <hi rend="i">Catalogue des livres de la bibliothèque de feu M. le duc de La Vallière</hi>, t. 2, Paris, 1783, 88<note resp="editor">2459. L’Enéide en vers François. in fol. m[aroquin] r[ouge]. Très beau Manuscrit sur vélin du commencement du XVI siecle, contenant 161 feuillets. Il est écrit en ancienne bâtarde, sur 2 colonnes. Il n’a point de miniatures. On n’y voit que les places qui leur étoient destinées, &amp; qui sont au nombre de 24. Octavien de Saint Gelais, Evêque d’Angoulême sous Charles VIII &amp; Louis XII, mort en 1502, est Auteur de cette traduction, qu’il dédia le 27 Avril de l’an 1500, à Louis XII, dont il étoit très aimé. Ses vers sont de 10 syllabes, &amp; n’observent pas l’alternative des rimes masculines et féminines.</note>, <hi rend="i">Catalogue of the Manuscripts at Ashburnham Place</hi>, Londres, t. 2, 1853-1861, 194 ; <hi rend="i">Catalogue of Manuscripts in the Libraries of the University of Pennsylvania to 1800</hi>, Philadelphie, 1965, 55 ;  Nicholas Herman, <hi rend="i">Making the Renaissance Manuscript: Discoveries from Philadelphia Libraries</hi>,  Philadelphie, 2020, 190-191.</p>
+          </div>
+          <div>
+            <head>Paris, BnF, français 866<note resp="editor">Numérisé : <ref target="https://gallica.bnf.fr/ark:/12148/btv1b9059598x/f166.planchecontact.r=fran%C3%A7ais%20866">https://gallica.bnf.fr/ark:/12148/btv1b9059598x/f166.planchecontact.r=fran%C3%A7ais%20866</ref></note> (C)</head>
+            <p rend="noindent"><hi rend="b">Contenu</hi> : Énéide (sans prologue).</p>
+            <p rend="noindent"><hi rend="b">Incipit</hi> : ay entrepris de coucher en mes vers / Le cas de Troye qui fut myse à l’envers... [1r]</p>
+            <p rend="noindent"><hi rend="b">Explicit</hi> : L’ame piteuse aprés tous tieulx encombres / Moult indignee s’en alla soubz les umbres. [158v]</p>
+            <p rend="noindent"><hi rend="b">Écriture</hi> : Copié au début du 16e siècle en écriture bâtarde par une seule main. </p>
+            <p rend="noindent"><hi rend="b">Format et mise en page</hi> : 40 lignes par page sur deux colonnes. 160 f. Vélin. 333x240 mm.</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : Décoration non réalisée. Pieds-de-mouche non réalisés mais quelques préparations (f. 41a) ; titres courant « L // numéro de I<hi rend="sup">9</hi> à XII<hi rend="sup">9</hi> ».</p>
+            <p rend="noindent"><hi rend="b">Annotations</hi> : sur le feuillet de garde verso « Traduction d’Octavien de Saint Gelais, faite en 1500 ».</p>
+            <p rend="noindent"><hi rend="b">Reliure</hi> : Reliure de veau fauve racine : chiffre de Napoléon sur le dos.</p>
+            <p rend="noindent"><hi rend="b">Anciennes cotes</hi> : Fontainebleau 600, Anc. 7229, 465.</p>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Brückner 1987, 33-34 ; Delisle 1868, t. 1, 123 ; Paris 1848, t. 7, 43.</p>
+          </div>
+          <div>
+            <head>La Haye, Königliche Bibliothek, 129 A 7 (D)<note resp="editor"><ref target="https://jonas.irht.cnrs.fr/consulter/manuscrit/detail_manuscrit.php?projet=74733">https://jonas.irht.cnrs.fr/consulter/manuscrit/detail_manuscrit.php?projet=74733</ref></note></head>
+            <p rend="noindent"><hi rend="b">Contenu</hi> : Énéide (avec prologue).</p>
+            <p rend="noindent"><hi rend="b">Incipit</hi> : Aprés, Sire, que dure Fortune, qui par les Anciens fut autrement Rhamnusie appellee, et qui par instabilité fouldroye et tonne sur sors humains... [1r]</p>
+            <p rend="noindent"><hi rend="b">Explicit</hi> : Cy finist le XIIe et derrier livre de la translacion d’Eneÿdes faicte par messire Octovian de Saint Gelais evesque d’Angoulesme le XXVIIe jour d’avril l’an mil cinq cens. [140r]</p>
+            <p rend="noindent"><hi rend="b">Écriture</hi> : Copié entre 1500 et 1504 en écriture cursive par plusieurs mains (8 d’après Brückner 1987). </p>
+            <p rend="noindent"><hi rend="b">Format et mise en page</hi> : 46 lignes par page sur deux colonnes. 140 f. Papier. 270x290 (200x265) mm.</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : Décoration non réalisée.</p>
+            <p rend="noindent"><hi rend="b">Possesseurs</hi> : Engelbert von Nassau (1451-1504) dont on lit l’ex-libris f. 1r « se cera moy Nassou » ; Henrik III von Nassau ; Georgius Haloinus (1470-1536) dont on lit la devise f. 1v « JE LE VEUX s. halewin ». D’après la notice de l’IRHT, le ms est à Paris de 1798 à 1818 (cachet rouge de la Bibliothèque nationale aux f. 1 et 140).</p>
+            <p rend="noindent"><hi rend="b">Annotations</hi> : « Quy se livre emblera / Per suam malliciam / Au gibet danné sera / Repugnando superbiam / Au gibet sera sa messon / Corem suis parrentibus / Car se sera bien resson / Exemplum dabit omnibus » (premier folio de garde recto) ; « Tant aie lu du soir au matin / Que du premier suis venu à la fin » (de la main du copiste, après l’explicit).</p>
+            <p rend="noindent"><hi rend="b">Reliure</hi> : Reliure de veau fauve racine : chiffre de Napoléon sur le dos.</p>
+            <p rend="noindent"><hi rend="b">Anciennes cotes</hi> : Fontainebleau 600, Anc. 7229, 465, La Haye Y. 117 (702)</p>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Brückner 1987, 28-31 ; Lieftinck 1964, 44.</p>
+          </div>
+        </div>
+        <div>
+          <head>2.2. Éditions imprimées</head>
+          <div>
+            <head>Antoine Vérard, Paris, VI 4 1509 (1510 n. st.), in-folio (a)</head>
+            
+            <p rend="noindent"><hi rend="b">Incipit</hi> : [a1r] Les eneydes de virgille // Translatez de latin en francois par messire octo//uian de sainct gelaiz en son viuant euesque dago//lesme Reueues &amp; cottez par maistre Jehan diury // bacchelier en medecine</p>
+            <p rend="noindent"><hi rend="b">Excipit</hi> : [y4v] Cy finissent les eneydes de virgile nouuellement // imprimez a paris le .vi. iour dauril mille cinq cens // et neuf pour Anthoine verard marchant libraire de//mourant audit Paris deuant la rue neufue nostre // dame a lenseigne sainct Jehan leuangeliste ou au // pallais au premier pillier en la grant salle deuant la // chapelle la ou len chante la messe de messeigneurs // les presidens Et a donne le Roy nostre sire audict // verard lettres de preuileges et terme de trois ans // pour vendre &amp; distribuer sesdictz liures affin de soy rem//bourcer de ses fraiz &amp; mises &amp; deffend ledit seigneur a tous // imprimeurs &amp; libraires de ce royaume de non impri//mer ledit liure iusques a trois ans sur peine de confisca//cion desdictz liures</p>
+            <p rend="noindent"><hi rend="b">Format</hi> : 270x190 mm ; 134 f. ; a-b8, c-x6, y4.</p>
+            <p rend="noindent"><hi rend="b">Mise en page</hi> : 2 colonnes + vers latins en manchettes<note resp="editor">Nous voyons dans ces manchettes de simples guides pour aider le lecteur à se retrouver dans la traduction : le texte latin n’est pas continu et, à ce titre, n’est pas, ainsi que le suggère Worth-Stylianou 2013, « a self-sufficient bilingual tool » (p. 122). Toutefois, le nombre d’hexamètres latins en manchette augmente à partir de l’édition c.</note> (à chaque ¶, entre 1 et 5 hexamètres par page), 48-49 lignes par page. Titres courants. Pour Bonicoli, les caractères gothiques sont à rapprocher de ceux utilisés par Le Dru. </p>
+            <p rend="noindent"><hi rend="b">Marques</hi> : Marque de Vérard [y4v] (Bonicoli Marques_02 ; Renouard 1088)</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : L initial majuscule cadelé à visage [a1r] (Macfarlane L n°4 ; Bonicoli Lmajuscules_04b)</p>
+            <p rend="noindent">11 illustrations (une avant le prologue puis une avant chaque chant sauf pour le premier et le deuxième) réutilisées des Métamorphoses, de la Cité de Dieu, de la Bataille judaïque, du Lancelot.</p>
+            <list type="ol" rend="1">
+              <item>Lit de justice du roi de France (Bonicoli NA_03)</item>
+              <item>Histoire de Scylla (Bonicoli Métamorphoses_25)</item>
+              <item>Histoire de Glaucus et Scylla (Bonicoli Métamorphoses_30)</item>
+              <item>Bonicoli Lancelot-2_03#2</item>
+              <item>Histoire d’Orphée (Bonicoli Métamorphoses_26)</item>
+              <item>Histoire d’Arachné (Bonicoli Métamorphoses_22)</item>
+              <item>Josephus_03#3 (avec un repeint sur le château au fond à gauche dans l’exemplaire BnF, Vélins 1070, remplacé par un paysage, sans doute pour atténuer la répétition avec la dixième illustration)</item>
+              <item>Sac de Rome (Bonicoli CitéDeDieu_02)</item>
+              <item>Procès des armes d’Achille (Bonicoli Métamorphoses_29)</item>
+              <item>Josephus_03#3</item>
+              <item>Lancelot-1_03</item>
+            </list>
+            <p rend="noindent"><hi rend="b">Exemplaires conservés</hi> : </p>
+            <list>
+              <item>Cambridge (USA), Houghton Library, Harvard University, FC Sa233 509v ;</item>
+              <item>Munich, Bayerische Staatsbibliothek, ESlg/2 A.lat.a. 345<note resp="editor">Numérisé : <ref target="https://www.digitale-sammlungen.de/en/view/bsb00001496?page=,1">https://www.digitale-sammlungen.de/en/view/bsb00001496?page=,1</ref></note> ;</item>
+              <item>Paris, Bibliothèque de l’École Nationale Supérieure des Beaux Arts, Masson 384 ;</item>
+              <item>Paris, BnF, Arsenal, 4-BL-1790 ;</item>
+              <item>Paris, BnF, Rés. G-YC-318 ;</item>
+              <item>Paris, BnF, Vélins 1070<note resp="editor">Numérisé : <ref target="https://gallica.bnf.fr/ark:/12148/bpt6k1520909r?rk=42918;4">https://gallica.bnf.fr/ark:/12148/bpt6k1520909r?rk=42918;4</ref></note></item>
+            </list>
+            <p rend="noindent"><hi rend="b">Annotations</hi> : </p>
+            
+            <list>
+              <item>Cet exemplaire vient de la biblioth. de M. Garnier, pair de France, bibliophile français. Reporte son chiffre au dos. (Germain Garnier (1754-1821) ; Ce lyvre est a moy seigneur de St Fergent (x4v)  (ex. Paris, BnF, Rés. G YC 318)</item>
+              <item>Octavien de Saint Gelais fut evèque d’Angouleme sous Charles VIII et Louis XII. L’étude des belles-lettres l’occupoit plus que les fonctions de l’épiscopat. C’est le 1er poete françois qui ait traduit Virgile en vers françois. Cette traduction est trop prolixe, remplie des mots barbares même pour son tems et n’approche en aucune maniere de la beautè, de l’elegance ou de la justesse de son original. Cette traduction n’est bonne que pour faire connoître quelle ètoit la foiblesse de poesie françoise au quinzieme siècle. Chaque livre est precèdè d’une gravure en bois qui en represente fort grossierement le sujet principal. St Gelais presenta cet ouvrage a Louis XII vers l’an 1500, mourut en 1502 et Jean Divry le fit imprimer en 1509 en caracteres gothiques. (ex. de Munich a1r)</item>
+            </list>
+            
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Bonicoli V5, 190 ; BP16_101431 ; Brückner 1987, 38-40 ; MacFarlane 97 ; Mambelli 1057 ; Moreau I, 201 ; Pettegree <hi rend="i">et alii</hi> 50587 ; USTC 26178.</p>
+          </div>
+          <div>
+            <head>Michel Le Noir pour Jean Petit, 15 VII 1514, in-folio (b)</head>
+            
+            <p rend="noindent"><hi rend="b">Incipit</hi> : [a1r] Les eneydes de virgille. [bois gravé] Translatez de latin en francoys par messire // Octouian de sainct gelaiz en son viuant eues//que dangoulesme reueues et cottez par maistre // Jehan diury bachelier en medecine.</p>
+            <p rend="noindent"><hi rend="b">Excipit</hi> : [a6v] Cy finissent les eneydes de virgile. Nou//uellement imprimez a paris le .xv. jour de juil//let Mil .v. cens et .xiiii. par Michel le noir Li//braire iure en luniversite de paris. Demourant // en la grant rue sainct Jacques a lenseigne de // la Rose blanche couronnee.</p>
+            <p rend="noindent"><hi rend="b">Format</hi> : 120 f ; a-v6. </p>
+            <p rend="noindent"><hi rend="b">Mise en page</hi> : 2 colonnes + vers latins en manchettes (entre 1 et 5 hexamètres par page), 51 lignes par page. Titres courants. </p>
+            <p rend="noindent"><hi rend="b">Marque</hi> : Marque de Jean Petit (Renouard 890). </p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : 1 illustration avant le prologue (scène de lecture). </p>
+            <p rend="noindent"><hi rend="b">Exemplaires conservés</hi> : </p>
+            <list>
+              <item>Princeton, Princeton University Library, Junius Morgan Collection, 2945.311 Fre509</item>
+              <item>Vienne, Österreichische Nationalbibliothek, 38.P.4<note resp="editor">Numérisé : <ref target="https://onb.digital/result/107F059A">https://onb.digital/result/107F059A</ref></note></item>
+            </list>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> :  BP16_102653 ; Moreau II, 992 ; Pettegree <hi rend="i">et alii</hi> 50588 ; USTC 72685. </p>
+          </div>
+          <div>
+            <head>Nicolas Cousteau pour Galliot du Pré, Paris, 1529, in-folio (c)</head>
+            
+            <p rend="noindent"><hi rend="b">Filiation</hi> : Suit les éditions antérieures des trois textes, parues séparément (voir BP16_101431 ; voir aussi 1516 : BP16_103161 et 1519 : BP16_103881)</p>
+            <p rend="noindent"><hi rend="b">Incipit</hi> : [a[2]] Les oeuures de // virgille // Translatees de latin en francoys et nouuellement im//primees a Paris. // ¶ Si vous oyez en premier lieu chantans // Nouueaulx pasteurs leurs parcz vont frequentans // ¶ Au lieu second champs prennent les semences // Des arateurs gardant leurs ordonnances // ¶ Et au tiers renc si trompes vous effroyent // Ce sont les roys qui aux combatz sessayent. // ¶ On les vend a Paris en la grant salle du Palais au // premier pillier en la boutique de Galliot du pre librai//re iure de Luniuersite. // ¶ Cum priuilegio. // Galliot du Pre.</p>
+            <p rend="noindent"><hi rend="b">Excipit</hi> : [SS6v] ¶ Fin des oeuures de Virgille translatees // de latin en françoys Nouuellement reueues // corrigees &amp; Imprimees a Paris par Ni//colas Couteau Imprimeur pour Galiot // du pre libraire demourant audit lieu. // Lan mil.ccccc.xxix.</p>
+            <p rend="noindent"><hi rend="b">Format</hi> : 232 f. ; [a]2 + A-O6, P4, Q-X6, AA-SS6. </p>
+            <p rend="noindent"><hi rend="b">Mise en page</hi> : 2 colonnes + vers latins en manchettes (une dizaine par page), 44 lignes par page. Titres courants. </p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : 33 illustrations. </p>
+            <p rend="noindent"><hi rend="b">Contenu</hi> : </p>
+            <list>
+              <item>Page de titre et Préambule [illustration : le maître et ses élèves]</item>
+              <item>[A1r-G2r] Dix églogues en décasyllabes, chacune suivie de son commentaire en prose, puis Le petit vergier de Virgille Maron, De la lettre Pitagoras y grec, De l’invention des Muses, Du Chant des sereines et De la rose.</item>
+              <item>[G2v-P4v] Géorgiques en quatre livres, en décasyllabes par Guillaume Michel dit de Tours, précédées d’un prologue en prose, chaque livre est suivi d’un argument déclaratif et d’une exposition morale en prose. </item>
+              <item>[Q1r-SS6v] ¶ Les Eneydes de virgille // Translatees de latin en francois par messire Octouian de sainct Ge//lais en son viuant euesque Dangoulesme. (Q1r)</item>
+              <item>Illustration : l’auteur à sa table de travail.</item>
+              <item>Prologue. Chaque livre est précédé d’une illustration (sauf le livre 11) ainsi que d’un sommaire en sizain de décasyllabes (sauf les livres 11 et 12) :</item>
+              <item>¶ En son premier dit le poete Virgille / Comme Troyens en la mer de Cecille / De maintz perilz ont esté devoluz / Par les grans ventz du puissant Eolus / Mais à la fin eulx et leur equipage / Se sont trouvez ensemble pres Cartage. (Q2v)</item>
+              <item>¶ En son second Virgille nous racompte / Comme Eneas aprés le soupper compte / La trahyson à la royne et sa suyte / Et les excés comme Troye fut destruicte, / Puis à la fin si fort il y musa / Qu’il y perdit sa femme Creüsa. (S2r)</item>
+              <item>¶ Au livre tiers aprés Troye destruicte / Virgille dit qu’en Trace Enee print fuyte / Et aux ysles Strophades des Arpies / Fut tourmenté tant que jamais n’eust pies, / Son sort futur luy racompte Helenus, / En fin il voit le grant Pholiphemus. (V1r)</item>
+              <item>¶ Le quart livre est que Dido la royne art / De folle amour par Venus et son art / En tous ses sens se trouve mal menee / Pour le depart de son amy Enee, / Tant que à la fin par sa sotte fureur / De son glayve a percé son triste cueur. (X5r)</item>
+              <item>¶ Le cinquiesme a que par cours difficille / Des flotz marins Enee vint en Sicille / Et là y feit par funebre mistere / Jeux et esbatz à l’esperit de son pere / Qui par songe puis luy donna entendre / Que pour le veoir doit aux enfers descendre. (BB3r)</item>
+              <item>¶ Au sixiesme et par oeuvre dificille / Enee est duict aux enfers par Sibille, / Là congnoist il les ames mesprisees / Au bas enfers, mais aux champs elisees / Les heureux sont sans vice ou impropere / Et là trouva l’esprit de son feu pere. (135)</item>
+              <item>¶ Au septiesme est la nourrice Cayette / Mise en terre, et puis Enee saiette / Par le timbre au paÿs de l’Italie / Là où le sort de son manoir s’alie / Le roy Latin là sa fille Lamine / Luy espousa par voulenté divine. (FF3r)</item>
+              <item>¶ En l’huytiesme est Turnus le jeune roy / Contre Troyens mettant gens en arroy / Par ce Aeneas à ce voulant entre / Va demander secours au roy Evandre / Lequel luy a ayde et support promis / Promettant foy d’estre loyaulx amys. (HH3v)</item>
+              <item>¶ Le neufiesme est que par courses et saultz / Sur les Troyens Turnus fait maintz assaulx / Et que leurs nefz par voulentez divines / Sont transmuez en deesses marines / Et au vray congneut l’amour loyalle / Des deux enfans Nisus et Eurialle. (LL2r)</item>
+              <item>¶ Au dixiesme est declairee la perte / Des deux costez faisans la guerre ouverte / Et que Turnus rendit à mort Palente / Le chef de guerre des Archades patentes / Audict conflict demeurent estendus / Peuple divers, barons, contes et ducz. (MM2v)</item>
+              
+              
+            </list>
+            <p rend="noindent"><hi rend="b">Exemplaires conservés</hi> : </p>
+            <list>
+              <item>Avignon, Bibliothèque Ceccano, 4° 1757</item>
+              <item>Blois, Bibliothèque Abbé Grégoire, I 66</item>
+              <item>Cambridge (USA), Harvard University, Houghton Library, FC Sa233 509vb</item>
+              <item>Dole, Médiathèque du Grand Dole, 16G/59 (manquent la page de titre et après XX3)</item>
+              <item>Laval, Bibliothèque municipale Albert Legendre</item>
+              <item>Londres, BL, 834.k.28<note resp="editor">Numérisé : <ref target="http://access.bl.uk/item/viewer/ark:/81055/vdc_100042939311.0x000001">http://access.bl.uk/item/viewer/ark:/81055/vdc_100042939311.0x000001</ref></note></item>
+              <item>Lyon, Bibliothèque municipale, Rés. 318844<note resp="editor">Numérisé : <ref target="https://books.google.fr/books?id=q7GB4DPjJJ8C&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false">https://books.google.fr/books?id=q7GB4DPjJJ8C&amp;printsec=frontcover&amp;hl=fr#v=onepage&amp;q&amp;f=false</ref></note></item>
+              <item>Oxford, Bodleian Library, 4° V 35 Art.</item>
+              <item>Oxford, Bodleian Library, Douce V 264</item>
+              <item>Paris, BnF, Réserve G-YC-314</item>
+              <item>Paris, BnF, Vélins 556</item>
+              <item>Paris, BnF, Arsenal, 4-BL-1782</item>
+              <item>Princeton, Princeton University Library, Junius Morgan Collection, 2945.1529Q</item>
+              <item>Séville, Institucion Colombina, Biblioteca Capitular y Colombina, 15-5-1</item>
+              <item>Vienne, Österreichische Nationalbibliothek, 33.K.24<note resp="editor">Numérisé : https://onb.digital/result/10B4F485 </note></item>
+            </list>
+            <p rend="noindent"><hi rend="b">Annotations</hi> : Ex-libris impreso de Juan Caravallo y Vera, con indicación de número 869. -- Anot. ms. de Hdo. Colón en h. de guarda "11849" y "5189", y en v. de última h. "Este libro assí enquadernado costó 9 sueldos en Mo[m]peller a 14 de julio de 1535 y el ducado de oro vale 47 sueldos. Está registrado 5189" (ex. de Séville) ; Au bas de la page de titre, écu repeint : de gueules semé de fleurs-de-lys d'or sommé d'une couronne (Paris, BnF, Vélins 556) ; Soli deo papillon ([a]1r) (Paris, BnF, Réserve G-YC-314)</p>
+            
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : BP16_106145 ; Brückner 1987, 41-45 ; Moreau III, 1947 ; Pettegree <hi rend="i">et alii</hi> 50596 ; USTC 24233.</p>           
+          </div>
+          
+          <div>
+            <head>Abraham de Beauchesne, Guillaume Davoust, Richard Du Hamel, Jacques Le Messier [= Nicolas Cousteau et Antoine de La Barre], Pierre Vidoue, 1532, in-folio (d)</head>
+            
+            <p rend="noindent"><hi rend="b">Filiation</hi> : Copie frauduleuse (avec des variantes dans l’illustration) de l’édition « cum Privilegio » de 1529 (BP16_106145), par Antoine [sic, il s’agit de Nicolas] Cousteau pour Galliot Du Pré. En dépit du colophon (« ... par Iacques le messier Imprimeur »), le matériel n’est pas ici (sauf quelques lettrines) celui de J. Le Messier, dont la dernière édition connue date d’octobre 1522 ; il s’agit du matériel de N. Cousteau (les fleurons, la majorité des lettrines et les caractères (B 97) sont les siens), avec quelques autres lettrines du matériel d’Antoine de La Barre. Encadrement au titre de P. Vidoue. Page de titre et foliotation séparée pour les « Eneydes ». Texte latin en manchettes, imprimé en romain (BP16)</p>
+            <p rend="noindent"><hi rend="b">Incipit</hi> : [(a)1r] Les oeuures de vir // gille Translatees // de latin en francoys et nouuellement imprimees veues et corrigees // oultre la premiere impression : Auec les hystoires mises // chascune en son lieu ainsi que lon pourra veoir dedans le liure // lesquelles sont moult recreatiues. // * Si vous oyez en premier lieu chantans // Nouueaulx pasteurs leurs parcz vont frequentans // ¶ Au second champs prennent les semences // Des arateurs gardant leurs ordonnances // * Et au tiers renc si trompes vous effroyent // Se sont les roys qui aux combatz sessayent. // M.D.XXXII. ¶ On les vend a Paris rue sainct Jacques chez Abraham de beau chesne a la Lanterne de voirre.</p>
+            <p rend="noindent"><hi rend="b">Excipit</hi> : [994r] ¶ Fin des oeuures de virgille translatees // de latin en francoys Nouuellement reueues // corrigees &amp; Imprimees a Paris par Jac//ques le messier imprimeur. // Lan mil.ccccc.xxxii.</p>
+            <p rend="noindent"><hi rend="b">Format</hi> : 234 f. ; [ ]2, A-N6, O8, aa-zz6, &amp;&amp;6, ??4.</p>
+            <p rend="noindent"><hi rend="b">Mise en page</hi> : 2 colonnes + vers latins en manchettes, 45 lignes par page. Titres courants.</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : Les illustrations ne sont pas celles de c dont le texte est pourtant repris dans cette édition.</p>
+            
+            <p rend="noindent"><hi rend="b">Contenu</hi> : voir l’édition c.</p>
+            <p rend="noindent"><hi rend="b">Exemplaires conservés</hi> : </p>
+            <list>
+              <item>Angers, Bibliothèque municipale, Rés. BL 1119</item>
+              <item>Cambridge (USA), Harvard University. Houghton library, FC Sa233 509vc</item>
+              <item>Londres, British Library, C.97.g.17.</item>
+              <item>Paris, Bibliothèque Mazarine, 2° 240 [Res] (Jacques le Messier pour Abraham de Beauchesne) [ex. consulté]</item>
+              <item>Séville, Institucion Colombina, Biblioteca Capitular y Colombina, 6-4-36</item>
+              <item>Toulouse, Bibliothèque d’Étude et du Patrimoine, Rés. B XVI 160</item>
+            </list>         
+            <p rend="noindent"><hi rend="b">Annotations</hi> : </p>
+            <list>
+              <item>« Ex-libris manuscrits sur la page de titre de Jacques Viard dit La Fontaine, astrologue, faiseur d’almanach établi à Pontvallain puis à Gouis près de Durtal (cf. Célestin Port, Dictionnaire..., 1878, t. 3, p. 706) : "Sum Jacobi Fontanii" puis "FF. praedicato[rum] Andegavensi.". Sur la dernière page subsistante du recueil, ex-libris manuscrit "J. La Fontaine". Reliure : demi-reliure du couvent des Jacobins d’Angers. une moitié du recueil a été déreliée anciennement.  (ex. d’Angers)</item>
+              <item>Relié aux armes du duc de La Valliere ; « Ex biblioteca D. Livratin ( ?) Suprema Parisiensi Curia Presidis » ; dessins de chevalier à la plume avant l’Eneide (86v) ; les bois et les lettrines ont commencé à être rehaussés de couleurs mais la peinture a été interrompue ; marque de lecture : les manchettes latines ont été complétées en trois endroits par deux mains différentes (F5r Du chant des Sereines pour corriger les manchettes fautives ; N4r Georgiques 4 ; ff5r-v : Eneide IV ) (ex. de Paris)</item>
+              <item>"Este libro costó 10 sueldos en León por setiembre de 1535 y el ducado de oro vale 47 sueldos y medio" (ex. de Séville)</item>
+              <item>Mention ms. sur le titre : "G. Puech 1599" avec des étoiles dessinées sur une forme de blason (ex. de Toulouse)</item>
+            </list>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> :BP16_107079 ; Brückner 1987, p. 45-49 ; Moreau IV, 545 ; USTC 49525</p>
+          </div>
+          <div>
+            <head>[divers libraires], 1540, in-folio (e)</head>
+            
+            <p rend="noindent"><hi rend="b">Filiation</hi> : Reprise de l'édition c. </p>
+            
+            <p rend="noindent"><hi rend="b">Incipit</hi> : [ã1r] Les oeuures de // Virgile. // Translatees de latin en francoys/ et nouuellement // imprimees / veues et corrigees oultre les // precedentes impressions. // ¶ Avec les histoires mises &amp; posees chascune en son // lieu ainsi que lon pourra veoir dedans le liure / // lesquelles sont moult recreatiues // ¶ Si vous oyez en Premier lieu chantans // Nouueaulx pasteurs / leurs parcz vont frequentans // ¶ Au Second / champs si prennent leurs semences // Des arateurs / gardant leurs ordonnances. // ¶ Et au Tiers renc / si trompes vous effrayent / // Ce sont les roys / qui aux combatz sessayent. // M.D.xl. // On les vend a Paris en la grant rue sainct Jacques // a lenseigne de la fleur de liz par Oudin petit libraire iure de Luniuersite.</p>
+            <p rend="noindent"><hi rend="b">Excipit</hi> :
+              [xx5v] ¶ Fin des oeuures de virgille trans//latees de latin en francoys / nouuel//lement reueues / corrigees &amp; im//primees a Paris. // Lan .M.D.xl.</p>
+            <p rend="noindent"><hi rend="b">Format</hi> : 201 f. ; ã2, a-m6, n4, aa-uu6, xx5.</p>
+            <p rend="noindent"><hi rend="b">Mise en page</hi> : 2 colonnes + vers latins en manchettes (une dizaine par page), 52 lignes par page. Titres courants.</p>
+            <p rend="noindent"><hi rend="b">Décoration</hi> : 106 illustrations, d’après les gravures de Sebastian Brant pour l’édition imprimée de l’Eneide latine de 1502 (Pasquier 1992, p. 226-229).</p>
+            
+            
+            
+            <p rend="noindent"><hi rend="b">Contenu</hi> : voir l’édition c.</p>
+            <p rend="noindent"><hi rend="b">Exemplaires conservés</hi> : </p>
+            <list>
+              <item>Genève, Bibliothèque de Genève, Cxa 8684 BGE Hd 90 (Arnoul Langelier, Jean Petit)</item>
+              <item>Londres, British Library, 833.l.20. (Oudin Petit)<note resp="editor">Numérisé : <ref target="http://access.bl.uk/item/viewer/ark:/81055/vdc_100043032014.0x000001">http://access.bl.uk/item/viewer/ark:/81055/vdc_100043032014.0x000001</ref></note> [ex. consulté]</item>
+              <item>Paris, BnF, Arsenal, Fol-BL-608 (Jean Petit, Maurice de La Porte)</item>
+              <item>Princeton, Princeton University Library, Junius Morgan Collection, 2945.1540q</item>
+              <item>Toulouse, Bibliothèque d’Étude et du Patrimoine, Rés. B XVI 201 (Oudin Petit, Jean Petit)</item>
+              
+            </list>
+            <p rend="noindent"><hi rend="b">Annotations</hi> : Ex libris ms. à la fin : "Dufour" (ex. de Toulouse).</p>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Brückner 1987, 49-50 ; Moreau V, 549 ; Pasquier 1992, 226-229 ; Pettegree <hi rend="i">et alii</hi> 47196, 50603 à 50611 ; USTC 40077, 47594, 56657, 57364, 66958, 79491, 79492, 79493, 79494, 79495.</p>
+            
+          </div>
+          <div>
+            <head>Paris, Jean Longis et veuve Denis Janot (Jeanne de Marnef), 1548, in-folio</head>
+            <p rend="noindent"><hi rend="b">Exemplaires</hi> : aucun exemplaire conservé</p>
+            <p rend="noindent"><hi rend="b">Bibliographie</hi> : Pettegree <hi rend="i">et alii</hi> 50617 ; USTC 95817.</p>
+          </div>
+        </div>
+      </div>
+      <div>
+        <head>3. Traduction textuelle</head>
+        <div>
+          <head>3.1. Original latin</head>
+          <p>Nous ne connaissons pas le texte latin, manuscrit ou imprimé, que Saint-Gelais a utilisé comme support de sa traduction (Brückner 1987, 119-122). Les quelques mentions de l’<hi rend="i">Énéide</hi> dans les inventaires des bibliothèques princières que l’auteur pouvait fréquenter sont vagues et on ne sait plus guère à quels manuscrits conservés aujourd’hui elles peuvent correspondre<note resp="editor">C’est l’inventaire ‌des livres de Charles d’Orléans à Blois après son retour de captivité en 1440 qui nous intéresse : Louis XII en effet avait hérité de cette bibliothèque. On y relève quatre mentions de textes de Virgile, dont l’un pourrait être, d’après Ouy (2007, 94), l’actuel BnF latin 7936. Mais cet exemplaire ne donne pas les commentaires de Servius, que Saint-Gelais avait pourtant sous les yeux.</note>. Du côté des imprimés, le catalogue USTC recense 76 incunables <hi rend="i">ante</hi> 1499, <hi rend="i">terminus ante quem</hi> que l’on peut retenir comme date limite de composition de la traduction, offerte en avril 1500. L’écrasante majorité de ces éditions est italienne et contient les trois œuvres de Virgile. On peut en outre gager que le texte-source de Saint-Gelais était étoffé du commentaire de Servius, qu’il intégrait au fil de sa traduction française (voir <hi rend="i">supra</hi>). C’est le cas de certains incunables glosés, tous italiens, comme les cinq éditions milanaises qui auraient pu circuler pendant les premières expéditions italiennes de Charles VIII<note resp="editor">USTC 989994, 989992, 989989, 989988, 989975.</note>. En outre, si l’on confirmait, par une étude plus extensive l’intuition de Brückner que Saint-Gelais a aussi utilisé les commentaires de Josse Bade (l’éditeur donne 8 exemples d’une possible influence : 1987, 129-130), l’on pourrait réduire la recherche du modèle textuel aux seules éditions imprimées qui comprenaient les gloses de ce dernier en plus des commentaires de Servius. C’est le cas d’imprimés qui sont toutefois tous postérieurs à 1501, un an après la rédaction du manuscrit de dédicace (voir USTC 209456, 209455 et 180026 et Renouard 1908, t. 1, 149 et t. 3, 356-363). Si une collation plus précise de ces imprimés avec la traduction française reste à faire, la critique textuelle permet toutefois d’isoler, au sein de la tradition latine des éditions critiques contemporaines, une famille dont la traduction de Saint-Gelais partage les leçons, comme le montre les quelques exemples suivants :</p>
+          <p>(IV, 288) Mnesthea Sergestumque uocat fortemque <hi rend="u">Serestum</hi> ] Cloanthum <hi rend="b">pw<hi rend="sup">2</hi>  </hi>(éd. Conte 2019, 94) &gt; C’est qu’il appelle Menestee et Sergeste, / Le fort <hi rend="u">Cloaulthe</hi></p>
+          <p>On retrouve par ailleurs cette variante chez Du Bellay aussi : Soudainement il appelle Meneste, / Le fort <hi rend="u">Cloänte</hi>, &amp; encore Sergeste (éd. Chamard 1991, 277 v. 515-516).</p>
+          <p>Mais les apparats critiques des éditions modernes sont parfois muets pour expliquer d’autres écarts de Saint-Gelais par rapport à notre vulgate latine :</p>
+          <p>(VI, 655) tellure &gt; vertu</p>
+          <p>(IX, 102) Doto &gt; Clotho</p>
+          <p>(X, 172) Populonia <hi rend="u">mater</hi> &gt; De la <hi rend="u">cyté</hi> qu’on dit Populonye</p>
+          <p>(IX, 548) ense leuis nudo <hi rend="u">parma</hi>que inglorius alba &gt; En main tenoyt <hi rend="u">palme</hi> candide et blanche</p>
+          <p>(XI, 690) Protinus <hi rend="u">Orsilochum</hi> et Buten &gt; Puys rua jus Buttés et <hi rend="u">Tersyloque</hi></p>
+          <p>(XII, 362) Huic comitem <hi rend="u">Absyten</hi> coniecta cuspide mittit &gt; Au fiere pointe <hi rend="u">Buttés</hi> sans qu’il demeure</p>
+        </div>
+        <div>
+          <head>3.2. Choix du manuscrit de base</head>
+          <p>Le manuscrit D est un <hi rend="i">descriptus</hi> de A : nous l’éliminons (Brückner 1987, 59). Le manuscrit C partage des leçons de A et de B, signe qu’il est le produit d’une contamination. En outre, sa qualité textuelle médiocre nous a poussé à l’écarter de la <hi rend="i">varia lectio</hi>. Reste le manuscrit A, prestigieux exemplaire de dédicace à Louis XII, qui est le seul illustré et qui transmette le prologue. Thomas Brückner l’avait choisi comme base de son édition du chant VI. C’est un bon manuscrit, dont le texte est fiable, mais la <hi rend="i">varia lectio</hi> prouve qu’il est antérieur à une entreprise de remaniement qui pourrait être du fait de l’auteur lui-même, et qui aurait abouti à la copie de B. En effet, certains vers de B sont retravaillés pour rapprocher la traduction du latin de Virgile : on donne la liste ci-dessous. Toutefois, ces leçons sont si peu nombreuses qu’on hésitera à parler de véritable remaniement. On peut imaginer Saint-Gelais relisant son manuscrit de travail, probablement l’archétype de A, et corrigeant à la marge quelques décasyllabes. Nous avons ainsi préféré donner à lire cette seconde version, contenue dans B, qui sera notre manuscrit de base. Le lecteur trouvera dans la <hi rend="i">varia lectio</hi> les leçons de A qui, quand il ne nous a pas servi à corriger ou compléter B, donne les leçons que Louis XII a pu lire dans l’exemplaire de dédicace qui lui a avait été remis par l’auteur.</p>
+          <p>Voici avant tout quelques indices postulant un ancêtre commun à A et B. Quelques corrections communes d’abord qui postulent une relecture parallèle :</p>
+          <p>(VII, 403) soluite crinalis uittas, capite orgia mecum &gt; Desliés tost voz cheveux et vos vittes, / Prenés orgies [corr. sur orgres A et B] au moy pour vos merites ! (B)</p>
+          <p>(VIII, 698) latrator Anubis &gt; Et mays aussy celuy latrant [corr. sur latant A et B] Mercure</p>
+          <p>Des graphies ensuite, dont certaines sont régionales, qui sont assez rares au sein même des manuscrits pour ne pouvoir s’expliquer que par un modèle commun (nous soulignons dans le texte de B les graphies étonnantes qui se retrouvent à l’identique dans A) :</p>
+          <quote>
+            <l><hi rend="u">Y</hi> n’y eut homme qui arrester le puysse</l>
+          </quote>
+          <quote>
+            <l>Sy que desja <hi rend="u">y</hi> n’y eust nul en somme</l>
+          </quote>
+          <quote>
+            <l>Auront <hi rend="u">y</hi> lieu sans porter plus grand faiz</l>
+          </quote>
+          <quote>
+            <l><hi rend="u">Y</hi> n’y a nulz pour deffendre les portes</l>
+          </quote>
+          <quote>
+            <l>De belle <hi rend="u">mostre</hi> et de grant renommee</l>
+          </quote>
+          <quote>
+            <l><hi rend="u">Neoptolemus</hi> en eut maulvays party</l>
+          </quote>
+          <quote>
+            <l>Il print celle du chertier <hi rend="u">Metisqus</hi></l>
+          </quote>
+          <quote>
+            <l>Tant fut ryant et <hi rend="u">benign</hi> son visaige</l>
+          </quote>
+          <quote>
+            <l>Par lieux scalydes incultes et <hi rend="u">mouezis</hi></l>
+          </quote>
+          <quote>
+            <l>Helas amy je ne <hi rend="u">peu</hi> trouver lors</l>
+          </quote>
+          <quote>
+            <l><hi rend="u">Hours</hi> en leurs roches et affamez pourceaulx</l>
+          </quote>
+          <quote>
+            <l>Qui va sa <hi rend="u">chyeure</hi> egyde conduysant</l>
+          </quote>
+          <quote>
+            <l>Traict infiny par <hi rend="u">creueuses</hi> deffaictes</l>
+          </quote>
+          <quote>
+            <l>Getter et <hi rend="u">tortre</hi> sa darde puerille</l>
+          </quote>
+          <quote>
+            <l>Lors eust l’on veu chevaulx <hi rend="u">hynyr</hi> et brayre</l>
+          </quote>
+          <quote>
+            <l>Serpent ou <hi rend="u">gybvre</hi> ou dragon en ces caves</l>
+          </quote>
+          <quote>
+            <l>Et de pié <hi rend="u">quoy</hi> pas à pas la pourchasse</l>
+          </quote>
+          <quote>
+            <l>Par le logeis que tu feiz <hi rend="u">cheux</hi> mon pere</l>
+          </quote>
+          <p>On trouvera ci-après l’ensemble des 15 leçons qui prouvent que le manuscrit B est le fruit d’une tentative pour rapprocher le texte du latin de Virgile, et qui le rendent à nos yeux supérieur à A. Elles sont très peu nombreuses, ce qui nous fait hésiter à parler de véritable remaniement.</p>
+          <label type="head">(I, 480) peplumque ferebant suppliciter &gt;</label>
+          <list>
+            <item>De leur fortune ensemble debatoient (A)</item>
+            <item>Peples et robes tresdevotes portoyent (B)</item>
+          </list>
+          <label type="head">(I, 570) regemque optatis Acesten &gt;</label>
+          <list>
+            <item>Et d’Acestés que tenez si treschier (A)</item>
+            <item>Et d’Acestés que tenez roy sy cher (B)</item>
+          </list>
+          <label type="head">(I, 696) regia portabat Tyriis &gt;</label>
+          <list>
+            <item>Qu’Eneas veulst et paremans nouveaulx (A)</item>
+            <item>Qu’Eneas veulst et paremans royaulx (B)</item>
+          </list>
+          <label type="head">(II, 306) sternit agros, sternit sata laeta boumque labores &gt;</label>
+          <list>
+            <item>Lors il degaste les biens de la champaigne (A)</item>
+            <item>Lors il degaste les blez de la champaigne (B)</item>
+          </list>
+          <label type="head">(IV, 665) It clamor ad alta atria &gt;</label>
+          <list>
+            <item>Par le paÿs et piteuse rumeur (A)</item>
+            <item>Par le palais et piteuse rumeur (B)</item>
+          </list>
+          <label type="head">(VI, 414) et multam accepit rimosa paludem &gt;</label>
+          <list>
+            <item>Et par les rives de la nef pondereuse / Entra dedans meinte eau lymonneuse. (A)</item>
+            <item>Et par les rymes de la nef pondereuse / Entra dedans meinte eau lymonneuse. (B)</item>
+          </list>
+          <label type="head">(VI, 794) par leuibus uentis uolucrique simillima somno &gt;</label>
+          <list>
+            <item>Chose palpable fors air ou legier vent. (A)</item>
+            <item>Chose palpable fors songe ou legier vent. (B)</item>
+          </list>
+          <label type="head">(VI, 827) et dum nocte premuntur &gt;</label>
+          <list>
+            <item>En paix concordes, qui or sont enfermees / Par nuyt obscure, non encore famees (A)</item>
+            <item>En paix concordes, qui or sont comprimees / Par nuyt obscure, non encore famees (B)</item>
+          </list>
+          <label type="head">(VII, 715) qui Tiberim Fabarimque bibunt &gt;</label>
+          <list>
+            <item>Ne mays ceulx là qui l’eau du fleuve boyvent (A)</item>
+            <item>Ne mays ceulx là qui l’eau du Tybre boyvent (B)</item>
+          </list>
+          <label type="head">(XI, 223) et magnum reginae nomen obumbrat</label>
+          <list>
+            <item>Moult leur faict umbre de Turnus le hault nom (A)</item>
+            <item>Monlt luy fait umbre de la royne le nom (B)</item>
+          </list>
+          <p>5 de ces bonnes leçons de B interviennent là où A présente des ajouts marginaux ou des corrections. Il est donc probable que ces retouches ponctuelles pour rapprocher la traduction du texte-source soient intervenues directement sur le manuscrit B au moment de sa relecture sans être reportées sur l’original commun à A et B :</p>
+          <label type="head">(III, 691)comes infelicis Vlixi &gt;</label>
+          <list>
+            <item>Au Ulixés cauteleux [d’une autre main] et bien saige (A)</item>
+            <item>Au Ulixés malheureux et bien saige (B)</item>
+          </list>
+          <label type="head">(VIII, 414) haud secus ignipotens &gt;</label>
+          <list>
+            <item>En telle sorte V. au faict pretend [d’une encre plus claire] (A)</item>
+            <item>En telle sorte Vulcan ignipotant (B)</item>
+          </list>
+          <label type="head">(XI, 19) ne qua mora ignaros [...] impediat &gt;</label>
+          <list>
+            <item>N’empesche aulcuns des nostres [en cursive en marge] à celle heure (A)</item>
+            <item>N’empesche aulcuns ignorans à celle heure (B)</item>
+          </list>
+          <label type="head">(XI, 24) Ite, ait, egregias animas &gt;</label>
+          <list>
+            <item>Allez doncquez, dist hores [cursive en marge], Troyans vous mesmes (A)</item>
+            <item>Allez doncquez, dist il, Troyans vous mesmes (B)</item>
+          </list>
+          <label type="head">(XI, 76) harum unam iuueni supremum maestus honorem / induit &gt;</label>
+          <list>
+            <item>Eneas doncques ainssin [cursive en marge] vestit allors (A)</item>
+            <item>Eneas doncques, triste, vestit allors (B)</item>
+          </list>
+          <p>Certaines de ces variantes où B est plus proche du latin contre A, parce qu’elles peuvent s’expliquer par des raisons paléographiques, doivent plutôt être considérées comme des fautes de copistes que comme des remaniements d’auteur :</p>
+          <label type="head">(III, 125) Naxum &gt;</label>
+          <list>
+            <item>Nagon (A)</item>
+            <item>Naxon (B)</item>
+          </list>
+          <label type="head">(III, 271) Dulichiuque Sameque &gt;</label>
+          <list>
+            <item>Sy feismes nous Samie et Dulychye (A)</item>
+            <item>Sy feismes nous Samé et Dulychye (B)</item>
+          </list>
+          <label type="head">(V, 83) sub remis fusi per dura sedilia nautae &gt;</label>
+          <list>
+            <item>Les nautonniers soubz cordes et soubz cables / Espars gisoient et soubz diverses tables (A)</item>
+            <item>Les nautonniers soubz cordes et soubz cables / Espars gisoient et dessoubz dures tables (B)</item>
+          </list>
+          <label type="head">(VI, 845) Quo fessum rapitis, Fabii &gt;</label>
+          <list>
+            <item>Et vous, Fabrices, où me tyrés vous, las ! (A)</item>
+            <item>Et vous, Fabies, où me tyrés vous, las ! (B)</item>
+          </list>
+          <label type="head">(VII, 286) Inachiis Argis &gt;</label>
+          <list>
+            <item>Des invachies terres s’en revenoyt (A)</item>
+            <item>Des innachies terres s’en revenoyt (B)</item>
+          </list>
+          <label type="head">(VII, 622) belli ferratos rumpit Saturnia postis &gt;</label>
+          <list>
+            <item>Les barres brise et les brisez lyans (A)</item>
+            <item>Les barres brise et les ferrés lyans (B)</item>
+          </list>
+          <label type="head">(VIII, 597) Caeritis &gt;</label>
+          <list>
+            <item>Jouxte le fleuve qui passe pres Erette (A)</item>
+            <item>Jouxte le fleuve qui passe pres Cerette (B)</item>
+          </list>
+          <label type="head">(VIII, 728) indomiti Dahae &gt;</label>
+          <list>
+            <item>Sy furent certes là les dars indomytes (A)</item>
+            <item>Sy furent certes les Daces indomytes (B)</item>
+          </list>
+          <label type="head">(IX, 73) urget praesentia Turni &gt;</label>
+          <list>
+            <item>À ce les meult de Turnus la puyssance (A)</item>
+            <item>À ce les meult de Turnus la pressance (B)</item>
+          </list>
+          <label type="head">(IX, 574) Dioxippum &gt;</label>
+          <list>
+            <item>Dyopippe, Promule et Sagarie (A)</item>
+            <item>Dyoxippe, Promule et Sagarie (B)</item>
+          </list>
+          <label type="head">(IX, 612) canitiem galea premimus &gt;</label>
+          <list>
+            <item>Nous comprimons nostre chaulve face (A) -1</item>
+            <item>Nous comprimons nostre chanue face (B)</item>
+          </list>
+          <label type="head">(IX, 656) Sic orsus Apollo mortalis medio aspectus sermone reliquit &gt;</label>
+          <list>
+            <item>Layssa allors les espees mortelles (A)</item>
+            <item>Layssa allors les especes mortelles (B)</item>
+          </list>
+          <label type="head">(X, 253) turrigeraeque urbes &gt;</label>
+          <list>
+            <item>Qui as à cueur les cytez turriferes (A)</item>
+            <item>Qui as à cueur les cytez turrigeres (B)</item>
+          </list>
+          <label type="head">(X, 275) Sirius ardor [...] nascitur &gt;</label>
+          <list>
+            <item>Car à son maistre engendre soyf et soing (A)</item>
+            <item>Car à son naistre engendre soyf et soing (B)</item>
+          </list>
+          <label type="head">(X, 514) te Turne quaerens &gt;</label>
+          <list>
+            <item>Querant tout seul, Turnus tant orguilleux (A)</item>
+            <item>Querant toy seul, Turnus tant orguilleux (B)</item>
+          </list>
+          <label type="head">(X, 862) viximus &gt;</label>
+          <list>
+            <item>O franc cheval, nous avons longuement / Vaincu tous deux chevalereusement (A)</item>
+            <item>O franc cheval, nous avons longuement / Vaycu tous deux chevalereusement (B)</item>
+          </list>
+          <label type="head">(XI, 411) Si nullam nostris ultra spem ponis in armis &gt;</label>
+          <list>
+            <item>Aux armes nostre par longue experience (A)</item>
+            <item>Aux armes nostre par longue esperance (B)</item>
+          </list>
+          <label type="head">(XI, 622) mollia colla reflectunt &gt;</label>
+          <list>
+            <item>Aucunefoys leurs coulz monlt ilz reflectent. (A)</item>
+            <item>Aucunefoys leurs coulz moulz ilz reflectent. (B)</item>
+          </list>
+          <label type="head">(XII, 322) pressa est insignis gloria facti &gt;</label>
+          <list>
+            <item>Sy fut estaincte la gloyre de ce fait (A)</item>
+            <item>Sy fut estraincte la gloyre de ce fait (B)</item>
+          </list>
+          <label type="head">(XII, 611) canitiem immundo perfusam puluere turpans &gt;</label>
+          <list>
+            <item>Rompt ses habitz et sa chaulve face (A) -1</item>
+            <item>Rompt ses habitz et sa chanue face (B)</item>
+          </list>
+          <label type="head">(XII, 940) et iam iamque magis cunctantem flectere sermo coeperat</label>
+          <list>
+            <item>Avoyt desja amorty son couraige. (A)</item>
+            <item>Avoyt desja amoly son couraige. (B)</item>
+          </list>
+          <p>Il est vrai qu’à l’inverse, A donne dans 28 cas une leçon plus proche du latin, manifestement en raison d’erreurs du copiste de B : nous nous autorisons alors à corriger notre texte de base, en indiquant le latin en note.</p>
+          <label type="head">(I, 186) et longum per uallis pascitur agmen &gt;</label>
+          <list>
+            <item>Comme biches, leurs phäons et brocars / Qui paissoyent illec en mainctes pars. (A)</item>
+            <item>Comme biches, leurs phäons et brocars / Qui y estoient illec en mainctes pars. (B)</item>
+          </list>
+          <label type="head">(II, 788) sed me magna deum genetrix his detinet oris &gt;</label>
+          <list>
+            <item>Ycy suys certes par Cybelle tenue (A)</item>
+            <item>Ycy suys certes par sy belle tenue (B)</item>
+          </list>
+          <label type="head">(III, 542) et frena iugo concordia ferre &gt;</label>
+          <list>
+            <item>Rennes et brides ont jadis enduré (A)</item>
+            <item>Rennes et bardes ont jadis enduré (B), « armure de protection »</item>
+          </list>
+          <label type="head">(III, 701) campique Geloi &gt;</label>
+          <list>
+            <item>Et mays les champs où l’estang Geloüs (A)</item>
+            <item>Et mays les champs où l’estang Geolus [avec une préparation de correction en marge] (B)</item>
+          </list>
+          <label type="head">(III, 713) dira Celaeno &gt;</label>
+          <list>
+            <item>Ne Celeno, cruelle prophetisse (A)</item>
+            <item>Ne celeur, cruelle prophetisse (B)</item>
+          </list>
+          <label type="head">(IV, 229) belloque frementem Italiam &gt;</label>
+          <list>
+            <item>Haulte en empire, en guerre fremissant (A)</item>
+            <item>Haulte en empire, en terre fremissant (B)</item>
+          </list>
+          <label type="head">(VI, 248) supponunt alii cultros &gt;</label>
+          <list>
+            <item>Aucuns suppousent cousteaulx et divers lieux (A)</item>
+            <item>Aucuns s’impousent cousteaulx et divers lieux (B)</item>
+          </list>
+          <label type="head">(VI, 731) quantum non noxia corpora tardant &gt;</label>
+          <list>
+            <item>Celle notice et leurs vertus retardent (A)</item>
+            <item>Celle notice et leurs vertus regardent (B)</item>
+          </list>
+          <label type="head">(VI, 775) Castrumque Inui &gt;</label>
+          <list>
+            <item>Et Pometie et le chasteau Inuy (A)</item>
+            <item>Et Pometie et le chasteau Iuvy (B)</item>
+          </list>
+          <label type="head">(VI, 831) gener aduersis instructus Eois &gt;</label>
+          <list>
+            <item>Des Eoees et gens orientaulx (A)</item>
+            <item>Des Eres et gens orientaulx (B)</item>
+          </list>
+          <label type="head">(VII, 391) te lustrare choro &gt;</label>
+          <list>
+            <item>Elle lustroyt chores rons et sortables. (A)</item>
+            <item>Elle lustroyt choyes rons et sortables. (B)</item>
+          </list>
+          <label type="head">(VII, 513) cornuque recuruo &gt;</label>
+          <list>
+            <item>Avec sa curve et rouillee bussine (A)</item>
+            <item>Avec sa curune et rouillee bussine (B)</item>
+          </list>
+          <label type="head">(VII, 696) Flauinia arua &gt;</label>
+          <list>
+            <item>Et les manans par les champs flavinies (A)</item>
+            <item>Et les manans par les champs flamynyes (B)</item>
+          </list>
+          <label type="head">(VII, 720) uel cum sole nouo &gt;</label>
+          <list>
+            <item>Ou tout ainsy comme en nouveau souleil (A)</item>
+            <item>Ou tout ainsy comme en nouveau conseil (B)</item>
+          </list>
+          <label type="head">(VII, 739) Rufras &gt;</label>
+          <list>
+            <item>Rufe et Batule, là portent leur ensseigne</item>
+            <item>Ruse et Batule, là portent leur ensseigne (B)</item>
+          </list>
+          <label type="head">(VIII, 688) ultima Bactra &gt;</label>
+          <list>
+            <item>Sans oublier les Battryens lointains (A)</item>
+            <item>Sans omblier les Bactoyans lointains (B)</item>
+          </list>
+          <label type="head">(IX, 4) parentis Pilumni &gt;</label>
+          <list>
+            <item>Qui lors ou boys du pere Pylumpnus (A)</item>
+            <item>Qui lors ou boys du pere Pytumnus (B)</item>
+          </list>
+          <label type="head">(IX, 6) promittere &gt;</label>
+          <list>
+            <item>Qui sy grand eur ouzast à nul  promectre (A)</item>
+            <item>Qui sy grand eur ouzast à nul permettre (B)</item>
+          </list>
+          <label type="head">(IX, 602) Ulixes &gt;</label>
+          <list>
+            <item>Ne mays Ulixe, qui bien sçavoyt attaindre (A)</item>
+            <item>Ne mays Velixe, qui bien sçavoyt attaindre (B)</item>
+          </list>
+          <label type="head">(X, 121) miseri stant turribus altis / nequiquam et rara muros cinxere corona &gt;</label>
+          <list>
+            <item>Les murailles chacum d’eulx environne (A)</item>
+            <item>Les murailles chacum jour environne (B)</item>
+          </list>
+          <label type="head">(X, 207) grauis Aulestes &gt;</label>
+          <list>
+            <item>Aussy le fort Aulestés tost y naige (A)</item>
+            <item>Aussy le fort Aubestés tost y naige (B)</item>
+          </list>
+          <label type="head">(X, 360) aciesque Latinae &gt;</label>
+          <list>
+            <item>Ainsin certes les legions troyennes / Et les latines, par defenses moyennes (A)</item>
+            <item>Ainsin certes les legions troyennes / Et les Latins, par defenses moyennes (B)</item>
+          </list>
+          <label type="head">(X, 583) Vesano talia late / dicta uolant Ligeri &gt;</label>
+          <list>
+            <item>Luy dist Liger, tournoyant ses habenes (A)</item>
+            <item>Luy dist Legier, tournoyant ses habenes (B)</item>
+          </list>
+          <label type="head">(X, 675) aut quae iam satis ima dehiscat / terra mihi &gt;</label>
+          <list>
+            <item>Pourra mon corps ou centre devorer ? (A)</item>
+            <item>Pourra mon corps ou cendre devorer ? (B)</item>
+          </list>
+          <label type="head">(XI, 623) hi fugiunt &gt;</label>
+          <list>
+            <item>Par fuyte gaignent et leurs chevaulx exploitent (A)</item>
+            <item>Par suyte gaignent et leurs chevaulx exploitent (B)</item>
+          </list>
+          <label type="head">(XI, 656) Tulla &gt;</label>
+          <list>
+            <item>Et mays Tulla gratieuse et benigne (A)</item>
+            <item>Et mays Tella gratieuse et benigne (B)</item>
+          </list>
+          <label type="head">(XII, 84) qui candore niues anteirent, cursibus auras &gt;</label>
+          <list>
+            <item>Et par courir les aures surmontoyent (A)</item>
+            <item>Et par courir les aultres surmontoyent (B)</item>
+          </list>
+          <label type="head">(XII, 413) puberibus caulem foliis &gt;</label>
+          <list>
+            <item>Entre les feilles ja creues et puberes (A)</item>
+            <item>Entre les feilles ja cachés et puberes (B)</item>
+          </list>
+          <p>Il arrive enfin que le latin n’aide pas à trancher des variantes adiaphores entre A et B :</p>
+          <label type="head">(I, 574) Tros Tyriusque mihi nullo discrimine agetur &gt;</label>
+          <list>
+            <item>Et ne feray aulcune differance / Entre eulx et vous quant à munificence (A)</item>
+            <item>Et ne feray aulcune differance / Entre eulx et vous quant à manificence (B)</item>
+          </list>
+          <label type="head">(II, 340) Epytus &gt;</label>
+          <list>
+            <item>De nostre gent Ripheüs, Yphatus (A)</item>
+            <item>De nostre gent Ripheüs, Yphitus (B)</item>
+          </list>
+          <label type="head">(II, 582) Dardanium totiens sudarit sanguine litus ? &gt;</label>
+          <list>
+            <item>Seront les champs tant de sang arrousez / Que tous Troyans seroient expousez (A)</item>
+            <item>Seront les champs tant de sang arrousez / Que tous Troyans demourront là pousez (B)</item>
+          </list>
+          <label type="head">(III, 73) sacra mari colitur medio gratissima tellus &gt;</label>
+          <list>
+            <item>Dedans la mer heust une plaisante ysle / Où la terre fut duysante et fertile (A)</item>
+            <item>Dedans la mer y eut une grande ysle / Où la terre fut plaisante et fertile (B)</item>
+          </list>
+          <label type="head">(III, 713) hos mihi praedixit luctus &gt;</label>
+          <list>
+            <item>Ne me dit oncques ce piteux malefice ! (A)</item>
+            <item>Ne me dit oncques ce petit malefice ! (B)</item>
+          </list>
+          <label type="head">(IV, 56) per has lacrimas &gt;</label>
+          <list>
+            <item>Par les lermes que mon laz cueur desploye (A)</item>
+            <item>Par les lermes que mon laz oeil desploye (B)</item>
+          </list>
+          <label type="head">(VII, 671) fratris Tiburti dictam cognomine gentem &gt;</label>
+          <list>
+            <item>De leur frere Tyburnus noble et gent (A)</item>
+            <item>De leur frere Tyburnus bel et gent (B)</item>
+          </list>
+          <label type="head">(VIII, 7) undique cogunt auxilia (sans adjectif qualificatif)&gt;</label>
+          <list>
+            <item>Qui lors soubtindrent de merveilleux deffens (A)</item>
+            <item>Qui lors soubtindrent de malheureux deffens (B)</item>
+          </list>
+          <label type="head">(VIII, 40) tumor omnis et irae concessere deum &gt;</label>
+          <list>
+            <item>Mays ne te chaille : toute ranqueur et yre / Qui le vouloir des dieux meult et attyre (A)</item>
+            <item>Mays ne te chaille : toute rigueur et yre / Qui le vouloir des dieux meult et attyre (B)</item>
+          </list>
+          <label type="head">(VIII, 673) clari delphines &gt;</label>
+          <list>
+            <item>Et là dedans daulphins et grans poyssons (A)</item>
+            <item>Et là dedans daulphins et gros poyssons (B)</item>
+          </list>
+          <label type="head">(IX, 102) Doto &gt;</label>
+          <list>
+            <item>Comme Clotho ou comme Nereÿe (A)</item>
+            <item>Comme Clothé ou comme Nereÿe (B)</item>
+          </list>
+          <label type="head">(IX, 164) herbam (sans adjectif qualificatif) &gt;</label>
+          <list>
+            <item>Puys en leurs tentes, sur la fresche herbe assis (A)</item>
+            <item>Puys en leurs tentes, sur la franche herbe assis (B)</item>
+          </list>
+          <label type="head">(IX, 361) quae mittit dona &gt;</label>
+          <list>
+            <item>Avoyt promys se sumptueulx harnoys (A)</item>
+            <item>Avoyt tremys se sumptueulx harnoys (B)</item>
+          </list>
+          <p>Pour les imprimés, de rapides sondages dans le livre IV ont prouvé que, partant de l’archétype du remaniement de Jean d’Ivry, deux familles se séparent autour de leçons disjonctives : ab <hi rend="i">vs</hi> cde. L’imprimé de Vérard (a), très fautif, n’a pas compris le texte en plus d’un endroit, et ne reflète sans doute qu’imparfaitement le travail de Jean d’Ivry.</p>
+          <p>Si b dérive de a avec lequel il partage des fautes communes, il a tenté de corriger certaines de ses erreurs, comme l’a constaté déjà Brückner (1987, 57, il relève 53 corrections pour le chant VI). Il semble que c soit revenu à l’archétype, car il ne reproduit pas les erreurs de ab. L’édition e et d suivent le texte de c, d en y ajoutant des erreurs.</p>
+          <p>Nous ne relevons pas la <hi rend="i">varia lectio</hi> des éditions imprimées.</p>
+        </div>
+        <div>
+          <head>3.3. Principes de transcription</head>
+          <p>Nous distinguons u et v, i et j. Le paradigme morphologique du verbe pouvoir est toujours édité avec un v (y compris donc povoir et non pouoir) en raison des 13 occurrences de pouuoir dans le manuscrit. Le paradigme morphologique du verbe espovanter est transcrit avec un v sur la foi de la rime asçavanté : espovanté.</p>
+          <p>Les deux graphèmes u et n sont très facilement confondus par le copiste. Nous en avons corrigé certains pour faciliter la lecture et la lemmatisation. Par exemple ou (enclise à+le) est généralement graphié on, Cloanthe est graphié Cloaulthe d’où la graphie Cloaulthe avec le digramme ul, malgré la rime Cloante : patente. On trouvera aussi neautmains, que nous n’avons pas corrigé, et l’abréviation molt avec barre de nasalité, résolue en monlt sur le modèle des attestations en clair de monlt. Nous respectons ainsi pour ces lexèmes l’« indistinction volontaire que le lecteur médiéval devait résoudre selon le contexte » (Rochebouet 2009, 219).</p>
+          <p>Nous accentuons les -es toniques finaux des lexèmes polysyllabiques, ainsi que dans les conjonctions més et dés. Nous accentuons à dans à, là et çà et là. Nous utilisons le tréma sur le i dans les digrammes aï, eï et oï. Le lexème païs est parfois monosyllabique comme le prouve la métrique : De païs inique et soubz estrangiers droitz ; Qu’am païs forain cil se doibve retraire. Le tréma est aussi employé dans les digrammes eü, oë, oï, oü, üe et les trigrammes äon, äou, ëau et ëoi.</p>
+          <p>Nous résolvons toutes les abréviations. Le déterminant possessif vostre n’apparaissant jamais en clair, nous résolvons en alignant sur nostre. Nous résolvons chun et chm par chacun/m (malgré quelques occurrences de checun en clair, mais qui sont minoritaires), ꝑfait par parfait (malgré quelques perfait).</p>
+          <p>On agglutine les syntagmes suivants : a tant, aultre foys, au par avant, au tour, aux quieulx, bien faict, bien heureux.se, bien venue, bon heur, bon jour, de bon ayre, en contre, en fin, ce pendant, de rechief, des quieulx, dor en avant, en fin, in utille (toujours avec v initial à utille), la quelle, le quel, les quieulx, l’au devant, long temps, mal sain, mal veillante, ou quel, par foys, par my, par tout, pour quoy, pour tant, puys que, s’en dormir, s’en fuir, s’en voler, soubz lever, soubz mectre, soubz rire, sy comme, tous jours.</p>
+          <p>En revanche, on désagglutine acoup et pource.</p>
+        </div>
+      </div>
+      <div>
+        <head>4. Glossaire</head>
+        <p>Nous indiquons ici, pour guider la lecture et fournir aux lexicographes les matériaux les plus directement utiles, tous les lexèmes qui ne sont pas attestés dans le DMF. Comme cette liste a été établie grâce au secours du lemmatiseur LGeRM qui ne recense que les lemmes absents du DMF et non les sens, on trouvera ici uniquement les néologismes et hapax de forme, non de sens. Il ne s’agit donc pas d’un glossaire exhaustif, étant entendu qu’il permet seulement de pointer les lexèmes qui ne disposent pas d’une fiche dans le DMF. Plusieurs travaux consacrés au lexique d’Octovien existent déjà : Lemaire 1978, Slerca 1997, Duval 2001. Pour compléter cette bibliographie, deux articles concernant le lexique de l’Énéide de Saint-Gelais sont à paraître (Dugaz à paraître a et b) : nous y renvoyons pour les régionalismes précédés d’un # (Dugaz à paraître b), et pour les premières attestations conservées en FM précédées d’une @ (Dugaz à paraître a).</p>
+        <!-- 
+          <item>@ caducee, s. m. « baguette attribut d’Hermès » (caduceus)</item>
+          <entryFree>
+          <orth>caducee</orth>
+          <etym>caduceus</etym>
+          <pos>s. m.</pos>
+          <def>baguette attribut d’Hermès</def>
+          <bibl>Dugaz (à paraître a)</bibl>
+          </entryFree>
+        -->
+        <list>
+          <item># abraser, v. tr. « mettre le feu à qqch »</item>
+          <item># acoublé, adj. « accouplé »</item>
+          <item># agreste, s. m. « paysan »</item>
+          <item>albane, adj. « albain » (albanus)</item>
+          <item>aclydes, s. f. « javelot attaché à une courroie » (aclys)</item>
+          <item>agez, interj. « allez » (agite)</item>
+          <item>agillyne, agyline, adj. « d’Agylla » (agyllinus)</item>
+          <item>alligere, adj. « ailé » (aliger)</item>
+          <item>amyterne, adj. « d’Amiterne » (amiternus)</item>
+          <item>anile, adj. « de vieille femme » (anilis)</item>
+          <item>antiguailles, s. f. « édifices anciens »</item>
+          <item>arcade, adj. « arcadien » (arcadius)</item>
+          <item>argolique, adj. « argien » (argolicus)</item>
+          <item>arunques arungues aronques, adj. « d’Aurunca » (auruncus)</item>
+          <item>athemynance (var. athenience), adj. « athénien » (athenaeus)</item>
+          <item># au, prép. « avec »</item>
+          <item>ausonye, ausonnye, adj. « ausonien » (ausonius)</item>
+          <item>averne, adj. « de l’Averne » (avernus)</item>
+          <item># aysine, s. f. « facilité, tranquillité »</item>
+          <item>bebricye, adj. « de Bébrycie » (bebrycius)</item>
+          <item>bijugue, adj. « attelé de deux chevaux » (bijugis)</item>
+          <item>bisfronte, adj. « qui a deux fronts » (bifrons)</item>
+          <item>@ bride (à - abattue), loc. adv. « à grande vitesse »</item>
+          <item>bymembre, adj. « à deux membres » (bimembris)</item>
+          <item>bypatente, adj. « qui s’ouvre en deux » (bipatens)</item>
+          <item>@ caducee, s. m. « baguette attribut d’Hermès » (caduceus)</item>
+          <item>@ candide, adj. « d’un blanc éclatant » (candidus)</item>
+          <item>canistre, s. « panier » (canistra)</item>
+          <item>capenne, adj. « de Capène » (capenus)</item>
+          <item>capuensse, adj. « de Capoue » (capuensis)</item>
+          <item>casperique, adj. « de Caspérie » (dér. de <hi rend="i">Casperia</hi>)</item>
+          <item>cateïe, s. f. « arme de jet gauloise » (cateia)</item>
+          <item>cerberique, adj. « de Cerbère » (dér. de <hi rend="i">Cerberus</hi>)</item>
+          <item># chail, s. m. « silex »</item>
+          <item># chaillou, s. m. « caillou »</item>
+          <item>chalcidique, adj. « de Chalcis » (chalcidicus)</item>
+          <item># chanteau, s. m. « morceau de pain »</item>
+          <item># choite, choitte, s. f. « chute »</item>
+          <item>circee, adj. « de Circé » (circaeus)</item>
+          <item>classique, adj., erreur pour <hi rend="i">classes</hi> « troupes » (VII, 716)</item>
+          <item>claudye, adj. « de la famille Claudia » (claudius)</item>
+          <item>clusine, adj. « de Clusium » (clusinus)</item>
+          <item>cocytie, adj. « du Cocyte » (cocytius)</item>
+          <item># confronter, v. tr. « attribuer un terrain ou un bâtiment à qqn »</item>
+          <item>conte, s. f. « perche à ramer » (contus)</item>
+          <item># cormyer, s. m. « variété de sorbier, cormier »</item>
+          <item>@ corybante, s. m. « prêtre de Cybèle » (corybantia)</item>
+          <item>cretensse, adj. « de Crète » (Cretenses)</item>
+          <item>cultrixe, adj. « qui habite » (cultrix)</item>
+          <item>cyclopee, adj. « des Cyclopes » (cyclopeus)</item>
+          <item>cytharee, adj. « de Cythère » (cythereius)</item>
+          <item>dardanye, adj. « de Dardanus, Troyen » (dardanius)</item>
+          <item>dardanyen, dardanien, adj. « de Dardanus, Troyen » (dardanius)</item>
+          <item>daunyen, adj. « de Daunie, d’Apulie » (daunius)</item>
+          <item>@ desassortir, v. tr. « séparer d’un groupe »</item>
+          <item>diverberer, v. tr. « séparer en frappant » (diverberare)</item>
+          <item>dolone, s. f. « bâton armé d’un fer très court » (dolo)</item>
+          <item># dormitoire, s. m. « sommeil »</item>
+          <item>@ eburné, adj. « constitué d’ivoire » (eburnus)</item>
+          <item>@ egide, s. f. « bouclier de Zeus » (aegis)</item>
+          <item>enfacher [var. Vérard defacher], v. tr. « enclaver » ? (à rapprocher de Gdf 185a enhacher) ?</item>
+          <item># enffondre, v. t. « faire couler »</item>
+          <item>ericienne, adj. « du mont Eryx » (erycinus)</item>
+          <item>eslisee, adj. « de l’Elysée » (elysius)</item>
+          <item># esparer, v. tr. « étendre »</item>
+          <item>etholye, adj. « Etolienne » (Aetolis)</item>
+          <item>@ etheré, adj. « qui se rapporte à l’air » (aetherius)</item>
+          <item>euboïque, euboÿque, emboÿque, adj. « de l’Eubée » (euboicus)</item>
+          <item>evandrye, adj. « d’Evandre » (euandrius)</item>
+          <item>@ exasperer (s’-), v. pr. « s’irriter »</item>
+          <item>@ explorer, v. tr. « observer, examiner par les sens » (explorare)</item>
+          <item>exuvyes, s. f. pl. « dépouilles » (exuviae)</item>
+          <item>@ fatidique, adj. « qui prédit l’avenir » (fatidicus)</item>
+          <item>fescennin, adj. « de Fescennia, ville d’Etrurie » (fesceninus)</item>
+          <item>@ festival, s. m. « fête »</item>
+          <item>flavinie, adj. « de Flavina, ville d’Etrurie » (flavinius)</item>
+          <item>frondeux, adj. « touffu » (frondosus)</item>
+          <item># fructier, adj. « qui porte des fruits »</item>
+          <item># garimant (à -), loc. adv. « en garantie »</item>
+          <item>garrule, adj. « gazouillant » (garrulus)</item>
+          <item>gelyde, adj. « gelé » (gelidus)</item>
+          <item>gnosye, adj. « de Gnosse, de Crète » (gnosius)</item>
+          <item>hernique, adj. « des Herniques » (hernicus)</item>
+          <item>honques, s. m. « griffes » (unguis)</item>
+          <item># hosmeau, s.m. « jeune orme »</item>
+          <item># housteau, s. m. « montant de porte » ?</item>
+          <item>hybernye, adj. « hivernal » (hibernus)</item>
+          <item>hymecye, adj. erreur pour umentia « humide » (VII, 763)</item>
+          <item>hyrquain, adj. « d’Hyrcanie, province asiatique » (hyrcanus)</item>
+          <item>ignipotant, ignipotent, adj. « maître du feu, épithète de Vulcain » (ignipotens)</item>
+          <item>ingemyner, v. tr. « redoubler » (ingeminare)</item>
+          <item>innachie, adj. « d’Argos, Argien » (inachius)</item>
+          <item>latita (se -), v. pr. « se cacher » (latitare)</item>
+          <item>liburnien, adj. « de Liburnie » (liburnus)</item>
+          <item>@ ligure, adj. « de Ligurie » (dér. de <hi rend="i">Ligur</hi>)</item>
+          <item>lore, s. « courroie, lanière ? » (lorum, absent de Virgile X, 580)</item>
+          <item># lynomple, s. m. « toile de lin fine »</item>
+          <item>lyrnesye, adj. « de Lyrnesse, ville de la Troade » (lyrnessius)</item>
+          <item>magalie, adj. « de Magalia, quartier de Carthage » (dér. de <hi rend="i">Magalia</hi>)</item>
+          <item># mais (et -), conj. « et aussi »</item>
+          <item># mais (ne -), conj. « ni non plus »</item>
+          <item>malifere, adj. « qui produit des pommes » (malifer)</item>
+          <item>marrubye, adj. « de Marrubium, ville des Marses » (marruvius)</item>
+          <item>maurusye, adj. « de Mauritanie » (maurusius)</item>
+          <item>marpesye, adj. « de Paros » (marpesius)</item>
+          <item>marssique, adj. « des Marses, peuple du Latium » (marsicus)</item>
+          <item>massique, adj. « du Massique » (massicus)</item>
+          <item>massille, adj. « Massyle, peuple voisin de la Numidie » (massylus)</item>
+          <item>meate, s. « passage » (meatus)</item>
+          <item># meilleu, meillieu, s. m. « milieu »</item>
+          <item>meotyde, adj. « des Méotes » (maeotius)</item>
+          <item>mephite, s. m. « exhalaison méphitique venant du sol » (mephitis)</item>
+          <item># mestive, s. f. « moisson »</item>
+          <item># mestiver, v. tr. « moissonner »</item>
+          <item>@ missile, s. m. pl. « armes de trait considérées dans leur vol » (missile)</item>
+          <item>myertee (var. myrté), adj. « de myrte » (myrtaceus, absent de Virgile VI, 473)</item>
+          <item>@ nautique, adj. « relatif à la navigation » (nauticus)</item>
+          <item>neptunye, adj. « de Neptune » (neptunius)</item>
+          <item>noctivague, adj. « qui erre pendant la nuit » (noctivagus)</item>
+          <item>numade, adj. « Nomade, peuple errant de Numidie » (dér. de <hi rend="i">Nomades</hi>)</item>
+          <item>obpugnant, adj. « belliqueux » (oppugnare, absent de Virgile X, 276)</item>
+          <item>@ obsequieux, adj. « attentif, respectueux (d’une attitude) »</item>
+          <item>omnigene, adj. « de toute forme » (omnigenus)</item>
+          <item>occrees, s. f. pl. « jambières » (ocrea)</item>
+          <item>oënotrye, adj. « oenotrien, italien » (oenotrius)</item>
+          <item>ortyns, adj. « d’Ortina » (dér. de <hi rend="i">Ortina</hi>)</item>
+          <item>palancee, adj. « de Pallantée » (pallanteus)</item>
+          <item># pampre, s. m. « pampre »</item>
+          <item>peanique, adj. « à la manière des Péoniens » (paeonius)</item>
+          <item>@ pennache, s. m. « bouquet de plumes porté sur le casque »</item>
+          <item>pheaques « qui appartient aux Phéaciens » (dér. de Phaeaces)</item>
+          <item>papaver, s. m. « pavot » (papaver)</item>
+          <item>pelte, s. « petit bouclier en forme de croissant » (pelta)</item>
+          <item>peple, s. « péplum » (peplum)</item>
+          <item>pistre, s. f. « baleine » (pristis)</item>
+          <item># poste, s.f. « planche de bois ; poutre »</item>
+          <item>pronube, s. f. « celle qui accompagne et assiste la mariée » (pronuba)</item>
+          <item>propugnacule, s. « ouvrage de défense, pont-levis ? » (propugnaculum)</item>
+          <item># pynyer, s. m. « pin »</item>
+          <item>reflexe, adj. « qui se retourne » (refectere)</item>
+          <item>@ regie, s. f. « palais royal » (regia)</item>
+          <item># remide, remyde, s. m. « moyen d’échapper à une situation (généralement difficile) »</item>
+          <item>romulee, adj. « de Romulus » (romuleus)</item>
+          <item>rutule, adj. « des Rutules » (rutulus)</item>
+          <item>ryme, s. f. « fissure » (rimosus)</item>
+          <item>salentin, adj. « des Salentins » (salentinus)</item>
+          <item>sarraste, adj. « appartenant au peuple des Sarrastes » (dér. de <hi rend="i">Sarrastes</hi>)</item>
+          <item># saulaie, s. f. « lieu planté de saules »</item>
+          <item># saule, s. m. « saule »</item>
+          <item>sebetride, adj. « du Sébéthos, fleuve de Campanie » (sebethis)</item>
+          <item>@ silvicole, adj. « qui habite les forêts » (siluicola)</item>
+          <item>@ sistre, s. m. « instrument de musique à percussion » (sistrum)</item>
+          <item>spectacle, s. m. « lieu d’observation en hauteur » (specula)</item>
+          <item>strymonye, adj. « du Strymon, fleuve de Thrace » (strymonius)</item>
+          <item>supprimant, adj. « accablant » (Huguet)</item>
+          <item>sycane, adj. « sicilien » (sicanus)</item>
+          <item>sycanye, adj. « sicilien » (sicanus)</item>
+          <item>syderëal, adj. « étoilé » (sidereus)</item>
+          <item>sydicine, adj. « de Sidicinum, ville de Campanie » (sidicinus)</item>
+          <item>sydonian, adj. « de Sidon » (sidonius)</item>
+          <item>sydonye, adj. « de Sidon » (sidonius)</item>
+          <item># taiser, se taiser, v. tr. ou pr. « (se) taire »</item>
+          <item>tarpeÿe, adj. « tarpéienne » (collocations siege t. pour <hi rend="i">Tarpeia sedex</hi> et arce t. pour <hi rend="i">T. arx</hi>)</item>
+          <item>tarquin, adj. « de Tarquin » (tarquinius)</item>
+          <item>@ taurin, thaurin, adj. « relatif au taureau »</item>
+          <item>temeré, adj. « maculé » (antonyme de intemeré, FEW 4, 739a intemeratus)</item>
+          <item>tergemine, tergemyne, adj. « né le troisième du même enfantement » (tergeminus)</item>
+          <item>thaure, s. m. « taureau » (taurus)</item>
+          <item>thraÿcie, adj. « de Thrace » (threicius)</item>
+          <item>thuscan, adj. « étrusque » (tuscus)</item>
+          <item>thusque, adj. « étrusque » (tuscus)</item>
+          <item>thyrrenne, thyerrenne (var. thirrenne), adj. « Tyrrhénien, de l’Etrurie » (tyrrhena)</item>
+          <item>tonitru, adj. « tonnant » (dér. de <hi rend="i">tonare</hi> IV, 510)</item>
+          <item>@ trabee, s. f. « toge de pourpre antique pour les cérémonies d’apparat » (trabea)</item>
+          <item># trayne, s. f. « poutre de bois »</item>
+          <item># tronsse, s. f. « tronc d’arbre »</item>
+          <item>trude (var. trudens), s. f. « pique garnie de fer » (trudis)</item>
+          <item>turrigere, adj. « garni de tours » (turriger)</item>
+          <item>tybride, adj. « du Tibre » (dér. de <hi rend="i">Thybris</hi>)</item>
+          <item>tyburtin, tyburtyn, adj. « de Tibur » (tiburtinus)</item>
+          <item>trytonye, adj. « Tritonien » (tritonius)</item>
+          <item>venabule, s. « épieu de chasseur » (venabulum)</item>
+          <item>veteré, adj. « antique » (vetus)</item>
+          <item># vironner, v. tr. « tourner autour » et intr. « circuler »</item>
+          <item>vulcanye, adj. « de Vulcain » (vulcanius)</item>
+          <item>vyme, s. « bois flexible » (vimen)</item>
+          <item>ybere, adj. « ibérique » (dér. <hi rend="i">Ibera</hi>)</item>
+          <item>
+            <emph>ydé, adj. « de l’Ide » (idaeus)</emph>
+          </item>
+        </list>
+      </div>
+      <div>
+        <head>5. Bibliographie</head>
+        <div>
+          <head>Sources primaires</head>
+          <p>P. Vergilius Maro, <hi rend="i">Aeneis</hi>, éd. Gian Biagio Conte, Berlin/Boston, De Gruyter, 2019.</p>
+          <p>Joachim Du Bellay, <hi rend="i">Œuvres poétiques</hi>, éd. Henri Chamard, 8 vol., Paris, STFM, 1982-1991, t. 6, <hi rend="i">Discours et traductions</hi>, 1991.</p>
+          <p>Octovien de Saint-Gelais, <hi rend="i">Le Séjour d’Honneur</hi>, éd. Frédéric Duval, Genève, Droz, 2002.</p>
+        </div>
+        <div>
+          <head>Articles et monographies</head>
+          <listBibl>
+            <bibl><author>Beard, Jennifer</author>, 1969. « Letters from the Elysian Fields : A Group of Poems for Louis XII », <title>BHR</title>, 31, p. 27-38.</bibl>
+            <bibl><author>Bonicoli, Louis-Gabriel</author>, 2015. La production du libraire-éditeur parisien Antoine Vérard (1485-1512) : nature, fonctions et circulation des images dans les premiers livres imprimés illustrés, thèse soutenue le 3 décembre 2015, Univ. Paris-Ouest – Nanterre La Défense.</bibl>
+            <bibl><author>Brückner, Thomas</author>, 1990. « Un traducteur de Virgile inconnu du XVIe siècle : Jean d’Ivry », Les lettres Romanes, 44/3, 1990, p. 171-180.</bibl>
+            <bibl><author>Brückner, Thomas</author>, 1987. Die erste französische Aeneis. Untersuchungen zu Octovien de Saint-Gelais’ Übersetzung. Mit einer kritischen Edition des VI. Buches, Düsseldorf, Droste.</bibl>
+            <bibl><author ref="https://data.bnf.fr/ark:/12148/cb11899357h">Delisle, Léopold</author>, 1868. Le Cabinet des manuscrits de la Bibliothèque impériale, Paris, 2 vol.</bibl>
+            <bibl><author>Delvallée, Hélène</author>, 2015. « Hélisenne de Crenne : traduire, réécrire, amplifier Virgile au XVI<hi rend="sup">e</hi> siècle », <title>Exercices de rhétorique</title> [En ligne], 5, mis en ligne le 17 septembre 2015, consulté le 19 janvier 2023. En ligne : &lt;<ref target="http://journals.openedition.org/rhetorique/416">http://journals.openedition.org/rhetorique/416</ref>&gt;.</bibl>
+            <bibl><author>Derosiers, Diane</author>, 2017. « Hélisenne de Crenne et la traduction des quatre premiers livres de l’Énéide », RHR, 85/2, p. 171-190.</bibl>
+            <bibl><author>Dugaz, Lucien</author>, 2015. « J’ai entrepris de coucher en mes vers/ Le cas de Troye qui fut mise à l’envers ». Édition critique des livres I et II de l’Énéide d’Octovien de Saint-Gelais. Mémoire de M2, Université de Paris 3. En ligne : &lt;<ref target="http://www.atilf.fr/dmf/Eneide/">http://www.atilf.fr/dmf/Eneide/</ref>&gt;.</bibl>
+            <bibl>Dugaz, Lucien, 2016. « Pour en finir avec la Renaissance ? L’exemple d’Octovien de Saint-Gelais et de sa traduction de l’Énéide de Virgile (1500) ». Questes, 33. En ligne : &lt;<ref target="http://journals.openedition.org/questes/4301">http://journals.openedition.org/questes/4301</ref>&gt;.</bibl>
+            <bibl>Dugaz, Lucien, 2022. « Through the mirror for princes. An Anti-War Aeneid for Louis XII: Octovien de Saint-Gelais, 1500 », CRMH, 43, p. 112-132.</bibl>
+            <bibl>Dugaz, Lucien, à paraître a. « <title>De pierrerye et de redymycules / Qui sont choses vaynes et redycules</title>. Premières attestations lexicales dans la traduction de l’<title>Énéide</title> par Octovien de Saint-Gelais ».</bibl>
+            <bibl>Dugaz, Lucien, à paraître b. « Le saule et la saulcille. Jean d’Ivry remanieur d’Octovien de Saint-Gelais : l’<title>Énéide</title> entre manuscrits charentais et <title>editio princeps</title> parisienne (1500-1509) », <title>Études diachroniques</title>, 2.</bibl>
+            <bibl>Dugaz, Lucien, à paraître c. « <title>Pleurant son roy pluscler que nul anticque</title>. Édition de la <title>Complainte</title> et de l’<title>Epitaphe</title> de Charles VIII par Octovien de Saint-Gelais », <title>Romania</title>.</bibl>
+            <bibl>Durrieu, Paul et Marquet de Vasselot, Jean-Joseph, 1894. Les manuscrits à miniatures des Héroïdes d’Ovide, traduites par Saint-Gelais, et un grand miniaturiste français du XVIe siècle, Paris.</bibl>
+            <bibl>Duval, Frédéric, 2001. « Les ’melliflux termes nouveaux’ du Séjour d’Honneur ». Revue de linguistique romane, 65, p. 397-448.</bibl>
+            <bibl>Duval, Frédéric, 2003. « Les sources du Séjour d’Honneur ». Romania, 121, p. 164–191.</bibl>
+            <bibl>Ehrling, Sara et Karlsson, Britt-Marie, 2015. « Didon et Énée dans le seizième siècle français. La version d’Hélisenne de Crenne de l’<title>Énéide</title> », <title>Milli Mála – Journal of Language and Culture</title>, 7, p. 199-224.</bibl>
+            <bibl>En ligne : &lt;<ref target="https://millimala.hi.is/wp-content/uploads/2016/02/Didon-et-E%CC%81ne%CC%81e-dans-le-seizie%CC%80me-sie%CC%80cle-franc%CC%A7ais.-La-version-d%E2%80%99He%CC%81lisenne-de-Crenne-de-l%E2%80%99E%CC%81ne%CC%81ide.pdf">https://millimala.hi.is/wp-content/uploads/2016/02/Didon-et-E%CC%81ne%CC%81e-dans-le-seizie%CC%80me-sie%CC%80cle-franc%CC%A7ais.-La-version-d%E2%80%99He%CC%81lisenne-de-Crenne-de-l%E2%80%99E%CC%81ne%CC%81ide.pdf</ref>&gt;</bibl>
+            <bibl>Festeau, Vanessa, 2013. Louis XII sur les traces d’Énée, traduction de l’Énéide par Octovien de Saint-Gelais. Mémoire de maîtrise, Université de Lausanne.</bibl>
+            <bibl>Galderisi, Claudio (éd.), 2011. Translations médiévales (Transmédie). Cinq siècles de traductions en français au Moyen Âge (XIe - XVe siècles). Étude et Répertoire. Turnhout, Brepols, 2 vol.</bibl>
+            <bibl>Guy, Henri, 1910. Histoire de la poésie française au XVIe siècle. I. L’École des Rhétoriqueurs, Paris, Champion.</bibl>
+            <bibl>Hulubei, Alice, 1931. « Virgile en France au XVIe siecle : éditions, traductions, imitations ». Revue du seizième siècle, 18, p. 1-77.</bibl>
+            <bibl>Lecointe, Jean, 2019. « Les cadres rhétoriques de l’innutrition virgilienne dans le « roman sentimental » : Hélisenne de Crenne et Théodose Valentinian », Exercices de rhétorique, 12, En ligne : <ref target="http://journals.openedition.org/rhetorique/770">http://journals.openedition.org/rhetorique/770</ref> ; DOI : <ref target="https://doi.org/10.4000/rhetorique.770">https://doi.org/10.4000/rhetorique.770</ref></bibl>
+            <bibl>Le Fur, Didier, 2010 [2001]. Louis XII. Un autre César, Paris, Perrin.</bibl>
+            <bibl>Lemaire, Jacques, 1978. « Notes lexicologiques sur <title>Le séjour d’Honneur</title> d’Octavien de Saint-Gelais », <title>Le moyen français</title> 3, 89-106.</bibl>
+            <bibl>MacFarlane, John, 1971. Antoine Vérard, London, The Bibliographical Society at the Chiswick Press, 1900 (for 1899) / Genève, Slatkine Reprints.</bibl>
+            <bibl>Moreau : Inventaire chronologique des éditions parisiennes du xvie siècle, d’après les manuscrits de Philippe Renouard, Brigitte Moreau (éd.), Paris, Imprimerie municipale, 3 t., 1972-1985</bibl>
+            <bibl>Lieftinck, Gerard Isaäc, 1964. Manuscrits datés conservés dans les Pays-Bas, Amsterdam.</bibl>
+            <bibl>Les manuscrits à peintures en France du xiiie au xvie siècle, Jean Porcher, Paris, 1955.</bibl>
+            <bibl>de Maulde La Clavière, René, 1895. Louise de Savoie et François Ier. Trente ans de jeunesse (1485-1515), Paris, Perrin.</bibl>
+            <bibl>Molinier, Henri, 1910. Essai bibliographique et littéraire sur Octovien de Saint-Gelays, évêque d’Angoulême (1468-1502), Rodez, Carrère.</bibl>
+            <bibl>Molins, Marine, 2012. « Les traductions d’Ovide et de Virgile (1515-1580). Une politique royale », dans Dynamique des langues dans des villes plurilingues (xvie-xviie siècles) : les cas de Palerme, Naples, Milan et Anvers, Munich, 2012, en ligne, &lt; <ref target="http://halshs.archives-ouvertes.fr/docs/00/64/08/95/PDF/Les_traductions_dOvide_et_de_Virgile_1515-1580_Une_politique_royale_2010.pdf/">http://halshs.archives-ouvertes.fr/docs/00/64/08/95/PDF/Les_traductions_dOvide_et_de_Virgile_1515-1580_Une_politique_royale_2010.pdf/</ref> &gt;</bibl>
+            <bibl>Monfrin, Jacques, 1985. « Les translations vernaculaires de Virgile au Moyen Âge ». Lectures médiévales de Virgile. Actes du colloque organisé par l’École française de Rome (Rome, 25-28 octobre 1982), Rome/Paris, De Boccard, p. 189-249.</bibl>
+            <bibl>Mühlethaler, Jean-Claude, 2016. Énée le mal-aimé, du roman médiéval à la bande-dessinée. Paris, Les Belles Lettres.</bibl>
+            <bibl>Mühlethaler, Jean-Claude, 2011. « Réécritures virgiliennes et statut de la mythologie à l’aube de la Renaissance. Du "Lay d’Abus" dans le <title>Séjour d’Honneur</title> à la translation de l’<title>Eneide</title> par Octovien de Saint-Gelais », <title>L’Antiquité entre Moyen Âge et Renaissance</title>, Chrystèle Blondeau et Marie Jacob (dir.), Paris, Presses Universitaires de Paris Ouest, p. 307-327.</bibl>
+            <bibl>Mühlethaler, Jean-Claude, 2007. « L’<title>Eneÿdes</title> d’Octovien de Saint-Gelais, une ‘translation’ à la gloire du roi de France ? ». Camaren, 2, p. 85-100.</bibl>
+            <bibl>Ouy, Gilbert, 2007. La librairie des frères captifs. Les manuscrits de Charles d’Orléans et Jean d’Angoulême, Turnhout, Brepols, 2007.</bibl>
+            <bibl>Paris, Paulin, 1848. Les manuscrits françois de la bibliothèque du roi, Paris, 7 vol.</bibl>
+            <bibl>Pasquier, Bernadette, 1992. Virgile illustré de la Renaissance à nos jours en France et en Italie, Paris, Touzot.</bibl>
+            <bibl>Pollock Renck, Anneliese, 2013.« The prologue as site of translatio auctoritatis in three works by Octovien de Saint-Gelais », Le moyen français, 73, p. 89-110.</bibl>
+            <bibl>Provini, Sandra, 2022. <title>Édition critique des</title> Contrepistres <title>d’Ovide de Michel d’Amboise</title>, inédit du dossier d’Habilitation à diriger des recherches, soutenu à l’Université Paris Cité le 12 février 2022.</bibl>
+            <bibl>Provini, Sandra, 2020. « Répondre à Didon », <title>Michel d’Amboise humaniste</title>, dir. Sandra Provini, <title>Camenae</title>, 25. En ligne :</bibl>
+            <bibl>&lt;<ref target="https://www.saprat.fr/media/4851e63a5d1fb9bd7bf68ae2c0c4df05/camenae-25-6-provini.pdf">https://www.saprat.fr/media/4851e63a5d1fb9bd7bf68ae2c0c4df05/camenae-25-6-provini.pdf</ref>&gt;</bibl>
+            <bibl>Renouard, Philippe, 1908. <title>Bibliographie des impressions et des œuvres de Josse Badius Ascensius, imprimeur et humaniste, 1462-1535. Avec une notice biographique et 44 reproductions en fac-simile</title>, Paris, Paul et Guillemin, 3 t.</bibl>
+            <bibl>Renouard, Philippe, 1926-1928. Les marques typographiques parisiennes des XVe et XVIe siècles, Paris, H. Champion.</bibl>
+            <bibl>Rochebouet, Anne, 2009. « Une confusion graphique fonctionnelle ? Sur la transcription du u et du n dans les textes en ancien et moyen français », <title>Scriptorium</title>, 63/2, 206-219.</bibl>
+            <bibl>Scollen, Christine, 1977. « Poetry or propaganda ? Octovien de Saint-Gelais’ translation of the Aeneid », BHR, 39, p. 253-261.</bibl>
+            <bibl>Scollen-Jimack, Christine, 1982. « Hélisenne de Crenne, Octovien de Saint-Gelais and Vergil », Studi Francesi, 27, p. 197-210.</bibl>
+            <bibl>Sénemaud, Edmond, 1861. La bibliothèque de Charles d’Orléans, comte d’Angoulême, au château de Cognac, en 1496, Paris, A. Claudin.</bibl>
+            <bibl>Slerca, Anna, 1997. « Octovien de Saint-Gelais traducteur de Virgile et d’Ovide, et la néologie », Le Moyen français, 39/41, p. 555-568.</bibl>
+            <bibl>Vernet, André, 1982. « Virgile au Moyen Âge ». Comptes-rendus des séances de l’Académie des Inscriptions et Belles-Lettres 4, p. 761-772.</bibl>
+            <bibl>Worth-Stylianou, Valerie, 2013. « Virgilian Space in Renaissance French Translations of the Aeneid », Virgilian Identities in the French Renaissance, dir. Phillip John Usher et Isabelle Fernbach, Cambridge, Cambridge University Press, p. 117-140.</bibl>
+            <bibl>Zink, Michel, 2004. Littérature française du Moyen Âge, Paris, PUF. </bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
