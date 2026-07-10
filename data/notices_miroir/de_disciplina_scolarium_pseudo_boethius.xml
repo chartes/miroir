@@ -1,0 +1,181 @@
+<?xml-model href="../../miroir.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/xsl" href="../../xsl/miroir2html.xsl"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="de_disciplina_scolarium_pseudo_boethius" xml:lang="fr">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title><hi rend="i">De disciplina scolarium</hi>, Pseudo Boethius</title>
+        <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
+        <author key="Duval, Frédéric (1972-....)" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
+        <sponsor>Équipement d'excellence Biblissima</sponsor>
+      </titleStmt>
+      <editionStmt>
+        <edition>École nationale des chartes</edition>
+        <respStmt>
+          <name xml:id="FD">Frédéric Duval</name>
+          <resp>établissement de la notice, 2006</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="G">Guillaume</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="HRC">Hélène Rochette-Castel</name>
+          <resp>révision de la notice</resp>
+        </respStmt>
+        <respStmt>
+          <name xml:id="VJ">Vincent Jolivet</name>
+          <resp>informatique documentaire</resp>
+        </respStmt>
+      </editionStmt>
+      <publicationStmt>
+        <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
+        <date when="2017">2017</date>
+        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/de_disciplina_scolarium_pseudo_boethius.xml</idno>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
+          <p>L'École nationale des chartes met à disposition cette ressource électronique
+            structurée, protégée par le code de la propriété intellectuelle sur les
+            bases de données (L341-1), selon les termes de la licence *Creative Commons*
+            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
+            France». Cette licence est disponible en ligne
+            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
+            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
+            94105, USA.</p>
+          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
+            encourager l'utilisation et l'amélioration de ses ressources électroniques,
+            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
+            au-delà du champ de cette licence doit être obtenue auprès de l'École
+            nationale des chartes.</p>
+          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
+            l'École nationale des chartes s'engage à conserver et à toujours offrir
+            publiquement la version la plus à jour de ses ressources électroniques par
+            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
+            les contributions qui lui sont soumises (après validation par un comité
+            scientifique), et à référencer l'origine de ces contributions. Toute
+            modification de la ressource qui ne serait pas reversée à la version de
+            référence sous l'autorité éditoriale de l'École nationale des chartes doit
+            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
+            contributions et de permettre les meilleures conditions possibles de
+            collaboration scientifique.</p>
+          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
+            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
+            nationale des chartes et, pour les publications électroniques, son logo 2)
+            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
+            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
+          <p>Tout litige soulevé par le non respect des termes de cette licence sera
+            soumis à la juridiction des tribunaux de Paris.</p>
+        </availability>
+      </publicationStmt>
+      <seriesStmt>
+        <title>Miroir des classiques</title>
+      </seriesStmt>
+      <sourceDesc>
+        <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
+        <bibl><author>Julius Valerius Polemius</author>, <title>Epitome</title>, (nativement numérique).</bibl>
+      </sourceDesc>
+      <noteStmt>
+        <note type="abstract">Notice</note>
+      </noteStmt> 
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="2006">2006</date>
+      </creation>
+      <langUsage>
+        <language ident="fr"/>
+      </langUsage>
+      <textClass>
+        <keywords>
+          <term key="https://data.bnf.fr/ark:/12148/cb124275714">Julius Valerius Alexander Polemius</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+    <encodingDesc>
+      <refsDecl>
+        <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
+          <citeData use="head" property="dct:title"/>
+          <citeStructure match="div" use="@xml:id">
+            <citeData use="head" property="dct:title"/>
+          </citeStructure>
+        </citeStructure>
+      </refsDecl>
+    </encodingDesc>
+    <revisionDesc>
+      <change who="#G" when="2006-10-17">révision de la notice</change>
+      <change who="#HRC" when="2014-03">révision de la notice</change>
+      <change who="#VJ" when="2017-07">reprise du modèle documentaire</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="presentation">
+        <head>Diffusion latine</head>
+        <p>Le contenu de ce texte apparu dans les années 1230-1240 est donné par l’auteur dès l’avant-propos.</p>
+        <cit>
+          <quote>
+            <p>Il y a six chapitres qui concernent 1. la matière de l’enseignement — 2. comment soumettre les élèves à l’autorité du maître et à la discipline — 3. comment punir leur arrogance et corriger celle-ci par des exemples — 4. le soin du bien-être des élèves et les différents niveaux de leur intelligence — 5. comment les élèves dévoués doivent se préparer à la fonction de maître — 6. les maîtres, leurs règles et leurs catégories, leur comportement envers les élèves et leur méthode d’enseignement.</p>
+            <p>Dès son apparition, l’ouvrage a rencontré une large popularité. Le texte a été fréquemment copié jusqu’à la fin du Moyen Age. On conserve ainsi 23 mss du XIII<hi rend="sup">e</hi> s. Le texte s’est transmis sans changements importants, sans doute en raison de l’autorité de son auteur supposé. Il a surtout servi à l’étude et au travail, comme l’attestent les modestes témoins qui nous le conservent, souvent chargés de gloses et de commentaires.</p>
+          </quote>
+          <bibl>(D'après Pseudo-Boèce, <title>De disciplina scolarium</title>, éd. O. Weijers, Leyde, 1976, p. 11 et 89)</bibl>
+        </cit>
+        <listBibl>
+          <bibl>Pseudo-Boèce, <title>De disciplina scolarium</title>, éd. O. Weijers, Leyde, 1976</bibl>
+        </listBibl>
+      </div>
+      <div type="traduction" xml:id="lille">
+        <head>Traduction anonyme "ad verbum"</head>
+        <dateline>
+          <date notBefore="1401" notAfter="1450">première moitié du XV<hi rend="sup">e</hi> siècle</date>
+        </dateline>
+        <div type="incipit">
+          <head>Incipit</head>
+          <p>d'après le ms</p>
+          <msDesc corresp="#lille_388">
+            <msIdentifier>
+              <settlement>Lille</settlement>
+              <repository>bibl. mun.</repository>
+              <idno>388</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem>
+                <locus>f. 37-65</locus>
+                <incipit>Vestra (vostre) novit (a congnut) intencio (intention) de scolarium (des escoliers) disciplina (de le discipline)...</incipit>
+                <explicit>...vero (certe) altius (d’aultre) saporis (saveur) inquinamenta (soullures) permanebunt (semper/toudis demourront).</explicit>
+              </msItem>
+            </msContents>
+          </msDesc>
+        </div>
+        <div type="manuscrit">
+          <head>Manuscrit</head>
+          <listBibl type="msList">
+            <msDesc xml:id="lille_388" sameAs="remedia_amoris_ovidius.xml#lille_388"><!-- type="biblissima" -->
+              <msIdentifier>
+                <settlement>Lille</settlement>
+                <repository>bibl. mun.</repository>
+                <idno>388</idno>
+              </msIdentifier>
+              <msContents>
+                <p>glossaire latin-français f. 1a-12d ; <title>Olla patella</title> avec gloses françaises f. 13-22v ; <title>Cornutus ou Distigium</title> glosé attribué dans le ms à <persName>Jean de Garlande</persName> f. 23-25v ; Dictionnaire latin-français f. 26-36v (inc. <seg type="incipit">dictionarius dicitur libellus a dictionibus</seg>...) ; Boèce, <title>De disciplina scolarium</title>, texte latin accompagné d’une traduction interlinéaire mot à mot et d’une glose latine marginale [titres : <title>Hic incipit liber Boecii de disciplina scolarium</title> f. 37 ; <title>Explicit (Finist) Boecius (Boesse)</title> f. 65] f. 37-65 ; f. 65v blanc ; traduction littérale et mot à mot du <title>De remedia amoris</title> d’<persName>Ovide</persName> [titre : <title>Explicit Ovidius completus ab amoribus</title> f. 95] f. 66-95 ; f. 95v blanc ;
+                  <title>Floretus</title> (poème de 1160 vers attribué à
+                  <persName>saint Bernard</persName>, <persName>Jean de Garlande</persName> ou <persName>saint Bonaventure</persName>) avec traduction littérale interlinéaire [titre : <title>Explicit Floretus bonorum morum</title> f. 125] f. 96-125 ; f. 125v blanc ; notes en latin sur divers mots grecs et latins sur diverses interprétations données au mot <quote>« Alleluya »</quote> f. 126-126v ; <persName>Jean Balbi</persName>, <title>Catholicon</title> f. 127-315 ; suite du glossaire latin-français des f. 1-12, f. 315c-317d ; glossaire français-latin de verbes f. 318a-320v, suivi de quelques toponymes f. 320v-321a</p>
+              </msContents>
+              <physDesc>
+                <objectDesc>
+                  <p>318 f. papier</p>
+                </objectDesc>
+              </physDesc>
+              <history>
+                <origin notBefore="1401" notAfter="1450">1<hi rend="sup">re</hi> moitié du XV<hi rend="sup">e</hi> siècle (f. 37 écriture de gros module proche du ms Paris, bibl. Arsenal 2570, f. 1 [1437], <title>Mss datés</title>, t. I, pl. 93)</origin>
+              </history>
+              <additional>
+                <adminInfo><recordHist><source>Notice établie à partir du microfilm.</source></recordHist></adminInfo>
+                <listBibl>
+                  <bibl><title>Catalogue général des manuscrits des bibliothèques publiques de France</title>, t. 26 (1897), p. 265-266</bibl>
+                </listBibl>
+              </additional>
+            </msDesc>
+          </listBibl>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
