@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Comediae</hi>, P. Terentius Afer</title>
+        <title ref="https://www.wikidata.org/wiki/Q136389046 https://portail.biblissima.fr/fr/ark:/43093/oedata47ec957104fff0276704a80277e6a65bc13cb3e4 https://data.biblissima.fr/entity/Q283933"><hi rend="i">Comediae</hi>, P. Terentius Afer</title>
+        <title type="short">Comediae</title>
         <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
         <author xml:id="FC" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
@@ -26,79 +27,61 @@
           <resp>informatique documentaire</resp>
         </respStmt>
       </editionStmt>
+      <extent />
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2017">2017</date>
-        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/comediae_terentius.xml</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
+        <address>
+          <addrLine>65, rue de Richelieu</addrLine>
+          <addrLine>75002 Paris</addrLine>
+          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>https://www.chartes.psl.eu/</addrLine>
+        </address>
+        <date>2017</date>
+        <idno>http://elec.enc.sorbonne.fr/miroir/comediae_terentius</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
         <title>Miroir des classiques</title>
+        <idno type="vol">17</idno>
       </seriesStmt>
+      <notesStmt>
+        <note type="abstract">Notice</note>
+        <note type="citation">Frédéric Duval (éd.), <title><hi rend="i">Comediae</hi>, P. Terentius Afer</title>, École nationale des chartes – PSL, 2017.</note>
+      </notesStmt>
       <sourceDesc>
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
-        <bibl><author>P. Terentius Afer</author>, <title>Comediae</title>, (nativement numérique).</bibl>
+        <bibl source="https://portail.biblissima.fr/fr/ark:/43093/oedata47ec957104fff0276704a80277e6a65bc13cb3e4 https://data.biblissima.fr/entity/Q283933"><author>P. Terentius Afer</author>, <title>Comediae</title>, (nativement numérique).</bibl>
       </sourceDesc>
-      <noteStmt>
-        <note type="abstract">Notice</note>
-      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="2006">2006</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
       <textClass>
         <keywords>
           <term key="https://data.bnf.fr/ark:/12148/cb12449870h">Donat (0320?-0380?)</term>
+          <term type="temporalCoverage"><date>1401/1510</date></term>
         </keywords>
       </textClass>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p>Le « Miroir des classiques » est une base de données codicologiques et textuelles consacrée aux traductions d’auteurs classiques en langues gallo-romanes (français et occitan) au Moyen Âge. Pour chaque œuvre, les différentes traductions sont présentées dans leur ordre chronologique, accompagnées de l’analyse précise des manuscrits et éditions anciennes qui les conservent. Le projet, dirigé par Frédéric Duval (École nationale des chartes – PSL, Centre Jean-Mabillon), a bénéficié du soutien de l’Équipement d’excellence Biblissima puis de Biblissima+.</p>
+      </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div" use="@xml:id" unit="traduction">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
               <citeStructure match="div" use="@xml:id">
-                <citeData use="head" property="dct:title"/>
+                <citeData use="head" property="dct:title" />
               </citeStructure>
             </citeStructure>
           </citeStructure>
@@ -137,8 +120,8 @@
           <bibl><title type="ancien">Le Grant Therence en françoys tant en rime que en prose</title>, Paris, <publisher>Guillaume de Bossozel</publisher> pour
             <publisher>Guillaume Le Bret</publisher>, 1539</bibl>
           <p>Ne craignez point a achapter ce livre
-            <lb/>Car maintz propos decens y trouverez <lb/>Les motz dorez pesez a juste livre <lb/>Sentencieux que chascun peut ensuivre <lb/>La sont cachez comme bien prouverez <lb/>Certes je sçay que joyeulx en serez <lb/>Beau passe temps vous sera en tous lieux <lb/>A juste pris doncques l’achapterez <lb/>Le livre plus que l’argent priserez
-            <lb/>Romans n’avez qui vous apprennent mieulx.
+            <lb />Car maintz propos decens y trouverez <lb />Les motz dorez pesez a juste livre <lb />Sentencieux que chascun peut ensuivre <lb />La sont cachez comme bien prouverez <lb />Certes je sçay que joyeulx en serez <lb />Beau passe temps vous sera en tous lieux <lb />A juste pris doncques l’achapterez <lb />Le livre plus que l’argent priserez
+            <lb />Romans n’avez qui vous apprennent mieulx.
           </p>
         </div>
         <div type="incipit">
@@ -157,22 +140,22 @@
                 <msItem>
                   <locus>ms f. 1</locus>
                   <title>Argument</title>
-                  <incipit>L’argument de la fable d’André <lb/>Pamphile filz de Symo s’enamoura de Glicerium une jeune fille laquelle estoit venue du lignage d’André et l’avoit recueillie une femme de fol gouvernement nommee Crisis...</incipit>
+                  <incipit>L’argument de la fable d’André <lb />Pamphile filz de Symo s’enamoura de Glicerium une jeune fille laquelle estoit venue du lignage d’André et l’avoit recueillie une femme de fol gouvernement nommee Crisis...</incipit>
                 </msItem>
                 <msItem>
                   <locus>impr. f. 5</locus>
                   <title>Second argument ajouté par l’imprimé</title>
-                  <incipit>La fable de André <lb/>Pamphile qui vault autant a dire que tout amoureux fut ung beau jeune filz tant que pour sa beaulté ainsi que tesmoigne Quintilien ung paintre souverain fist plusieurs ymages d’amours...</incipit>
+                  <incipit>La fable de André <lb />Pamphile qui vault autant a dire que tout amoureux fut ung beau jeune filz tant que pour sa beaulté ainsi que tesmoigne Quintilien ung paintre souverain fist plusieurs ymages d’amours...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 1 ; impr. f. 3</locus>
                   <title>Prologue de Térence</title>
-                  <incipit>Cy commence le prologue de la fable <lb/>Quant Therence nostre poëte appliqua premierement son entendement a escrire il cuidoit tant seulement mectre son entente en ce que les fables qu’il avoit faictes pleussent au peuple...</incipit>
+                  <incipit>Cy commence le prologue de la fable <lb />Quant Therence nostre poëte appliqua premierement son entendement a escrire il cuidoit tant seulement mectre son entente en ce que les fables qu’il avoit faictes pleussent au peuple...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 1v ; impr. f. 6 – ms f. 20v ; impr. f. 77</locus>
                   <title>Texte</title>
-                  <incipit>Cy commence la comedie et parle Symo le vieillart a Sosya son serviteur <lb/>Vous qui estes leans dedans ostez cela alez hors. Sosya soyes present je vueil ung pou parler a toy.</incipit>
+                  <incipit>Cy commence la comedie et parle Symo le vieillart a Sosya son serviteur <lb />Vous qui estes leans dedans ostez cela alez hors. Sosya soyes present je vueil ung pou parler a toy.</incipit>
                   <explicit>...n’atens pas qu’ilz yssent elle sera leans espousee. Tout le demourant se parfera leans Resjouyssés vous faites bonne chiere.</explicit>
                 </msItem>
               </msItem>
@@ -182,23 +165,23 @@
                   <locus>impr. f. 79</locus>
                   <title>1er argument uniquement dans l’imprimé</title>
                   <incipit>Au commencement de ceste comedie appellee L’eunuch Therence nostre acteur pour mieulx entendre la substance d’icelle a voulu mectre par une maniere de preambule deus argumens...</incipit>
-                  <incipit>Le premier argument <lb/>A Rhodes estoit une femme meretrice nommee Thaÿs laquelle avoit encores sa mere qui riche estoit Advint que par nauffrage fut portee de Athenes une jeune pucelle a Rhodes...</incipit>
+                  <incipit>Le premier argument <lb />A Rhodes estoit une femme meretrice nommee Thaÿs laquelle avoit encores sa mere qui riche estoit Advint que par nauffrage fut portee de Athenes une jeune pucelle a Rhodes...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 21 ; impr. f. 79v</locus>
                   <title>2e argument dans l’imprimé ; seul argument dans le manuscrit</title>
-                  <incipit>L’argument de la fable qui se intitule De l’eunuch <lb/>Une fole femme nommee Thaïs ferma son huis a ung jeune homme adolescent nommé Phedria lequel amoit icelle Thaïs...</incipit>
+                  <incipit>L’argument de la fable qui se intitule De l’eunuch <lb />Une fole femme nommee Thaïs ferma son huis a ung jeune homme adolescent nommé Phedria lequel amoit icelle Thaïs...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 21 ; impr. f. 80</locus>
                   <title>Prologue de Térence</title>
-                  <incipit>Le prologue <lb/>Si aucun est qui s’estudie a plaire a plusieurs bons et ne blesser nulz nostre poëte confesse son nom et sa renommee estre telz car jamais ne parle en mal d’aucun...</incipit>
+                  <incipit>Le prologue <lb />Si aucun est qui s’estudie a plaire a plusieurs bons et ne blesser nulz nostre poëte confesse son nom et sa renommee estre telz car jamais ne parle en mal d’aucun...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 22 ; impr. f. 81 - ms f. 43v ; impr. f. 153v</locus>
                   <title>Texte</title>
-                  <incipit>Phedria adolescent et Parmeno son serviteur<lb/>Phedria soy complaignant a son serviteur Parmeno de Thaïs qui l’avoit exclus et plusieurs foiz avoit trouvé visage de boys...</incipit>
-                  <explicit>Phedria Nous n’avons riens laissié Gnato Alez la ensemble Et alors le recitateur de ceste fable nommé Caliopus donne congié au peuple romain disant ainsi Soyez joyeux etc. <lb/>Explicit L’eunuque.</explicit>
+                  <incipit>Phedria adolescent et Parmeno son serviteur<lb />Phedria soy complaignant a son serviteur Parmeno de Thaïs qui l’avoit exclus et plusieurs foiz avoit trouvé visage de boys...</incipit>
+                  <explicit>Phedria Nous n’avons riens laissié Gnato Alez la ensemble Et alors le recitateur de ceste fable nommé Caliopus donne congié au peuple romain disant ainsi Soyez joyeux etc. <lb />Explicit L’eunuque.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -206,19 +189,19 @@
                 <msItem>
                   <locus>ms f. 44 ; impr. f. 156v</locus>
                   <title>Argument</title>
-                  <incipit>L’argument de la comedie tierce nommee Heautontymorumenos <lb/>Menedemus ung vieillart rude et rebelle par sa rudesse et les durs termes qu’il tenoit a Clinia son filz qui estoit amoureux...</incipit>
+                  <incipit>L’argument de la comedie tierce nommee Heautontymorumenos <lb />Menedemus ung vieillart rude et rebelle par sa rudesse et les durs termes qu’il tenoit a Clinia son filz qui estoit amoureux...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 44 ; impr. f. 156v</locus>
                   <title>Prologue de Térence</title>
-                  <incipit>La prologue en Heautontimorimenos <lb/>Affin que aucun de vous ne se donne merveille pour quoy nostre poëte a baillié les parties ou choses que deveroient faire les jeunes a moy qui suis vieil...</incipit>
+                  <incipit>La prologue en Heautontimorimenos <lb />Affin que aucun de vous ne se donne merveille pour quoy nostre poëte a baillié les parties ou choses que deveroient faire les jeunes a moy qui suis vieil...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 45 ; impr. f. 157v - ms f. 69v ; impr. f. 228v</locus>
                   <title>Texte</title>
                   <incipit>Cremes Menedemus deux vieillars et parle Cremes a son voisin Menedemus en ceste maniere
-                    <lb/>Mon voisin et ami la congnoissance qui est maintenant grande entre toy et moy...</incipit>
-                  <explicit>Clitipho Je te prie que tu pardonnes a Sirus toutes les choses qu’il a faictes pour moy et a ma cause Cremes Soit fait Je lui pardonne Soiez saufz et vous esjoissez je Caliopius l’ay recitee <lb/>Explicit Heautontimorumenos.</explicit>
+                    <lb />Mon voisin et ami la congnoissance qui est maintenant grande entre toy et moy...</incipit>
+                  <explicit>Clitipho Je te prie que tu pardonnes a Sirus toutes les choses qu’il a faictes pour moy et a ma cause Cremes Soit fait Je lui pardonne Soiez saufz et vous esjoissez je Caliopius l’ay recitee <lb />Explicit Heautontimorumenos.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -227,24 +210,24 @@
                   <locus>ms f. 70 ; impr. f. 230v</locus>
                   <title>Argument</title>
                   <incipit>Cy commence l’argument de la fable de Adelphos qui vault autant a dire comme la fable des freres
-                    <lb/>Ung vieillart nommé Demea avoit deux enfans beaulx adolescens l’ung nommé Eschin et l’autre Thesipho...</incipit>
+                    <lb />Ung vieillart nommé Demea avoit deux enfans beaulx adolescens l’ung nommé Eschin et l’autre Thesipho...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 70 ; impr. f. 231</locus>
                   <title>Prologue de Térence</title>
-                  <incipit>Le prologue recité par Caliopius <lb/>Aprés que nostre poëte Therence apperceut et congneut ses escriptz et fables estre regardez et gardez par ses adversaires...</incipit>
+                  <incipit>Le prologue recité par Caliopius <lb />Aprés que nostre poëte Therence apperceut et congneut ses escriptz et fables estre regardez et gardez par ses adversaires...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 70v ; impr. f. 231</locus>
                   <title>Indications scéniques</title>
-                  <incipit>Micio vieillart <lb/>Est a presupposer que ceste presente comedie ainsi que les autres precedentes est divisee en cinq actions dont la premiere est divisee en deux scenes...</incipit>
+                  <incipit>Micio vieillart <lb />Est a presupposer que ceste presente comedie ainsi que les autres precedentes est divisee en cinq actions dont la premiere est divisee en deux scenes...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 71 ; impr. f. 231v - ms f. 92 ; impr. f. 288v</locus>
                   <title>Texte</title>
-                  <incipit>Micio <lb/>Storax n’est point aujourd’uy retourné mon filz Eschin ne aucuns des serviteurs qui estoyent alez a l’encontre de lui...</incipit>
+                  <incipit>Micio <lb />Storax n’est point aujourd’uy retourné mon filz Eschin ne aucuns des serviteurs qui estoyent alez a l’encontre de lui...</incipit>
                   <explicit>Demea Je le laisse et seuffre qu’il ait sa chamberiere et qu’il y face sa fin Eschin C’est bien dit Or vous esjoyssez Je Caliopius ay receuse [<hi rend="i">sic ; var.</hi> recité <hi rend="i">dans impr.</hi>] ceste fable
-                    <lb/>Explicit Adelphos.</explicit>
+                    <lb />Explicit Adelphos.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -252,29 +235,29 @@
                 <msItem>
                   <locus>ms f. 92v</locus>
                   <title>1er argument uniquement dans le manuscrit</title>
-                  <incipit>Cy commance l’argument principal en la fable nommee Eschira <lb/>Ung adolescent nommé Pamphile qui estoit tenu de l’amour d’une jeune fille nommee Bachis ainsi que de nuit...</incipit>
+                  <incipit>Cy commance l’argument principal en la fable nommee Eschira <lb />Ung adolescent nommé Pamphile qui estoit tenu de l’amour d’une jeune fille nommee Bachis ainsi que de nuit...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 93 ; impr. f. 346</locus>
                   <title>2e argument dans le manuscrit et dans l’imprimé</title>
-                  <incipit>Argument principal et plus brief <lb/>Pamphile print a femme une jeune fille nommee Philomena de laquelle et dont il ne lui souvenoit avoit autresfois corrompue la virginité...</incipit>
+                  <incipit>Argument principal et plus brief <lb />Pamphile print a femme une jeune fille nommee Philomena de laquelle et dont il ne lui souvenoit avoit autresfois corrompue la virginité...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 93 ; impr. f. 346</locus>
                   <title>Prologue de Térence</title>
-                  <incipit>Cy commence le prologue en la comedie nommee Eschira <lb/>Ceste fable est nommee Heschira laquelle quant elle fut nouvellement faicte survint nouvelle turbacion et calamité...</incipit>
+                  <incipit>Cy commence le prologue en la comedie nommee Eschira <lb />Ceste fable est nommee Heschira laquelle quant elle fut nouvellement faicte survint nouvelle turbacion et calamité...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 94 ; impr. f. 347v</locus>
                   <title>Indications scéniques</title>
-                  <incipit>Heschira <lb/>En ceste premiere action de la comedie nommee Eschira sont introduictes deux femmes l’une ribaulde nommee Philotium...</incipit>
+                  <incipit>Heschira <lb />En ceste premiere action de la comedie nommee Eschira sont introduictes deux femmes l’une ribaulde nommee Philotium...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 94 ; impr. f. 348 - ms f. 111v ; impr. f. 383v</locus>
                   <title>Texte</title>
                   <incipit>Par ma foy Sira tu trouveras maintenant bien pou d’amans qui soyent loyaulx aux foles femmes...</incipit>
                   <explicit>Parmeno Je voys certainement j’ay aujourd’ui plus fait de bien sans penser que je n’avoye jamais fait a mon sceu avant ce jour Calliopus O vous peuple romain valez et vous resjoissez Je Caliopius ay recité ceste fable
-                    <lb/>Explicit Heschira.</explicit>
+                    <lb />Explicit Heschira.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -282,28 +265,28 @@
                 <msItem>
                   <locus>ms f. 112 ; impr. f. 290v</locus>
                   <title>1er argument dans le manuscrit et l’imprimé</title>
-                  <incipit>L’argument de la VIme fable de Therence nommee Phormio <lb/>En la cité d’Athenes avoit deux freres l’un riche nommé Demipho et l’autre trespovre nommé Cremes...</incipit>
+                  <incipit>L’argument de la VIme fable de Therence nommee Phormio <lb />En la cité d’Athenes avoit deux freres l’un riche nommé Demipho et l’autre trespovre nommé Cremes...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 112v</locus>
                   <title>2e argument dans le manuscrit</title>
-                  <incipit>Argument en Phormio plus brief <lb/>Demipho frere de Cremes estoit alé en voyage et avoit laissié son filz Antipho a Athenes...</incipit>
+                  <incipit>Argument en Phormio plus brief <lb />Demipho frere de Cremes estoit alé en voyage et avoit laissié son filz Antipho a Athenes...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 112v ; impr. f. 291</locus>
                   <title>Prologue de Térence</title>
                   <incipit>S’ensuit le prologue
-                    <lb/>Prohemium in Phormione <lb/>Puis que ainsi est que l’ancien poëte c’est assavoir Leum ne peut retraire ne oster nostre poëte Therence de son estude...</incipit>
+                    <lb />Prohemium in Phormione <lb />Puis que ainsi est que l’ancien poëte c’est assavoir Leum ne peut retraire ne oster nostre poëte Therence de son estude...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 113 ; impr. f. 291v</locus>
                   <title>Indications scéniques</title>
-                  <incipit>Davus nummularius Geta servus <lb/>Amicus meus summus etc. En ceste premiere scene de la comedie ou fable de Therence nommee Phormio sont introduiz Davus monnoyeur et Geta...</incipit>
+                  <incipit>Davus nummularius Geta servus <lb />Amicus meus summus etc. En ceste premiere scene de la comedie ou fable de Therence nommee Phormio sont introduiz Davus monnoyeur et Geta...</incipit>
                 </msItem>
                 <msItem>
                   <locus>ms f. 113v ; impr. f. 292 - ms f. 136v ; impr. f. 344</locus>
                   <title>Texte</title>
-                  <incipit>Davus a par soy <lb/>Mon souverain ami et populaire Geta vint hier a moy Il avoit encores chiés moy de la fin de son compte ung pou de deniers...</incipit>
+                  <incipit>Davus a par soy <lb />Mon souverain ami et populaire Geta vint hier a moy Il avoit encores chiés moy de la fin de son compte ung pou de deniers...</incipit>
                   <explicit>Phormio Je feray qu’il sera presentement ycy Vous valez et vous esjoyssez Je Caliopius ay recité ceste comedie.</explicit>
                 </msItem>
               </msItem>
@@ -321,7 +304,7 @@
               </msIdentifier>
               <msContents>
                 <p>traduction en prose des <title>Comediae</title> de Térence [titre :
-                  <title type="ancien">Explicit Therence en françois</title> f. 136v] ; pièce satirique latine dirigée contre Philippe le Bel (52 vers), ajoutée au XV<hi rend="sup">e</hi> s. f. 137r-v (inc. <seg type="incipit">Flebilis anxia plangito Francia gaudia dele <lb/>Pectoris clausam promere, causam quero querele</seg>... ; expl. ...<seg type="explicit">sed servando gregem, legem, regum quoque regem <lb/>Tu coleres et diligeres magis Ecclesie res <lb/>Et regeres te per proceres semper remaneres</seg> ; éd. d’après un autre ms par H. Bordier sous le titre « De moribus et vita Philippi regis Francise », dans
+                  <title type="ancien">Explicit Therence en françois</title> f. 136v] ; pièce satirique latine dirigée contre Philippe le Bel (52 vers), ajoutée au XV<hi rend="sup">e</hi> s. f. 137r-v (inc. <seg type="incipit">Flebilis anxia plangito Francia gaudia dele <lb />Pectoris clausam promere, causam quero querele</seg>... ; expl. ...<seg type="explicit">sed servando gregem, legem, regum quoque regem <lb />Tu coleres et diligeres magis Ecclesie res <lb />Et regeres te per proceres semper remaneres</seg> ; éd. d’après un autre ms par H. Bordier sous le titre « De moribus et vita Philippi regis Francise », dans
                   <title>Bulletin de la Société de l’Histoire de France</title>, 2e sem., t. 1, 1857-1858, p. 197).</p>
               </msContents>
               <physDesc>
@@ -351,7 +334,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime2_comediae"><title type="ancien">Le Grant Therence en françoys tant en rime que en prose, nouvellement imprimé à Paris.<lb/>Marc Therence Varro livre tresplaisant et joyeulx, contenant diverses sentences, des facessies et jeux qui jadis estaient jouez a Romme, qu’on appelloit les comedies auquel livre vous apprendrez maintes choses subtiles et bons enseignemens pour l’introduction de tous de quelque estat qu’ilz soient</title>, Paris, <publisher>Guillaume de Bossozel</publisher> pour <publisher>Guillaume Le Bret</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 146), <publisher>Guillaume de Bossozel</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 215 et 216), marque de Thielman Kerver sur la page de titre (Paris, Bibl. nat. de Fr., Rés. g Yc 1059), 1539, ill. (les figures sont celles du Térence de Trechsel, Lyon, 1493, flanquées de petites gravures), 2°, 389 f. (pour 387 f.) à 2 colonnes (la foliotation passe du f. vi au f. ix sans lacune apparente). La traduction française est en général textuellement reproduite jusque dans les particularités graphiques. Introduction de la distinction des vers dans le texte latin. En tête de chaque comédie, introduction de didascalies en latin présentant les personnages (« Fabulae interlocutores ») ; l’argument de chaque comédie, anonyme dans l’éd. précédente, a été intitulé, en tête du latin de « C. Sulpici Apollinaris Periocha. »
+            <bibl xml:id="imprime2_comediae"><title type="ancien">Le Grant Therence en françoys tant en rime que en prose, nouvellement imprimé à Paris.<lb />Marc Therence Varro livre tresplaisant et joyeulx, contenant diverses sentences, des facessies et jeux qui jadis estaient jouez a Romme, qu’on appelloit les comedies auquel livre vous apprendrez maintes choses subtiles et bons enseignemens pour l’introduction de tous de quelque estat qu’ilz soient</title>, Paris, <publisher>Guillaume de Bossozel</publisher> pour <publisher>Guillaume Le Bret</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 146), <publisher>Guillaume de Bossozel</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 215 et 216), marque de Thielman Kerver sur la page de titre (Paris, Bibl. nat. de Fr., Rés. g Yc 1059), 1539, ill. (les figures sont celles du Térence de Trechsel, Lyon, 1493, flanquées de petites gravures), 2°, 389 f. (pour 387 f.) à 2 colonnes (la foliotation passe du f. vi au f. ix sans lacune apparente). La traduction française est en général textuellement reproduite jusque dans les particularités graphiques. Introduction de la distinction des vers dans le texte latin. En tête de chaque comédie, introduction de didascalies en latin présentant les personnages (« Fabulae interlocutores ») ; l’argument de chaque comédie, anonyme dans l’éd. précédente, a été intitulé, en tête du latin de « C. Sulpici Apollinaris Periocha. »
               <note place="inline">Exemplaires consultés : Paris, Bibl. nat. de Fr., Rés. g Yc 146 ; Paris, Bibl. nat. de Fr., Rés. g Yc 215 et 216 ; Paris, Bibl. nat. de Fr., Rés. g Yc 1059
                 <listBibl>
                   <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n°1504</bibl>
@@ -377,21 +360,21 @@
           <head>Prologue</head>
           <bibl><publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1490" notAfter="1510">vers 1500</date></bibl>
           <p>Le prologue du translateur.</p>
-          <p>En protestant que la translation<lb/>De ce lyvre remply de comedies<lb/>Ne donnera aucune occasion <pb n="f. 2v"/><lb/>A ses lecteurs de faire abusion,<lb/>Ne aucuns ditz dont viennent villennies,<lb/>Aprés plusieurs petites fantasies,<lb/>Selon mon sens peu porveu de science<lb/>A translater j’ay mis mes estudies<lb/>Plusieurs beaulx ditz et parolles flories<lb/>Contenues au livre de Therence.</p>
-          <p>Les Grecz veullent dire que comedie<lb/>Signifie la comprehension<lb/>De fortune privee et civilie,<lb/>Mais touttefoys sans que dangier de vie<lb/>Soit accedant en la conclusion,<lb/>Ciceron dit que a son opinion<lb/>Comedie est de coustume regart<lb/>Et de vie droicte ymitacion,<lb/>De verité sans variation,<lb/>Propre ymage pour y avoir esgart.</p>
-          <p>Regarde donc chascun la qualité<lb/>Comedicque et specule comment<lb/>Tenir se doit chemin de verité<lb/>Et eviter voye de faulseté,<lb/>Car c’est la fin de cest enseignement.<lb/>Pour esveiller aussi l’entendement<lb/>Des auditeurs par diz et parabolles<lb/>A beau parler et elegantement<lb/>Non pas pour ceulx qui, sophistiquement<lb/>Veullent user d’abusives parolles.</p>
-          <p>Plaisantes sont parolles rethoriques<lb/>Qui de en user congnoist l’abilité ;<lb/>Pourquoy depry aux maistres comedicques,<lb/>Lesquelz voirront mes parolles rustiques,<lb/>Qu’ilz supportent mon imbecillité ;<lb/>Et se ainsi est que ma capacité<lb/>Ne ait du tout peu prendre au vray la substance,<lb/>Qu’il leur plaise par leur auctorité<lb/>Le corriger, car il est translaté<lb/>Pour presenter au noble roy de France.</p>
+          <p>En protestant que la translation<lb />De ce lyvre remply de comedies<lb />Ne donnera aucune occasion <pb n="f. 2v" /><lb />A ses lecteurs de faire abusion,<lb />Ne aucuns ditz dont viennent villennies,<lb />Aprés plusieurs petites fantasies,<lb />Selon mon sens peu porveu de science<lb />A translater j’ay mis mes estudies<lb />Plusieurs beaulx ditz et parolles flories<lb />Contenues au livre de Therence.</p>
+          <p>Les Grecz veullent dire que comedie<lb />Signifie la comprehension<lb />De fortune privee et civilie,<lb />Mais touttefoys sans que dangier de vie<lb />Soit accedant en la conclusion,<lb />Ciceron dit que a son opinion<lb />Comedie est de coustume regart<lb />Et de vie droicte ymitacion,<lb />De verité sans variation,<lb />Propre ymage pour y avoir esgart.</p>
+          <p>Regarde donc chascun la qualité<lb />Comedicque et specule comment<lb />Tenir se doit chemin de verité<lb />Et eviter voye de faulseté,<lb />Car c’est la fin de cest enseignement.<lb />Pour esveiller aussi l’entendement<lb />Des auditeurs par diz et parabolles<lb />A beau parler et elegantement<lb />Non pas pour ceulx qui, sophistiquement<lb />Veullent user d’abusives parolles.</p>
+          <p>Plaisantes sont parolles rethoriques<lb />Qui de en user congnoist l’abilité ;<lb />Pourquoy depry aux maistres comedicques,<lb />Lesquelz voirront mes parolles rustiques,<lb />Qu’ilz supportent mon imbecillité ;<lb />Et se ainsi est que ma capacité<lb />Ne ait du tout peu prendre au vray la substance,<lb />Qu’il leur plaise par leur auctorité<lb />Le corriger, car il est translaté<lb />Pour presenter au noble roy de France.</p>
           <p>Les parties de comedie.</p>
-          <p>Selon l’opinion de Dyomedes, grant et excellent orateur, des comedies les unes estoient dictes toguees, les autres pretextes. Les tog<pb n="f. 3"/>uees estoient celles qui en l’honneur publique et pour resjouyr le peuple ce faisoient, et y estoient dictes et narrees les choses confuses et la ou il n’y avoit rien specialisié. Les pretextes ou tabernaires sont dictes pourtant que en elles n’estoit faicte aucune mencion que de simples et povres personnes comme aux tavernes aucunes choses joyeuses se racomptent. Different aussi comedies toguees et tabernaires, car au temps que a Rome les comedies toguees se faisoient devant les magistratz ou imperateurs, ceulx qui les narroient estoient en habitz telz que les personages denotoient ce que non aux autres, ainsi que en France les joueurs de farses joyeuses ont habitz selon leurs personnages, ce qui n’est pas requis a ceulx qui aux tavernes racomptent quelque joyeuseté. Selon l’opinion des Grecz, troys sont les membres des comedies, c’est assavoir diverbes, cantique et compaignie. Diverbes sont ou il y a les parolles de plusieurs personnes ou de deux ou de trois ou que quatre, mais c’est a tort. Es cantiques il n’y doit avoir que une personne. Et est ce que nous appellons sermons ou menologues. En comedie dicte compaignie il n’y a point de nombre de personnes qui soit determiné, lors que tous tendent a une fin. En comedies aussi sont cinq parties. La premiere explicque l’argument ; la seconde desire mener les choses commencees a fin. La tierce amayne la perturbacion, les empeschemens et la deseperance de la chose desiree. La quarte amayne le remede au mal. Et la cinquiesme conduit a l’yssue qui a esté desiree. Et ainsi different tragedie et comedie, car la fin de comedie est joyeuse et celle de tragedie est lamentable et piteuse.</p>
+          <p>Selon l’opinion de Dyomedes, grant et excellent orateur, des comedies les unes estoient dictes toguees, les autres pretextes. Les tog<pb n="f. 3" />uees estoient celles qui en l’honneur publique et pour resjouyr le peuple ce faisoient, et y estoient dictes et narrees les choses confuses et la ou il n’y avoit rien specialisié. Les pretextes ou tabernaires sont dictes pourtant que en elles n’estoit faicte aucune mencion que de simples et povres personnes comme aux tavernes aucunes choses joyeuses se racomptent. Different aussi comedies toguees et tabernaires, car au temps que a Rome les comedies toguees se faisoient devant les magistratz ou imperateurs, ceulx qui les narroient estoient en habitz telz que les personages denotoient ce que non aux autres, ainsi que en France les joueurs de farses joyeuses ont habitz selon leurs personnages, ce qui n’est pas requis a ceulx qui aux tavernes racomptent quelque joyeuseté. Selon l’opinion des Grecz, troys sont les membres des comedies, c’est assavoir diverbes, cantique et compaignie. Diverbes sont ou il y a les parolles de plusieurs personnes ou de deux ou de trois ou que quatre, mais c’est a tort. Es cantiques il n’y doit avoir que une personne. Et est ce que nous appellons sermons ou menologues. En comedie dicte compaignie il n’y a point de nombre de personnes qui soit determiné, lors que tous tendent a une fin. En comedies aussi sont cinq parties. La premiere explicque l’argument ; la seconde desire mener les choses commencees a fin. La tierce amayne la perturbacion, les empeschemens et la deseperance de la chose desiree. La quarte amayne le remede au mal. Et la cinquiesme conduit a l’yssue qui a esté desiree. Et ainsi different tragedie et comedie, car la fin de comedie est joyeuse et celle de tragedie est lamentable et piteuse.</p>
         </div>
         <div type="incipit">
           <head>Incipit</head>
           <bibl><publisher>Antoine Vérard</publisher>, Paris, <date notBefore="1490" notAfter="1510">vers 1500</date></bibl>
           <msDesc xml:id="impr_comediae_verard" type="incunabulum">
             <msIdentifier>
-              <settlement/>
-              <repository/>
-              <idno/>
+              <settlement />
+              <repository />
+              <idno />
             </msIdentifier>
             <msContents>
               <msItem>
@@ -400,13 +383,13 @@
                   <locus>f. 8</locus>
                   <title>Prologue</title>
                   <incipit>S’ensuit la rime de ceste premiere scene
-                    <lb/>le translateur <lb/>Affin de explicquer l’argument de ceste comedie icy devant mis il est a noter que Symon ancien pere de Pamphile avoit plusieurs serviteurs...</incipit>
+                    <lb />le translateur <lb />Affin de explicquer l’argument de ceste comedie icy devant mis il est a noter que Symon ancien pere de Pamphile avoit plusieurs serviteurs...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 8v-78</locus>
                   <title>Texte</title>
-                  <incipit>Symon <lb/>Allez ostez ceste viande <lb/>Et la portez a la cuisine <lb/>Sans revenir se ne vous mande <lb/>Ou se ne vous fais aucun signe <lb/>Chascun de vous d’icy decline <lb/>Fors toy Sosia vien pres de moy <lb/>J’ay ung peu a parler a toy</incipit>
-                  <explicit>Allés vous en avec santé <lb/>Et demenés joyeuseté <lb/>Sans plus estre icy attendans <lb/>A jouyr d’amours pretendans <lb/>Vous aurés ce que demandés <lb/>Louenge aux poëtes rendés <lb/>Que en la presente comedie <lb/>j’ay icy veuz et regardés <lb/>Vous ouys par grant courtoisie.</explicit>
+                  <incipit>Symon <lb />Allez ostez ceste viande <lb />Et la portez a la cuisine <lb />Sans revenir se ne vous mande <lb />Ou se ne vous fais aucun signe <lb />Chascun de vous d’icy decline <lb />Fors toy Sosia vien pres de moy <lb />J’ay ung peu a parler a toy</incipit>
+                  <explicit>Allés vous en avec santé <lb />Et demenés joyeuseté <lb />Sans plus estre icy attendans <lb />A jouyr d’amours pretendans <lb />Vous aurés ce que demandés <lb />Louenge aux poëtes rendés <lb />Que en la presente comedie <lb />j’ay icy veuz et regardés <lb />Vous ouys par grant courtoisie.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -414,15 +397,15 @@
                 <msItem>
                   <locus>f. 83v</locus>
                   <title>Prologue</title>
-                  <incipit>Rime de ceste premiere scene <lb/>Le translateur <lb/>Au commencement de ceste presente comedie sont quatre choses principales mises au texte que le translateur est compellé mectre prosaïquement ains que commencer la comedie par personnage...</incipit>
-                  <incipit>Qui est celluy qui fist ceste comedie qui la prononça qui sont ceulx qui la jouerent et devant qui elle fut prononcee et jouee <lb/>Acta ludis megallensibus etc. <lb/>Comme Therence qui est acteur de ce livre met a son commencement ceste presente comedie fut premier faicte en grec et la fist Menander...</incipit>
+                  <incipit>Rime de ceste premiere scene <lb />Le translateur <lb />Au commencement de ceste presente comedie sont quatre choses principales mises au texte que le translateur est compellé mectre prosaïquement ains que commencer la comedie par personnage...</incipit>
+                  <incipit>Qui est celluy qui fist ceste comedie qui la prononça qui sont ceulx qui la jouerent et devant qui elle fut prononcee et jouee <lb />Acta ludis megallensibus etc. <lb />Comme Therence qui est acteur de ce livre met a son commencement ceste presente comedie fut premier faicte en grec et la fist Menander...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 83v-155v</locus>
                   <title>Texte</title>
-                  <incipit>Phedria <lb/>Que doy je donc maintenant faire <lb/>Y doy je aller ou me retraire <lb/>Quant maintenant suis rappellé <lb/>De son bon gré me compelle <lb/>Et de son propre mouvement...</incipit>
-                  <explicit>Gnato <lb/>Or vous en allés bons amys
-                    <lb/>A Dieu et faictes bonne chiere <lb/>Grant follie est de estre ennemis <lb/>Pour une si lasche matiere <lb/>En la conclusion derreniere <lb/>Allés vous en a Dieu ensemble <lb/>Et qui a peur se tienne arriere <lb/>Car est le meilleur ce me semble.</explicit>
+                  <incipit>Phedria <lb />Que doy je donc maintenant faire <lb />Y doy je aller ou me retraire <lb />Quant maintenant suis rappellé <lb />De son bon gré me compelle <lb />Et de son propre mouvement...</incipit>
+                  <explicit>Gnato <lb />Or vous en allés bons amys
+                    <lb />A Dieu et faictes bonne chiere <lb />Grant follie est de estre ennemis <lb />Pour une si lasche matiere <lb />En la conclusion derreniere <lb />Allés vous en a Dieu ensemble <lb />Et qui a peur se tienne arriere <lb />Car est le meilleur ce me semble.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -430,14 +413,14 @@
                 <msItem>
                   <locus>f. 160</locus>
                   <title>Prologue</title>
-                  <incipit>Rime de ceste premiere scene <lb/>le translateur <lb/>Pour clerement entendre la matiere de ceste tierce comedie nomme Heautontymorumenos qui est diction grecque et vault autant a dire comme soy mesmes tormenter ou excrucier...</incipit>
+                  <incipit>Rime de ceste premiere scene <lb />le translateur <lb />Pour clerement entendre la matiere de ceste tierce comedie nomme Heautontymorumenos qui est diction grecque et vault autant a dire comme soy mesmes tormenter ou excrucier...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 160v-229v</locus>
                   <title>Texte</title>
-                  <incipit>Chremes <lb/>Combien que pas grande distance <lb/>de temps il n’y ait que acointance <lb/>du grant notice entre nous deux <lb/>fors que depuis la congnoissance <lb/>que achapté as de ta finance...</incipit>
-                  <explicit>Chremes Soit fait a ta peticion <lb/>puis que revenu je te voy <lb/>a muer ta condicion <lb/>Le dit de Therence <lb/>Allez a Dieu pour la conclusion <lb/>Et applaudissés par jubilacion <lb/>je deffenseur de mon poëte antique <lb/>au mieulx que ay peu a mon opinion <lb/>sans reprinse de son intencion
-                    <lb/>ay recensé ceste fable comique.</explicit>
+                  <incipit>Chremes <lb />Combien que pas grande distance <lb />de temps il n’y ait que acointance <lb />du grant notice entre nous deux <lb />fors que depuis la congnoissance <lb />que achapté as de ta finance...</incipit>
+                  <explicit>Chremes Soit fait a ta peticion <lb />puis que revenu je te voy <lb />a muer ta condicion <lb />Le dit de Therence <lb />Allez a Dieu pour la conclusion <lb />Et applaudissés par jubilacion <lb />je deffenseur de mon poëte antique <lb />au mieulx que ay peu a mon opinion <lb />sans reprinse de son intencion
+                    <lb />ay recensé ceste fable comique.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -445,13 +428,13 @@
                 <msItem>
                   <locus>f. 232</locus>
                   <title>Prologue</title>
-                  <incipit>Rime de ceste premiere scene <lb/>le translateur <lb/>Ceste quatriesme comedie de Therence est nommee Adelphos qui vault autant a dire en grec comme frere en latin pourtant qu’elle est faicte de deux freres...</incipit>
+                  <incipit>Rime de ceste premiere scene <lb />le translateur <lb />Ceste quatriesme comedie de Therence est nommee Adelphos qui vault autant a dire en grec comme frere en latin pourtant qu’elle est faicte de deux freres...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 232-289v</locus>
                   <title>Texte</title>
-                  <incipit>Micio <lb/>O Storax gentil serviteur <lb/>Ainsi nommé pour ton odeur <lb/>Ceste nuyt n’est point retourné <lb/>Eschinus mais a sejourné <lb/>En la scene ou permis l’avoye <lb/>aller et si ne voy par voye...</incipit>
-                  <explicit>...Et qu’il face la fin en elle <lb/>De sa cupidité charnelle <lb/>Je n’y metz plus de contredit <lb/>Eschinus <lb/>Allon la sentence est tresbelle <lb/>C’est sagement fait et bien dit.</explicit>
+                  <incipit>Micio <lb />O Storax gentil serviteur <lb />Ainsi nommé pour ton odeur <lb />Ceste nuyt n’est point retourné <lb />Eschinus mais a sejourné <lb />En la scene ou permis l’avoye <lb />aller et si ne voy par voye...</incipit>
+                  <explicit>...Et qu’il face la fin en elle <lb />De sa cupidité charnelle <lb />Je n’y metz plus de contredit <lb />Eschinus <lb />Allon la sentence est tresbelle <lb />C’est sagement fait et bien dit.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -459,14 +442,14 @@
                 <msItem>
                   <locus>f. 292</locus>
                   <title>Prologue</title>
-                  <incipit>Rime de <sic>cest</sic> premiere scene <lb/>Le translateur <lb/>Ceste est la quinte comedie de Therence nommee Phormio a l’occasion de l’ung des personnages d’icelle ainsi dit...</incipit>
+                  <incipit>Rime de <sic>cest</sic> premiere scene <lb />Le translateur <lb />Ceste est la quinte comedie de Therence nommee Phormio a l’occasion de l’ung des personnages d’icelle ainsi dit...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 292v-345v</locus>
                   <title>Texte</title>
-                  <incipit>Davus <lb/>Geta mon amy souverain <lb/>Populaire et mon prouchain <lb/>Vint hier a moy faisant requeste
-                    <lb/>que je luy fournisse la reste...</incipit>
-                  <explicit>Phormio <lb/>Icy <lb/>De le faire venir suis prest <lb/>Allés n’en soyés en soucy.</explicit>
+                  <incipit>Davus <lb />Geta mon amy souverain <lb />Populaire et mon prouchain <lb />Vint hier a moy faisant requeste
+                    <lb />que je luy fournisse la reste...</incipit>
+                  <explicit>Phormio <lb />Icy <lb />De le faire venir suis prest <lb />Allés n’en soyés en soucy.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -474,13 +457,13 @@
                 <msItem>
                   <locus>f. 348</locus>
                   <title>Prologue</title>
-                  <incipit>Rime de ceste premiere scene <lb/>Le translateur <lb/>Ensuit la sixiesme comedie de Therence qui contient le mariage de Pamphile et de une pucelle que en tenebres il viola...</incipit>
+                  <incipit>Rime de ceste premiere scene <lb />Le translateur <lb />Ensuit la sixiesme comedie de Therence qui contient le mariage de Pamphile et de une pucelle que en tenebres il viola...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 348v-385</locus>
                   <title>Texte</title>
-                  <incipit>Philotis meretrice <lb/>Sira considere le cas <lb/>par Dieu combien tu trouveras <lb/>pou d’amoureux aux foles femmes...</incipit>
-                  <explicit>...Faire ne ay peu par cy devant <lb/>Vous auditeurs dorenavant <lb/>Resjouyssés nostre poëte <lb/>Suffise vous pour maintenant <lb/>J’ay la comedie complete.</explicit>
+                  <incipit>Philotis meretrice <lb />Sira considere le cas <lb />par Dieu combien tu trouveras <lb />pou d’amoureux aux foles femmes...</incipit>
+                  <explicit>...Faire ne ay peu par cy devant <lb />Vous auditeurs dorenavant <lb />Resjouyssés nostre poëte <lb />Suffise vous pour maintenant <lb />J’ay la comedie complete.</explicit>
                 </msItem>
               </msItem>
             </msContents>
@@ -498,7 +481,7 @@
                 </listBibl>
               </note>
             </bibl>
-            <bibl xml:id="imprime4_comediae"><title type="ancien">Le Grant Therence en françoys tant en rime que en prose, nouvellement imprimé à Paris.<lb/>Marc Therence Varro livre tresplaisant et joyeulx, contenant diverses sentences, des facessies et jeux qui jadis estaient jouez a Romme, qu’on appelloit les comedies auquel livre vous apprendrez maintes choses subtiles et bons enseignemens pour l’introduction de tous de quelque estat qu’ilz soient</title>, Paris, <publisher>Guillaume de Bossozel</publisher> pour <publisher>Guillaume Le Bret</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 146), <publisher>Guillaume de Bossozel</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 215 et 216), marque de Thielman Kerver sur la page de titre (Paris, Bibl. nat. de Fr., Rés. g Yc 1059), 1539, ill. (les figures sont celles du Térence de Trechsel, Lyon, 1493, flanquées de petites gravures), 2°, 389 f. (pour 387 f.) à 2 colonnes (la foliotation passe du f. vi au f. ix sans lacune apparente). La traduction française est en général textuellement reproduite jusque dans les particularités graphiques. Introduction de la distinction des vers dans le texte latin. En tête de chaque comédie, introduction de didascalies en latin présentant les personnages (« Fabulae interlocutores ») ; l’argument de chaque comédie, anonyme dans l’éd. précédente, a été intitulé, en tête du latin de « C. Sulpici Apollinaris Periocha. »
+            <bibl xml:id="imprime4_comediae"><title type="ancien">Le Grant Therence en françoys tant en rime que en prose, nouvellement imprimé à Paris.<lb />Marc Therence Varro livre tresplaisant et joyeulx, contenant diverses sentences, des facessies et jeux qui jadis estaient jouez a Romme, qu’on appelloit les comedies auquel livre vous apprendrez maintes choses subtiles et bons enseignemens pour l’introduction de tous de quelque estat qu’ilz soient</title>, Paris, <publisher>Guillaume de Bossozel</publisher> pour <publisher>Guillaume Le Bret</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 146), <publisher>Guillaume de Bossozel</publisher> (Paris, Bibl. nat. de Fr., Rés. g Yc 215 et 216), marque de Thielman Kerver sur la page de titre (Paris, Bibl. nat. de Fr., Rés. g Yc 1059), 1539, ill. (les figures sont celles du Térence de Trechsel, Lyon, 1493, flanquées de petites gravures), 2°, 389 f. (pour 387 f.) à 2 colonnes (la foliotation passe du f. vi au f. ix sans lacune apparente). La traduction française est en général textuellement reproduite jusque dans les particularités graphiques. Introduction de la distinction des vers dans le texte latin. En tête de chaque comédie, introduction de didascalies en latin présentant les personnages (« Fabulae interlocutores ») ; l’argument de chaque comédie, anonyme dans l’éd. précédente, a été intitulé, en tête du latin de « C. Sulpici Apollinaris Periocha. »
               <note place="inline">Exemplaires consultés : Paris, Bibl. nat. de Fr., Rés. g Yc 146 ; Paris, Bibl. nat. de Fr., Rés. g Yc 215 et 216 ; Paris, Bibl. nat. de Fr., Rés. g Yc 1059<listBibl>
                 <bibl>P. Renouard, <title>Inventaire chronologique des éditions parisiennes du XVI<hi rend="sup">e</hi> siècle. t. V, 1536-1540</title>, Paris, 2004, n°1504</bibl>
               </listBibl>

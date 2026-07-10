@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Ab Urbe condita libri CXLII</hi>, T. Livius</title>
+        <title ref="https://www.wikidata.org/wiki/Q1155892 https://data.bnf.fr/ark:/12148/cb12008346h https://portail.biblissima.fr/fr/ark:/43093/oedatae56be6e9374ac9f64187a3e1307324ae6afa982d https://data.biblissima.fr/entity/Q285994"><hi rend="i">Ab Urbe condita libri CXLII</hi>, T. Livius</title>
+        <title type="short">Ab Urbe condita libri CXLII</title>
         <title type="sub">Notice descriptive concernant <hi>l’ensemble des traductions</hi> médiévales en français et en occitan</title>
         <author xml:id="FC" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
@@ -26,83 +27,65 @@
           <resp>informatique documentaire</resp>
         </respStmt>
       </editionStmt>
+      <extent />
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2017">2017</date>
-        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/ab_urbe_condita_cxlii_titus-livius.xml</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
+        <address>
+          <addrLine>65, rue de Richelieu</addrLine>
+          <addrLine>75002 Paris</addrLine>
+          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>https://www.chartes.psl.eu/</addrLine>
+        </address>
+        <date>2017</date>
+        <idno>http://elec.enc.sorbonne.fr/miroir/ab_urbe_condita_cxlii_titus-livius</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
         <title>Miroir des classiques</title>
+        <idno type="vol">17</idno>
       </seriesStmt>
-      <sourceDesc>
-        <bibl><author>T. Livius</author>, <title>Ab Urbe condita libri CXLII</title>.</bibl>
-      </sourceDesc>
-      <noteStmt>
+      <notesStmt>
         <note type="abstract">Notice</note>
-      </noteStmt> 
+        <note type="citation">Frédéric Duval (éd.), <title><hi rend="i">Ab Urbe condita libri CXLII</hi>, T. Livius</title>, École nationale des chartes – PSL, 2017.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl source="https://data.bnf.fr/ark:/12148/cb12008346h https://portail.biblissima.fr/fr/ark:/43093/oedatae56be6e9374ac9f64187a3e1307324ae6afa982d https://data.biblissima.fr/entity/Q285994"><author>T. Livius</author>, <title>Ab Urbe condita libri CXLII</title>.</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="2006">2006</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
       <textClass>
         <keywords>
           <term key="https://data.bnf.fr/ark:/12148/cb11886799m">Tite-Live (0059? av. J.-C.-0017)</term>
           <term key="https://catalogue.bnf.fr/ark:/12148/cb12008346h https://portail.biblissima.fr/ark:/43093/oedatae56be6e9374ac9f64187a3e1307324ae6afa982d">Ab Urbe condita</term>
+          <term type="temporalCoverage"><date>1300/1800</date></term>
         </keywords>
       </textClass>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p>Le « Miroir des classiques » est une base de données codicologiques et textuelles consacrée aux traductions d’auteurs classiques en langues gallo-romanes (français et occitan) au Moyen Âge. Pour chaque œuvre, les différentes traductions sont présentées dans leur ordre chronologique, accompagnées de l’analyse précise des manuscrits et éditions anciennes qui les conservent. Le projet, dirigé par Frédéric Duval (École nationale des chartes – PSL, Centre Jean-Mabillon), a bénéficié du soutien de l’Équipement d’excellence Biblissima puis de Biblissima+.</p>
+      </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div[1]" use="@xml:id" unit="traduction">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
               <citeStructure match="div" use="@xml:id">
-                <citeData use="head" property="dct:title"/>
+                <citeData use="head" property="dct:title" />
                 <citeStructure match="div" use="@xml:id">
-                  <citeData use="head" property="dct:title"/>
+                  <citeData use="head" property="dct:title" />
                   <citeStructure match="div" use="@xml:id">
-                    <citeData use="head" property="dct:title"/>
+                    <citeData use="head" property="dct:title" />
                   </citeStructure>
                 </citeStructure>
               </citeStructure>
@@ -204,23 +187,23 @@
                 <locus>f. 2b</locus>
                 <title>Glossaire</title>
                 <incipit><seg type="rubric">C’est li chappitres de la declaration des moz qui n’ont point de propre françois ou qui anciennement ont mestier d’estre desclairiez en ceste translation Augur auguremens</seg>
-                  <lb/>Augur auguremens inauguracion auspice, auspique sont moz apartenans a divinacions...</incipit>
+                  <lb />Augur auguremens inauguracion auspice, auspique sont moz apartenans a divinacions...</incipit>
               </msItem>
               <msItem>
                 <locus>f. 4c</locus>
                 <title>Table</title>
                 <incipit><seg type="rubric">C’est la table des chapitres du premier livre de la premiere decade de Tytus Livius
-                  <lb/>Premierement</seg> De la magnificence de Rome.
-                  <lb/>Comment Enneez vint en Ytalie et comment il fut roys et aprés fait hoirs I
-                  <lb/>Comment Ascanius regna aprés la mort Enee son pere II</incipit>
+                  <lb />Premierement</seg> De la magnificence de Rome.
+                  <lb />Comment Enneez vint en Ytalie et comment il fut roys et aprés fait hoirs I
+                  <lb />Comment Ascanius regna aprés la mort Enee son pere II</incipit>
               </msItem>
               <msItem>
                 <locus>f. 10a-f. 192a</locus>
                 <title>1re décade (abrégé D1)</title>
                 <incipit><seg type="rubric">Cy commence le premier livre de la premiere decade de Titus Livius</seg>
-                  <lb/>Se je me prens a escripre les choses faittes par les Rommains des le commencement que Rome fut fondee je ne sçay pas se ce sera chose convenable...</incipit>
+                  <lb />Se je me prens a escripre les choses faittes par les Rommains des le commencement que Rome fut fondee je ne sçay pas se ce sera chose convenable...</incipit>
                 <explicit>...mais neantmoins en cestui an n’en pot estre riens fait pour ce que li consul furent occupé es guerres mais que toutefois l’en fist supplicacion seulement a Esculapius.
-                  <lb/>Cy fenist le Xe livre de la premiere decade de Titus Livius.</explicit>
+                  <lb />Cy fenist le Xe livre de la premiere decade de Titus Livius.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 198a-f. 350b</locus>
@@ -1243,8 +1226,8 @@
                   </objectDesc>
                   <handDesc>
                     <p>Copiste : <persName role="copiste">Sevestre Durant</persName> : colophon f. 412d : <quote>« Le nom de l’escripvain est sevestre d’amour plain
-                      <lb/>et le sien nom est durant qui tousjours endure en durant
-                      <lb/>aussi fault il moult endurer qui en cest monde veult durer »</quote> [Bouveret 17156-17157]</p>
+                      <lb />et le sien nom est durant qui tousjours endure en durant
+                      <lb />aussi fault il moult endurer qui en cest monde veult durer »</quote> [Bouveret 17156-17157]</p>
                   </handDesc>
                   <decoDesc>
                     <p>illustration : 5 miniatures d’1/3 de la justification (f. 1a, 25a, 70c, 89c, 224c), de la même main que celle qui a peint le ms s’Gravenhage, Koninklijke Bibl., 71 A 19 (1)</p>
@@ -1665,7 +1648,7 @@
                 </msIdentifier>
                 <msContents>
                   <p>traduction de Tite-Live par Pierre Bersuire : prologue du traducteur f. 1a-b ; glossaire f. 1b-3d ; D1 f. 4a-214c : chaque livre est précédé de sa table) ; traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName role="traducteur">Jean Le Bègue</persName> f. 215a-243a [titre : <title type="ancien">Cy fine la translacion du latin en françoiz de la premiere guerre punique (rubr.)
-                    <lb/>Cy aprés s’enssuit la table de ce livre cy que maistre Leonardus de Arecio qui translatta de grec en latin pour servir en lieu de la seconde decade de Titus Livius lequel traicte de conquestes des Romains de la premiere bataille punique et maistre Jehan le Begue nottoire et secrettaire greffier en la Chambre des comptes du roy nostre sire au palais a Paris l’a translatté de latin en françois pour le roy nostre souverain seigneur et commance son prologue A treshault et souverain prince</title> f. 243c]</p>
+                    <lb />Cy aprés s’enssuit la table de ce livre cy que maistre Leonardus de Arecio qui translatta de grec en latin pour servir en lieu de la seconde decade de Titus Livius lequel traicte de conquestes des Romains de la premiere bataille punique et maistre Jehan le Begue nottoire et secrettaire greffier en la Chambre des comptes du roy nostre sire au palais a Paris l’a translatté de latin en françois pour le roy nostre souverain seigneur et commance son prologue A treshault et souverain prince</title> f. 243c]</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -2176,7 +2159,7 @@
             <listBibl type="msList">
               <msDesc xml:id="phillipps_166"><!-- type="biblissima" -->
                 <msIdentifier>
-                  <settlement/>
+                  <settlement />
                   <repository>Ex-Phillipps</repository>
                   <idno>166</idno>
                 </msIdentifier>
@@ -2205,7 +2188,7 @@
               </msDesc>
               <msDesc xml:id="phillipps_266"><!-- type="biblissima" -->
                 <msIdentifier>
-                  <settlement/>
+                  <settlement />
                   <repository>Ex-Phillipps</repository>
                   <idno>266</idno>
                 </msIdentifier>
@@ -2242,7 +2225,7 @@
             <listBibl type="msList">
               <msDesc xml:id="phillipps_863"><!-- type="biblissima" -->
                 <msIdentifier>
-                  <settlement/>
+                  <settlement />
                   <repository>Ex-Phillipps</repository>
                   <idno>863</idno>
                 </msIdentifier>
@@ -2272,9 +2255,9 @@
             <listBibl type="msList">
               <msDesc xml:id="donegall"><!-- type="biblissima" -->
                 <msIdentifier>
-                  <settlement/>
+                  <settlement />
                   <repository>Ex-marquis de Donegall</repository>
-                  <idno/>
+                  <idno />
                 </msIdentifier>
                 <msContents>
                   <p>Traduction de Tite-Live par Pierre Bersuire : D3.</p>
@@ -2368,26 +2351,26 @@
                     <locus>fr. 264, f. 5a</locus>
                     <title>Glossaire</title>
                     <incipit><seg type="rubric">C’est le chapitre de la declaracion des moz qui n’ont point de propre françois ou autrement qui ont bien mestier de declaracion Et premier de Augur.</seg>
-                      <lb/>Augur, Augurement, Inauguracion, Auspice et Auspique sont moz appartenens a divinacions selon les chans ou mouvemens des oiseaulx...</incipit>
+                      <lb />Augur, Augurement, Inauguracion, Auspice et Auspique sont moz appartenens a divinacions selon les chans ou mouvemens des oiseaulx...</incipit>
                   </msItem>
                   <msItem>
                     <locus>fr. 264, f. 9a</locus>
                     <title>Prologue</title>
-                    <incipit><seg type="rubric">Ci commence le prologue ou livre de Titus Livius de l’istoire roumaine lequel livre frere Pierre Bertheure prieur de Saint Eloy de Paris a translaté de latin en françois</seg><lb/>A prince de tres souveraine excellence Jehan roy de France par la grace divine frere Jehan Bertheure apresent prieur de Saint Eloy de Paris...</incipit>
+                    <incipit><seg type="rubric">Ci commence le prologue ou livre de Titus Livius de l’istoire roumaine lequel livre frere Pierre Bertheure prieur de Saint Eloy de Paris a translaté de latin en françois</seg><lb />A prince de tres souveraine excellence Jehan roy de France par la grace divine frere Jehan Bertheure apresent prieur de Saint Eloy de Paris...</incipit>
                   </msItem>
                   <msItem>
                     <locus>fr. 264, f. 9c</locus>
                     <title>Glossaire</title>
                     <incipit><seg type="rubric">C’est le chapitre de la declaracion des mos qui n’ont point de propre françois ou qui autrement ont mestier de declaracion, si comme vous pourrez veoir cy aprés.</seg>
-                      <lb/>Augur, Augurement, Inauguracion, Auspice et Auspique sont moz appartenens a divinacions selon les chans ou mouvemens des oiseaux...</incipit>
+                      <lb />Augur, Augurement, Inauguracion, Auspice et Auspique sont moz appartenens a divinacions selon les chans ou mouvemens des oiseaux...</incipit>
                   </msItem>
                   <msItem>
                     <locus>fr. 264, f. 13a - fr. 264, f. 280d</locus>
                     <title>1re décade</title>
                     <incipit><seg type="rubric">Ci commence le premier livre de la premiere decade de Titus Livius.</seg>
-                      <lb/>Si je me prans a escripre les choses faittes par les Rommains des le commencement que Romme fut fondee...</incipit>
+                      <lb />Si je me prans a escripre les choses faittes par les Rommains des le commencement que Romme fut fondee...</incipit>
                     <explicit>...pour ce que les consulz furent occupez es guerres, mais que toutefois on fist supplicacion par un jour seulement a Esculapius.
-                      <lb/>Ci fine le X<hi rend="sup">e</hi> livre de la premiere decade de Titus Livius laquele est appellee de la cité fondee
+                      <lb />Ci fine le X<hi rend="sup">e</hi> livre de la premiere decade de Titus Livius laquele est appellee de la cité fondee
                       (rubr.)</explicit>
                   </msItem>
                   <msItem>
@@ -2396,15 +2379,15 @@
                       <locus>fr. 265, f. 1a</locus>
                       <title>Table</title>
                       <incipit><seg type="rubric">Ci commence la table des chapitres ou rubriches de la seconde et tierce decades de Titus Livius Et commence au premier livre de la seconde decade dessus ditte Et premierement</seg>
-                        <lb/>Ci commence le premier livre de la seconde decade de Titus Livius Et comment Hanibal en l’aage de IX ans promist a son pere Amilcar que toute sa vie il feroit guerre aux Romains I.</incipit>
+                        <lb />Ci commence le premier livre de la seconde decade de Titus Livius Et comment Hanibal en l’aage de IX ans promist a son pere Amilcar que toute sa vie il feroit guerre aux Romains I.</incipit>
                     </msItem>
                     <msItem>
                       <locus>fr. 265, f. 7a - fr. 265, f. 272b</locus>
                       <title>Texte</title>
                       <incipit><seg type="rubric">Ci commence la seconde decade de Titus Livius laquele parle de la guerre punique des Cartageis diz penois contre les Rommains Et prologue</seg>
-                        <lb/>Il me plaist a parler en une partie de mon oeuvre de ce dont pluseurs autres escriptures et scripteurs ont parlé au commencement de la leur...</incipit>
+                        <lb />Il me plaist a parler en une partie de mon oeuvre de ce dont pluseurs autres escriptures et scripteurs ont parlé au commencement de la leur...</incipit>
                       <explicit>...et a l’exemple de cestui pluseurs aultres combien que non mie egaulz en vittoires ont puis aprés fait notables tiltres de ymages et ont imposé clers seurnoms a eulx et a leurs familles
-                        <lb/>Ci fine le Xe et derrenier livre de la seconde decade de Titus Livius translaté de latin en françois du commandement de tres excellent prince Jehan roy de France par frere Pierre Bertheure jadis prieur de Saint Eloy de Paris et sont tous les livres de ceste seconde decade intitulez de la guerre punique (rubr.)</explicit>
+                        <lb />Ci fine le Xe et derrenier livre de la seconde decade de Titus Livius translaté de latin en françois du commandement de tres excellent prince Jehan roy de France par frere Pierre Bertheure jadis prieur de Saint Eloy de Paris et sont tous les livres de ceste seconde decade intitulez de la guerre punique (rubr.)</explicit>
                     </msItem>
                   </msItem>
                   <msItem>
@@ -2413,17 +2396,17 @@
                       <locus>fr. 266, f. 2a</locus>
                       <title>Table</title>
                       <incipit><seg type="rubric">Ci commence la table de la tierce decade de Titus Livius qui est ditte de la guerre macedonienne
-                        <lb/>Ci commence le premier livre
-                        <lb/>Et premierement</seg>
-                        <lb/><pb n="fr. 266, f. 2a"/>Comment les Rommains reprindrent armes contre le roy Philippe I.</incipit>
+                        <lb />Ci commence le premier livre
+                        <lb />Et premierement</seg>
+                        <lb /><pb n="fr. 266, f. 2a" />Comment les Rommains reprindrent armes contre le roy Philippe I.</incipit>
                     </msItem>
                     <msItem>
                       <locus>fr. 266, f. 5a - fr. 266, f. 208a</locus>
                       <title>Texte</title>
                       <incipit><seg type="rubric">Ci commence le premier livre de la tierce decade de Titus Livius Et comment les Rommains reprindrent armes en[contre le roy] Philippe de Macedoine</seg>
-                        <lb/>Tout aussi comme se je en ma propre personne eusse esté pour ma partie en labours et...</incipit>
+                        <lb />Tout aussi comme se je en ma propre personne eusse esté pour ma partie en labours et...</incipit>
                       <explicit>...et les dihommes manderent supplicacions par II jours pour cause de celles maladies par touz marchiez et par tous lieux publiques
-                        <lb/>Ci fine le IXe livre de la tierce decade de Titus Livius.</explicit>
+                        <lb />Ci fine le IXe livre de la tierce decade de Titus Livius.</explicit>
                     </msItem>
                   </msItem>
                 </msContents>
@@ -2503,7 +2486,7 @@
                       <locus>ms 5087, f. 16a-b - ms 5087, f. 457c-d</locus>
                       <title>Texte</title>
                       <incipit>Chapitles sur la premiere decade de Titus Livius et premierement comment Eneas de Troyes vint en Ytalie et comment il en fu roy ses hoirs aprés lui (rubr.)
-                        <lb/>Aprés la destruction de la noble cité de Troyes faite par les Gregois et les Troyens mors et desherités cruelement...</incipit>
+                        <lb />Aprés la destruction de la noble cité de Troyes faite par les Gregois et les Troyens mors et desherités cruelement...</incipit>
                       <explicit>...et les suplications furent faites aux dieux par deux ou par trois jours pour cause de celles maladies par tous les marchiés et lieux publiques Atant fine Titus Livius le IXe livre de la tierce decade.</explicit>
                     </msItem>
                   </msItem>
@@ -2513,9 +2496,9 @@
                       <locus>ms 5088, f. 12a-b - ms 5088, f. 345c</locus>
                       <title>Texte</title>
                       <incipit><seg type="rubric">Comment aprez la mort du roy Phelippe Perseus son filz fist guerre aux Rommains comment il les vainqui puis en fu vaincu et prins et menez a Romme ou il fina sa vie miserablement</seg>
-                        <lb/>Comme en nostre premier volume nous aions expediees et redigees compendieusement les histores rommaines depuis le commencment et fondation de la noble cité de Romme...</incipit>
+                        <lb />Comme en nostre premier volume nous aions expediees et redigees compendieusement les histores rommaines depuis le commencment et fondation de la noble cité de Romme...</incipit>
                       <explicit>... elle puisse avec tout son ost parvenir a la seignourie triumphant de la glore de paradis laquelle vueille ottroier a tous leaulz crestiens le Pere et le Fils et le Saint Esperit. Amen.
-                        <lb/>Cy finent les hystores rommaines abregies, prinses sur Titus Livius, sur Lucan, Orose, sur Suetoine et sur aultres pluseurs aucteurs, depuis la fondation de Romme jusques au temps de Constantin le Grant, empereur d’icelle, ainsi abregies et achevees a Hesdin le XIXe jour de novembre l’an de grace mil IIIIC LIIII.</explicit>
+                        <lb />Cy finent les hystores rommaines abregies, prinses sur Titus Livius, sur Lucan, Orose, sur Suetoine et sur aultres pluseurs aucteurs, depuis la fondation de Romme jusques au temps de Constantin le Grant, empereur d’icelle, ainsi abregies et achevees a Hesdin le XIXe jour de novembre l’an de grace mil IIIIC LIIII.</explicit>
                     </msItem>
                   </msItem>
                 </msContents>
@@ -2936,7 +2919,7 @@
                     </msIdentifier>
                     <msContents>
                       <p>Le prologue a également été édité par G. De Poerck, <title>Introduction à la Fleur des histoires de Jean Mansel (XV<hi rend="sup">e</hi> siècle)</title>, Gand, 1936, p. 58-59.</p>
-                      <p>En chascune personne qui raison a et entendement en soy se doit adés pener et excerciter non pas en oyseuse, qui est la porte ouverte a tous vices, mais en force et en vertu. Quiconques donques veult acquerre glore, il la doit querir et convoitier plus <pb n="f. 13b"/>par richesse de sens que par force d’avoir, car la vie de l’omme est briefve, mais raison, vertu et engin font longue la memoire de ceulz qui en ont usé en leur temps. Grant estrif fut jadiz entre les anciens pour sçavoir comment chevalerie pouoit mieulz estre essaucee, c’est a sçavoir ou par force de corps ou par vertu ou par sens, car ainçois que l’en commence une chose, l’en doit conseil prendre, et aprez le conseil doit l’euvre <pb n="f. 13c"/>sieuvir. Conseil donques ne vault riens sans euvre, et l’euvre ne vault riens sans conseil. Pour ce fu ce que quant l’en s’aperceut jadis que sens et engin prouffitoient moult ez batailles avec la force des combateurs, les anciens mirent toute leur cure a conduire leurs guerres par sens et par engin. Mais maintenant, en nom Dieu, est le temps tout aultre, car pluseurs sont qui n’entendent que a conquerre terre et avoir. Les ungs aiment parrece plus que traveil, les aultres aiment plus luxure que continence, les aucuns aiment plus barat que droiture ; moult en y a qui ne quierent que boire et mengier et dormir et leurs corps aiesier, et de leurs ames ne leur chaut. Mais certes, teles gens ne peuent jamais monter en hault pris, ains y montent ceulz qui plus sieuvent raison et droiture que delit charnel, qui font les proesses et qui les recordent et les mettent en escript, car en recordant les euvres anciennes aprend on ce que l’en doit faire ou laissier. Pour ce est il que nous nous sommes disposez a rediger icy en nostre volume les gestes des Rommains, qui par leur sens et par leur proesse conquirent jadiz la seignourie de tout le monde. Si porra l’en icy lire et trouver par quele vie, par queles meurs et par quelz hommes et par quelz artefices en paix et en guerre l’empire de Romme a esté acreu et augmenté et par long temps maintenu en grande excellence et prosperité. Car certes l’en peut dire de Romme que onques cité ne fu plus sainte ne plus riche de bons exemples, ne en laquelle avarice et lu<pb n="f. 13d"/>xure soient plus tart entrees, ne en laquelle frugalité, c’est a dire povreté honneste et voluntaire, ait esté plus longuement honnouree, car a la verité, de tant comme ilz eurent lors mains de choses terriennes, de tant y fu mains convoitise, mais pour certain richesses y ont introduit avarice, et delices habondans y ont embatu le desir de toutes choses et ont depuis fait tous biens perdre et perillier par superfluité et par luxure. Au commencement donques de nostre procés nous ensieuvons en termes compendieux la maniere du traitter de Titus Livius quant a sa premiere decade, et puis secondement nous ensieuvons Lucan, Orose et aultres historiographeurs qui traittent la matere de la seconde decade de Titus, laquelle nous n’avons pas en usage, car elle traitte de la premiere guerre punique dont icellui Titus pour sa tierce decade, qui traitte de la seconde guerre punique, maintint le duc Hanibal de Carthage encontre les Rommains. Quartement nous ensieuvons Titus en sa quarte decade la ou il traitte de la guerre macedonique. Et puiz finablement nous ensieuvons Lucan, Suetone, Saluste et aultres qui parsieuvent l’istore rommaine jusques au temps que l’empire devola a Charles le Grant, qui fut empereur de Romme et roy de France.</p>
+                      <p>En chascune personne qui raison a et entendement en soy se doit adés pener et excerciter non pas en oyseuse, qui est la porte ouverte a tous vices, mais en force et en vertu. Quiconques donques veult acquerre glore, il la doit querir et convoitier plus <pb n="f. 13b" />par richesse de sens que par force d’avoir, car la vie de l’omme est briefve, mais raison, vertu et engin font longue la memoire de ceulz qui en ont usé en leur temps. Grant estrif fut jadiz entre les anciens pour sçavoir comment chevalerie pouoit mieulz estre essaucee, c’est a sçavoir ou par force de corps ou par vertu ou par sens, car ainçois que l’en commence une chose, l’en doit conseil prendre, et aprez le conseil doit l’euvre <pb n="f. 13c" />sieuvir. Conseil donques ne vault riens sans euvre, et l’euvre ne vault riens sans conseil. Pour ce fu ce que quant l’en s’aperceut jadis que sens et engin prouffitoient moult ez batailles avec la force des combateurs, les anciens mirent toute leur cure a conduire leurs guerres par sens et par engin. Mais maintenant, en nom Dieu, est le temps tout aultre, car pluseurs sont qui n’entendent que a conquerre terre et avoir. Les ungs aiment parrece plus que traveil, les aultres aiment plus luxure que continence, les aucuns aiment plus barat que droiture ; moult en y a qui ne quierent que boire et mengier et dormir et leurs corps aiesier, et de leurs ames ne leur chaut. Mais certes, teles gens ne peuent jamais monter en hault pris, ains y montent ceulz qui plus sieuvent raison et droiture que delit charnel, qui font les proesses et qui les recordent et les mettent en escript, car en recordant les euvres anciennes aprend on ce que l’en doit faire ou laissier. Pour ce est il que nous nous sommes disposez a rediger icy en nostre volume les gestes des Rommains, qui par leur sens et par leur proesse conquirent jadiz la seignourie de tout le monde. Si porra l’en icy lire et trouver par quele vie, par queles meurs et par quelz hommes et par quelz artefices en paix et en guerre l’empire de Romme a esté acreu et augmenté et par long temps maintenu en grande excellence et prosperité. Car certes l’en peut dire de Romme que onques cité ne fu plus sainte ne plus riche de bons exemples, ne en laquelle avarice et lu<pb n="f. 13d" />xure soient plus tart entrees, ne en laquelle frugalité, c’est a dire povreté honneste et voluntaire, ait esté plus longuement honnouree, car a la verité, de tant comme ilz eurent lors mains de choses terriennes, de tant y fu mains convoitise, mais pour certain richesses y ont introduit avarice, et delices habondans y ont embatu le desir de toutes choses et ont depuis fait tous biens perdre et perillier par superfluité et par luxure. Au commencement donques de nostre procés nous ensieuvons en termes compendieux la maniere du traitter de Titus Livius quant a sa premiere decade, et puis secondement nous ensieuvons Lucan, Orose et aultres historiographeurs qui traittent la matere de la seconde decade de Titus, laquelle nous n’avons pas en usage, car elle traitte de la premiere guerre punique dont icellui Titus pour sa tierce decade, qui traitte de la seconde guerre punique, maintint le duc Hanibal de Carthage encontre les Rommains. Quartement nous ensieuvons Titus en sa quarte decade la ou il traitte de la guerre macedonique. Et puiz finablement nous ensieuvons Lucan, Suetone, Saluste et aultres qui parsieuvent l’istore rommaine jusques au temps que l’empire devola a Charles le Grant, qui fut empereur de Romme et roy de France.</p>
                     </msContents>
                   </msDesc>
                 </div>
@@ -2954,62 +2937,62 @@
                         <locus>f. 1a</locus>
                         <title>Table</title>
                         <incipit>C’est la declaration en brief des histores rommaines S’ensieuvent les chapitles
-                          <lb/>Prologue I
-                          <lb/>Chapitles sur la premiere decade de Titus Livius et premierement comment Eneas de Troyes vint en Ytalie comment il en fu roy et ses hoirs aprez lui II</incipit>
+                          <lb />Prologue I
+                          <lb />Chapitles sur la premiere decade de Titus Livius et premierement comment Eneas de Troyes vint en Ytalie comment il en fu roy et ses hoirs aprez lui II</incipit>
                       </msItem>
                       <msItem>
                         <locus>f. 14-112c</locus>
                         <title>I<hi rend="sup">re</hi> décade</title>
-                        <incipit>Ce sont les chapitles sur la premiere decade de Titus Livius Et dist premierement comment Eneas de Troyes vint en Ytalie et comme il i en fu roy et ses hoirs aprez lui <pb n="f. 14a"/>Aprez la destruction de la noble cité de Troyes faite et executee par les Gregois et les Troyens mors et desheritez cruelement deux princes troyens...</incipit>
+                        <incipit>Ce sont les chapitles sur la premiere decade de Titus Livius Et dist premierement comment Eneas de Troyes vint en Ytalie et comme il i en fu roy et ses hoirs aprez lui <pb n="f. 14a" />Aprez la destruction de la noble cité de Troyes faite et executee par les Gregois et les Troyens mors et desheritez cruelement deux princes troyens...</incipit>
                         <explicit>En fin de cel an furent fais consules Quintus Fabius Maximus le filz nommé Fabius Gurges et Decius Furius Scevam et Lelius Papirius fu creé preteur.</explicit>
                       </msItem>
                       <msItem>
                         <locus>112c - f. 163d</locus>
                         <title>Remaniement de la traduction du <title>De bello punico</title> de Leonardo Bruni par Jean Le Bègue</title>
                         <incipit>Prologue sur le livre de la premiere guerre qui fut entre les Rommains et les Carthaginois et parle du temps et pour quoy elle fu commencie
-                          <lb/>Comme maistre Lienard d’Arece qui est une cité en Ytalie qui fut homme notable et expert en histores eut en son temps <pb n="112d"/> merveille et compassion de ce que...</incipit>
+                          <lb />Comme maistre Lienard d’Arece qui est une cité en Ytalie qui fut homme notable et expert en histores eut en son temps <pb n="112d" /> merveille et compassion de ce que...</incipit>
                         <explicit>Et aprez constrains exceptez aucun pou de lieux de vuidier et de partir hors de toute la region A tant fine le traittié de la premiere guerre punique.</explicit>
                       </msItem>
                       <msItem>
                         <locus>f. 164a - f. 266c</locus>
                         <title>III<hi rend="sup">e</hi> décade</title>
                         <incipit>C’est cy le commencement de la seconde guerre punique que fist Hanibal duc de Carthage contre les Rommains Comment tout premierement Hanibal print la cité de Sagonce en Espaigne et comment elle fu destruite
-                          <lb/>Pour ce que la guerre que fist Hanibal le duc de Cartage contre les Rommains fu la plus memorable qui fut onques au monde car onques...</incipit>
+                          <lb />Pour ce que la guerre que fist Hanibal le duc de Cartage contre les Rommains fu la plus memorable qui fut onques au monde car onques...</incipit>
                         <explicit>Cestui cy fu le premier empereur rommain qui fut anoblis et honnorez du nom de la nation par lui vaincue car tousjours depuis il fut apellez Scipion l’Auffrican pour Auffrique qu’il eut conquise. Et a tant fine l’istore prinse sur le Xe livre de la seconde decade de Titus Livius.</explicit>
                       </msItem>
                       <msItem>
                         <locus>f. 266c - f. 37c</locus>
                         <title>IV<hi rend="sup">e</hi> décade</title>
                         <incipit>Comment les Rommains recommencerent la guerre contre le roy Phelippe de Macedoine Comment tout premierement ilz l’envoierent deffier et comment Amilcar ung prince penois print et gasta la cité de Plaisance
-                          <lb/>Comme Titus Livius ait mis en ses escrips autant d’escripture a raconter les fais et les adventures de la guerre punique tant de la premiere comme de la seconde guerre qui advinrent en l’espace de LXIII ans...</incipit>
+                          <lb />Comme Titus Livius ait mis en ses escrips autant d’escripture a raconter les fais et les adventures de la guerre punique tant de la premiere comme de la seconde guerre qui advinrent en l’espace de LXIII ans...</incipit>
                         <explicit>... C’estoit icy la maniere comment les Rommains se combatoient en temps passé.</explicit>
                       </msItem>
                       <msItem>
                         <locus>f. 37c</locus>
                         <title>Suite de l’histoire romaine</title>
                         <incipit>Comment aprez la mort du roy Phelippe Perseus son filz fist guerre aux Rommains comment il les vainqui puiz en fut vaincus et prins et menez a Romme ou il fina sa vie miserablement
-                          <lb/>Comme donques nous avons expediees et redigees compendieusement les histores rommaines prinses sur les trois decades de Titus Livius...</incipit>
+                          <lb />Comme donques nous avons expediees et redigees compendieusement les histores rommaines prinses sur les trois decades de Titus Livius...</incipit>
                       </msItem>
                       <msItem>
                         <title>Fin de l'histoire romaine</title>
-                        <incipit>Or donques, pour mectre fin aux histores rommaines et par consequent aux histores de nostre second volume, l’en peut sçavoir et congnoistre par le decours d’icelles histores de com grant glore et magnificence, puissance et seignourie furent les Rommains en temps passé et comment par leur sens, preudommie et vaillance ilz vindrent de petit commencement a grant empire et seignourie, en laquelle seignourie et puissance non vaincue ilz obtindrent, tant comme ilz contendirent a acroistre et a augmenter la chose publique et eurent de tous leurs ennemis l’onneur de victore, si que finablement ilz obtindrent la monarchie et furent seigneurs de tout le monde tant comme il est grant a la reonde. Pour parvenir a laquelle seignourie, ilz souff[r]irent et <pb n="f. 249c"/> porterent maintes paines et tribulations et par especial au temps de leurs consules, avant qu’ils eussent empereurs ne propres seigneurs, lesquelz consules laisserent la cité riche et bien peuplee et tresnotablement aornee de moult de nobles edifices, mais non obstans leurs belles vertus, ilz eurent long temps les ydoles et les dieux des paÿens en grant honneur et reverence et se maintindrent en cel erreur par le temps et espace de XIC ans ou un pou mains, c’est asçavoir depuis que la cité fu fondee jusques au temps que regna l’empereur Constantin, lequel se fist baptiser comme dit est et donna commandement et licence de lever et d’edefier eglises en toutes les provinces de son empire, aprez laquele conversion il transporta le siege de l’empire en la cité de Bizance en Grece, a laquelle cité il mua son nom ancien et l’apella de son nom Constantinoble, qui vault autant a dire comme la cité de Constantin, et ceda et delaissa la cité de Romme et la seignourie d’icelle au pape saint Silvestre, pour lui et pour ses successeurs papes heritablement et a tousjours, dont est advenu que tousjours depuis petit a petit la dicte cité de Romme est alee a declin et a diminution de ses grans estats mondains et tant que finablement elle est devenue ainsi comme une aultre cité de petite reputation, si qu’elle n’a plus domination ne seignourie sur nulle quelconque province du monde sauf <pb n="f. 249d"/> seulement que la seignourie souveraine de sainte Eglise y est en force et en vigueur, si comme l’empereur Constantin la y establit en son temps, laquelle seignourie de l’Eglise persevere encores a Romme jusques au jour d’uy. Dieu par sa grace la vueille conserver et donner grace de perseverer de bien en mieulz, si que finablement de ceste seignourie militant elle puisse avec tout son ost parvenir a la seigneurie triumphant de la glore de paradis, laquelle glore vueille donner et octroyer a tous leaulz crestiens le Pere et le Filz et le Saint Esperit. Amen.
-                          <lb/>Cy finent les histores rommaines commençans a la fondation de Romme et continuees jusques au temps de Constantin le Grant, qui fut empereur d’icelle et qui transporta le siege imperial en la cité de Constantinoble et ceda et delaissa aux papes a perpetuité la seignourie de Romme. <pb n="f. 250a"/> Cy aprez s’ensieut la derreniere partie de nostre second volume, contenant une recollection d’exemples des vertueux fais de pluseurs anciens princes et philosophes au propoz des quatre vertus cardinales.
-                          <lb/>Comme doivent avoir loenge et recommendation pluseurs anciens princes et philosophes, lesquelz non enluminez de foy, non affermez d’esperance et non ordrenez de charité mirent si grant cure et diligence a avoir nom de vertu... </incipit>
-                        <explicit>... que le peuple puisse soubz eulz vivre en paix et en amour en ce monde et finablement parvenir a la glore de paradis la<pb n="f. 286a"/>quelle nous vueille ottroier le Pere et le Filz et le Saint Esperit.
-                          <lb/>Amen.</explicit>
+                        <incipit>Or donques, pour mectre fin aux histores rommaines et par consequent aux histores de nostre second volume, l’en peut sçavoir et congnoistre par le decours d’icelles histores de com grant glore et magnificence, puissance et seignourie furent les Rommains en temps passé et comment par leur sens, preudommie et vaillance ilz vindrent de petit commencement a grant empire et seignourie, en laquelle seignourie et puissance non vaincue ilz obtindrent, tant comme ilz contendirent a acroistre et a augmenter la chose publique et eurent de tous leurs ennemis l’onneur de victore, si que finablement ilz obtindrent la monarchie et furent seigneurs de tout le monde tant comme il est grant a la reonde. Pour parvenir a laquelle seignourie, ilz souff[r]irent et <pb n="f. 249c" /> porterent maintes paines et tribulations et par especial au temps de leurs consules, avant qu’ils eussent empereurs ne propres seigneurs, lesquelz consules laisserent la cité riche et bien peuplee et tresnotablement aornee de moult de nobles edifices, mais non obstans leurs belles vertus, ilz eurent long temps les ydoles et les dieux des paÿens en grant honneur et reverence et se maintindrent en cel erreur par le temps et espace de XIC ans ou un pou mains, c’est asçavoir depuis que la cité fu fondee jusques au temps que regna l’empereur Constantin, lequel se fist baptiser comme dit est et donna commandement et licence de lever et d’edefier eglises en toutes les provinces de son empire, aprez laquele conversion il transporta le siege de l’empire en la cité de Bizance en Grece, a laquelle cité il mua son nom ancien et l’apella de son nom Constantinoble, qui vault autant a dire comme la cité de Constantin, et ceda et delaissa la cité de Romme et la seignourie d’icelle au pape saint Silvestre, pour lui et pour ses successeurs papes heritablement et a tousjours, dont est advenu que tousjours depuis petit a petit la dicte cité de Romme est alee a declin et a diminution de ses grans estats mondains et tant que finablement elle est devenue ainsi comme une aultre cité de petite reputation, si qu’elle n’a plus domination ne seignourie sur nulle quelconque province du monde sauf <pb n="f. 249d" /> seulement que la seignourie souveraine de sainte Eglise y est en force et en vigueur, si comme l’empereur Constantin la y establit en son temps, laquelle seignourie de l’Eglise persevere encores a Romme jusques au jour d’uy. Dieu par sa grace la vueille conserver et donner grace de perseverer de bien en mieulz, si que finablement de ceste seignourie militant elle puisse avec tout son ost parvenir a la seigneurie triumphant de la glore de paradis, laquelle glore vueille donner et octroyer a tous leaulz crestiens le Pere et le Filz et le Saint Esperit. Amen.
+                          <lb />Cy finent les histores rommaines commençans a la fondation de Romme et continuees jusques au temps de Constantin le Grant, qui fut empereur d’icelle et qui transporta le siege imperial en la cité de Constantinoble et ceda et delaissa aux papes a perpetuité la seignourie de Romme. <pb n="f. 250a" /> Cy aprez s’ensieut la derreniere partie de nostre second volume, contenant une recollection d’exemples des vertueux fais de pluseurs anciens princes et philosophes au propoz des quatre vertus cardinales.
+                          <lb />Comme doivent avoir loenge et recommendation pluseurs anciens princes et philosophes, lesquelz non enluminez de foy, non affermez d’esperance et non ordrenez de charité mirent si grant cure et diligence a avoir nom de vertu... </incipit>
+                        <explicit>... que le peuple puisse soubz eulz vivre en paix et en amour en ce monde et finablement parvenir a la glore de paradis la<pb n="f. 286a" />quelle nous vueille ottroier le Pere et le Filz et le Saint Esperit.
+                          <lb />Amen.</explicit>
                       </msItem>
                       <msItem>
                         <locus>f. 286a - f. 287a</locus>
                         <title>Conclusion du livre II</title>
                         <incipit>C’est la fin et la conclusion de ce present volume par quoy l’en peut congnoistre les noms de l’acteur du livre
-                          <lb/>Jamais ne peut ingratitude
-                          <lb/>en nul lieu par art ou estude
-                          <lb/>hanter raisonnable equité
-                          <lb/>A doulceur amertume est rude.</incipit>
+                          <lb />Jamais ne peut ingratitude
+                          <lb />en nul lieu par art ou estude
+                          <lb />hanter raisonnable equité
+                          <lb />A doulceur amertume est rude.</incipit>
                         <explicit>...Quatre vinz lignes dix et sept
-                          <lb/>Dont quatre batons font memore
-                          <lb/>Nous enseignent comment on scet
-                          <lb/>Ce que dit est et mieulz encore.</explicit>
+                          <lb />Dont quatre batons font memore
+                          <lb />Nous enseignent comment on scet
+                          <lb />Ce que dit est et mieulz encore.</explicit>
                       </msItem>
                     </msContents>
                   </msDesc>
@@ -3064,8 +3047,8 @@
                         </objectDesc>
                         <handDesc>
                           <p>Copiste : colophon dont la première ligne est commune à plusieurs copies <quote>« Finitur labor is laus Christo grata sit oris
-                            <lb/>Qui sit scriptoris requies mercesque laboris
-                            <lb/>OVALOC »</quote> f. 237a (absent de Bouveret, variante de 21641)</p>
+                            <lb />Qui sit scriptoris requies mercesque laboris
+                            <lb />OVALOC »</quote> f. 237a (absent de Bouveret, variante de 21641)</p>
                         </handDesc>
                         <decoDesc>
                           <p>illustration : 3 miniatures des 4/5e de la justification (ms 851 f. 1, 24v ; ms 842, f. 1), nombreuses réserves des 4/5e de la justification  ; réserve d’1/3 de la justification sur une colonne en tête de chapitre</p>
@@ -3092,7 +3075,7 @@
                       </msIdentifier>
                       <msContents>
                         <p>Jean Mansel, <title>Fleur des histoires</title> (version longue), livre II [titre : <title type="ancien">C’est la declaration en brief des histores rommaines</title> (rubr.) f. 1a ; <title type="ancien">Cy fine la table du second volume de la fleur des histores</title> f. 16b ;
-                          <title type="ancien">S’ensieuvent les histoires rommaines</title> (rubr.) f. 17a ; <title type="ancien">Cy fine la derreniere partie de nostre second volume de la fleur des histores</title> f. 313b] : ms 16 F VI : table des rubriques f. 1a-16b ; f. 16v blanc ; prologue de Jean Mansel f. 17a-18a ; remaniement de la traduction de D1 f. 18a-128d [titre : <title type="ancien">Atant fine l’istoire prinse sur le Xe decade de Titus Livius</title> f. 128d] ; remaniement de la traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> [titre  : <title type="ancien">Prologue sur le livre de la premiere guerre qui fut entre les Rommains et les Carthaginois et parle du temps et pourquoy elle fut commencie</title> (rubr.) f. 129a ; <title type="ancien">Cy commence la translation de maistre Lienart d’Arece</title> (rubr.) f. 136d ; <title type="ancien">A tant fine le traictié de la premiere guerre punique</title>] f. 129a-183c ; remaniement de la traduction de D3 [titre : <title type="ancien">A tant fine l’istore prinse sur le Xe livre de la seconde decade de Titus Livius</title>] f. 183c-287d ; ms 16 F VII  : remaniement de la traduction de D4 [titre : <title type="ancien">C’est cy le commencement de la tierce guerre punique et dist comment les Rommains recommencerent la guerre contre le roy Phelipe de Macedoine, comment tout premierement ilz l’envoierent deffier et comment Amulchar, ung prince penois prind et gasta la cité de Plaisance</title> (rubr.) f. 1a] f. 1a-76d ; continuation de l’histoire romaine f. 76d-282c (<title type="ancien">Cy finent les histores rommaines commençans a la fondation de Romme et continuees jusques <pb n="f. 282d"/>au temps de Constantin le Grant qui fut empereur d’icelle qui transporta le siege imperial en la cité de Constantinoble et ceda et delaissa aux papes a perpetuité la seignourie de Romme</title> (rubr.)) ; exemples de faits vertueux (<title type="ancien">Cy aprez s’ensieut la derreniere partie de nostre second volume contenant une recollection d’exemples des vertueux fais de pluseurs anciens princes et philozophes au propoz des quatre vertus cardinales</title> (rubr.) f. 282d) f. 282d-303a ; développements sur les vertus (<title type="ancien">Cy dist comment l’en doit les vertus referer a Dieu et les assavourer de la vertu d’umilité qui est la garde des vertus</title> (rubr.) f. 303a ; <title type="ancien">Cy parle de quatre choses qui seulent acompaignier terrienne domination, lesquelles avoir chascun desire pour parvenir a icelle domination</title> (rubr.) f. 306a ; <title type="ancien">Cy parle d’aultres quatre choses qui seulent acompaignier domination temporele, lesquelles bien pensees font plus celle domination a refuser que a l’entreprendre</title> (rubr.) f. 309c) f. 303b-313b  ; conclusion du 2e livre de la <title>Fleur des histoires</title> f. 313c-314b.</p>
+                          <title type="ancien">S’ensieuvent les histoires rommaines</title> (rubr.) f. 17a ; <title type="ancien">Cy fine la derreniere partie de nostre second volume de la fleur des histores</title> f. 313b] : ms 16 F VI : table des rubriques f. 1a-16b ; f. 16v blanc ; prologue de Jean Mansel f. 17a-18a ; remaniement de la traduction de D1 f. 18a-128d [titre : <title type="ancien">Atant fine l’istoire prinse sur le Xe decade de Titus Livius</title> f. 128d] ; remaniement de la traduction du <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> [titre  : <title type="ancien">Prologue sur le livre de la premiere guerre qui fut entre les Rommains et les Carthaginois et parle du temps et pourquoy elle fut commencie</title> (rubr.) f. 129a ; <title type="ancien">Cy commence la translation de maistre Lienart d’Arece</title> (rubr.) f. 136d ; <title type="ancien">A tant fine le traictié de la premiere guerre punique</title>] f. 129a-183c ; remaniement de la traduction de D3 [titre : <title type="ancien">A tant fine l’istore prinse sur le Xe livre de la seconde decade de Titus Livius</title>] f. 183c-287d ; ms 16 F VII  : remaniement de la traduction de D4 [titre : <title type="ancien">C’est cy le commencement de la tierce guerre punique et dist comment les Rommains recommencerent la guerre contre le roy Phelipe de Macedoine, comment tout premierement ilz l’envoierent deffier et comment Amulchar, ung prince penois prind et gasta la cité de Plaisance</title> (rubr.) f. 1a] f. 1a-76d ; continuation de l’histoire romaine f. 76d-282c (<title type="ancien">Cy finent les histores rommaines commençans a la fondation de Romme et continuees jusques <pb n="f. 282d" />au temps de Constantin le Grant qui fut empereur d’icelle qui transporta le siege imperial en la cité de Constantinoble et ceda et delaissa aux papes a perpetuité la seignourie de Romme</title> (rubr.)) ; exemples de faits vertueux (<title type="ancien">Cy aprez s’ensieut la derreniere partie de nostre second volume contenant une recollection d’exemples des vertueux fais de pluseurs anciens princes et philozophes au propoz des quatre vertus cardinales</title> (rubr.) f. 282d) f. 282d-303a ; développements sur les vertus (<title type="ancien">Cy dist comment l’en doit les vertus referer a Dieu et les assavourer de la vertu d’umilité qui est la garde des vertus</title> (rubr.) f. 303a ; <title type="ancien">Cy parle de quatre choses qui seulent acompaignier terrienne domination, lesquelles avoir chascun desire pour parvenir a icelle domination</title> (rubr.) f. 306a ; <title type="ancien">Cy parle d’aultres quatre choses qui seulent acompaignier domination temporele, lesquelles bien pensees font plus celle domination a refuser que a l’entreprendre</title> (rubr.) f. 309c) f. 303b-313b  ; conclusion du 2e livre de la <title>Fleur des histoires</title> f. 313c-314b.</p>
                       </msContents>
                       <physDesc>
                         <objectDesc>
@@ -3100,7 +3083,7 @@
                         </objectDesc>
                         <handDesc>
                           <p>Copiste : colophon commun à plusieurs copies <quote>« Finitur labor is, laus Christo grata sit oris
-                            <lb/>Qui sit scriptoris requies mercesque laboris »</quote> f. 314b (variante de Bouveret 21642)</p>
+                            <lb />Qui sit scriptoris requies mercesque laboris »</quote> f. 314b (variante de Bouveret 21642)</p>
                         </handDesc>
                         <decoDesc>
                           <p>illustration : 1 réserve des 3/4 de la justification (ms 16 F VII, f. 17)</p>
@@ -3171,7 +3154,7 @@
                         </objectDesc>
                         <handDesc>
                           <p>Copiste : colophon commun à plusieurs copies <quote>« Finitur laboris. Laus Christo gratia sit oris
-                            <lb/>Qui sit scriptoris requies mercesque laboris »</quote> (variante de Bouveret 21642)</p>
+                            <lb />Qui sit scriptoris requies mercesque laboris »</quote> (variante de Bouveret 21642)</p>
                         </handDesc>
                       </physDesc>
                       <history>
@@ -3225,7 +3208,7 @@
                         </objectDesc>
                         <handDesc>
                           <p>Copiste : colophon commun à plusieurs copies <quote>« Finitur laboris laux Christo grata sit oris
-                            <lb/>Qui sit scriptoris requies mercesque laboris »</quote> (variante corrompue de Bouveret 21642) f. 342d</p>
+                            <lb />Qui sit scriptoris requies mercesque laboris »</quote> (variante corrompue de Bouveret 21642) f. 342d</p>
                         </handDesc>
                         <decoDesc>
                           <p>illustration : réalisée par l'<orgName role="illustrateur">atelier de Jean Colombe</orgName> à Bourges ; nombreuses miniatures dans les marges, divisées en plusieurs compartiments ; miniatures sur 1 colonne d’1/3 de la justification en tête de certains chapitres au début du volume ; grandes miniatures, d’1/3 à la moitié de la justification ; décoration inachevée : réserves à la fin du ms et marges blanches</p>
@@ -3259,7 +3242,7 @@
                         </objectDesc>
                         <handDesc>
                           <p>Copiste : colophon commun à plusieurs copies <quote>« Finitur labor is, laus Christo grata sit oris
-                            <lb/>Qui sit scriptoris requies mercesque laboris »</quote> (variante de Bouveret 21642) f. 107c</p>
+                            <lb />Qui sit scriptoris requies mercesque laboris »</quote> (variante de Bouveret 21642) f. 107c</p>
                         </handDesc>
                         <decoDesc>
                           <p>illustration : 1 miniature sur 2 colonnes des 3/4 de la justification (f. 11) et très nombreuses miniatures sur 1 colonne du tiers à la moitié de la justification par
@@ -3350,7 +3333,7 @@
                       </physDesc>
                       <history>
                         <origin notBefore="1475" notAfter="1520">dernier quart du XV<hi rend="sup">e</hi> s.
-                          <lb/>(proche du ms Paris, Bibl. nat. de Fr., lat. 1347, f. 366 [1497], <title>Mss datés</title>, t. II, pl. 172)</origin>
+                          <lb />(proche du ms Paris, Bibl. nat. de Fr., lat. 1347, f. 366 [1497], <title>Mss datés</title>, t. II, pl. 172)</origin>
                       </history>
                       <additional>
                         <adminInfo><recordHist><source>Notice établie à partir du manuscrit original.</source></recordHist></adminInfo>
@@ -3367,14 +3350,14 @@
                       </msIdentifier>
                       <msContents>
                         <p>Jean Mansel, <title>Fleur des histoires</title> (version longue), livre II [titre : <title type="ancien">S’ensuyvent les hystoires rommaines</title> (rubr.) f. 1a ; <title type="ancien">Cy fine la derniere partie de nostre second volume de la fleur des hystoires
-                          <lb/>Et commence la fin la conclusion du livre</title> (rubr.) f. 107a] : prologue f. 1a-c ; texte f. 1c-106d ; conclusion f. 107a-c ; table des chapitres du livre II f. 108a-115c.</p>
+                          <lb />Et commence la fin la conclusion du livre</title> (rubr.) f. 107a] : prologue f. 1a-c ; texte f. 1c-106d ; conclusion f. 107a-c ; table des chapitres du livre II f. 108a-115c.</p>
                       </msContents>
                       <physDesc>
                         <objectDesc>
                           <p>115 f. parchemin</p>
                         </objectDesc>
                         <handDesc>
-                          <p>Copiste : colophon commun à plusieurs copies <quote>« Finitur labor is, laus Christo grata sit oris<lb/>Qui sit scriptoris requies mercesque laboris »</quote> (variante de Bouveret 21642) f. 107d</p>
+                          <p>Copiste : colophon commun à plusieurs copies <quote>« Finitur labor is, laus Christo grata sit oris<lb />Qui sit scriptoris requies mercesque laboris »</quote> (variante de Bouveret 21642) f. 107d</p>
                         </handDesc>
                         <decoDesc>
                           <p>illustration : 1 miniature de la moitié de la justification (6 médaillons d’historiens latins avec leur nom) (f. 1)</p>
@@ -3397,7 +3380,7 @@
                       <msContents>
                         <p>Jean Mansel, <title>Fleur des histoires</title> (version longue), livre II [titres : <title type="ancien">C’est la declaration en brief des hystores rommaines</title> (rubr.) f. Ca ; <title type="ancien">S’ensieuvent les histores rommaines</title> (rubr.) f. 1a ; <title type="ancien">Cy fine la derreniere partie de nostre second volume de la fleur des histores</title> (rubr.) f. 497d] : table des rubriques avec renvoi aux feuillets f. Ca-Nc ; prologue f. 1a-d ; remaniement de la traduction de D1 f. 1d-128d [titre : <title type="ancien">Ce sont les chapitles sur la premiere decade de Titus Livius</title> (rubr.) f. 1d ; <title type="ancien">Atant fine l’istoire prinse sur le X livre de la tierce decade de Titus Livius</title> f. 106b] ; remaniement de la traduction du
                           <title>De bello punico</title> de <persName type="ancien">Leonardo Bruni</persName> par <persName type="ancien">Jean Le Bègue</persName> [titre : <title type="ancien">Prologue sur le livre de la premiere guerre qui fut entre les Rommains et les Carthaginois et parle du temps et pourquoy elle fut commencie</title> (rubr.) f. 106a ;
-                          <title type="ancien">Atant fine le traitié de la premiere guerre punique</title> f. 153c] f. 106a-153c ; remaniement de la traduction de D3 [titre : <title type="ancien">C’est cy le commencement de la seconde guerre punique que fist Hanibal duc de Carthage contre les Rommains</title> (rubr.) f. 153d ; <title type="ancien">Et atant fine l’istoire prinse sur le Xe livre de la seconde decade de Titus Livius</title> f. 238b] f. 153d-238b ; remaniement de la traduction de D4 [titre : <title type="ancien">Atant fine l’istoire prinse sur le IXe livre de la tierce decade de Titus Livius</title> f. 295b] f. 238b-295b ; continuation de l’histoire romaine f. 295b-470d (<quote>« Cy finent les histores rommaines commençans a la fondation de Romme et continuees jusques au temps de Constantin le Grant qui fut empereur d’icelle qui transporta le siege imperial en la cité de Constantinoble et ceda et delaissa aux papes a perpetuité la seignourie de Romme »</quote> (rubr.) f. 470d) ; exemples de faits vertueux (<quote>« Cy aprez s’ensieut la derreniere partie de nostre second volume contenant une recollection d’exemples des vertueux fais de pluseurs anciens princes et philozophes au propoz des quatre vertus cardinales »</quote> (rubr.) f. 470d ; <quote>« Cy finent pluseurs exemples des vertueux fais de pluseurs anciens <pb n="f. 489a"/> princes et philosophes au propoz des quatre vertus cardinales »</quote> (rubr.)) f. 471a-489a ; développements sur les vertus (<quote>« Cy dist comment l’en doit les vertus referer a Dieu et les assavourer de la vertu d’umilité qui est la garde des vertus »</quote> (rubr.) f. 489a ; <quote>« Cy parle de quatre choses qui seulent acompaignier terrienne domination, lesquelles avoir chascun desire pour parvenir a icelle domination »</quote> (rubr.) f. 491b ; <quote>« Cy parle d’aultres quatre choses qui seulent acompaignier domination temporele, lesquelles bien pensees font plus celle domination a refuser que a l’entreprendre »</quote> (rubr.) f. 494b) f. 489a-497c ; conclusion du 2e livre de la
+                          <title type="ancien">Atant fine le traitié de la premiere guerre punique</title> f. 153c] f. 106a-153c ; remaniement de la traduction de D3 [titre : <title type="ancien">C’est cy le commencement de la seconde guerre punique que fist Hanibal duc de Carthage contre les Rommains</title> (rubr.) f. 153d ; <title type="ancien">Et atant fine l’istoire prinse sur le Xe livre de la seconde decade de Titus Livius</title> f. 238b] f. 153d-238b ; remaniement de la traduction de D4 [titre : <title type="ancien">Atant fine l’istoire prinse sur le IXe livre de la tierce decade de Titus Livius</title> f. 295b] f. 238b-295b ; continuation de l’histoire romaine f. 295b-470d (<quote>« Cy finent les histores rommaines commençans a la fondation de Romme et continuees jusques au temps de Constantin le Grant qui fut empereur d’icelle qui transporta le siege imperial en la cité de Constantinoble et ceda et delaissa aux papes a perpetuité la seignourie de Romme »</quote> (rubr.) f. 470d) ; exemples de faits vertueux (<quote>« Cy aprez s’ensieut la derreniere partie de nostre second volume contenant une recollection d’exemples des vertueux fais de pluseurs anciens princes et philozophes au propoz des quatre vertus cardinales »</quote> (rubr.) f. 470d ; <quote>« Cy finent pluseurs exemples des vertueux fais de pluseurs anciens <pb n="f. 489a" /> princes et philosophes au propoz des quatre vertus cardinales »</quote> (rubr.)) f. 471a-489a ; développements sur les vertus (<quote>« Cy dist comment l’en doit les vertus referer a Dieu et les assavourer de la vertu d’umilité qui est la garde des vertus »</quote> (rubr.) f. 489a ; <quote>« Cy parle de quatre choses qui seulent acompaignier terrienne domination, lesquelles avoir chascun desire pour parvenir a icelle domination »</quote> (rubr.) f. 491b ; <quote>« Cy parle d’aultres quatre choses qui seulent acompaignier domination temporele, lesquelles bien pensees font plus celle domination a refuser que a l’entreprendre »</quote> (rubr.) f. 494b) f. 489a-497c ; conclusion du 2e livre de la
                           <title>Fleur des histoires</title> [titre : <title type="ancien">C’est la fin et la conclusion de ce present volume par quoy l’en peut congnoistre les noms de l’acteur et du livre</title> (rubr.) f. 497d] f. 498a-d.</p>
                       </msContents>
                       <physDesc>
@@ -3406,7 +3389,7 @@
                         </objectDesc>
                         <handDesc>
                           <p>Copiste : colophon <quote>« Finitur labor is laus Christo grata sit oris
-                            <lb/>Quid sit scriptoris requies merces que laboris »</quote> (variante de Bouveret 21642) (f. 498d).</p>
+                            <lb />Quid sit scriptoris requies merces que laboris »</quote> (variante de Bouveret 21642) (f. 498d).</p>
                         </handDesc>
                         <decoDesc>
                           <p>Illustration : une réserve des 4/5 de la justification (f. 1)</p>
@@ -3435,8 +3418,8 @@
                   <listBibl type="msList">
                     <msDesc xml:id="ms_vdegrange"><!-- type="biblissima" -->
                       <msIdentifier>
-                        <settlement/>
-                        <repository/>
+                        <settlement />
+                        <repository />
                         <idno>Ex ms Victor Degrange</idno>
                       </msIdentifier>
                       <msContents>
@@ -3489,7 +3472,7 @@
                   <msItem>
                     <locus>f. 1 - f. 54</locus>
                     <title>I<hi rend="sup">re</hi> décade</title>
-                    <incipit>Entre les autres citez du monde ne fut oncques cité plus sainte ne plus riche de bons exemples ne en laquelle avarice et luxure soient plus tart entrez ou en laquelle povreté ait esté tant longuement honnouree que en la cité de Romme car de tant plus comme il y avoit moins de choses terriennes de tant y avoit <pb n="f. 1v"/> il moins de convoitise mais pour certain richesses avarice et habondance de deliz y embatirent et apporterent le desir de toutes choses perdre et periller par superfluité ou premier chapitre du premier livre de la premiere decade de Thitus Livius.</incipit>
+                    <incipit>Entre les autres citez du monde ne fut oncques cité plus sainte ne plus riche de bons exemples ne en laquelle avarice et luxure soient plus tart entrez ou en laquelle povreté ait esté tant longuement honnouree que en la cité de Romme car de tant plus comme il y avoit moins de choses terriennes de tant y avoit <pb n="f. 1v" /> il moins de convoitise mais pour certain richesses avarice et habondance de deliz y embatirent et apporterent le desir de toutes choses perdre et periller par superfluité ou premier chapitre du premier livre de la premiere decade de Thitus Livius.</incipit>
                     <explicit>Si fut pour le remede d’icelle envoié en Epidauree querir Esculape le Dieu auquel fut fait grant solempnité et suppl. etc. ou final et derenier chapitre du premier livre de la premiere decade de Thitus Livi.</explicit>
                   </msItem>
                   <msItem>
@@ -3497,19 +3480,19 @@
                     <title>Leonardo Bruni, <title>De bello punico</title></title>
                     <incipit>Thitulive pere de l’histoire rommaine celle partie ou il avoit descript la premiere guerre que les Rommains avoient menee contre les Cartagiens...</incipit>
                     <explicit>...rommain ou derrenier et final chapitre de la IIe partie du deuxieme livre de la translacion de la premiere guerre punique.
-                      <lb/>Explicit de la premiere bataille punique.</explicit>
+                      <lb />Explicit de la premiere bataille punique.</explicit>
                   </msItem>
                   <msItem>
                     <locus>f. 72v - f. 133</locus>
                     <title>III<hi rend="sup">e</hi> décade</title>
                     <incipit><seg type="rubric">De la cause de la IIe guerre punique premier chapitre</seg>
-                      <lb/>Cartaige estoit une cité tres noble et tres puissant assise en Affrique sur la mer la ou orendroit est la cité de...</incipit>
+                      <lb />Cartaige estoit une cité tres noble et tres puissant assise en Affrique sur la mer la ou orendroit est la cité de...</incipit>
                     <explicit>...et fut lors Scipion nommé Scipion l’Affriquan et fut le premier qui print nom de province par lui conquise ou final et XXVIIe chapitre du Xe livre de la IIe decade de Thiti Livi.</explicit>
                   </msItem>
                   <msItem>
                     <locus>f. 133-173</locus>
                     <title>IV<hi rend="sup">e</hi> décade</title>
-                    <incipit><seg type="rubric">Comment li Rommain prindrent les armes contre le roy Phelippe de Macedoine et furent par les Gaules desconfiz premier chapitre.</seg> <pb n="f. 133v"/> Aprés la paix punique sourdy la guerre macedonique qui grande estoit pour cause de la grandeur de leur empire...</incipit>
+                    <incipit><seg type="rubric">Comment li Rommain prindrent les armes contre le roy Phelippe de Macedoine et furent par les Gaules desconfiz premier chapitre.</seg> <pb n="f. 133v" /> Aprés la paix punique sourdy la guerre macedonique qui grande estoit pour cause de la grandeur de leur empire...</incipit>
                     <explicit>...la province des Liguriens et en aprés furent aux autres magistras a chascun baillee sa province es XVI, XVIIes et final chapitre du IX<hi rend="sup">e</hi> et derrenier livre de la III<hi rend="sup">e</hi> decade de Thiti Livi. <foreign xml:lang="lat">Et sic finis huius operis, etc.</foreign></explicit>
                   </msItem>
                 </msContents>
@@ -3634,8 +3617,8 @@
               <div type="premier_chapitre">
                 <head>Premier chapitre</head>
                 <bibl>Paris, Bibl. nat. de Fr., Rés. J. 365</bibl>
-                <p>Cy commence le premier livre des gestes rommaines et premierement comment Hasdrubal <pb n="f. 1b"/> fut empereur des Carthagiens et puis par ung Barbarin fut occis. <pb n="f. 1c"/>
-                  <lb/>Entre le pere et le filz Hasdrubal obtint l’empire de Carthaige environ le temps de huyt ans, lequel estoit gendre du duc Hamilcar. Et pour sa noblesse et haut lignaige qui estoit de la faction barchine, des plus riches de la cité, par l’election des princes d’icelle avoit obtenu ledit empire, pendant le temps duquel empire il accreust la chose publicque de la cité, plus par bon conseil et amytié des princes voysins que par force ne par guerre. Mais non pourtant en celle paix ne peust il pas estre seur, car ung homme estrangier le vint dedans la cité entre tous ses gens occire par yre ou vengeance de ce que ledit Hasdrubal avoit autresfoys tué son maistre, lequel estrangier prins et saisy par ses gens qui estoient a l’entour de luy ne se esfraya de riens ne ne monstra sa face plus esbahye que se il se feust de eulx evadé. Et comme on le deschirast et desmembrast par plusieurs tormens, il ne monstra oncques semblant de douleur mais tous signes de rys et de joye pour la vengeance qu’il avoit faicte de la mort de son maistre. Avecques icelluy Hasdrubal avoient renouvellé les Rommains leur allyances et ordonné que le fleuve d’Ybere en Espaigne departiroit et seroit fin et limite entre les terres des deux empires de Romme et de Carthaige, et aux Sagontins, moyens entre les deux empires, liberté seroit gardee.</p>
+                <p>Cy commence le premier livre des gestes rommaines et premierement comment Hasdrubal <pb n="f. 1b" /> fut empereur des Carthagiens et puis par ung Barbarin fut occis. <pb n="f. 1c" />
+                  <lb />Entre le pere et le filz Hasdrubal obtint l’empire de Carthaige environ le temps de huyt ans, lequel estoit gendre du duc Hamilcar. Et pour sa noblesse et haut lignaige qui estoit de la faction barchine, des plus riches de la cité, par l’election des princes d’icelle avoit obtenu ledit empire, pendant le temps duquel empire il accreust la chose publicque de la cité, plus par bon conseil et amytié des princes voysins que par force ne par guerre. Mais non pourtant en celle paix ne peust il pas estre seur, car ung homme estrangier le vint dedans la cité entre tous ses gens occire par yre ou vengeance de ce que ledit Hasdrubal avoit autresfoys tué son maistre, lequel estrangier prins et saisy par ses gens qui estoient a l’entour de luy ne se esfraya de riens ne ne monstra sa face plus esbahye que se il se feust de eulx evadé. Et comme on le deschirast et desmembrast par plusieurs tormens, il ne monstra oncques semblant de douleur mais tous signes de rys et de joye pour la vengeance qu’il avoit faicte de la mort de son maistre. Avecques icelluy Hasdrubal avoient renouvellé les Rommains leur allyances et ordonné que le fleuve d’Ybere en Espaigne departiroit et seroit fin et limite entre les terres des deux empires de Romme et de Carthaige, et aux Sagontins, moyens entre les deux empires, liberté seroit gardee.</p>
               </div>
               <div>
                 <head>A titre de comparaison, premier chapitre</head>
@@ -3644,7 +3627,7 @@
                 <p>Entre Amilcar et Hanibal son filz fut empereur de Cartaige ung chevalier appellé Hasdrubal, <note><hi rend="i">ue</hi> suppr. d’après éd. 1515</note> sicomme l’en disoit communement, avoit esté en la fleur de son aage conseillier famillierement dudit Amilcar. Et pour ce que ledit Amilcar veoit le dit Hasdrubal de bonne industrie, il luy avoit donné sa fille a mariage, c’est a dire qu’il estoit son concubin ou fait desordonné, et aussy pour cause qu’il estoit d’ung grant lignage qui faisoit grant partie de la cité, laquelle estoit appellee Brachienne et estoit plus habondant en richesses ; et quant aux chevaliers et quant au peuple, les princes du peuple l’avoient esleu a estre empereur de Cartage aprés la mort dudit Amilcar, pour cause que le dessusdit Hannibal estoit encore enfant, sicome dessus est dit.</p>
                 <p>Comment Hasdrubal fut occiz par ung barbarin. II</p>
                 <p>Cestuy empereur Hasdrubal voulut plus user en son temps de conseil que de puissance et s’efforça <hi rend="i">[e. et de]</hi>
-                  <pb n="f. 3d"/> de appaisier a soy les couraiges des roys et les voulentez des gens ; et aussy il acreut et augmenta en son temps l’empire de Cartaige, plus par admistance que par armes, mais encore ne peult il avoir surté de paix, car ung barbarin par ire et par vengance de la mort son seigneur, le quel Hadrubal avoit ja occis, tua ledit Hadrubal, le quel Barbarin, prins et saisy de ceux qui estoient a l’entour et supposez aux tormens sans muance d’aucuns membres, en ris et en leesse se laissa occire, tant avoit mis a mort ledit Hasdrubal et vengié son seigneur avec cestuy Hasdrubal, pour ce qu’il estoit de merveilleux art a subtiller gens estranges et adjouster en son empire et avoit avec le peuple rommain renouvellé aliance ; et avoient entr’eux ordonné que le fleuve de Heure qui passe par Espaigne feist fins et termes et limites des deux empires de Romme et de Cartaige.</p>
+                  <pb n="f. 3d" /> de appaisier a soy les couraiges des roys et les voulentez des gens ; et aussy il acreut et augmenta en son temps l’empire de Cartaige, plus par admistance que par armes, mais encore ne peult il avoir surté de paix, car ung barbarin par ire et par vengance de la mort son seigneur, le quel Hadrubal avoit ja occis, tua ledit Hadrubal, le quel Barbarin, prins et saisy de ceux qui estoient a l’entour et supposez aux tormens sans muance d’aucuns membres, en ris et en leesse se laissa occire, tant avoit mis a mort ledit Hasdrubal et vengié son seigneur avec cestuy Hasdrubal, pour ce qu’il estoit de merveilleux art a subtiller gens estranges et adjouster en son empire et avoit avec le peuple rommain renouvellé aliance ; et avoient entr’eux ordonné que le fleuve de Heure qui passe par Espaigne feist fins et termes et limites des deux empires de Romme et de Cartaige.</p>
               </div>
             </div>
             <div type="incipit">
@@ -3652,16 +3635,16 @@
               <bibl><title type="ancien">Les gestes romaines, nouvellement imprimez</title>, Paris, <publisher>Antoine Vérard</publisher>, <date notBefore="1500" notAfter="1515">ca 1508</date></bibl>
               <msDesc xml:id="impr_titeLive_verard" type="incunabulum"><!-- type="biblissima" -->
                 <msIdentifier>
-                  <settlement/>
-                  <repository/>
-                  <idno/>
+                  <settlement />
+                  <repository />
+                  <idno />
                 </msIdentifier>
                 <msContents>
                   <msItem>
                     <locus>f. 1a-21b</locus>
                     <title>Livre I</title>
                     <incipit>Cy commence le premier livre des gestes rommaines et premierement comment Hasdrubal fut empereur des Carthagiens et puis par ung Barbarin fut occis
-                      <lb/>Entre le pere et le filz Hasdrubal obtint l’empire de Carthaige environ le temps de huyt ans lequel estoit gendre du duc Hamilcar Et pour sa noblesse et haut lignaige qui estoit de la faction barchine des plus riches de la cité par l’election des princes d’icelle avoit obtenu ledit empire...</incipit>
+                      <lb />Entre le pere et le filz Hasdrubal obtint l’empire de Carthaige environ le temps de huyt ans lequel estoit gendre du duc Hamilcar Et pour sa noblesse et haut lignaige qui estoit de la faction barchine des plus riches de la cité par l’election des princes d’icelle avoit obtenu ledit empire...</incipit>
                     <explicit>...et puis par le chemin des mons appeniens commença a mener son ost au paÿs de Ethrurye.</explicit>
                   </msItem>
                   <msItem>
@@ -3674,7 +3657,7 @@
                     <locus>f. 46c-47a - 67d</locus>
                     <title>Livre III</title>
                     <incipit>Cy commence le tiers livre des gestes rommaines et premierement comment Hannibal se partit de Cannes aprés sa victoire et s’en alla a la cité Campse laquelle se vendit a luy
-                      <lb/>Hannibal aprés la bataille de Cannes et qu’il eut prins et gaigné les tentes des Rommains s’est incontinent party de Puille...</incipit>
+                      <lb />Hannibal aprés la bataille de Cannes et qu’il eut prins et gaigné les tentes des Rommains s’est incontinent party de Puille...</incipit>
                     <explicit>Ainsi en celluy esté furent faictes en Espaigne trop plus grans choses que l’en ne fist en Ytalie.</explicit>
                   </msItem>
                   <msItem>
@@ -3692,8 +3675,8 @@
                   <msItem>
                     <locus>f. 106a - 126d</locus>
                     <title>Livre VI</title>
-                    <incipit>Cy commence le sixiesme livre de gestes rommaines et premierement comment les Rommains sortirent des provinces et comment G. Fulvius fut accusé devant le senat pour la desconfiture qui fut faicte des Rommains en Puyle <pb n="f. 105a-b"/>
-                      <lb/>Les nouveaulx consules Fulvius Centimalus et Sulpicius Galba commencerent leur consulat es ydes de mars.</incipit>
+                    <incipit>Cy commence le sixiesme livre de gestes rommaines et premierement comment les Rommains sortirent des provinces et comment G. Fulvius fut accusé devant le senat pour la desconfiture qui fut faicte des Rommains en Puyle <pb n="f. 105a-b" />
+                      <lb />Les nouveaulx consules Fulvius Centimalus et Sulpicius Galba commencerent leur consulat es ydes de mars.</incipit>
                     <explicit>... combien qu’ilz ne feussent pas ygnorans qu’ilz avoient en celle prinse perdu la plus part de leur force et puissance</explicit>
                   </msItem>
                   <msItem>

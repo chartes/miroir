@@ -2,8 +2,9 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Heroides, P. Ovidius Naso</title>
-        <title>Notice descriptive des traductions médiévales en français et en occitan</title>
+        <title ref="https://www.wikidata.org/wiki/Q1236672 https://data.bnf.fr/ark:/12148/cb12213117q https://portail.biblissima.fr/fr/ark:/43093/oedata7870c570e523e47afaac7c1b761b5b8a08ae5ab6 https://data.biblissima.fr/entity/Q284570">Heroides, P. Ovidius Naso</title>
+        <title type="short">Heroides</title>
+        <title type="sub">Notice descriptive des traductions médiévales en français et en occitan</title>
         <author key="Duval, Frédéric (1972-....)" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
       </titleStmt>
@@ -22,76 +23,58 @@
           <resp>révision du schéma</resp>
         </respStmt>
       </editionStmt>
+      <extent />
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2017">2017</date>
-        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/heroides_ovidius.xml</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
+        <address>
+          <addrLine>65, rue de Richelieu</addrLine>
+          <addrLine>75002 Paris</addrLine>
+          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>https://www.chartes.psl.eu/</addrLine>
+        </address>
+        <date>2017</date>
+        <idno>http://elec.enc.sorbonne.fr/miroir/heroides_ovidius</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
         <title>Miroir des classiques</title>
+        <idno type="vol">17</idno>
       </seriesStmt>
-      <sourceDesc>
-        <bibl><author>P. Ovidius Naso</author>, <title>Heroides</title>.</bibl>
-      </sourceDesc>
-      <noteStmt>
+      <notesStmt>
         <note type="abstract">Notice</note>
-      </noteStmt> 
+        <note type="citation">Frédéric Duval (éd.), <title>Heroides, P. Ovidius Naso</title>, École nationale des chartes – PSL, 2017.</note>
+      </notesStmt>
+      <sourceDesc>
+        <bibl source="https://data.bnf.fr/ark:/12148/cb12213117q https://portail.biblissima.fr/fr/ark:/43093/oedata7870c570e523e47afaac7c1b761b5b8a08ae5ab6 https://data.biblissima.fr/entity/Q284570"><author>P. Ovidius Naso</author>, <title>Heroides</title>.</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="2006">2006</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
       <textClass>
         <keywords>
           <term key="https://data.bnf.fr/ark:/12148/cb119183166">Ovide (0043 av. J.-C.-0017)</term>
+          <term type="temporalCoverage"><date>1275/1599</date></term>
         </keywords>
       </textClass>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p>Le « Miroir des classiques » est une base de données codicologiques et textuelles consacrée aux traductions d’auteurs classiques en langues gallo-romanes (français et occitan) au Moyen Âge. Pour chaque œuvre, les différentes traductions sont présentées dans leur ordre chronologique, accompagnées de l’analyse précise des manuscrits et éditions anciennes qui les conservent. Le projet, dirigé par Frédéric Duval (École nationale des chartes – PSL, Centre Jean-Mabillon), a bénéficié du soutien de l’Équipement d’excellence Biblissima puis de Biblissima+.</p>
+      </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div" use="@xml:id">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
             </citeStructure>
           </citeStructure>
         </citeStructure>
@@ -162,7 +145,7 @@
               <msItem>
                 <locus>p. 205</locus>
                 <title>[Phedra a Ypolite, <title>Heroides</title> IV]</title>
-                <incipit>Tu Ypolite la pucele de Crethe en ces letres te mande salu la quelle ne le puet a<pb n="f. 103b"/>voir se tu ne li donnes...</incipit>
+                <incipit>Tu Ypolite la pucele de Crethe en ces letres te mande salu la quelle ne le puet a<pb n="f. 103b" />voir se tu ne li donnes...</incipit>
               </msItem>
               <msItem>
                 <locus>f. 53c, p. 211</locus>
@@ -544,7 +527,7 @@
                 <idno source="http://gallica.bnf.fr/ark:/12148/btv1b90596632">fr. 1641</idno>
               </msIdentifier>
               <msContents>
-                <p>Toute recommendacion presupposee, voire telle comme par droit appartient et est deu a souveraine majesté de si treshault et tresillustre prince, plaise vous savoir, sire, que je toute ma vie desireux d’excecuter et parfaire selon l’estendue du mien pouoir aucune chose qui donnast plaisir a vostre oeil, recreacion de cueur et refrigere de pensee pour la descharge du faix de vostre sollicitude et des soingneux affaires qui par office royal gisent et repousent soubz vostre sceptre, en ensuivant ma primeraine intencion a vous non a autre vouee et desdiee, ay esté semons poursuivre par instigacion de bonne voulenté le premier labour de ma plume, jaçoit que trop est elle rude, ruralle et agreste pour chose dont fruict louable se puisse rapporter et que, pour peu sçavoir et beaucoup ignorer, craincte et doubte ayent souventesfoys voulu retirer les pas ligiers du mien vouluntaire desir a non emprendre chose de <pb n="f. 1v"/> si haulte poursuicte comme non digne de parvenir jusques a y employer l’usaige de vostre veue ; neantmoins, aprés si divers combat entre ma peur et bon vouloir, raison a fait l’accord et mis fin a cest estrif determinant et contraire que leal prince ne doit estre mye espargnié ne vray subget estre recreu de desirer par tous moyens poussibles, bons et honnestes rendre son seigneur a luy propice, ains employer sens, temps et biens a se monstrer serviteur tel comme bon maistre le desire ; et pour ce je, trop eureux, me repputant estre comprins au nombre de voz serviteurs treshumbles, voire quant a l’estimacion de vertus ou de valeur de tous le maindre, aprés avoir tournoyé la petite librairie de mon entendement et visité les angletz de mon gazophile, ung jour entre les autres assez curieux et embesongné de savoir ou ne en quel endroit dresser mon euvre, je trouvay parmy le nombre des autres volumes les espitres Heroÿdes par le treseloquent et renommé poëte <pb n="f. 2"/> Ovide, jadis compilees en forme latine, doulce et melliflue. Et pource que la matiere et son art me sembla telle que langue de detracteur ne peut ferir ou actaindre contre le feu de sa value, j’entends quant a reprouver le merite de telle personne, congnoissant aussi que la louenge de luy avoit esté perseveree en la bouche des hommes depuis les olimpyades lors nombrees jusques aux modernes kalendes ; cela, toute autre cause reïteree, me donna hardement et force de aguiser la povreté de ma plume a la pierre fine de son savoir pour en tirer ce que pourroye et pour manifester a vous, sire, en vulgaire stille ce que langue tant de bien dire coustumiere daigna nous laisser par escript en tresaornee et parfaicte eloquence ; et pour ce vous ay voulu ce present volume diriger par translacion faicte, selon que pooir de treshumble subget se monte, lequel vous playra doulcement et a gré recevoir ainsi <pb n="f. 2v"/> que l’intencion myenne est et sera tousjours encline, preste et deliberee de me faire demourer soubz le scabelle de voz piedz vostre tresobeïssant serviteur.</p>
+                <p>Toute recommendacion presupposee, voire telle comme par droit appartient et est deu a souveraine majesté de si treshault et tresillustre prince, plaise vous savoir, sire, que je toute ma vie desireux d’excecuter et parfaire selon l’estendue du mien pouoir aucune chose qui donnast plaisir a vostre oeil, recreacion de cueur et refrigere de pensee pour la descharge du faix de vostre sollicitude et des soingneux affaires qui par office royal gisent et repousent soubz vostre sceptre, en ensuivant ma primeraine intencion a vous non a autre vouee et desdiee, ay esté semons poursuivre par instigacion de bonne voulenté le premier labour de ma plume, jaçoit que trop est elle rude, ruralle et agreste pour chose dont fruict louable se puisse rapporter et que, pour peu sçavoir et beaucoup ignorer, craincte et doubte ayent souventesfoys voulu retirer les pas ligiers du mien vouluntaire desir a non emprendre chose de <pb n="f. 1v" /> si haulte poursuicte comme non digne de parvenir jusques a y employer l’usaige de vostre veue ; neantmoins, aprés si divers combat entre ma peur et bon vouloir, raison a fait l’accord et mis fin a cest estrif determinant et contraire que leal prince ne doit estre mye espargnié ne vray subget estre recreu de desirer par tous moyens poussibles, bons et honnestes rendre son seigneur a luy propice, ains employer sens, temps et biens a se monstrer serviteur tel comme bon maistre le desire ; et pour ce je, trop eureux, me repputant estre comprins au nombre de voz serviteurs treshumbles, voire quant a l’estimacion de vertus ou de valeur de tous le maindre, aprés avoir tournoyé la petite librairie de mon entendement et visité les angletz de mon gazophile, ung jour entre les autres assez curieux et embesongné de savoir ou ne en quel endroit dresser mon euvre, je trouvay parmy le nombre des autres volumes les espitres Heroÿdes par le treseloquent et renommé poëte <pb n="f. 2" /> Ovide, jadis compilees en forme latine, doulce et melliflue. Et pource que la matiere et son art me sembla telle que langue de detracteur ne peut ferir ou actaindre contre le feu de sa value, j’entends quant a reprouver le merite de telle personne, congnoissant aussi que la louenge de luy avoit esté perseveree en la bouche des hommes depuis les olimpyades lors nombrees jusques aux modernes kalendes ; cela, toute autre cause reïteree, me donna hardement et force de aguiser la povreté de ma plume a la pierre fine de son savoir pour en tirer ce que pourroye et pour manifester a vous, sire, en vulgaire stille ce que langue tant de bien dire coustumiere daigna nous laisser par escript en tresaornee et parfaicte eloquence ; et pour ce vous ay voulu ce present volume diriger par translacion faicte, selon que pooir de treshumble subget se monte, lequel vous playra doulcement et a gré recevoir ainsi <pb n="f. 2v" /> que l’intencion myenne est et sera tousjours encline, preste et deliberee de me faire demourer soubz le scabelle de voz piedz vostre tresobeïssant serviteur.</p>
               </msContents>
             </msDesc>
           </div>
@@ -604,7 +587,7 @@
             <l>qui trop estoient en amour curieuses,</l>
             <l>car icelles avoient tant leurs ceurs mis</l>
             <l>aprés aucuns leurs singuliers amis</l>
-            <l>qu’elles perdoient toute memoire et sens <pb n="f. a2b"/></l>
+            <l>qu’elles perdoient toute memoire et sens <pb n="f. a2b" /></l>
             <l>comme en ce livre trouve assez le sens.</l>
             <l>Mais quelque amour qu’elles eussent en eulx prins,</l>
             <l>leurs amans furent d’aultres dames surprins</l>
@@ -667,98 +650,98 @@
                 <locus>f. 3-8</locus>
                 <title>I. <title>De Penelopé a Ulixés</title></title>
                 <incipit>Puisque tu es du retour paresseux
-                  <lb/>O Ulixés de cueur tresangoisseux
-                  <lb/>Penelopé cest espitre t’envoye
-                  <lb/>Afin que tost tu te mectes en voye.
+                  <lb />O Ulixés de cueur tresangoisseux
+                  <lb />Penelopé cest espitre t’envoye
+                  <lb />Afin que tost tu te mectes en voye.
                 </incipit>
                 <explicit>Certeinnement je qui fuz gente et belle
-                  <lb/>Quant tu partiz et de poignant mammelle
-                  <lb/>Te sembleray vieille et layde au retour
-                  <lb/>Toute chose fault que face son tour.
+                  <lb />Quant tu partiz et de poignant mammelle
+                  <lb />Te sembleray vieille et layde au retour
+                  <lb />Toute chose fault que face son tour.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 8v-13v</locus>
                 <title>II. <title>De Philix a Demophon</title></title>
                 <incipit>O Demophon ton hostesse Philix
-                  <lb/>Dont a present son espitre tu lys
-                  <lb/>A toy se plaint de ta longue demeure
-                  <lb/>Et dont tu as sans cause faulsé l’heure.
+                  <lb />Dont a present son espitre tu lys
+                  <lb />A toy se plaint de ta longue demeure
+                  <lb />Et dont tu as sans cause faulsé l’heure.
                 </incipit>
                 <explicit>...A fait movoir en piteuse destresse
-                  <lb/>Trop le cherist comme songneuse hostesse
-                  <lb/>Dont de ce crime et mal qu’elle porta
-                  <lb/>Il bailla l’euvre et elle executa.
+                  <lb />Trop le cherist comme songneuse hostesse
+                  <lb />Dont de ce crime et mal qu’elle porta
+                  <lb />Il bailla l’euvre et elle executa.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 14-20v</locus>
                 <title>III. <title>De Briseïs a Achillés</title></title>
                 <incipit>Ceste lettre que maintenant tu liz
-                  <lb/>S’adresse a toy de par moy Briseïs
-                  <lb/>Laquelle j’ay a peine en grec tissue
-                  <lb/>Pource que suis d’estrange langue yssue.
+                  <lb />S’adresse a toy de par moy Briseïs
+                  <lb />Laquelle j’ay a peine en grec tissue
+                  <lb />Pource que suis d’estrange langue yssue.
                 </incipit>
                 <explicit>...Dont il advient que tu partes en l’heure
-                  <lb/>Ou soit ainsi que tu faces demeure
-                  <lb/>Le tout m’est ung mais que vers toy me mandes
-                  <lb/>Comme seigneur et que tu le commendes.
+                  <lb />Ou soit ainsi que tu faces demeure
+                  <lb />Le tout m’est ung mais que vers toy me mandes
+                  <lb />Comme seigneur et que tu le commendes.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 20v-29</locus>
                 <title>IV. <title>De Phedra a Ypolite</title></title>
                 <incipit>Salut t’envoye la pucelle de Crethe
-                  <lb/>Qui sans toy n’a nulle joye parfaicte 
-                  <lb/>Si te suply que ma lettre tu lises
-                  <lb/>Peu te nuyront les choses dedans mises.
+                  <lb />Qui sans toy n’a nulle joye parfaicte 
+                  <lb />Si te suply que ma lettre tu lises
+                  <lb />Peu te nuyront les choses dedans mises.
                 </incipit>
                 <explicit>Or te supply, quant ma lettre verras
-                  <lb/>Et que ce bien et honneur me feras
-                  <lb/>Qu’aussi tu voyes ou au meins fay semblance
-                  <lb/>De veoir mon pleur et ma grant doleance.
+                  <lb />Et que ce bien et honneur me feras
+                  <lb />Qu’aussi tu voyes ou au meins fay semblance
+                  <lb />De veoir mon pleur et ma grant doleance.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 29v-36v</locus>
                 <title>V. <title>De Zenone a Paris</title></title>
                 <incipit>Je ne scay pas Paris si tu liras
-                  <lb/>Mon espitre ne si compte en feras
-                  <lb/>Craignant pour voir que ta nouvelle espouse
-                  <lb/>Garde et empesche qu’elle ne soit desclouse...
+                  <lb />Mon espitre ne si compte en feras
+                  <lb />Craignant pour voir que ta nouvelle espouse
+                  <lb />Garde et empesche qu’elle ne soit desclouse...
                 </incipit>
                 <explicit>...Car toute tienne je suis et tienne fuz
-                  <lb/>Des mon jeune aage sans en faire reffuz
-                  <lb/>Et d’autre chose pour certain n’ay envye
-                  <lb/>Fors d’estre tienne le surplus de ma vye.
+                  <lb />Des mon jeune aage sans en faire reffuz
+                  <lb />Et d’autre chose pour certain n’ay envye
+                  <lb />Fors d’estre tienne le surplus de ma vye.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 37-43</locus>
                 <title>VI. <title>De Ysiphile a Jason</title></title>
                 <incipit>On dit Jason qu’aprés ta longue queste
-                  <lb/>Tu es venu a chief de ta conqueste
-                  <lb/>Et que tu as rapporté a foison
-                  <lb/>Tresors et biens au la riche toison...
+                  <lb />Tu es venu a chief de ta conqueste
+                  <lb />Et que tu as rapporté a foison
+                  <lb />Tresors et biens au la riche toison...
                 </incipit>
                 <explicit>...Je Ysiphile prince de tous biens
-                  <lb/>Ne vous souhaicte a vous tous deux plus riens
-                  <lb/>Ainsi vivez sans joye avoir plus ample
-                  <lb/>Afin qu’autres y preignent leur exemple.
+                  <lb />Ne vous souhaicte a vous tous deux plus riens
+                  <lb />Ainsi vivez sans joye avoir plus ample
+                  <lb />Afin qu’autres y preignent leur exemple.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 43v-51</locus>
                 <title>VII. <title>De Dido a Enee</title></title>
                 <incipit>Comme le cisne quant mort luy est prochaine
-                  <lb/>Doulcement chante et a voix tresseraine
-                  <lb/>Pareillement je Dido pour tout voir
-                  <lb/>Qui ne te puis par priere esmovoir...
+                  <lb />Doulcement chante et a voix tresseraine
+                  <lb />Pareillement je Dido pour tout voir
+                  <lb />Qui ne te puis par priere esmovoir...
                 </incipit>
                 <explicit>Cy gist Dido a qui le faulx Enee
-                  <lb/>Cause de mort et l’espee a donnee
-                  <lb/>La malheureuse s’occist de propre main
-                  <lb/>Pour le deppart de l’amant inhumain.
+                  <lb />Cause de mort et l’espee a donnee
+                  <lb />La malheureuse s’occist de propre main
+                  <lb />Pour le deppart de l’amant inhumain.
                 </explicit>
               </msItem>
               <msItem>
@@ -766,196 +749,196 @@
                 <title>VIII. <title>D’Ermyone a Horrestes</title></title>
                 <!-- PAS DE LOCUS pour incipit ; seulement pour explicit: <locus>f. 55v-56</locus> -->
                 <incipit>Si de moy veulx riens aprendre ou sçavoir
-                  <lb/>Sache Orrestes doulx amy pour tout voir
-                  <lb/>Qu’ores me tient sa serve et prisonniere
-                  <lb/>Le faulx Pirrus sans cause droicturiere...
+                  <lb />Sache Orrestes doulx amy pour tout voir
+                  <lb />Qu’ores me tient sa serve et prisonniere
+                  <lb />Le faulx Pirrus sans cause droicturiere...
                 </incipit>
                 <explicit>...Et tost verras de mon trespaz la fin
-                  <lb/>Si tu qui es mon plus leal affin
-                  <lb/>Ne me reprens comme la tienne espouse
-                  <lb/>Mon cueur ne veult ne ne quiere autre chose.
+                  <lb />Si tu qui es mon plus leal affin
+                  <lb />Ne me reprens comme la tienne espouse
+                  <lb />Mon cueur ne veult ne ne quiere autre chose.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 56-63</locus>
                 <title>IX. <title>De Deyanira a Herculés</title></title>
                 <incipit>Tresaise suis dont par ta force et gloire
-                  <lb/>As obtenu triumphe de victoire
-                  <lb/>Contre Etholye la superbe cité
-                  <lb/>Mais trop me dueil comme on m’a recreé...
+                  <lb />As obtenu triumphe de victoire
+                  <lb />Contre Etholye la superbe cité
+                  <lb />Mais trop me dueil comme on m’a recreé...
                 </incipit>
                 <explicit>Adieu l’heure derniere de ma vie
-                  <lb/>De plus durer au monde n’ay envye
-                  <lb/>Adieu, amy qui ja mary me fuz
-                  <lb/>La mort me plaist ja n’en feray reffuz.
+                  <lb />De plus durer au monde n’ay envye
+                  <lb />Adieu, amy qui ja mary me fuz
+                  <lb />La mort me plaist ja n’en feray reffuz.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 63v-68v</locus>
                 <title>X. <title>De Ariadne a Theseus</title></title>
                 <incipit>J’ay plus trouvé de clemence et pitié
-                  <lb/>De doux acueil et parfaicte amytié
-                  <lb/>Dedans le cueur des bestes estrangieres
-                  <lb/>Qu’oncques ne foiz en tes fainctes manieres...
+                  <lb />De doux acueil et parfaicte amytié
+                  <lb />Dedans le cueur des bestes estrangieres
+                  <lb />Qu’oncques ne foiz en tes fainctes manieres...
                 </incipit>
                 <explicit>...Et s’il advient devant ton arrivee
-                  <lb/>Que je soye de toy morte trouvee
-                  <lb/>Avecques toy mes os emporteras
-                  <lb/>Car moindre loz tu n’en rapporteras.
+                  <lb />Que je soye de toy morte trouvee
+                  <lb />Avecques toy mes os emporteras
+                  <lb />Car moindre loz tu n’en rapporteras.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 69-74</locus>
                 <title>XI. <title>De Canace à Macayre</title></title>
                 <incipit>Se tu trouves ces lectres entachees
-                  <lb/>De rude escript et de mon saing tachees
-                  <lb/>Pour tant ne laisse a veoir le contenu
-                  <lb/>Lors congnoistras comment m’est advenu...
+                  <lb />De rude escript et de mon saing tachees
+                  <lb />Pour tant ne laisse a veoir le contenu
+                  <lb />Lors congnoistras comment m’est advenu...
                 </incipit>
                 <explicit>...Se te supply et requier humblement
-                  <lb/>Que tu parfaces ce myen commendement
-                  <lb/>Et je feray sans prendre longue espace
-                  <lb/>Ce que mon pere ordonne que je face.
+                  <lb />Que tu parfaces ce myen commendement
+                  <lb />Et je feray sans prendre longue espace
+                  <lb />Ce que mon pere ordonne que je face.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 74v-83</locus>
                 <title>XII. <title>De Medee a Jason</title></title>
                 <incipit>Quant me souvient ce que bien me recorde
-                  <lb/>De la pitié et grant misericorde
-                  <lb/>Que j’eu de toy lors que royne et princesse
-                  <lb/>Fuz de Colchos en florissante jeunesse...
+                  <lb />De la pitié et grant misericorde
+                  <lb />Que j’eu de toy lors que royne et princesse
+                  <lb />Fuz de Colchos en florissante jeunesse...
                 </incipit>
                 <explicit>...Or voye, Dieu, mon affaire piteux
-                  <lb/>Et reconforte mon couraige doubteux,
-                  <lb/>Car je ne say autre voye meilleure
-                  <lb/>Fors que me venge ou que bien tost je meure.
+                  <lb />Et reconforte mon couraige doubteux,
+                  <lb />Car je ne say autre voye meilleure
+                  <lb />Fors que me venge ou que bien tost je meure.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 83v-90</locus>
                 <title>XIII. <title>De Laodomye a Prothesilaus</title></title>
                 <incipit>Celle qui t’ayme qui n’a fors de toy joye
-                  <lb/>Salut te donne et salut si t’envoye
-                  <lb/>Toy et tes gens selon le vray rapport
-                  <lb/>Estes trestous arrestez a ung port...
+                  <lb />Salut te donne et salut si t’envoye
+                  <lb />Toy et tes gens selon le vray rapport
+                  <lb />Estes trestous arrestez a ung port...
                 </incipit>
                 <explicit>...Une requeste dont je m’est souvenu
-                  <lb/>C’est qu’il te plaise aprés le contenu
-                  <lb/>Avoir pitié de toy et moy ensemble
-                  <lb/>C’est ce que veulx voy la et que me semble.
+                  <lb />C’est qu’il te plaise aprés le contenu
+                  <lb />Avoir pitié de toy et moy ensemble
+                  <lb />C’est ce que veulx voy la et que me semble.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 90v-95</locus>
                 <title>XIV. <title>De Ypermestra a Linus</title></title>
                 <incipit>Ypermestra doulante et langoureuse
-                  <lb/>Par ceste lectre de lermes plantureuse
-                  <lb/>Donne salut en plainctes trop austeres
-                  <lb/>A toy Livius reste de tant de freres...
+                  <lb />Par ceste lectre de lermes plantureuse
+                  <lb />Donne salut en plainctes trop austeres
+                  <lb />A toy Livius reste de tant de freres...
                 </incipit>
                 <explicit>...Car fer trop dur tient liee ma main
-                  <lb/>Par le vouloir d’un couraige inhumain
-                  <lb/>Puis craincte et peur m’oste la congnoissance
-                  <lb/>De bien parler et de doulce eloquence.
+                  <lb />Par le vouloir d’un couraige inhumain
+                  <lb />Puis craincte et peur m’oste la congnoissance
+                  <lb />De bien parler et de doulce eloquence.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 95v-105</locus>
                 <title>XV. <title>De Paris a Helayne</title></title>
                 <incipit>Salut envoye a toi o dame Helayne
-                  <lb/>Le tien Paris qui ne peut a grant peine
-                  <lb/>Salut avoir pour bien qu’il saiche ouvrer
-                  <lb/>Fors que par toy la puisse recouvrer...
+                  <lb />Le tien Paris qui ne peut a grant peine
+                  <lb />Salut avoir pour bien qu’il saiche ouvrer
+                  <lb />Fors que par toy la puisse recouvrer...
                 </incipit>
                 <explicit>...Pource c’oncques en joyeuse espectance
-                  <lb/>Arreste toy de partir et t’avence
-                  <lb/>Et par aprés quant a Troye seras
-                  <lb/>Demande assez car certes tu l’auras.
+                  <lb />Arreste toy de partir et t’avence
+                  <lb />Et par aprés quant a Troye seras
+                  <lb />Demande assez car certes tu l’auras.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 105v-115v</locus>
                 <title>XVI. <title>D’Heleyne a Paris</title></title>
                 <incipit>Aprés que j’eus a mes yeulx presentee
-                  <lb/>La tienne lectre de divers motz hantee
-                  <lb/>Et que j’eu bien le fait tout pourpensé
-                  <lb/>Pour que tu feusses d’autant recompencé...
+                  <lb />La tienne lectre de divers motz hantee
+                  <lb />Et que j’eu bien le fait tout pourpensé
+                  <lb />Pour que tu feusses d’autant recompencé...
                 </incipit>
                 <explicit>...Le demourant pourras a plain sçavoir
-                  <lb/>Par mes deux femmes lesquelles pour tout voir
-                  <lb/>Savent du tout mon vueil et mon entente
-                  <lb/>Si te supply que de ce te contente.
+                  <lb />Par mes deux femmes lesquelles pour tout voir
+                  <lb />Savent du tout mon vueil et mon entente
+                  <lb />Si te supply que de ce te contente.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 115v-124v</locus>
                 <title>XVII. <title>De Leander a Hero</title></title>
                 <incipit>Salut t’envoye ores par ceste lectre
-                  <lb/>Cil qui vouldroit avecques toy bien estre
-                  <lb/>Qui tant desire ta grace reclamer
-                  <lb/>Mays trop l’en garde la tempeste de mer...
+                  <lb />Cil qui vouldroit avecques toy bien estre
+                  <lb />Qui tant desire ta grace reclamer
+                  <lb />Mays trop l’en garde la tempeste de mer...
                 </incipit>
                 <explicit>...Et cependant je ne veulx autre chose
-                  <lb/>Fors que ma lectre en lieu de moy repose
-                  <lb/>Avecques toy et que puisse en brief temps
-                  <lb/>Aller aprés ainsi comme j’entens.
+                  <lb />Fors que ma lectre en lieu de moy repose
+                  <lb />Avecques toy et que puisse en brief temps
+                  <lb />Aller aprés ainsi comme j’entens.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 125-132v</locus>
                 <title>XVIII. <title>De Hero a Leander</title></title>
                 <incipit>O Leander moult desire et vouldroye
-                  <lb/>Que tu te meisses incontinant en voye
-                  <lb/>Afin que j’eusse au vray non par escript
-                  <lb/>Le tien salut que ta lectre m’escript.
+                  <lb />Que tu te meisses incontinant en voye
+                  <lb />Afin que j’eusse au vray non par escript
+                  <lb />Le tien salut que ta lectre m’escript.
                 </incipit>
                 <explicit>...En ce pendant pour prendre espoir et joye
-                  <lb/>Ce brief espitre te presente et envoye
-                  <lb/>Ce le liz doncques mon loyal souvenir
-                  <lb/>En attendant ton joyeulz revenir.
+                  <lb />Ce brief espitre te presente et envoye
+                  <lb />Ce le liz doncques mon loyal souvenir
+                  <lb />En attendant ton joyeulz revenir.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 133-140</locus>
                 <title>XIX. <title>De Acontius a Cydippe</title></title>
                 <incipit>Oste ta peur ton regret et ta crainte
-                  <lb/>Plus ne seras de promesse contraincte
-                  <lb/>Assez suffist que j’aye en ta foy
-                  <lb/>Une pour toutes que tu doys estre a moy.
+                  <lb />Plus ne seras de promesse contraincte
+                  <lb />Assez suffist que j’aye en ta foy
+                  <lb />Une pour toutes que tu doys estre a moy.
                 </incipit>
                 <explicit>Or est saison que fuit mon propoz
-                  <lb/>Pour qu’a ton cors n’empesche le repoz
-                  <lb/>Atant me taiz plus ne te veulx escripre
-                  <lb/>Te donne Dieu et que ton cueur desire.
+                  <lb />Pour qu’a ton cors n’empesche le repoz
+                  <lb />Atant me taiz plus ne te veulx escripre
+                  <lb />Te donne Dieu et que ton cueur desire.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 140-145</locus>
                 <title>XX. <title>De Cydippe a Aconcius</title></title>
                 <incipit>J’ay eu certes forte peur et grant craincte
-                  <lb/>Quant veiz ta lectre de divers motz empraincte
-                  <lb/>Et si l’ay leue en cueur sans prononcer
-                  <lb/>Doubtant les dieux jurer et ofenser...
+                  <lb />Quant veiz ta lectre de divers motz empraincte
+                  <lb />Et si l’ay leue en cueur sans prononcer
+                  <lb />Doubtant les dieux jurer et ofenser...
                 </incipit>
                 <explicit>...Le tout doncques comprins et entendu
-                  <lb/>Trop nissement tu y as pretendu
-                  <lb/>Et bien seroit a toy reproche ou blasme
-                  <lb/>Se par barat d’envye estre ta femme.
+                  <lb />Trop nissement tu y as pretendu
+                  <lb />Et bien seroit a toy reproche ou blasme
+                  <lb />Se par barat d’envye estre ta femme.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. 145-154</locus>
                 <title>XXI. <title>De Sapho a Faon</title></title>
                 <incipit>Ceste lectre presentee a ta veue
-                  <lb/>N’a elle pas de toy esté congneue
-                  <lb/>Et quant ta main l’ouvrit et desploya
-                  <lb/>Congneu tu pas de qui estoit trassee ?
+                  <lb />N’a elle pas de toy esté congneue
+                  <lb />Et quant ta main l’ouvrit et desploya
+                  <lb />Congneu tu pas de qui estoit trassee ?
                 </incipit>
                 <explicit>O doncques lectre tu feras tesmoingnaige
-                  <lb/>De mon final et derrenier couraige
-                  <lb/>Et a Phaon a present t’en yras
-                  <lb/>Lequel du tout en brief advertiras.
+                  <lb />De mon final et derrenier couraige
+                  <lb />Et a Phaon a present t’en yras
+                  <lb />Lequel du tout en brief advertiras.
                 </explicit>
               </msItem>
             </msContents>
@@ -1271,8 +1254,8 @@
               </msIdentifier>
               <msContents>
                 <p>Traduction des <title>Heroides</title> d’Ovide par Octovien de Saint-Gelais [titre : <title type="ancien">Les espitres Ovide</title> f. 112v] f. 2-112 : incomplète du début (inc. ...<seg type="incipit">Et que son sang par mortelle liqueur 
-                  <lb/>Avoit mouillié la lance du vaincqueur
-                  <lb/>III Briseïs à Achilés</seg>) et précédée d’une table (feuillet non folioté).</p>
+                  <lb />Avoit mouillié la lance du vaincqueur
+                  <lb />III Briseïs à Achilés</seg>) et précédée d’une table (feuillet non folioté).</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -1447,9 +1430,9 @@
           <listBibl type="msList">
             <msDesc xml:id="heroides_ms33"><!-- type="biblissima" -->
               <msIdentifier>
-                <settlement/>
-                <repository/>
-                <idno/>
+                <settlement />
+                <repository />
+                <idno />
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Heroides</title> d’Ovide par Octovien de Saint-Gelais : feuillet isolé vendu par Sotheby (9 juillet 1973, lot 5) appartenant à un manuscrit perdu</p>
@@ -1462,9 +1445,9 @@
             </msDesc>
             <msDesc xml:id="heroides_ms34"><!-- type="biblissima" -->
               <msIdentifier>
-                <settlement/>
-                <repository/>
-                <idno/>
+                <settlement />
+                <repository />
+                <idno />
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Heroides</title> d’Ovide par Octovien de Saint-Gelais : contiendrait 5 épîtres de la traduction d’Octovien de Saint-Gelais associées à 3 textes contemporains</p>
@@ -1477,9 +1460,9 @@
             </msDesc>
             <msDesc xml:id="heroides_ms35"><!-- type="biblissima" -->
               <msIdentifier>
-                <settlement/>
-                <repository/>
-                <idno/>
+                <settlement />
+                <repository />
+                <idno />
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Heroides</title> d’Ovide par Octovien de Saint-Gelais.</p>
@@ -1834,57 +1817,57 @@
                 <locus>f. r4a-r6a</locus>
                 <title>S’ensuyt la premiere espitre d’Ovide de Philistine a Elinus</title>
                 <incipit>Pour esmovoir toutes gens a pitié
-                  <lb/>Qui ont en eulx tant soit peu d’amitié
-                  <lb/>Et qui pourroient par parolles piteuses
-                  <lb/>Soubz l’entreprise d’amouretes doubteuses...
+                  <lb />Qui ont en eulx tant soit peu d’amitié
+                  <lb />Et qui pourroient par parolles piteuses
+                  <lb />Soubz l’entreprise d’amouretes doubteuses...
                 </incipit>
                 <explicit>...Que jusques cy nous avons soubstenus
-                  <lb/>Que Philistine et aussi Elinus
-                  <lb/>A souffrir mort ainsi predestinez
-                  <lb/>Soyent au ranc des infortunez nez.
+                  <lb />Que Philistine et aussi Elinus
+                  <lb />A souffrir mort ainsi predestinez
+                  <lb />Soyent au ranc des infortunez nez.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. r6b-s1b</locus>
                 <title><hi rend="i">S’ensuit la seconde epitre de Cloacus a Clibane</hi>
-                  <lb/></title>
+                  <lb /></title>
                 <incipit>Se pour gemir pour plaindre et souspirer
-                  <lb/>Possible estoit destaindre et espirer
-                  <lb/>Mes grans douleurs et diverses complainctes
-                  <lb/>Ensemble aussi maintes lermes qu’ont plainctes...
+                  <lb />Possible estoit destaindre et espirer
+                  <lb />Mes grans douleurs et diverses complainctes
+                  <lb />Ensemble aussi maintes lermes qu’ont plainctes...
                 </incipit>
                 <explicit>Que Cloacus n’a de souffrir envie
-                  <lb/>Et oultre plus tant que seras en vie
-                  <lb/>Jour ne demy n’aye de seur repos
-                  <lb/>Atant se finent mes fortunez propos.
+                  <lb />Et oultre plus tant que seras en vie
+                  <lb />Jour ne demy n’aye de seur repos
+                  <lb />Atant se finent mes fortunez propos.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. s1c-f. s3b</locus>
                 <title>Cy commance la troisiesme espistre envoyee de la belle amazonne a son amy Cezias</title>
                 <incipit>De ton amour qui jadis tant valoit
-                  <lb/>Quant par raison ton esperance alloit
-                  <lb/>Sercher Venus ou la semblable dicte
-                  <lb/>Autour de moy comme ta femme eslite...
+                  <lb />Quant par raison ton esperance alloit
+                  <lb />Sercher Venus ou la semblable dicte
+                  <lb />Autour de moy comme ta femme eslite...
                 </incipit>
                 <explicit>...Lors se pitié sur homme vertueux
-                  <lb/>Doibt avoir lieu par dueil impetueux
-                  <lb/>Fais ton debvoir comme raison l’entend
-                  <lb/>Plus ne t’en dis et te suffise atant.
+                  <lb />Doibt avoir lieu par dueil impetueux
+                  <lb />Fais ton debvoir comme raison l’entend
+                  <lb />Plus ne t’en dis et te suffise atant.
                 </explicit>
               </msItem>
               <msItem>
                 <locus>f. s3c-s4d</locus>
                 <title>Cy commence la quatrieme espitre d’Ovide de Cynaras a Celius</title>
                 <incipit>Par cest escript qui en pleurs et en lermes,
-                  <lb/>En cris piteux et lamentables termes
-                  <lb/>De moy sans plus qu’as volu estrangier
-                  <lb/>Et me laisser sans raison en dangier...
+                  <lb />En cris piteux et lamentables termes
+                  <lb />De moy sans plus qu’as volu estrangier
+                  <lb />Et me laisser sans raison en dangier...
                 </incipit>
                 <explicit>...Ayma trop mieulx estre de mort usee
-                  <lb/>Qu’estre appellee ton amante abusee
-                  <lb/>Dont relainquie en ce point douloureuse
-                  <lb/>Par tes faulx tours fut sa fin maleureuse.
+                  <lb />Qu’estre appellee ton amante abusee
+                  <lb />Dont relainquie en ce point douloureuse
+                  <lb />Par tes faulx tours fut sa fin maleureuse.
                 </explicit>
               </msItem>
             </msContents>

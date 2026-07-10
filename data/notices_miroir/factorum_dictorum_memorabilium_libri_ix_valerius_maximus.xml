@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Factorum et dictorum memorabilium libri novem</hi>, M. Valerius Maximus</title>
+        <title ref="https://www.wikidata.org/wiki/Q3738259 https://data.bnf.fr/ark:/12148/cb12551704w https://portail.biblissima.fr/fr/ark:/43093/oedatae3b8972896efc4c06b286f2a241e73bae80fa9dc https://data.biblissima.fr/entity/Q285973"><hi rend="i">Factorum et dictorum memorabilium libri novem</hi>, M. Valerius Maximus</title>
+        <title type="short">Factorum et dictorum memorabilium libri novem</title>
         <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
         <author key="Duval, Frédéric (1972-....)" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
@@ -26,77 +27,59 @@
           <resp>informatique documentaire</resp>
         </respStmt>
       </editionStmt>
+      <extent />
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2017">2017</date>
-        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/factorum_dictorum_memorabilium_libri_ix_valerius_maximus.xml</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
+        <address>
+          <addrLine>65, rue de Richelieu</addrLine>
+          <addrLine>75002 Paris</addrLine>
+          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>https://www.chartes.psl.eu/</addrLine>
+        </address>
+        <date>2017</date>
+        <idno>http://elec.enc.sorbonne.fr/miroir/factorum_dictorum_memorabilium_libri_ix_valerius_maximus</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
         <title>Miroir des classiques</title>
+        <idno type="vol">17</idno>
       </seriesStmt>
+      <notesStmt>
+        <note type="abstract">Notice</note>
+        <note type="citation">Frédéric Duval (éd.), <title><hi rend="i">Factorum et dictorum memorabilium libri novem</hi>, M. Valerius Maximus</title>, École nationale des chartes – PSL, 2017.</note>
+      </notesStmt>
       <sourceDesc>
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
-        <bibl><author>M. Valerius Maximus</author>, <title>Factorum et dictorum memorabilium libri novem</title>, (nativement numérique).</bibl>
+        <bibl source="https://data.bnf.fr/ark:/12148/cb12551704w https://portail.biblissima.fr/fr/ark:/43093/oedatae3b8972896efc4c06b286f2a241e73bae80fa9dc https://data.biblissima.fr/entity/Q285973"><author>M. Valerius Maximus</author>, <title>Factorum et dictorum memorabilium libri novem</title>, (nativement numérique).</bibl>
       </sourceDesc>
-      <noteStmt>
-        <note type="abstract">Notice</note>
-      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="2006">2006</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
       <textClass>
         <keywords>
           <term key="https://data.bnf.fr/ark:/12148/cb12043057z">Valère Maxime (00..-00..)</term>
+          <term type="temporalCoverage"><date>1365/1550</date></term>
         </keywords>
       </textClass>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p>Le « Miroir des classiques » est une base de données codicologiques et textuelles consacrée aux traductions d’auteurs classiques en langues gallo-romanes (français et occitan) au Moyen Âge. Pour chaque œuvre, les différentes traductions sont présentées dans leur ordre chronologique, accompagnées de l’analyse précise des manuscrits et éditions anciennes qui les conservent. Le projet, dirigé par Frédéric Duval (École nationale des chartes – PSL, Centre Jean-Mabillon), a bénéficié du soutien de l’Équipement d’excellence Biblissima puis de Biblissima+.</p>
+      </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div" use="@xml:id">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
             </citeStructure>
           </citeStructure>
         </citeStructure>
@@ -182,14 +165,14 @@
                 <locus>f. 2a</locus>
                 <title>Prologue de l’auteur</title>
                 <incipit><seg type="rubric" xml:lang="lat">Urbis Rome etc.</seg>
-                  <lb/>C’est le commencement du proheme de ce livre pour l’entendement duquel avoir, il est asavoir que Vince[n]s en Mirouer hystorial et plusieurs autres dient que...</incipit>
+                  <lb />C’est le commencement du proheme de ce livre pour l’entendement duquel avoir, il est asavoir que Vince[n]s en Mirouer hystorial et plusieurs autres dient que...</incipit>
               </msItem>
               <msItem>
                 <locus>f. 3d</locus>
                 <title>Livre I</title>
                 <incipit><seg type="rubric" xml:lang="lat">Majores statas etc.</seg>
-                  <lb/>Cy commence Valerius son livre qui est devisez communement en IX livres particuliers comment que on treuve en aucuns volumes le Xe livre...</incipit>
-                <explicit>...qui estoit navree en la teste, laquelle avoit cinquante coustes de long et avoit afeublé un mantel de pourpre et yci fine de ceste <pb n="f. 71a"/> de <sic>ceste</sic> matiere et par consequent du premier livre.</explicit>
+                  <lb />Cy commence Valerius son livre qui est devisez communement en IX livres particuliers comment que on treuve en aucuns volumes le Xe livre...</incipit>
+                <explicit>...qui estoit navree en la teste, laquelle avoit cinquante coustes de long et avoit afeublé un mantel de pourpre et yci fine de ceste <pb n="f. 71a" /> de <sic>ceste</sic> matiere et par consequent du premier livre.</explicit>
               </msItem>
               <msItem>
                 <title>Livre II</title>
@@ -206,29 +189,29 @@
                 <locus>f. 173b-208b</locus>
                 <title>Livre IV</title>
                 <incipit><foreign xml:lang="lat">Transgrediatur et cetera</foreign>
-                  <lb/>En ceste partie Valerius commence son quart livre ouquel il a VIII chappitres le premier de moderacion le second de ceulx qui furent ennemis et puis redevindrent amis le tiers de abstinence et de continence le quart de povreté</incipit>
+                  <lb />En ceste partie Valerius commence son quart livre ouquel il a VIII chappitres le premier de moderacion le second de ceulx qui furent ennemis et puis redevindrent amis le tiers de abstinence et de continence le quart de povreté</incipit>
                 <explicit>Il n’est plus male chose que de aver ne il n’est plus chose inique que amer peccune Et ycy fine ce quart livre.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 208b-242a</locus>
                 <title>Livre V</title>
                 <incipit><seg type="rubric">Translateur</seg>
-                  <lb/><foreign xml:lang="lat">Liberalitati etc.</foreign>
-                  <lb/>Icy commence Valerius son quint livre lequel a dix chappitres selon ce que il appert en la poursuite. Le premier chappitre est de l’umanité et de clemence et dit Valerius qu’il ne scet donner a liberalité de laquelle il parle en la fin du quart livre</incipit>
+                  <lb /><foreign xml:lang="lat">Liberalitati etc.</foreign>
+                  <lb />Icy commence Valerius son quint livre lequel a dix chappitres selon ce que il appert en la poursuite. Le premier chappitre est de l’umanité et de clemence et dit Valerius qu’il ne scet donner a liberalité de laquelle il parle en la fin du quart livre</incipit>
                 <explicit>...en un meismes momment nature leur donna loy de recevoir l’esperit de vie et de laissier aussi qu’il ne muert nul qu’il n’ait vescu aussi ne puet il nulz vivre qu’il n’ait a mourir et icy fine le chapitre de tout le quint livre.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 242b-266d</locus>
                 <title>Livre VI</title>
                 <incipit><foreign xml:lang="lat">Unde te vivorum etc.</foreign>
-                  <lb/>Cy commence Valerius le VIe livre et est le premier chappitre de chasté pour laquelle recommander il fait un petit prologue et dit O chasté qui es le principal fondement du bien et honneur des hommes et des femmes</incipit>
+                  <lb />Cy commence Valerius le VIe livre et est le premier chappitre de chasté pour laquelle recommander il fait un petit prologue et dit O chasté qui es le principal fondement du bien et honneur des hommes et des femmes</incipit>
                 <explicit>Crepides selonc Papie sont soulers qui vont au pié destre et senestre aussy que les biens humains vont aux bons et aux mauvais et pource que petis enfans les ont tost perdues et usees compare il les biens de Fortune a celle maniere de chaussement et ycy fine le VIe. livre.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 267d</locus>
                 <title>Livre VII</title>
                 <incipit><foreign xml:lang="lat">Volubilis fortune, etc.</foreign>
-                  <lb/>Icy commence le VIIe livre lequel selon mon advis n’a que six chappitres a translater et est ja prise felicité pour bonne et eureux pour bien fortuné non pas pour estat parfait par la gregacion de tous biens si commme l’appelle Boece.</incipit>
+                  <lb />Icy commence le VIIe livre lequel selon mon advis n’a que six chappitres a translater et est ja prise felicité pour bonne et eureux pour bien fortuné non pas pour estat parfait par la gregacion de tous biens si commme l’appelle Boece.</incipit>
                 <explicit><locus>f. 302c</locus>...et pour tant dit Aristotes ou IIIIe livre d’Etiques <foreign xml:lang="lat">Decenti dacioni sequitur talis accepcio</foreign>, c’est a dire que a decente dacion doit estre decente acception [correspondant] et en ce se termine le Xe chapitre de ce VII livre Aprés s’ensuit le VIIIe livre.</explicit>
                 <msItem>
                   <locus>f. 287c</locus>
@@ -239,20 +222,20 @@
                   <locus>f. 287c</locus>
                   <title>Incipit de la traduction de Nicolas de Gonesse (VII.5)</title>
                   <incipit>Le Ve chapitre qui est diz repulses
-                    <lb/>Aprés ce que Valerius ou chapitre precedent a parlé des fais soubtis en armes appellés stratagemes en ce chapitre present il parle des repulsions et des reboutés des honneurs...</incipit>
+                    <lb />Aprés ce que Valerius ou chapitre precedent a parlé des fais soubtis en armes appellés stratagemes en ce chapitre present il parle des repulsions et des reboutés des honneurs...</incipit>
                 </msItem>
               </msItem>
               <msItem>
                 <locus>f. 302c-d - f. 345b</locus>
                 <title>Livre VIII</title>
-                <incipit>Le premier chapitre du VIIIe livre qui est des causes pour lesquelles les infames coupables furent absoubz ou condempnés <lb/>
+                <incipit>Le premier chapitre du VIIIe livre qui est des causes pour lesquelles les infames coupables furent absoubz ou condempnés <lb />
                   <foreign xml:lang="lat">Tunc quoque translateur</foreign> Yci commence le VIIIe livre qui contient XVI chapitres Le premier est des causes pour lesquelles aucuns couxpables furent absolz ou condempnez le second des jugemens privé</incipit>
                 <explicit>...un tourbillon de vent vint de la partie Theodose qui souffloit contre les visaiges de ses ennemis autant que les dars et les saites des adversaires <sic>retourment</sic> encontre eulz et par ce moyen fu Arbogastes desconfit avec sa poissance et en ce je ferray fin de la translacion du VIIIe livre de Valere.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 345b-411b</locus>
                 <title>Livre IX</title>
-                <incipit>Cy commence le IXe livre qui parle de luxure et de superfluité. Le premier chapitre <lb/>
+                <incipit>Cy commence le IXe livre qui parle de luxure et de superfluité. Le premier chapitre <lb />
                   <foreign xml:lang="lat">Blandum et cetera</foreign> translateur En ceste partie commence le IXe livre de Valerius qui est des fais et desz dis dignes de memoire de la cité de Romme et des estrangiers ou que aprés ce que Valerius es VIII livres precedens a determiné des vertus et des operacions...</incipit>
                 <explicit>Des exemples dessus dis il appert assez que ceulz qui par mensongerie ont esté eslevés aus grans et nobles estas en sont decheu aprés ignominieusement et en ce je feray fin de ce livre.</explicit>
               </msItem>
@@ -375,9 +358,9 @@
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse [titre : <title type="ancien">Cy finent les rubriches de Valerius Maximus, lequel contient IX livres, tant de la premiere translation, laquelle commença maistre Symon de Hesdin, maistre en theologie et religieux des hospitaliers de Saint Johan de Jherusalem comme de la nouvele, parfaite et acomplie par maistre Nicholas de Gonnesse, maistre es ars et en theologie</title> f. 9a ; <title type="ancien">Cy commence le livre de Valerius Maximus translaté de latin en françoys ouquel il traite des Rommains, des Cartagiens et de plusieurs aultres nations et de leurs guerres sicomme il dit cy aprés</title> (rubr.) f. 9v ; <title type="ancien">Et sic est finis hujus historie videlicet Valerii Maximi</title> f. 334b] : table f. 1a-9a (table très riche relevant tous les exempla numérotés et rubriqués dans le texte ; inc.
-                  <seg type="incipit">Cy commencent les rubriches de Valerius Maximus translaté de latin en françoys <lb/>Du proheme de l’acteur I <lb/>De Tyberius l’empereur II <lb/>Cy parle l’acteur III <lb/>Du commencement du livre ouquel il <sic>tracte</sic> de la religion des Rommains IIII <lb/>Du cultivement des dieux V
-                    <lb/>Comment Ceres la deesse des blez fust aportee a Romme VI
-                    <lb/>Comment les Rommains rendirent leurs veulz a Cybelles la mere des dieux VII <lb/>...</seg>) ; prologue du traducteur f. 9c-10b ; prologue de l’auteur f. 10b-11d ; texte f. 12a-334b : fin de la traduction de Simon de Hesdin et début de celle de Nicolas de Gonesse f. 237b (<title type="ancien">Cy commence la nouvelle translation dudit Valerius Maximus laquelle contient III livres, lesquelz ont esté translatez, parfaiz et acomplis par maistre N. de Gonnesse, maistre es ars et en theologie. Et par ainsi est le livre du <sic>dit</sic> tout entier et parfait</title> f. 237b)</p>
+                  <seg type="incipit">Cy commencent les rubriches de Valerius Maximus translaté de latin en françoys <lb />Du proheme de l’acteur I <lb />De Tyberius l’empereur II <lb />Cy parle l’acteur III <lb />Du commencement du livre ouquel il <sic>tracte</sic> de la religion des Rommains IIII <lb />Du cultivement des dieux V
+                    <lb />Comment Ceres la deesse des blez fust aportee a Romme VI
+                    <lb />Comment les Rommains rendirent leurs veulz a Cybelles la mere des dieux VII <lb />...</seg>) ; prologue du traducteur f. 9c-10b ; prologue de l’auteur f. 10b-11d ; texte f. 12a-334b : fin de la traduction de Simon de Hesdin et début de celle de Nicolas de Gonesse f. 237b (<title type="ancien">Cy commence la nouvelle translation dudit Valerius Maximus laquelle contient III livres, lesquelz ont esté translatez, parfaiz et acomplis par maistre N. de Gonnesse, maistre es ars et en theologie. Et par ainsi est le livre du <sic>dit</sic> tout entier et parfait</title> f. 237b)</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -771,7 +754,7 @@
                 <idno>7</idno>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse : prologue du traducteur f. 1a ; prologue de l’auteur f. 1a-2d incomplet du début (inc. ...<seg type="incipit">les gens laies qui veulent buenes et cleres sentences</seg>...) ; livre I f. 2d-60d ; livre II f. 61a-105b ; livre III f. 105b-140a ; livre IV f. 140a-168a ; livre V f. 168a-195b ; livre VI f. 195b-216d ; livre VII f. 216d-246d (fin de la traduction de Simon de Hesdin f. 232d ; début de la traduction de Nicolas de Gonesse f. 233a) incomplet de la fin (expl. <seg type="explicit">Marcus Pompilius [...] Acteur Neant moins les yeulx d’icellui</seg>...) ; livre VIII f. 247a-286d incomplet du début et de la fin (inc. ...<seg type="incipit">qui furent esleus pour se combatre pour la partie des Rommains les III Albains estoient nommez</seg>... ; expl. <seg type="explicit">la legacion de Sezille qui lui presenta un haulbert, la legaction de Gaulle c’est des</seg>...) ; livre IX f. 287a-352d incomplet du début (inc. ...<seg type="incipit">a present <lb/>Gaius Cergius translateur En ceste partie Valerius commence a mectre exemples sur sa matiere</seg>...)</p>
+                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse : prologue du traducteur f. 1a ; prologue de l’auteur f. 1a-2d incomplet du début (inc. ...<seg type="incipit">les gens laies qui veulent buenes et cleres sentences</seg>...) ; livre I f. 2d-60d ; livre II f. 61a-105b ; livre III f. 105b-140a ; livre IV f. 140a-168a ; livre V f. 168a-195b ; livre VI f. 195b-216d ; livre VII f. 216d-246d (fin de la traduction de Simon de Hesdin f. 232d ; début de la traduction de Nicolas de Gonesse f. 233a) incomplet de la fin (expl. <seg type="explicit">Marcus Pompilius [...] Acteur Neant moins les yeulx d’icellui</seg>...) ; livre VIII f. 247a-286d incomplet du début et de la fin (inc. ...<seg type="incipit">qui furent esleus pour se combatre pour la partie des Rommains les III Albains estoient nommez</seg>... ; expl. <seg type="explicit">la legacion de Sezille qui lui presenta un haulbert, la legaction de Gaulle c’est des</seg>...) ; livre IX f. 287a-352d incomplet du début (inc. ...<seg type="incipit">a present <lb />Gaius Cergius translateur En ceste partie Valerius commence a mectre exemples sur sa matiere</seg>...)</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -997,10 +980,10 @@
               <msIdentifier>
                 <settlement>Milano</settlement>
                 <repository>Bibl. Trivulziana [dépôt de la Regione Lombardia]</repository>
-                <idno/>
+                <idno />
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse [titres : <title type="ancien">Cy commence la table du livre de Valere le Grant lequel est divisé communement en IX livres et au commencement il traitte de la <sic>region</sic> des Rommains</title> f. 2a ; <title type="ancien">Cy fine la translacion du premier livre de Valerius Maximus avec la declaracion de celui et addicions plusieurs faicte et compilee l’an mil CCCLXXV par frere Simon de Hedin de l’ordre de monseigneur Saint Jehan de Jherusalem docteur en theologie</title> (rubr.) f. 93d ; <title type="ancien">Et sic est finis hujus historie videlicet Valeriani Maximiani</title> (rubr.) f. 464a] : table des rubriques f. 2a-18b ; f. 18v, f. 19r-v blancs ; prologue du traducteur f. 20a-21a ; prologue de l’auteur f. 21a-22d ; livre I f. 22d-93d ; livre II f. 94a-163b ; livre III f. 163c-210d ; livre IV f. 211a-249b ; livre V f. 249c-285d ; livre VI f. 286a-300b ; livre VII f. 300c-338d (fin de la traduction de Simon de Hesdin f. 322b ; début de la traduction de Nicolas de Gonesse f. 322c : <title type="ancien">Cy aprez commence la nouvele translacion dudit Valerius Maximus, laquele contient troiz <pb n="f. 322d"/> livres sicomme j’ay dit cy devant, lesquelz ont esté translatez par maistre Nicole de Gonnesse, maistre es ars et en theologie ; et parainsi est le livre dudit Valerius tout entier et parfait</title> (rubr.)) ; livre VIII f. 339a-387a ; livre IX f. 387c-464a ; épilogue du traducteur f. 464a.</p>
+                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse [titres : <title type="ancien">Cy commence la table du livre de Valere le Grant lequel est divisé communement en IX livres et au commencement il traitte de la <sic>region</sic> des Rommains</title> f. 2a ; <title type="ancien">Cy fine la translacion du premier livre de Valerius Maximus avec la declaracion de celui et addicions plusieurs faicte et compilee l’an mil CCCLXXV par frere Simon de Hedin de l’ordre de monseigneur Saint Jehan de Jherusalem docteur en theologie</title> (rubr.) f. 93d ; <title type="ancien">Et sic est finis hujus historie videlicet Valeriani Maximiani</title> (rubr.) f. 464a] : table des rubriques f. 2a-18b ; f. 18v, f. 19r-v blancs ; prologue du traducteur f. 20a-21a ; prologue de l’auteur f. 21a-22d ; livre I f. 22d-93d ; livre II f. 94a-163b ; livre III f. 163c-210d ; livre IV f. 211a-249b ; livre V f. 249c-285d ; livre VI f. 286a-300b ; livre VII f. 300c-338d (fin de la traduction de Simon de Hesdin f. 322b ; début de la traduction de Nicolas de Gonesse f. 322c : <title type="ancien">Cy aprez commence la nouvele translacion dudit Valerius Maximus, laquele contient troiz <pb n="f. 322d" /> livres sicomme j’ay dit cy devant, lesquelz ont esté translatez par maistre Nicole de Gonnesse, maistre es ars et en theologie ; et parainsi est le livre dudit Valerius tout entier et parfait</title> (rubr.)) ; livre VIII f. 339a-387a ; livre IX f. 387c-464a ; épilogue du traducteur f. 464a.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -1293,7 +1276,7 @@
                   <p>462 f. parchemin</p>
                 </objectDesc>
                 <handDesc>
-                  <p>Copiste : colophon <quote>« Laus tibi sit Christus quoniam liber explicit iste <lb/>Pena precor scisse quoniam labor est satis ist »</quote> f. 462a [absent de Bouveret]</p>
+                  <p>Copiste : colophon <quote>« Laus tibi sit Christus quoniam liber explicit iste <lb />Pena precor scisse quoniam labor est satis ist »</quote> f. 462a [absent de Bouveret]</p>
                 </handDesc>
                 <decoDesc>
                   <p>illustration : 4 miniatures des 4/5e de la justification (f. 1, 303v, 342, 389), 5 miniatures sur l'ensemble de la justification (f. 79, 149, 198, 237, 276) par le <persName role="illustrateur">maître de Jacques de Luxembourg</persName> et collaborateurs (ca 1465-1475)</p>
@@ -1317,7 +1300,7 @@
                 <idno>fr. 42-43</idno>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse [titre : <title type="ancien">livre de Valere le Grant</title> fr. 42, f. 164a et fr. 43, f. 152d] ; fr. 42 : prologue du traducteur f. 1a-c ; prologue de l’auteur f. 1c-3a ; livre I f. 3a-57a ; f. 57v blanc ; livre II f. 58a-106c  ; livre III f. 107a-138d ; livre IV f. 139a-163d ; table des 9 livres f. 164a-177a (<seg type="table">[C]y commence la table du livre de Valere le Grant lequel est divisé communement en neuf livres et au commencement il traicte de la region des Rommains I <lb/>Comment Valere commence a parler du cultivement des dieux II</seg>) ; fr. 43 : livre V f. 1a-25d ; livre VI, chap. 1-3 f. 26a-36c : manque les chapitres 4 à 9 (expl.
+                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse [titre : <title type="ancien">livre de Valere le Grant</title> fr. 42, f. 164a et fr. 43, f. 152d] ; fr. 42 : prologue du traducteur f. 1a-c ; prologue de l’auteur f. 1c-3a ; livre I f. 3a-57a ; f. 57v blanc ; livre II f. 58a-106c  ; livre III f. 107a-138d ; livre IV f. 139a-163d ; table des 9 livres f. 164a-177a (<seg type="table">[C]y commence la table du livre de Valere le Grant lequel est divisé communement en neuf livres et au commencement il traicte de la region des Rommains I <lb />Comment Valere commence a parler du cultivement des dieux II</seg>) ; fr. 43 : livre V f. 1a-25d ; livre VI, chap. 1-3 f. 26a-36c : manque les chapitres 4 à 9 (expl.
                   <seg type="explicit">De cestui Cambises, de sa puissance et de sa mort est parlé ou premier livre ou chapitre des addicions. Et Cy fine le chapitre de severité</seg> f. 36c) ; livre VII f. 37a-66b : début de la traduction de Nicolas de Gonesse f. 45c : <seg type="incipit">Cy commence la nouvelle translacion dudit Valerius Maximus, laquelle contient trois livres</seg>... ; livre VIII f. 66c-101d ; livre IX f. 102a-152d. Chaque <hi rend="i">exemplum</hi> est précédé d’une rubrique.</p>
               </msContents>
               <physDesc>
@@ -1593,7 +1576,7 @@
                 <idno>fr. 292</idno>
               </msIdentifier>
               <msContents>
-                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse : prologue du traducteur f. 1a-d ; prologue de l’auteur f. 1d-3d ; livre I f. 3d-70c ; livre II f. 71a-121b  ; livre III f. 121c-143b : incomplet de la fin (expl. : <seg type="explicit">Acteur et ainsi la constance qui sambloit estre plus roide qu’elle ne deust par nature veoit de souef et debonnaire courage</seg>, chap. 8, ext. 2) ; f. 143c-144d blancs ; livre IV f. 146a <hi rend="i">sic</hi>-186a ; livre V f. 186a-219d ; livre VI f. 220a-245d (expl. ... <seg type="explicit">compaire il les biens de Fortune a telle maniere de chaussement et ici fine ce VIe livre de Valerius, Deo gratias.</seg> [ajouté en petit module] : <seg type="incipit">hic deest exemplum quod incipit : « <quote>« Sequitur hunc Siphax »</quote>... »</seg> [chap. 9, ext. 7]) ; livre VII f. 246a-291d : fin de la traduction de Simon de Hesdin f. 265d ; début de celle de Nicolas de Gonesse f. 266a) ; livre VIII f. 292a-320c ; livre IX f. 320c-373d (f. 350 blanc précédé, f. 349d, <title>de verte folium</title> ; <quote>« nichil difficit <lb/>Hic nichil defficit »</quote> (rubr.)) ; f. 374r-v blanc ; table des livres et chapitres en latin f. 375r-v.</p>
+                <p>traduction des <title>Factorum et dictorum memorabilium libri novem</title> de Valère Maxime par Simon de Hesdin et Nicolas de Gonesse : prologue du traducteur f. 1a-d ; prologue de l’auteur f. 1d-3d ; livre I f. 3d-70c ; livre II f. 71a-121b  ; livre III f. 121c-143b : incomplet de la fin (expl. : <seg type="explicit">Acteur et ainsi la constance qui sambloit estre plus roide qu’elle ne deust par nature veoit de souef et debonnaire courage</seg>, chap. 8, ext. 2) ; f. 143c-144d blancs ; livre IV f. 146a <hi rend="i">sic</hi>-186a ; livre V f. 186a-219d ; livre VI f. 220a-245d (expl. ... <seg type="explicit">compaire il les biens de Fortune a telle maniere de chaussement et ici fine ce VIe livre de Valerius, Deo gratias.</seg> [ajouté en petit module] : <seg type="incipit">hic deest exemplum quod incipit : « <quote>« Sequitur hunc Siphax »</quote>... »</seg> [chap. 9, ext. 7]) ; livre VII f. 246a-291d : fin de la traduction de Simon de Hesdin f. 265d ; début de celle de Nicolas de Gonesse f. 266a) ; livre VIII f. 292a-320c ; livre IX f. 320c-373d (f. 350 blanc précédé, f. 349d, <title>de verte folium</title> ; <quote>« nichil difficit <lb />Hic nichil defficit »</quote> (rubr.)) ; f. 374r-v blanc ; table des livres et chapitres en latin f. 375r-v.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -2288,13 +2271,13 @@
                 <msItem>
                   <locus>f. 2c-39a</locus>
                   <title>Livre I</title>
-                  <incipit>Le premier livre le premier chapitre de religion <lb/>Nos grans et antiens seigneurs de jadis mistrent arriere les livres des portens esquelx il soloient regarder les choses merveilleuses et non acoustumés...</incipit>
+                  <incipit>Le premier livre le premier chapitre de religion <lb />Nos grans et antiens seigneurs de jadis mistrent arriere les livres des portens esquelx il soloient regarder les choses merveilleuses et non acoustumés...</incipit>
                   <explicit>...et fu le cuir envoyé a Rome qui avoit VIxx piés de lonc De Actilius Regulus est parlé au chapitre de religion.</explicit>
                 </msItem>
                 <msItem>
                   <locus>f. 39b-53c</locus>
                   <title>Livre II</title>
-                  <incipit>Cy commence le .iie. livre de Valerius Maximus <lb/>Aprés ce que j’ay parscruté le prepoissant et riche royaume de nature en le darrenier chapitre precedant je commenceray mon stille aux anciens establissemens...</incipit>
+                  <incipit>Cy commence le .iie. livre de Valerius Maximus <lb />Aprés ce que j’ay parscruté le prepoissant et riche royaume de nature en le darrenier chapitre precedant je commenceray mon stille aux anciens establissemens...</incipit>
                   <explicit>...et leur sambla qu’ilz devoient a sa saincteté et purté octroier ce que ne leur fu pas octroié quant ilz devoient rendre sentence.</explicit>
                 </msItem>
                 <msItem>
@@ -2312,13 +2295,13 @@
                 <msItem>
                   <locus>f. 89c-110b</locus>
                   <title>Livre V</title>
-                  <incipit>Cy commence le Ve livre le premier chapitre de humanité ou de clemence <lb/>Quelles compaignes donray je a liberalité plus hablez ou affierans a elle que humanité et clemence, car elles deservent une meismes maniere de loenge...</incipit>
+                  <incipit>Cy commence le Ve livre le premier chapitre de humanité ou de clemence <lb />Quelles compaignes donray je a liberalité plus hablez ou affierans a elle que humanité et clemence, car elles deservent une meismes maniere de loenge...</incipit>
                   <explicit>...et aussi qu’il ne meurt nul qui n’ait vescu aussi n’en peut il vivre nul qui n’ait a mourir, etc.</explicit>
                 </msItem>
                 <msItem>
                   <locus>f. 110c-131a</locus>
                   <title>Livre VI</title>
-                  <incipit>Cy commence le VIe livre et le premier chapitre de pudicicie et chasteé <lb/>O Chasteé qui es principal fondament du bien et l’onneur des hommes et des femmes a quoy et comment commenceray je a toy loer.</incipit>
+                  <incipit>Cy commence le VIe livre et le premier chapitre de pudicicie et chasteé <lb />O Chasteé qui es principal fondament du bien et l’onneur des hommes et des femmes a quoy et comment commenceray je a toy loer.</incipit>
                   <explicit>...et par un intrescertain souflement de fortune ceulx qu’elles ont eslevés en hault replongent impourveuement en parfond de toute misere.</explicit>
                 </msItem>
                 <msItem>
@@ -2396,7 +2379,7 @@
                 <repository>Bibl. nat. de Fr.</repository>
                 <idno>fr. 2118</idno>
               </msIdentifier>
-              <msContents><p>Comme ainsi soit que Valere, le tresnoble hystoriograffe, ait composé son livre du fait des Romains et ycelluy parti en dix livres, et que la translacion de <sic>seu</sic> dit livre ait esté commencé par maistre Symon de Hedin, maistre en theologie et <pb n="f. 1v"/> religieux des hospitaliers de Saint Jehan, et mené jusques au septiesme livre, au chapitre des stratagemes, et despuis par Nicolas de Gounesse, maistre en ars et en theologie ; et pour ce que ladicte translacion estoit longue et prolixe, mesmement que les sentences de Valere l’acteur soient troubles et peu entendues en fransois, par quoy lesdis translacteurs aient en leur dicte translacion aclercy plussieurs des fais des Romains et autres estranges au long et avec ce allegué plussieurs choses servans a ladicte matiere ; pour voir ladicte translacion, qui est ung grant livre, je me suis advisé de prendre la substance des chapitres et racompter plussieurs chouses notables, dignes de memoire, tant de hystoires come de chouses servans au bien de chascun. Or est asavoir que des dix livres n’en a translatés que neufz qui contiennent IIIIxx quatre chapitres, et sont les huit livres fondés en vertus et en chouses appartenans a vertus, et les neufz traictent de vices et des despendances d’iceulx, et le Xe n’est point translaté, par ce qu’i ne parle que de nons et surnons.</p></msContents>
+              <msContents><p>Comme ainsi soit que Valere, le tresnoble hystoriograffe, ait composé son livre du fait des Romains et ycelluy parti en dix livres, et que la translacion de <sic>seu</sic> dit livre ait esté commencé par maistre Symon de Hedin, maistre en theologie et <pb n="f. 1v" /> religieux des hospitaliers de Saint Jehan, et mené jusques au septiesme livre, au chapitre des stratagemes, et despuis par Nicolas de Gounesse, maistre en ars et en theologie ; et pour ce que ladicte translacion estoit longue et prolixe, mesmement que les sentences de Valere l’acteur soient troubles et peu entendues en fransois, par quoy lesdis translacteurs aient en leur dicte translacion aclercy plussieurs des fais des Romains et autres estranges au long et avec ce allegué plussieurs choses servans a ladicte matiere ; pour voir ladicte translacion, qui est ung grant livre, je me suis advisé de prendre la substance des chapitres et racompter plussieurs chouses notables, dignes de memoire, tant de hystoires come de chouses servans au bien de chascun. Or est asavoir que des dix livres n’en a translatés que neufz qui contiennent IIIIxx quatre chapitres, et sont les huit livres fondés en vertus et en chouses appartenans a vertus, et les neufz traictent de vices et des despendances d’iceulx, et le Xe n’est point translaté, par ce qu’i ne parle que de nons et surnons.</p></msContents>
             </msDesc>
           </div>
           <div type="incipit">
@@ -2496,13 +2479,13 @@
                     <locus>f. 17</locus>
                     <title>Prologue de Valère Maxime</title>
                     <incipit>Prologue
-                      <lb/><foreign xml:lang="lat">Te igitur</foreign> Orose racompte que aprés la mort et resurrection de nostre seigneur Pilate envoya a Thibere Cesar empereur les nouvelles des miracles que Jhesucrist faisoit et ses appostres...</incipit>
+                      <lb /><foreign xml:lang="lat">Te igitur</foreign> Orose racompte que aprés la mort et resurrection de nostre seigneur Pilate envoya a Thibere Cesar empereur les nouvelles des miracles que Jhesucrist faisoit et ses appostres...</incipit>
                   </msItem>
                   <msItem>
                     <locus>f. 18</locus>
                     <title>début du 1er livre de Valère Maxime</title>
                     <incipit><foreign xml:lang="lat">Majores status</foreign> augures sont ceulx qui se congnoissent ou chant ou vol des oyseaulx et Apolo estoit ung des dieux qui faisoit sacrifices
-                      <lb/><foreign xml:lang="lat">prisco eciam justi</foreign> Les Rommains sacrifient en quatre manieres, la premiere pour recommander eulx leurs amis ou leurs biens...</incipit>
+                      <lb /><foreign xml:lang="lat">prisco eciam justi</foreign> Les Rommains sacrifient en quatre manieres, la premiere pour recommander eulx leurs amis ou leurs biens...</incipit>
                   </msItem>
                 </msItem>
                 <msItem>

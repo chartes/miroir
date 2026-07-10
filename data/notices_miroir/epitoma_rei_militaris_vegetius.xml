@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Epitoma rei militaris</hi>, Flavius Renatus Vegetius</title>
+        <title ref="https://www.wikidata.org/wiki/Q1246541 https://data.bnf.fr/ark:/12148/cb12516084t https://portail.biblissima.fr/fr/ark:/43093/oedata8bb5f99aaa2ca64427843d25431cb8985121ae19 https://data.biblissima.fr/entity/Q284811"><hi rend="i">Epitoma rei militaris</hi>, Flavius Renatus Vegetius</title>
+        <title type="short">Epitoma rei militaris</title>
         <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
         <author key="Duval, Frédéric (1972-....)" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
@@ -26,77 +27,59 @@
           <resp>informatique documentaire</resp>
         </respStmt>
       </editionStmt>
+      <extent />
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2017">2017</date>
-        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/epitoma_rei_militaris_vegetius.xml</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
+        <address>
+          <addrLine>65, rue de Richelieu</addrLine>
+          <addrLine>75002 Paris</addrLine>
+          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>https://www.chartes.psl.eu/</addrLine>
+        </address>
+        <date>2017</date>
+        <idno>http://elec.enc.sorbonne.fr/miroir/epitoma_rei_militaris_vegetius</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
         <title>Miroir des classiques</title>
+        <idno type="vol">17</idno>
       </seriesStmt>
+      <notesStmt>
+        <note type="abstract">Notice</note>
+        <note type="citation">Frédéric Duval (éd.), <title><hi rend="i">Epitoma rei militaris</hi>, Flavius Renatus Vegetius</title>, École nationale des chartes – PSL, 2017.</note>
+      </notesStmt>
       <sourceDesc>
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
-        <bibl><author>Flavius Renatus Vegetius</author>, <title>Epitoma rei militaris</title>, (nativement numérique).</bibl>
+        <bibl source="https://data.bnf.fr/ark:/12148/cb12516084t https://portail.biblissima.fr/fr/ark:/43093/oedata8bb5f99aaa2ca64427843d25431cb8985121ae19 https://data.biblissima.fr/entity/Q284811"><author>Flavius Renatus Vegetius</author>, <title>Epitoma rei militaris</title>, (nativement numérique).</bibl>
       </sourceDesc>
-      <noteStmt>
-        <note type="abstract">Notice</note>
-      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="2006">2006</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
       <textClass>
         <keywords>
           <term key="https://data.bnf.fr/ark:/12148/cb11887810j">Végèce (0383?-0450?)</term>
+          <term type="temporalCoverage"><date>1201/1550</date></term>
         </keywords>
       </textClass>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p>Le « Miroir des classiques » est une base de données codicologiques et textuelles consacrée aux traductions d’auteurs classiques en langues gallo-romanes (français et occitan) au Moyen Âge. Pour chaque œuvre, les différentes traductions sont présentées dans leur ordre chronologique, accompagnées de l’analyse précise des manuscrits et éditions anciennes qui les conservent. Le projet, dirigé par Frédéric Duval (École nationale des chartes – PSL, Centre Jean-Mabillon), a bénéficié du soutien de l’Équipement d’excellence Biblissima puis de Biblissima+.</p>
+      </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div" use="@xml:id">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
             </citeStructure>
           </citeStructure>
         </citeStructure>
@@ -184,7 +167,7 @@
               <msItem>
                 <locus>f. 1</locus>
                 <title>Table des chapitres</title>
-                <incipit>Ici comence le auctor e escrit de la chivalerie de Rome I <lb/>De queus nacions om deit eslire lous chivalers II</incipit>
+                <incipit>Ici comence le auctor e escrit de la chivalerie de Rome I <lb />De queus nacions om deit eslire lous chivalers II</incipit>
               </msItem>
               <msItem>
                 <title>Livre I</title>
@@ -192,13 +175,13 @@
                   <locus>f. 3</locus>
                   <title>Prologue de l’auteur au livre I</title>
                   <incipit><seg type="rubric">Issi comence le proeme de Vegece le philesophe de Rome al emperere Trajan du livre ke il fist de choses ke apartenent a chivalerie e de tute maneres de batailles auncienes lequel livre chescun prince de tere devereit aver</seg>
-                    <lb/>Al ancian tens fu la custume de philosophes de mettre en escrit les bones ars e quant il aveient fet lur livres si les presentayent as princes Kar ren n’est a droyt comencé si premerement aprés Deu ki la science done si l’emperere ou li prince de la tere nel otreye...</incipit>
+                    <lb />Al ancian tens fu la custume de philosophes de mettre en escrit les bones ars e quant il aveient fet lur livres si les presentayent as princes Kar ren n’est a droyt comencé si premerement aprés Deu ki la science done si l’emperere ou li prince de la tere nel otreye...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 3v-19</locus>
                   <title>Texte</title>
                   <incipit><seg type="rubric">Ici comence li auctor de la chivalerie de Rome</seg>
-                    <lb/>Isci comence Vegece sun livre e dit ki les Romeyns conquirent tot le munde e totes les terres solement par usage de armes e par mestrie de ost e par us de chevalerie.</incipit>
+                    <lb />Isci comence Vegece sun livre e dit ki les Romeyns conquirent tot le munde e totes les terres solement par usage de armes e par mestrie de ost e par us de chevalerie.</incipit>
                   <explicit>...kar plus profitable chose de aprendre les soens des armes ke allower autres trop cher.</explicit>
                 </msItem>
               </msItem>
@@ -206,8 +189,8 @@
                 <locus>f. 19-36v</locus>
                 <title>Livre II</title>
                 <incipit>Si commence le second livre de Flavian e Vexare e Renate de epitome de comentaries et des institucions de chose ke apent a chivalerie e ensement de Trajan e de Adrian e de Frontin augmentatus
-                  <lb/><seg type="rubric">Les establissemenz</seg>
-                  <lb/>En cest premer chapitre del second livre dist li auctor ke l’em deit retenir les establissemenz...</incipit>
+                  <lb /><seg type="rubric">Les establissemenz</seg>
+                  <lb />En cest premer chapitre del second livre dist li auctor ke l’em deit retenir les establissemenz...</incipit>
                 <explicit>...en quel leu ke il viengnet la ou hebergerie est fait k’il facent cité armee.</explicit>
               </msItem>
               <msItem>
@@ -220,7 +203,7 @@
                 <locus>f. 73-90</locus>
                 <title>Livre IV</title>
                 <incipit><seg type="rubric">Les chapitres del quart livre</seg>
-                  <lb/>Ci finist le tiers livre e comence le premer chapitre del quart livre Touz citez e touz chastels ou il sunt garniz par nature ou par mein ovre ou par l’un e l’autre...</incipit>
+                  <lb />Ci finist le tiers livre e comence le premer chapitre del quart livre Touz citez e touz chastels ou il sunt garniz par nature ou par mein ovre ou par l’un e l’autre...</incipit>
                 <explicit>...les sages chivalers ki combatent en nef usent de cel arme chescun jour.</explicit>
               </msItem>
             </msContents>
@@ -307,7 +290,7 @@
               <idno>2916</idno>
               <msName type="sigle" resp="Löfstedt">N</msName>
             </msIdentifier>
-            <msContents><p>Es temps anciens l’usaige et coustume des saiges clers et grans philosophes et autres gens labourieux fut de eulx applicquer et donner a investiguer, cerchier <pb n="f. 1v"/> et de tout leur pouoir estudier a trouver ars et sciences qui fussent bonnes, valables et prouffitables a l’usaige et utillité du bien commun et de la chose publicque ; et quant ilz avoyent quelque art ou autre chose trouvee, ilz le mectoient en escript et en fasoient livres ou traictez, lesquelz ilz presentoient ou faisoient presenter aux empereurs, roys, princes et autres grans seigneurs, car nulle chose n’est bien ne deuement et ordonneement faicte ce, aprés ce qu’on a rendu et exibé a Dieu louenges et devoirs en quoy nature humaine est tenue et obligee, se on ne baille honneurs et reverances a l’empereur, roys et autres princes, et leur doit on favouriser du tout en tout ; et aussi a eulx mieulx appartient et doit appartenir que a nulx autres sçavoir sciences et autres subtillités honnestes. Et pareillement n’est rien plus sinistre, pire ne mauvais que d’empereur, roy ou prince plain de mal art et remply d’iniquité ou mauvaistié, car l’exemple ou les exemples et doctrines d’eulx peult prouffiter aux sages quant elle est bien conduite et riglee et aussi nuyre quant elle est mauvaise, car le peuple se conduit a l’exemple d’eulx. Et pour ung singulier exemple et mirouer de doctrine te baille le grant et famé empereur Octovien qui fut si actrempé et si bien se conduit qu’il fut seul empereur et souverain de tout le monde et acquist ce nom auguste, qui est a dire conquerant ou acroissant, car tout le monde lui fist hommaige et paya treu, et aussi pluseurs autres empereurs et princes tresvertueus qui durant leurs regnes et imperiaultez les <pb n="f. 2"/> subjects et peuples se conduisoi[en]t treshonnorablement. Et doncques pour ces choses ja alleguees et dictes, je suis constraint et aussi quant je considere ta clemence et debonnaireté me suis enhardy de mectre par escript au mains mal que faire je pourray selon les ditz des anciens, et aussi pource que je suis plus bas ou mendres qu’ilz ne furent, me suis entremis de parler du fait des armes par livres et par chappitres au plus briefvement que je pourray selon les faiz anciens et les aucteurs de chevalerie. Si ne convient il pas en ceste oeuvre seulement user de beauté de parolles, mais y convient travail ententif, pource que les choses celees es hystoires de divers acteurs qui enseignent la science des armes puissent estre mises en estat pour le commun prouffit des gens. Pour ce nous efforcerons nous a mectre par tiltres et par chappitres et monstrer la coustume que les anciens avoient a eslire et a eslever nouveaulx chevaliers, non pas pour ce, empereur, que tu fusses oncques deceu et que tu ne saches bien ces choses, car ainsi comme tu les ordonnes de ta bonté pour le saulvement du commun, ainsi les tindrent et garderent jadis ceulx qui firent l’empire de Romme, mais pource que tu puisses trouver en ce petit livret ce que tu croiz, quant doiz querre des choses tresgrans et qui tousjours ont mestier.</p></msContents>
+            <msContents><p>Es temps anciens l’usaige et coustume des saiges clers et grans philosophes et autres gens labourieux fut de eulx applicquer et donner a investiguer, cerchier <pb n="f. 1v" /> et de tout leur pouoir estudier a trouver ars et sciences qui fussent bonnes, valables et prouffitables a l’usaige et utillité du bien commun et de la chose publicque ; et quant ilz avoyent quelque art ou autre chose trouvee, ilz le mectoient en escript et en fasoient livres ou traictez, lesquelz ilz presentoient ou faisoient presenter aux empereurs, roys, princes et autres grans seigneurs, car nulle chose n’est bien ne deuement et ordonneement faicte ce, aprés ce qu’on a rendu et exibé a Dieu louenges et devoirs en quoy nature humaine est tenue et obligee, se on ne baille honneurs et reverances a l’empereur, roys et autres princes, et leur doit on favouriser du tout en tout ; et aussi a eulx mieulx appartient et doit appartenir que a nulx autres sçavoir sciences et autres subtillités honnestes. Et pareillement n’est rien plus sinistre, pire ne mauvais que d’empereur, roy ou prince plain de mal art et remply d’iniquité ou mauvaistié, car l’exemple ou les exemples et doctrines d’eulx peult prouffiter aux sages quant elle est bien conduite et riglee et aussi nuyre quant elle est mauvaise, car le peuple se conduit a l’exemple d’eulx. Et pour ung singulier exemple et mirouer de doctrine te baille le grant et famé empereur Octovien qui fut si actrempé et si bien se conduit qu’il fut seul empereur et souverain de tout le monde et acquist ce nom auguste, qui est a dire conquerant ou acroissant, car tout le monde lui fist hommaige et paya treu, et aussi pluseurs autres empereurs et princes tresvertueus qui durant leurs regnes et imperiaultez les <pb n="f. 2" /> subjects et peuples se conduisoi[en]t treshonnorablement. Et doncques pour ces choses ja alleguees et dictes, je suis constraint et aussi quant je considere ta clemence et debonnaireté me suis enhardy de mectre par escript au mains mal que faire je pourray selon les ditz des anciens, et aussi pource que je suis plus bas ou mendres qu’ilz ne furent, me suis entremis de parler du fait des armes par livres et par chappitres au plus briefvement que je pourray selon les faiz anciens et les aucteurs de chevalerie. Si ne convient il pas en ceste oeuvre seulement user de beauté de parolles, mais y convient travail ententif, pource que les choses celees es hystoires de divers acteurs qui enseignent la science des armes puissent estre mises en estat pour le commun prouffit des gens. Pour ce nous efforcerons nous a mectre par tiltres et par chappitres et monstrer la coustume que les anciens avoient a eslire et a eslever nouveaulx chevaliers, non pas pour ce, empereur, que tu fusses oncques deceu et que tu ne saches bien ces choses, car ainsi comme tu les ordonnes de ta bonté pour le saulvement du commun, ainsi les tindrent et garderent jadis ceulx qui firent l’empire de Romme, mais pource que tu puisses trouver en ce petit livret ce que tu croiz, quant doiz querre des choses tresgrans et qui tousjours ont mestier.</p></msContents>
           </msDesc>
         </div>
         <div type="incipit">
@@ -330,13 +313,13 @@
                   <locus>p. 69</locus>
                   <title>Prologue de l'auteur</title>
                   <incipit>Ci commence li prologues du premier livre
-                    <lb/>Li ancien ont esté coustumier de metre en escrit les choses qu’il pensoient que fussent bones a savoir et en faisoient livres puis se les offroient aus princes.</incipit>
+                    <lb />Li ancien ont esté coustumier de metre en escrit les choses qu’il pensoient que fussent bones a savoir et en faisoient livres puis se les offroient aus princes.</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 70-92</locus>
                   <title>Texte</title>
                   <incipit>I Comment li Romain vainquirent toutes genz
-                    <lb/>Nous ne veons pas que li pueples des Romains ait vaincu et mis au desouz toutes les terres du monde par nule autre chose fors que par la hantance des armes et par la science de bien ordener leur herberges et par l’usage de chevalerie.</incipit>
+                    <lb />Nous ne veons pas que li pueples des Romains ait vaincu et mis au desouz toutes les terres du monde par nule autre chose fors que par la hantance des armes et par la science de bien ordener leur herberges et par l’usage de chevalerie.</incipit>
                   <explicit>Donc doit l'en eslire et auser les juennes homes es armes et miex vient il ensaignier les siens en armes que les estranges atraire par soudees et par loiers.</explicit>
                 </msItem>
               </msItem>
@@ -345,12 +328,12 @@
                 <msItem>
                   <title>Prologue de l'auteur</title>
                   <incipit><locus>p. 93</locus>Ci commence li prologues du secont livre
-                    <lb/>Empereres vainquierres il apert bien par l’acoustumance de tes victoires que tu as plainement et sagement retenu les establissemenz des granz homes anciens...</incipit>
+                    <lb />Empereres vainquierres il apert bien par l’acoustumance de tes victoires que tu as plainement et sagement retenu les establissemenz des granz homes anciens...</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 94-115</locus>
                   <title>Texte</title>
-                  <incipit>I En quantes manieres la chose de chevalerie est devisee <lb/>La chose de chevalerie si comme li nobles aucteurs des Latins le tesmoingne est en armes et en forces et est devisee en III parties</incipit>
+                  <incipit>I En quantes manieres la chose de chevalerie est devisee <lb />La chose de chevalerie si comme li nobles aucteurs des Latins le tesmoingne est en armes et en forces et est devisee en III parties</incipit>
                   <explicit>...ou li anemi ont secours par la negligence de ce qu’il ne sont pas appareillié ainsi comme cil de ça en arriere estoient.</explicit>
                 </msItem>
               </msItem>
@@ -364,7 +347,7 @@
                 <msItem>
                   <locus>p. 118-163</locus>
                   <title>Texte</title>
-                  <incipit>I De quel maniere li olz doit estre et de quel forme <lb/>Li premiers livres a moustré comment l'en doit eslire et auser les chevaliers Li secons ensaingna l’establissement de la legion et descepline de chevalerie...</incipit>
+                  <incipit>I De quel maniere li olz doit estre et de quel forme <lb />Li premiers livres a moustré comment l'en doit eslire et auser les chevaliers Li secons ensaingna l’establissement de la legion et descepline de chevalerie...</incipit>
                   <explicit>...mais li ars meismes et la science de victoire querre en quoi tu as moustré par vertu et par l’ordenance ensemble de la chose commune office d’empereeur et de chevalier.</explicit>
                 </msItem>
               </msItem>
@@ -378,7 +361,7 @@
                 <msItem>
                   <locus>p. 167-195</locus>
                   <title>Texte</title>
-                  <incipit>I Comment les citez doivent estre garnies par nature ou par oeuvre <lb/>Citez et chastiax sont garni par nature ou par art ou par ces II manieres ensemble (mais ceste derniere maniere de garnison est la plus fort)...</incipit>
+                  <incipit>I Comment les citez doivent estre garnies par nature ou par oeuvre <lb />Citez et chastiax sont garni par nature ou par art ou par ces II manieres ensemble (mais ceste derniere maniere de garnison est la plus fort)...</incipit>
                   <explicit>...car li usages et li hanteis de chascun jour treuve plus de l’art en ces choses que l’ancienne doctrine ne nous en a moustré.</explicit>
                 </msItem>
               </msItem>
@@ -427,7 +410,7 @@
                   <p><persName type="ancien">Jean de Mandeville</persName>,
                     <title>Voyages</title> incomplets du début et de la fin f. 81-135v ; f. 136-139 blancs ; <title>Histoire romaine</title> non identifiée f. 139-194 ; <persName type="ancien">Honoré Bovet</persName>, <title>L’arbre des batailles</title> incomplet f. 198-245 ; traité sur les hérauts non identifié f. 245-261 (inc.
                     <seg type="incipit">Comment se doit faire roi de nouvel royalme
-                      <lb/>Le prince qui veult estre novel roy doit avoir III duchiés...</seg>).</p>
+                      <lb />Le prince qui veult estre novel roy doit avoir III duchiés...</seg>).</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -734,7 +717,7 @@
                 <msName type="sigle" resp="Löfstedt">S</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Ci comence par boneur el non du souverain Dieu li abregemens noble home Vegece Flave et resverés establissemens apertenans a chevalerie et est ordenee la devision en IIII livres par titres <sic>ni</sic> par chapitres</title> (rubr.) f. 1a ; <title type="ancien">Ci fenist le livre Vegece de l’art de chevalerie que noble princes Jehans conte d’Eu fist translater de latin en françoiz par mestre Jehan de Meun en l’an <pb n="f.                                             108a"/> de l’incarnation nostre Seigneur mil IIC IIIIxx et quatre</title>] f. 1a-107d : chaque livre est précédé d’une table de ses chapitres.</p>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun [titres : <title type="ancien">Ci comence par boneur el non du souverain Dieu li abregemens noble home Vegece Flave et resverés establissemens apertenans a chevalerie et est ordenee la devision en IIII livres par titres <sic>ni</sic> par chapitres</title> (rubr.) f. 1a ; <title type="ancien">Ci fenist le livre Vegece de l’art de chevalerie que noble princes Jehans conte d’Eu fist translater de latin en françoiz par mestre Jehan de Meun en l’an <pb n="f.                                             108a" /> de l’incarnation nostre Seigneur mil IIC IIIIxx et quatre</title>] f. 1a-107d : chaque livre est précédé d’une table de ses chapitres.</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -944,7 +927,7 @@
                 <msName type="sigle" resp="Löfstedt">F</msName>
               </msIdentifier>
               <msContents>
-                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 3a-41c : manquent le prologue, les tables et les quatre premiers chapitres (inc. <seg type="incipit"><seg type="rubric">De quele estature l’en doit les jouvenciaus prouver.</seg><lb/>Certaine chose est que cil qui ont esleuz...</seg> livre I, chap. 5).</p>
+                <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Meun f. 3a-41c : manquent le prologue, les tables et les quatre premiers chapitres (inc. <seg type="incipit"><seg type="rubric">De quele estature l’en doit les jouvenciaus prouver.</seg><lb />Certaine chose est que cil qui ont esleuz...</seg> livre I, chap. 5).</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -1212,22 +1195,22 @@
                 <msItem>
                   <locus>p. 1</locus>
                   <title>prologue du traducteur</title>
-                  <incipit>Per bon aür ici comance,<lb/>U non de Deu, li abrejance<lb/>De l'ordre de chevalerie<lb/>Comant doit estrre estaublie.</incipit>
+                  <incipit>Per bon aür ici comance,<lb />U non de Deu, li abrejance<lb />De l'ordre de chevalerie<lb />Comant doit estrre estaublie.</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 5</locus>
                   <title>prologue de Végèce au livre I</title>
-                  <incipit>Li prologues et la sustance<lb/>Du premier livre ci comance<lb/>Li anciain prodome saige<lb/>Soloient avoir tel usaige...</incipit>
+                  <incipit>Li prologues et la sustance<lb />Du premier livre ci comance<lb />Li anciain prodome saige<lb />Soloient avoir tel usaige...</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 8</locus>
                   <title>livre I, chap. 1</title>
-                  <incipit>Comant tot le monde voinquirent<lb/>Li Romain que grant poinne i mirent<lb/>Nos ne vaons pas que li puples<lb/>Das Romains ne il ne lor mubles...</incipit>
+                  <incipit>Comant tot le monde voinquirent<lb />Li Romain que grant poinne i mirent<lb />Nos ne vaons pas que li puples<lb />Das Romains ne il ne lor mubles...</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 358</locus>
                   <title>Explicit de la traduction</title>
-                  <explicit>Vus tuit qui cest livre liroiz<lb/>Por Jehan Priorat prieroiz que<lb/>Dex le traie a bone fin<lb/>Ici mon livre vus defin.</explicit>
+                  <explicit>Vus tuit qui cest livre liroiz<lb />Por Jehan Priorat prieroiz que<lb />Dex le traie a bone fin<lb />Ici mon livre vus defin.</explicit>
                 </msItem>
               </msContents>
             </msDesc>
@@ -1243,8 +1226,8 @@
                 </msIdentifier>
                 <msContents>
                   <p><title>Li abrejance de l’ordre de chevalerie</title> [titres :
-                    <title type="ancien">Per bon aür ici comance, <lb/>U non de Deu, li abrejance. <lb/>De l’ordre de chevalerie <lb/>Comant doit estre estaublie. <lb/>Faite fut per noble home et saive
-                      <lb/>C’on apeloit Vegece Flaive</title> f. 1a ; <title type="ancien">Expliciz li romanz de chevalerie</title> f. 76a] f. 1a-76a.</p>
+                    <title type="ancien">Per bon aür ici comance, <lb />U non de Deu, li abrejance. <lb />De l’ordre de chevalerie <lb />Comant doit estre estaublie. <lb />Faite fut per noble home et saive
+                      <lb />C’on apeloit Vegece Flaive</title> f. 1a ; <title type="ancien">Expliciz li romanz de chevalerie</title> f. 76a] f. 1a-76a.</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -1298,7 +1281,7 @@
                   <locus>f. 2c-9c</locus>
                   <title>Texte</title>
                   <incipit>Par nulle chose nos ne veons que li peuples de Rome ait soumis a soy tout li monde senon par le huerement des armes et par la descipline des homes et par l’usance de la chevalerie...</incipit>
-                  <explicit>...car sertaine chose est que por mains peut l’en mener les siens as armes que les estranges par loyer. <lb/>Ci commensent li chapistles dou segont livre de l’art de chevalerie et de batailles <hi rend="i">(rubr.)</hi></explicit>
+                  <explicit>...car sertaine chose est que por mains peut l’en mener les siens as armes que les estranges par loyer. <lb />Ci commensent li chapistles dou segont livre de l’art de chevalerie et de batailles <hi rend="i">(rubr.)</hi></explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -1312,7 +1295,7 @@
                   <locus>f. 10a-18d</locus>
                   <title>Texte</title>
                   <incipit>Sire empereres coneue chose est par vos trionfes et par vos victoires la vostre benignité retenir atempreement les establissemens des plus anciens de la partie armee...</incipit>
-                  <explicit>En la legion portoit o soy tout autres choses qui fussent mestiez a quelque maniere se fust ou batailles par coy la ou elle fichoit s’ententes si faisoit ausi come une cités <lb/>Ici fenist li livres qui nous enseigne la costume et l’usance de l’anciene chevalerie Et coment l’ost des peons doit estre enseignee et ordenee <hi rend="i">(rubr.)</hi>.</explicit>
+                  <explicit>En la legion portoit o soy tout autres choses qui fussent mestiez a quelque maniere se fust ou batailles par coy la ou elle fichoit s’ententes si faisoit ausi come une cités <lb />Ici fenist li livres qui nous enseigne la costume et l’usance de l’anciene chevalerie Et coment l’ost des peons doit estre enseignee et ordenee <hi rend="i">(rubr.)</hi>.</explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -1326,14 +1309,14 @@
                   <locus>f. 19c</locus>
                   <title>Prologue du livre III</title>
                   <incipit><seg type="rubric">Ci comence le prologue dou tiers livre qui nos enseigne l’estre et la faire de l’ost et des batailles.</seg>
-                    <lb/>Les anciens livres qui se noment annali demostrent que ceaus de Athenes et de Macedoine estoient sages de toutes choses sur ceaus de Gresse...</incipit>
+                    <lb />Les anciens livres qui se noment annali demostrent que ceaus de Athenes et de Macedoine estoient sages de toutes choses sur ceaus de Gresse...</incipit>
                 </msItem>
                 <msItem>
                   <locus>f. 20a-38c</locus>
                   <title>Texte</title>
                   <incipit><seg type="rubric">En quel maniere doit estre d’ost.</seg>
-                    <lb/>Le premier livre nos promist le eslisement et l’euvrement des tirons et li segons livre qui nos enseigne l’ordenement de la legion et la descipline des homes d’armes...</incipit>
-                  <explicit>Come ce soit chose que elles soient creus d’estre proufitable a tous <lb/>Ci comensent les chapistres dou quart livre et parollent premierement coment les cités doivent estre garnies. <hi rend="i">(rubr.)</hi></explicit>
+                    <lb />Le premier livre nos promist le eslisement et l’euvrement des tirons et li segons livre qui nos enseigne l’ordenement de la legion et la descipline des homes d’armes...</incipit>
+                  <explicit>Come ce soit chose que elles soient creus d’estre proufitable a tous <lb />Ci comensent les chapistres dou quart livre et parollent premierement coment les cités doivent estre garnies. <hi rend="i">(rubr.)</hi></explicit>
                 </msItem>
               </msItem>
               <msItem>
@@ -1347,7 +1330,7 @@
                   <locus>f. 38c-47a</locus>
                   <title>Texte</title>
                   <incipit><seg type="rubric">Les cités doivent estre garnies par nature ou par euvre.</seg>
-                    <lb/>Bien sachiés que les cités et les chastiaus sont garnis par nature ou par la main de l’ome...</incipit>
+                    <lb />Bien sachiés que les cités et les chastiaus sont garnis par nature ou par la main de l’ome...</incipit>
                   <explicit>...car en celle assiduel usance y trova plus d’art que l’anciene doctrine ne demostra.</explicit>
                 </msItem>
               </msItem>
@@ -1437,7 +1420,7 @@
                 <idno>Royal 20 B I</idno>
                 <msName type="sigle" resp="Löfstedt">L</msName>
               </msIdentifier>
-              <msContents><p><locus>f. 3b-d</locus>Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier mostre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes. Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont.</p></msContents>
+              <msContents><p><locus>f. 3b-d</locus>Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier mostre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b" /> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes. Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont.</p></msContents>
             </msDesc>
           </div>
           <div corresp="#bl_royal20bi" type="prologue">
@@ -1493,7 +1476,7 @@
                 <msItem>
                   <locus>p. 55-70</locus>
                   <title>Texte</title>
-                  <incipit>La devise de chevalerie de&lt;ux&gt; <lb/>La chose de chevalerie ci com li nobles auteurs des Latins tesmoigne ou commancement de son livre est devisee en trois parties...</incipit>
+                  <incipit>La devise de chevalerie de&lt;ux&gt; <lb />La chose de chevalerie ci com li nobles auteurs des Latins tesmoigne ou commancement de son livre est devisee en trois parties...</incipit>
                   <explicit>...por ce que en quelque liu que ele mete ses herberges ce soit ausi com une cité garnie et bien armee.</explicit>
                 </msItem>
               </msItem>
@@ -1507,7 +1490,7 @@
                 <msItem>
                   <locus>p. 72-101</locus>
                   <title>Texte</title>
-                  <incipit>Ci commance li tierz livres qui enseigne l’aperte bataille par terre et ce que mestier i a I <lb/>Li seconz l’institucion de la legion et de la decipline de chevalerie Icist tierz sone le tans et por ce sont iceles choses devant mises que icestes esqueles est li sens du combatre et la some de victoire...</incipit>
+                  <incipit>Ci commance li tierz livres qui enseigne l’aperte bataille par terre et ce que mestier i a I <lb />Li seconz l’institucion de la legion et de la decipline de chevalerie Icist tierz sone le tans et por ce sont iceles choses devant mises que icestes esqueles est li sens du combatre et la some de victoire...</incipit>
                   <explicit>...si que la vertu et l’ordenance de la merveillable chose commune soit par toi governee et ensint aenpliras office d’empereor et de chevalier.</explicit>
                 </msItem>
               </msItem>
@@ -1516,12 +1499,12 @@
                 <msItem>
                   <locus>p. 102</locus>
                   <title>Prologue de Végèce</title>
-                  <incipit>Ci commance li quarz livres qui enseigne a saillir ou chastiaus ou citez <lb/>L’agreste et la mal enseignie vie des hommes ou commancement du siecle la premiere constitucions des citez dessevra de la communion des bestes mues et sauvages.</incipit>
+                  <incipit>Ci commance li quarz livres qui enseigne a saillir ou chastiaus ou citez <lb />L’agreste et la mal enseignie vie des hommes ou commancement du siecle la premiere constitucions des citez dessevra de la communion des bestes mues et sauvages.</incipit>
                 </msItem>
                 <msItem>
                   <locus>p. 103-122</locus>
                   <title>Texte</title>
-                  <incipit>Que les citez sont forz par oevre ou nature I <lb/>Citez et chastiaus ou il sont forz par nature ou par oeuvre ou par l’un et par l’autre et cist est li plus forz...</incipit>
+                  <incipit>Que les citez sont forz par oevre ou nature I <lb />Citez et chastiaus ou il sont forz par nature ou par oeuvre ou par l’un et par l’autre et cist est li plus forz...</incipit>
                   <explicit>...je cuit des ore mes qu’il est a tere de la dicipline d’armes car en ces choses li souveniers frequens us trueve souvent plus d’art que l’ancienne doctrine n’en a moustré.</explicit>
                 </msItem>
               </msItem>
@@ -1676,8 +1659,8 @@
               <msPart>
                 <msIdentifier><idno>II</idno></msIdentifier>
                 <msContents>
-                  <p>traduction de l’<title xml:lang="lat">Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commence le livre et l’istoire de Flave Vegece des fais et proesses de chevalerie translaté de latin en françois qui parle en brief dez fais de R[ommains?]</title> f. 1  ; <title type="ancien">Ci finent lez rubriches ou chapistres du secont livre de Flave Vegece ou de la chose dez faiz de chevalerie</title> f. 17v ; <title type="ancien">Ci finist le livre Flave Vegece de la chose qui est en chevalerie translaté de latin en françois mot a mot selon le latin etc.</title> f. 77v] f. 1-77v ; <title>Le dit des trois mors et des trois vifs</title> f. 78-79v ; poème sur la parabole du mauvais riche [titre : <title type="ancien">Ci commence l’istoire du mauvais riche homme</title> f. 80 ; inc. <seg type="incipit">Devant l’uys au riche homme le ladre trespassa</seg>...] f. 80-81v ; quatrains moraux f. 81v-82v [titre : <title type="ancien">Ci aprés s’ensuit de la fauseté du monde</title>, f. 81v ; inc. <seg type="incipit">Le monde sez amis par raison honneure...</seg>] ; <title>Le despit du cors</title> f. 82v-85v ; <title>Débat du corps et de l’ame (visio Philiberti)</title> f. 85v-90v (inc. <seg type="incipit">Une grant vision en ce livre est escripte <lb/>Jadis fu revellee a dam Philbert l’ermite</seg>... f. 85v) ; enseignement moral en sizains d’octosyllabes [titres : <title type="ancien">Ci aprés commence un tresbon enseignement pour un chascun de quelque estat qu’i soit soit home au femme</title>, f. 91 ;
-                    <title type="ancien">Ci fenist le livre je vois morir</title>, f. 95] f. 91-95 : inc. <seg type="incipit">Je vois morir ; venés avant <lb/>Tuit cil qui ores este vivant</seg>... ; f. 95v blanc ; <title type="ancien">Le Doctrinal aux simples gens</title> incomplet de la fin f. 96-103v</p>
+                  <p>traduction de l’<title xml:lang="lat">Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commence le livre et l’istoire de Flave Vegece des fais et proesses de chevalerie translaté de latin en françois qui parle en brief dez fais de R[ommains?]</title> f. 1  ; <title type="ancien">Ci finent lez rubriches ou chapistres du secont livre de Flave Vegece ou de la chose dez faiz de chevalerie</title> f. 17v ; <title type="ancien">Ci finist le livre Flave Vegece de la chose qui est en chevalerie translaté de latin en françois mot a mot selon le latin etc.</title> f. 77v] f. 1-77v ; <title>Le dit des trois mors et des trois vifs</title> f. 78-79v ; poème sur la parabole du mauvais riche [titre : <title type="ancien">Ci commence l’istoire du mauvais riche homme</title> f. 80 ; inc. <seg type="incipit">Devant l’uys au riche homme le ladre trespassa</seg>...] f. 80-81v ; quatrains moraux f. 81v-82v [titre : <title type="ancien">Ci aprés s’ensuit de la fauseté du monde</title>, f. 81v ; inc. <seg type="incipit">Le monde sez amis par raison honneure...</seg>] ; <title>Le despit du cors</title> f. 82v-85v ; <title>Débat du corps et de l’ame (visio Philiberti)</title> f. 85v-90v (inc. <seg type="incipit">Une grant vision en ce livre est escripte <lb />Jadis fu revellee a dam Philbert l’ermite</seg>... f. 85v) ; enseignement moral en sizains d’octosyllabes [titres : <title type="ancien">Ci aprés commence un tresbon enseignement pour un chascun de quelque estat qu’i soit soit home au femme</title>, f. 91 ;
+                    <title type="ancien">Ci fenist le livre je vois morir</title>, f. 95] f. 91-95 : inc. <seg type="incipit">Je vois morir ; venés avant <lb />Tuit cil qui ores este vivant</seg>... ; f. 95v blanc ; <title type="ancien">Le Doctrinal aux simples gens</title> incomplet de la fin f. 96-103v</p>
                 </msContents>
                 <physDesc>
                   <objectDesc>
@@ -1761,7 +1744,7 @@
               </msIdentifier>
               <msContents>
                 <p>traduction de l’<title>Epitoma rei militaris</title> de Végèce par Jean de Vignay [titres : <title type="ancien">Ci commencent les tytres qui sont diz les rebriches des chapistres du livre qui est nommé Flave Vegeste de la choze de chevalerie</title> (rubr.) f. 1a ;
-                  <title type="ancien">Ci finent les VIxx et VIIII rebriches de chapistres desuz dis du livre Flave Vegesce et de la chose de chevalerie</title> (rubr.) f. 3a ; <title type="ancien">Explicit Vegesce de chevalerie</title> f. 31c] : table des chapitres f. 1a-3a ; prologue du traducteur f. 3b-d (<seg type="incipit">Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier monstre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b"/> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont</seg>
+                  <title type="ancien">Ci finent les VIxx et VIIII rebriches de chapistres desuz dis du livre Flave Vegesce et de la chose de chevalerie</title> (rubr.) f. 3a ; <title type="ancien">Explicit Vegesce de chevalerie</title> f. 31c] : table des chapitres f. 1a-3a ; prologue du traducteur f. 3b-d (<seg type="incipit">Ci commence le prologue premier de ce livre el quel il a IIII livres touz complez dont le premier monstre et enseigne de l’ancien temps qui dit ainsi que a nul n’afiert miex savoir pluseurs choses que aus princes pour raison de gouverner leur province a leur honneur et au profit de leur peuple <pb n="f. 3b" /> Et le second livre devise coment le souverainne d’une bataille doit deviser et amenistrer toutes chozes, que il convient a ost vivre et son corps garder Et le tiers si devise quex enginz, quex mangonniaux et perrieres l’en doit avoir et quex armes Et le quart livre si parle de fort bataille de terre et d’yaue et de tours qui y sont</seg>
                   <hi rend="i">(rubr.)</hi>) ; prologue de Végèce f. 4a-b (<seg type="incipit">Ci commence le secont prologue du vaillant philosophe Flave Vegeste qui envoie ce livre au vaillant et preus empereeur Valentinien sires des Rommains et dist que nus ne puet riens faire ne commencier ne parchever a son honneur sanz l’aide de la devine grace c’est Dieu et apele ce livre le livre de l’excercitation c’est a dire le livre de l’usage d’armes</seg>... (rubr.) f. 3d) ; texte f. 4b-31c.</p>
               </msContents>
               <physDesc>
@@ -1901,7 +1884,7 @@
             <date notBefore="1301" notAfter="1333">avant 1333</date>
           </dateline>
           <p>Composé par Philippe de Vitry (vers 1290-1361) à l’occasion du projet de croisade de Philippe de Valois, le <title>Chapel des trois fleurs de lis</title> comprend une traduction en vers du chapitre le plus connu de Végèce (livre III, chap. 26), portant sur les règles générales de la guerre. Cette interpolation (v. 661-752) est composée de vers rimant en <hi rend="i">aabbcc</hi>, alors que le reste du <title>Chapel</title> est écrit en sizains rimant <hi rend="i">aabbccb</hi>. Les règles de la guerre sont présentées par un sizain :</p>
-          <p>De l’art de la chevalerie<lb/>Dire a present ne veul je mie<lb/>Ne parler en moult longuement ;<lb/>Car cil doit qui en veult savoir<lb/>Le livre de Vegece avoir,<lb/>Qui en parle moult sagement. (v. 655-660)<lb/>
+          <p>De l’art de la chevalerie<lb />Dire a present ne veul je mie<lb />Ne parler en moult longuement ;<lb />Car cil doit qui en veult savoir<lb />Le livre de Vegece avoir,<lb />Qui en parle moult sagement. (v. 655-660)<lb />
           </p>
           <listBibl>
             <bibl>A. Piaget, « Le <title>Chapel des fleurs de lis</title>, par Philippe de Vitri », dans <title>Romania</title>, t. 27, 1898, p. 55-92</bibl>
@@ -1918,8 +1901,8 @@
               <msContents>
                 <msItem>
                   <locus>v. 661-666 - v. 749-752</locus>
-                  <incipit>Mais aucunes rieules moult belles<lb/>Briefment en diray qui sont telles<lb/>Tu qui de guerre veulz savoir<lb/>Dois pour general rieule avoir<lb/>Que ce qui proufit te puet faire<lb/>Soit nuisance a ton adversaire.</incipit>
-                  <explicit>...Car cellui double sa puissance<lb/>Qui d’eschapper n’a esperance<lb/>Bon est par paix sanz villanie<lb/>Recouvrer son droit ou partie.</explicit>
+                  <incipit>Mais aucunes rieules moult belles<lb />Briefment en diray qui sont telles<lb />Tu qui de guerre veulz savoir<lb />Dois pour general rieule avoir<lb />Que ce qui proufit te puet faire<lb />Soit nuisance a ton adversaire.</incipit>
+                  <explicit>...Car cellui double sa puissance<lb />Qui d’eschapper n’a esperance<lb />Bon est par paix sanz villanie<lb />Recouvrer son droit ou partie.</explicit>
                 </msItem>
               </msContents>
             </msDesc>
@@ -1994,8 +1977,8 @@
               <msContents>
                 <msItem>
                   <locus>p. 157, f. 73 - p. 160, f. 75</locus>
-                  <incipit>Tu qui de guerres vueulz savoir<lb/>Dois pour general rieule avoir<lb/>Que ce qui prouffit te peut faire<lb/>Soit nuisance a ton adversaire...</incipit>
-                  <explicit>Ce qui est dit lui peut souffire<lb/>Car qui peut bien entendre et lire<lb/>Et vueult du faire songneux estre<lb/>En labourant devendra maistre.</explicit>
+                  <incipit>Tu qui de guerres vueulz savoir<lb />Dois pour general rieule avoir<lb />Que ce qui prouffit te peut faire<lb />Soit nuisance a ton adversaire...</incipit>
+                  <explicit>Ce qui est dit lui peut souffire<lb />Car qui peut bien entendre et lire<lb />Et vueult du faire songneux estre<lb />En labourant devendra maistre.</explicit>
                 </msItem>
               </msContents>
             </msDesc>
@@ -2042,26 +2025,26 @@
                 <msItem>
                   <locus>f. 5v-6, p. 41 - f. 17, p. 58</locus>
                   <title>Texte</title>
-                  <incipit>Comment les Romains soubzmistrent a eulz le monde par l’art et exercitement des armes I <lb/>L’en ne voit que pour nulle autre cause le peuple de Romme soubzmeist a sa seigneurie le monde fors tant seullement qu’ilz s’exercitoient en armes et avoient science de guerroier...</incipit>
+                  <incipit>Comment les Romains soubzmistrent a eulz le monde par l’art et exercitement des armes I <lb />L’en ne voit que pour nulle autre cause le peuple de Romme soubzmeist a sa seigneurie le monde fors tant seullement qu’ilz s’exercitoient en armes et avoient science de guerroier...</incipit>
                   <explicit>...Et pour ce tous jours se doivent li jenne homme excerciter a bataille et quar il est trop plus grant prouffit des siens ensaigner plus tost en armes que de louer les estranges au besoing de guerroyer.</explicit>
                 </msItem>
               </msItem>
               <msItem>
                 <locus>f. 17, p. 60 - f. 29v, p. 82</locus>
                 <title>Livre II</title>
-                <incipit>Ci commence le second livre de chevalerie En quantes manieres chevalerie ou guerre est divisee I <lb/>Si comme le noble acteur des Latins tesmoingne ou commencement de son ditié l’art de chevalerie est en armes et en force...</incipit>
+                <incipit>Ci commence le second livre de chevalerie En quantes manieres chevalerie ou guerre est divisee I <lb />Si comme le noble acteur des Latins tesmoingne ou commencement de son ditié l’art de chevalerie est en armes et en force...</incipit>
                 <explicit>... si que quant l’ost fiche et arreste ses chasteaulz c’est a dire les tentes il semble que ce soit une grant cité forte et bien armee.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 29v, p. 83 - f. 56v, p. 125</locus>
                 <title>Livre III</title>
-                <incipit>Si commence le tiers livre. <lb/>De la maniere de l’ost I <lb/>Le premier livre de ce traittié a parlé de l’election et exercitement de chevalerie et batailleurs <lb/>Le second a ensaignié de l’institucion et ordonnance de la legion et de la science et dottrine de chevalerie.</incipit>
+                <incipit>Si commence le tiers livre. <lb />De la maniere de l’ost I <lb />Le premier livre de ce traittié a parlé de l’election et exercitement de chevalerie et batailleurs <lb />Le second a ensaignié de l’institucion et ordonnance de la legion et de la science et dottrine de chevalerie.</incipit>
                 <explicit>...Car quant on a eu aucune bonne fortune les cuers humains de ceulz qui[lz] l’ont eu sont plus orguilleux et mains saiges si qu’adont peut il bien cheoir apoint d’eulx grever.</explicit>
               </msItem>
               <msItem>
                 <locus>f. 56v, p. 126 - f. 73, p. 156</locus>
                 <title>Livre IV</title>
-                <incipit>Ci commence le quart et derrenier livre de l’art de chevalerie fait de Flave Vegesce jadis conte Estre fort ou de nature par la raison du lieu ou ilz sont ou par euvre <lb/>Comment les citez et les chasteaux doivent estre fors I <lb/>Les citez et les forteresses ou ilz sont fors par nature ou par main ou par l’un et l’autre qui vault mieulz...</incipit>
+                <incipit>Ci commence le quart et derrenier livre de l’art de chevalerie fait de Flave Vegesce jadis conte Estre fort ou de nature par la raison du lieu ou ilz sont ou par euvre <lb />Comment les citez et les chasteaux doivent estre fors I <lb />Les citez et les forteresses ou ilz sont fors par nature ou par main ou par l’un et l’autre qui vault mieulz...</incipit>
                 <explicit>... car l’usaige et le hantement de l’art de chevalerie treuve tousjours plus du fait et de la maniere de saigement guerroier que l’ancienne doctrine n’en pourroit moustrer.</explicit>
               </msItem>
             </msContents>
@@ -2160,9 +2143,9 @@
             <msContents>
               <msItem>
                 <locus>p. 292-297</locus>
-                <incipit><foreign xml:lang="lat">Prima regula <lb/>In omnibus expeditionis preliis condicio talis est ut quod tibi prodest adversarium tuum noceat ; quod illum adjuvat tibi sempert officiat</foreign>
-                  <lb/>Premiere regle <lb/>En toutes bataillez de despechement et de outrance la condicion est telle que ceu que te profficte soit nuissant ad ton adversaire et que ceu que [la] l’aide te soit grevant.</incipit>
-                <explicit>XIIIIe maniere <lb/>Per quelle maniere que tu dois combaitre tes anemis ne leu sachent point adfin que par aucun remede il ne se provoient de resister.</explicit>
+                <incipit><foreign xml:lang="lat">Prima regula <lb />In omnibus expeditionis preliis condicio talis est ut quod tibi prodest adversarium tuum noceat ; quod illum adjuvat tibi sempert officiat</foreign>
+                  <lb />Premiere regle <lb />En toutes bataillez de despechement et de outrance la condicion est telle que ceu que te profficte soit nuissant ad ton adversaire et que ceu que [la] l’aide te soit grevant.</incipit>
+                <explicit>XIIIIe maniere <lb />Per quelle maniere que tu dois combaitre tes anemis ne leu sachent point adfin que par aucun remede il ne se provoient de resister.</explicit>
               </msItem>
             </msContents>
           </msDesc>
@@ -2224,7 +2207,7 @@
             <msContents>
               <msItem>
                 <locus>p. 299-310</locus>
-                <incipit>Il n’est nul a qui il appartiengne mieulx de sçavoir le bien que au prince de qui la doctrine peut pourfiter a tous ses subgets <lb/>Nous n’avons point veu que par aultre maniere les Romains aient mis tout le monde en leur subgecion que par excercite d’armes et par le bon gouvernement que les chefs ont mis en l’ost en pugnissant les mesprenans.</incipit>
+                <incipit>Il n’est nul a qui il appartiengne mieulx de sçavoir le bien que au prince de qui la doctrine peut pourfiter a tous ses subgets <lb />Nous n’avons point veu que par aultre maniere les Romains aient mis tout le monde en leur subgecion que par excercite d’armes et par le bon gouvernement que les chefs ont mis en l’ost en pugnissant les mesprenans.</incipit>
                 <explicit>Nul jamays ne se enorguillisse pour bonne adventure qui luy soit advenue mays pense tousjours en soy que l’adventure de la bataille vient souvent contre ceulx qui deussent avoir eu la victoire.</explicit>
               </msItem>
             </msContents>
@@ -2345,7 +2328,7 @@
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titres : <title type="ancien">S’ensuivent les tiltres des chappitres du premier livre des Stratagemes qui peuent enseigner le prince des choses qui sont a faire avant la bataille</title> f. 5 ;
-                  <title type="ancien">Cy fine le premier livre de Jules Frontin</title> (rubr.) f. 26] : prologue du traducteur f. 3-4 ; prologue de l’auteur f. 4-5 ; table des chapitres f. 5-6 ; texte f. 6v-76 (manquent les exemples I.v, 18-24 ; IV.i, 11-43 ; IV.v, 9-21 ; IV.vii, 7-31) ; glossaire f. 76r-v (<title type="ancien">S’ensuit la declaracion d’aucuns noms qui sont en ce livre les quelx ne se pouoient pas bonnement translater de mot a mot sans aucune obscureté</title> f. 76) ; extraits traduits de l’<title>Epitoma rei militaris</title> [titre : <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’i fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 76v] f. 76v-77v : incomplets de la fin (expl.  ... <seg type="explicit">car l’honnesteté des meurs fait le bon chevallier et la crainte de faire deshonneur a son lignaige en tant qu’elle luy deffent le fouyr elle le fait hardi et victorien <lb/>Il appartient aux plus grans et doibt leur...</seg> [= expl. du ms Paris, Bibl. nat. de Fr., fr. 1235]).</p>
+                  <title type="ancien">Cy fine le premier livre de Jules Frontin</title> (rubr.) f. 26] : prologue du traducteur f. 3-4 ; prologue de l’auteur f. 4-5 ; table des chapitres f. 5-6 ; texte f. 6v-76 (manquent les exemples I.v, 18-24 ; IV.i, 11-43 ; IV.v, 9-21 ; IV.vii, 7-31) ; glossaire f. 76r-v (<title type="ancien">S’ensuit la declaracion d’aucuns noms qui sont en ce livre les quelx ne se pouoient pas bonnement translater de mot a mot sans aucune obscureté</title> f. 76) ; extraits traduits de l’<title>Epitoma rei militaris</title> [titre : <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’i fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 76v] f. 76v-77v : incomplets de la fin (expl.  ... <seg type="explicit">car l’honnesteté des meurs fait le bon chevallier et la crainte de faire deshonneur a son lignaige en tant qu’elle luy deffent le fouyr elle le fait hardi et victorien <lb />Il appartient aux plus grans et doibt leur...</seg> [= expl. du ms Paris, Bibl. nat. de Fr., fr. 1235]).</p>
               </msContents>
               <physDesc>
                 <objectDesc>

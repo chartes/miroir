@@ -2,75 +2,36 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main">Énéide, introduction à l’édition</title>
+        <title type="main" ref="https://www.wikidata.org/wiki/Q60220 https://data.bnf.fr/fr/ark:/12148/cb12008287t https://portail.biblissima.fr/fr/ark:/43093/oedatadbf26c09b11cfd8be1763b8ad0d847ecb82abd1e">Énéide, introduction à l’édition</title><title type="short">Énéide</title>
         <editor xml:id="LD" ref="https://data.bnf.fr/fr/ark:/12148/cb17078485t https://www.idref.fr/195638638">Lucien Dugaz</editor> 
-      </titleStmt>
+      </titleStmt><extent />
       <editionStmt>
         <edition>École des chartes</edition>
       </editionStmt>
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2023">2023</date>
-        <address>
-          <addrLine>19, rue de la Sorbonne</addrLine>
-          <addrLine>75005 Paris.</addrLine>
-          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
-          <addrLine>http://enc.sorbonne.fr/</addrLine>
-          <addrLine>recherche@enc.sorbonne.fr</addrLine>
-        </address>
+        <date>2023</date>
+        <address><addrLine>65, rue de Richelieu</addrLine><addrLine>75002 Paris</addrLine><addrLine>tél.: +33 (0)1 55 42 75 00</addrLine><addrLine>https://www.chartes.psl.eu/</addrLine></address>
         <idno>http://elec.enc.sorbonne.fr/miroir/dugaz_eneide-intro</idno>
         <distributor>École nationale des chartes</distributor>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>Lucien Dugaz, <title>Énéide, introduction à l’édition</title>, 2023, École nationale des chartes – PSL.</bibl>
+        <availability status="restricted"><licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence></availability>
+      </publicationStmt><seriesStmt><title>Miroir des classiques</title><idno type="vol">17</idno></seriesStmt>
+      <notesStmt><note>Lucien Dugaz (ed.), Eneide, introduction a l'edition, Ecole nationale des chartes - PSL, 2023.</note><note type="citation">Lucien Dugaz (ed.), Eneide, introduction a l'edition, Ecole nationale des chartes - PSL, 2023.</note></notesStmt><sourceDesc>
+        <bibl source="https://www.wikidata.org/wiki/Q60220 https://data.bnf.fr/fr/ark:/12148/cb12008287t https://portail.biblissima.fr/fr/ark:/43093/oedatadbf26c09b11cfd8be1763b8ad0d847ecb82abd1e">Lucien Dugaz, <title>Énéide, introduction à l’édition</title>, 2023, École nationale des chartes – PSL.</bibl>
       </sourceDesc>
     </fileDesc>
-    <encodingDesc>
+    <encodingDesc><projectDesc><p>Introduction a l'edition par Lucien Dugaz de la traduction de l'Eneide de Virgile par Octovien de Saint-Gelais.</p></projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div" use="@xml:id">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
               <citeStructure match="div" use="@xml:id">
-                <citeData use="head" property="dct:title"/>
+                <citeData use="head" property="dct:title" />
                 <citeStructure match="div" use="@xml:id">
-                  <citeData use="head" property="dct:title"/>
+                  <citeData use="head" property="dct:title" />
                 </citeStructure>
               </citeStructure>
             </citeStructure>
@@ -80,12 +41,12 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date when="2021"/>
+        <date when="2021" />
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
-    </profileDesc>
+    <textClass><keywords><term type="temporalCoverage"><date notBefore="1450" notAfter="1510">1450/1510</date></term></keywords></textClass></profileDesc>
   </teiHeader>
   <text>
     <body>

@@ -2,7 +2,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Stratagemata</hi>, Sex. Julius Frontinus</title>
+        <title ref="https://www.wikidata.org/wiki/Q7621752 https://data.bnf.fr/ark:/12148/cb12253638w https://portail.biblissima.fr/fr/ark:/43093/oedatac291a8377da948b73c0cfbeb5cff1237bc8f2e77 https://data.biblissima.fr/entity/Q285543"><hi rend="i">Stratagemata</hi>, Sex. Julius Frontinus</title>
+        <title type="short">Stratagemata</title>
         <title type="sub">Notice descriptive concernant l’ensemble des traductions médiévales en français et en occitan</title>
         <author key="Duval, Frédéric (1972-....)" ref="https://www.wikidata.org/wiki/Q28777003 http://data.bnf.fr/ark:/12148/cb136157348 https://www.idref.fr/096268247">Frédéric Duval</author>
         <sponsor>Équipement d'excellence Biblissima</sponsor>
@@ -26,81 +27,63 @@
           <resp>informatique documentaire</resp>
         </respStmt>
       </editionStmt>
+      <extent />
       <publicationStmt>
         <publisher ref="https://www.chartes.psl.eu/">École nationale des chartes – PSL</publisher>
-        <date when="2017">2017</date>
-        <idno>https://github.com/chartes/miroir/raw/master/xml/classiques_latins/stratagemata_frontinus.xml</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-nd/3.0/fr/">© École nationale des chartes – PSL (CC BY-NC 3.0)</licence>
-          <p>L'École nationale des chartes met à disposition cette ressource électronique
-            structurée, protégée par le code de la propriété intellectuelle sur les
-            bases de données (L341-1), selon les termes de la licence *Creative Commons*
-            : «Paternité - Pas d'Utilisation Commerciale - Pas de Modification; 2.0
-            France». Cette licence est disponible en ligne
-            http://creativecommons.org/licenses/by-nc-nd/2.0/fr/ ou par courrier postal
-            à Creative Commons, 171 Second Street, Suite 300, San Francisco, California
-            94105, USA.</p>
-          <p>*Pas d'Utilisation Commerciale*: L'École nationale des chartes souhaite
-            encourager l'utilisation et l'amélioration de ses ressources électroniques,
-            pour les intérêts de l'enseignement et de la recherche. Toute autorisation
-            au-delà du champ de cette licence doit être obtenue auprès de l'École
-            nationale des chartes.</p>
-          <p>*Pas de Modification*: Afin de mieux servir la communauté scientifique,
-            l'École nationale des chartes s'engage à conserver et à toujours offrir
-            publiquement la version la plus à jour de ses ressources électroniques par
-            une URI pérenne. Elle s'engage à les corriger et à les améliorer, à intégrer
-            les contributions qui lui sont soumises (après validation par un comité
-            scientifique), et à référencer l'origine de ces contributions. Toute
-            modification de la ressource qui ne serait pas reversée à la version de
-            référence sous l'autorité éditoriale de l'École nationale des chartes doit
-            faire l'objet de l'accord de celle-ci, afin de ne pas disperser les
-            contributions et de permettre les meilleures conditions possibles de
-            collaboration scientifique.</p>
-          <p>*Paternité*: l'École nationale des chartes demande à ce que toute publication
-            dérivée de ses ressources électroniques comporte: 1) le nom de l'École
-            nationale des chartes et, pour les publications électroniques, son logo 2)
-            l'URI permettant d'accéder à la page citée sur notre site, ou à la page
-            d'accueil de la ressource 3) la date du fichier source utilisé.</p>
-          <p>Tout litige soulevé par le non respect des termes de cette licence sera
-            soumis à la juridiction des tribunaux de Paris.</p>
+        <address>
+          <addrLine>65, rue de Richelieu</addrLine>
+          <addrLine>75002 Paris</addrLine>
+          <addrLine>tél.: +33 (0)1 55 42 75 00</addrLine>
+          <addrLine>https://www.chartes.psl.eu/</addrLine>
+        </address>
+        <date>2017</date>
+        <idno>http://elec.enc.sorbonne.fr/miroir/stratagemata_frontinus</idno>
+        <availability>
+          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">© École nationale des chartes - PSL (CC-BY-NC-SA 4.0)</licence>
         </availability>
       </publicationStmt>
       <seriesStmt>
         <title>Miroir des classiques</title>
+        <idno type="vol">17</idno>
       </seriesStmt>
+      <notesStmt>
+        <note type="abstract">Notice</note>
+        <note type="citation">Frédéric Duval (éd.), <title><hi rend="i">Stratagemata</hi>, Sex. Julius Frontinus</title>, École nationale des chartes – PSL, 2017.</note>
+      </notesStmt>
       <sourceDesc>
         <!-- DONNER LE LIEN SI NATIVEMENT NUMÉRIQUE -->
-        <bibl>Stratagemata de Frontin (nativement numérique)</bibl>
+        <bibl source="https://data.bnf.fr/ark:/12148/cb12253638w https://portail.biblissima.fr/fr/ark:/43093/oedatac291a8377da948b73c0cfbeb5cff1237bc8f2e77 https://data.biblissima.fr/entity/Q285543">Stratagemata de Frontin (nativement numérique)</bibl>
       </sourceDesc>
-      <noteStmt>
-        <note type="abstract">Notice</note>
-      </noteStmt> 
     </fileDesc>
     <profileDesc>
       <creation>
         <date when="2006">2006</date>
       </creation>
       <langUsage>
-        <language ident="fr"/>
+        <language ident="fr" />
       </langUsage>
       <textClass>
         <keywords>
           <term key="https://data.bnf.fr/ark:/12148/cb12174476c">Frontin (0030?-0103?)</term>
+          <term type="temporalCoverage"><date>1280/1505</date></term>
         </keywords>
       </textClass>
     </profileDesc>
     <encodingDesc>
+      <projectDesc>
+        <p>Le « Miroir des classiques » est une base de données codicologiques et textuelles consacrée aux traductions d’auteurs classiques en langues gallo-romanes (français et occitan) au Moyen Âge. Pour chaque œuvre, les différentes traductions sont présentées dans leur ordre chronologique, accompagnées de l’analyse précise des manuscrits et éditions anciennes qui les conservent. Le projet, dirigé par Frédéric Duval (École nationale des chartes – PSL, Centre Jean-Mabillon), a bénéficié du soutien de l’Équipement d’excellence Biblissima puis de Biblissima+.</p>
+      </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title"/>
+          <citeData use="head" property="dct:title" />
           <citeStructure match="div" use="@xml:id">
-            <citeData use="head" property="dct:title"/>
+            <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title"/>
+              <citeData use="head" property="dct:title" />
               <citeStructure match="div" use="@xml:id">
-                <citeData use="head" property="dct:title"/>
+                <citeData use="head" property="dct:title" />
                 <citeStructure match="div" use="@xml:id">
-                  <citeData use="head" property="dct:title"/>
+                  <citeData use="head" property="dct:title" />
                 </citeStructure>
               </citeStructure>
             </citeStructure>
@@ -212,7 +195,7 @@
                     </msIdentifier>
                     <msContents>
                       <p>recueil moral et didactique contenant entre autres : traduction picarde en vers (VII) la <title>Consolatio Philosophiae</title> de Boèce [titre : <title type="ancien">Expliciunt les livres de Boece de consolacion</title> f. 76d] f. 1a-76d : suite à la perte du premier cahier, la traduction est incomplète des 1139 premiers vers (f. 1a inc. ...<seg type="incipit">Print a touchier le luminaire
-                        <lb/>de mon vis en larmes plungié <lb/>de son vestement desrungier</seg>...), mais il manque aussi une centaine de vers en III.xii (espace laissé blanc pour les transcrire) et l’épilogue ; <title>Des soubtilz fais en armes</title> [= titre, f. 77a], extraits en français de <persName>Valère Maxime</persName> (f. 77a-78c) et de <persName>Frontin</persName> (f. 78c-82d) ; extraits du <title>Secret des secrets</title> (chapitre de physiognomonie) précédé d’un prologue [titre : <title type="ancien">Chi se commenche le livre de Phisonomie que li princes des philosophes Aristotes fit et ordonna pour l’amour du roy Alixandre, lequel a le vostre plaisance et requeste j’ay translaté par grant diligence du latin en romant en comprenant le mieuls que je puis selon mon petit entendement le sentence du sage Aristote</title> f. 196] f. 196-197v (texte inc. <seg type="incipit">Si devés savoir que en ce petit livre a moult belle especuleracion</seg>... ; expl. ...<seg type="explicit">pour ce dist et conclut Aristotes que homs est apelés li petis mondes</seg>).</p>
+                        <lb />de mon vis en larmes plungié <lb />de son vestement desrungier</seg>...), mais il manque aussi une centaine de vers en III.xii (espace laissé blanc pour les transcrire) et l’épilogue ; <title>Des soubtilz fais en armes</title> [= titre, f. 77a], extraits en français de <persName>Valère Maxime</persName> (f. 77a-78c) et de <persName>Frontin</persName> (f. 78c-82d) ; extraits du <title>Secret des secrets</title> (chapitre de physiognomonie) précédé d’un prologue [titre : <title type="ancien">Chi se commenche le livre de Phisonomie que li princes des philosophes Aristotes fit et ordonna pour l’amour du roy Alixandre, lequel a le vostre plaisance et requeste j’ay translaté par grant diligence du latin en romant en comprenant le mieuls que je puis selon mon petit entendement le sentence du sage Aristote</title> f. 196] f. 196-197v (texte inc. <seg type="incipit">Si devés savoir que en ce petit livre a moult belle especuleracion</seg>... ; expl. ...<seg type="explicit">pour ce dist et conclut Aristotes que homs est apelés li petis mondes</seg>).</p>
                     </msContents>
                     <physDesc>
                       <objectDesc>
@@ -256,8 +239,8 @@
                       <locus>f. 62v-73v</locus>
                       <title>Texte</title>
                       <incipit><seg type="rubric">L’acteur</seg>
-                        <lb/>Frontin dist en son premier livre que Scipion l’Auffrican envoya en l’ost du roy Sciphas ung <sic>luy</sic> et avec ce des plus subtilz espices qui avec luy fussent pour mieux regarder et considerer la force et l’estat de celui roy et de son host...</incipit>
-                      <explicit>Scipio l’Auffricant disoit que on ne devoit pas sans plus donner voye a son ennemy de fouyr mais luy aydier a le faire et a che trouver accoison. <lb/>Explicit de Frontin.</explicit>
+                        <lb />Frontin dist en son premier livre que Scipion l’Auffrican envoya en l’ost du roy Sciphas ung <sic>luy</sic> et avec ce des plus subtilz espices qui avec luy fussent pour mieux regarder et considerer la force et l’estat de celui roy et de son host...</incipit>
+                      <explicit>Scipio l’Auffricant disoit que on ne devoit pas sans plus donner voye a son ennemy de fouyr mais luy aydier a le faire et a che trouver accoison. <lb />Explicit de Frontin.</explicit>
                     </msItem>
                   </msContents>
                 </msDesc>
@@ -276,8 +259,8 @@
                         <title type="ancien">Fin du livre appellé le Secret des secretz d’Aristote</title> (rubr.) f. 60v] : table des rubriques f. 1-3v, texte f. 4-60v ; extraits traduits de Valère Maxime [titre :
                         <title type="ancien">Aprez ce que le translateur de ce present traitié a conclud et mis fin en son livre appellé le Secret des secretz d’Aristote que nous appellons en nostre commun langaige le regime du gouvernement des roys, il a volu cy aprez traitier le derrenier stratageme de Hanybal duc de Cartaige scelon ce que met Valere le Grant</title> (rubr.) f. 61] : f. 61-62v (inc.
                         <seg type="incipit"><seg type="rubric">Premiers parolle de trois cautelles de guerre faites par ledit Hanybal contre les Rommains en la bataille de Cannes et sont cy aprez declairees par ceste lectre quy dist ainsi
-                          <lb/>L’acteur</seg>
-                          <lb/>Que fist Hanybal au peupple de Romme avant que il se conbatist...</seg> ; expl. <seg type="explicit">et ce fut la force punique instructe des aguez de trahison laquelle est <pb n="f. 62"/> certaine excusacion de nostre vertu car a la verité nous devons mieulx estre deceu que vaincu</seg>) ; extraits français des <title>Stratagemata</title> de Frontin d’après Simon de Hesdin [titre : <title type="ancien">Cy parle des fais de Frontin</title> (rubr.) f. 62v ; <seg type="explicit">Explicit de Frontin</seg> f. 73v] f. 62v-73v.</p>
+                          <lb />L’acteur</seg>
+                          <lb />Que fist Hanybal au peupple de Romme avant que il se conbatist...</seg> ; expl. <seg type="explicit">et ce fut la force punique instructe des aguez de trahison laquelle est <pb n="f. 62" /> certaine excusacion de nostre vertu car a la verité nous devons mieulx estre deceu que vaincu</seg>) ; extraits français des <title>Stratagemata</title> de Frontin d’après Simon de Hesdin [titre : <title type="ancien">Cy parle des fais de Frontin</title> (rubr.) f. 62v ; <seg type="explicit">Explicit de Frontin</seg> f. 73v] f. 62v-73v.</p>
                     </msContents>
                     <physDesc>
                       <objectDesc>
@@ -391,7 +374,7 @@
                   <locus>f. 26c-55d</locus>
                   <title>Texte</title>
                   <incipit><seg type="rubric">Le premier cappittre est de savoir eslire temps couvenable pour une bataille
-                    <lb/>Publius Cornelius</seg> [Q]uant Publius Cornelius Scipion l’Affrican en Espaigne voult combatre Hastrubal des le matin estoit entré ou champ sans avoir fait desjeuner son ost...</incipit>
+                    <lb />Publius Cornelius</seg> [Q]uant Publius Cornelius Scipion l’Affrican en Espaigne voult combatre Hastrubal des le matin estoit entré ou champ sans avoir fait desjeuner son ost...</incipit>
                   <explicit>Il cuida que la bonne fortune lui ostast son ennemy et qu’elle l’emportast Si s’en retourna sans plus le poursuir.</explicit>
                 </msItem>
               </msItem>
@@ -406,7 +389,7 @@
                   <locus>f. 56b-83a</locus>
                   <title>Texte</title>
                   <incipit><seg type="rubric">Le premier chappitre parle des manieres de aler <sic>soudaniement</sic> donner l’assault
-                    <lb/><foreign xml:lang="lat">Titus Quintus</foreign></seg> Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
+                    <lb /><foreign xml:lang="lat">Titus Quintus</foreign></seg> Quant Titus Quintius consul les Eques et les Volques voult aler mettre le siege a une ville pres de Romme...</incipit>
                   <explicit>...et furent soudainement ruez jus et desconfiz tous en ung jour et par mer et par terre.</explicit>
                 </msItem>
               </msItem>
@@ -667,7 +650,7 @@
               </msIdentifier>
               <msContents>
                 <p>traduction des <title>Stratagemata</title> de Frontin par Jean de Rouvroy [titres : <title type="ancien">S’ensuivent les tiltres des chappitres du premier livre des Stratagemes qui peuent enseigner le prince des choses qui sont a faire avant la bataille</title> f. 5 ;
-                  <title type="ancien">Cy fine le premier livre de Jules Frontin</title> (rubr.) f. 26] : prologue du traducteur f. 3-4 ; prologue de l’auteur f. 4-5 ; table des chapitres f. 5-6 ; texte f. 6v-76 (manquent les exemples I.v, 18-24 ; IV.i, 11-43 ; IV.v, 9-21 ; IV.vii, 7-31) ; glossaire f. 76r-v (<title type="ancien">S’ensuit la declaracion d’aucuns noms qui sont en ce livre les quelx ne se pouoient pas bonnement translater de mot a mot sans aucune obscureté</title> f. 76) ; extraits traduits de l’<title>Epitoma rei militaris</title> de Végèce [titre : <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’i fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 76v] f. 76v-77v : incomplets de la fin (expl.  ... <seg type="explicit">car l’honnesteté des meurs fait le bon chevallier et la crainte de faire deshonneur a son lignaige en tant qu’elle luy deffent le fouyr elle le fait hardi et victorien <lb/>Il appartient aux plus grans et doibt leur...</seg> [= expl. du ms Paris, Bibl. nat. de Fr., fr. 1235]).</p>
+                  <title type="ancien">Cy fine le premier livre de Jules Frontin</title> (rubr.) f. 26] : prologue du traducteur f. 3-4 ; prologue de l’auteur f. 4-5 ; table des chapitres f. 5-6 ; texte f. 6v-76 (manquent les exemples I.v, 18-24 ; IV.i, 11-43 ; IV.v, 9-21 ; IV.vii, 7-31) ; glossaire f. 76r-v (<title type="ancien">S’ensuit la declaracion d’aucuns noms qui sont en ce livre les quelx ne se pouoient pas bonnement translater de mot a mot sans aucune obscureté</title> f. 76) ; extraits traduits de l’<title>Epitoma rei militaris</title> de Végèce [titre : <title type="ancien">S’ensuivent aucuns notables extraitz du livre de Vegece qu’i fist pour l’enseignement des princes et des gentilz hommes en la science des armes et de chevalerie</title> f. 76v] f. 76v-77v : incomplets de la fin (expl.  ... <seg type="explicit">car l’honnesteté des meurs fait le bon chevallier et la crainte de faire deshonneur a son lignaige en tant qu’elle luy deffent le fouyr elle le fait hardi et victorien <lb />Il appartient aux plus grans et doibt leur...</seg> [= expl. du ms Paris, Bibl. nat. de Fr., fr. 1235]).</p>
               </msContents>
               <physDesc>
                 <objectDesc>
@@ -720,13 +703,13 @@
               <msItem>
                 <locus>f. 90a</locus>
                 <title>Table</title>
-                <incipit>Cy commence la table du livre de Frontin <lb/>La premiere soubtilité est que on doit es fais de guerre et de bataille tres bien celer ce que on veult faire.</incipit>
+                <incipit>Cy commence la table du livre de Frontin <lb />La premiere soubtilité est que on doit es fais de guerre et de bataille tres bien celer ce que on veult faire.</incipit>
               </msItem>
               <msItem>
                 <locus>f. 92a-134c</locus>
                 <title>Texte</title>
-                <incipit>Cy commence le premier chapitre du livre de Frontin <lb/>Pour la declaration de la premiere soubtilité contenant que on doit es fais de guerre et de bataille tres bien celer ce que on veult faire Frontin met VIII exemples...</incipit>
-                <explicit>...icellui Varro le refusoit et ne la vouloit prendre disant il est besoing que la chose publique ait juges plus eureux. <lb/>Cy prent fin le livre de Frontin.</explicit>
+                <incipit>Cy commence le premier chapitre du livre de Frontin <lb />Pour la declaration de la premiere soubtilité contenant que on doit es fais de guerre et de bataille tres bien celer ce que on veult faire Frontin met VIII exemples...</incipit>
+                <explicit>...icellui Varro le refusoit et ne la vouloit prendre disant il est besoing que la chose publique ait juges plus eureux. <lb />Cy prent fin le livre de Frontin.</explicit>
               </msItem>
             </msContents>
           </msDesc>
