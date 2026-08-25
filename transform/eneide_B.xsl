@@ -42,7 +42,9 @@
     </div>
   </xsl:template>
   
-  <xsl:template match="tei:app[tei:lem]">
+  <!-- Apparat critique désormais rendu par la feuille générique : lemme et
+       appel dans le texte, rdg dans la rubrique finale. -->
+  <xsl:template match="tei:app[tei:lem][false()]">
     <xsl:variable name="id">
       <xsl:call-template name="id"/>
     </xsl:variable>
@@ -63,7 +65,7 @@
     </span>
   </xsl:template>
   
-  <xsl:template match="tei:choice">
+  <xsl:template match="tei:choice[false()]">
     <xsl:variable name="id">
       <xsl:call-template name="id"/>
     </xsl:variable>
@@ -247,7 +249,6 @@
   </xsl:template>
 
 </xsl:transform>
-
 
 
 
