@@ -141,32 +141,6 @@
           <xsl:number level="any"/>
         </xsl:if>
       </xsl:when>
-      <!-- numérotation des notes, préfixées par la section -->
-      <xsl:when test="self::tei:note or self::tei:app or self::tei:cit[@n]">
-        <xsl:choose>
-          <xsl:when test="ancestor::*[@xml:id]">
-            <xsl:value-of select="ancestor::*[@xml:id][1]/@xml:id"/>
-            <xsl:text>-</xsl:text>
-          </xsl:when>
-          <xsl:when test="ancestor::tei:text[parent::tei:group]">
-            <xsl:for-each select="ancestor::tei:text[1]">
-              <xsl:call-template name="n"/>
-            </xsl:for-each>
-            <xsl:text>-</xsl:text>
-          </xsl:when>
-          <xsl:when test="ancestor::*[key('split', generate-id())]">
-            <xsl:for-each select="ancestor::*[key('split', generate-id())][1]">
-              <xsl:call-template name="id"/>
-            </xsl:for-each>
-            <xsl:text>-</xsl:text>
-          </xsl:when>
-        </xsl:choose>        
-        <xsl:text>fn</xsl:text>
-        <xsl:variable name="n">
-          <xsl:call-template name="n"/>
-        </xsl:variable>
-        <xsl:value-of select="translate($n, '()-', '')"/>
-      </xsl:when>
       <!-- Où ?
       <xsl:when test="@n and ancestor::*[@xml:id][local-name() != local-name(/*)]">
         <xsl:value-of select="ancestor::*[@xml:id][1]/@xml:id"/>
@@ -184,73 +158,6 @@
       </xsl:otherwise>
     </xsl:choose>
     <xsl:value-of select="$suffix"/>
-  </xsl:template>
-  
-  <xsl:template name="note">
-    <!-- identifiant de la note -->
-    <xsl:variable name="id">
-      <xsl:call-template name="id"/>
-    </xsl:variable>
-    <xsl:variable name="text">
-      <xsl:for-each select="text()">
-        <xsl:value-of select="normalize-space(.)"/>
-      </xsl:for-each>
-    </xsl:variable>
-    <xsl:variable name="element">
-      <xsl:choose>
-        <xsl:when test="$format = $epub2">div</xsl:when>
-        <xsl:otherwise>aside</xsl:otherwise>
-      </xsl:choose>
-    </xsl:variable>
-    <xsl:element name="{$element}" namespace="http://www.w3.org/1999/xhtml">
-      <xsl:attribute name="class">
-        <xsl:value-of select="normalize-space(concat(@rend, ' ', @resp, ' ', @type, ' ', @place, ' note'))"/>
-      </xsl:attribute>
-      <xsl:attribute name="id">
-        <xsl:value-of select="$id"/>
-      </xsl:attribute>
-      <xsl:if test="$format = $epub3">
-        <xsl:attribute name="epub:type">note</xsl:attribute>
-      </xsl:if>
-      <xsl:choose>
-        <xsl:when test="parent::tei:noteStmt"/>
-        <xsl:when test="$text='' and count(*)=1 and tei:p">
-          <xsl:call-template name="noteback"/>
-          <xsl:apply-templates select="*/node()"/>
-        </xsl:when>
-        <xsl:when test="$text='' and *[1][self::tei:p]">
-          <p class="noindent">
-            <xsl:call-template name="noteback"/>
-            <xsl:apply-templates select="*[1]/node()"/>
-          </p>
-          <xsl:apply-templates select="*[position() &gt; 1]"/>
-        </xsl:when>
-        <xsl:otherwise>
-          <xsl:call-template name="noteback"/>
-          <xsl:apply-templates/>
-        </xsl:otherwise>
-      </xsl:choose>
-    </xsl:element>
-    <!-- TOTEST
-      <xsl:choose>
-        <xsl:when test="@ana">
-          <xsl:text> </xsl:text>
-          <i>
-            <xsl:value-of select="@ana"/>
-          </i>
-          <xsl:text>. </xsl:text>
-        </xsl:when>
-      </xsl:choose>
-      -->
-  </xsl:template>
-  
-  <xsl:template match="tei:note">
-    <xsl:choose>
-      <xsl:when test="./@type = 'abstract'"/>
-      <xsl:otherwise>
-        <xsl:call-template name="noteref"/>
-      </xsl:otherwise>
-    </xsl:choose>
   </xsl:template>
   
   <xsl:template match="tei:msDesc">
@@ -285,25 +192,6 @@
        <h4>Histoire du manuscrit : </h4>
       <xsl:apply-templates></xsl:apply-templates>
     </div>
-  </xsl:template>
-  <xsl:template match="tei:choice|tei:subst">
-    <xsl:choose>
-      <xsl:when test="tei:sic and tei:corr">
-        <span>
-          <xsl:call-template name="atts"/>
-          <xsl:attribute name="title">
-            <xsl:if test="*/@source">
-              <xsl:value-of select="*/@source"/>
-              <xsl:text> : </xsl:text>
-            </xsl:if>
-            <xsl:apply-templates select="tei:sic" mode="txt"/>
-          </xsl:attribute>
-          <b>
-          <xsl:apply-templates select="tei:corr/node()"/>
-          </b>
-        </span>
-      </xsl:when>
-    </xsl:choose>
   </xsl:template>
   <xsl:template match="tei:cb" name="cb">
     
