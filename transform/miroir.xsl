@@ -1,165 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:transform   version="1.1"   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" 
+<xsl:transform   version="1.1"   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns="http://www.w3.org/1999/xhtml"
   xmlns:rng="http://relaxng.org/ns/structure/1.0"
   xmlns:eg="http://www.tei-c.org/ns/Examples"
-  xmlns:tei="http://www.tei-c.org/ns/1.0" 
+  xmlns:tei="http://www.tei-c.org/ns/1.0"
   xmlns:html="http://www.w3.org/1999/xhtml"
+  xmlns:dts="https://w3id.org/dts/api#"
   xmlns:epub="http://www.idpf.org/2007/ops"
-  exclude-result-prefixes="eg html rng tei epub"
+  xmlns:tf="urn:elec:tableau-filtrable"
+  exclude-result-prefixes="eg html rng tei epub dts tf"
   xmlns:exslt="http://exslt.org/common"
   extension-element-prefixes="exslt"
   >
   <!-- xml view source -->
-  <xsl:import href="../hteiml/tei2html.xsl"/>
+  <xsl:import href="../../renderers/hteiml/xsl/tei2html.xsl"/>
+  <xsl:import href="bibliographie.xsl"/>
+  <xsl:import href="tableau-filtrable.xsl"/>
   <!-- on garde les CSS par défaut -->
-  <xsl:param name="theme">../../../teipub/theme/</xsl:param>
-  <!-- on déclare une CSS custom (appel in tei2html.xsl) -->
-  <xsl:param name="customCSS">../../miroir.css</xsl:param>
-  
-  <!-- des templates dédiés au catalogage -->
-  <!--<xsl:template match="tei:street"/>-->
-  
-  <!-- PP. Cette règle permet de gérer correctement les notes qui sont dans des bibl. -->
-  <xsl:template name="id" match="*" mode="id">
-    <xsl:param name="prefix"/>
-    <xsl:param name="suffix"/>
-    <xsl:variable name="id0">, '"</xsl:variable>
-    <xsl:variable name="id1">-_</xsl:variable>
-    <xsl:value-of select="$prefix"/>
-    <xsl:choose>
-      <xsl:when test="@xml:id">
-        <xsl:value-of select="translate(@xml:id, $id0, $id1)"/>
-      </xsl:when>
-      <xsl:when test="@id">
-        <xsl:value-of select="translate(@id, $id0, $id1)"/>
-      </xsl:when>
-      <xsl:when test="ancestor-or-self::*:wrapper">
-        <xsl:value-of select="local-name()"/>
-        <xsl:if test="count(key('qname', local-name())) &gt; 1">
-          <xsl:number level="any"/>
-        </xsl:if>
-      </xsl:when>
-      <xsl:when test="not(ancestor::tei:group) and (self::tei:div or starts-with(local-name(), 'div'))">
-        <!-- should I put file id as div id prefix ? -->
-        <!--
-        <xsl:if test="$docid != ''">
-          <xsl:value-of select="translate($docid, $id0, $id1)"/>
-          <xsl:text>_</xsl:text>        
-        </xsl:if>
-        -->
-        <xsl:choose>
-          <xsl:when test="ancestor::tei:body">body-</xsl:when>
-          <xsl:when test="ancestor::tei:front">front-</xsl:when>
-          <xsl:when test="ancestor::tei:back">back-</xsl:when>
-        </xsl:choose>
-        <xsl:number count="tei:div|tei:div1|tei:div2|tei:div3|tei:div4" level="multiple" format="1-1"/>
-      </xsl:when>
-      <!-- hiérarchie simple de div  -->
-      <xsl:when test="self::tei:div and not(ancestor::tei:group)">
-        <!-- should I put file id as div id prefix ? -->
-        <!--
-        <xsl:if test="$docid != ''">
-          <xsl:value-of select="translate($docid, $id0, $id1)"/>
-          <xsl:text>_</xsl:text>        
-        </xsl:if>
-        -->
-        <xsl:number count="tei:div"  level="multiple" format="1-1"/>
-      </xsl:when>
-      <!-- find index -->
-      <xsl:when test="/tei:TEI/tei:text and count(.|/tei:TEI/tei:text)=1">index</xsl:when>
-      <xsl:when test="/tei:TEI/tei:text/tei:front and count(.|/tei:TEI/tei:text/tei:front)=1">index</xsl:when>
-      <xsl:when test="not(/tei:TEI/tei:text/tei:front) and count(.|/tei:TEI/tei:text/tei:group|/tei:TEI/tei:text/tei:body)=1">index</xsl:when>
-      <!-- éléments hauts -->
-      <xsl:when test="count(.. | /*) = 1">
-        <!-- should I put file id as div id prefix ? -->
-        <!--
-        <xsl:if test="$docid != ''">
-          <xsl:value-of select="translate($docid, $id0, $id1)"/>
-          <xsl:text>_</xsl:text>        
-        </xsl:if>
-        -->
-        <xsl:value-of select="local-name()"/>
-      </xsl:when>
-      <!-- groupe de textes -->
-      <xsl:when test="self::tei:group">
-        <!-- should I put file id as div id prefix ? -->
-        <!--
-        <xsl:if test="$docid != ''">
-          <xsl:value-of select="translate($docid, $id0, $id1)"/>
-          <xsl:text>_</xsl:text>        
-        </xsl:if>
-        -->
-        <xsl:value-of select="local-name()"/>
-        <xsl:number level="multiple" from="/*/tei:text/tei:group" format="-1-1"/>
-      </xsl:when>
-      <!-- éléments uniques identifiables par leur nom -->
-      <xsl:when test="contains($els-unique, concat(' ', local-name(), ' '))">
-        <!-- should I put file id as div id prefix ? -->
-        <!--
-        <xsl:if test="$docid != ''">
-          <xsl:value-of select="translate($docid, $id0, $id1)"/>
-          <xsl:text>_</xsl:text>        
-        </xsl:if>
-        -->
-        <xsl:value-of select="local-name()"/>
-      </xsl:when>
-      <xsl:when test="self::tei:pb">
-        <xsl:choose>
-          <xsl:when test="contains('0123456789IVXDCM', substring(@n,1,1))">
-            <xsl:text>p</xsl:text>
-            <xsl:value-of select="normalize-space(translate(@n, ' .', ''))"/>
-          </xsl:when>
-          <xsl:when test="@n != ''">
-            <xsl:value-of select="normalize-space(translate(@n, ' .', ''))"/>
-          </xsl:when>
-          <xsl:otherwise>
-            <xsl:text>p</xsl:text>
-            <xsl:number level="any"/>
-          </xsl:otherwise>
-        </xsl:choose>
-      </xsl:when>
-      <xsl:when test="self::tei:figure">
-        <xsl:text>fig</xsl:text>
-        <xsl:number level="any"/>
-      </xsl:when>
-      <xsl:when test="self::tei:graphic">
-        <xsl:text>img</xsl:text>
-        <xsl:number level="any"/>
-      </xsl:when>
-      <!-- Défaut -->
-      <xsl:when test="true()">
-        <!-- should I put file id as div id prefix ? -->
-        <!--
-        <xsl:if test="$docid != ''">
-          <xsl:value-of select="translate($docid, $id0, $id1)"/>
-          <xsl:text>_</xsl:text>
-        </xsl:if>
-        -->
-        <xsl:value-of select="local-name()"/>
-        <xsl:if test="count(key('qname', local-name())) &gt; 1">
-          <xsl:number level="any"/>
-        </xsl:if>
-      </xsl:when>
-      <!-- Où ?
-      <xsl:when test="@n and ancestor::*[@xml:id][local-name() != local-name(/*)]">
-        <xsl:value-of select="ancestor::*[@xml:id][1]/@xml:id"/>
-        <xsl:text>-</xsl:text>
-        <xsl:value-of select="@n"/>
-      </xsl:when>
-      -->
-      <!-- lien vers une ancre -->
-      <xsl:when test="starts-with(@target, '#') and not(contains(@target, ' '))">
-        <xsl:value-of select="substring(@target, 2)"/>
-      </xsl:when>
-      <!-- Mauvaise solution par défaut -->
-      <xsl:otherwise>
-        <xsl:value-of select="generate-id()"/>
-      </xsl:otherwise>
-    </xsl:choose>
-    <xsl:value-of select="$suffix"/>
-  </xsl:template>
-  
+ 
+  <xsl:strip-space elements="tei:app tei:lem tei:rdg tei:rdgList tei:choice tei:sic tei:corr tei:abbr tei:expan tei:subst"/>
+
+  <xsl:variable name="idResource">eneide_B</xsl:variable>
+  <xsl:variable name="person">idx_persons</xsl:variable>
+  <xsl:variable name="place">idx_places</xsl:variable>
+  <!-- Reprise des templates historiques de Miroir -->
+
   <xsl:template match="tei:msDesc">
     <div>
       <xsl:call-template name="atts"/>
@@ -176,10 +41,7 @@
   <xsl:template match="tei:sourceDesc">
   </xsl:template>
   
-  <xsl:template match="tei:noteStmt">
-  </xsl:template>
-  
- <xsl:template match="tei:editionStmt">
+  <xsl:template match="tei:editionStmt">
   </xsl:template>
   
   <xsl:template match="//tei:lb">
@@ -193,6 +55,7 @@
       <xsl:apply-templates></xsl:apply-templates>
     </div>
   </xsl:template>
+  
   <xsl:template match="tei:cb" name="cb">
     
     <xsl:if test="@n and @n != ''">
@@ -231,11 +94,7 @@
     </div>
   </xsl:template>
   
-
-  <!--
-    Cette règle empêche l'affichage des <div type='soustraduction'/> de la notice Ab urbe condita 
-    -->
-    <xsl:template match="tei:listBibl">
+  <xsl:template match="tei:listBibl">
     <xsl:if test="not(./tei:head)">
       <xsl:choose>
         <xsl:when test="./tei:msDesc">
@@ -244,8 +103,8 @@
         <xsl:otherwise>
           <div>
             <xsl:call-template name="atts"/>
-            <h4 class="toto">Bibliographie : </h4>
-            <xsl:apply-templates></xsl:apply-templates>
+            <h4>Bibliographie : </h4>
+            <xsl:apply-imports/>
           </div>
         </xsl:otherwise>
       </xsl:choose>
@@ -314,13 +173,27 @@
       <xsl:apply-templates/>
     </div>
   </xsl:template>
+  
+  
+  
  
   <xsl:template match="tei:div[@type='incipit']">
     <div>
       <xsl:call-template name="atts"/>
       <!-- Tester dans César Paris Bibl. nat. de Fr. fr. 280 quand il y a plusieurs p pour ajouter l'espace entre chaque p, Ajouter un saut de ligne avant le msDesc/tei:msIdentifier-->
-      <h4><xsl:attribute name="class">incipit</xsl:attribute><xsl:copy-of select="./tei:head/text()"/><xsl:text> </xsl:text><xsl:if test="./tei:p"><xsl:copy-of select="./tei:p/text()"/><xsl:text> </xsl:text></xsl:if><p><xsl:copy-of select="./tei:msDesc/tei:msIdentifier/tei:settlement/text()"/><xsl:text>, </xsl:text><xsl:copy-of select="./tei:msDesc/tei:msIdentifier/tei:repository/text()"/><xsl:text>, </xsl:text><xsl:copy-of select="./tei:msDesc/tei:msIdentifier/tei:idno/text()"/></p></h4>
-      <table class="table is-bordered is-striped is-hoverable is-fullwidth">
+      <h4>
+        <xsl:attribute name="class">incipit</xsl:attribute>
+        <xsl:copy-of select="./tei:head/text()"/><xsl:text> </xsl:text>
+        <xsl:if test="./tei:p">
+          <xsl:copy-of select="./tei:p/text()"/><xsl:text> </xsl:text>
+        </xsl:if>
+        <p>
+          <xsl:if test="./tei:msDesc/tei:msIdentifier/tei:settlement/text()"><xsl:copy-of select="./tei:msDesc/tei:msIdentifier/tei:settlement/text()"/><xsl:text>, </xsl:text></xsl:if>
+          <xsl:if test="./tei:msDesc/tei:msIdentifier/tei:repository/text()"><xsl:copy-of select="./tei:msDesc/tei:msIdentifier/tei:repository/text()"/><xsl:text>, </xsl:text></xsl:if>
+          <xsl:copy-of select="./tei:msDesc/tei:msIdentifier/tei:idno/text()"/>
+        </p></h4>
+      <xsl:if test="./tei:bibl"><xsl:apply-templates select="tei:bibl"/></xsl:if>
+      <table>
         <thead>
           <tr>
             <th><xsl:attribute name="class">locus</xsl:attribute>Locus</th>
@@ -442,8 +315,6 @@
     </span>
   </xsl:template>
   
-
-  
   <xsl:template match="tei:incipit|tei:explicit">
     <p>
       <xsl:call-template name="atts"/>
@@ -487,8 +358,329 @@
     </a>
   </xsl:template>
   
-  <xsl:template match="tei:eTree">
+<!-- Surcharges ajoutées lors de la migration DoTS -->
+  <xsl:template match="dts:wrapper">
+    <xsl:apply-imports/>
+    <xsl:call-template name="footnotes">
+      <xsl:with-param name="cont" select="."/>
+    </xsl:call-template>
   </xsl:template>
   
+  <xsl:template match="tei:lg">
+    <xsl:variable name="corresp">
+      <xsl:choose>
+        <xsl:when test="contains(@corresp, '-')">
+          <xsl:value-of select="concat('vers latin ', substring-before(@corresp, '-'), ' à ', substring-after(@corresp, '-'))"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="concat('vers latin ', @corresp)"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <div>
+      <xsl:call-template name="atts"/>
+      <xsl:call-template name="breaks"/>
+      <small class="lg-n">
+        <xsl:value-of select="$corresp"/>
+      </small>
+      <xsl:apply-templates/>
+    </div>
+  </xsl:template>
+  
+  <xsl:template name="footnotes">
+    <xsl:param name="cont" select="*"/>
+    <xsl:param name="pb" select="$cont//tei:pb[@n][not(@ed)]"/>
+    <xsl:variable name="notes">
+      <xsl:if test="$app">
+        <xsl:variable name="apparatus">
+          <xsl:choose>
+            <xsl:when test="$cont">
+              <xsl:for-each select="$cont // tei:app">
+                <xsl:call-template name="note-inline"/>
+              </xsl:for-each>
+            </xsl:when>
+            <xsl:otherwise>
+              <xsl:for-each select="$cont // tei:app">
+                <xsl:call-template name="note-inline"/>
+              </xsl:for-each>
+            </xsl:otherwise>
+          </xsl:choose>
+        </xsl:variable>
+        <xsl:if test="$apparatus != ''">
+          <p class="apparatus">
+            <xsl:copy-of select="$apparatus"/>
+          </p>
+        </xsl:if>
+      </xsl:if>
+      <xsl:choose>
+        <xsl:when test=" $pb">
+          <!-- MODIF 2 : filtre sur les notes avant le premier pb -->
+          <xsl:variable name="notes1"
+            select="key('note-pb', '')[not(@place='inline' or ancestor::tei:bibl or parent::tei:choice or parent::tei:app)]"/>
+          <xsl:if test="$notes1">
+            <div class="page">
+              <xsl:for-each select="$notes1[@resp = 'author'][not(@place = 'margin')]">
+                <xsl:call-template name="note"/>
+              </xsl:for-each>
+              <xsl:for-each select="$notes1[@resp = 'editor'][not(@place = 'margin')]">
+                <xsl:call-template name="note"/>
+              </xsl:for-each>
+              <xsl:for-each select="$notes1[not(@resp) or (@resp != 'editor' and @resp != 'author')][not(@place = 'margin')]">
+                <xsl:call-template name="note"/>
+              </xsl:for-each>
+            </div>
+          </xsl:if>
+          <xsl:for-each select="$pb">
+            <!-- MODIF 3 : filtre sur les notes de chaque page -->
+            <xsl:variable name="pbnotes"
+              select="key('note-pb', generate-id())[not(@place='inline' or ancestor::tei:bibl or parent::tei:choice or parent::tei:app)]"/>
+            <xsl:variable name="notes4page">
+              <xsl:for-each select="$pbnotes[@resp = 'author'][not(@place = 'margin')]">
+                <xsl:call-template name="note"/>
+              </xsl:for-each>
+              <xsl:for-each select="$pbnotes[@resp = 'editor'][not(@place = 'margin')]">
+                <xsl:call-template name="note"/>
+              </xsl:for-each>
+              <xsl:for-each select="$pbnotes[not(@resp) or (@resp != 'editor' and @resp != 'author')][not(@place = 'margin')]">
+                <xsl:call-template name="note"/>
+              </xsl:for-each>
+            </xsl:variable>
+            <xsl:if test="$notes4page != ''">
+              <div class="page">
+                <div class="b note-page">
+                  <xsl:call-template name="a"/>
+                </div>
+                <xsl:copy-of select="$notes4page"/>
+              </div>
+            </xsl:if>
+          </xsl:for-each>
+        </xsl:when>
+        <xsl:when test="$cont and function-available('exslt:node-set')">
+          <xsl:apply-templates select="exslt:node-set($cont)" mode="fn">
+            <xsl:with-param name="resp">author</xsl:with-param>
+          </xsl:apply-templates>
+          <xsl:apply-templates select="exslt:node-set($cont)" mode="fn">
+            <xsl:with-param name="resp">editor</xsl:with-param>
+          </xsl:apply-templates>
+          <xsl:apply-templates select="exslt:node-set($cont)" mode="fn"/>
+        </xsl:when>
+        <xsl:when test="$cont">
+          <!-- MODIF 4 : filtre sur la branche « peu efficace » -->
+          <xsl:for-each select="$cont //tei:note[not(parent::tei:choice or parent::tei:app)]">
+            <xsl:sort select="@place|@resp"/>
+            <xsl:call-template name="fn"/>
+          </xsl:for-each>
+        </xsl:when>
+        <xsl:when test="key('id', 'note-footseq')">
+          <xsl:apply-templates select="*" mode="fn"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:apply-templates select="*" mode="fn">
+            <xsl:with-param name="resp">author</xsl:with-param>
+          </xsl:apply-templates>
+          <xsl:apply-templates select="*" mode="fn">
+            <xsl:with-param name="resp">editor</xsl:with-param>
+          </xsl:apply-templates>
+          <xsl:apply-templates select="*" mode="fn"/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </xsl:variable>
+    <xsl:if test="$notes != ''">
+      <xsl:variable name="el">
+        <xsl:choose>
+          <xsl:when test="$format=$epub2">div</xsl:when>
+          <xsl:otherwise>section</xsl:otherwise>
+        </xsl:choose>
+      </xsl:variable>
+      <xsl:element name="{$el}" namespace="http://www.w3.org/1999/xhtml">
+        <xsl:attribute name="class">footnotes</xsl:attribute>
+        <xsl:if test="$format = $epub3">
+          <xsl:attribute name="epub:type">footnotes</xsl:attribute>
+        </xsl:if>
+        <xsl:copy-of select="$notes"/>
+      </xsl:element>
+    </xsl:if>
+  </xsl:template>
+  
+  <xsl:template match="tei:note[contains(@place,'inline')]"
+    mode="fn" priority="10"/>
+  
+  <!-- Glossaire : une suite d'entry voisines devient un tableau triable et filtrable -->
+  
+  <xsl:template match="tei:div[@type='entries']">
+    <xsl:variable name="entrees" select="tei:entry"/>
+    <xsl:variable name="liste-cat" select="'tf-cat-' || generate-id()"/>
+    <div class="tf-cadre">
+      <xsl:call-template name="tf-barre">
+        <xsl:with-param name="total" select="count(tei:entry)"/>
+        <xsl:with-param name="unite" select="'entrées'"/>
+      </xsl:call-template>
+      <table class="sortable mf-tableau mf-noms">
+        <caption class="mf-tableau-legende">Cliquer sur un en-tête de colonne pour trier (un second clic inverse l’ordre).</caption>
+        <thead>
+          <tr>
+            <xsl:call-template name="tf-th">
+            <xsl:with-param name="classe" select="'tf-form'"/>
+            <xsl:with-param name="libelle" select="'Forme'"/>
+          </xsl:call-template>
+          <xsl:call-template name="tf-th">
+            <xsl:with-param name="classe" select="'tf-cat'"/>
+            <xsl:with-param name="libelle" select="'Catégorie'"/>
+          </xsl:call-template>
+          <xsl:call-template name="tf-th">
+            <xsl:with-param name="classe" select="'tf-def'"/>
+            <xsl:with-param name="libelle" select="'Définition'"/>
+          </xsl:call-template>
+          </tr>
+          <tr class="tf-filtres">
+            <xsl:call-template name="tf-filtre">
+              <xsl:with-param name="col" select="0"/>
+              <xsl:with-param name="libelle" select="'Forme'"/>
+            </xsl:call-template>
+            <xsl:call-template name="tf-filtre">
+              <xsl:with-param name="col" select="1"/>
+              <xsl:with-param name="libelle" select="'Catégorie'"/>
+              <xsl:with-param name="type" select="'liste'"/>
+              <xsl:with-param name="options"
+                select="sort(distinct-values(tei:entry/tei:gramGrp/tei:pos ! replace(normalize-space(.), '\.(\p{L})', '. $1')))"/>
+              <xsl:with-param name="liste" select="$liste-cat"/>
+            </xsl:call-template>
+            <xsl:call-template name="tf-filtre">
+              <xsl:with-param name="col" select="2"/>
+              <xsl:with-param name="libelle" select="'Définition'"/>
+            </xsl:call-template>
+          </tr>
+        </thead>
+        <tbody>
+          <xsl:for-each select="$entrees">
+            <!-- tri et filtre sur la forme sans le # ou le @ initial -->
+            <xsl:variable name="cle-forme"
+              select="tf:plat(replace(string((tei:form)[1]), '^\s*[#@]\s*', ''))"/>
+            <!-- s.m. et s.f. sont ramenés à s. m. et s. f. -->
+            <xsl:variable name="cat"
+              select="replace(normalize-space(string-join(tei:gramGrp/tei:pos, ' ')), '\.(\p{L})', '. $1')"/>
+            <xsl:variable name="cle-def" select="tf:plat(string(tei:def))"/>
+            <tr data-o="{position()}" class="mf-ligne">
+              <xsl:if test="@xml:id"><xsl:attribute name="id" select="@xml:id"/></xsl:if>
+              <td data-sort="{$cle-forme}" data-f="{$cle-forme}" class="mf-c-nom">
+                <xsl:apply-templates select="tei:form/node()"/>
+              </td>
+              <td data-sort="{tf:plat($cat)}" data-f="{tf:plat($cat)}" class="mf-c-nom">
+                <xsl:choose>
+                  <xsl:when test="$cat != ''"><xsl:value-of select="$cat"/></xsl:when>
+                  <xsl:otherwise><span class="tf-vide">–</span></xsl:otherwise>
+                </xsl:choose>
+              </td>
+              <td data-sort="{$cle-def}" data-f="{$cle-def}" class="mf-c-nom">
+                <xsl:apply-templates select="tei:def/node()"/>
+              </td>
+            </tr>
+          </xsl:for-each>
+        </tbody>
+      </table>
+    </div>
+  </xsl:template>
+  <!--<xsl:template match="tei:entry[not(preceding-sibling::*[1][self::tei:entry])]">
+    <xsl:variable name="n" select="count(preceding-sibling::*[not(self::tei:entry)])"/>
+    <xsl:variable name="entrees"
+      select=". | following-sibling::tei:entry[count(preceding-sibling::*[not(self::tei:entry)]) = $n]"/>
+    <xsl:variable name="liste-cat" select="'tf-cat-' || generate-id()"/>
+    <div class="tf-cadre">
+      <xsl:call-template name="tf-barre">
+        <xsl:with-param name="total" select="count($entrees)"/>
+        <xsl:with-param name="unite" select="'entrées'"/>
+      </xsl:call-template>
+      <table data-csv-nom="glossaire" data-csv-entetes="Forme|Catégorie|Définition" class="mf-tableau">
+        <thead>
+          <tr>
+            <xsl:call-template name="tf-th">
+              <xsl:with-param name="libelle" select="'Forme'"/>
+            </xsl:call-template>
+            <xsl:call-template name="tf-th">
+              <xsl:with-param name="libelle" select="'Catégorie'"/>
+            </xsl:call-template>
+            <xsl:call-template name="tf-th">
+              <xsl:with-param name="libelle" select="'Définition'"/>
+            </xsl:call-template>
+          </tr>
+          <tr class="tf-filtres">
+            <xsl:call-template name="tf-filtre">
+              <xsl:with-param name="col" select="0"/>
+              <xsl:with-param name="libelle" select="'Forme'"/>
+            </xsl:call-template>
+            <xsl:call-template name="tf-filtre">
+              <xsl:with-param name="col" select="1"/>
+              <xsl:with-param name="libelle" select="'Catégorie'"/>
+              <xsl:with-param name="suggestions"
+                select="sort(distinct-values($entrees/tei:gramGrp/tei:pos ! replace(normalize-space(.), '\.(\p{L})', '. $1')))"/>
+              <xsl:with-param name="liste" select="$liste-cat"/>
+            </xsl:call-template>
+            <xsl:call-template name="tf-filtre">
+              <xsl:with-param name="col" select="2"/>
+              <xsl:with-param name="libelle" select="'Définition'"/>
+            </xsl:call-template>
+          </tr>
+        </thead>
+        <tbody>
+          <xsl:for-each select="$entrees">
+            <!-\- tri et filtre sur la forme sans le # ou le @ initial -\->
+            <xsl:variable name="cle-forme"
+              select="tf:plat(replace(string((tei:form)[1]), '^\s*[#@]\s*', ''))"/>
+            <!-\- s.m. et s.f. sont ramenés à s. m. et s. f. -\->
+            <xsl:variable name="cat"
+              select="replace(normalize-space(string-join(tei:gramGrp/tei:pos, ' ')), '\.(\p{L})', '. $1')"/>
+            <xsl:variable name="cle-def" select="tf:plat(string(tei:def))"/>
+            <tr data-o="{position()}">
+              <xsl:if test="@xml:id"><xsl:attribute name="id" select="@xml:id"/></xsl:if>
+              <td data-sort="{$cle-forme}" data-f="{$cle-forme}">
+                <xsl:apply-templates select="tei:form/node()"/>
+              </td>
+              <td data-sort="{tf:plat($cat)}" data-f="{tf:plat($cat)}">
+                <xsl:choose>
+                  <xsl:when test="$cat != ''"><xsl:value-of select="$cat"/></xsl:when>
+                  <xsl:otherwise><span class="tf-vide">–</span></xsl:otherwise>
+                </xsl:choose>
+              </td>
+              <td data-sort="{$cle-def}" data-f="{$cle-def}">
+                <xsl:apply-templates select="tei:def/node()"/>
+              </td>
+            </tr>
+          </xsl:for-each>
+        </tbody>
+      </table>
+    </div>
+  </xsl:template>-->
+  
+  <!-- Les autres entrées de la suite sont déjà dans le tableau -->
+  <xsl:template match="tei:entry"/>
+  
+  <xsl:template match="tei:ref[ancestor::tei:list[@type='index']]">
+    <xsl:variable name="livre" select="substring-before(./@target, '_')"/>
+    <a href="{concat($idResource, '?refId=', substring-after($livre, '#'), @target)}"><xsl:apply-templates/></a>
+  </xsl:template>
+  
+  <xsl:template match="tei:placeName | tei:persName">
+    <xsl:choose>
+      <!-- On est dans le document courant ET l'élément a un @key -->
+      <xsl:when test="@key">
+        <xsl:variable name="refId">
+          <xsl:choose>
+            <xsl:when test="self::tei:persName and ancestor::tei:div/starts-with(@xml:id, 'l')">
+              <xsl:value-of select="$person"/>
+            </xsl:when>
+            <xsl:when test="self::tei:placeName and ancestor::tei:div/starts-with(@xml:id, 'l')">
+              <xsl:value-of select="$place"/>
+            </xsl:when>
+          </xsl:choose>
+        </xsl:variable>
+        <a href="{concat($idResource, '?refId=', $refId, '#', @key)}">
+          <xsl:apply-templates/>
+        </a>
+      </xsl:when>
+      <xsl:otherwise>
+        <xsl:apply-templates/>
+      </xsl:otherwise>
+    </xsl:choose>
+  </xsl:template>
   
 </xsl:transform>

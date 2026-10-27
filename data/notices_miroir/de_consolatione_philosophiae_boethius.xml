@@ -75,7 +75,7 @@
       </projectDesc>
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
-          <citeData use="head" property="dct:title" />
+          <citeData use="string-join(head[1]/text(), '')" property="dct:title" />
           <citeStructure match="div" use="@xml:id" unit="traduction">
             <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">

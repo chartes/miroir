@@ -27,7 +27,7 @@
           <citeStructure match="div" use="@xml:id">
             <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
-              <citeData use="head" property="dct:title" />
+              <citeData use="string-join(head/text(), '')" property="dct:title" />
               <citeStructure match="div" use="@xml:id">
                 <citeData use="head" property="dct:title" />
                 <citeStructure match="div" use="@xml:id">
@@ -1000,7 +1000,7 @@
           <bibl>Dugaz (à paraître a)</bibl>
           </entryFree>
         -->
-        <list>
+        <!--<list>
           <item># abraser, v. tr. « mettre le feu à qqch »</item>
           <item># acoublé, adj. « accouplé »</item>
           <item># agreste, s. m. « paysan »</item>
@@ -1191,7 +1191,1322 @@
           <item>
             <emph>ydé, adj. « de l’Ide » (idaeus)</emph>
           </item>
-        </list>
+        </list>-->
+        <div type="entries">
+          <entry>
+          <form># abraser</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« mettre le feu à qqch »</def>
+        </entry>
+        <entry>
+          <form># acoublé</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« accouplé »</def>
+        </entry>
+        <entry>
+          <form># agreste</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def> « paysan »</def>
+        </entry>
+        <entry>
+          <form>albane</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« albain » (albanus)</def>
+        </entry>
+        <entry>
+          <form>aclydes</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def> « javelot attaché à une courroie » (aclys)</def>
+        </entry>
+        <entry>
+          <form>agez</form>
+          <gramGrp>
+            <pos>interj.</pos>
+          </gramGrp>
+          <def>« allez » (agite)</def>
+        </entry>
+        <entry>
+          <form>agillyne, agyline</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Agylla » (agyllinus)</def>
+        </entry>
+        <entry>
+          <form>alligere</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« ailé » (aliger)</def>
+        </entry>
+        <entry>
+          <form>amyterne</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Amiterne » (amiternus)</def>
+        </entry>
+        <entry>
+          <form>anile</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de vieille femme » (anilis)</def>
+        </entry>
+        <entry>
+          <form>antiguailles</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« édifices anciens »</def>
+        </entry>
+        <entry>
+          <form>arcade</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« arcadien » (arcadius)</def>
+        </entry>
+        <entry>
+          <form>argolique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« argien » (argolicus)</def>
+        </entry>
+        <entry>
+          <form>arunques arungues aronques</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Aurunca » (auruncus)</def>
+        </entry>
+        <entry>
+          <form>athemynance (var. athenience)</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« athénien » (athenaeus)</def>
+        </entry>
+        <entry>
+          <form># au</form>
+          <gramGrp>
+            <pos>prép.</pos>
+          </gramGrp>
+          <def>« avec »</def>
+        </entry>
+        <entry>
+          <form>ausonye, ausonnye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« ausonien » (ausonius)</def>
+        </entry>
+        <entry>
+          <form>averne</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de l’Averne » (avernus)</def>
+        </entry>
+        <entry>
+          <form># aysine</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« facilité, tranquillité »</def>
+        </entry>
+        <entry>
+          <form>bebricye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Bébrycie » (bebrycius)</def>
+        </entry>
+        <entry>
+          <form>bijugue</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« attelé de deux chevaux » (bijugis)</def>
+        </entry>
+        <entry>
+          <form>bisfronte</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui a deux fronts » (bifrons)</def>
+        </entry>
+        <entry>
+          <form>@ bride (à - abattue)</form>
+          <gramGrp>
+            <pos>loc. adv.</pos>
+          </gramGrp>
+          <def>« à grande vitesse »</def>
+        </entry>
+        <entry>
+          <form>bymembre</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« à deux membres » (bimembris)</def>
+        </entry>
+        <entry>
+          <form>bypatente</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui s’ouvre en deux » (bipatens)</def>
+        </entry>
+        <entry>
+          <form>@ caducee</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def> « baguette attribut d’Hermès » (caduceus)</def>
+        </entry>
+        <entry>
+          <form>@ candide</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’un blanc éclatant » (candidus)</def>
+        </entry>
+        <entry>
+          <form>canistre</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« panier » (canistra)</def>
+        </entry>
+        <entry>
+          <form>capenne</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Capène » (capenus)</def>
+        </entry>
+        <entry>
+          <form>capuensse</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Capoue » (capuensis)</def>
+        </entry>
+        <entry>
+          <form>casperique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Caspérie » (dér. de <hi rend="i">Casperia</hi>)</def>
+        </entry>
+        <entry>
+          <form>cateïe</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« arme de jet gauloise » (cateia)</def>
+        </entry>
+        <entry>
+          <form>cerberique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Cerbère » (dér. de <hi rend="i">Cerberus</hi>)</def>
+        </entry>
+        <entry>
+          <form># chail</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« silex »</def>
+        </entry>
+        <entry>
+          <form># chaillou</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« caillou »</def>
+        </entry>
+        <entry>
+          <form>chalcidique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Chalcis » (chalcidicus)</def>
+        </entry>
+        <entry>
+          <form># chanteau</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« morceau de pain »</def>
+        </entry>
+        <entry>
+          <form># choite, choitte</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« chute »</def>
+        </entry>
+        <entry>
+          <form>circee</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Circé » (circaeus)</def>
+        </entry>
+        <entry>
+          <form>classique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>erreur pour <hi rend="i">classes</hi> « troupes » (VII, 716)</def>
+        </entry>
+        <entry>
+          <form>claudye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de la famille Claudia » (claudius)</def>
+        </entry>
+        <entry>
+          <form>clusine</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Clusium » (clusinus)</def>
+        </entry>
+        <entry>
+          <form>cocytie</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« du Cocyte » (cocytius)</def>
+        </entry>
+        <entry>
+          <form># confronter</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« attribuer un terrain ou un bâtiment à qqn »</def>
+        </entry>
+        <entry>
+          <form>conte</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« perche à ramer » (contus)</def>
+        </entry>
+        <entry>
+          <form># cormyer</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« variété de sorbier, cormier »</def>
+        </entry>
+        <entry>
+          <form>@ corybante</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« prêtre de Cybèle » (corybantia)</def>
+        </entry>
+        <entry>
+          <form>cretensse</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Crète » (Cretenses)</def>
+        </entry>
+        <entry>
+          <form>cultrixe</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui habite » (cultrix)</def>
+        </entry>
+        <entry>
+          <form>cyclopee</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« des Cyclopes » (cyclopeus)</def>
+        </entry>
+        <entry>
+          <form>cytharee</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Cythère » (cythereius)</def>
+        </entry>
+        <entry>
+          <form>dardanye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Dardanus, Troyen » (dardanius)</def>
+        </entry>
+        <entry>
+          <form>dardanyen, dardanien</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Dardanus, Troyen » (dardanius)</def>
+        </entry>
+        <entry>
+          <form>daunyen</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Daunie, d’Apulie » (daunius)</def>
+        </entry>
+        <entry>
+          <form>@ desassortir</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« séparer d’un groupe »</def>
+        </entry>
+        <entry>
+          <form>diverberer</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« séparer en frappant » (diverberare)</def>
+        </entry>
+        <entry>
+          <form>dolone</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« bâton armé d’un fer très court » (dolo)</def>
+        </entry>
+        <entry>
+          <form># dormitoire</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« sommeil »</def>
+        </entry>
+        <entry>
+          <form>@ eburné</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« constitué d’ivoire » (eburnus)</def>
+        </entry>
+        <entry>
+          <form>@ egide</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« bouclier de Zeus » (aegis)</def>
+        </entry>
+        <entry>
+          <form>enfacher [var. Vérard defacher]</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« enclaver » ? (à rapprocher de Gdf 185a enhacher) ?</def>
+        </entry>
+        <entry>
+          <form># enffondre</form>
+          <gramGrp>
+            <pos>v. t.</pos>
+          </gramGrp>
+          <def>« faire couler »</def>
+        </entry>
+        <entry>
+          <form>ericienne</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« du mont Eryx » (erycinus)</def>
+        </entry>
+        <entry>
+          <form>eslisee</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de l’Elysée » (elysius)</def>
+        </entry>
+        <entry>
+          <form># esparer</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« étendre »</def>
+        </entry>
+        <entry>
+          <form>etholye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« Etolienne » (Aetolis)</def>
+        </entry>
+        <entry>
+          <form>@ etheré</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui se rapporte à l’air » (aetherius)</def>
+        </entry>
+        <entry>
+          <form>euboïque, euboÿque, emboÿque</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de l’Eubée » (euboicus)</def>
+        </entry>
+        <entry>
+          <form>evandrye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Evandre » (euandrius)</def>
+        </entry>
+        <entry>
+          <form>@ exasperer (s’-)</form>
+          <gramGrp>
+            <pos>v. pr.</pos>
+          </gramGrp>
+          <def>« s’irriter »</def>
+        </entry>
+        <entry>
+          <form>@ explorer</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« observer, examiner par les sens » (explorare)</def>
+        </entry>
+        <entry>
+          <form>exuvyes</form>
+          <gramGrp>
+            <pos>s. f. pl.</pos>
+          </gramGrp>
+          <def>« dépouilles » (exuviae)</def>
+        </entry>
+        <entry>
+          <form>@ fatidique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui prédit l’avenir » (fatidicus)</def>
+        </entry>
+        <entry>
+          <form>fescennin</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Fescennia, ville d’Etrurie » (fesceninus)</def>
+        </entry>
+        <entry>
+          <form>@ festival</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« fête »</def>
+        </entry>
+        <entry>
+          <form>flavinie</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Flavina, ville d’Etrurie » (flavinius)</def>
+        </entry>
+        <entry>
+          <form>frondeux</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« touffu » (frondosus)</def>
+        </entry>
+        <entry>
+          <form># fructier</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui porte des fruits »</def>
+        </entry>
+        <entry>
+          <form># garimant (à -)</form>
+          <gramGrp>
+            <pos>loc. adv.</pos>
+          </gramGrp>
+          <def>« en garantie »</def>
+        </entry>
+        <entry>
+          <form>garrule</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« gazouillant » (garrulus)</def>
+        </entry>
+        <entry>
+          <form>gelyde</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« gelé » (gelidus)</def>
+        </entry>
+        <entry>
+          <form>gnosye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Gnosse, de Crète » (gnosius)</def>
+        </entry>
+        <entry>
+          <form>hernique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« des Herniques » (hernicus)</def>
+        </entry>
+        <entry>
+          <form>honques</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« griffes » (unguis)</def>
+        </entry>
+        <entry>
+          <form># hosmeau</form>
+          <gramGrp>
+            <pos>s.m.</pos>
+          </gramGrp>
+          <def>« jeune orme »</def>
+        </entry>
+        <entry>
+          <form># housteau</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« montant de porte » ?</def>
+        </entry>
+        <entry>
+          <form>hybernye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« hivernal » (hibernus)</def>
+        </entry>
+        <entry>
+          <form>hymecye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>erreur pour umentia « humide » (VII, 763)</def>
+        </entry>
+        <entry>
+          <form>hyrquain</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Hyrcanie, province asiatique » (hyrcanus)</def>
+        </entry>
+        <entry>
+          <form>ignipotant, ignipotent</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« maître du feu, épithète de Vulcain » (ignipotens)</def>
+        </entry>
+        <entry>
+          <form>ingemyner</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« redoubler » (ingeminare)</def>
+        </entry>
+        <entry>
+          <form>innachie</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Argos, Argien » (inachius)</def>
+        </entry>
+        <entry>
+          <form>latita (se -)</form>
+          <gramGrp>
+            <pos>v. pr.</pos>
+          </gramGrp>
+          <def>« se cacher » (latitare)</def>
+        </entry>
+        <entry>
+          <form>liburnien</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Liburnie » (liburnus)</def>
+        </entry>
+        <entry>
+          <form>@ ligure</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Ligurie » (dér. de <hi rend="i">Ligur</hi>)</def>
+        </entry>
+        <entry>
+          <form>lore</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« courroie, lanière ? » (lorum, absent de Virgile X, 580)</def>
+        </entry>
+        <entry>
+          <form># lynomple</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« toile de lin fine »</def>
+        </entry>
+        <entry>
+          <form>lyrnesye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Lyrnesse, ville de la Troade » (lyrnessius)</def>
+        </entry>
+        <entry>
+          <form>magalie</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Magalia, quartier de Carthage » (dér. de <hi rend="i">Magalia</hi>)</def>
+        </entry>
+        <entry>
+          <form># mais (et -)</form>
+          <gramGrp>
+            <pos>conj.</pos>
+          </gramGrp>
+          <def>« et aussi »</def>
+        </entry>
+        <entry>
+          <form># mais (ne -)</form>
+          <gramGrp>
+            <pos>conj.</pos>
+          </gramGrp>
+          <def>« ni non plus »</def>
+        </entry>
+        <entry>
+          <form>malifere</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui produit des pommes » (malifer)</def>
+        </entry>
+        <entry>
+          <form>marrubye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Marrubium, ville des Marses » (marruvius)</def>
+        </entry>
+        <entry>
+          <form>maurusye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Mauritanie » (maurusius)</def>
+        </entry>
+        <entry>
+          <form>marpesye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Paros » (marpesius)</def>
+        </entry>
+        <entry>
+          <form>marssique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« des Marses, peuple du Latium » (marsicus)</def>
+        </entry>
+        <entry>
+          <form>massique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« du Massique » (massicus)</def>
+        </entry>
+        <entry>
+          <form>massille</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« Massyle, peuple voisin de la Numidie » (massylus)</def>
+        </entry>
+        <entry>
+          <form>meate</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« passage » (meatus)</def>
+        </entry>
+        <entry>
+          <form># meilleu, meillieu</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« milieu »</def>
+        </entry>
+        <entry>
+          <form>meotyde</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« des Méotes » (maeotius)</def>
+        </entry>
+        <entry>
+          <form>mephite</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« exhalaison méphitique venant du sol » (mephitis)</def>
+        </entry>
+        <entry>
+          <form># mestive</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« moisson »</def>
+        </entry>
+        <entry>
+          <form># mestiver</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« moissonner »</def>
+        </entry>
+        <entry>
+          <form>@ missile</form>
+          <gramGrp>
+            <pos>s. m. pl.</pos>
+          </gramGrp>
+          <def>« armes de trait considérées dans leur vol » (missile)</def>
+        </entry>
+        <entry>
+          <form>myertee (var. myrté)</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de myrte » (myrtaceus, absent de Virgile VI, 473)</def>
+        </entry>
+        <entry>
+          <form>@ nautique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« relatif à la navigation » (nauticus)</def>
+        </entry>
+        <entry>
+          <form>neptunye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Neptune » (neptunius)</def>
+        </entry>
+        <entry>
+          <form>noctivague</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui erre pendant la nuit » (noctivagus)</def>
+        </entry>
+        <entry>
+          <form>numade</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« Nomade, peuple errant de Numidie » (dér. de <hi rend="i">Nomades</hi>)</def>
+        </entry>
+        <entry>
+          <form>obpugnant</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« belliqueux » (oppugnare, absent de Virgile X, 276)</def>
+        </entry>
+        <entry>
+          <form>@ obsequieux</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« attentif, respectueux (d’une attitude) »</def>
+        </entry>
+        <entry>
+          <form>omnigene</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de toute forme » (omnigenus)</def>
+        </entry>
+        <entry>
+          <form>occrees</form>
+          <gramGrp>
+            <pos>s. f. pl.</pos>
+          </gramGrp>
+          <def>« jambières » (ocrea)</def>
+        </entry>
+        <entry>
+          <form>oënotrye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« oenotrien, italien » (oenotrius)</def>
+        </entry>
+        <entry>
+          <form>ortyns</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« d’Ortina » (dér. de <hi rend="i">Ortina</hi>)</def>
+        </entry>
+        <entry>
+          <form>palancee</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Pallantée » (pallanteus)</def>
+        </entry>
+        <entry>
+          <form># pampre</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« pampre »</def>
+        </entry>
+        <entry>
+          <form>peanique</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« à la manière des Péoniens » (paeonius)</def>
+        </entry>
+        <entry>
+          <form>@ pennache</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def> « bouquet de plumes porté sur le casque »</def>
+        </entry>
+        <entry>
+          <form>pheaques</form>
+          <def>« qui appartient aux Phéaciens » (dér. de Phaeaces)</def>
+        </entry>
+        <entry>
+          <form>papaver</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« pavot » (papaver)</def>
+        </entry>
+        <entry>
+          <form>pelte</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« petit bouclier en forme de croissant » (pelta)</def>
+        </entry>
+        <entry>
+          <form>peple</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« péplum » (peplum)</def>
+        </entry>
+        <entry>
+          <form>pistre</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« baleine » (pristis)</def>
+        </entry>
+        <entry>
+          <form># poste</form>
+          <gramGrp>
+            <pos>s.f.</pos>
+          </gramGrp>
+          <def>« planche de bois ; poutre »</def>
+        </entry>
+        <entry>
+          <form>pronube</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« celle qui accompagne et assiste la mariée » (pronuba)</def>
+        </entry>
+        <entry>
+          <form>propugnacule</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« ouvrage de défense, pont-levis ? » (propugnaculum)</def>
+        </entry>
+        <entry>
+          <form># pynyer</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« pin »</def>
+        </entry>
+        <entry>
+          <form>reflexe</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui se retourne » (refectere)</def>
+        </entry>
+        <entry>
+          <form>@ regie</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« palais royal » (regia)</def>
+        </entry>
+        <entry>
+          <form># remide, remyde</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« moyen d’échapper à une situation (généralement difficile) »</def>
+        </entry>
+        <entry>
+          <form>romulee</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Romulus » (romuleus)</def>
+        </entry>
+        <entry>
+          <form>rutule</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« des Rutules » (rutulus)</def>
+        </entry>
+        <entry>
+          <form>ryme</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« fissure » (rimosus)</def>
+        </entry>
+        <entry>
+          <form>salentin</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« des Salentins » (salentinus)</def>
+        </entry>
+        <entry>
+          <form>sarraste</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« appartenant au peuple des Sarrastes » (dér. de <hi rend="i">Sarrastes</hi>)</def>
+        </entry>
+        <entry>
+          <form># saulaie</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« lieu planté de saules »</def>
+        </entry>
+        <entry>
+          <form># saule</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« saule »</def>
+        </entry>
+        <entry>
+          <form>sebetride</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« du Sébéthos, fleuve de Campanie » (sebethis)</def>
+        </entry>
+        <entry>
+          <form>@ silvicole</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« qui habite les forêts » (siluicola)</def>
+        </entry>
+        <entry>
+          <form>@ sistre</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« instrument de musique à percussion » (sistrum)</def>
+        </entry>
+        <entry>
+          <form>spectacle</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« lieu d’observation en hauteur » (specula)</def>
+        </entry>
+        <entry>
+          <form>strymonye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« du Strymon, fleuve de Thrace » (strymonius)</def>
+        </entry>
+        <entry>
+          <form>supprimant</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« accablant » (Huguet)</def>
+        </entry>
+        <entry>
+          <form>sycane</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« sicilien » (sicanus)</def>
+        </entry>
+        <entry>
+          <form>sycanye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« sicilien » (sicanus)</def>
+        </entry>
+        <entry>
+          <form>syderëal</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« étoilé » (sidereus)</def>
+        </entry>
+        <entry>
+          <form>sydicine</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Sidicinum, ville de Campanie » (sidicinus)</def>
+        </entry>
+        <entry>
+          <form>sydonian</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Sidon » (sidonius)</def>
+        </entry>
+        <entry>
+          <form>sydonye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Sidon » (sidonius)</def>
+        </entry>
+        <entry>
+          <form># taiser, se taiser</form>
+          <gramGrp>
+            <pos>v. tr. ou pr.</pos>
+          </gramGrp>
+          <def>« (se) taire »</def>
+        </entry>
+        <entry>
+          <form>tarpeÿe</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« tarpéienne » (collocations siege t. pour <hi rend="i">Tarpeia sedex</hi> et arce t. pour <hi rend="i">T. arx</hi>)</def>
+        </entry>
+        <entry>
+          <form>tarquin</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Tarquin » (tarquinius)</def>
+        </entry>
+        <entry>
+          <form>@ taurin, thaurin</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« relatif au taureau »</def>
+        </entry>
+        <entry>
+          <form>temeré</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« maculé » (antonyme de intemeré, FEW 4, 739a intemeratus)</def>
+        </entry>
+        <entry>
+          <form>tergemine, tergemyne</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« né le troisième du même enfantement » (tergeminus)</def>
+        </entry>
+        <entry>
+          <form>thaure</form>
+          <gramGrp>
+            <pos>s. m.</pos>
+          </gramGrp>
+          <def>« taureau » (taurus)</def>
+        </entry>
+        <entry>
+          <form>thraÿcie</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Thrace » (threicius)</def>
+        </entry>
+        <entry>
+          <form>thuscan</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« étrusque » (tuscus)</def>
+        </entry>
+        <entry>
+          <form>thusque</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« étrusque » (tuscus)</def>
+        </entry>
+        <entry>
+          <form>thyrrenne, thyerrenne (var. thirrenne)</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« Tyrrhénien, de l’Etrurie » (tyrrhena)</def>
+        </entry>
+        <entry>
+          <form>tonitru</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« tonnant » (dér. de <hi rend="i">tonare</hi> IV, 510)</def>
+        </entry>
+        <entry>
+          <form>@ trabee</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« toge de pourpre antique pour les cérémonies d’apparat » (trabea)</def>
+        </entry>
+        <entry>
+          <form># trayne</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« poutre de bois »</def>
+        </entry>
+        <entry>
+          <form># tronsse</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« tronc d’arbre »</def>
+        </entry>
+        <entry>
+          <form>trude (var. trudens)</form>
+          <gramGrp>
+            <pos>s. f.</pos>
+          </gramGrp>
+          <def>« pique garnie de fer » (trudis)</def>
+        </entry>
+        <entry>
+          <form>turrigere</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« garni de tours » (turriger)</def>
+        </entry>
+        <entry>
+          <form>tybride</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« du Tibre » (dér. de <hi rend="i">Thybris</hi>)</def>
+        </entry>
+        <entry>
+          <form>tyburtin, tyburtyn</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Tibur » (tiburtinus)</def>
+        </entry>
+        <entry>
+          <form>trytonye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« Tritonien » (tritonius)</def>
+        </entry>
+        <entry>
+          <form>venabule</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« épieu de chasseur » (venabulum)</def>
+        </entry>
+        <entry>
+          <form>veteré</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« antique » (vetus)</def>
+        </entry>
+        <entry>
+          <form># vironner</form>
+          <gramGrp>
+            <pos>v. tr.</pos>
+          </gramGrp>
+          <def>« tourner autour » et intr. « circuler »</def>
+        </entry>
+        <entry>
+          <form>vulcanye</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de Vulcain » (vulcanius)</def>
+        </entry>
+        <entry>
+          <form>vyme</form>
+          <gramGrp>
+            <pos>s.</pos>
+          </gramGrp>
+          <def>« bois flexible » (vimen)</def>
+        </entry>
+        <entry>
+          <form>ybere</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« ibérique » (dér. <hi rend="i">Ibera</hi>)</def>
+        </entry>
+        <entry>
+          <form>ydé</form>
+          <gramGrp>
+            <pos>adj.</pos>
+          </gramGrp>
+          <def>« de l’Ide » (idaeus)</def>
+        </entry>
+        </div>
       </div>
       <div>
         <head>5. Bibliographie</head>
