@@ -393,18 +393,19 @@
     <xsl:variable name="notes">
       <xsl:if test="$app">
         <xsl:variable name="apparatus">
-          <xsl:choose>
-            <xsl:when test="$cont">
-              <xsl:for-each select="$cont // tei:app">
+          <xsl:for-each select="$cont//tei:app">
+            <xsl:choose>
+              <xsl:when test="tei:lem/tei:l">
+                <xsl:call-template name="note-app-bloc"/>
+              </xsl:when>
+              <xsl:when test="not(tei:lem)">
+                <xsl:call-template name="app-no-lem"/>
+              </xsl:when>
+              <xsl:otherwise>
                 <xsl:call-template name="note-inline"/>
-              </xsl:for-each>
-            </xsl:when>
-            <xsl:otherwise>
-              <xsl:for-each select="$cont // tei:app">
-                <xsl:call-template name="note-inline"/>
-              </xsl:for-each>
-            </xsl:otherwise>
-          </xsl:choose>
+              </xsl:otherwise>
+            </xsl:choose>
+          </xsl:for-each>
         </xsl:variable>
         <xsl:if test="$apparatus != ''">
           <p class="apparatus">
@@ -414,9 +415,9 @@
       </xsl:if>
       <xsl:choose>
         <xsl:when test=" $pb">
-          <!-- MODIF 2 : filtre sur les notes avant le premier pb -->
+          <!-- MODIF : filtre sur les notes avant le premier pb -->
           <xsl:variable name="notes1"
-            select="key('note-pb', '')[not(@place='inline' or ancestor::tei:bibl or parent::tei:choice or parent::tei:app)]"/>
+            select="key('note-pb', '')[not(@place='inline' or ancestor::tei:bibl or parent::tei:choice or ancestor::tei:app)]"/>
           <xsl:if test="$notes1">
             <div class="page">
               <xsl:for-each select="$notes1[@resp = 'author'][not(@place = 'margin')]">
@@ -433,7 +434,7 @@
           <xsl:for-each select="$pb">
             <!-- MODIF 3 : filtre sur les notes de chaque page -->
             <xsl:variable name="pbnotes"
-              select="key('note-pb', generate-id())[not(@place='inline' or ancestor::tei:bibl or parent::tei:choice or parent::tei:app)]"/>
+              select="key('note-pb', generate-id())[not(@place='inline' or ancestor::tei:bibl or parent::tei:choice or ancestor::tei:app)]"/>
             <xsl:variable name="notes4page">
               <xsl:for-each select="$pbnotes[@resp = 'author'][not(@place = 'margin')]">
                 <xsl:call-template name="note"/>
@@ -466,7 +467,7 @@
         </xsl:when>
         <xsl:when test="$cont">
           <!-- MODIF 4 : filtre sur la branche « peu efficace » -->
-          <xsl:for-each select="$cont //tei:note[not(parent::tei:choice or parent::tei:app)]">
+          <xsl:for-each select="$cont //tei:note[not(parent::tei:choice or ancestor::tei:app)]">
             <xsl:sort select="@place|@resp"/>
             <xsl:call-template name="fn"/>
           </xsl:for-each>
@@ -515,8 +516,8 @@
         <xsl:with-param name="total" select="count(tei:entry)"/>
         <xsl:with-param name="unite" select="'entrées'"/>
       </xsl:call-template>
-      <table class="sortable mf-tableau mf-noms">
-        <caption class="mf-tableau-legende">Cliquer sur un en-tête de colonne pour trier (un second clic inverse l’ordre).</caption>
+      <table class="tf-tableau" data-csv-nom="glossaire" data-csv-entetes="Forme|Définition">
+        <caption class="tf-legende">Cliquer sur un en-tête de colonne pour trier (un second clic inverse l’ordre).</caption>
         <thead>
           <tr>
             <xsl:call-template name="tf-th">
@@ -580,76 +581,6 @@
       </table>
     </div>
   </xsl:template>
-  <!--<xsl:template match="tei:entry[not(preceding-sibling::*[1][self::tei:entry])]">
-    <xsl:variable name="n" select="count(preceding-sibling::*[not(self::tei:entry)])"/>
-    <xsl:variable name="entrees"
-      select=". | following-sibling::tei:entry[count(preceding-sibling::*[not(self::tei:entry)]) = $n]"/>
-    <xsl:variable name="liste-cat" select="'tf-cat-' || generate-id()"/>
-    <div class="tf-cadre">
-      <xsl:call-template name="tf-barre">
-        <xsl:with-param name="total" select="count($entrees)"/>
-        <xsl:with-param name="unite" select="'entrées'"/>
-      </xsl:call-template>
-      <table data-csv-nom="glossaire" data-csv-entetes="Forme|Catégorie|Définition" class="mf-tableau">
-        <thead>
-          <tr>
-            <xsl:call-template name="tf-th">
-              <xsl:with-param name="libelle" select="'Forme'"/>
-            </xsl:call-template>
-            <xsl:call-template name="tf-th">
-              <xsl:with-param name="libelle" select="'Catégorie'"/>
-            </xsl:call-template>
-            <xsl:call-template name="tf-th">
-              <xsl:with-param name="libelle" select="'Définition'"/>
-            </xsl:call-template>
-          </tr>
-          <tr class="tf-filtres">
-            <xsl:call-template name="tf-filtre">
-              <xsl:with-param name="col" select="0"/>
-              <xsl:with-param name="libelle" select="'Forme'"/>
-            </xsl:call-template>
-            <xsl:call-template name="tf-filtre">
-              <xsl:with-param name="col" select="1"/>
-              <xsl:with-param name="libelle" select="'Catégorie'"/>
-              <xsl:with-param name="suggestions"
-                select="sort(distinct-values($entrees/tei:gramGrp/tei:pos ! replace(normalize-space(.), '\.(\p{L})', '. $1')))"/>
-              <xsl:with-param name="liste" select="$liste-cat"/>
-            </xsl:call-template>
-            <xsl:call-template name="tf-filtre">
-              <xsl:with-param name="col" select="2"/>
-              <xsl:with-param name="libelle" select="'Définition'"/>
-            </xsl:call-template>
-          </tr>
-        </thead>
-        <tbody>
-          <xsl:for-each select="$entrees">
-            <!-\- tri et filtre sur la forme sans le # ou le @ initial -\->
-            <xsl:variable name="cle-forme"
-              select="tf:plat(replace(string((tei:form)[1]), '^\s*[#@]\s*', ''))"/>
-            <!-\- s.m. et s.f. sont ramenés à s. m. et s. f. -\->
-            <xsl:variable name="cat"
-              select="replace(normalize-space(string-join(tei:gramGrp/tei:pos, ' ')), '\.(\p{L})', '. $1')"/>
-            <xsl:variable name="cle-def" select="tf:plat(string(tei:def))"/>
-            <tr data-o="{position()}">
-              <xsl:if test="@xml:id"><xsl:attribute name="id" select="@xml:id"/></xsl:if>
-              <td data-sort="{$cle-forme}" data-f="{$cle-forme}">
-                <xsl:apply-templates select="tei:form/node()"/>
-              </td>
-              <td data-sort="{tf:plat($cat)}" data-f="{tf:plat($cat)}">
-                <xsl:choose>
-                  <xsl:when test="$cat != ''"><xsl:value-of select="$cat"/></xsl:when>
-                  <xsl:otherwise><span class="tf-vide">–</span></xsl:otherwise>
-                </xsl:choose>
-              </td>
-              <td data-sort="{$cle-def}" data-f="{$cle-def}">
-                <xsl:apply-templates select="tei:def/node()"/>
-              </td>
-            </tr>
-          </xsl:for-each>
-        </tbody>
-      </table>
-    </div>
-  </xsl:template>-->
   
   <!-- Les autres entrées de la suite sont déjà dans le tableau -->
   <xsl:template match="tei:entry"/>
@@ -665,7 +596,7 @@
       <xsl:when test="@key">
         <xsl:variable name="refId">
           <xsl:choose>
-            <xsl:when test="self::tei:persName and ancestor::tei:div/starts-with(@xml:id, 'l')">
+            <xsl:when test="self::tei:persName and not(ancestor::tei:div/@type = 'traduction') and ancestor::tei:div/starts-with(@xml:id, 'l')">
               <xsl:value-of select="$person"/>
             </xsl:when>
             <xsl:when test="self::tei:placeName and ancestor::tei:div/starts-with(@xml:id, 'l')">
@@ -681,6 +612,54 @@
         <xsl:apply-templates/>
       </xsl:otherwise>
     </xsl:choose>
+  </xsl:template>
+  
+  <xsl:template match="tei:app[tei:lem/tei:l]" priority="2">
+    <xsl:variable name="n" select="@n"/>  
+    <!-- renvoi de note : même code que dans ton template tei:app actuel -->
+    <xsl:for-each select="tei:lem/tei:l">
+      <xsl:variable name="id" select="./@xml:id"/>
+      <div xml:id="{$id}" class="l">
+        <xsl:value-of select="."/>
+        <xsl:if test="position() = last()">
+          <a id="{$n}_" class="noteref" href="#{$n}">
+            <sup><xsl:value-of select="$n"/></sup>
+          </a>
+        </xsl:if>
+      </div>
+    </xsl:for-each>
+  </xsl:template>
+  
+  <xsl:template name="note-app-bloc">
+    <!-- contexte : tei:app -->
+    <xsl:variable name="id" select="@n"/>
+    <span class="note" id="{$id}">
+      <a href="#{$id}_"><xsl:value-of select="$id"/></a>
+      <span class="lem">
+        <xsl:for-each select="tei:lem/tei:l">
+          <xsl:value-of select="."/><xsl:text> </xsl:text>
+        </xsl:for-each>
+      </span>
+      <span class="rdg"><xsl:value-of select="./tei:rdg"/><xsl:text> </xsl:text><i class="wit"><xsl:value-of select="./tei:rdg/substring-after(@wit, '#')"/></i></span>
+    </span>
+  </xsl:template>
+  
+  <xsl:template match="tei:app[tei:lem/tei:l]" mode="app-note" priority="2">
+    <xsl:apply-templates select="node()"/>
+    <xsl:if test="following-sibling::tei:l"><xsl:text> / </xsl:text></xsl:if>
+  </xsl:template>
+  
+  <xsl:template name="app-no-lem">
+    <xsl:variable name="id" select="@n"/>
+    <span class="note" id="app{$id}">
+      <a href="#app{$id}_"><xsl:value-of select="$id"/></a>
+      <span class="lem">Omis</span>
+      <xsl:apply-templates select="./tei:rdg"/>
+    </span>
+  </xsl:template>
+  
+  <xsl:template match="tei:lem/tei:note | tei:app/tei:note">
+    <span class="note-inline-app"> <xsl:apply-templates/> </span>
   </xsl:template>
   
 </xsl:transform>

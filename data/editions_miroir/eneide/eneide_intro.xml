@@ -24,7 +24,7 @@
       <refsDecl>
         <citeStructure match="/TEI[1]/text[1]/body[1]/div" use="@xml:id" unit="partie">
           <citeData use="head" property="dct:title" />
-          <citeStructure match="div" use="@xml:id">
+          <citeStructure match="div[not(@type='entries')]" use="@xml:id">
             <citeData use="head" property="dct:title" />
             <citeStructure match="div" use="@xml:id">
               <citeData use="string-join(head/text(), '')" property="dct:title" />

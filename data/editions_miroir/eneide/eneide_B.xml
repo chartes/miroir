@@ -35,10 +35,7 @@
         <idno>http://elec.enc.sorbonne.fr/</idno>
         <idno type="vol">17</idno>
       </seriesStmt>
-
-      <!-- notice bibliographique du document source (<bibl> : livre imprimé ; <msDesc> : manuscrit) -->
-
-      <notesStmt>
+ <notesStmt>
         <note type="citation">Lucien Dugaz, Frederic Duval (ed.), Traduction de l'Eneide par Octovien de Saint-Gelais, Ecole nationale des chartes - PSL, 2026.</note></notesStmt>
       <sourceDesc>
         <msDesc>
@@ -83,8 +80,8 @@
               </citeStructure>-->
           </citeStructure>
         </citeStructure>
-        <citeStructure match="/TEI[1]/text[1]/back[1]/div//list" use="@xml:id">
-          <citeData use="./preceding-sibling::head[1]" property="dct:title"/>
+        <citeStructure match="/TEI[1]/text[1]/back[1]/div/div" use="@xml:id">
+          <citeData use="head" property="dct:title"/>
         </citeStructure>
       </refsDecl>
 
@@ -1018,7 +1015,7 @@
           <l n="617" xml:id="lI_v617">
             <add resp="copist">Là choisist il ses sieges de repos</add></l>
           <l n="618" xml:id="lI_v618">
-            <add resp="copist">Et à la gent donna noms et impos ;</add><note>Ces deux vers sont ajoutés sur une paperolle.</note></l>
+            <add resp="copist">Et à la gent donna noms et impos ;</add><note n="1">Ces deux vers sont ajoutés sur une paperolle.</note></l>
           <l n="619" xml:id="lI_v619">La <corr resp="copist">posa</corr> il ses armes et bannyeres,</l>
           <l n="620" xml:id="lI_v620">Donnant menasses aulx estranges fronctieres ;</l>
           <l n="621" xml:id="lI_v621">Là vit il or en desiree paix</l>
@@ -5403,8 +5400,8 @@
                     <pb n="27c"/>
                     <l n="93" xml:id="lIII_v93">Ne souille point tes trespiteuses mains</l>
                     <l n="94" xml:id="lIII_v94">Dedans le <corr resp="copist">sanc</corr> des trespassés humains !</l>
-                  <l n="95" xml:id="lIII_v95">Pas ne te suys estranger ne contrayre<note>Le ms A intervertit ces deux vers</note>,</l>
-                    <l n="96" xml:id="lIII_v96">De <placeName key="Troia">Troye</placeName> fuz, comme toy, sans retraire<note>Le vers précédant celui-ci a été copié deux fois puis gratté, mais non remplacé dans B, nous corrigeons d'après A.</note>,</l>
+                  <l n="95" xml:id="lIII_v95">Pas ne te suys estranger ne contrayre<note n="1">Le ms A intervertit ces deux vers</note>,</l>
+                    <l n="96" xml:id="lIII_v96">De <placeName key="Troia">Troye</placeName> fuz, comme toy, sans retraire<note n="2">Le vers précédant celui-ci a été copié deux fois puis gratté, mais non remplacé dans B, nous corrigeons d'après A.</note>,</l>
                     <l n="97" xml:id="lIII_v97">Mays ton parent prouchain et alyé</l>
                     <l n="98" xml:id="lIII_v98">Mort m'a sans plus, du lyan deslyé.</l>
                     <l n="99" xml:id="lIII_v99">Se sang yssu, dont as veu maincte goucte,</l>
@@ -5873,7 +5870,8 @@
                     <l n="456" xml:id="lIII_v456">À <persName key="Apollo">Apollo</persName> et que l'on s'apareille</l>
                     <l n="457" xml:id="lIII_v457">Suyvre fortune meilleure en l'advenir :</l>
                     <l n="458" xml:id="lIII_v458">Ainsy pourrons à bon port parvenir. »</l>
-                    <lg corresp="189-246">
+                </lg>
+              <lg xml:id="lIII_15" corresp="189-246">
                         <l n="459" xml:id="lIII_v459">Quant il eut dit, tous fusmes promps et prestz</l>
                         <l n="460" xml:id="lIII_v460">Et de partir feismes soingneux aprestz.</l>
                         <l n="461" xml:id="lIII_v461">Ce lieu layssasmes où pourtant demourerent</l>
@@ -6030,7 +6028,7 @@
                         <l n="589" xml:id="lIII_v589">Messagiere de toute adverssité,</l>
                         <l n="590" xml:id="lIII_v590">Nous denunça telle infelicité :</l>
                     </lg>
-                    <lg corresp="247-257">
+              <lg xml:id="lIII_16" corresp="247-257">
                         <l n="591" xml:id="lIII_v591">« Faictes vous guerre, o <persName key="Laomedontiadae">Laumedonciades</persName>,</l>
                         <l n="592" xml:id="lIII_v592">Faictes vous guerre en noz isles <placeName key="Strophades">Strophades</placeName></l>
                         <l n="593" xml:id="lIII_v593">Aprés avoir, par vos <app n="u">
@@ -6066,7 +6064,7 @@
                             </choice> l'oultraige et mesfait</l>
                         <l n="614" xml:id="lIII_v614">Que contre nous sans rayson avez fait ! »</l>
                     </lg>
-                    <lg corresp="258-266">
+              <lg xml:id="lIII_17" corresp="258-266">
                         <l n="615" xml:id="lIII_v615">Cella nous dist pour finales nouvelles,</l>
                         <l n="616" xml:id="lIII_v616">Puys hault se lyeve et meist au vent ses esles.</l>
                         <l n="617" xml:id="lIII_v617">Lors crainte et peur le sang nous congella</l>
@@ -6091,7 +6089,7 @@
                             rye,</l>
                         <l n="632" xml:id="lIII_v632">Soyez piteux aux piteux je vous prye ! »</l>
                     </lg>
-                    <lg corresp="266-277">
+              <lg xml:id="lIII_18" corresp="266-277">
                         <l n="633" xml:id="lIII_v633"><del resp="copist">inc</del>Incontinant feist les ancres lever,</l>
                         <l n="634" xml:id="lIII_v634">Lasche<corr resp="copist">r</corr> les cordes et voilles eslever</l>
                         <l n="635" xml:id="lIII_v635">Dedans lesquelles le vent se fiert et boutte,</l>
@@ -6129,7 +6127,7 @@
                         <l n="657" xml:id="lIII_v657">Recuyllis fusmes : les nautonniers gecterent</l>
                         <l n="658" xml:id="lIII_v658">Encres en mer et noz nefz arresterent.</l>
                     </lg>
-                    <lg corresp="278-288">
+              <lg xml:id="lIII_19" corresp="278-288">
                         <l n="659" xml:id="lIII_v659">Nous, aprés payne doncques exasperee,</l>
                         <l n="660" xml:id="lIII_v660"><persName key="Venus">Venus</persName> à terre nullement esperee,</l>
                         <l n="661" xml:id="lIII_v661">Moult rejouys à <persName key="Iuppiter">Jupiter</persName> faysons</l>
@@ -6174,7 +6172,7 @@
                         <l n="690" xml:id="lIII_v690">Quant leur fureur <placeName key="Troia">Troye</placeName>
                             persecuta »</l>
                     </lg>
-                    <lg corresp="289-309">
+              <lg xml:id="lIII_20" corresp="289-309">
                         <l n="691" xml:id="lIII_v691">Tantost aprés feiz nostre navigaige</l>
                         <l n="692" xml:id="lIII_v692">Tout aprester pour laysser ce rivaige :</l>
                         <pb n="31b"/>
@@ -6245,7 +6243,7 @@
                         <l n="745" xml:id="lIII_v745">Jaçoyt pourtant que regrect la poursuyt,</l>
                         <l n="746" xml:id="lIII_v746">En peu de motz me dist ce que s'ensuyt :</l>
                     </lg>
-                    <lg corresp="310-312">
+              <lg xml:id="lIII_21" corresp="310-312">
                         <l n="747" xml:id="lIII_v747">« Filz de deesse, laz ! dy moy sy ta face</l>
                         <l n="748" xml:id="lIII_v748">Est vraye ou non ou sy c'est point fallace,</l>
                         <l n="749" xml:id="lIII_v749">Et sy tu es vray et seur messaigier</l>
@@ -6255,7 +6253,7 @@
                         <l n="753" xml:id="lIII_v753">Où est <persName key="Hector">Hector</persName> le myen leal
                             espoux ? »</l>
                     </lg>
-                    <lg corresp="312-314">
+              <lg xml:id="lIII_22" corresp="312-314">
                         <l n="754" xml:id="lIII_v754">Atant se teust et fina son propoux,</l>
                         <l n="755" xml:id="lIII_v755">Puys gecta lermes en sy grand habundance</l>
                         <l n="756" xml:id="lIII_v756">Que tout ce lieu en faysoyt resonance.</l>
@@ -6264,7 +6262,7 @@
                         <l n="759" xml:id="lIII_v759">Et tout troublé de son courroux et yre</l>
                         <l n="760" xml:id="lIII_v760">Luy coumanssay en brief langaige dire :</l>
                     </lg>
-                    <lg corresp="315-319">
+              <lg xml:id="lIII_23" corresp="315-319">
                         <l n="761" xml:id="lIII_v761">« Certes je vifz, et ma vie finale</l>
                         <l n="762" xml:id="lIII_v762">Maine et conduys par ruyne fatale.</l>
                         <l n="763" xml:id="lIII_v763">Ne doubte point, car ce qu'ores tu voys,</l>
@@ -6282,13 +6280,13 @@
                             espouse ?</l>
                         <l n="774" xml:id="lIII_v774">Certainement lëaulté s'y oppouse. »</l>
                     </lg>
-                    <lg corresp="320">
+              <lg xml:id="lIII_24" corresp="320">
                         <l n="775" xml:id="lIII_v775">Lors eust vergoigne et le visaige besse,</l>
                         <l n="776" xml:id="lIII_v776">Comme coulpable de folye ou simplesse,</l>
                         <l n="777" xml:id="lIII_v777">Et à voix feible, tant que coulleur mua,</l>
                         <l n="778" xml:id="lIII_v778">Piteux propos ainsy continua :</l>
                     </lg>
-                    <lg corresp="321-343">
+              <lg xml:id="lIII_25" corresp="321-343">
                         <l n="779" xml:id="lIII_v779">« O mon<corr resp="copist">lt</corr> heu<add resp="copist">r</add>euse et hors de
                             trop grand paine</l>
                         <l n="780" xml:id="lIII_v780">Entre aultres fut la vierge <persName key="Polyxena">Polixenne</persName></l>
@@ -6363,7 +6361,7 @@
                             faitz</l>
                         <l n="834" xml:id="lIII_v834">Pour en user ainssy comme tu faiz ? »</l>
                     </lg>
-                    <lg corresp="344-358">
+              <lg xml:id="lIII_26" corresp="344-358">
                         <l n="835" xml:id="lIII_v835">Telles parolles et lamentables termes</l>
                         <l n="836" xml:id="lIII_v836">Elle disoit, faysant souspirs et lermes.</l>
                         <l n="837" xml:id="lIII_v837">Lors descendit de la haulte cité</l>
@@ -6405,7 +6403,7 @@
                         <l n="866" xml:id="lIII_v866">À <persName key="Helenus">Helenus</persName> par devote
                             requeste :</l>
                     </lg>
-                    <lg corresp="359-368">
+              <lg xml:id="lIII_27" corresp="359-368">
                         <l n="867" xml:id="lIII_v867">« Noble <persName key="Troianus">Troyen</persName>, divin
                             interpreteur</l>
                         <l n="868" xml:id="lIII_v868">Qui s<del resp="copist">c</del>ens et sçais, vray vaticinateur</l>
@@ -6443,7 +6441,7 @@
                         <l n="892" xml:id="lIII_v892">Et nous cause grande merancolye ! »</l>
                         <pb n="32c"/>
                     </lg>
-                    <lg corresp="369-373">
+              <lg xml:id="lIII_28" corresp="369-373">
                         <l n="893" xml:id="lIII_v893">Lors <persName key="Helenus">Helenus</persName> ses deux genoulx
                             plya,</l>
                         <l n="894" xml:id="lIII_v894">Deux veaulx occist et les sacriffia</l>
@@ -6454,7 +6452,7 @@
                         <l n="899" xml:id="lIII_v899">Me reveilla et du tout vaticine</l>
                         <l n="900" xml:id="lIII_v900">Mon cas futur par sa bouche divine :</l>
                     </lg>
-                    <lg corresp="374-462">
+              <lg xml:id="lIII_29" corresp="374-462">
                         <l n="901" xml:id="lIII_v901">« Filz de deesse, la foy est manifeste</l>
                         <l n="902" xml:id="lIII_v902">Qu'encor te fault de mer passer grand reste.</l>
                         <l n="903" xml:id="lIII_v903">À plus grans sors te convient parvenir :</l>
@@ -6696,7 +6694,7 @@
                             renommee,</l>
                         <l n="1088" xml:id="lIII_v1088">Qui par nul aige point ne soyt consummee ! »</l>
                     </lg>
-                    <lg corresp="463-474">
+              <lg xml:id="lIII_30" corresp="463-474">
                         <l n="1089" xml:id="lIII_v1089">Quant <persName key="Helenus">Helenus</persName> eut son propos
                                 finé<del resp="copist">s</del></l>
                         <l n="1090" xml:id="lIII_v1090">Et desclairé le cas determiné,</l>
@@ -6725,7 +6723,7 @@
                             commance</l>
                         <l n="1110" xml:id="lIII_v1110">Tenir propos en doulce reverance :</l>
                     </lg>
-                    <lg corresp="475-481">
+              <lg xml:id="lIII_31" corresp="475-481">
                         <l n="1111" xml:id="lIII_v1111">« O <persName key="Anchises">Anchisés</persName>, dist doncques
                                 <persName key="Helenus">Helenus</persName>,</l>
                         <l n="1112" xml:id="lIII_v1112">Digne d'avoir esté joinct à <persName key="Venus">Venus</persName>,</l>
@@ -6741,7 +6739,7 @@
                         <l n="1121" xml:id="lIII_v1121">Ja n'est besoing que parle plus avant</l>
                         <l n="1122" xml:id="lIII_v1122">Puysqu'or avez en vos voylles le vent. »</l>
                     </lg>
-                    <lg corresp="482-491">
+              <lg xml:id="lIII_32" corresp="482-491">
                         <l n="1123" xml:id="lIII_v1123">Ja meindre deil ne faysoit à celle heure</l>
                         <l n="1124" xml:id="lIII_v1124"><persName key="Andromache">Andromacque</persName> qui piteusement
                             pleure,</l>
@@ -6772,13 +6770,13 @@
                         <l n="1147" xml:id="lIII_v1147">Avecques toy de croystre et augmenter</l>
                         <l n="1148" xml:id="lIII_v1148">Le nom troyan par armes frequanter ! »</l>
                     </lg>
-                    <lg corresp="492">
+              <lg xml:id="lIII_33" corresp="492">
                         <l n="1149" xml:id="lIII_v1149">En ce propos nous feismes despartye</l>
                         <l n="1150" xml:id="lIII_v1150">Et en pleignant l'une et l'aultre partye</l>
                         <l n="1151" xml:id="lIII_v1151">En pleurs et plains, en lermes tout plongé,</l>
                         <l n="1152" xml:id="lIII_v1152">Ses motz leurs diz, prenant d'iceulx congé :</l>
                     </lg>
-                    <lg corresp="493-505">
+              <lg xml:id="lIII_34" corresp="493-505">
                         <l n="1153" xml:id="lIII_v1153">« Vivez he<add resp="copist">u</add>reux, laz ! bien le povez faire,</l>
                         <l n="1154" xml:id="lIII_v1154">Vous qui estes à ffin de vostre a<add resp="copist">f</add>faire !</l>
                         <l n="1155" xml:id="lIII_v1155">Nous, malheureux, miserables, meschans,</l>
@@ -6814,7 +6812,7 @@
                         <l n="1181" xml:id="lIII_v1181">Telle alliance comme avec vous je veulx</l>
                         <l n="1182" xml:id="lIII_v1182">Ayent les nostres successeurs et nepveux. »</l>
                     </lg>
-                    <lg corresp="506-529">
+              <lg xml:id="lIII_35" corresp="506-529">
                         <l n="1183" xml:id="lIII_v1183">Aprés ses motz vent et mer nous emportent</l>
                         <l n="1184" xml:id="lIII_v1184">Et hors d'<placeName key="Epirus">Epyre</placeName> promptement nous
                             transportent.</l>
@@ -6886,7 +6884,7 @@
                         <l n="1239" xml:id="lIII_v1239">Je vous supply qu'à presant nous donnez</l>
                         <l n="1240" xml:id="lIII_v1240">Voye facile <add resp="copist">et</add> que bien nous menez ! »</l>
                     </lg>
-                    <lg corresp="530-538">
+              <lg xml:id="lIII_36" corresp="530-538">
                         <l n="1241" xml:id="lIII_v1241">Quant il eut fait ce le<corr resp="copist">ger</corr> saccrifice,</l>
                         <l n="1242" xml:id="lIII_v1242">De mieulx en mieulx eusmes le vent propice</l>
                         <l n="1243" xml:id="lIII_v1243">Et tost aprés, par visible rapport,</l>
@@ -6914,7 +6912,7 @@
                                 <note>Quattuor hic, primum omen, equos in gramine uidi / tondentis campum late, candore niuali (III, 537-538)</note>
                             </app>.</l>
                     </lg>
-                    <lg corresp="539-543">
+              <lg xml:id="lIII_37" corresp="539-543">
                         <l n="1261" xml:id="lIII_v1261">Dist <persName key="Anchises">Anchisés</persName> : « o la
                             terre où nous sommes</l>
                         <l n="1262" xml:id="lIII_v1262">Qui as receu nous pouvres fuytifz hommes,</l>
@@ -6935,7 +6933,7 @@
                         <l n="1273" xml:id="lIII_v1273">Ce pour certain doyt donner esperance</l>
                         <l n="1274" xml:id="lIII_v1274">De paix prochaine, ainssy le croy et pance. »</l>
                     </lg>
-                    <lg corresp="543-557">
+              <lg xml:id="lIII_38" corresp="543-557">
                         <l n="1275" xml:id="lIII_v1275">Lo<corr resp="copist">rs</corr> implorons la saincte deïté</l>
                         <l n="1276" xml:id="lIII_v1276">De la deesse qui, sans advercité,</l>
                         <l n="1277" xml:id="lIII_v1277">Premier nous ha en ce port et rivaige</l>
@@ -6979,7 +6977,7 @@
                         <l n="1303" xml:id="lIII_v1303">Et les harennes par soubdain mouvement</l>
                         <l n="1304" xml:id="lIII_v1304">Entremeslees en ses eaulx rudement.</l>
                     </lg>
-                    <lg corresp="558-560">
+              <lg xml:id="lIII_39" corresp="558-560">
                         <l n="1305" xml:id="lIII_v1305">Quant <persName key="Anchises">Anchisés</persName> escouta quelque
                             pause</l>
                         <l n="1306" xml:id="lIII_v1306">Se bruyt marin, dist à coup, non sans cause :</l>
@@ -6988,7 +6986,7 @@
                         <l n="1309" xml:id="lIII_v1309">Fuyons d'ycy, esloignons ceste voye,</l>
                         <l n="1310" xml:id="lIII_v1310">Et de remyde chacun pance et pourvoye ! »</l>
                     </lg>
-                    <lg corresp="561-582">
+              <lg xml:id="lIII_40" corresp="561-582">
                         <l n="1311" xml:id="lIII_v1311">Ainssy le feirent comme il eut ordonné</l>
                         <l n="1312" xml:id="lIII_v1312">Et fut allors le gouvernal tourné</l>
                         <l n="1313" xml:id="lIII_v1313">Par <persName key="Palinurus">Palynure</persName>, et la voille
@@ -7039,7 +7037,7 @@
                         <l n="1347" xml:id="lIII_v1347">De tel montaigne qui n'est ext<corr resp="copist">er</corr>minee</l>
                         <l n="1348" xml:id="lIII_v1348">Pour feu qui ysse de sa grand cheminee.</l>
                     </lg>
-                    <lg corresp="583-599">
+              <lg xml:id="lIII_41" corresp="583-599">
                         <l n="1349" xml:id="lIII_v1349">La nuyt passasmes dedans les boys mussez</l>
                         <l n="1350" xml:id="lIII_v1350">Où de grans monstres nous peusmes voyr assez.</l>
                         <l n="1351" xml:id="lIII_v1351">Ja ne povons percevoir ne entendre</l>
@@ -7084,7 +7082,7 @@
                         <l n="1379" xml:id="lIII_v1379">Venir à nous au port, en pleurs et larmes</l>
                         <l n="1380" xml:id="lIII_v1380">Nous comança exorter par tieulx termes :</l>
                     </lg>
-                    <lg corresp="599-606">
+              <lg xml:id="lIII_42" corresp="599-606">
                         <l n="1381" xml:id="lIII_v1381">« <persName key="Troiani">Troyans</persName> seigneurs, par les
                             estoylles cleres</l>
                         <l n="1382" xml:id="lIII_v1382">Et par aussy celestiaux superes,</l>
@@ -7109,7 +7107,7 @@
                         <l n="1395" xml:id="lIII_v1395">Moult seray ayse, veu le sort où nous sommes</l>
                         <l n="1396" xml:id="lIII_v1396">Sy je perilz par les mains d'aulcuns hommes ! »</l>
                     </lg>
-                    <lg corresp="607-612">
+              <lg xml:id="lIII_43" corresp="607-612">
                         <l n="1397" xml:id="lIII_v1397">Quant il <del resp="copist">l</del>eut dit, se tyra pres de nous</l>
                         <l n="1398" xml:id="lIII_v1398">Et se gecta humblement à genoulx.</l>
                         <l n="1399" xml:id="lIII_v1399">Lors l'exortasmes qu'il nous dye et recite</l>
@@ -7122,7 +7120,7 @@
                         <l n="1405" xml:id="lIII_v1405">Et quant il fut quelque peu asseuré,</l>
                         <l n="1406" xml:id="lIII_v1406">Ainsy nous dist se jeune homme esgaré :</l>
                     </lg>
-                    <lg corresp="613-654">
+              <lg xml:id="lIII_44" corresp="613-654">
                         <l n="1407" xml:id="lIII_v1407">« Je suys de <placeName key="Graecia">Grece</placeName>, c'est chose
                             veritable,</l>
                         <l n="1408" xml:id="lIII_v1408">Et compaignon d'<persName key="Vlixes">Ulixés</persName> miserable,</l>
@@ -7252,7 +7250,7 @@
                         <l n="1511" xml:id="lIII_v1511">J'ayme trop mieulx, sy en avez envye</l>
                         <l n="1512" xml:id="lIII_v1512">Que par vous soyt de moy l'ame ravye ! »</l>
                     </lg>
-                    <lg corresp="655-715">
+              <lg xml:id="lIII_45" corresp="655-715">
                         <l n="1513" xml:id="lIII_v1513">À paine eust dit quant assés tost aprés</l>
                         <l n="1514" xml:id="lIII_v1514">Sur la montaigne nous veismes au plus pres</l>
                         <l n="1515" xml:id="lIII_v1515">Cil <persName key="Polyphemus">Polipheme</persName>, pastour
@@ -7431,7 +7429,7 @@
                         <l n="1633" xml:id="lIII_v1633">Dieu a voulu, moy et mes legions,</l>
                         <l n="1634" xml:id="lIII_v1634">Fere venir dedans voz regions. »</l>
                     </lg>
-                    <lg corresp="716-718">
+              <lg xml:id="lIII_46" corresp="716-718">
                         <l n="1635" xml:id="lIII_v1635">Ainssy contoyt, en celle grande salle,</l>
                         <l n="1636" xml:id="lIII_v1636">Le roy <persName key="Aeneas">Enee</persName> l'entreprise fatalle,</l>
                         <l n="1637" xml:id="lIII_v1637">Tous ses voyages, tous ses maulx et dangiers</l>
@@ -7440,14 +7438,11 @@
                         <l n="1640" xml:id="lIII_v1640">Bien fut le conte digne de grand merveille.</l>
                         <l n="1641" xml:id="lIII_v1641">Finablement se teust et propousa</l>
                         <l n="1642" xml:id="lIII_v1642">De fere fin, atant se repousa.</l>
-                    </lg>
-                    <app n="as">
-                        <lem/>
+                        <l n="1643" xml:id="lIII_v1643"><app n="as">
                         <rdg wit="#A">Cy fine le tiers livre de la translacion d'Eneÿdes. Et
-                            commence le quart, At regina gravi.</rdg>
-                    </app>
-
-                </lg>
+                          commence le quart, At regina gravi.</rdg>
+                      </app></l>
+                    </lg>
             </div>
 
 
@@ -9564,13 +9559,11 @@
                     <l n="1670" xml:id="lIV_v1670">Et lors devint <persName key="Dido">Dydo</persName> transie et blanche.</l>
                     <l n="1671" xml:id="lIV_v1671">Toute challeur d'icelle s'en alla</l>
                     <l n="1672" xml:id="lIV_v1672">Et la vie au les vens s'envolla.</l>
-                </lg>
-                <app n="aa">
-                    <lem/>
+                    <l n="1673" xml:id="lIV_v1673"><app n="aa">
                     <rdg wit="#A">Cy fini le quart livre de la translacion d'Eneÿdes. Et commence le
-                        cinquiesme. Interea medium <persName key="Aeneas">Eneas</persName>.</rdg>
-                </app>
-
+                      cinquiesme. Interea medium <persName key="Aeneas">Eneas</persName>.</rdg>
+                  </app></l>
+                </lg>
             </div>
 
             <div xml:id="lV">
@@ -11446,7 +11439,7 @@
                         </app> de murailles et tours,</l>
                     <l n="1350" xml:id="lV_v1350">Et tous tieux jeux, tieux esbatz et destours</l>
                     <l n="1351" xml:id="lV_v1351">Que cil enfant faisoit et sa cohorte,</l>
-                  <l n="1352" xml:id="lV_v1352">Les <persName key="Albani">Albins</persName> peres en apprindrent la sorte<note>Ces deux vers sont intervertis dans B, nous corrigeons d'après A.</note></l>
+                  <l n="1352" xml:id="lV_v1352">Les <persName key="Albani">Albins</persName> peres en apprindrent la sorte<note n="1">Ces deux vers sont intervertis dans B, nous corrigeons d'après A.</note></l>
                     <l n="1353" xml:id="lV_v1353">Et l'enseignerent à leur posterité,</l>
                     <l n="1354" xml:id="lV_v1354">Dont depuis <placeName key="Roma">Rome</placeName>, la tant noble cité,</l>
                     <l n="1355" xml:id="lV_v1355">A observé l'honneur de ses ancestres,</l>
@@ -12414,14 +12407,11 @@
                         </app> d'espoir et de fiance</l>
                     <l n="1993" xml:id="lV_v1993">Au ciel trescler et en la mer seraine</l>
                     <l n="1994" xml:id="lV_v1994">Où demourras en incognue araine ! »</l>
-                </lg>
-
-                <app n="ex">
-                    <lem/>
+                  <l n="1995" xml:id="lV_v1995"><app n="ex">
                     <rdg wit="#A">Cy finist le cinquiesme livre de la translacion d'Eneÿdes. Et
-                        commence le sixiesme. Sic fatur lachrimans.</rdg>
-                </app>
-
+                      commence le sixiesme. Sic fatur lachrimans.</rdg>
+                  </app></l>
+                </lg>
             </div>
 
             <div xml:id="lVI">
@@ -13944,7 +13934,7 @@
                             <lem>celle</lem>
                             <rdg wit="#A">telle</rdg>
                         </app> payne :</l>
-                  <l n="1155" xml:id="lVI_v1155">Elle a layssé monumant et memoire<note>Nota en marge.</note></l>
+                  <l n="1155" xml:id="lVI_v1155">Elle a layssé monumant et memoire<note n="1">Nota en marge.</note></l>
                     <l n="1156" xml:id="lVI_v1156">Comment on doibt à coup à femme croyre.</l>
                     <l n="1157" xml:id="lVI_v1157">Tu sçays assés <app n="am">
                             <lem>comme</lem>
@@ -15232,12 +15222,10 @@
                     <l n="2116" xml:id="lVI_v2116">Dedans la mer l'ancre consigne et gette,</l>
                     <l n="2117" xml:id="lVI_v2117">Ainsy se tyennent les nefz desoubz ce port</l>
                     <l n="2118" xml:id="lVI_v2118">Qui lors de<add resp="copist">s</add> vens ont gracieux support.</l>
-                    <app n="bs">
-                        <lem/>
-                        <rdg wit="#A">Cy finist le sixiesme livre d'Eneÿdes. Et commence le
-                            septiesme. Tu quoque littoribus</rdg>
-                    </app>
-
+                    <l n="2119" xml:id="lVI_v2119"><app n="bs">
+                    <rdg wit="#A">Cy finist le sixiesme livre d'Eneÿdes. Et commence le
+                      septiesme. Tu quoque littoribus</rdg>
+                  </app></l>    
                 </lg>
             </div>
 
@@ -18076,19 +18064,16 @@
                     <l n="2026" xml:id="lVII_v2026">Faicte et tyssue à la mode lycye ;</l>
                     <l n="2027" xml:id="lVII_v2027">En main portoyt, monlt adestre et bien coincte,</l>
                     <l n="2028" xml:id="lVII_v2028">Une lance de myrte en fiere poincte.</l>
-                </lg>
-                <pb n="90b"/>
-                <app n="dr">
-                    <lem/>
+                    <l n="2029" xml:id="lVII_v2029"><app n="dr">
                     <rdg wit="#A">Cy finist le septiesme livre d'Eneÿdes et commance le huytiesme
-                        livre, Et belli signum. </rdg>
-
-                </app>
-
+                      livre, Et belli signum. </rdg>
+                    
+                  </app>
+                  </l>
+                </lg>
             </div>
-
             <div xml:id="lVIII">
-                <head>Livre VIII</head>
+              <head><pb n="90b"/> Livre VIII</head>
                 <lg xml:id="lVIII_1" corresp="1-8">
                     <pb n="90c"/>
                     <l n="1" xml:id="lVIII_v1">Allors <persName key="Turnus">Turnus</persName>, garny tout alentour</l>
@@ -18897,7 +18882,7 @@
                     <l n="572" xml:id="lVIII_v572">Voyre sy grande que l'on ne pourroyt dyre.</l>
                     <pb n="94c"/>
                     <l n="573" xml:id="lVIII_v573">Brief, par troys foys et par cours repentin</l>
-                  <l n="574" xml:id="lVIII_v574">Il vironna le hault monlt <placeName key="Auentinus (mons)">Aventin</placeName>,<note>Ces deux vers sont intervertis dans B et l'ordre est rétabli par le copiste avec les lettres B et A.</note></l>
+                  <l n="574" xml:id="lVIII_v574">Il vironna le hault monlt <placeName key="Auentinus (mons)">Aventin</placeName>,<note n="1">Ces deux vers sont intervertis dans B et l'ordre est rétabli par le copiste avec les lettres B et A.</note></l>
                     <l n="575" xml:id="lVIII_v575">Troys foys aussy, par payne non petite,</l>
                     <l n="576" xml:id="lVIII_v576">Il essaya le saxee introÿte,</l>
                     <l n="577" xml:id="lVIII_v577">Souventesfoys au val se repousoyt</l>
@@ -23259,12 +23244,10 @@
                     <l n="2092" xml:id="lIX_v2092">Dont grant plaisir et joye leur aporte.</l>
                     <l n="2093" xml:id="lIX_v2093">Cy finist le IXe livre de la translation d'Eneÿdes. Et</l>
                     <l n="2094" xml:id="lIX_v2094">Commance ycy aprés le Xe livre. Intitulé</l>
-
-                </lg>
-                <app n="ax">
-                    <lem/>
+                    <l n="2095" xml:id="lIX_v2095"><app n="ax">
                     <rdg wit="#A">Cy commence le dixiesme livre d'Eneÿdes. Panditur interea</rdg>
-                </app>
+                  </app></l>
+                </lg>
             </div>
 
             <div xml:id="lX">
@@ -26091,7 +26074,7 @@
                     <l n="2158" xml:id="lX_v2158">Et ses armeures, tant qu'il en eust besoing,</l>
                     <l n="2159" xml:id="lX_v2159">En ung beau pre pour l'eure repousoyent,</l>
                     <l n="2160" xml:id="lX_v2160">Ses serviteurs esleuz auprés pousoyent.</l>
-                  <l n="2161" xml:id="lX_v2161">Il, tout malade et souvant allenant<note>DMF haleiner ; ispe aeger anhelans X, 837 ; Vérard remplace par anheloit</note>,</l>
+                  <l n="2161" xml:id="lX_v2161">Il, tout malade et souvant allenant<note n="1">DMF haleiner ; ispe aeger anhelans X, 837 ; Vérard remplace par anheloit</note>,</l>
                     <l n="2162" xml:id="lX_v2162">Se soustenoyt contre ung boys advenant,</l>
                     <l n="2163" xml:id="lX_v2163">Frottant parfoys au ses mains sa poytrayne</l>
                     <l n="2164" xml:id="lX_v2164">Toute de poil et de grand barbe playne.</l>
@@ -26371,22 +26354,19 @@
                     <l n="2364" xml:id="lX_v2364">Dedans sa gorge, dont mort à terre cheut</l>
                     <l n="2365" xml:id="lX_v2365">Et rendit l'ame avecquec habondance</l>
                     <l n="2366" xml:id="lX_v2366">De sang espars qui ou harnoys s'avance.</l>
+                    <l n="2367" xml:id="lX_v2367"><app n="bd">
+                    <rdg wit="#A">Cy finist le dixiesme livre de la translation d'Eneÿdes et
+                      commance le XI<hi rend="sup">e</hi>, Intitulé <choice>
+                        <sic>O ceatum</sic>
+                        <corr source="#A">Oceanum</corr>
+                      </choice> interea</rdg>
+                  </app></l>
                 </lg>
-                <pb n="131b"/>
-                <app n="bd">
-                    <lem/>
-                    <rdg wit="#A"><l n="2367" xml:id="lX_v2367">Cy finist le dixiesme livre de la translation d'Eneÿdes et
-                            commance le XI<hi rend="sup">e</hi>, Intitulé <choice>
-                                <sic>O ceatum</sic>
-                                <corr source="#A">Oceanum</corr>
-                            </choice> interea</l></rdg>
-                </app>
-
-
-            </div>
+                </div>
 
             <div xml:id="lXI">
-                <head>Livre XI</head>
+              <pb n="131b"/>
+              <head>Livre XI</head>
                 <lg xml:id="lXI_1" corresp="1-13">
                     <pb n="131c"/>
                     <l n="1" xml:id="lXI_v1">Pendant ce temps, aprés la nuyt passee</l>
@@ -28109,7 +28089,7 @@
                     <l n="1362" xml:id="lXI_v1362">Ha envoyé certayne gent nommee</l>
                     <l n="1363" xml:id="lXI_v1363">Aux champs courir en leurs armes legieres</l>
                     <l n="1364" xml:id="lXI_v1364">Pour esbaÿr les legions premieres,</l>
-                  <l n="1365" xml:id="lXI_v1365">Et il à part, au desployé ensseigne,<note>ipse arduat montis / per deserta iugo superans aduentat ad urbem (XI, 513-514)</note></l>
+                  <l n="1365" xml:id="lXI_v1365">Et il à part, au desployé ensseigne,<note n="1">ipse arduat montis / per deserta iugo superans aduentat ad urbem (XI, 513-514)</note></l>
                     <l n="1366" xml:id="lXI_v1366">Avec sa gent s'en vient par la montaygne,</l>
                     <l n="1367" xml:id="lXI_v1367">Cuydant tost prandre à l'emblee et sursault,</l>
                     <l n="1368" xml:id="lXI_v1368">Au son armee, ville et cyté d'assault.</l>
@@ -29387,7 +29367,7 @@
                     <l n="2304" xml:id="lXI_v2304">Au resister par fureur provoquees</l>
                     <l n="2305" xml:id="lXI_v2305">(Car à ce fayre les induyt et convye</l>
                     <l n="2306" xml:id="lXI_v2306">L'amour qu'elle ont à leur paÿs pleuvye),</l>
-                  <l n="2307" xml:id="lXI_v2307">Des haults spectacles envoyent dars robustes<note>ipsae de muris summo certamine matres (XI, 891) ; spectacle calque de speculis (XI, 877) ?</note></l>
+                  <l n="2307" xml:id="lXI_v2307">Des haults spectacles envoyent dars robustes<note n="2">ipsae de muris summo certamine matres (XI, 891) ; spectacle calque de speculis (XI, 877) ?</note></l>
                     <l n="2308" xml:id="lXI_v2308">Contre ennemys et grans perches et fustes.</l>
                     <l n="2309" xml:id="lXI_v2309">Monlt ont desir leurs contrayres deffayre</l>
                     <l n="2310" xml:id="lXI_v2310">Comme elles ont à <persName key="Camilla">Camylle</persName> veu fayre,</l>
@@ -32351,7 +32331,7 @@
                     <l n="2187" xml:id="lXII_v2187">En luy disant : « j'ay bien mort deservye,</l>
                     <l n="2188" xml:id="lXII_v2188">Ja ne te prie de proroger ma vye.</l>
                     <l n="2189" xml:id="lXII_v2189">Use doncques selon ta volunté</l>
-                  <l n="2190" xml:id="lXII_v2190">Car je confesse estre par toy dompté.<note>Ces deux derniers vers sont intervertis dans A.</note></l>
+                  <l n="2190" xml:id="lXII_v2190">Car je confesse estre par toy dompté.<note n="1">Ces deux derniers vers sont intervertis dans A.</note></l>
                     <l n="2191" xml:id="lXII_v2191">Mays toutesfoys, sy quelque peu toucher</l>
                     <l n="2192" xml:id="lXII_v2192">Te peult la cure de mon pere trescher,</l>
                     <l n="2193" xml:id="lXII_v2193">Et sy jamez <persName key="Anchises">Anchisés</persName> le tyen pere</l>
@@ -32442,9 +32422,9 @@
         <back>
             <div type="index">
                 <head>INDEX</head>
-                <div>
+              <div xml:id="idx_persons">
                     <head>Index des personnes</head>
-                    <list type="index" xml:id="idx_persons">
+                    <list type="index">
                         <item xml:id="Abaris">Abaris : <ref target="#lIX_v894">IX, 894</ref></item>
                         <item xml:id="Abas (Etruscus)">Abas (Etruscus) : <ref target="#lX_v441">X, 441</ref>,  <ref target="#lX_v1092">X, 1092</ref></item>
                         <item xml:id="Abas (Graecus)">Abas (Graecus) : <ref target="#lIII_v682">III, 682</ref></item>
@@ -33206,9 +33186,9 @@
                         <item xml:id="Zephyrus">Zephyrus : <ref target="#lI_v327">I, 327</ref>,  <ref target="#lIII_v282">III, 282</ref></item>
                     </list>
                 </div>
-                <div>
+              <div xml:id="idx_places">
                     <head>Index des lieux</head>
-                    <list type="index" xml:id="idx_places">
+                    <list type="index">
                         <item xml:id="Abella">Abella : <ref target="#lVII_v1854">VII, 1854</ref></item>
                         <item xml:id="Acesta">Acesta : <ref target="#lV_v1636">V, 1636</ref></item>
                         <item xml:id="Acheron">Acheron : <ref target="#lV_v235">V, 235</ref>,  <ref target="#lVI_v243">VI, 243</ref>,  <ref target="#lVI_v645">VI, 645</ref>,  <ref target="#lVII_v214">VII, 214</ref>,  <ref target="#lVII_v780">VII, 780</ref>,  <ref target="#lVII_v1419">VII, 1419</ref>,  <ref target="#lXI_v61">XI, 61</ref></item>
